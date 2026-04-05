@@ -1,0 +1,43 @@
+name: 每日抓取独立开发者项目
+
+on:
+  schedule:
+    # 每天北京时间早上 8 点（UTC 0:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 抓取最近 7 天的项目
+        run: python fetch_indie_projects.py 7
+
+      - name: 检查是否有变更
+        id: check
+        run: |
+          if git diff --quiet data/articles.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交并推送
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          git commit -m "auto: 更新独立开发者项目周报 $(date +%Y-%m-%d)"
+          git push
