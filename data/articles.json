@@ -1,5 +1,135 @@
 [
   {
+    "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
+    "summary": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user beha",
+    "content": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior. The article AI chatbot traffic grows seven times faster than social media but still trails by a factor of four appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/",
+    "id": "news-021"
+  },
+  {
+    "title": "AI benchmarks systematically ignore how humans disagree, Google study finds",
+    "summary": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just ",
+    "content": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself. The article AI benchmarks systematically ignore how humans disagree, Google study finds appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-benchmarks-systematically-ignore-how-humans-disagree-google-study-finds/",
+    "id": "news-020"
+  },
+  {
+    "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
+    "summary": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-",
+    "content": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours. The article AI offensive cyber capabilities are doubling every six months, safety researchers find appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/",
+    "id": "news-019"
+  },
+  {
+    "title": "Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development",
+    "summary": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual ",
+    "content": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers and the open-source community. The article Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/",
+    "id": "news-018"
+  },
+  {
+    "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
+    "summary": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes. The article The New ",
+    "content": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes. The article The New York Times drops freelancer whose AI tool copied from an existing book review appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/",
+    "id": "news-017"
+  },
+  {
+    "title": "LLM inference load balancer optimized for AMD Radeon VII GPUs",
+    "summary": "Article URL: https://github.com/janit/viiwork Comments URL: https://news.ycombinator.com/item?id=47652266 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/janit/viiwork Comments URL: https://news.ycombinator.com/item?id=47652266 Points: 1 # Comments: 0",
+    "author": "velmu",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/janit/viiwork",
+    "id": "news-016"
+  },
+  {
+    "title": "Show HN: Sigil – A new programming language for AI agents",
+    "summary": "I've been working on a new programming language for AI agents. I would love your input on what makes programming languages good for AI agents, especially syntax, compiler, and tooling that could help ",
+    "content": "I've been working on a new programming language for AI agents. I would love your input on what makes programming languages good for AI agents, especially syntax, compiler, and tooling that could help AI agents write code.What makes Sigil good for coding agents?I've turned conventions into compiler rules whenever possible. The compiler owns the canonical printer and every AST has one accepted textual representation. For almost every syntax feature I tried to save tokens.Order and naming conventio",
+    "author": "inerte",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47652386",
+    "id": "news-015"
+  },
+  {
+    "title": "Show HN: A branching notebook runtime for AI and humans(written in Rust)",
+    "summary": "Article URL: https://github.com/tinelabs/tine Comments URL: https://news.ycombinator.com/item?id=47652454 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/tinelabs/tine Comments URL: https://news.ycombinator.com/item?id=47652454 Points: 1 # Comments: 0",
+    "author": "thesidsat23",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tinelabs/tine",
+    "id": "news-014"
+  },
+  {
+    "title": "LMMs-Lab Writer: AI-native LaTeX editor. Git built-in, open source",
+    "summary": "Article URL: https://writer.lmms-lab.com/ Comments URL: https://news.ycombinator.com/item?id=47652488 Points: 1 # Comments: 0",
+    "content": "Article URL: https://writer.lmms-lab.com/ Comments URL: https://news.ycombinator.com/item?id=47652488 Points: 1 # Comments: 0",
+    "author": "m_kos",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://writer.lmms-lab.com/",
+    "id": "news-013"
+  },
+  {
+    "title": "The AI Is Not Learning from You",
+    "summary": "Article URL: https://jasonvella.com/posts/aiisnotlearningfromyou/ Comments URL: https://news.ycombinator.com/item?id=47652515 Points: 1 # Comments: 0",
+    "content": "Article URL: https://jasonvella.com/posts/aiisnotlearningfromyou/ Comments URL: https://news.ycombinator.com/item?id=47652515 Points: 1 # Comments: 0",
+    "author": "gpi",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jasonvella.com/posts/aiisnotlearningfromyou/",
+    "id": "news-012"
+  },
+  {
     "title": "独立开发者项目周报 · 2026-04-05",
     "summary": "中国独立开发者项目列表 2026-04-05 更新，新增 20 个项目：Word Counter - 字数统计工具、Gemini Watermark remover、x downloader、Clarioxis、页面直达等。",
     "content": "中国独立开发者项目列表 2026-04-05 更新，共新增 1814 个项目。\n\n【Word Counter - 字数统计工具】 在线字数统计工具，可实时统计文本的字数、字符数、句子数等信息\n  开发者: 未知开发者 | 链接: https://www.primenotepad.com/tools/word-counter\n\n【Gemini Watermark remover】 去除Gemini App生成的AI图片水印\n  开发者: syakadou | 链接: https://gemini-watermark-remover.net/\n\n【x downloader】 解析推特（X）上的AI视频及各种视频链接，支持一键下载多种清晰度视频。\n  开发者: xiehuateng | 链接: https://x-video-download.net\n\n【Clarioxis】 AI 教育智能体工具，打造“资料分析+AI视频讲解+随堂练习+智能复盘”的一站式学习闭环\n  开发者: jjk340 | 链接: https://clarioxis.com\n\n【页面直达】 浏览器插件，可以自动跳过微信安全确认、CSDN/掘金外链页及 X、Facebook、Threads 等中间跳转页，直达对应链接，提升网站访问速度\n  开发者: my19940202(上海) | 链接: https://chromewebstore.google.com/detail/%E5%85%8D%E8%B7%B3%E7%9B%B4%E8%BE%BE/fpljgabmnoghfieaoehmcjgfelboedda\n\n【Lyria 3 Pro】 基于Google DeepMind Lyria 3 Pro 模型的 AI 音乐生成器，包含人声、歌词和伴奏\n  开发者: IanChen | 链接: https://lyria3pro.pro\n\n【IndieAI Directory】 收录独立开发者的AI Saas\n  开发者: kristoff | 链接: https://indieai.directory/\n\n【Image To 3D】 将图像转换为 3D 模型\n  开发者: qqxufo | 链接: https://imageto3d.cc/?source=github\n\n【AI Family Photo Generator】 在线工具，可从单独的照片创建逼真的家庭照片和全家福。上传家庭成员的个人照片或描述您想要的肖像，该工具将生成可下载、分享、打印或保存的自然家庭图像。\n  开发者: vampirewy | 链接: https://aifamilyphotogenerator.org\n\n【Anycoding】 CLI-First AI 编程工作台，把 Claude Code、Codex、Cursor、Gemini 和 OpenCode等 CLI统一到桌面/Web 界面中，用更少切换完成多会话开发。\n  开发者: luzedong | 链接: https://github.com/luzedong/anycoding\n\n【Mee Manga Translator】 基于 AI 的漫画翻译工具，支持将日漫、韩漫等图片一键翻译成目标语言，并自动保留原有排版与气泡位置，实现自然、可读性高的漫画翻译体验\n  开发者: jacobmillerv | 链接: https://mangatranslator.me/\n\n【DevIntro 2.0】 在 72 小时内找到前 1,000 个高意向用户，用真实信号完成冷启动\n  开发者: 士季(上海） | 链接: https://www.intent-leads.com\n\n【Nano Banana 2 Pro】 专业 AI 图像编辑器，拥有无瑕的文字渲染能力，使用完美的排版、原生4K分辨率和100多种语言支持来编辑和增强图像\n  开发者: azt1112 | 链接: https://nanobananapro2.pro/\n\n【MarkdownToWord.pro】 在线 Markdown 转 Word/PDF/HTML 工具，支持 LaTeX 公式、Mermaid 图表、GFM 语法，浏览器本地处理，无需注册\n  开发者: daipeng | 链接: https://markdowntoword.pro\n\n【MarkdownConverter.pro】 双向 Markdown 文档格式转换工具，支持 Markdown 与 PDF/Word/HTML 互转，内置 LaTeX 渲染和代码高亮，支持批量处理和 API 调用\n  开发者: daipeng | 链接: https://markdownconverter.pro\n\n【Dory】 现代化、AI 原生的数据工作台，支持 MySQL、Postgres、SQLite、Clickhouse 等，Dbeaver / Navicat 替换\n  开发者: jeffreys-cat | 链接: https://github.com/dorylab/dory\n\n【TesLyr】 基于网页的实时同步歌词显示，适用于特斯拉触摸屏，可在驾驶时使用，支持几乎所有音乐源，包括原生 Spotify、Apple Music、Tidal、USB 驱动器和蓝牙音频。\n  开发者: Locke | 链接: https://teslyr.com\n\n【UNI-1】 Luma AI 的统一推理与视觉想象模型，从一个逻辑大脑中生长出“心灵之眼”\n  开发者: businesszh | 链接: https://uni-1.org/\n\n【ThumbnailMaker】 帮助视频创作者生成高点击率的封面图\n  开发者: Windyan(深圳） | 链接: https://thumbnail-maker.com\n\n【IdeaFit】 帮你找到真正符合你的预算、时间和技能的小企业创业点子\n  开发者: 小鹿(旅居中) | 链接: https://smallbusinessideas.co\n",

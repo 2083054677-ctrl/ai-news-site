@@ -1,0 +1,43 @@
+name: 每2小时抓取 AI 最新资讯
+
+on:
+  schedule:
+    # 每2小时运行一次（UTC: 0,2,4,6,8,10,12,14,16,18,20,22）
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # 手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-ai-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 抓取 AI 新闻
+        run: python fetch_ai_news.py
+
+      - name: 检查变更
+        id: check
+        run: |
+          if git diff --quiet data/articles.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交并推送
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          git commit -m "auto: AI 资讯更新 $(date +%Y-%m-%dT%H:%M)"
+          git push
