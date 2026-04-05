@@ -130,7 +130,7 @@
 
   function initTheme() {
     const s = localStorage.getItem('theme');
-    document.documentElement.dataset.theme = s || 'dark';
+    document.documentElement.dataset.theme = s || 'light';
   }
 
   function toggleTheme() {
