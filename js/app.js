@@ -1,87 +1,72 @@
 /* ═══════════════════════════════════════════════════════════
    AI Insight Daily — App Logic
    ═══════════════════════════════════════════════════════════ */
-
 (function () {
   'use strict';
 
-  // ── State ──
   let articles = [];
   let activeTag = 'all';
   let searchQuery = '';
 
-  // ── Tag color mapping ──
   const TAG_COLORS = {
-    'AI': 'blue', '大模型': 'blue', 'LLM': 'blue', 'GPT': 'blue', 'Claude': 'blue',
-    '研究': 'purple', '论文': 'purple', '学术': 'purple', 'Research': 'purple',
+    'AI': 'blue', '大模型': 'purple', 'LLM': 'purple', 'GPT': 'purple', 'Claude': 'purple',
+    '研究': 'blue', '论文': 'blue', '学术': 'blue', 'Research': 'blue',
     '产品': 'orange', '发布': 'orange', '更新': 'orange', 'Product': 'orange',
     '开源': 'green', 'GitHub': 'green', 'Open Source': 'green',
     '行业': 'red', '商业': 'red', '融资': 'red', 'Industry': 'red',
   };
 
-  function getTagColor(tag) {
-    return TAG_COLORS[tag] || 'gray';
-  }
+  function getTagColor(tag) { return TAG_COLORS[tag] || 'gray'; }
 
-  // ── Load Data ──
   async function loadArticles() {
     try {
-      const res = await fetch('data/articles.json?t=' + Date.now());
+      // 尝试多个路径，兼容本地和 GitHub Pages
+      let res;
+      const paths = ['data/articles.json', './data/articles.json', '/ai-news-site/data/articles.json'];
+      for (const p of paths) {
+        try {
+          res = await fetch(p + '?t=' + Date.now());
+          if (res.ok) break;
+        } catch (_) {}
+      }
+      if (!res || !res.ok) throw new Error('All paths failed');
       articles = await res.json();
       articles.sort((a, b) => new Date(b.date) - new Date(a.date));
       renderAll();
     } catch (e) {
-      console.error('Failed to load articles:', e);
+      console.error('Load failed:', e);
       document.getElementById('cardGrid').innerHTML =
-        '<p style="text-align:center;color:var(--text-tertiary);padding:40px;">加载失败，请检查 data/articles.json</p>';
+        '<p style="text-align:center;color:var(--text-3);padding:60px;">数据加载失败</p>';
     }
   }
 
-  // ── Render Everything ──
-  function renderAll() {
-    renderStats();
-    renderTags();
-    renderCards();
-  }
+  function renderAll() { renderStats(); renderTags(); renderCards(); }
 
-  // ── Stats ──
   function renderStats() {
     document.getElementById('statTotal').textContent = articles.length;
-
-    // This week count
     const now = new Date();
-    const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
-    const weekCount = articles.filter(a => new Date(a.date) >= weekAgo).length;
-    document.getElementById('statWeek').textContent = weekCount;
-
-    // Unique tags
+    const weekAgo = new Date(now.getTime() - 7 * 864e5);
+    document.getElementById('statWeek').textContent = articles.filter(a => new Date(a.date) >= weekAgo).length;
     const allTags = new Set();
     articles.forEach(a => (a.tags || []).forEach(t => allTags.add(t)));
     document.getElementById('statTags').textContent = allTags.size;
-
-    // Latest date
     if (articles.length > 0) {
-      const latest = articles[0].date;
-      document.getElementById('statLatest').textContent = formatDate(latest);
+      document.getElementById('statLatest').textContent = fmtDate(articles[0].date);
     }
   }
 
-  // ── Tags ──
   function renderTags() {
     const allTags = new Set();
     articles.forEach(a => (a.tags || []).forEach(t => allTags.add(t)));
-
     const bar = document.getElementById('filterBar');
     bar.innerHTML = '<button class="tag-btn active" data-tag="all">全部</button>';
     allTags.forEach(tag => {
-      const btn = document.createElement('button');
-      btn.className = 'tag-btn';
-      btn.dataset.tag = tag;
-      btn.textContent = tag;
-      bar.appendChild(btn);
+      const b = document.createElement('button');
+      b.className = 'tag-btn';
+      b.dataset.tag = tag;
+      b.textContent = tag;
+      bar.appendChild(b);
     });
-
-    // Bind clicks
     bar.querySelectorAll('.tag-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         activeTag = btn.dataset.tag;
@@ -92,73 +77,58 @@
     });
   }
 
-  // ── Filter ──
-  function getFilteredArticles() {
+  function getFiltered() {
     return articles.filter(a => {
-      const matchTag = activeTag === 'all' || (a.tags || []).includes(activeTag);
-      const matchSearch = !searchQuery ||
+      const mt = activeTag === 'all' || (a.tags || []).includes(activeTag);
+      const ms = !searchQuery ||
         a.title.toLowerCase().includes(searchQuery) ||
         a.summary.toLowerCase().includes(searchQuery) ||
         (a.author || '').toLowerCase().includes(searchQuery) ||
         (a.tags || []).some(t => t.toLowerCase().includes(searchQuery));
-      return matchTag && matchSearch;
+      return mt && ms;
     });
   }
 
-  // ── Render Cards ──
   function renderCards() {
-    const filtered = getFilteredArticles();
+    const list = getFiltered();
     const grid = document.getElementById('cardGrid');
     const empty = document.getElementById('emptyState');
-
-    if (filtered.length === 0) {
-      grid.innerHTML = '';
-      empty.style.display = 'block';
-      return;
-    }
+    if (!list.length) { grid.innerHTML = ''; empty.style.display = 'block'; return; }
     empty.style.display = 'none';
-
-    grid.innerHTML = filtered.map((a, i) => `
-      <article class="article-card" data-id="${a.id}" style="animation-delay: ${i * 0.05}s">
+    grid.innerHTML = list.map(a => `
+      <article class="article-card" data-id="${a.id}">
         <div class="card-tags">
-          ${(a.tags || []).map(t => `<span class="card-tag" data-color="${getTagColor(t)}">${t}</span>`).join('')}
+          ${(a.tags || []).map(t => `<span class="card-tag" data-color="${getTagColor(t)}">${esc(t)}</span>`).join('')}
         </div>
-        <h3 class="card-title">${escapeHtml(a.title)}</h3>
-        <p class="card-summary">${escapeHtml(a.summary)}</p>
+        <h3 class="card-title">${esc(a.title)}</h3>
+        <p class="card-summary">${esc(a.summary)}</p>
         <div class="card-footer">
-          <span class="card-author">${escapeHtml(a.author || '匿名')}</span>
-          <span class="card-date">${formatDate(a.date)}</span>
+          <span class="card-author">${esc(a.author || '匿名')}</span>
+          <span class="card-date">${fmtDate(a.date)}</span>
         </div>
       </article>
     `).join('');
-
-    // Bind card clicks
-    grid.querySelectorAll('.article-card').forEach(card => {
-      card.addEventListener('click', () => {
-        const article = articles.find(a => a.id === card.dataset.id);
-        if (article) openModal(article);
+    grid.querySelectorAll('.article-card').forEach(c => {
+      c.addEventListener('click', () => {
+        const a = articles.find(x => x.id === c.dataset.id);
+        if (a) openModal(a);
       });
     });
   }
 
-  // ── Modal ──
-  function openModal(article) {
-    document.getElementById('modalTitle').textContent = article.title;
+  function openModal(a) {
+    document.getElementById('modalTitle').textContent = a.title;
     document.getElementById('modalMeta').innerHTML =
-      `<span>${article.author || '匿名'}</span><span>${formatDate(article.date)}</span>` +
-      (article.source ? `<a href="${escapeHtml(article.source)}" target="_blank" rel="noopener" style="color:var(--accent)">原文链接</a>` : '');
+      `<span>${esc(a.author || '匿名')}</span><span>${fmtDate(a.date)}</span>` +
+      (a.source ? `<a href="${esc(a.source)}" target="_blank" rel="noopener">查看来源</a>` : '');
     document.getElementById('modalTags').innerHTML =
-      (article.tags || []).map(t => `<span class="card-tag" data-color="${getTagColor(t)}">${t}</span>`).join('');
-
-    // Render content: support simple paragraph breaks
-    const content = (article.content || article.summary || '').replace(/\n/g, '\n\n');
-    document.getElementById('modalBody').innerHTML = content.split('\n\n')
+      (a.tags || []).map(t => `<span class="card-tag" data-color="${getTagColor(t)}">${esc(t)}</span>`).join('');
+    const txt = (a.content || a.summary || '');
+    document.getElementById('modalBody').innerHTML = txt.split(/\n+/)
       .filter(p => p.trim())
-      .map(p => `<p>${escapeHtml(p.trim())}</p>`)
+      .map(p => `<p>${esc(p.trim())}</p>`)
       .join('');
-
-    const overlay = document.getElementById('modalOverlay');
-    overlay.classList.add('active');
+    document.getElementById('modalOverlay').classList.add('active');
     document.body.style.overflow = 'hidden';
   }
 
@@ -167,66 +137,42 @@
     document.body.style.overflow = '';
   }
 
-  // ── Theme ──
   function initTheme() {
-    const saved = localStorage.getItem('theme');
-    const prefer = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-    document.documentElement.dataset.theme = saved || prefer;
+    const s = localStorage.getItem('theme');
+    document.documentElement.dataset.theme = s || 'light';
   }
 
   function toggleTheme() {
-    const current = document.documentElement.dataset.theme;
-    const next = current === 'dark' ? 'light' : 'dark';
-    document.documentElement.dataset.theme = next;
-    localStorage.setItem('theme', next);
+    const n = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = n;
+    localStorage.setItem('theme', n);
   }
 
-  // ── Helpers ──
-  function formatDate(dateStr) {
-    if (!dateStr) return '—';
-    const d = new Date(dateStr);
-    const mm = String(d.getMonth() + 1).padStart(2, '0');
-    const dd = String(d.getDate()).padStart(2, '0');
-    return `${mm}-${dd}`;
+  function fmtDate(d) {
+    if (!d) return '—';
+    const o = new Date(d);
+    return `${o.getFullYear()}-${String(o.getMonth()+1).padStart(2,'0')}-${String(o.getDate()).padStart(2,'0')}`;
   }
 
-  function escapeHtml(str) {
-    const div = document.createElement('div');
-    div.textContent = str;
-    return div.innerHTML;
+  function esc(s) {
+    const d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
   }
 
-  // ── Event Bindings ──
-  function bindEvents() {
-    // Search
-    document.getElementById('searchInput').addEventListener('input', (e) => {
+  function bind() {
+    document.getElementById('searchInput').addEventListener('input', e => {
       searchQuery = e.target.value.trim().toLowerCase();
       renderCards();
     });
-
-    // Theme toggle
     document.getElementById('themeToggle').addEventListener('click', toggleTheme);
-
-    // Modal close
     document.getElementById('modalClose').addEventListener('click', closeModal);
-    document.getElementById('modalOverlay').addEventListener('click', (e) => {
+    document.getElementById('modalOverlay').addEventListener('click', e => {
       if (e.target === e.currentTarget) closeModal();
     });
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') closeModal();
-    });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
   }
 
-  // ── Init ──
-  function init() {
-    initTheme();
-    bindEvents();
-    loadArticles();
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
-  }
+  function init() { initTheme(); bind(); loadArticles(); }
+  document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', init) : init();
 })();
