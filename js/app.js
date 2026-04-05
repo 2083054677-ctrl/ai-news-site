@@ -170,8 +170,8 @@
   // ── Theme ──
   function initTheme() {
     const saved = localStorage.getItem('theme');
-    const prefer = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-    document.documentElement.dataset.theme = saved || prefer;
+    // 默认深色（fluid.glass 风格）
+    document.documentElement.dataset.theme = saved || 'dark';
   }
 
   function toggleTheme() {
