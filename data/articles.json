@@ -1,5 +1,70 @@
 [
   {
+    "title": "Securing AI infrastructure to prevent backdoors and sabotage",
+    "summary": "Article URL: https://www.the-substrate.net/p/securing-ai-infrastructure-to-prevent Comments URL: https://news.ycombinator.com/item?id=47653133 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.the-substrate.net/p/securing-ai-infrastructure-to-prevent Comments URL: https://news.ycombinator.com/item?id=47653133 Points: 2 # Comments: 0",
+    "author": "erwald",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.the-substrate.net/p/securing-ai-infrastructure-to-prevent",
+    "id": "news-026"
+  },
+  {
+    "title": "Chinese Chip Firms Hit Record High Revenue Driven by the AI Boom and U.S. Curbs",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html Comments URL: https://news.ycombinator.com/item?id=47653175 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html Comments URL: https://news.ycombinator.com/item?id=47653175 Points: 1 # Comments: 0",
+    "author": "karakoram",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
+    "id": "news-025"
+  },
+  {
+    "title": "/Render – 3D Model Skill for Claude Code",
+    "summary": "Article URL: https://github.com/mfranzon/render Comments URL: https://news.ycombinator.com/item?id=47653193 Points: 4 # Comments: 0",
+    "content": "Article URL: https://github.com/mfranzon/render Comments URL: https://news.ycombinator.com/item?id=47653193 Points: 4 # Comments: 0",
+    "author": "mfranzon",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mfranzon/render",
+    "id": "news-024"
+  },
+  {
+    "title": "Track what top investors own (13F) and why they own it (10K AI Analysis)",
+    "summary": "Article URL: https://superinvestorsbelike.com Comments URL: https://news.ycombinator.com/item?id=47653394 Points: 3 # Comments: 0",
+    "content": "Article URL: https://superinvestorsbelike.com Comments URL: https://news.ycombinator.com/item?id=47653394 Points: 3 # Comments: 0",
+    "author": "oodelally",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://superinvestorsbelike.com",
+    "id": "news-023"
+  },
+  {
+    "title": "Musician says AI company is cloning her music, filing claims against her",
+    "summary": "Article URL: https://twitter.com/i/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/i/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 1 # Comments: 0",
+    "author": "lando2319",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/i/status/2040577536136974444",
+    "id": "news-022"
+  },
+  {
     "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
     "summary": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user beha",
     "content": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior. The article AI chatbot traffic grows seven times faster than social media but still trails by a factor of four appeared first on The Decoder.",
