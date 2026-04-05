@@ -15,15 +15,15 @@
   --grey: #212325;
   --white: #ffffff;
 
-  /* 语义色 */
+  /* 语义色 — fallback + color-mix */
   --bg: var(--cream);
   --bg-glass: linear-gradient(180deg, rgba(255,255,255,0.45), rgba(255,255,255,0.25));
   --bg-glass-solid: rgba(255, 255, 255, 0.5);
   --text-1: var(--grey);
-  --text-2: color-mix(in srgb, var(--grey) 60%, transparent);
-  --text-3: color-mix(in srgb, var(--grey) 35%, transparent);
-  --border: color-mix(in srgb, var(--grey) 12%, transparent);
-  --border-hover: color-mix(in srgb, var(--grey) 30%, transparent);
+  --text-2: rgba(33, 35, 37, 0.6);
+  --text-3: rgba(33, 35, 37, 0.35);
+  --border: rgba(33, 35, 37, 0.12);
+  --border-hover: rgba(33, 35, 37, 0.3);
   --blur: 2rem;
   --radius: 1.25rem;
   --radius-sm: 0.75rem;
@@ -35,10 +35,10 @@
   --bg-glass: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.03));
   --bg-glass-solid: rgba(255, 255, 255, 0.04);
   --text-1: var(--cream);
-  --text-2: color-mix(in srgb, var(--cream) 55%, transparent);
-  --text-3: color-mix(in srgb, var(--cream) 30%, transparent);
-  --border: color-mix(in srgb, var(--white) 8%, transparent);
-  --border-hover: color-mix(in srgb, var(--white) 18%, transparent);
+  --text-2: rgba(243, 240, 236, 0.55);
+  --text-3: rgba(243, 240, 236, 0.3);
+  --border: rgba(255, 255, 255, 0.08);
+  --border-hover: rgba(255, 255, 255, 0.18);
 }
 
 /* ── Reset ── */
@@ -208,7 +208,7 @@ body {
 }
 
 [data-theme="light"] .hero-accent {
-  color: color-mix(in srgb, var(--grey) 50%, transparent);
+  color: rgba(33, 35, 37, 0.5);
 }
 
 .hero-subtitle {
@@ -426,7 +426,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: 200;
-  background: color-mix(in srgb, var(--charcoal) 50%, transparent);
+  background: rgba(11, 16, 18, 0.5);
   backdrop-filter: blur(1.5rem);
   -webkit-backdrop-filter: blur(1.5rem);
   display: flex;
@@ -568,4 +568,4 @@ body {
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--taupe); border-radius: 2px; }
 
-::selection { background: color-mix(in srgb, var(--taupe) 30%, transparent); }
+::selection { background: rgba(212, 206, 198, 0.3); }

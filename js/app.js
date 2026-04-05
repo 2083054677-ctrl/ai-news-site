@@ -20,7 +20,16 @@
 
   async function loadArticles() {
     try {
-      const res = await fetch('data/articles.json?t=' + Date.now());
+      // 尝试多个路径，兼容本地和 GitHub Pages
+      let res;
+      const paths = ['data/articles.json', './data/articles.json', '/ai-news-site/data/articles.json'];
+      for (const p of paths) {
+        try {
+          res = await fetch(p + '?t=' + Date.now());
+          if (res.ok) break;
+        } catch (_) {}
+      }
+      if (!res || !res.ok) throw new Error('All paths failed');
       articles = await res.json();
       articles.sort((a, b) => new Date(b.date) - new Date(a.date));
       renderAll();
