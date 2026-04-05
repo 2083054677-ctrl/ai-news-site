@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: ACE – A dynamic benchmark measuring the cost to break AI agents",
+    "summary": "We built Adversarial Cost to Exploit (ACE), a benchmark that measures the token expenditure an autonomous adversary must invest to breach an LLM agent. Instead of binary pass/fail, ACE quantifies adve",
+    "content": "We built Adversarial Cost to Exploit (ACE), a benchmark that measures the token expenditure an autonomous adversary must invest to breach an LLM agent. Instead of binary pass/fail, ACE quantifies adversarial effort in dollars, enabling game-theoretic analysis of when an attack is economically rational.We tested six budget-tier models (Gemini Flash-Lite, DeepSeek v3.2, Mistral Small 4, Grok 4.1 Fast, GPT-5.4 Nano, Claude Haiku 4.5) with identical agent configs and an autonomous red-teaming attack",
+    "author": "zachdotai",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fabraix.com/blog/adversarial-cost-to-exploit",
+    "id": "news-031"
+  },
+  {
+    "title": "Show HN: See How You Talk to Claude Code",
+    "summary": "I thought it would be fun to see how I have been feeling while talking to claude code.https://github.com/instavm/claude-cloudI welcome contributions and suggestions.p.s. Nothing is uploaded. All local",
+    "content": "I thought it would be fun to see how I have been feeling while talking to claude code.https://github.com/instavm/claude-cloudI welcome contributions and suggestions.p.s. Nothing is uploaded. All local. Comments URL: https://news.ycombinator.com/item?id=47654398 Points: 3 # Comments: 0",
+    "author": "mkagenius",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://prophetic-tacky-bison.instavm.site/",
+    "id": "news-030"
+  },
+  {
+    "title": "Show HN: TermHub – Open-source terminal control gateway built for AI Agents",
+    "summary": "Article URL: https://github.com/duo121/termhub Comments URL: https://news.ycombinator.com/item?id=47654495 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/duo121/termhub Comments URL: https://news.ycombinator.com/item?id=47654495 Points: 1 # Comments: 1",
+    "author": "duo121",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/duo121/termhub",
+    "id": "news-029"
+  },
+  {
+    "title": "Show HN: Grug – Claude Code Skill Inspired by the Grug Brained Developer",
+    "summary": "Article URL: https://github.com/replete/grug-skill Comments URL: https://news.ycombinator.com/item?id=47654500 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/replete/grug-skill Comments URL: https://news.ycombinator.com/item?id=47654500 Points: 1 # Comments: 0",
+    "author": "replete",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/replete/grug-skill",
+    "id": "news-028"
+  },
+  {
+    "title": "Judge Moody's: Automating Semantic Search Relevance Evaluation with LLM Judges",
+    "summary": "Article URL: https://haystackconf.com/us2025/talk-9/ Comments URL: https://news.ycombinator.com/item?id=47654519 Points: 1 # Comments: 0",
+    "content": "Article URL: https://haystackconf.com/us2025/talk-9/ Comments URL: https://news.ycombinator.com/item?id=47654519 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-04-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://haystackconf.com/us2025/talk-9/",
+    "id": "news-027"
+  },
+  {
     "title": "Securing AI infrastructure to prevent backdoors and sabotage",
     "summary": "Article URL: https://www.the-substrate.net/p/securing-ai-infrastructure-to-prevent Comments URL: https://news.ycombinator.com/item?id=47653133 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.the-substrate.net/p/securing-ai-infrastructure-to-prevent Comments URL: https://news.ycombinator.com/item?id=47653133 Points: 2 # Comments: 0",
