@@ -1,5 +1,96 @@
 [
   {
+    "title": "Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence",
+    "summary": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for t",
+    "content": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for top earners. The article Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/less-work-equal-pay-openai-lays-out-its-vision-for-a-world-reshaped-by-superintelligence/",
+    "id": "news-073"
+  },
+  {
+    "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes",
+    "summary": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call dec",
+    "content": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job. The article OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/",
+    "id": "news-072"
+  },
+  {
+    "title": "Show HN: Sandbox AI Agents with Full macOS",
+    "summary": "Article URL: https://ghostvm.org/ Comments URL: https://news.ycombinator.com/item?id=47664671 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ghostvm.org/ Comments URL: https://news.ycombinator.com/item?id=47664671 Points: 1 # Comments: 0",
+    "author": "CarolineWang",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ghostvm.org/",
+    "id": "news-071"
+  },
+  {
+    "title": "An experiment – replacing Claude Code's context-stuffing with semantic grep",
+    "summary": "Article URL: https://github.com/ccherrad/git-semantic Comments URL: https://news.ycombinator.com/item?id=47664735 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/ccherrad/git-semantic Comments URL: https://news.ycombinator.com/item?id=47664735 Points: 1 # Comments: 1",
+    "author": "cchrrd",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ccherrad/git-semantic",
+    "id": "news-070"
+  },
+  {
+    "title": "AI helps add 10k more photos to OldNYC",
+    "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 3 # Comments: 0",
+    "author": "evakhoury",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+    "id": "news-069"
+  },
+  {
+    "title": "Building an AI Companion with Perfect Memory",
+    "summary": "Article URL: https://cortexdb.ai/blog/building-ai-companion Comments URL: https://news.ycombinator.com/item?id=47665069 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cortexdb.ai/blog/building-ai-companion Comments URL: https://news.ycombinator.com/item?id=47665069 Points: 1 # Comments: 0",
+    "author": "prmalik",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cortexdb.ai/blog/building-ai-companion",
+    "id": "news-068"
+  },
+  {
+    "title": "Open AI to give up to $100k and up to $1M in API credits",
+    "summary": "Article URL: https://openai.com/index/industrial-policy-for-the-intelligence-age/ Comments URL: https://news.ycombinator.com/item?id=47665085 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/industrial-policy-for-the-intelligence-age/ Comments URL: https://news.ycombinator.com/item?id=47665085 Points: 1 # Comments: 0",
+    "author": "ageofattention",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/industrial-policy-for-the-intelligence-age/",
+    "id": "news-067"
+  },
+  {
     "title": "Claude, GPT-4o, Gemini, and Mistral sit at a virtual card table",
     "summary": "Article URL: https://xxx.vasco.xxx/cards/ Comments URL: https://news.ycombinator.com/item?id=47662798 Points: 2 # Comments: 0",
     "content": "Article URL: https://xxx.vasco.xxx/cards/ Comments URL: https://news.ycombinator.com/item?id=47662798 Points: 2 # Comments: 0",
