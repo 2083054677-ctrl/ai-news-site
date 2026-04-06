@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: hot or not for .ai websites",
+    "summary": "I originally took all domains crawled by CommonCrawl and made my own private tool for exploring the public web. I've used it to get some sense/intuition for what's being made by others. It's helped me",
+    "content": "I originally took all domains crawled by CommonCrawl and made my own private tool for exploring the public web. I've used it to get some sense/intuition for what's being made by others. It's helped me avoid proposing the 100th agentic marketing SaaS, when brainstorming with friends :)So thought others might see the fun in exploring websites this way. I've tried my best to circumvent the Cookie popups for the pictures, and have removed most parked domains, access denied, bad gateway etc. I've als",
+    "author": "prolly97",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ratemyaisite.com/",
+    "id": "news-036"
+  },
+  {
+    "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
+    "summary": "Article URL: https://apexstandard.org/ Comments URL: https://news.ycombinator.com/item?id=47655618 Points: 5 # Comments: 1",
+    "content": "Article URL: https://apexstandard.org/ Comments URL: https://news.ycombinator.com/item?id=47655618 Points: 5 # Comments: 1",
+    "author": "andmerm",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apexstandard.org/",
+    "id": "news-035"
+  },
+  {
+    "title": "Ignore AI FOMO – For Now",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-04-05/what-is-vibe-coding-the-ai-trend-fueling-a-new-kind-of-fomo Comments URL: https://news.ycombinator.com/item?id=47655620 Points: 2 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/newsletters/2026-04-05/what-is-vibe-coding-the-ai-trend-fueling-a-new-kind-of-fomo Comments URL: https://news.ycombinator.com/item?id=47655620 Points: 2 # Comments: 1",
+    "author": "gurjeet",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/newsletters/2026-04-05/what-is-vibe-coding-the-ai-trend-fueling-a-new-kind-of-fomo",
+    "id": "news-034"
+  },
+  {
+    "title": "AI Is a Threat to Everything the American People Hold Dear – Bernie Sanders OpEd",
+    "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47655654 Points: 4 # Comments: 2",
+    "content": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47655654 Points: 4 # Comments: 2",
+    "author": "lando2319",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
+    "id": "news-033"
+  },
+  {
+    "title": "AI agents promise to 'run the business,' but who is liable if things go wrong?",
+    "summary": "Article URL: https://www.theregister.com/2026/04/05/ai_agents_liability/ Comments URL: https://news.ycombinator.com/item?id=47655920 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/04/05/ai_agents_liability/ Comments URL: https://news.ycombinator.com/item?id=47655920 Points: 2 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/04/05/ai_agents_liability/",
+    "id": "news-032"
+  },
+  {
     "title": "Show HN: ACE – A dynamic benchmark measuring the cost to break AI agents",
     "summary": "We built Adversarial Cost to Exploit (ACE), a benchmark that measures the token expenditure an autonomous adversary must invest to breach an LLM agent. Instead of binary pass/fail, ACE quantifies adve",
     "content": "We built Adversarial Cost to Exploit (ACE), a benchmark that measures the token expenditure an autonomous adversary must invest to breach an LLM agent. Instead of binary pass/fail, ACE quantifies adversarial effort in dollars, enabling game-theoretic analysis of when an attack is economically rational.We tested six budget-tier models (Gemini Flash-Lite, DeepSeek v3.2, Mistral Small 4, Grok 4.1 Fast, GPT-5.4 Nano, Claude Haiku 4.5) with identical agent configs and an autonomous red-teaming attack",
