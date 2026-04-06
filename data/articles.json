@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: How do systems (or people) detect when a text is written by an LLM",
+    "summary": "Hello guys, just curious about how can people or systems (computers) detect when a text was written by an LLM. My question is mainly focused to if there is some API or similar to detect if a text was ",
+    "content": "Hello guys, just curious about how can people or systems (computers) detect when a text was written by an LLM. My question is mainly focused to if there is some API or similar to detect if a text was written by an LLM. Thanks!!! Comments URL: https://news.ycombinator.com/item?id=47659807 Points: 11 # Comments: 6",
+    "author": "elC0mpa",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47659807",
+    "id": "news-061"
+  },
+  {
+    "title": "Show HN: I built a self healing semantic layer for any AI agent tool",
+    "summary": "Article URL: https://github.com/kwstx/engram_translator Comments URL: https://news.ycombinator.com/item?id=47659947 Points: 3 # Comments: 2",
+    "content": "Article URL: https://github.com/kwstx/engram_translator Comments URL: https://news.ycombinator.com/item?id=47659947 Points: 3 # Comments: 2",
+    "author": "kwstx",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kwstx/engram_translator",
+    "id": "news-060"
+  },
+  {
+    "title": "The Job Search Guide- AI Edition with Eliza Cabrera",
+    "summary": "Article URL: https://technicalintegrity.com/technical-integrity-blog/revisiting-the-ultimate-job-search-guide-the-ai-edition Comments URL: https://news.ycombinator.com/item?id=47660042 Points: 1 # Com",
+    "content": "Article URL: https://technicalintegrity.com/technical-integrity-blog/revisiting-the-ultimate-job-search-guide-the-ai-edition Comments URL: https://news.ycombinator.com/item?id=47660042 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://technicalintegrity.com/technical-integrity-blog/revisiting-the-ultimate-job-search-guide-the-ai-edition",
+    "id": "news-059"
+  },
+  {
+    "title": "Real-time poker engine with emotion-driven AI bots",
+    "summary": "Article URL: https://oxyklon.net/portal Comments URL: https://news.ycombinator.com/item?id=47660160 Points: 4 # Comments: 0",
+    "content": "Article URL: https://oxyklon.net/portal Comments URL: https://news.ycombinator.com/item?id=47660160 Points: 4 # Comments: 0",
+    "author": "naydref",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://oxyklon.net/portal",
+    "id": "news-058"
+  },
+  {
+    "title": "Token-Aware LLM Load Balancer route by inflight tokens,not connections",
+    "summary": "Article URL: https://github.com/SivagurunathanV/token-aware-balancer Comments URL: https://news.ycombinator.com/item?id=47660284 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/SivagurunathanV/token-aware-balancer Comments URL: https://news.ycombinator.com/item?id=47660284 Points: 1 # Comments: 0",
+    "author": "sivagurunathanv",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/SivagurunathanV/token-aware-balancer",
+    "id": "news-057"
+  },
+  {
     "title": "Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove",
     "summary": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bo",
     "content": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bots and educated users don't fully solve the problem. The article Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove appeared first on The Decoder.",
