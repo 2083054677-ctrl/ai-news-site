@@ -1,5 +1,57 @@
 [
   {
+    "title": "Anthropic, OpenAI and Google sharing Intel to block Chinese distillation",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china Comments URL: https://news.ycombinator.com/item?id=47667824 Points: 2 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china Comments URL: https://news.ycombinator.com/item?id=47667824 Points: 2 # Comments: 0",
+    "author": "nikcub",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
+    "id": "news-077"
+  },
+  {
+    "title": "Show HN: Next Moca – control plane for AI agents (pre-seed @ $10M)",
+    "summary": "Article URL: https://www.nextmoca.com Comments URL: https://news.ycombinator.com/item?id=47667865 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nextmoca.com Comments URL: https://news.ycombinator.com/item?id=47667865 Points: 1 # Comments: 0",
+    "author": "swanandrao",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nextmoca.com",
+    "id": "news-076"
+  },
+  {
+    "title": "Reddit is the #1 most cited source across every major AI search platform",
+    "summary": "Article URL: https://virtualuncle.com/answer-engine-optimization-aeo-guide-2026/ Comments URL: https://news.ycombinator.com/item?id=47667978 Points: 3 # Comments: 0",
+    "content": "Article URL: https://virtualuncle.com/answer-engine-optimization-aeo-guide-2026/ Comments URL: https://news.ycombinator.com/item?id=47667978 Points: 3 # Comments: 0",
+    "author": "svrbvr",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://virtualuncle.com/answer-engine-optimization-aeo-guide-2026/",
+    "id": "news-075"
+  },
+  {
+    "title": "Show HN: ACP – Governance for AI Coding Agents (Claude Code, OpenClaw)",
+    "summary": "Hi. I'm David, founder of Agentic Control Plane (ACP).Last year I connected an app to an LLM with a MCP connector. Turned out that authenticating the LLM user in the app backend was surprisingly hard.",
+    "content": "Hi. I'm David, founder of Agentic Control Plane (ACP).Last year I connected an app to an LLM with a MCP connector. Turned out that authenticating the LLM user in the app backend was surprisingly hard.That was the canary in the coalmine. If it's hard to authenticate actual users:- what about their agents? - what about downstream governance? Permissions, limits, audit logsACP is a governance layer that sits in front of AI coding agents like Claude Code and OpenClaw. It runs on every tool call (Bas",
+    "author": "davidcrowe",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agenticcontrolplane.com/",
+    "id": "news-074"
+  },
+  {
     "title": "Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence",
     "summary": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for t",
     "content": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for top earners. The article Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence appeared first on The Decoder.",
