@@ -1,5 +1,83 @@
 [
   {
+    "title": "Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove",
+    "summary": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bo",
+    "content": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bots and educated users don't fully solve the problem. The article Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sycophantic-ai-chatbots-can-break-even-ideal-rational-thinkers-researchers-formally-prove/",
+    "id": "news-056"
+  },
+  {
+    "title": "Senior engineer best practice for scaling yourself with Claude Code",
+    "summary": "Article URL: https://www.reddit.com/r/ClaudeCode/s/ppF2cGWQsi Comments URL: https://news.ycombinator.com/item?id=47659073 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.reddit.com/r/ClaudeCode/s/ppF2cGWQsi Comments URL: https://news.ycombinator.com/item?id=47659073 Points: 3 # Comments: 0",
+    "author": "bgnm2000",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reddit.com/r/ClaudeCode/s/ppF2cGWQsi",
+    "id": "news-055"
+  },
+  {
+    "title": "Rules for using unreviewed AI-generated code",
+    "summary": "Article URL: https://peterlavigne.com/writing/rules-for-unreviewed-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47659181 Points: 1 # Comments: 0",
+    "content": "Article URL: https://peterlavigne.com/writing/rules-for-unreviewed-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47659181 Points: 1 # Comments: 0",
+    "author": "peterlavigne",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://peterlavigne.com/writing/rules-for-unreviewed-ai-generated-code",
+    "id": "news-054"
+  },
+  {
+    "title": "Nexus – Stress-test any business decision with 1k AI agents",
+    "summary": "Article URL: https://nexus-sim.ink/ Comments URL: https://news.ycombinator.com/item?id=47659203 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nexus-sim.ink/ Comments URL: https://news.ycombinator.com/item?id=47659203 Points: 1 # Comments: 0",
+    "author": "youngyankee",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nexus-sim.ink/",
+    "id": "news-053"
+  },
+  {
+    "title": "Rethinking Pair Programming in the Age of AI",
+    "summary": "Article URL: https://learnings.aleixmorgadas.dev/p/rethinking-pair-programming-in-the Comments URL: https://news.ycombinator.com/item?id=47659212 Points: 1 # Comments: 0",
+    "content": "Article URL: https://learnings.aleixmorgadas.dev/p/rethinking-pair-programming-in-the Comments URL: https://news.ycombinator.com/item?id=47659212 Points: 1 # Comments: 0",
+    "author": "PretzelFisch",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://learnings.aleixmorgadas.dev/p/rethinking-pair-programming-in-the",
+    "id": "news-052"
+  },
+  {
+    "title": "Dora – State of AI-assisted Software Development 2025 [pdf]",
+    "summary": "Article URL: https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf Comments URL: https://news.ycombinator.com/item?id=47659217 Points: 1 # Comments: 0",
+    "content": "Article URL: https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf Comments URL: https://news.ycombinator.com/item?id=47659217 Points: 1 # Comments: 0",
+    "author": "Topfi",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf",
+    "id": "news-051"
+  },
+  {
     "title": "Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning",
     "summary": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image question",
     "content": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image questions that break complex problems into linked individual steps, forcing models to verify each visual detail before drawing conclusions. The approach improves 20 out of 24 benchmarks. The article Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning appeare",
