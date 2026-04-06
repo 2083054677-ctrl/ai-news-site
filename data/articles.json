@@ -1,5 +1,83 @@
 [
   {
+    "title": "Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds",
+    "summary": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest",
+    "content": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest outlook on the job market. The article Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds appeared first on The Decoder.",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/americans-are-using-ai-more-than-ever-while-trusting-it-less-new-quinnipiac-poll-finds/",
+    "id": "news-047"
+  },
+  {
+    "title": "Show HN: Aiaiai.guide: Plain-English mental model for LLM apps, tools and agents",
+    "summary": "I’ve been building LLM tooling for a small VC fund and found myself explaining the same mental model over and over to non-technical people around me: how a stateless LLM becomes a chatbot, how tool us",
+    "content": "I’ve been building LLM tooling for a small VC fund and found myself explaining the same mental model over and over to non-technical people around me: how a stateless LLM becomes a chatbot, how tool use works, what an agent is mechanically, and why context windows shape all of it.I never found a guide that covered that full chain at the level I wanted, so I wrote one.It’s nine short chapters, each building on the last. Deliberately simplified: the goal is a useful mental model, not a textbook.Fee",
+    "author": "myyke",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aiaiai.guide/",
+    "id": "news-046"
+  },
+  {
+    "title": "Karpathy's LLM Wiki on OpenClaw – The Security Gap Nobody Mentions",
+    "summary": "Article URL: https://www.clawctl.com/blog/karpathy-llm-wiki-openclaw-production Comments URL: https://news.ycombinator.com/item?id=47657530 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.clawctl.com/blog/karpathy-llm-wiki-openclaw-production Comments URL: https://news.ycombinator.com/item?id=47657530 Points: 2 # Comments: 0",
+    "author": "shving90",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.clawctl.com/blog/karpathy-llm-wiki-openclaw-production",
+    "id": "news-045"
+  },
+  {
+    "title": "China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cy41n17e23go Comments URL: https://news.ycombinator.com/item?id=47657652 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/cy41n17e23go Comments URL: https://news.ycombinator.com/item?id=47657652 Points: 4 # Comments: 0",
+    "author": "tmoravec",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/cy41n17e23go",
+    "id": "news-044"
+  },
+  {
+    "title": "Estimates of the expected utility gain of AI Safety Research",
+    "summary": "Article URL: https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research Comments URL: https://news.ycombinator.com/item?id=47657780 Points: 1 # Comm",
+    "content": "Article URL: https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research Comments URL: https://news.ycombinator.com/item?id=47657780 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research",
+    "id": "news-043"
+  },
+  {
+    "title": "Show HN: Cloclo – open-source multi-agent CLI runtime for 13 LLM providers",
+    "summary": "Article URL: https://www.npmjs.com/package/cloclo Comments URL: https://news.ycombinator.com/item?id=47657833 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.npmjs.com/package/cloclo Comments URL: https://news.ycombinator.com/item?id=47657833 Points: 1 # Comments: 0",
+    "author": "seifbenayed1992",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npmjs.com/package/cloclo",
+    "id": "news-042"
+  },
+  {
     "title": "How are we isolating AI Guests on ARMv9-A RME?",
     "summary": "Article URL: https://github.com/Lex-Col/Guardian-Angel-Protocol Comments URL: https://news.ycombinator.com/item?id=47656805 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/Lex-Col/Guardian-Angel-Protocol Comments URL: https://news.ycombinator.com/item?id=47656805 Points: 1 # Comments: 0",
