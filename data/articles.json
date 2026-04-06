@@ -1,5 +1,44 @@
 [
   {
+    "title": "Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning",
+    "summary": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image question",
+    "content": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image questions that break complex problems into linked individual steps, forcing models to verify each visual detail before drawing conclusions. The approach improves 20 out of 24 benchmarks. The article Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning appeare",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-qwen-team-built-hopchain-to-fix-how-ai-vision-models-fall-apart-during-multi-step-reasoning/",
+    "id": "news-050"
+  },
+  {
+    "title": "OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours",
+    "summary": "ChatGPT gets millions of health queries per week in the US, especially from areas where doctors are hard to reach. The article OpenAI reveals 600,000 weekly health queries from hospital deserts as sev",
+    "content": "ChatGPT gets millions of health queries per week in the US, especially from areas where doctors are hard to reach. The article OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-reveals-600000-weekly-health-queries-from-hospital-deserts-as-seven-in-ten-come-after-hours/",
+    "id": "news-049"
+  },
+  {
+    "title": "Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising",
+    "summary": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart. The article Telehealth startup Medvi generated billions",
+    "content": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart. The article Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/telehealth-startup-medvi-generated-billions-in-revenue-with-ai-powered-fake-advertising/",
+    "id": "news-048"
+  },
+  {
     "title": "Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds",
     "summary": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest",
     "content": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest outlook on the job market. The article Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds appeared first on The Decoder.",
