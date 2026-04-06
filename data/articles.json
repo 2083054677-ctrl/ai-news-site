@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude, GPT-4o, Gemini, and Mistral sit at a virtual card table",
+    "summary": "Article URL: https://xxx.vasco.xxx/cards/ Comments URL: https://news.ycombinator.com/item?id=47662798 Points: 2 # Comments: 0",
+    "content": "Article URL: https://xxx.vasco.xxx/cards/ Comments URL: https://news.ycombinator.com/item?id=47662798 Points: 2 # Comments: 0",
+    "author": "IAmbarbosa",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xxx.vasco.xxx/cards/",
+    "id": "news-066"
+  },
+  {
+    "title": "\"It's hard to feel like Claude isn't actively working against me.\"",
+    "summary": "Article URL: https://twitter.com/danveloper/status/2041141414851985668 Comments URL: https://news.ycombinator.com/item?id=47662855 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/danveloper/status/2041141414851985668 Comments URL: https://news.ycombinator.com/item?id=47662855 Points: 1 # Comments: 0",
+    "author": "m-hodges",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/danveloper/status/2041141414851985668",
+    "id": "news-065"
+  },
+  {
+    "title": "Show HN: Orchestrating AI into reviewable PRs you can reason about",
+    "summary": "Article URL: https://github.com/ninthwave-sh/ninthwave Comments URL: https://news.ycombinator.com/item?id=47662921 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ninthwave-sh/ninthwave Comments URL: https://news.ycombinator.com/item?id=47662921 Points: 1 # Comments: 0",
+    "author": "roblambell",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ninthwave-sh/ninthwave",
+    "id": "news-064"
+  },
+  {
+    "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+    "summary": "We’re Ben and Jacob, cofounders of Freestyle (https://freestyle.sh). We’re building a cloud for Coding Agents.For the first generation of agents it looked like workflows with minimal tools. 2 years ag",
+    "content": "We’re Ben and Jacob, cofounders of Freestyle (https://freestyle.sh). We’re building a cloud for Coding Agents.For the first generation of agents it looked like workflows with minimal tools. 2 years ago we published a package to let AI work in SQL, at that time GPT-4 could write simple scripts. Soon after the first AI App Builders started using AI to make whole websites; we supported that with a serverless deploy system.But the current generation is going much further, instead of minimal tools an",
+    "author": "benswerd",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.freestyle.sh",
+    "id": "news-063"
+  },
+  {
+    "title": "I am thinking of open sourcing my medical information as an LLM wiki – advice?",
+    "summary": "I’m struggling with an “unknown“ neurological condition. I have my suspicions but the condition is rare and under-researched in my area (Southern Europe). The condition appears to be progressive and I",
+    "content": "I’m struggling with an “unknown“ neurological condition. I have my suspicions but the condition is rare and under-researched in my area (Southern Europe). The condition appears to be progressive and I can’t stop it.After reading through Andrej Karpathy’s recent texts on LLM wikis, I decided to try and make my health records anonymous, maybe place them on GitHub, and share them. im not fully finished yet (I found there is a personal identifying information leak still in two files) but I’ve checke",
+    "author": "kranke155",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47663191",
+    "id": "news-062"
+  },
+  {
     "title": "Ask HN: How do systems (or people) detect when a text is written by an LLM",
     "summary": "Hello guys, just curious about how can people or systems (computers) detect when a text was written by an LLM. My question is mainly focused to if there is some API or similar to detect if a text was ",
     "content": "Hello guys, just curious about how can people or systems (computers) detect when a text was written by an LLM. My question is mainly focused to if there is some API or similar to detect if a text was written by an LLM. Thanks!!! Comments URL: https://news.ycombinator.com/item?id=47659807 Points: 11 # Comments: 6",
