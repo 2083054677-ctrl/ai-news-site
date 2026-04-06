@@ -1,5 +1,70 @@
 [
   {
+    "title": "How are we isolating AI Guests on ARMv9-A RME?",
+    "summary": "Article URL: https://github.com/Lex-Col/Guardian-Angel-Protocol Comments URL: https://news.ycombinator.com/item?id=47656805 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Lex-Col/Guardian-Angel-Protocol Comments URL: https://news.ycombinator.com/item?id=47656805 Points: 1 # Comments: 0",
+    "author": "Alexand3rc",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Lex-Col/Guardian-Angel-Protocol",
+    "id": "news-041"
+  },
+  {
+    "title": "Show HN: HTML to Markdown with CSS selector & XPath annotations for LLM Scraper",
+    "summary": "HTML-to-Markdown converters produce clean, readable content for both humans and LLMs — but the DOM structure is lost along the way. You can always feed Markdown to an LLM to extract structured informa",
+    "content": "HTML-to-Markdown converters produce clean, readable content for both humans and LLMs — but the DOM structure is lost along the way. You can always feed Markdown to an LLM to extract structured information, but that costs tokens on every page, every time.What if the LLM could also see where each piece of content lives in the DOM? Then it can generate robust scraping code — stable selectors and XPaths that run without any LLM in the loop, saving tokens and improving accuracy on long or repetitive ",
+    "author": "andrew_zhong",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lightfeed/scrapedown",
+    "id": "news-040"
+  },
+  {
+    "title": "Eight years of wanting, three months of building with AI",
+    "summary": "Article URL: https://simonwillison.net/2026/Apr/5/building-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47656897 Points: 1 # Comments: 1",
+    "content": "Article URL: https://simonwillison.net/2026/Apr/5/building-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47656897 Points: 1 # Comments: 1",
+    "author": "doppp",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/Apr/5/building-with-ai/",
+    "id": "news-039"
+  },
+  {
+    "title": "Stop Pushing AI Generated Code to Git",
+    "summary": "Article URL: https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git Comments URL: https://news.ycombinator.com/item?id=47656941 Points: 3 # Comments: 0",
+    "content": "Article URL: https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git Comments URL: https://news.ycombinator.com/item?id=47656941 Points: 3 # Comments: 0",
+    "author": "tombert",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git",
+    "id": "news-038"
+  },
+  {
+    "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9 Comments URL: https://news.ycombinator.com/item?id=47657041 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9 Comments URL: https://news.ycombinator.com/item?id=47657041 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
+    "id": "news-037"
+  },
+  {
     "title": "Show HN: hot or not for .ai websites",
     "summary": "I originally took all domains crawled by CommonCrawl and made my own private tool for exploring the public web. I've used it to get some sense/intuition for what's being made by others. It's helped me",
     "content": "I originally took all domains crawled by CommonCrawl and made my own private tool for exploring the public web. I've used it to get some sense/intuition for what's being made by others. It's helped me avoid proposing the 100th agentic marketing SaaS, when brainstorming with friends :)So thought others might see the fun in exploring websites this way. I've tried my best to circumvent the Cookie popups for the pictures, and have removed most parked domains, access denied, bad gateway etc. I've als",
