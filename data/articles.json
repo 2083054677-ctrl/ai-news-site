@@ -1,5 +1,83 @@
 [
   {
+    "title": "Microsoft's Bing team open-sources \"Harrier\" embedding model",
+    "summary": "Microsoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages. The article Microsoft's Bing team open-sources \"Harrie",
+    "content": "Microsoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages. The article Microsoft's Bing team open-sources \"Harrier\" embedding model appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-bing-team-open-sources-harrier-embedding-model/",
+    "id": "news-114"
+  },
+  {
+    "title": "Dexter Hadley on building governed AI for healthcare – Achieve Podcast [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=hYGOFtjpcHY Comments URL: https://news.ycombinator.com/item?id=47677574 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=hYGOFtjpcHY Comments URL: https://news.ycombinator.com/item?id=47677574 Points: 1 # Comments: 1",
+    "author": "idrdex",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=hYGOFtjpcHY",
+    "id": "news-113"
+  },
+  {
+    "title": "Show HN: Build queryable packs for AI agents from videos, podcasts, and files",
+    "summary": "Hi,This started from a pretty personal use case.There was this very technical person I follow who would go live on YouTube from time to time. He has a ton of experience, and would casually drop really",
+    "content": "Hi,This started from a pretty personal use case.There was this very technical person I follow who would go live on YouTube from time to time. He has a ton of experience, and would casually drop really good insights about software architecture, engineering tradeoffs, and just general \"you only learn this after years\" kind of stuff. He also posts shorter clips, but I wanted something else: I wanted that knowledge to be always there, queryable whenever I needed it.At the same time, I was also tryin",
+    "author": "buralog",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/buralog/beyin",
+    "id": "news-112"
+  },
+  {
+    "title": "An Architectural Critique of OpenAI's Industrial Policy (RFC)",
+    "summary": "Article URL: https://github.com/ariadne-coil/OpenAI-Industrial-Policy-RFC/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=47677696 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ariadne-coil/OpenAI-Industrial-Policy-RFC/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=47677696 Points: 1 # Comments: 0",
+    "author": "AriadneCyber",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ariadne-coil/OpenAI-Industrial-Policy-RFC/blob/main/README.md",
+    "id": "news-111"
+  },
+  {
+    "title": "The proliferation of AI-enabled military technology in the Middle East",
+    "summary": "Article URL: https://www.iiss.org/online-analysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-military-technology-in-the-middle-east/ Comments URL: https://news.ycombinator.com/item?i",
+    "content": "Article URL: https://www.iiss.org/online-analysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-military-technology-in-the-middle-east/ Comments URL: https://news.ycombinator.com/item?id=47677765 Points: 1 # Comments: 0",
+    "author": "CrypticShift",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.iiss.org/online-analysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-military-technology-in-the-middle-east/",
+    "id": "news-110"
+  },
+  {
+    "title": "Show HN: I built a database for AI agents",
+    "summary": "Hey HN,I just spent the last few weeks building a database for agents.Over the last year I built PostHog AI, the company's business analyst agent, where we experimented on giving raw SQL access to Pos",
+    "content": "Hey HN,I just spent the last few weeks building a database for agents.Over the last year I built PostHog AI, the company's business analyst agent, where we experimented on giving raw SQL access to PostHog databases vs. exposing tools/MCPs. Needless to say, SQL wins.I left PostHog 3 weeks ago to work on side-projects. I wanted to experiment more with SQL+agents.I built an MVP exposing business data through DuckDB + annotated schemas, and ran a benchmark with 11 LLMs (from Kimi 2.5 to Claude Opus ",
+    "author": "Kappa90",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/DinobaseHQ/dinobase",
+    "id": "news-109"
+  },
+  {
     "title": "Meta employees compete for token consumption on an internal AI leaderboard",
     "summary": "At Meta, employees compete for titles like \"Token Legend,\" \"Model Connoisseur,\" and \"Cache Wizard\" on an internal leaderboard that ranks AI token consumption. But burning through more tokens doesn't a",
     "content": "At Meta, employees compete for titles like \"Token Legend,\" \"Model Connoisseur,\" and \"Cache Wizard\" on an internal leaderboard that ranks AI token consumption. But burning through more tokens doesn't automatically mean getting more done. The article Meta employees compete for token consumption on an internal AI leaderboard appeared first on The Decoder.",
