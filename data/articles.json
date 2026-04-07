@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic signs multi-gigawatt TPU deal with Google and Broadcom",
+    "summary": "Anthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027. The article Anthropic signs multi-gigawatt TPU deal with Goo",
+    "content": "Anthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027. The article Anthropic signs multi-gigawatt TPU deal with Google and Broadcom appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-signs-multi-gigawatt-tpu-deal-with-google-and-broadcom/",
+    "id": "news-098"
+  },
+  {
+    "title": "Behold, an AI startup with a real business",
+    "summary": "Article URL: https://crazystupidtech.com/2026/04/06/behold-an-ai-startup-with-a-real-business/ Comments URL: https://news.ycombinator.com/item?id=47673030 Points: 1 # Comments: 0",
+    "content": "Article URL: https://crazystupidtech.com/2026/04/06/behold-an-ai-startup-with-a-real-business/ Comments URL: https://news.ycombinator.com/item?id=47673030 Points: 1 # Comments: 0",
+    "author": "herbertl",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://crazystupidtech.com/2026/04/06/behold-an-ai-startup-with-a-real-business/",
+    "id": "news-097"
+  },
+  {
+    "title": "Tech companies are cutting jobs and betting on AI. The payoff is not guaranteed",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work Comments URL: https://news.ycombinator.com/item?id=47673042 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work Comments URL: https://news.ycombinator.com/item?id=47673042 Points: 2 # Comments: 0",
+    "author": "victortalkstech",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
+    "id": "news-096"
+  },
+  {
+    "title": "AI Won't Replace You, but a Manager Using AI Will",
+    "summary": "Article URL: https://yanivpreiss.com/2026/04/06/ai-wont-replace-you-but-a-manager-using-ai-will/ Comments URL: https://news.ycombinator.com/item?id=47673104 Points: 1 # Comments: 0",
+    "content": "Article URL: https://yanivpreiss.com/2026/04/06/ai-wont-replace-you-but-a-manager-using-ai-will/ Comments URL: https://news.ycombinator.com/item?id=47673104 Points: 1 # Comments: 0",
+    "author": "PretzelFisch",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://yanivpreiss.com/2026/04/06/ai-wont-replace-you-but-a-manager-using-ai-will/",
+    "id": "news-095"
+  },
+  {
+    "title": "Running AI agents safely in a microVM using Docker sandbox",
+    "summary": "Article URL: https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/ Comments URL: https://news.ycombinator.com/item?id=47673147 Points: 1 # Comments: 0",
+    "content": "Article URL: https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/ Comments URL: https://news.ycombinator.com/item?id=47673147 Points: 1 # Comments: 0",
+    "author": "ingve",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/",
+    "id": "news-094"
+  },
+  {
+    "title": "Speed Run to Legacy: How Cheap AI Tokens Hide Expensive Mistakes",
+    "summary": "Article URL: https://bitbrawn.com/posts/ai-speed-run-to-legacy Comments URL: https://news.ycombinator.com/item?id=47673193 Points: 1 # Comments: 0",
+    "content": "Article URL: https://bitbrawn.com/posts/ai-speed-run-to-legacy Comments URL: https://news.ycombinator.com/item?id=47673193 Points: 1 # Comments: 0",
+    "author": "retrac98",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bitbrawn.com/posts/ai-speed-run-to-legacy",
+    "id": "news-093"
+  },
+  {
     "title": "Simulating societies with LLM agents in TypeScript",
     "summary": "Article URL: https://github.com/francemazzi/worldsim Comments URL: https://news.ycombinator.com/item?id=47672127 Points: 3 # Comments: 0",
     "content": "Article URL: https://github.com/francemazzi/worldsim Comments URL: https://news.ycombinator.com/item?id=47672127 Points: 3 # Comments: 0",
