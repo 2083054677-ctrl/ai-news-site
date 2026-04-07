@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google's AI Overviews are correct nine out of ten times, study finds",
+    "summary": "Google puts a disclaimer under every AI-generated search response: \"AI responses may include mistakes.\" But just how often those mistakes actually happen has remained largely unstudied. The article Go",
+    "content": "Google puts a disclaimer under every AI-generated search response: \"AI responses may include mistakes.\" But just how often those mistakes actually happen has remained largely unstudied. The article Google's AI Overviews are correct nine out of ten times, study finds appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-ai-overviews-are-correct-nine-out-of-ten-times-study-finds/",
+    "id": "news-120"
+  },
+  {
+    "title": "Anthropic Set to Preview Powerful 'Mythos' Model to Ward Off AI Cyberthreats",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-set-to-preview-powerful-mythos-model-to-ward-off-ai-cyberthreats-75683cf5 Comments URL: https://news.ycombinator.com/item?id=47679348 Points: 1 # Com",
+    "content": "Article URL: https://www.wsj.com/tech/ai/anthropic-set-to-preview-powerful-mythos-model-to-ward-off-ai-cyberthreats-75683cf5 Comments URL: https://news.ycombinator.com/item?id=47679348 Points: 1 # Comments: 0",
+    "author": "bengebre",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/anthropic-set-to-preview-powerful-mythos-model-to-ward-off-ai-cyberthreats-75683cf5",
+    "id": "news-119"
+  },
+  {
+    "title": "Gitmore – AI summaries of your GitHub/GitLab activity (no more manual reports)",
+    "summary": "Article URL: https://gitmore.io Comments URL: https://news.ycombinator.com/item?id=47679361 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gitmore.io Comments URL: https://news.ycombinator.com/item?id=47679361 Points: 1 # Comments: 0",
+    "author": "SiwarGrami",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gitmore.io",
+    "id": "news-118"
+  },
+  {
+    "title": "Anthropic Lets Apple, Amazon Test More Powerful Mythos AI Model",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-07/anthropic-lets-apple-amazon-test-more-powerful-mythos-ai-model Comments URL: https://news.ycombinator.com/item?id=47679485 Points: 3 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-04-07/anthropic-lets-apple-amazon-test-more-powerful-mythos-ai-model Comments URL: https://news.ycombinator.com/item?id=47679485 Points: 3 # Comments: 0",
+    "author": "marc__1",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-04-07/anthropic-lets-apple-amazon-test-more-powerful-mythos-ai-model",
+    "id": "news-117"
+  },
+  {
+    "title": "Anthropic Claude Mythos: The More Capable AI Becomes, the More Security It Needs",
+    "summary": "Article URL: https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/ Comments URL: https://news.ycombinator.com/item?id=47679626 Points: 1 # Co",
+    "content": "Article URL: https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/ Comments URL: https://news.ycombinator.com/item?id=47679626 Points: 1 # Comments: 0",
+    "author": "wslh",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/",
+    "id": "news-116"
+  },
+  {
+    "title": "A graph of Trump's contradictions that builds itself using a local LLM",
+    "summary": "Article URL: https://biglystable.com Comments URL: https://news.ycombinator.com/item?id=47679699 Points: 1 # Comments: 0",
+    "content": "Article URL: https://biglystable.com Comments URL: https://news.ycombinator.com/item?id=47679699 Points: 1 # Comments: 0",
+    "author": "shmeeny",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://biglystable.com",
+    "id": "news-115"
+  },
+  {
     "title": "Microsoft's Bing team open-sources \"Harrier\" embedding model",
     "summary": "Microsoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages. The article Microsoft's Bing team open-sources \"Harrie",
     "content": "Microsoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages. The article Microsoft's Bing team open-sources \"Harrier\" embedding model appeared first on The Decoder.",
