@@ -1,5 +1,135 @@
 [
   {
+    "title": "Meta employees compete for token consumption on an internal AI leaderboard",
+    "summary": "At Meta, employees compete for titles like \"Token Legend,\" \"Model Connoisseur,\" and \"Cache Wizard\" on an internal leaderboard that ranks AI token consumption. But burning through more tokens doesn't a",
+    "content": "At Meta, employees compete for titles like \"Token Legend,\" \"Model Connoisseur,\" and \"Cache Wizard\" on an internal leaderboard that ranks AI token consumption. But burning through more tokens doesn't automatically mean getting more done. The article Meta employees compete for token consumption on an internal AI leaderboard appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-employees-compete-for-token-consumption-on-an-internal-ai-leaderboard/",
+    "id": "news-108"
+  },
+  {
+    "title": "Meta plans to open-source parts of its new AI models",
+    "summary": "Meta is planning to release versions of its new AI models as open source, according to Axios. The article Meta plans to open-source parts of its new AI models appeared first on The Decoder.",
+    "content": "Meta is planning to release versions of its new AI models as open source, according to Axios. The article Meta plans to open-source parts of its new AI models appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-plans-to-open-source-parts-of-its-new-ai-models/",
+    "id": "news-107"
+  },
+  {
+    "title": "OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying",
+    "summary": "OpenAI, Anthropic, and Google have started working together to combat the unauthorized copying of their AI models by Chinese competitors, according to Bloomberg. The article OpenAI, Anthropic, and Goo",
+    "content": "OpenAI, Anthropic, and Google have started working together to combat the unauthorized copying of their AI models by Chinese competitors, according to Bloomberg. The article OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-anthropic-and-google-team-up-against-unauthorized-chinese-model-copying/",
+    "id": "news-106"
+  },
+  {
+    "title": "Bezos' Project Prometheus hires xAI co-founder from OpenAI",
+    "summary": "Jeff Bezos' startup Project Prometheus has hired Kyle Kosic, a co-founder of Elon Musk's xAI who most recently worked at OpenAI, the Financial Times reports. The article Bezos' Project Prometheus hire",
+    "content": "Jeff Bezos' startup Project Prometheus has hired Kyle Kosic, a co-founder of Elon Musk's xAI who most recently worked at OpenAI, the Financial Times reports. The article Bezos' Project Prometheus hires xAI co-founder from OpenAI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bezos-project-prometheus-hires-xai-co-founder-from-openai/",
+    "id": "news-105"
+  },
+  {
+    "title": "China actively targeting Taiwan's chip talent and technology, security report says",
+    "summary": "China is actively trying to poach Taiwan's semiconductor expertise and talent to circumvent international technology restrictions, according to a report from Taiwan's National Security Bureau cited by",
+    "content": "China is actively trying to poach Taiwan's semiconductor expertise and talent to circumvent international technology restrictions, according to a report from Taiwan's National Security Bureau cited by Reuters. The article China actively targeting Taiwan's chip talent and technology, security report says appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-actively-targeting-taiwans-chip-talent-and-technology-security-report-says/",
+    "id": "news-104"
+  },
+  {
+    "title": "Facebook account hijacked, attackers use AI photos of victims to promote crypto",
+    "summary": "Article URL: https://twitter.com/i/status/2041271005285601621 Comments URL: https://news.ycombinator.com/item?id=47674567 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/i/status/2041271005285601621 Comments URL: https://news.ycombinator.com/item?id=47674567 Points: 1 # Comments: 0",
+    "author": "lando2319",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/i/status/2041271005285601621",
+    "id": "news-103"
+  },
+  {
+    "title": "Show HN: The AI Software Factory",
+    "summary": "Working in several companies, there is a security gap with Claude. Developers are not using devcontainers because they break many things e.g. MCP, OAuth and --chrome. So they hand over everything to t",
+    "content": "Working in several companies, there is a security gap with Claude. Developers are not using devcontainers because they break many things e.g. MCP, OAuth and --chrome. So they hand over everything to the AI. And the AI removes files, reads emails and does whatever it thinks is accomplishing the task at hand.With 45 years of development experience, what can I change?I wanted to create all my ideas, and for that to go full --yolo in a secure way, so I created human as a firewall for devcontainers t",
+    "author": "KingOfCoders",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gethuman.sh/",
+    "id": "news-102"
+  },
+  {
+    "title": "AI agents that teach, debate and quiz you in real time",
+    "summary": "Article URL: https://github.com/THU-MAIC/OpenMAIC Comments URL: https://news.ycombinator.com/item?id=47674627 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/THU-MAIC/OpenMAIC Comments URL: https://news.ycombinator.com/item?id=47674627 Points: 1 # Comments: 0",
+    "author": "steveharing1",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/THU-MAIC/OpenMAIC",
+    "id": "news-101"
+  },
+  {
+    "title": "Show HN: An open source CI/CD action to audit and fix AI generated UI code",
+    "summary": "Hi everyone. AI can generate code in seconds now but verifying and auditing it inside our CI/CD pipelines does not happen at the same speed. It has become a massive bottleneck. To clear this up we jus",
+    "content": "Hi everyone. AI can generate code in seconds now but verifying and auditing it inside our CI/CD pipelines does not happen at the same speed. It has become a massive bottleneck. To clear this up we just released a GitHub action that we completely open sourced. It basically boots your app in CI opens a real browser tests the PR and if the UI is broken it autonomously pushes a code fix. This completes another major step for our IronBee verification layer. Getting your feedback both here in the comm",
+    "author": "heisen_berg",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47674652",
+    "id": "news-100"
+  },
+  {
+    "title": "CLI that gives AI agents structured SEO data for any URL – SGNL",
+    "summary": "Article URL: https://github.com/stoyan-koychev/sgnl-cli Comments URL: https://news.ycombinator.com/item?id=47674664 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/stoyan-koychev/sgnl-cli Comments URL: https://news.ycombinator.com/item?id=47674664 Points: 1 # Comments: 0",
+    "author": "koychev",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/stoyan-koychev/sgnl-cli",
+    "id": "news-099"
+  },
+  {
     "title": "Anthropic signs multi-gigawatt TPU deal with Google and Broadcom",
     "summary": "Anthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027. The article Anthropic signs multi-gigawatt TPU deal with Goo",
     "content": "Anthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027. The article Anthropic signs multi-gigawatt TPU deal with Google and Broadcom appeared first on The Decoder.",
