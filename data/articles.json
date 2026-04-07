@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Swiper Studio v2 – Visual slider builder with AI agent support (MCP)",
+    "summary": "I'm the author of Swiper, the open-source slider library. Swiper Studio is a visual builder on top of it. V2 brings a redesigned editor, keyboard shortcuts, element animations, video support, responsi",
+    "content": "I'm the author of Swiper, the open-source slider library. Swiper Studio is a visual builder on top of it. V2 brings a redesigned editor, keyboard shortcuts, element animations, video support, responsive breakpoints, Next.js export, and an MCP server that lets AI agents (Claude, Cursor, etc.) build sliders through natural language. Comments URL: https://news.ycombinator.com/item?id=47680747 Points: 1 # Comments: 0",
+    "author": "nolimits4web",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://studio.swiperjs.com",
+    "id": "news-125"
+  },
+  {
+    "title": "Vorim AI – Identity, permissions, and audit trails for AI agents",
+    "summary": "Article URL: https://vorim.ai/ Comments URL: https://news.ycombinator.com/item?id=47680764 Points: 1 # Comments: 0",
+    "content": "Article URL: https://vorim.ai/ Comments URL: https://news.ycombinator.com/item?id=47680764 Points: 1 # Comments: 0",
+    "author": "kwamzino007",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vorim.ai/",
+    "id": "news-124"
+  },
+  {
+    "title": "AI agent with semantic caching and local embeddings, one runtime",
+    "summary": "Article URL: https://github.com/HarperFast/agent-example-harper Comments URL: https://news.ycombinator.com/item?id=47680783 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/HarperFast/agent-example-harper Comments URL: https://news.ycombinator.com/item?id=47680783 Points: 1 # Comments: 0",
+    "author": "sg-hdb",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/HarperFast/agent-example-harper",
+    "id": "news-123"
+  },
+  {
+    "title": "Local AI reads WhatsApp and books meetings – no cloud, no subscription",
+    "summary": "Article URL: https://lmim.tech Comments URL: https://news.ycombinator.com/item?id=47680948 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lmim.tech Comments URL: https://news.ycombinator.com/item?id=47680948 Points: 1 # Comments: 0",
+    "author": "iamonthemission",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lmim.tech",
+    "id": "news-122"
+  },
+  {
+    "title": "Show HN: User-Friendly Persistent AI Memory Layer",
+    "summary": "For Enterprise Private Deploy: https://www.reflectmemory.com/enterpriseComparison to mem0 + LangMem etc: https://www.reflectmemory.com/compare Comments URL: https://news.ycombinator.com/item?id=476809",
+    "content": "For Enterprise Private Deploy: https://www.reflectmemory.com/enterpriseComparison to mem0 + LangMem etc: https://www.reflectmemory.com/compare Comments URL: https://news.ycombinator.com/item?id=47680991 Points: 1 # Comments: 0",
+    "author": "vanstrata",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reflectmemory.com/",
+    "id": "news-121"
+  },
+  {
     "title": "Google's AI Overviews are correct nine out of ten times, study finds",
     "summary": "Google puts a disclaimer under every AI-generated search response: \"AI responses may include mistakes.\" But just how often those mistakes actually happen has remained largely unstudied. The article Go",
     "content": "Google puts a disclaimer under every AI-generated search response: \"AI responses may include mistakes.\" But just how often those mistakes actually happen has remained largely unstudied. The article Google's AI Overviews are correct nine out of ten times, study finds appeared first on The Decoder.",
