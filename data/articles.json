@@ -1,5 +1,70 @@
 [
   {
+    "title": "Google AI Edge Eloquent (iOS)",
+    "summary": "Article URL: https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519 Comments URL: https://news.ycombinator.com/item?id=47670641 Points: 2 # Comments: 0",
+    "content": "Article URL: https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519 Comments URL: https://news.ycombinator.com/item?id=47670641 Points: 2 # Comments: 0",
+    "author": "ukuina",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519",
+    "id": "news-087"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google unite to combat model copying in China",
+    "summary": "Article URL: https://www.businesstimes.com.sg/international/global/openai-anthropic-google-unite-combat-model-copying-china Comments URL: https://news.ycombinator.com/item?id=47670652 Points: 2 # Comm",
+    "content": "Article URL: https://www.businesstimes.com.sg/international/global/openai-anthropic-google-unite-combat-model-copying-china Comments URL: https://news.ycombinator.com/item?id=47670652 Points: 2 # Comments: 0",
+    "author": "doppp",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businesstimes.com.sg/international/global/openai-anthropic-google-unite-combat-model-copying-china",
+    "id": "news-086"
+  },
+  {
+    "title": "Mark Zuckerberg's turbulent bet on AI",
+    "summary": "Article URL: https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08 Comments URL: https://news.ycombinator.com/item?id=47670665 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08 Comments URL: https://news.ycombinator.com/item?id=47670665 Points: 2 # Comments: 0",
+    "author": "bram98",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08",
+    "id": "news-085"
+  },
+  {
+    "title": "Are We Augmented by AI Yet?",
+    "summary": "Article URL: https://unskilled.blog/posts/are-we-augmented-by-ai-yet/ Comments URL: https://news.ycombinator.com/item?id=47670704 Points: 1 # Comments: 0",
+    "content": "Article URL: https://unskilled.blog/posts/are-we-augmented-by-ai-yet/ Comments URL: https://news.ycombinator.com/item?id=47670704 Points: 1 # Comments: 0",
+    "author": "meysamazad",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://unskilled.blog/posts/are-we-augmented-by-ai-yet/",
+    "id": "news-084"
+  },
+  {
+    "title": "ClearSpec – Turn vague goals into specs that AI agents can execute",
+    "summary": "Article URL: https://www.clearspec.dev/ Comments URL: https://news.ycombinator.com/item?id=47670715 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.clearspec.dev/ Comments URL: https://news.ycombinator.com/item?id=47670715 Points: 1 # Comments: 0",
+    "author": "mikopiko",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.clearspec.dev/",
+    "id": "news-083"
+  },
+  {
     "title": "AI workout plan generator for Indian personal trainers (coachiq.in)",
     "summary": "I built CoachIQ after watching personal trainers at my gym in Bengaluru spend hours creating client workout plans in Excel and sending them via WhatsApp voice notes.Trainer enters client profile, sele",
     "content": "I built CoachIQ after watching personal trainers at my gym in Bengaluru spend hours creating client workout plans in Excel and sending them via WhatsApp voice notes.Trainer enters client profile, selects training days, AI generates a full weekly plan in under 60 seconds. Plan is shared via a WhatsApp link — no app download for the client.Free for first 3 plans. ₹499 per month after that (about $6).The exercise library is also free at exercises.coachiq.in — 800 plus exercises with AI generated be",
