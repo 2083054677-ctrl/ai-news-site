@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI workout plan generator for Indian personal trainers (coachiq.in)",
+    "summary": "I built CoachIQ after watching personal trainers at my gym in Bengaluru spend hours creating client workout plans in Excel and sending them via WhatsApp voice notes.Trainer enters client profile, sele",
+    "content": "I built CoachIQ after watching personal trainers at my gym in Bengaluru spend hours creating client workout plans in Excel and sending them via WhatsApp voice notes.Trainer enters client profile, selects training days, AI generates a full weekly plan in under 60 seconds. Plan is shared via a WhatsApp link — no app download for the client.Free for first 3 plans. ₹499 per month after that (about $6).The exercise library is also free at exercises.coachiq.in — 800 plus exercises with AI generated be",
+    "author": "allgrips",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47669470",
+    "id": "news-082"
+  },
+  {
+    "title": "Physical Engineering AI – tools for mech engineers",
+    "summary": "Article URL: https://github.com/010zx00x1/Awesome-Physical-Engineering-AI Comments URL: https://news.ycombinator.com/item?id=47669539 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/010zx00x1/Awesome-Physical-Engineering-AI Comments URL: https://news.ycombinator.com/item?id=47669539 Points: 1 # Comments: 0",
+    "author": "010zx00x1",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/010zx00x1/Awesome-Physical-Engineering-AI",
+    "id": "news-081"
+  },
+  {
+    "title": "OpenClaw Plugin for Claude Code CLI – Persistent Worker Pool with Smart OAuth",
+    "summary": "Article URL: https://github.com/AlexChen31337/openclaw-plugin-claude-code Comments URL: https://news.ycombinator.com/item?id=47669615 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/AlexChen31337/openclaw-plugin-claude-code Comments URL: https://news.ycombinator.com/item?id=47669615 Points: 1 # Comments: 0",
+    "author": "alexchen_dev",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AlexChen31337/openclaw-plugin-claude-code",
+    "id": "news-080"
+  },
+  {
+    "title": "Kafka-ML: Connecting the data stream with ML/AI frameworks",
+    "summary": "Article URL: https://github.com/ertis-research/kafka-ml Comments URL: https://news.ycombinator.com/item?id=47669653 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ertis-research/kafka-ml Comments URL: https://news.ycombinator.com/item?id=47669653 Points: 1 # Comments: 0",
+    "author": "teleforce",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ertis-research/kafka-ml",
+    "id": "news-079"
+  },
+  {
+    "title": "The highest-scoring AI memory system ever benchmarked",
+    "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47669671 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47669671 Points: 1 # Comments: 0",
+    "author": "latchkey",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/milla-jovovich/mempalace",
+    "id": "news-078"
+  },
+  {
     "title": "Anthropic, OpenAI and Google sharing Intel to block Chinese distillation",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china Comments URL: https://news.ycombinator.com/item?id=47667824 Points: 2 # C",
     "content": "Article URL: https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china Comments URL: https://news.ycombinator.com/item?id=47667824 Points: 2 # Comments: 0",
