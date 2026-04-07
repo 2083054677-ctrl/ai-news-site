@@ -1,5 +1,70 @@
 [
   {
+    "title": "Simulating societies with LLM agents in TypeScript",
+    "summary": "Article URL: https://github.com/francemazzi/worldsim Comments URL: https://news.ycombinator.com/item?id=47672127 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/francemazzi/worldsim Comments URL: https://news.ycombinator.com/item?id=47672127 Points: 3 # Comments: 0",
+    "author": "SaverioMazzi",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/francemazzi/worldsim",
+    "id": "news-092"
+  },
+  {
+    "title": "Show HN: Senthex AI firewall for LLM API calls (one line of code, 16ms overhead)",
+    "summary": "Article URL: https://senthex.com:443/proxy/ Comments URL: https://news.ycombinator.com/item?id=47672143 Points: 2 # Comments: 0",
+    "content": "Article URL: https://senthex.com:443/proxy/ Comments URL: https://news.ycombinator.com/item?id=47672143 Points: 2 # Comments: 0",
+    "author": "yohann_senthex",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://senthex.com:443/proxy/",
+    "id": "news-091"
+  },
+  {
+    "title": "Show HN: AI agents that learn from each other's mistakes",
+    "summary": "Article URL: https://github.com/Prismer-AI/PrismerCloud Comments URL: https://news.ycombinator.com/item?id=47672287 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Prismer-AI/PrismerCloud Comments URL: https://news.ycombinator.com/item?id=47672287 Points: 1 # Comments: 0",
+    "author": "PrismerAI",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Prismer-AI/PrismerCloud",
+    "id": "news-090"
+  },
+  {
+    "title": "Writing an LLM from scratch, part 32h – Interventions: full fat float32",
+    "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32 Comments URL: https://news.ycombinator.com/item?id=47672355 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32 Comments URL: https://news.ycombinator.com/item?id=47672355 Points: 1 # Comments: 0",
+    "author": "ibobev",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32",
+    "id": "news-089"
+  },
+  {
+    "title": "Bridddge – Control LinkedIn Automation from Claude Code",
+    "summary": "Article URL: https://bridddge.com/en Comments URL: https://news.ycombinator.com/item?id=47672363 Points: 1 # Comments: 1",
+    "content": "Article URL: https://bridddge.com/en Comments URL: https://news.ycombinator.com/item?id=47672363 Points: 1 # Comments: 1",
+    "author": "karterswitch",
+    "date": "2026-04-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bridddge.com/en",
+    "id": "news-088"
+  },
+  {
     "title": "Google AI Edge Eloquent (iOS)",
     "summary": "Article URL: https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519 Comments URL: https://news.ycombinator.com/item?id=47670641 Points: 2 # Comments: 0",
     "content": "Article URL: https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519 Comments URL: https://news.ycombinator.com/item?id=47670641 Points: 2 # Comments: 0",
