@@ -1,5 +1,70 @@
 [
   {
+    "title": "Anthropic's latest AI model could let hackers carry out attacks faster",
+    "summary": "Article URL: https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity Comments URL: https://news.ycombinator.com/item?id=47687125 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity Comments URL: https://news.ycombinator.com/item?id=47687125 Points: 1 # Comments: 0",
+    "author": "rantingdemon",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+    "id": "news-145"
+  },
+  {
+    "title": "Show HN: Bring AI Agents to industrial control via \"SDK-style\" real-time engine",
+    "summary": "HiJust want to showcase this new real-time engine I built in Python.It can achieve precise real-time task execution with a jitter of less than 1ms, suitable to be used as a vPLC.It has a built-in auto",
+    "content": "HiJust want to showcase this new real-time engine I built in Python.It can achieve precise real-time task execution with a jitter of less than 1ms, suitable to be used as a vPLC.It has a built-in auto-generation of RESTful APIs and MCP, which allows direct integration with other systems and LLM agents.It also allows you to connect with real PLCs, industrial gateways, or edge units via the OPC UA protocol. So you can use it for backup.The URL links to a demo in action with Ignition SCADA and Curs",
+    "author": "ulfaric",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=3Uc_OT2CKiE",
+    "id": "news-144"
+  },
+  {
+    "title": "Claude AI down: Anthropic users hit with errors as chatbot goes offline",
+    "summary": "Article URL: https://www.the-independent.com/tech/claude-ai-down-anthropic-chatbot-error-status-b2953528.html Comments URL: https://news.ycombinator.com/item?id=47687173 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.the-independent.com/tech/claude-ai-down-anthropic-chatbot-error-status-b2953528.html Comments URL: https://news.ycombinator.com/item?id=47687173 Points: 3 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.the-independent.com/tech/claude-ai-down-anthropic-chatbot-error-status-b2953528.html",
+    "id": "news-143"
+  },
+  {
+    "title": "Milla Jovovich released an AI memory system. None of benchmark scores are real",
+    "summary": "Article URL: https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai Comments URL: https://news.ycombinator.com/item?id=47687208 Points: 1 # Comments: 0",
+    "content": "Article URL: https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai Comments URL: https://news.ycombinator.com/item?id=47687208 Points: 1 # Comments: 0",
+    "author": "mxpr",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai",
+    "id": "news-142"
+  },
+  {
+    "title": "UK's grand plan to fuel AI with public data faces uphill battle",
+    "summary": "Article URL: https://www.theregister.com/2026/04/08/national_data_library_plan/ Comments URL: https://news.ycombinator.com/item?id=47687226 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/04/08/national_data_library_plan/ Comments URL: https://news.ycombinator.com/item?id=47687226 Points: 1 # Comments: 0",
+    "author": "jjgreen",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/04/08/national_data_library_plan/",
+    "id": "news-141"
+  },
+  {
     "title": "FitPlan AI – AI that builds your workout plan in seconds",
     "summary": "Article URL: https://projectgym.org/ Comments URL: https://news.ycombinator.com/item?id=47685583 Points: 1 # Comments: 0",
     "content": "Article URL: https://projectgym.org/ Comments URL: https://news.ycombinator.com/item?id=47685583 Points: 1 # Comments: 0",
