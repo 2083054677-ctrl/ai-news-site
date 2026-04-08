@@ -1,5 +1,83 @@
 [
   {
+    "title": "Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation",
+    "summary": "Elon Musk says he doesn't want a penny for himself: He's amended his lawsuit against OpenAI so that potential billions in damages would go to the charitable foundation instead. OpenAI calls it a \"hara",
+    "content": "Elon Musk says he doesn't want a penny for himself: He's amended his lawsuit against OpenAI so that potential billions in damages would go to the charitable foundation instead. OpenAI calls it a \"harassment campaign.\" The article Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/musk-updates-openai-lawsuit-to-redirect-potential-150b-in-damages-to-the-nonprofit-foundation/",
+    "id": "news-151"
+  },
+  {
+    "title": "Completely Private AI",
+    "summary": "Article URL: https://molebieai.com/ Comments URL: https://news.ycombinator.com/item?id=47687824 Points: 1 # Comments: 0",
+    "content": "Article URL: https://molebieai.com/ Comments URL: https://news.ycombinator.com/item?id=47687824 Points: 1 # Comments: 0",
+    "author": "Jimmy6929",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://molebieai.com/",
+    "id": "news-150"
+  },
+  {
+    "title": "An AI Agent. In COBOL. Yes",
+    "summary": "Article URL: https://github.com/xawt/cobold-cli Comments URL: https://news.ycombinator.com/item?id=47687923 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/xawt/cobold-cli Comments URL: https://news.ycombinator.com/item?id=47687923 Points: 3 # Comments: 0",
+    "author": "Brosper",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/xawt/cobold-cli",
+    "id": "news-149"
+  },
+  {
+    "title": "OpenAI Codex reaches 3M weekly active users, up from 2M in under a month",
+    "summary": "Article URL: https://twitter.com/thsottiaux/status/2041655710346572085 Comments URL: https://news.ycombinator.com/item?id=47688074 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/thsottiaux/status/2041655710346572085 Comments URL: https://news.ycombinator.com/item?id=47688074 Points: 3 # Comments: 0",
+    "author": "alecco",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/thsottiaux/status/2041655710346572085",
+    "id": "news-148"
+  },
+  {
+    "title": "ZeroKeep – Private AI workspace on WebGPU. Zero cost, zero setup",
+    "summary": "Article URL: https://zerokeep.dev Comments URL: https://news.ycombinator.com/item?id=47688210 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zerokeep.dev Comments URL: https://news.ycombinator.com/item?id=47688210 Points: 1 # Comments: 0",
+    "author": "bozmen",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zerokeep.dev",
+    "id": "news-147"
+  },
+  {
+    "title": "Claude Mythos Preview: Available in Private Preview on Vertex AI",
+    "summary": "Article URL: https://cloud.google.com/blog/products/ai-machine-learning/claude-mythos-preview-on-vertex-ai Comments URL: https://news.ycombinator.com/item?id=47688319 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cloud.google.com/blog/products/ai-machine-learning/claude-mythos-preview-on-vertex-ai Comments URL: https://news.ycombinator.com/item?id=47688319 Points: 1 # Comments: 0",
+    "author": "Topfi",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cloud.google.com/blog/products/ai-machine-learning/claude-mythos-preview-on-vertex-ai",
+    "id": "news-146"
+  },
+  {
     "title": "Anthropic's latest AI model could let hackers carry out attacks faster",
     "summary": "Article URL: https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity Comments URL: https://news.ycombinator.com/item?id=47687125 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity Comments URL: https://news.ycombinator.com/item?id=47687125 Points: 1 # Comments: 0",
