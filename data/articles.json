@@ -1,5 +1,70 @@
 [
   {
+    "title": "Under these conditions, LLM's basically never hallucinate",
+    "summary": "Article URL: https://simianwords.bearblog.dev/under-these-conditions-llms-basically-never-hallucinates/ Comments URL: https://news.ycombinator.com/item?id=47695691 Points: 1 # Comments: 2",
+    "content": "Article URL: https://simianwords.bearblog.dev/under-these-conditions-llms-basically-never-hallucinates/ Comments URL: https://news.ycombinator.com/item?id=47695691 Points: 1 # Comments: 2",
+    "author": "simianwords",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simianwords.bearblog.dev/under-these-conditions-llms-basically-never-hallucinates/",
+    "id": "news-178"
+  },
+  {
+    "title": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
+    "summary": "Article URL: https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html Comments URL: https://news.ycombinator.com/item?id=47695755 P",
+    "content": "Article URL: https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html Comments URL: https://news.ycombinator.com/item?id=47695755 Points: 3 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html",
+    "id": "news-177"
+  },
+  {
+    "title": "Let Me Claude That for You",
+    "summary": "Article URL: https://lmctfy.blmc.dev/ Comments URL: https://news.ycombinator.com/item?id=47695771 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lmctfy.blmc.dev/ Comments URL: https://news.ycombinator.com/item?id=47695771 Points: 1 # Comments: 0",
+    "author": "henryaj",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lmctfy.blmc.dev/",
+    "id": "news-176"
+  },
+  {
+    "title": "Cursor AI Documentation of a 61GB RAM failure and subsequent forum shadowbanning",
+    "summary": "Article URL: https://github.com/blackysdeamon/cursor-ai-negligence-report Comments URL: https://news.ycombinator.com/item?id=47695789 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/blackysdeamon/cursor-ai-negligence-report Comments URL: https://news.ycombinator.com/item?id=47695789 Points: 1 # Comments: 0",
+    "author": "Lunurubus",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/blackysdeamon/cursor-ai-negligence-report",
+    "id": "news-175"
+  },
+  {
+    "title": "Anthropic's AI to Help Apple Find iOS, macOS, and Safari Vulnerabilities",
+    "summary": "Article URL: https://www.macrumors.com/2026/04/08/apple-anthropic-project-glasswing/ Comments URL: https://news.ycombinator.com/item?id=47695892 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.macrumors.com/2026/04/08/apple-anthropic-project-glasswing/ Comments URL: https://news.ycombinator.com/item?id=47695892 Points: 1 # Comments: 0",
+    "author": "tosh",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.macrumors.com/2026/04/08/apple-anthropic-project-glasswing/",
+    "id": "news-174"
+  },
+  {
     "title": "Meta's Muse Spark is its first frontier model and its first without open weights",
     "summary": "Meta Superintelligence Labs ships Muse Spark, its first frontier model and Meta's first without open weights. Independent testing shows it closing the gap to OpenAI, Anthropic, and Google, but the com",
     "content": "Meta Superintelligence Labs ships Muse Spark, its first frontier model and Meta's first without open weights. Independent testing shows it closing the gap to OpenAI, Anthropic, and Google, but the competition isn't standing still. The article Meta's Muse Spark is its first frontier model and its first without open weights appeared first on The Decoder.",
