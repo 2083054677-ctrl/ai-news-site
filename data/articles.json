@@ -1,5 +1,83 @@
 [
   {
+    "title": "From GPT-2 to Claude Mythos: The return of AI models deemed 'too dangerous to release'",
+    "summary": "Seven years ago, OpenAI declared its language model GPT-2 \"too dangerous to release.\" The industry rolled its eyes. Now Anthropic is repeating the move with Claude Mythos Preview - but this time there",
+    "content": "Seven years ago, OpenAI declared its language model GPT-2 \"too dangerous to release.\" The industry rolled its eyes. Now Anthropic is repeating the move with Claude Mythos Preview - but this time there's real evidence on the table: thousands of vulnerabilities in operating systems and browsers, found by an AI that barely any human could review. The article From GPT-2 to Claude Mythos: The return of AI models deemed 'too dangerous to release' appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/from-gpt-2-to-claude-mythos-the-return-of-ai-models-deemed-too-dangerous-to-release/",
+    "id": "news-157"
+  },
+  {
+    "title": "Show HN: Flowcost – know what your AI workflow is likely to cost",
+    "summary": "Hi HN, I built Flowcost.The idea is simple: know what your AI workflow is likely to cost before implementation.I started working on this because in client work and while building another personal proj",
+    "content": "Hi HN, I built Flowcost.The idea is simple: know what your AI workflow is likely to cost before implementation.I started working on this because in client work and while building another personal project, I kept running into the same problem: I couldn’t reason clearly about the whole system or share those ideas with others. Once retrieval, retries, tool use, infrastructure, and different model choices enter the picture, it becomes much harder to understand both cost and performance.Flowcost is m",
+    "author": "erikms",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.flowcost.ai/",
+    "id": "news-156"
+  },
+  {
+    "title": "Show HN: Heron is open-source security auditor that interviews your AI agents",
+    "summary": "Last week security guy in our company asked me to write doc with information about how they work, which data and systems it touches for all my AI agents. \"It's too much work\" i thought. So i built Her",
+    "content": "Last week security guy in our company asked me to write doc with information about how they work, which data and systems it touches for all my AI agents. \"It's too much work\" i thought. So i built Heron. It interviews your agent with 10 main questions and smart follow-ups if feel uncertainty. It also has regulatory flags (SOC2, GDPR, EU AI Act etc). As a result you get a full report with all needed information.Feel free to try. No SDK, no code changes, MIT licensed. Have 4 modes (server, overrid",
+    "author": "IlyaIvanov0",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/theonaai/Heron",
+    "id": "news-155"
+  },
+  {
+    "title": "Show HN: I kept missing Claude Code prompts, so I built a tray dot in Rust",
+    "summary": "I kept missing Claude Code prompts while working on something else. Notifications pile up and I tune them out. What I wanted was a dot in the corner of the screen that turns yellow when an agent needs",
+    "content": "I kept missing Claude Code prompts while working on something else. Notifications pile up and I tune them out. What I wanted was a dot in the corner of the screen that turns yellow when an agent needs me.So I built a wrapper app. It hooks into Claude Code's hook system (Codex and Gemini support is rough) so updates come from events. Falls back to process scanning for CLIs without hooks. There's a popup with a Focus button that jumps to the right terminal.Tauri 2 + Rust backend, SvelteKit for the",
+    "author": "rakeshd",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sprklai/agenttray",
+    "id": "news-154"
+  },
+  {
+    "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
+    "summary": "I connected the ChatGPT API (model gpt-4o) to an 8-bit shoot-'em-up game, PvP-AI, running on a Commander X16 emulator.Instead of pixels or audio, the model receives structured text summaries, what I’m",
+    "content": "I connected the ChatGPT API (model gpt-4o) to an 8-bit shoot-'em-up game, PvP-AI, running on a Commander X16 emulator.Instead of pixels or audio, the model receives structured text summaries, what I’m calling \"smart senses\", based on the game's existing touch and EMF-style inputs.The LLM maintains notes between turns, develops strategies across games, and even discovers an exploit in the built-in AI's behavior.Write-up, technical details, and three sequential gameplay recordings: https://pvp-ai.",
+    "author": "russellharper",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pvp-ai.russell-harper.com",
+    "id": "news-153"
+  },
+  {
+    "title": "We audited Claude Code and confirmed RCE via environment variable injection",
+    "summary": "Article URL: https://audited.xyz/blog/claude-code Comments URL: https://news.ycombinator.com/item?id=47689593 Points: 2 # Comments: 1",
+    "content": "Article URL: https://audited.xyz/blog/claude-code Comments URL: https://news.ycombinator.com/item?id=47689593 Points: 2 # Comments: 1",
+    "author": "zack-eth",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://audited.xyz/blog/claude-code",
+    "id": "news-152"
+  },
+  {
     "title": "Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation",
     "summary": "Elon Musk says he doesn't want a penny for himself: He's amended his lawsuit against OpenAI so that potential billions in damages would go to the charitable foundation instead. OpenAI calls it a \"hara",
     "content": "Elon Musk says he doesn't want a penny for himself: He's amended his lawsuit against OpenAI so that potential billions in damages would go to the charitable foundation instead. OpenAI calls it a \"harassment campaign.\" The article Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation appeared first on The Decoder.",
