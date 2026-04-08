@@ -1,5 +1,109 @@
 [
   {
+    "title": "Nudifying bots, deepfakes, and automated archives: how AI powers a monetized abuse ecosystem on Telegram",
+    "summary": "An analysis of 2.8 million Telegram messages in Italy and Spain documents how AI tools are fueling a monetized ecosystem built around non-consensual intimate imagery. The article Nudifying bots, deepf",
+    "content": "An analysis of 2.8 million Telegram messages in Italy and Spain documents how AI tools are fueling a monetized ecosystem built around non-consensual intimate imagery. The article Nudifying bots, deepfakes, and automated archives: how AI powers a monetized abuse ecosystem on Telegram appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nudifying-bots-deepfakes-and-automated-archives-how-ai-powers-a-monetized-abuse-ecosystem-on-telegram/",
+    "id": "news-172"
+  },
+  {
+    "title": "One in four quotes in AI chatbot responses comes from journalism, Muckrack study finds",
+    "summary": "Where do ChatGPT, Claude, and Gemini get their information? An analysis of 15 million AI citations shows that one in four source references traces back to journalism. Trade publications and specialist",
+    "content": "Where do ChatGPT, Claude, and Gemini get their information? An analysis of 15 million AI citations shows that one in four source references traces back to journalism. Trade publications and specialist journalists benefit most, while general news outlets tend to rank lower. The article One in four quotes in AI chatbot responses comes from journalism, Muckrack study finds appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/one-in-four-quotes-in-ai-chatbot-responses-comes-from-journalism-muckrack-study-finds/",
+    "id": "news-171"
+  },
+  {
+    "title": "Stability AI launches Brand Studio for brand-consistent image generation",
+    "summary": "Stability AI is going commercial: The new \"Brand Studio\" lets creative teams generate AI visuals that match their brand identity, using custom-trained models, automated production workflows, and preci",
+    "content": "Stability AI is going commercial: The new \"Brand Studio\" lets creative teams generate AI visuals that match their brand identity, using custom-trained models, automated production workflows, and precision image editing tools. The article Stability AI launches Brand Studio for brand-consistent image generation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/stability-ai-launches-brand-studio-for-brand-consistent-image-generation/",
+    "id": "news-170"
+  },
+  {
+    "title": "AI Experience Engineering",
+    "summary": "Article URL: https://raqibul.com/writing/ai-experience-engineering Comments URL: https://news.ycombinator.com/item?id=47692593 Points: 1 # Comments: 0",
+    "content": "Article URL: https://raqibul.com/writing/ai-experience-engineering Comments URL: https://news.ycombinator.com/item?id=47692593 Points: 1 # Comments: 0",
+    "author": "raqib-hayder",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://raqibul.com/writing/ai-experience-engineering",
+    "id": "news-169"
+  },
+  {
+    "title": "Akamai: AI bot traffic surged 300% in 2025, hitting publishers hardest",
+    "summary": "Article URL: https://www.akamai.com/resources/state-of-the-internet/publishing-ai-botnet-report Comments URL: https://news.ycombinator.com/item?id=47692598 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.akamai.com/resources/state-of-the-internet/publishing-ai-botnet-report Comments URL: https://news.ycombinator.com/item?id=47692598 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.akamai.com/resources/state-of-the-internet/publishing-ai-botnet-report",
+    "id": "news-168"
+  },
+  {
+    "title": "Show HN: One click to deploy AI platforms and other open source tools",
+    "summary": "Article URL: https://hyp.app Comments URL: https://news.ycombinator.com/item?id=47692634 Points: 2 # Comments: 0",
+    "content": "Article URL: https://hyp.app Comments URL: https://news.ycombinator.com/item?id=47692634 Points: 2 # Comments: 0",
+    "author": "dashtio",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hyp.app",
+    "id": "news-167"
+  },
+  {
+    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+    "summary": "Article URL: https://github.com/onesuper/tui-use Comments URL: https://news.ycombinator.com/item?id=47692661 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/onesuper/tui-use Comments URL: https://news.ycombinator.com/item?id=47692661 Points: 3 # Comments: 0",
+    "author": "dreamsome",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/onesuper/tui-use",
+    "id": "news-166"
+  },
+  {
+    "title": "AI doesn't know how to interact with touchscreens",
+    "summary": "Article URL: https://blog.allada.com/give-an-llm-an-api-and-itll-thrive-give-it-a-touchscreen-and-it-struggles/ Comments URL: https://news.ycombinator.com/item?id=47692674 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.allada.com/give-an-llm-an-api-and-itll-thrive-give-it-a-touchscreen-and-it-struggles/ Comments URL: https://news.ycombinator.com/item?id=47692674 Points: 1 # Comments: 0",
+    "author": "allada",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.allada.com/give-an-llm-an-api-and-itll-thrive-give-it-a-touchscreen-and-it-struggles/",
+    "id": "news-165"
+  },
+  {
     "title": "Safetensors is Joining the PyTorch Foundation",
     "summary": "Safetensors is Joining the PyTorch Foundation",
     "content": "",
