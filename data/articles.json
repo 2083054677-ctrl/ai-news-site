@@ -1,5 +1,98 @@
 [
   {
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "summary": "Safetensors is Joining the PyTorch Foundation",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+    "id": "news-164"
+  },
+  {
+    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+    "summary": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/altk-evolve",
+    "id": "news-163"
+  },
+  {
+    "title": "Anthropic hires Microsoft's Azure AI chief to fix its infrastructure problems",
+    "summary": "Anthropic has hired Eric Boyd, a senior Microsoft executive, as its new head of infrastructure, Bloomberg reports. The article Anthropic hires Microsoft's Azure AI chief to fix its infrastructure prob",
+    "content": "Anthropic has hired Eric Boyd, a senior Microsoft executive, as its new head of infrastructure, Bloomberg reports. The article Anthropic hires Microsoft's Azure AI chief to fix its infrastructure problems appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-hires-microsofts-azure-ai-chief-to-fix-its-infrastructure-problems/",
+    "id": "news-162"
+  },
+  {
+    "title": "A rigorous .md specification for AI Daemons",
+    "summary": "Article URL: https://ai-daemons.com/spec/ Comments URL: https://news.ycombinator.com/item?id=47690961 Points: 3 # Comments: 0",
+    "content": "Article URL: https://ai-daemons.com/spec/ Comments URL: https://news.ycombinator.com/item?id=47690961 Points: 3 # Comments: 0",
+    "author": "mrbbk",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-daemons.com/spec/",
+    "id": "news-161"
+  },
+  {
+    "title": "Cogito: Beautiful AI Markdown Editor for Mac",
+    "summary": "Article URL: https://cogito.md Comments URL: https://news.ycombinator.com/item?id=47690962 Points: 4 # Comments: 0",
+    "content": "Article URL: https://cogito.md Comments URL: https://news.ycombinator.com/item?id=47690962 Points: 4 # Comments: 0",
+    "author": "0xferruccio",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cogito.md",
+    "id": "news-160"
+  },
+  {
+    "title": "Chilcy – Free AI tool for CSV insights",
+    "summary": "Article URL: https://www.chilcy.com/ Comments URL: https://news.ycombinator.com/item?id=47691127 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.chilcy.com/ Comments URL: https://news.ycombinator.com/item?id=47691127 Points: 1 # Comments: 0",
+    "author": "sajithfx",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.chilcy.com/",
+    "id": "news-159"
+  },
+  {
+    "title": "Northeastern presentation to junior engineers in the age of AI",
+    "summary": "Article URL: https://blog.marcua.net/2026/04/08/ai-agent-revolution-junior-software-engineers.html Comments URL: https://news.ycombinator.com/item?id=47691156 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.marcua.net/2026/04/08/ai-agent-revolution-junior-software-engineers.html Comments URL: https://news.ycombinator.com/item?id=47691156 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.marcua.net/2026/04/08/ai-agent-revolution-junior-software-engineers.html",
+    "id": "news-158"
+  },
+  {
     "title": "From GPT-2 to Claude Mythos: The return of AI models deemed 'too dangerous to release'",
     "summary": "Seven years ago, OpenAI declared its language model GPT-2 \"too dangerous to release.\" The industry rolled its eyes. Now Anthropic is repeating the move with Claude Mythos Preview - but this time there",
     "content": "Seven years ago, OpenAI declared its language model GPT-2 \"too dangerous to release.\" The industry rolled its eyes. Now Anthropic is repeating the move with Claude Mythos Preview - but this time there's real evidence on the table: thousands of vulnerabilities in operating systems and browsers, found by an AI that barely any human could review. The article From GPT-2 to Claude Mythos: The return of AI models deemed 'too dangerous to release' appeared first on The Decoder.",
