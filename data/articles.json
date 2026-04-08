@@ -1,5 +1,70 @@
 [
   {
+    "title": "Decentralized AI from Scratch",
+    "summary": "Article URL: https://github.com/iamtrask/decentralized-ai-from-scratch Comments URL: https://news.ycombinator.com/item?id=47684935 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/iamtrask/decentralized-ai-from-scratch Comments URL: https://news.ycombinator.com/item?id=47684935 Points: 3 # Comments: 0",
+    "author": "williamtrask",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/iamtrask/decentralized-ai-from-scratch",
+    "id": "news-135"
+  },
+  {
+    "title": "ContextSync – Sync VS Code AI Context via Obsidian/OneDrive",
+    "summary": "I’m a student at UofT and I got tired of the \"context amnesia\" that happens when working in a team with AI. Every morning we’d have to re-explain the same architectural decisions to our individual Cop",
+    "content": "I’m a student at UofT and I got tired of the \"context amnesia\" that happens when working in a team with AI. Every morning we’d have to re-explain the same architectural decisions to our individual Copilot/LLM sessions.I built ContextSync to solve this using a \"decentralized\" approach. Instead of building a complex backend, it saves your chat history as structured Markdown files in a synced folder (like OneDrive or iCloud). If you use Obsidian, it essentially turns your vault into a \"shared brain",
+    "author": "ZayaanBhan123",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://marketplace.visualstudio.com/items?itemName=ZayaanBhanwadia.context-sync",
+    "id": "news-134"
+  },
+  {
+    "title": "Anthropic may have leaked Claude Code source on purpose",
+    "summary": "Article URL: https://www.ft.com/content/59249643-a221-4494-bcb5-62e5f4fedc8e Comments URL: https://news.ycombinator.com/item?id=47685077 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/59249643-a221-4494-bcb5-62e5f4fedc8e Comments URL: https://news.ycombinator.com/item?id=47685077 Points: 1 # Comments: 0",
+    "author": "zezaggering",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/59249643-a221-4494-bcb5-62e5f4fedc8e",
+    "id": "news-133"
+  },
+  {
+    "title": "Claude Code Chase Thread",
+    "summary": "Article URL: https://i.postimg.cc/7Y9sjHb4/Screenshot-2026-04-07-at-10-35-06-PM.png Comments URL: https://news.ycombinator.com/item?id=47685099 Points: 1 # Comments: 0",
+    "content": "Article URL: https://i.postimg.cc/7Y9sjHb4/Screenshot-2026-04-07-at-10-35-06-PM.png Comments URL: https://news.ycombinator.com/item?id=47685099 Points: 1 # Comments: 0",
+    "author": "dbfhac",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://i.postimg.cc/7Y9sjHb4/Screenshot-2026-04-07-at-10-35-06-PM.png",
+    "id": "news-132"
+  },
+  {
+    "title": "Show HN: The Spotify for AI Agents – StarSinger MCP",
+    "summary": "Article URL: https://mcp.starsinger.ai/ Comments URL: https://news.ycombinator.com/item?id=47685225 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mcp.starsinger.ai/ Comments URL: https://news.ycombinator.com/item?id=47685225 Points: 1 # Comments: 0",
+    "author": "usestork",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mcp.starsinger.ai/",
+    "id": "news-131"
+  },
+  {
     "title": "Goldman CIO Marco Argenti on the Warp-Speed Improvements in AI",
     "summary": "Article URL: https://podcasts.apple.com/us/podcast/goldman-cio-marco-argenti-on-the-warp-speed/id1056200096?i=1000758173949 Comments URL: https://news.ycombinator.com/item?id=47683218 Points: 1 # Comm",
     "content": "Article URL: https://podcasts.apple.com/us/podcast/goldman-cio-marco-argenti-on-the-warp-speed/id1056200096?i=1000758173949 Comments URL: https://news.ycombinator.com/item?id=47683218 Points: 1 # Comments: 0",
