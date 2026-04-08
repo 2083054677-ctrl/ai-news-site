@@ -1,5 +1,70 @@
 [
   {
+    "title": "Goldman CIO Marco Argenti on the Warp-Speed Improvements in AI",
+    "summary": "Article URL: https://podcasts.apple.com/us/podcast/goldman-cio-marco-argenti-on-the-warp-speed/id1056200096?i=1000758173949 Comments URL: https://news.ycombinator.com/item?id=47683218 Points: 1 # Comm",
+    "content": "Article URL: https://podcasts.apple.com/us/podcast/goldman-cio-marco-argenti-on-the-warp-speed/id1056200096?i=1000758173949 Comments URL: https://news.ycombinator.com/item?id=47683218 Points: 1 # Comments: 0",
+    "author": "KnuthIsGod",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://podcasts.apple.com/us/podcast/goldman-cio-marco-argenti-on-the-warp-speed/id1056200096?i=1000758173949",
+    "id": "news-130"
+  },
+  {
+    "title": "Odd Lots: This Is How to Tell If Writing Was Made by AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast Comments URL: https://news.ycombinator.com/item?id=47683428 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast Comments URL: https://news.ycombinator.com/item?id=47683428 Points: 2 # Comments: 0",
+    "author": "KnuthIsGod",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast",
+    "id": "news-129"
+  },
+  {
+    "title": "Law Students: AI Is Changing Things",
+    "summary": "Article URL: https://maxglobalnews.com/the-future-of-lawyers-in-the-age-of-ai-%f0%9f%92%bb/ Comments URL: https://news.ycombinator.com/item?id=47683583 Points: 1 # Comments: 0",
+    "content": "Article URL: https://maxglobalnews.com/the-future-of-lawyers-in-the-age-of-ai-%f0%9f%92%bb/ Comments URL: https://news.ycombinator.com/item?id=47683583 Points: 1 # Comments: 0",
+    "author": "videobroker",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://maxglobalnews.com/the-future-of-lawyers-in-the-age-of-ai-%f0%9f%92%bb/",
+    "id": "news-128"
+  },
+  {
+    "title": "Impact of 100% Adoption of AI Coding Agents by Non-Technical Team",
+    "summary": "Article URL: https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47683649 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47683649 Points: 1 # Comments: 0",
+    "author": "jenthoven",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/",
+    "id": "news-127"
+  },
+  {
+    "title": "Show HN: Omni Voice – AI Voice Cloning and Text-to-Speech Platform",
+    "summary": "Article URL: https://omnivoice.app Comments URL: https://news.ycombinator.com/item?id=47683789 Points: 1 # Comments: 0",
+    "content": "Article URL: https://omnivoice.app Comments URL: https://news.ycombinator.com/item?id=47683789 Points: 1 # Comments: 0",
+    "author": "danielmateo773",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://omnivoice.app",
+    "id": "news-126"
+  },
+  {
     "title": "Show HN: Swiper Studio v2 – Visual slider builder with AI agent support (MCP)",
     "summary": "I'm the author of Swiper, the open-source slider library. Swiper Studio is a visual builder on top of it. V2 brings a redesigned editor, keyboard shortcuts, element animations, video support, responsi",
     "content": "I'm the author of Swiper, the open-source slider library. Swiper Studio is a visual builder on top of it. V2 brings a redesigned editor, keyboard shortcuts, element animations, video support, responsive breakpoints, Next.js export, and an MCP server that lets AI agents (Claude, Cursor, etc.) build sliders through natural language. Comments URL: https://news.ycombinator.com/item?id=47680747 Points: 1 # Comments: 0",
