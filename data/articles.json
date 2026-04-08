@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Linggen – Open-source AI agent with P2P remote access from your phone",
+    "summary": "Hi HN, I built Linggen — a local-first, open-source AI coding agent written in Rust. What's new in 0.9.2: - P2P remote access via WebRTC — control your agent from your phone, no port forwarding or clo",
+    "content": "Hi HN, I built Linggen — a local-first, open-source AI coding agent written in Rust. What's new in 0.9.2: - P2P remote access via WebRTC — control your agent from your phone, no port forwarding or cloud relay needed. Just `ling login` and scan a QR code. - Plan mode — the agent proposes a step-by-step plan before writing code, you approve or edit before execution. - Works with any model — Ollama, OpenAI-compatible APIs, Gemini, DeepSeek. Bring your own keys or run fully local. It's like Claude C",
+    "author": "linggen",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://linggen.dev/",
+    "id": "news-183"
+  },
+  {
+    "title": "Resurrecting a 1992 MUD with Agentic AI",
+    "summary": "Article URL: https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic Comments URL: https://news.ycombinator.com/item?id=47696723 Points: 3 # Comments: 0",
+    "content": "Article URL: https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic Comments URL: https://news.ycombinator.com/item?id=47696723 Points: 3 # Comments: 0",
+    "author": "salt4034",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic",
+    "id": "news-182"
+  },
+  {
+    "title": "Ask HN: A CLI to control what AI code can (and can't) change in your repo",
+    "summary": "I’ve been using AI coding tools like Cursor and Claude quite a bit, and one recurring issue I ran into was this:Once code is generated, there’s very little control over what actually gets changed in t",
+    "content": "I’ve been using AI coding tools like Cursor and Claude quite a bit, and one recurring issue I ran into was this:Once code is generated, there’s very little control over what actually gets changed in the codebase.Sometimes the AI: • modifies unrelated files • introduces changes outside the intended scope • or drifts from the original structureMost tools either help generate code or review it after the fact, but there’s no real control layer in between.So I built a CLI that sits between AI-generat",
+    "author": "sujitjaunjal",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47696831",
+    "id": "news-181"
+  },
+  {
+    "title": "OpenAI Codex Moves to API Usage-Based Pricing for All Users",
+    "summary": "Article URL: https://startupfortune.com/openai-codex-moves-to-api-usage-based-pricing-for-all-users/ Comments URL: https://news.ycombinator.com/item?id=47696947 Points: 2 # Comments: 1",
+    "content": "Article URL: https://startupfortune.com/openai-codex-moves-to-api-usage-based-pricing-for-all-users/ Comments URL: https://news.ycombinator.com/item?id=47696947 Points: 2 # Comments: 1",
+    "author": "wheelerwj",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://startupfortune.com/openai-codex-moves-to-api-usage-based-pricing-for-all-users/",
+    "id": "news-180"
+  },
+  {
+    "title": "D.C. Circuit Declines to Stay DoW's \"Supply-Chain Risk\" Designation of Claude",
+    "summary": "Article URL: https://reason.com/volokh/2026/04/08/d-c-circuit-declines-to-stay-department-of-wars-supply-chain-risk-designation-of-claude/ Comments URL: https://news.ycombinator.com/item?id=47697088 P",
+    "content": "Article URL: https://reason.com/volokh/2026/04/08/d-c-circuit-declines-to-stay-department-of-wars-supply-chain-risk-designation-of-claude/ Comments URL: https://news.ycombinator.com/item?id=47697088 Points: 2 # Comments: 0",
+    "author": "anonymousiam",
+    "date": "2026-04-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://reason.com/volokh/2026/04/08/d-c-circuit-declines-to-stay-department-of-wars-supply-chain-risk-designation-of-claude/",
+    "id": "news-179"
+  },
+  {
     "title": "Under these conditions, LLM's basically never hallucinate",
     "summary": "Article URL: https://simianwords.bearblog.dev/under-these-conditions-llms-basically-never-hallucinates/ Comments URL: https://news.ycombinator.com/item?id=47695691 Points: 1 # Comments: 2",
     "content": "Article URL: https://simianwords.bearblog.dev/under-these-conditions-llms-basically-never-hallucinates/ Comments URL: https://news.ycombinator.com/item?id=47695691 Points: 1 # Comments: 2",
