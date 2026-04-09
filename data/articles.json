@@ -1,5 +1,70 @@
 [
   {
+    "title": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat",
+    "summary": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat. The article Google Gemini now generates interactive visualizations you can tweak and explore",
+    "content": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat. The article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/",
+    "id": "news-214"
+  },
+  {
+    "title": "Benchmarking LLM Tool-Use in the Wild",
+    "summary": "Article URL: https://arxiv.org/abs/2604.06185 Comments URL: https://news.ycombinator.com/item?id=47705892 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.06185 Comments URL: https://news.ycombinator.com/item?id=47705892 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.06185",
+    "id": "news-213"
+  },
+  {
+    "title": "DDD Bounded Contexts: Clear Domain Boundaries for LLM Code Generation",
+    "summary": "Article URL: https://understandingdata.com/posts/ddd-bounded-contexts-for-llms/ Comments URL: https://news.ycombinator.com/item?id=47705896 Points: 1 # Comments: 0",
+    "content": "Article URL: https://understandingdata.com/posts/ddd-bounded-contexts-for-llms/ Comments URL: https://news.ycombinator.com/item?id=47705896 Points: 1 # Comments: 0",
+    "author": "locknitpicker",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://understandingdata.com/posts/ddd-bounded-contexts-for-llms/",
+    "id": "news-212"
+  },
+  {
+    "title": "Npx codemod AI: make your coding agent great at large migrations",
+    "summary": "Article URL: https://codemod.com/blog/npx-codemod-ai Comments URL: https://news.ycombinator.com/item?id=47705997 Points: 1 # Comments: 0",
+    "content": "Article URL: https://codemod.com/blog/npx-codemod-ai Comments URL: https://news.ycombinator.com/item?id=47705997 Points: 1 # Comments: 0",
+    "author": "alexbit2019",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codemod.com/blog/npx-codemod-ai",
+    "id": "news-211"
+  },
+  {
+    "title": "Show HN: AgentMint – Open-source OWASP compliance for AI agent tool calls",
+    "summary": "Article URL: https://github.com/aniketh-maddipati/agentmint-python Comments URL: https://news.ycombinator.com/item?id=47706092 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/aniketh-maddipati/agentmint-python Comments URL: https://news.ycombinator.com/item?id=47706092 Points: 2 # Comments: 0",
+    "author": "keertahacker",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aniketh-maddipati/agentmint-python",
+    "id": "news-210"
+  },
+  {
     "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
     "summary": "Multimodal Embedding & Reranker Models with Sentence Transformers",
     "content": "",
