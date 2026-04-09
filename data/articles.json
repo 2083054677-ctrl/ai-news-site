@@ -1,5 +1,84 @@
 [
   {
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "summary": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/waypoint-1-5",
+    "id": "news-222"
+  },
+  {
+    "title": "AI Changes Everything-and Nothing",
+    "summary": "Article URL: https://greyenlightenment.com/2026/04/04/ai-changes-everything-and-nothing/ Comments URL: https://news.ycombinator.com/item?id=47709154 Points: 1 # Comments: 0",
+    "content": "Article URL: https://greyenlightenment.com/2026/04/04/ai-changes-everything-and-nothing/ Comments URL: https://news.ycombinator.com/item?id=47709154 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://greyenlightenment.com/2026/04/04/ai-changes-everything-and-nothing/",
+    "id": "news-221"
+  },
+  {
+    "title": "US defense official overseeing AI reaped millions selling xAI stock",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 4 # Comments: 1",
+    "author": "malshe",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
+    "id": "news-220"
+  },
+  {
+    "title": "Show HN: Monetary policy tracker – AI sentiment analysis of 26 central bank",
+    "summary": "Article URL: https://monetary.live/ Comments URL: https://news.ycombinator.com/item?id=47709333 Points: 1 # Comments: 0",
+    "content": "Article URL: https://monetary.live/ Comments URL: https://news.ycombinator.com/item?id=47709333 Points: 1 # Comments: 0",
+    "author": "ipotapov",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://monetary.live/",
+    "id": "news-219"
+  },
+  {
+    "title": "Reasons to think that the Claude Mythos announcement was overblown",
+    "summary": "Article URL: https://garymarcus.substack.com/p/three-reasons-to-think-that-the-claude Comments URL: https://news.ycombinator.com/item?id=47709400 Points: 1 # Comments: 0",
+    "content": "Article URL: https://garymarcus.substack.com/p/three-reasons-to-think-that-the-claude Comments URL: https://news.ycombinator.com/item?id=47709400 Points: 1 # Comments: 0",
+    "author": "guilamu",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://garymarcus.substack.com/p/three-reasons-to-think-that-the-claude",
+    "id": "news-218"
+  },
+  {
+    "title": "Old habits die hard: Microsoft tries to limit our options, this time with AI",
+    "summary": "Article URL: https://blog.mozilla.org/en/mozilla/ai/microsoft-copilot-ai-user-choice/ Comments URL: https://news.ycombinator.com/item?id=47709506 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.mozilla.org/en/mozilla/ai/microsoft-copilot-ai-user-choice/ Comments URL: https://news.ycombinator.com/item?id=47709506 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.mozilla.org/en/mozilla/ai/microsoft-copilot-ai-user-choice/",
+    "id": "news-217"
+  },
+  {
     "title": "OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google",
     "summary": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier. The article",
     "content": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier. The article OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google appeared first on The Decoder.",
