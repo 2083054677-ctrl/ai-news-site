@@ -1,5 +1,96 @@
 [
   {
+    "title": "Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations",
+    "summary": "Zhipu AI has released its new GLM-5.1 model under an MIT license. The model can reportedly refine its own approach over hundreds of iterations when tackling coding tasks. The article Zhipu AI's GLM-5.",
+    "content": "Zhipu AI has released its new GLM-5.1 model under an MIT license. The model can reportedly refine its own approach over hundreds of iterations when tackling coding tasks. The article Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/zhipu-ais-glm-5-1-can-rethink-its-own-coding-strategy-across-hundreds-of-iterations/",
+    "id": "news-201"
+  },
+  {
+    "title": "US appeals court refuses to block Pentagon's blacklisting of Anthropic",
+    "summary": "A US appeals court has declined to temporarily block the Pentagon's designation of Anthropic as a national security risk, Reuters reports. The article US appeals court refuses to block Pentagon's blac",
+    "content": "A US appeals court has declined to temporarily block the Pentagon's designation of Anthropic as a national security risk, Reuters reports. The article US appeals court refuses to block Pentagon's blacklisting of Anthropic appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/us-appeals-court-refuses-to-block-pentagons-blacklisting-of-anthropic/",
+    "id": "news-200"
+  },
+  {
+    "title": "Using spec-driven development with Claude Code",
+    "summary": "Article URL: https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d9f29 Comments URL: https://news.ycombinator.com/item?id=47703039 Points: 3 # Comments: 0",
+    "content": "Article URL: https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d9f29 Comments URL: https://news.ycombinator.com/item?id=47703039 Points: 3 # Comments: 0",
+    "author": "csbrooks",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d9f29",
+    "id": "news-199"
+  },
+  {
+    "title": "GoAI SDK, one Go library for 22 LLM providers, only 2 core deps",
+    "summary": "Article URL: https://github.com/zendev-sh/goai Comments URL: https://news.ycombinator.com/item?id=47703094 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/zendev-sh/goai Comments URL: https://news.ycombinator.com/item?id=47703094 Points: 2 # Comments: 1",
+    "author": "vietanh85",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zendev-sh/goai",
+    "id": "news-198"
+  },
+  {
+    "title": "Show HN: Vibetime – Track what you ship in AI coding sessions",
+    "summary": "Article URL: https://github.com/iamnotstatic/vibetime Comments URL: https://news.ycombinator.com/item?id=47703112 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/iamnotstatic/vibetime Comments URL: https://news.ycombinator.com/item?id=47703112 Points: 2 # Comments: 0",
+    "author": "iamnotstatic",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/iamnotstatic/vibetime",
+    "id": "news-197"
+  },
+  {
+    "title": "OpenAI halts UK stargate project amid regulatory and energy price concerns",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/09/openai-halts-uk-stargate-project.html Comments URL: https://news.ycombinator.com/item?id=47703130 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/04/09/openai-halts-uk-stargate-project.html Comments URL: https://news.ycombinator.com/item?id=47703130 Points: 3 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/04/09/openai-halts-uk-stargate-project.html",
+    "id": "news-196"
+  },
+  {
+    "title": "Best AI Software for Auto-Populating Security Reviews 2026",
+    "summary": "Article URL: https://websites2know.com/best-ai-software-for-auto-populating-security-reviews/ Comments URL: https://news.ycombinator.com/item?id=47703165 Points: 1 # Comments: 0",
+    "content": "Article URL: https://websites2know.com/best-ai-software-for-auto-populating-security-reviews/ Comments URL: https://news.ycombinator.com/item?id=47703165 Points: 1 # Comments: 0",
+    "author": "WallaceWalley",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://websites2know.com/best-ai-software-for-auto-populating-security-reviews/",
+    "id": "news-195"
+  },
+  {
     "title": "Anthropic launches managed infrastructure for autonomous AI agents",
     "summary": "Anthropic's new \"Claude Managed Agents\" gives developers a hosted platform for building and running autonomous AI agents. Early adopters like Notion and Rakuten are already using the system. The artic",
     "content": "Anthropic's new \"Claude Managed Agents\" gives developers a hosted platform for building and running autonomous AI agents. Early adopters like Notion and Rakuten are already using the system. The article Anthropic launches managed infrastructure for autonomous AI agents appeared first on The Decoder.",
