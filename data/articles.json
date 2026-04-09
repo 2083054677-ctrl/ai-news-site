@@ -1,5 +1,110 @@
 [
   {
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "summary": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "id": "news-209"
+  },
+  {
+    "title": "New Stanford study reveals when teaming up AI agents is worth the compute",
+    "summary": "Multi-agent AI systems are widely considered more capable. A Stanford study shows their apparent advantage largely comes from using more compute. But there are important exceptions. The article New St",
+    "content": "Multi-agent AI systems are widely considered more capable. A Stanford study shows their apparent advantage largely comes from using more compute. But there are important exceptions. The article New Stanford study reveals when teaming up AI agents is worth the compute appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-stanford-study-reveals-when-teaming-up-ai-agents-is-worth-the-compute/",
+    "id": "news-208"
+  },
+  {
+    "title": "OpenAI reportedly following Anthropic's lead in restricting access to powerful cybersecurity AI",
+    "summary": "OpenAI is also working on a new AI model with advanced cybersecurity capabilities that will only be available to a small group of companies, according to Axios. The article OpenAI reportedly following",
+    "content": "OpenAI is also working on a new AI model with advanced cybersecurity capabilities that will only be available to a small group of companies, according to Axios. The article OpenAI reportedly following Anthropic's lead in restricting access to powerful cybersecurity AI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-reportedly-following-anthropics-lead-in-restricting-access-to-powerful-cybersecurity-ai/",
+    "id": "news-207"
+  },
+  {
+    "title": "Study: Google's AI Overviews show wrong answers every hour",
+    "summary": "Article URL: https://www.popsci.com/technology/ai-overview-inaccuracy-google/ Comments URL: https://news.ycombinator.com/item?id=47704713 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.popsci.com/technology/ai-overview-inaccuracy-google/ Comments URL: https://news.ycombinator.com/item?id=47704713 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.popsci.com/technology/ai-overview-inaccuracy-google/",
+    "id": "news-206"
+  },
+  {
+    "title": "Show HN: AI agents are bad at API integrations – we fixed it",
+    "summary": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same.This started from a",
+    "content": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same.This started from a conversation at PayPal DevDay 2025. The PayPal developer experience team were monitoring developers using AI agents to integrate PayPal APIs, and the agents kept reaching for outdated docs and deprecated SDK versions, often falling back to training data instead of reading the current API documentat",
+    "author": "sohaibtariq",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.apimatic.io/product/context-plugins/showcase",
+    "id": "news-205"
+  },
+  {
+    "title": "LLM agents shouldn't execute blindly – this one plans first and stays editable",
+    "summary": "Article URL: https://cuddlytoddly.com/ Comments URL: https://news.ycombinator.com/item?id=47704803 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cuddlytoddly.com/ Comments URL: https://news.ycombinator.com/item?id=47704803 Points: 1 # Comments: 0",
+    "author": "philiparxist",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cuddlytoddly.com/",
+    "id": "news-204"
+  },
+  {
+    "title": "An Agent Skill that implements Karpathy's LLM-wiki on personal GitHub Repo",
+    "summary": "Article URL: https://github.com/rarce/git-wiki Comments URL: https://news.ycombinator.com/item?id=47704809 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/rarce/git-wiki Comments URL: https://news.ycombinator.com/item?id=47704809 Points: 1 # Comments: 0",
+    "author": "rarce",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rarce/git-wiki",
+    "id": "news-203"
+  },
+  {
+    "title": "Claude mythos is the first model Anthropic didn't release",
+    "summary": "Article URL: https://blog.alcazarsec.com/tech/posts/claude-mythos-the-first-model-anthropic-didnt-really-release Comments URL: https://news.ycombinator.com/item?id=47704838 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.alcazarsec.com/tech/posts/claude-mythos-the-first-model-anthropic-didnt-really-release Comments URL: https://news.ycombinator.com/item?id=47704838 Points: 1 # Comments: 0",
+    "author": "alcazar",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.alcazarsec.com/tech/posts/claude-mythos-the-first-model-anthropic-didnt-really-release",
+    "id": "news-202"
+  },
+  {
     "title": "Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations",
     "summary": "Zhipu AI has released its new GLM-5.1 model under an MIT license. The model can reportedly refine its own approach over hundreds of iterations when tackling coding tasks. The article Zhipu AI's GLM-5.",
     "content": "Zhipu AI has released its new GLM-5.1 model under an MIT license. The model can reportedly refine its own approach over hundreds of iterations when tackling coding tasks. The article Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations appeared first on The Decoder.",
