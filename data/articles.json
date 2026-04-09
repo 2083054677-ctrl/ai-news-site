@@ -1,5 +1,70 @@
 [
   {
+    "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
+    "summary": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs Comments URL: https://news.ycombinator.com/item?id=47699090 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs Comments URL: https://news.ycombinator.com/item?id=47699090 Points: 3 # Comments: 0",
+    "author": "Stratoscope",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+    "id": "news-188"
+  },
+  {
+    "title": "Show HN: Image to Music AI – Turn Any Photo into an Original Soundtrack",
+    "summary": "Article URL: https://imagetomusicai.com/ Comments URL: https://news.ycombinator.com/item?id=47699105 Points: 1 # Comments: 0",
+    "content": "Article URL: https://imagetomusicai.com/ Comments URL: https://news.ycombinator.com/item?id=47699105 Points: 1 # Comments: 0",
+    "author": "airobus",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://imagetomusicai.com/",
+    "id": "news-187"
+  },
+  {
+    "title": "Esquire Singapore responds to criticism over use of AI for Mackenyu story",
+    "summary": "Article URL: https://cnalifestyle.channelnewsasia.com/entertainment/esquire-singapore-ai-mackenyu-interview-backlash-581276 Comments URL: https://news.ycombinator.com/item?id=47699163 Points: 1 # Comm",
+    "content": "Article URL: https://cnalifestyle.channelnewsasia.com/entertainment/esquire-singapore-ai-mackenyu-interview-backlash-581276 Comments URL: https://news.ycombinator.com/item?id=47699163 Points: 1 # Comments: 0",
+    "author": "hboon",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cnalifestyle.channelnewsasia.com/entertainment/esquire-singapore-ai-mackenyu-interview-backlash-581276",
+    "id": "news-186"
+  },
+  {
+    "title": "Alignment Risk Update for Claude Mythos [pdf]",
+    "summary": "Article URL: https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf Comments URL: https://news.ycombinator.com/item?id=47699202 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf Comments URL: https://news.ycombinator.com/item?id=47699202 Points: 1 # Comments: 0",
+    "author": "jablongo",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf",
+    "id": "news-185"
+  },
+  {
+    "title": "The Waymo Rule for AI-Generated Code",
+    "summary": "Article URL: https://rng.md/posts/the-waymo-rule-for-ai-generated-code/ Comments URL: https://news.ycombinator.com/item?id=47699215 Points: 1 # Comments: 0",
+    "content": "Article URL: https://rng.md/posts/the-waymo-rule-for-ai-generated-code/ Comments URL: https://news.ycombinator.com/item?id=47699215 Points: 1 # Comments: 0",
+    "author": "handfuloflight",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rng.md/posts/the-waymo-rule-for-ai-generated-code/",
+    "id": "news-184"
+  },
+  {
     "title": "Show HN: Linggen – Open-source AI agent with P2P remote access from your phone",
     "summary": "Hi HN, I built Linggen — a local-first, open-source AI coding agent written in Rust. What's new in 0.9.2: - P2P remote access via WebRTC — control your agent from your phone, no port forwarding or clo",
     "content": "Hi HN, I built Linggen — a local-first, open-source AI coding agent written in Rust. What's new in 0.9.2: - P2P remote access via WebRTC — control your agent from your phone, no port forwarding or cloud relay needed. Just `ling login` and scan a QR code. - Plan mode — the agent proposes a step-by-step plan before writing code, you approve or edit before execution. - Works with any model — Ollama, OpenAI-compatible APIs, Gemini, DeepSeek. Bring your own keys or run fully local. It's like Claude C",
