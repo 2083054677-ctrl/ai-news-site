@@ -1,5 +1,31 @@
 [
   {
+    "title": "OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google",
+    "summary": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier. The article",
+    "content": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier. The article OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-halves-its-pro-price-to-100-for-heavy-codex-users-undercuts-anthropic-and-google/",
+    "id": "news-216"
+  },
+  {
+    "title": "Claude Cowork expands to all paid plans on macOS and Windows with new org controls",
+    "summary": "Anthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration. The article Claude Cowork expands to all paid plans on macOS and Windows with n",
+    "content": "Anthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration. The article Claude Cowork expands to all paid plans on macOS and Windows with new org controls appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/",
+    "id": "news-215"
+  },
+  {
     "title": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat",
     "summary": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat. The article Google Gemini now generates interactive visualizations you can tweak and explore",
     "content": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat. The article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
