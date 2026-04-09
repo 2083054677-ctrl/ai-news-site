@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Curated list of ~40 AI browser extensions across 9 categories",
+    "summary": "Article URL: https://github.com/kklt92/awesome-ai-extensions Comments URL: https://news.ycombinator.com/item?id=47710829 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/kklt92/awesome-ai-extensions Comments URL: https://news.ycombinator.com/item?id=47710829 Points: 2 # Comments: 0",
+    "author": "imvyarqoyzcuem",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kklt92/awesome-ai-extensions",
+    "id": "news-227"
+  },
+  {
+    "title": "Use a gaming PC as a Google Gemma 4 LLM server",
+    "summary": "Article URL: https://sgbarker.com/use-a-gaming-pc-as-a-google-gemma-4-llm-server/ Comments URL: https://news.ycombinator.com/item?id=47710849 Points: 1 # Comments: 1",
+    "content": "Article URL: https://sgbarker.com/use-a-gaming-pc-as-a-google-gemma-4-llm-server/ Comments URL: https://news.ycombinator.com/item?id=47710849 Points: 1 # Comments: 1",
+    "author": "amaitu",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sgbarker.com/use-a-gaming-pc-as-a-google-gemma-4-llm-server/",
+    "id": "news-226"
+  },
+  {
+    "title": "Hosted AI API Gateway – smart routing across Google, OpenAI, Anthropic, and more",
+    "summary": "Article URL: https://api.lxg2it.com Comments URL: https://news.ycombinator.com/item?id=47710909 Points: 1 # Comments: 2",
+    "content": "Article URL: https://api.lxg2it.com Comments URL: https://news.ycombinator.com/item?id=47710909 Points: 1 # Comments: 2",
+    "author": "sea-gold",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://api.lxg2it.com",
+    "id": "news-225"
+  },
+  {
+    "title": "Show HN: Memoriki – LLM Wiki+MemPalace for persistent personal knowledge bases",
+    "summary": "Memoriki is a template for building personal knowledge bases where the LLM does all the maintenance work.It combines Karpathy's LLM Wiki pattern (structured markdown wiki maintained by an LLM) with Me",
+    "content": "Memoriki is a template for building personal knowledge bases where the LLM does all the maintenance work.It combines Karpathy's LLM Wiki pattern (structured markdown wiki maintained by an LLM) with MemPalace (an MCP server that adds semantic search and a temporal knowledge graph).Three layers: - Wiki pages with [[wiki-links]] and YAML frontmatter - the LLM creates and maintains these - Semantic search via embeddings (ChromaDB) - find things by meaning, not keywords - Knowledge graph with typed r",
+    "author": "Aianback",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47711037",
+    "id": "news-224"
+  },
+  {
+    "title": "Anthropic says new AI model too dangerous for public release",
+    "summary": "Article URL: https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/ Comments URL: https://news.ycombinator.com/item?id=47711145 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/ Comments URL: https://news.ycombinator.com/item?id=47711145 Points: 1 # Comments: 0",
+    "author": "geox",
+    "date": "2026-04-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/",
+    "id": "news-223"
+  },
+  {
     "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
     "summary": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
     "content": "",
