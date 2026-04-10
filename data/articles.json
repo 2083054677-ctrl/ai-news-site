@@ -1,5 +1,96 @@
 [
   {
+    "title": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction",
+    "summary": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models. The arti",
+    "content": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models. The article LLMs crush coding and math but choke on casual questions, and that's not a contradiction appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/",
+    "id": "news-250"
+  },
+  {
+    "title": "OpenAI tells investors its infrastructure gives it an edge over Anthropic",
+    "summary": "OpenAI is pitching investors on the idea that its early infrastructure buildout gives it a decisive advantage over Anthropic. Meanwhile, the company is pausing its UK data center project, and Anthropi",
+    "content": "OpenAI is pitching investors on the idea that its early infrastructure buildout gives it a decisive advantage over Anthropic. Meanwhile, the company is pausing its UK data center project, and Anthropic is exploring custom AI chips. The article OpenAI tells investors its infrastructure gives it an edge over Anthropic appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-tells-investors-its-infrastructure-gives-it-an-edge-over-anthropic/",
+    "id": "news-249"
+  },
+  {
+    "title": "Llama LLM Network Feture",
+    "summary": "Article URL: https://github.com/Jeffyjefchat/oracle-protocol Comments URL: https://news.ycombinator.com/item?id=47717093 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Jeffyjefchat/oracle-protocol Comments URL: https://news.ycombinator.com/item?id=47717093 Points: 1 # Comments: 0",
+    "author": "jeffy864567",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Jeffyjefchat/oracle-protocol",
+    "id": "news-248"
+  },
+  {
+    "title": "Claude Scholar",
+    "summary": "Article URL: https://github.com/Galaxy-Dawn/claude-scholar Comments URL: https://news.ycombinator.com/item?id=47717194 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Galaxy-Dawn/claude-scholar Comments URL: https://news.ycombinator.com/item?id=47717194 Points: 1 # Comments: 0",
+    "author": "danielmorozoff",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Galaxy-Dawn/claude-scholar",
+    "id": "news-247"
+  },
+  {
+    "title": "South Africa's VALR Launches AI Service for Humans and AI Agents",
+    "summary": "Article URL: https://mybroadband.co.za/news/industrynews/639519-valr-launches-ai-service-for-humans-and-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47717240 Points: 1 # Comments:",
+    "content": "Article URL: https://mybroadband.co.za/news/industrynews/639519-valr-launches-ai-service-for-humans-and-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47717240 Points: 1 # Comments: 0",
+    "author": "DistantCl3ric",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mybroadband.co.za/news/industrynews/639519-valr-launches-ai-service-for-humans-and-ai-agents.html",
+    "id": "news-246"
+  },
+  {
+    "title": "ClawNetwork – A blockchain built for OpenClaw and all AI agents",
+    "summary": "Article URL: https://chain.clawlabz.xyz/en Comments URL: https://news.ycombinator.com/item?id=47717288 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chain.clawlabz.xyz/en Comments URL: https://news.ycombinator.com/item?id=47717288 Points: 1 # Comments: 0",
+    "author": "ludis",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chain.clawlabz.xyz/en",
+    "id": "news-245"
+  },
+  {
+    "title": "How I changed my engineering teams' workflow after a year of resisting AI tools",
+    "summary": "Article URL: https://shiftmag.dev/as-an-engineering-manager-i-couldnt-ignore-ai-if-my-teams-are-to-survive-9061/ Comments URL: https://news.ycombinator.com/item?id=47717308 Points: 1 # Comments: 0",
+    "content": "Article URL: https://shiftmag.dev/as-an-engineering-manager-i-couldnt-ignore-ai-if-my-teams-are-to-survive-9061/ Comments URL: https://news.ycombinator.com/item?id=47717308 Points: 1 # Comments: 0",
+    "author": "choochilla4",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://shiftmag.dev/as-an-engineering-manager-i-couldnt-ignore-ai-if-my-teams-are-to-survive-9061/",
+    "id": "news-244"
+  },
+  {
     "title": "OpenAI is building a cybersecurity product for a select group of companies",
     "summary": "According to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies. The article OpenAI is building a cybersecurity product for a select grou",
     "content": "According to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies. The article OpenAI is building a cybersecurity product for a select group of companies appeared first on The Decoder.",
