@@ -1,5 +1,83 @@
 [
   {
+    "title": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade",
+    "summary": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhype",
+    "content": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhyped right now and still vastly underestimated over the next decade. The article Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepmind-ceo-hassabis-says-agi-will-hit-like-ten-industrial-revolutions-compressed-into-a-single-decade/",
+    "id": "news-268"
+  },
+  {
+    "title": "We mapped 153 gaps in science using 5 parallel AI research agents",
+    "summary": "Article URL: https://github.com/fainir/science-gaps Comments URL: https://news.ycombinator.com/item?id=47723107 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/fainir/science-gaps Comments URL: https://news.ycombinator.com/item?id=47723107 Points: 1 # Comments: 0",
+    "author": "fainir",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fainir/science-gaps",
+    "id": "news-267"
+  },
+  {
+    "title": "EU AI Act compliance layer for Claude Managed Agents (MCP, open source)",
+    "summary": "Article URL: https://docs.geiant.com/integrations/claude-managed-agents/ Comments URL: https://news.ycombinator.com/item?id=47723128 Points: 1 # Comments: 0",
+    "content": "Article URL: https://docs.geiant.com/integrations/claude-managed-agents/ Comments URL: https://news.ycombinator.com/item?id=47723128 Points: 1 # Comments: 0",
+    "author": "camilo_ayerbe",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://docs.geiant.com/integrations/claude-managed-agents/",
+    "id": "news-266"
+  },
+  {
+    "title": "Molotov cocktail thrown at home of OpenAI chief executive Sam Altman",
+    "summary": "Article URL: https://www.ft.com/content/46ec2fa5-834d-4e49-81ef-6fb736b7e81d Comments URL: https://news.ycombinator.com/item?id=47723143 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/46ec2fa5-834d-4e49-81ef-6fb736b7e81d Comments URL: https://news.ycombinator.com/item?id=47723143 Points: 1 # Comments: 0",
+    "author": "fuzzfactor",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/46ec2fa5-834d-4e49-81ef-6fb736b7e81d",
+    "id": "news-265"
+  },
+  {
+    "title": "We're running out of benchmarks to upper bound AI capabilities",
+    "summary": "Article URL: https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai Comments URL: https://news.ycombinator.com/item?id=47723146 Points: 1 # Commen",
+    "content": "Article URL: https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai Comments URL: https://news.ycombinator.com/item?id=47723146 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
+    "id": "news-264"
+  },
+  {
+    "title": "Nono – Runtime safety infrastructure for AI agents",
+    "summary": "Article URL: https://nono.sh Comments URL: https://news.ycombinator.com/item?id=47723186 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nono.sh Comments URL: https://news.ycombinator.com/item?id=47723186 Points: 1 # Comments: 0",
+    "author": "jossclimb",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nono.sh",
+    "id": "news-263"
+  },
+  {
     "title": "Show HN: Corvo – Free portfolio analytics with MonteCarlo simulation and AI chat",
     "summary": "Article URL: https://corvo.capital/ Comments URL: https://news.ycombinator.com/item?id=47720247 Points: 1 # Comments: 0",
     "content": "Article URL: https://corvo.capital/ Comments URL: https://news.ycombinator.com/item?id=47720247 Points: 1 # Comments: 0",
