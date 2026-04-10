@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Mythos Is Everyone's Problem",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/ Comments URL: https://news.ycombinator.com/item?id=47713384 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/ Comments URL: https://news.ycombinator.com/item?id=47713384 Points: 3 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/",
+    "id": "news-237"
+  },
+  {
+    "title": "Some LLM routers are injecting malicious tool calls",
+    "summary": "Article URL: https://twitter.com/fried_rice/status/2042423713019412941 Comments URL: https://news.ycombinator.com/item?id=47713401 Points: 4 # Comments: 1",
+    "content": "Article URL: https://twitter.com/fried_rice/status/2042423713019412941 Comments URL: https://news.ycombinator.com/item?id=47713401 Points: 4 # Comments: 1",
+    "author": "kotobuki",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/fried_rice/status/2042423713019412941",
+    "id": "news-236"
+  },
+  {
+    "title": "Show HN: Every AI writing tool sounds the same, this one sounds like you",
+    "summary": "Article URL: https://toneswap.app Comments URL: https://news.ycombinator.com/item?id=47713665 Points: 1 # Comments: 0",
+    "content": "Article URL: https://toneswap.app Comments URL: https://news.ycombinator.com/item?id=47713665 Points: 1 # Comments: 0",
+    "author": "cammyjr",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://toneswap.app",
+    "id": "news-235"
+  },
+  {
+    "title": "Scaling AI is now constrained by energy, cooling and physics",
+    "summary": "Article URL: https://blog.se.com/digital-transformation/artificial-intelligence/2026/02/13/scaling-ai-in-the-real-world-how-power-cooling-and-physics-now-define-data-center-strategy/ Comments URL: htt",
+    "content": "Article URL: https://blog.se.com/digital-transformation/artificial-intelligence/2026/02/13/scaling-ai-in-the-real-world-how-power-cooling-and-physics-now-define-data-center-strategy/ Comments URL: https://news.ycombinator.com/item?id=47713669 Points: 2 # Comments: 1",
+    "author": "latentframe",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.se.com/digital-transformation/artificial-intelligence/2026/02/13/scaling-ai-in-the-real-world-how-power-cooling-and-physics-now-define-data-center-strategy/",
+    "id": "news-234"
+  },
+  {
+    "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/ Comments URL: https://news.ycombinator.com/item?id=47713732 Point",
+    "content": "Article URL: https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/ Comments URL: https://news.ycombinator.com/item?id=47713732 Points: 1 # Comments: 0",
+    "author": "tzs",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
+    "id": "news-233"
+  },
+  {
     "title": "Agentic Code Optimization via Compiler-LLM Cooperation",
     "summary": "Article URL: https://arxiv.org/abs/2604.04238 Comments URL: https://news.ycombinator.com/item?id=47712457 Points: 1 # Comments: 0",
     "content": "Article URL: https://arxiv.org/abs/2604.04238 Comments URL: https://news.ycombinator.com/item?id=47712457 Points: 1 # Comments: 0",
