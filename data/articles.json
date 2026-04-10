@@ -1,5 +1,70 @@
 [
   {
+    "title": "Netflix uses LLM-as-a-judge to create show synopses",
+    "summary": "Article URL: https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28 Comments URL: https://news.ycombinator.com/item?id=47723926 Points: 1 # Comments: 0",
+    "content": "Article URL: https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28 Comments URL: https://news.ycombinator.com/item?id=47723926 Points: 1 # Comments: 0",
+    "author": "MattSayar",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28",
+    "id": "news-273"
+  },
+  {
+    "title": "DB Explorer 3.0.1 – AI‑First SQL Editor with Schema‑Aware Query Generation",
+    "summary": "Article URL: https://sourceforge.net/projects/db-explorer/ Comments URL: https://news.ycombinator.com/item?id=47724169 Points: 2 # Comments: 0",
+    "content": "Article URL: https://sourceforge.net/projects/db-explorer/ Comments URL: https://news.ycombinator.com/item?id=47724169 Points: 2 # Comments: 0",
+    "author": "adeptashish",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sourceforge.net/projects/db-explorer/",
+    "id": "news-272"
+  },
+  {
+    "title": "What's Going on in AI",
+    "summary": "Article URL: https://elicit.com/blog/situational-awareness-april-2026 Comments URL: https://news.ycombinator.com/item?id=47724335 Points: 2 # Comments: 0",
+    "content": "Article URL: https://elicit.com/blog/situational-awareness-april-2026 Comments URL: https://news.ycombinator.com/item?id=47724335 Points: 2 # Comments: 0",
+    "author": "sethbannon",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://elicit.com/blog/situational-awareness-april-2026",
+    "id": "news-271"
+  },
+  {
+    "title": "I Tried Giving an AI Agent Gmail Access. It Took 19 Steps and Still Failed",
+    "summary": "Article URL: https://www.anson.im/blog/why-i-built-agentsmail/ Comments URL: https://news.ycombinator.com/item?id=47724364 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.anson.im/blog/why-i-built-agentsmail/ Comments URL: https://news.ycombinator.com/item?id=47724364 Points: 1 # Comments: 0",
+    "author": "beacharsiu",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anson.im/blog/why-i-built-agentsmail/",
+    "id": "news-270"
+  },
+  {
+    "title": "I built an AI that teaches your slides and answers questions",
+    "summary": "Article URL: https://lectura.biz Comments URL: https://news.ycombinator.com/item?id=47724383 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lectura.biz Comments URL: https://news.ycombinator.com/item?id=47724383 Points: 1 # Comments: 0",
+    "author": "keniz",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lectura.biz",
+    "id": "news-269"
+  },
+  {
     "title": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade",
     "summary": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhype",
     "content": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhyped right now and still vastly underestimated over the next decade. The article Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade appeared first on The Decoder.",
