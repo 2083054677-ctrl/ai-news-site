@@ -1,5 +1,96 @@
 [
   {
+    "title": "Coreweave signs multi-year cloud deal with Anthropic to power Claude",
+    "summary": "Coreweave has signed a multi-year cloud deal with AI startup Anthropic. The article Coreweave signs multi-year cloud deal with Anthropic to power Claude appeared first on The Decoder.",
+    "content": "Coreweave has signed a multi-year cloud deal with AI startup Anthropic. The article Coreweave signs multi-year cloud deal with Anthropic to power Claude appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/coreweave-signs-multi-year-cloud-deal-with-anthropic-to-power-claude/",
+    "id": "news-257"
+  },
+  {
+    "title": "CIA plans to integrate AI assistants into all analysis platforms",
+    "summary": "According to CIA Deputy Director Michael Ellis, the agency recently produced its first fully autonomous intelligence report using AI, Politico reports. The article CIA plans to integrate AI assistants",
+    "content": "According to CIA Deputy Director Michael Ellis, the agency recently produced its first fully autonomous intelligence report using AI, Politico reports. The article CIA plans to integrate AI assistants into all analysis platforms appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cia-plans-to-integrate-ai-assistants-into-all-analysis-platforms/",
+    "id": "news-256"
+  },
+  {
+    "title": "Folk musician Murphy Campbell targeted by AI fakes and copyright trolls",
+    "summary": "Article URL: https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright Comments URL: https://news.ycombinator.com/item?id=47718481 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright Comments URL: https://news.ycombinator.com/item?id=47718481 Points: 1 # Comments: 0",
+    "author": "Timothee",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+    "id": "news-255"
+  },
+  {
+    "title": "Show HN: Savile: Local-first MCP server for AI agent prompts and skills",
+    "summary": "Article URL: https://github.com/mr8lu/savile Comments URL: https://news.ycombinator.com/item?id=47718506 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/mr8lu/savile Comments URL: https://news.ycombinator.com/item?id=47718506 Points: 1 # Comments: 0",
+    "author": "mr8lu",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mr8lu/savile",
+    "id": "news-254"
+  },
+  {
+    "title": "Show HN: Volnix – A world engine for AI agents",
+    "summary": "Article URL: https://github.com/janaraj/volnix Comments URL: https://news.ycombinator.com/item?id=47718555 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/janaraj/volnix Comments URL: https://news.ycombinator.com/item?id=47718555 Points: 1 # Comments: 0",
+    "author": "janaraj",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/janaraj/volnix",
+    "id": "news-253"
+  },
+  {
+    "title": "Alibaba just revealed it's behind a viral AI video model dominating leaderboards",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html Comments URL: https://news.ycombinator.com/item?id=47718651 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html Comments URL: https://news.ycombinator.com/item?id=47718651 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html",
+    "id": "news-252"
+  },
+  {
+    "title": "Why Do We Tell Ourselves Scary Stories About AI?",
+    "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 1 # Comments: 0",
+    "author": "lschueller",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+    "id": "news-251"
+  },
+  {
     "title": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction",
     "summary": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models. The arti",
     "content": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models. The article LLMs crush coding and math but choke on casual questions, and that's not a contradiction appeared first on The Decoder.",
