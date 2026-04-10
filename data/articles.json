@@ -1,5 +1,70 @@
 [
   {
+    "title": "Use Claude to Annotate Handwriting and Photos on iPhone",
+    "summary": "Article URL: https://github.com/bramses/Brams-Bounding-App/tree/main Comments URL: https://news.ycombinator.com/item?id=47714527 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/bramses/Brams-Bounding-App/tree/main Comments URL: https://news.ycombinator.com/item?id=47714527 Points: 1 # Comments: 0",
+    "author": "_bramses",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/bramses/Brams-Bounding-App/tree/main",
+    "id": "news-242"
+  },
+  {
+    "title": "The Download: AstroTurf wars and exponential AI growth",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/ Comments URL: https://news.ycombinator.com/item?id=47714556 Poi",
+    "content": "Article URL: https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/ Comments URL: https://news.ycombinator.com/item?id=47714556 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+    "id": "news-241"
+  },
+  {
+    "title": "How HN: $2/Day AI – How we run an autonomous agent on a hard budget",
+    "summary": "Article URL: https://www.veltrixcollective.com/research/cost-first-agent-architecture Comments URL: https://news.ycombinator.com/item?id=47714558 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.veltrixcollective.com/research/cost-first-agent-architecture Comments URL: https://news.ycombinator.com/item?id=47714558 Points: 2 # Comments: 0",
+    "author": "LukeJMadden",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.veltrixcollective.com/research/cost-first-agent-architecture",
+    "id": "news-240"
+  },
+  {
+    "title": "Show HN: Pixel-by-pixel comparison of AI models rebuilding your UI designs",
+    "summary": "You drop an image, pick your models, hit generate. They all run in parallel. When each one finishes rendering, it gets a pixel-by-pixel match score against your original. You can compare them side by ",
+    "content": "You drop an image, pick your models, hit generate. They all run in parallel. When each one finishes rendering, it gets a pixel-by-pixel match score against your original. You can compare them side by side or use the overlay diff mode to drag a curtain across and see exactly where each model diverged from your design. Tailwind or plain CSS. Still early! would love to know which models you'd want added and what kinds of designs break it the most. Comments URL: https://news.ycombinator.com/item?id=",
+    "author": "amin_biscuit",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pixel-match.bsct.so/",
+    "id": "news-239"
+  },
+  {
+    "title": "The Model Is Not the Product: Harnesses Will Define the Next Phase of AI",
+    "summary": "Article URL: https://www.mountaineagle.net/articles/display/the-model-is-not-the-product-harnesses-not-intelligence-will-define-the-next-phase-of-ai/ Comments URL: https://news.ycombinator.com/item?id",
+    "content": "Article URL: https://www.mountaineagle.net/articles/display/the-model-is-not-the-product-harnesses-not-intelligence-will-define-the-next-phase-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47714658 Points: 1 # Comments: 0",
+    "author": "uswn",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mountaineagle.net/articles/display/the-model-is-not-the-product-harnesses-not-intelligence-will-define-the-next-phase-of-ai/",
+    "id": "news-238"
+  },
+  {
     "title": "Claude Mythos Is Everyone's Problem",
     "summary": "Article URL: https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/ Comments URL: https://news.ycombinator.com/item?id=47713384 Points: 3 # Comments: 0",
     "content": "Article URL: https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/ Comments URL: https://news.ycombinator.com/item?id=47713384 Points: 3 # Comments: 0",
