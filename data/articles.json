@@ -1,5 +1,70 @@
 [
   {
+    "title": "Agentic Code Optimization via Compiler-LLM Cooperation",
+    "summary": "Article URL: https://arxiv.org/abs/2604.04238 Comments URL: https://news.ycombinator.com/item?id=47712457 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.04238 Comments URL: https://news.ycombinator.com/item?id=47712457 Points: 1 # Comments: 0",
+    "author": "matt_d",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.04238",
+    "id": "news-232"
+  },
+  {
+    "title": "Commercial Persuasion in AI-Mediated Conversations",
+    "summary": "Article URL: https://arxiv.org/abs/2604.04263 Comments URL: https://news.ycombinator.com/item?id=47712478 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.04263 Comments URL: https://news.ycombinator.com/item?id=47712478 Points: 2 # Comments: 0",
+    "author": "gnabgib",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.04263",
+    "id": "news-231"
+  },
+  {
+    "title": "How are you governing token spend and data exposure in prod AI agent loops?",
+    "summary": "Article URL: https://news.ycombinator.com/submit Comments URL: https://news.ycombinator.com/item?id=47712546 Points: 1 # Comments: 0",
+    "content": "Article URL: https://news.ycombinator.com/submit Comments URL: https://news.ycombinator.com/item?id=47712546 Points: 1 # Comments: 0",
+    "author": "VectorVault",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/submit",
+    "id": "news-230"
+  },
+  {
+    "title": "Anthropic weighs building it own AI chips, sources say",
+    "summary": "Article URL: https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/ Comments URL: https://news.ycombinator.com/item?id=47712561 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/ Comments URL: https://news.ycombinator.com/item?id=47712561 Points: 2 # Comments: 0",
+    "author": "aanet",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/",
+    "id": "news-229"
+  },
+  {
+    "title": "Black Forest Labs – The 70-Person AI Image Startup Taking on Silicon Valley",
+    "summary": "Article URL: https://www.wired.com/story/black-forest-labs-ai-image-generation/ Comments URL: https://news.ycombinator.com/item?id=47712566 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/black-forest-labs-ai-image-generation/ Comments URL: https://news.ycombinator.com/item?id=47712566 Points: 1 # Comments: 0",
+    "author": "aanet",
+    "date": "2026-04-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+    "id": "news-228"
+  },
+  {
     "title": "Show HN: Curated list of ~40 AI browser extensions across 9 categories",
     "summary": "Article URL: https://github.com/kklt92/awesome-ai-extensions Comments URL: https://news.ycombinator.com/item?id=47710829 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/kklt92/awesome-ai-extensions Comments URL: https://news.ycombinator.com/item?id=47710829 Points: 2 # Comments: 0",
