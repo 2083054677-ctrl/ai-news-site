@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Palmier – Dispatch and schedule AI agents from your phone",
+    "summary": "Article URL: https://www.palmier.me Comments URL: https://news.ycombinator.com/item?id=47726751 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.palmier.me Comments URL: https://news.ycombinator.com/item?id=47726751 Points: 2 # Comments: 0",
+    "author": "caihongxu",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.palmier.me",
+    "id": "news-282"
+  },
+  {
+    "title": "Sam Altman speaks out after alleged attack on SF home,links to rising AI anxiety",
+    "summary": "Article URL: https://www.msn.com/en-us/news/crime/sam-altman-speaks-out-after-alleged-attack-on-sf-home-links-it-to-rising-ai-anxiety/ar-AA20Bnnm Comments URL: https://news.ycombinator.com/item?id=477",
+    "content": "Article URL: https://www.msn.com/en-us/news/crime/sam-altman-speaks-out-after-alleged-attack-on-sf-home-links-it-to-rising-ai-anxiety/ar-AA20Bnnm Comments URL: https://news.ycombinator.com/item?id=47726776 Points: 2 # Comments: 2",
+    "author": "rmason",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.msn.com/en-us/news/crime/sam-altman-speaks-out-after-alleged-attack-on-sf-home-links-it-to-rising-ai-anxiety/ar-AA20Bnnm",
+    "id": "news-281"
+  },
+  {
+    "title": "AMD GPU LLM Performance Testing",
+    "summary": "Article URL: https://github.com/alainnothere/AmdPerformanceTesting Comments URL: https://news.ycombinator.com/item?id=47726788 Points: 4 # Comments: 1",
+    "content": "Article URL: https://github.com/alainnothere/AmdPerformanceTesting Comments URL: https://news.ycombinator.com/item?id=47726788 Points: 4 # Comments: 1",
+    "author": "xlayn",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/alainnothere/AmdPerformanceTesting",
+    "id": "news-280"
+  },
+  {
+    "title": "Show HN: Lmscan – Detect AI text and fingerprint which LLM wrote it (zero deps)",
+    "summary": "Article URL: https://github.com/stef41/lmscan Comments URL: https://news.ycombinator.com/item?id=47727017 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/stef41/lmscan Comments URL: https://news.ycombinator.com/item?id=47727017 Points: 1 # Comments: 0",
+    "author": "zach22",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/stef41/lmscan",
+    "id": "news-279"
+  },
+  {
+    "title": "The AI-Assisted Breach of Mexico's Government Infrastructure [pdf]",
+    "summary": "Article URL: https://cdn.prod.website-files.com/69944dd945f20ca4a27a7c47/69d8bb5aea59e31efb3b8a7f_Tech_Report_ai_breach_mex_gov.pdf Comments URL: https://news.ycombinator.com/item?id=47727068 Points: ",
+    "content": "Article URL: https://cdn.prod.website-files.com/69944dd945f20ca4a27a7c47/69d8bb5aea59e31efb3b8a7f_Tech_Report_ai_breach_mex_gov.pdf Comments URL: https://news.ycombinator.com/item?id=47727068 Points: 1 # Comments: 0",
+    "author": "kerng",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cdn.prod.website-files.com/69944dd945f20ca4a27a7c47/69d8bb5aea59e31efb3b8a7f_Tech_Report_ai_breach_mex_gov.pdf",
+    "id": "news-278"
+  },
+  {
     "title": "Open Source LLM Comparison – Is Opus Cooked?",
     "summary": "Article URL: https://paradise-runner.github.io/frontier-comparison/ Comments URL: https://news.ycombinator.com/item?id=47725898 Points: 2 # Comments: 1",
     "content": "Article URL: https://paradise-runner.github.io/frontier-comparison/ Comments URL: https://news.ycombinator.com/item?id=47725898 Points: 2 # Comments: 1",
