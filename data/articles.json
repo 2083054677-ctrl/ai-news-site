@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI is the boss at this retail store. What could go wrong?",
+    "summary": "Article URL: https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013 Comments URL: https://news.ycombinator.com/item?id=47728330 Points: 2 # Commen",
+    "content": "Article URL: https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013 Comments URL: https://news.ycombinator.com/item?id=47728330 Points: 2 # Comments: 0",
+    "author": "divbzero",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013",
+    "id": "news-287"
+  },
+  {
+    "title": "MLSharp Single-View High-Quality AI Reconstruction Pipeline",
+    "summary": "Article URL: https://suto.bex.jp/mac/mlsharp/index.html Comments URL: https://news.ycombinator.com/item?id=47728342 Points: 1 # Comments: 1",
+    "content": "Article URL: https://suto.bex.jp/mac/mlsharp/index.html Comments URL: https://news.ycombinator.com/item?id=47728342 Points: 1 # Comments: 1",
+    "author": "mvdwoord",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://suto.bex.jp/mac/mlsharp/index.html",
+    "id": "news-286"
+  },
+  {
+    "title": "My AI workflow evolved from prompts to a near-autonomous workflow",
+    "summary": "Over the last 6 months, I have been evolving my AI coding workflow while building AI DevKit.The shift that mattered most was not better code generation. It was moving from reusable commands and templa",
+    "content": "Over the last 6 months, I have been evolving my AI coding workflow while building AI DevKit.The shift that mattered most was not better code generation. It was moving from reusable commands and templates into a workflow that can carry context, trigger the right behavior, and verify work automatically.A recent feature made the difference obvious. I used Codex to build interactive skill selection for \"ai-devkit skill add\". I gave one sentence of instruction, and the workflow carried the task throu",
+    "author": "hoangnnguyen",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47728487",
+    "id": "news-285"
+  },
+  {
+    "title": "Claude API Error: 529",
+    "summary": "API Error: 529 {\"type\":\"error\",\"error\":{\"type\":\"overloaded_error\",\"message\":\"Overloaded\"},\"request_id\":\"req_011CZwdriX9NLKTydq5m3KmV\"} Comments URL: https://news.ycombinator.com/item?id=47728522 Point",
+    "content": "API Error: 529 {\"type\":\"error\",\"error\":{\"type\":\"overloaded_error\",\"message\":\"Overloaded\"},\"request_id\":\"req_011CZwdriX9NLKTydq5m3KmV\"} Comments URL: https://news.ycombinator.com/item?id=47728522 Points: 3 # Comments: 1",
+    "author": "anujbans",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47728522",
+    "id": "news-284"
+  },
+  {
+    "title": "I built a skill manager for AI agents. The agents install the skills themselves",
+    "summary": "Article URL: https://github.com/nattergabriel/reseed Comments URL: https://news.ycombinator.com/item?id=47728628 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/nattergabriel/reseed Comments URL: https://news.ycombinator.com/item?id=47728628 Points: 1 # Comments: 1",
+    "author": "eterer",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/nattergabriel/reseed",
+    "id": "news-283"
+  },
+  {
     "title": "Show HN: Palmier – Dispatch and schedule AI agents from your phone",
     "summary": "Article URL: https://www.palmier.me Comments URL: https://news.ycombinator.com/item?id=47726751 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.palmier.me Comments URL: https://news.ycombinator.com/item?id=47726751 Points: 2 # Comments: 0",
