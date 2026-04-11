@@ -1,5 +1,83 @@
 [
   {
+    "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
+    "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operato",
+    "content": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/",
+    "id": "news-302"
+  },
+  {
+    "title": "We Built Every Employee at Ramp Their Own AI Coworker",
+    "summary": "Article URL: https://twitter.com/sebgoddijn/status/2042285915435937816 Comments URL: https://news.ycombinator.com/item?id=47729761 Points: 4 # Comments: 1",
+    "content": "Article URL: https://twitter.com/sebgoddijn/status/2042285915435937816 Comments URL: https://news.ycombinator.com/item?id=47729761 Points: 4 # Comments: 1",
+    "author": "lsowen",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/sebgoddijn/status/2042285915435937816",
+    "id": "news-301"
+  },
+  {
+    "title": "AI Datacenters Are Becoming Strategic Targets",
+    "summary": "Article URL: https://members.sigmazero.cc/posts/155180337 Comments URL: https://news.ycombinator.com/item?id=47729807 Points: 3 # Comments: 0",
+    "content": "Article URL: https://members.sigmazero.cc/posts/155180337 Comments URL: https://news.ycombinator.com/item?id=47729807 Points: 3 # Comments: 0",
+    "author": "sigmazero",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://members.sigmazero.cc/posts/155180337",
+    "id": "news-300"
+  },
+  {
+    "title": "I built a pure WGSL LLM engine to run Llama on my Snapdragon laptop GPU",
+    "summary": "Article URL: https://github.com/Beledarian/wgpu-llm Comments URL: https://news.ycombinator.com/item?id=47729917 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Beledarian/wgpu-llm Comments URL: https://news.ycombinator.com/item?id=47729917 Points: 1 # Comments: 1",
+    "author": "Beledarian",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Beledarian/wgpu-llm",
+    "id": "news-299"
+  },
+  {
+    "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
+    "summary": "Article URL: https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA Comments URL: https://news.ycombinator",
+    "content": "Article URL: https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA Comments URL: https://news.ycombinator.com/item?id=47729975 Points: 1 # Comments: 0",
+    "author": "seekdeep",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA",
+    "id": "news-298"
+  },
+  {
+    "title": "Why AI Coding Tools Still Feel Stuck on Localhost",
+    "summary": "Article URL: https://kubekattle.github.io/ktl/blog/ai-tools-stuck-on-localhost.html Comments URL: https://news.ycombinator.com/item?id=47730073 Points: 1 # Comments: 1",
+    "content": "Article URL: https://kubekattle.github.io/ktl/blog/ai-tools-stuck-on-localhost.html Comments URL: https://news.ycombinator.com/item?id=47730073 Points: 1 # Comments: 1",
+    "author": "KyleVlaros",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kubekattle.github.io/ktl/blog/ai-tools-stuck-on-localhost.html",
+    "id": "news-297"
+  },
+  {
     "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
     "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles",
     "content": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\" The article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night appeared first on The Decoder.",
