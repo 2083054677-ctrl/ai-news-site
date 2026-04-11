@@ -1,5 +1,70 @@
 [
   {
+    "title": "Gallup poll: GenZ AI adoption steady but skepticism on the rise",
+    "summary": "Article URL: https://web.archive.org/web/20260410202758/https://news.gallup.com/poll/708224/gen-adoption-steady-skepticism-climbs.aspx Comments URL: https://news.ycombinator.com/item?id=47731546 Point",
+    "content": "Article URL: https://web.archive.org/web/20260410202758/https://news.gallup.com/poll/708224/gen-adoption-steady-skepticism-climbs.aspx Comments URL: https://news.ycombinator.com/item?id=47731546 Points: 2 # Comments: 1",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://web.archive.org/web/20260410202758/https://news.gallup.com/poll/708224/gen-adoption-steady-skepticism-climbs.aspx",
+    "id": "news-313"
+  },
+  {
+    "title": "MCP Spine – Middleware proxy that cuts LLM tool token usage by 61%",
+    "summary": "Article URL: https://github.com/Donnyb369/mcp-spine Comments URL: https://news.ycombinator.com/item?id=47731592 Points: 4 # Comments: 0",
+    "content": "Article URL: https://github.com/Donnyb369/mcp-spine Comments URL: https://news.ycombinator.com/item?id=47731592 Points: 4 # Comments: 0",
+    "author": "Mxwell369",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Donnyb369/mcp-spine",
+    "id": "news-312"
+  },
+  {
+    "title": "Can AI Generate a Full Unity World from One Prompt? I Tested",
+    "summary": "Article URL: https://darkounity.com/blog/can-ai-generate-a-full-unity-world-from-one-prompt-i-tested Comments URL: https://news.ycombinator.com/item?id=47731734 Points: 2 # Comments: 0",
+    "content": "Article URL: https://darkounity.com/blog/can-ai-generate-a-full-unity-world-from-one-prompt-i-tested Comments URL: https://news.ycombinator.com/item?id=47731734 Points: 2 # Comments: 0",
+    "author": "hacker_13",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://darkounity.com/blog/can-ai-generate-a-full-unity-world-from-one-prompt-i-tested",
+    "id": "news-311"
+  },
+  {
+    "title": "OpenAI is nothing without its people",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html Comments URL: https://news.ycombinator.com/item?id=47731742 Points: 1 # Comments: 0",
+    "content": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html Comments URL: https://news.ycombinator.com/item?id=47731742 Points: 1 # Comments: 0",
+    "author": "eamag",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html",
+    "id": "news-310"
+  },
+  {
+    "title": "Meta transfers top engineers into new AI tooling team",
+    "summary": "Article URL: https://www.reuters.com/technology/meta-transfers-top-engineers-into-new-ai-tooling-team-2026-04-09/ Comments URL: https://news.ycombinator.com/item?id=47731801 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.reuters.com/technology/meta-transfers-top-engineers-into-new-ai-tooling-team-2026-04-09/ Comments URL: https://news.ycombinator.com/item?id=47731801 Points: 1 # Comments: 1",
+    "author": "FartyMcFarter",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/technology/meta-transfers-top-engineers-into-new-ai-tooling-team-2026-04-09/",
+    "id": "news-309"
+  },
+  {
     "title": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
     "summary": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no clou",
     "content": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required. The article Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device appeared first on The Decoder.",
