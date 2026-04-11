@@ -1,5 +1,57 @@
 [
   {
+    "title": "Open Source LLM Comparison – Is Opus Cooked?",
+    "summary": "Article URL: https://paradise-runner.github.io/frontier-comparison/ Comments URL: https://news.ycombinator.com/item?id=47725898 Points: 2 # Comments: 1",
+    "content": "Article URL: https://paradise-runner.github.io/frontier-comparison/ Comments URL: https://news.ycombinator.com/item?id=47725898 Points: 2 # Comments: 1",
+    "author": "dividedcomet",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://paradise-runner.github.io/frontier-comparison/",
+    "id": "news-277"
+  },
+  {
+    "title": "We gave an AI a 3-year Lease. It opened a store",
+    "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47726041 Points: 3 # Comments: 0",
+    "content": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47726041 Points: 3 # Comments: 0",
+    "author": "lukaspetersson",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://andonlabs.com/blog/andon-market-launch",
+    "id": "news-276"
+  },
+  {
+    "title": "Show HN: Collabmem – the memory system for long-term collaboration with AI",
+    "summary": "Hello HN! I built collabmem, a simple memory system for long-term collaboration between humans and AI assistants. And it's easy to install, just ask Claude Code: Install the long-term collaboration me",
+    "content": "Hello HN! I built collabmem, a simple memory system for long-term collaboration between humans and AI assistants. And it's easy to install, just ask Claude Code: Install the long-term collaboration memory system by cloning https://github.com/visionscaper/collabmem to a temporary location and following the instructions in it. To collaborate with AI over weeks, months, or even years, there needs to be a shared conceptual understanding of:- History (episodic memory): what has been done, why, and wh",
+    "author": "visionscaper",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/visionscaper/collabmem",
+    "id": "news-275"
+  },
+  {
+    "title": "Dario – use your Claude Max subscription as an API (no API key needed)",
+    "summary": "Article URL: https://github.com/askalf/dario Comments URL: https://news.ycombinator.com/item?id=47726061 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/askalf/dario Comments URL: https://news.ycombinator.com/item?id=47726061 Points: 1 # Comments: 1",
+    "author": "askalf",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/askalf/dario",
+    "id": "news-274"
+  },
+  {
     "title": "Netflix uses LLM-as-a-judge to create show synopses",
     "summary": "Article URL: https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28 Comments URL: https://news.ycombinator.com/item?id=47723926 Points: 1 # Comments: 0",
     "content": "Article URL: https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28 Comments URL: https://news.ycombinator.com/item?id=47723926 Points: 1 # Comments: 0",
