@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
+    "summary": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no clou",
+    "content": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required. The article Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/",
+    "id": "news-308"
+  },
+  {
+    "title": "Canopy – A desktop app to manage AI coding agents across Git worktrees",
+    "summary": "Article URL: https://canopy.itsol.tech Comments URL: https://news.ycombinator.com/item?id=47730236 Points: 2 # Comments: 0",
+    "content": "Article URL: https://canopy.itsol.tech Comments URL: https://news.ycombinator.com/item?id=47730236 Points: 2 # Comments: 0",
+    "author": "nixuuu",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://canopy.itsol.tech",
+    "id": "news-307"
+  },
+  {
+    "title": "SVG in the Age of AI",
+    "summary": "Article URL: https://svg.new/blog/svg-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=47730347 Points: 4 # Comments: 0",
+    "content": "Article URL: https://svg.new/blog/svg-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=47730347 Points: 4 # Comments: 0",
+    "author": "swazzy",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://svg.new/blog/svg-in-the-age-of-ai",
+    "id": "news-306"
+  },
+  {
+    "title": "Nadir: Open-source LLM router that cuts API costs 30-60% (MIT License)",
+    "summary": "Article URL: https://getnadir.com/ Comments URL: https://news.ycombinator.com/item?id=47730596 Points: 2 # Comments: 0",
+    "content": "Article URL: https://getnadir.com/ Comments URL: https://news.ycombinator.com/item?id=47730596 Points: 2 # Comments: 0",
+    "author": "amirdor",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://getnadir.com/",
+    "id": "news-305"
+  },
+  {
+    "title": "Can OpenClaw and Claude be better than therapy?",
+    "summary": "Article URL: https://world.hey.com/cassio/openclaw-claude-are-better-than-therapy-e0ac3ad9 Comments URL: https://news.ycombinator.com/item?id=47730653 Points: 2 # Comments: 1",
+    "content": "Article URL: https://world.hey.com/cassio/openclaw-claude-are-better-than-therapy-e0ac3ad9 Comments URL: https://news.ycombinator.com/item?id=47730653 Points: 2 # Comments: 1",
+    "author": "cacozen",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://world.hey.com/cassio/openclaw-claude-are-better-than-therapy-e0ac3ad9",
+    "id": "news-304"
+  },
+  {
+    "title": "Measure coding productivity with this Claude Code Plugin",
+    "summary": "Article URL: https://github.com/Facens/coding-productivity Comments URL: https://news.ycombinator.com/item?id=47730857 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Facens/coding-productivity Comments URL: https://news.ycombinator.com/item?id=47730857 Points: 1 # Comments: 1",
+    "author": "Facens",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Facens/coding-productivity",
+    "id": "news-303"
+  },
+  {
     "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
     "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operato",
     "content": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\" appeared first on The Decoder.",
