@@ -1,5 +1,122 @@
 [
   {
+    "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
+    "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles",
+    "content": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\" The article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
+    "id": "news-296"
+  },
+  {
+    "title": "Claude Code's new Ultraplan feature moves task planning to the cloud",
+    "summary": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work. The article Claude Code's new",
+    "content": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work. The article Claude Code's new Ultraplan feature moves task planning to the cloud appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/",
+    "id": "news-295"
+  },
+  {
+    "title": "AI models would rather guess than ask for help, researchers find",
+    "summary": "ProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement l",
+    "content": "ProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement learning approach hints at a fix. The article AI models would rather guess than ask for help, researchers find appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/",
+    "id": "news-294"
+  },
+  {
+    "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
+    "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it. The article Overworld's Waypoint-1.5 brings AI-",
+    "content": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it. The article Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/",
+    "id": "news-293"
+  },
+  {
+    "title": "Training for a Marathon with an AI Coach: What Worked and What Didn't",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-04-10/training-for-a-marathon-with-an-ai-coach-what-worked-and-what-didn-t Comments URL: https://news.ycombinator.com/item?id=47729097 Points:",
+    "content": "Article URL: https://www.bloomberg.com/news/features/2026-04-10/training-for-a-marathon-with-an-ai-coach-what-worked-and-what-didn-t Comments URL: https://news.ycombinator.com/item?id=47729097 Points: 1 # Comments: 0",
+    "author": "helsinkiandrew",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/features/2026-04-10/training-for-a-marathon-with-an-ai-coach-what-worked-and-what-didn-t",
+    "id": "news-292"
+  },
+  {
+    "title": "How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript",
+    "summary": "Article URL: https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/ Comments URL: https://news.ycombinator.com/item?id=47729112 Points: 2 # C",
+    "content": "Article URL: https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/ Comments URL: https://news.ycombinator.com/item?id=47729112 Points: 2 # Comments: 0",
+    "author": "mc-serious",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/",
+    "id": "news-291"
+  },
+  {
+    "title": "Stopping to think about the AI context",
+    "summary": "Article URL: https://github.com/Titovilal/context0 Comments URL: https://news.ycombinator.com/item?id=47729281 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Titovilal/context0 Comments URL: https://news.ycombinator.com/item?id=47729281 Points: 1 # Comments: 1",
+    "author": "titovilal",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Titovilal/context0",
+    "id": "news-290"
+  },
+  {
+    "title": "Claude Agents SDK: a process per session, each starting at 214MB on macOS",
+    "summary": "Article URL: https://twitter.com/josevalim/status/2042908631474069660 Comments URL: https://news.ycombinator.com/item?id=47729284 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/josevalim/status/2042908631474069660 Comments URL: https://news.ycombinator.com/item?id=47729284 Points: 1 # Comments: 0",
+    "author": "tosh",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/josevalim/status/2042908631474069660",
+    "id": "news-289"
+  },
+  {
+    "title": "AI and Tech brief: Ireland ascendant",
+    "summary": "Article URL: https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/04/03/ai-tech-brief-ireland-ascendant/ Comments URL: https://news.ycombinator.com/item?id=47729298 Points: 1 # Comments: ",
+    "content": "Article URL: https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/04/03/ai-tech-brief-ireland-ascendant/ Comments URL: https://news.ycombinator.com/item?id=47729298 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-04-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/04/03/ai-tech-brief-ireland-ascendant/",
+    "id": "news-288"
+  },
+  {
     "title": "AI is the boss at this retail store. What could go wrong?",
     "summary": "Article URL: https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013 Comments URL: https://news.ycombinator.com/item?id=47728330 Points: 2 # Commen",
     "content": "Article URL: https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013 Comments URL: https://news.ycombinator.com/item?id=47728330 Points: 2 # Comments: 0",
