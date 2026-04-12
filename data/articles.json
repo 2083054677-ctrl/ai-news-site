@@ -1,5 +1,70 @@
 [
   {
+    "title": "What Claude Code's Source Revealed About AI Engineering Culture",
+    "summary": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47743821 Points: 2 # Comments: 0",
+    "content": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47743821 Points: 2 # Comments: 0",
+    "author": "cyb_",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
+    "id": "news-364"
+  },
+  {
+    "title": "Claude Changes My Code",
+    "summary": "Article URL: https://alexcbecker.net/blog/how-claude-changes-coding.html Comments URL: https://news.ycombinator.com/item?id=47743871 Points: 2 # Comments: 0",
+    "content": "Article URL: https://alexcbecker.net/blog/how-claude-changes-coding.html Comments URL: https://news.ycombinator.com/item?id=47743871 Points: 2 # Comments: 0",
+    "author": "alexbecker",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alexcbecker.net/blog/how-claude-changes-coding.html",
+    "id": "news-363"
+  },
+  {
+    "title": "Worms 2 remastered 4k videos with no AI or upscaling",
+    "summary": "Article URL: https://www.youtube.com/watch?v=o5fnhTPfSoQ Comments URL: https://news.ycombinator.com/item?id=47743937 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=o5fnhTPfSoQ Comments URL: https://news.ycombinator.com/item?id=47743937 Points: 1 # Comments: 0",
+    "author": "__natty__",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=o5fnhTPfSoQ",
+    "id": "news-362"
+  },
+  {
+    "title": "Springdrift: An Auditable Persistent Runtime for LLM Agents",
+    "summary": "Article URL: https://arxiv.org/abs/2604.04660 Comments URL: https://news.ycombinator.com/item?id=47744005 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.04660 Comments URL: https://news.ycombinator.com/item?id=47744005 Points: 1 # Comments: 0",
+    "author": "s_brady",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.04660",
+    "id": "news-361"
+  },
+  {
+    "title": "Nouns Agentic – Enabling AI Agents to Buy Nouns and Participate",
+    "summary": "Article URL: https://noun.wtf/grants/8 Comments URL: https://news.ycombinator.com/item?id=47744012 Points: 1 # Comments: 0",
+    "content": "Article URL: https://noun.wtf/grants/8 Comments URL: https://news.ycombinator.com/item?id=47744012 Points: 1 # Comments: 0",
+    "author": "developerfred",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://noun.wtf/grants/8",
+    "id": "news-360"
+  },
+  {
     "title": "Show HN: A proactive AI agent on iMessage that texts you before you even ask",
     "summary": "Article URL: https://hemesh.tech/builds/summer-ai.html Comments URL: https://news.ycombinator.com/item?id=47742490 Points: 1 # Comments: 0",
     "content": "Article URL: https://hemesh.tech/builds/summer-ai.html Comments URL: https://news.ycombinator.com/item?id=47742490 Points: 1 # Comments: 0",
