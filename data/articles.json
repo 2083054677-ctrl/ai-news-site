@@ -1,5 +1,83 @@
 [
   {
+    "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
+    "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks. T",
+    "content": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks. The article Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/",
+    "id": "news-340"
+  },
+  {
+    "title": "The Federal Government Is Rushing Toward AI",
+    "summary": "Article URL: https://www.propublica.org/article/federal-government-ai-cautionary-tales Comments URL: https://news.ycombinator.com/item?id=47737622 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.propublica.org/article/federal-government-ai-cautionary-tales Comments URL: https://news.ycombinator.com/item?id=47737622 Points: 2 # Comments: 0",
+    "author": "jruohonen",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.propublica.org/article/federal-government-ai-cautionary-tales",
+    "id": "news-339"
+  },
+  {
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "summary": "Article URL: https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/ Comments URL: https://news.ycombinator.com/item?id=47737642 Points: 4 # Comments: 2",
+    "content": "Article URL: https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/ Comments URL: https://news.ycombinator.com/item?id=47737642 Points: 4 # Comments: 2",
+    "author": "mentalgear",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "id": "news-338"
+  },
+  {
+    "title": "Intent Security Through the Lens of Claude Code Auto Mode",
+    "summary": "Article URL: https://www.lasso.security/blog/claude-code-auto-mode-vs-intent-security Comments URL: https://news.ycombinator.com/item?id=47737649 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.lasso.security/blog/claude-code-auto-mode-vs-intent-security Comments URL: https://news.ycombinator.com/item?id=47737649 Points: 1 # Comments: 0",
+    "author": "irememberu",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lasso.security/blog/claude-code-auto-mode-vs-intent-security",
+    "id": "news-337"
+  },
+  {
+    "title": "Happy Horse AI",
+    "summary": "Article URL: https://www.happy-horse-ai.ai Comments URL: https://news.ycombinator.com/item?id=47737687 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.happy-horse-ai.ai Comments URL: https://news.ycombinator.com/item?id=47737687 Points: 2 # Comments: 1",
+    "author": "erji2233",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.happy-horse-ai.ai",
+    "id": "news-336"
+  },
+  {
+    "title": "Running AI Agents in a Sandbox",
+    "summary": "Article URL: https://oligot.be/posts/ai-sandbox/ Comments URL: https://news.ycombinator.com/item?id=47738063 Points: 1 # Comments: 0",
+    "content": "Article URL: https://oligot.be/posts/ai-sandbox/ Comments URL: https://news.ycombinator.com/item?id=47738063 Points: 1 # Comments: 0",
+    "author": "oligot",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://oligot.be/posts/ai-sandbox/",
+    "id": "news-335"
+  },
+  {
     "title": "Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions",
     "summary": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says t",
     "content": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings. The article Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions appeared first on The Decoder.",
