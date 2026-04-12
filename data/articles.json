@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenPGx – Ask Claude about medications from your 23andMe/Genera raw file (MCP)",
+    "summary": "Article URL: https://github.com/open-pgx/openpgx Comments URL: https://news.ycombinator.com/item?id=47744581 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/open-pgx/openpgx Comments URL: https://news.ycombinator.com/item?id=47744581 Points: 1 # Comments: 1",
+    "author": "dougplac",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/open-pgx/openpgx",
+    "id": "news-369"
+  },
+  {
+    "title": "Over 4,732 Messages, He Fell in Love with an AI Chatbot. Now He's Dead",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47744671 Points: 2 # Comments: 2",
+    "content": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47744671 Points: 2 # Comments: 2",
+    "author": "nradov",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2",
+    "id": "news-368"
+  },
+  {
+    "title": "India's frugal AI models are a blueprint for resource-strapped nations",
+    "summary": "Article URL: https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/ Comments URL: https://news.ycombinator.com/item?id=47744905 Points: 3 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/ Comments URL: https://news.ycombinator.com/item?id=47744905 Points: 3 # Comments: 0",
+    "author": "i7l",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
+    "id": "news-367"
+  },
+  {
+    "title": "Adventures in Slop: Can an AI Agent Generate Web Traffic?",
+    "summary": "Article URL: https://www.tomdalling.com/blog/adventures-in-slop-can-an-ai-agent-generate-traffic/ Comments URL: https://news.ycombinator.com/item?id=47745034 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.tomdalling.com/blog/adventures-in-slop-can-an-ai-agent-generate-traffic/ Comments URL: https://news.ycombinator.com/item?id=47745034 Points: 1 # Comments: 0",
+    "author": "ingve",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomdalling.com/blog/adventures-in-slop-can-an-ai-agent-generate-traffic/",
+    "id": "news-366"
+  },
+  {
+    "title": "Tech Valuations Are Back to Pre-AI Boom Levels",
+    "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 2 # Comments: 0",
+    "author": "akyuu",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+    "id": "news-365"
+  },
+  {
     "title": "What Claude Code's Source Revealed About AI Engineering Culture",
     "summary": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47743821 Points: 2 # Comments: 0",
     "content": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47743821 Points: 2 # Comments: 0",
