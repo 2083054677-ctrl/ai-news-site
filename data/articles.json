@@ -1,5 +1,18 @@
 [
   {
+    "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
+    "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up. The article OpenAI",
+    "content": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up. The article OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/",
+    "id": "news-349"
+  },
+  {
     "title": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
     "summary": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancemen",
     "content": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions. Weaker models actually perform worse with them than without. The article Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find appeared first on The Decoder.",
