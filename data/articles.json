@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: A proactive AI agent on iMessage that texts you before you even ask",
+    "summary": "Article URL: https://hemesh.tech/builds/summer-ai.html Comments URL: https://news.ycombinator.com/item?id=47742490 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hemesh.tech/builds/summer-ai.html Comments URL: https://news.ycombinator.com/item?id=47742490 Points: 1 # Comments: 0",
+    "author": "HemeshCh",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hemesh.tech/builds/summer-ai.html",
+    "id": "news-359"
+  },
+  {
+    "title": "Can you self-host AI on Intel NPU or ARC (iGFX and proper card?",
+    "summary": "Article URL: https://github.com/aweussom/NoLlama Comments URL: https://news.ycombinator.com/item?id=47742511 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/aweussom/NoLlama Comments URL: https://news.ycombinator.com/item?id=47742511 Points: 1 # Comments: 1",
+    "author": "aweussom",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aweussom/NoLlama",
+    "id": "news-358"
+  },
+  {
+    "title": "Show HN: I built a project board where AI agents join as real teammates",
+    "summary": "Article URL: https://is.team Comments URL: https://news.ycombinator.com/item?id=47742601 Points: 2 # Comments: 0",
+    "content": "Article URL: https://is.team Comments URL: https://news.ycombinator.com/item?id=47742601 Points: 2 # Comments: 0",
+    "author": "spotlayn",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://is.team",
+    "id": "news-357"
+  },
+  {
+    "title": "LLM-Wiki",
+    "summary": "Article URL: https://keepnotes.ai/blog/2026-04-12-llmwiki/ Comments URL: https://news.ycombinator.com/item?id=47742725 Points: 1 # Comments: 0",
+    "content": "Article URL: https://keepnotes.ai/blog/2026-04-12-llmwiki/ Comments URL: https://news.ycombinator.com/item?id=47742725 Points: 1 # Comments: 0",
+    "author": "xngbuilds",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://keepnotes.ai/blog/2026-04-12-llmwiki/",
+    "id": "news-356"
+  },
+  {
+    "title": "Generate tool-specific AI config files from shared templates",
+    "summary": "Article URL: https://github.com/fabis94/universal-ai-config Comments URL: https://news.ycombinator.com/item?id=47742750 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/fabis94/universal-ai-config Comments URL: https://news.ycombinator.com/item?id=47742750 Points: 1 # Comments: 0",
+    "author": "idid",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fabis94/universal-ai-config",
+    "id": "news-355"
+  },
+  {
     "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
     "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity ",
     "content": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction. The article Man who firebombed Sam Altman's home was likely driven by AI extinction fears appeared first on The Decoder.",
