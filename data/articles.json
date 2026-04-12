@@ -1,5 +1,109 @@
 [
   {
+    "title": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
+    "summary": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancemen",
+    "content": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions. Weaker models actually perform worse with them than without. The article Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/",
+    "id": "news-348"
+  },
+  {
+    "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
+    "summary": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior. The article Anthropic seeks advice from C",
+    "content": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior. The article Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/",
+    "id": "news-347"
+  },
+  {
+    "title": "Researchers define what counts as a world model and text-to-video generators do not",
+    "summary": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition. The ",
+    "content": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition. The article Researchers define what counts as a world model and text-to-video generators do not appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/",
+    "id": "news-346"
+  },
+  {
+    "title": "Show HN: Android AI agent-assistant operating your apps (no adb,PC,root,etc.)",
+    "summary": "Hi HN,We built Sova AI https://ayconic.io/sova, an Android assistant agent that actually controls and operates your apps. It's not a chat and not another LLM wrapper.We were incredibly frustrated with",
+    "content": "Hi HN,We built Sova AI https://ayconic.io/sova, an Android assistant agent that actually controls and operates your apps. It's not a chat and not another LLM wrapper.We were incredibly frustrated with the current state of mobile AI. Built-in assistants like Gemini are deeply integrated into the OS, yet if you ask them to \"Order an Uber to the airport\", they mostly just give you web search results or a button to open the app yourself. They don't do the work. (The Perplexity \"assistant\" is just a ",
+    "author": "sshnaidm1",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47738583",
+    "id": "news-345"
+  },
+  {
+    "title": "HubVanta AI",
+    "summary": "Article URL: https://hubvanta.com/ Comments URL: https://news.ycombinator.com/item?id=47738709 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hubvanta.com/ Comments URL: https://news.ycombinator.com/item?id=47738709 Points: 1 # Comments: 0",
+    "author": "hubvanta",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hubvanta.com/",
+    "id": "news-344"
+  },
+  {
+    "title": "LLM Wiki Skill: Build a Second Brain with Claude Code and Obsidian",
+    "summary": "Article URL: https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1 Comments URL: https://news.ycombinator.com/item?id=47738722 Points: 1 # C",
+    "content": "Article URL: https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1 Comments URL: https://news.ycombinator.com/item?id=47738722 Points: 1 # Comments: 0",
+    "author": "jungard",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1",
+    "id": "news-343"
+  },
+  {
+    "title": "You Don't Need Claude Code",
+    "summary": "Article URL: https://tildehacker.com/you-dont-need-claude-code Comments URL: https://news.ycombinator.com/item?id=47738837 Points: 2 # Comments: 1",
+    "content": "Article URL: https://tildehacker.com/you-dont-need-claude-code Comments URL: https://news.ycombinator.com/item?id=47738837 Points: 2 # Comments: 1",
+    "author": "tildehacker",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tildehacker.com/you-dont-need-claude-code",
+    "id": "news-342"
+  },
+  {
+    "title": "Why AI Sucks at Front End",
+    "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 1 # Comments: 0",
+    "author": "tobr",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nerdy.dev/why-ai-sucks-at-front-end",
+    "id": "news-341"
+  },
+  {
     "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
     "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks. T",
     "content": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks. The article Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks appeared first on The Decoder.",
