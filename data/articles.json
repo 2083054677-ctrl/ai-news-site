@@ -1,5 +1,70 @@
 [
   {
+    "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major US banks",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html Comments URL: https://news.ycombinator.com/item?id=47735938 Points: 6 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html Comments URL: https://news.ycombinator.com/item?id=47735938 Points: 6 # Comments: 0",
+    "author": "attentive",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+    "id": "news-332"
+  },
+  {
+    "title": "The biggest advance in AI since the LLM",
+    "summary": "Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=47736022 Points: 4 # Comments: 0",
+    "content": "Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=47736022 Points: 4 # Comments: 0",
+    "author": "hooch",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
+    "id": "news-331"
+  },
+  {
+    "title": "An LLM That Watches Your Logs and Kills Compromised Services at 3am",
+    "summary": "Article URL: https://jonno.nz/posts/llm-kills-compromised-services-at-3am/ Comments URL: https://news.ycombinator.com/item?id=47736052 Points: 3 # Comments: 0",
+    "content": "Article URL: https://jonno.nz/posts/llm-kills-compromised-services-at-3am/ Comments URL: https://news.ycombinator.com/item?id=47736052 Points: 3 # Comments: 0",
+    "author": "jonno-nz",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jonno.nz/posts/llm-kills-compromised-services-at-3am/",
+    "id": "news-330"
+  },
+  {
+    "title": "Scrum Master Interview Questions for the AI Era",
+    "summary": "Article URL: https://age-of-product.com/10-scrum-master-interview-questions-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47736185 Points: 1 # Comments: 0",
+    "content": "Article URL: https://age-of-product.com/10-scrum-master-interview-questions-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47736185 Points: 1 # Comments: 0",
+    "author": "swolpers",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://age-of-product.com/10-scrum-master-interview-questions-ai-era/",
+    "id": "news-329"
+  },
+  {
+    "title": "Code on Incus: Security-Hardened Container Runtime for AI Coding Agents",
+    "summary": "Article URL: https://github.com/mensfeld/code-on-incus Comments URL: https://news.ycombinator.com/item?id=47736206 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/mensfeld/code-on-incus Comments URL: https://news.ycombinator.com/item?id=47736206 Points: 1 # Comments: 0",
+    "author": "inktype",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mensfeld/code-on-incus",
+    "id": "news-328"
+  },
+  {
     "title": "AI Job Loss Tracker",
     "summary": "Article URL: https://jobloss.ai/ Comments URL: https://news.ycombinator.com/item?id=47735101 Points: 23 # Comments: 20",
     "content": "Article URL: https://jobloss.ai/ Comments URL: https://news.ycombinator.com/item?id=47735101 Points: 23 # Comments: 20",
