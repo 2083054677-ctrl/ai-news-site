@@ -1,5 +1,70 @@
 [
   {
+    "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
+    "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity ",
+    "content": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction. The article Man who firebombed Sam Altman's home was likely driven by AI extinction fears appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/",
+    "id": "news-354"
+  },
+  {
+    "title": "AI Didn't Teach Me to Code but It Changed How I Build",
+    "summary": "Article URL: https://nextindata.substack.com/p/ai-didnt-teach-me-to-code-but-it Comments URL: https://news.ycombinator.com/item?id=47741484 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nextindata.substack.com/p/ai-didnt-teach-me-to-code-but-it Comments URL: https://news.ycombinator.com/item?id=47741484 Points: 1 # Comments: 0",
+    "author": "nazanki",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nextindata.substack.com/p/ai-didnt-teach-me-to-code-but-it",
+    "id": "news-353"
+  },
+  {
+    "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+    "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 1 # Comments: 0",
+    "author": "steveharing1",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/imbue-ai/bouncer",
+    "id": "news-352"
+  },
+  {
+    "title": "Californians sue over AI tool that records doctor visits",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/ Comments URL: https://news.ycombinator.com/item?id=47741578 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/ Comments URL: https://news.ycombinator.com/item?id=47741578 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
+    "id": "news-351"
+  },
+  {
+    "title": "Show HN: Give your AI agent a preview link for files and diff",
+    "summary": "Article URL: https://diff4.com/ Comments URL: https://news.ycombinator.com/item?id=47741581 Points: 1 # Comments: 0",
+    "content": "Article URL: https://diff4.com/ Comments URL: https://news.ycombinator.com/item?id=47741581 Points: 1 # Comments: 0",
+    "author": "djyde",
+    "date": "2026-04-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://diff4.com/",
+    "id": "news-350"
+  },
+  {
     "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
     "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up. The article OpenAI",
     "content": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up. The article OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans appeared first on The Decoder.",
