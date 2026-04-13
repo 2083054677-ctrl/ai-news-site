@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
+    "summary": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic ",
+    "content": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars. The article OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/",
+    "id": "news-413"
+  },
+  {
+    "title": "I solved AI text-on-image rendering by separating illustration from layout",
+    "summary": "Article URL: https://partyinvitation.ai Comments URL: https://news.ycombinator.com/item?id=47757112 Points: 1 # Comments: 1",
+    "content": "Article URL: https://partyinvitation.ai Comments URL: https://news.ycombinator.com/item?id=47757112 Points: 1 # Comments: 1",
+    "author": "nedhuang",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://partyinvitation.ai",
+    "id": "news-412"
+  },
+  {
+    "title": "Coyns – MCP-native currency for AI agent-to-agent transactions",
+    "summary": "Article URL: https://coyns.com Comments URL: https://news.ycombinator.com/item?id=47757123 Points: 1 # Comments: 1",
+    "content": "Article URL: https://coyns.com Comments URL: https://news.ycombinator.com/item?id=47757123 Points: 1 # Comments: 1",
+    "author": "PatrickDyrt",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://coyns.com",
+    "id": "news-411"
+  },
+  {
+    "title": "Why Engineering Teams Need an Agentic Layer, Not Just AI Chat",
+    "summary": "Article URL: https://medium.com/@simo.mut105/why-engineering-teams-need-an-agentic-layer-not-just-ai-chat-a2ad0c1e3a87 Comments URL: https://news.ycombinator.com/item?id=47757218 Points: 1 # Comments:",
+    "content": "Article URL: https://medium.com/@simo.mut105/why-engineering-teams-need-an-agentic-layer-not-just-ai-chat-a2ad0c1e3a87 Comments URL: https://news.ycombinator.com/item?id=47757218 Points: 1 # Comments: 2",
+    "author": "s_mutti",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@simo.mut105/why-engineering-teams-need-an-agentic-layer-not-just-ai-chat-a2ad0c1e3a87",
+    "id": "news-410"
+  },
+  {
+    "title": "Hiro Is Joining OpenAI",
+    "summary": "Article URL: https://hirofinance.com/ Comments URL: https://news.ycombinator.com/item?id=47757531 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hirofinance.com/ Comments URL: https://news.ycombinator.com/item?id=47757531 Points: 1 # Comments: 0",
+    "author": "davidgomes",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hirofinance.com/",
+    "id": "news-409"
+  },
+  {
+    "title": "Twelve Graphs That Explain the State of AI in 2026",
+    "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47757534 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47757534 Points: 1 # Comments: 0",
+    "author": "droidjj",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/state-of-ai-index-2026",
+    "id": "news-408"
+  },
+  {
     "title": "New AI model generates 45-minute lip-synced video from one photo and runs in real time",
     "summary": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project. The article New AI mod",
     "content": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project. The article New AI model generates 45-minute lip-synced video from one photo and runs in real time appeared first on The Decoder.",
