@@ -1,5 +1,96 @@
 [
   {
+    "title": "Claude now works across all three major Office apps",
+    "summary": "Anthropic already offered Claude add-ins for Excel and PowerPoint. Now the company is rounding out its Microsoft Office integration with a Word add-in. The article Claude now works across all three ma",
+    "content": "Anthropic already offered Claude add-ins for Excel and PowerPoint. Now the company is rounding out its Microsoft Office integration with a Word add-in. The article Claude now works across all three major Office apps appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-now-works-across-all-three-major-office-apps/",
+    "id": "news-382"
+  },
+  {
+    "title": "Apple is building smart glasses without a display to serve as an AI wearable",
+    "summary": "According to Bloomberg reporter Mark Gurman, Apple is developing smart glasses that skip the display entirely and instead function as an AI wearable. The article Apple is building smart glasses withou",
+    "content": "According to Bloomberg reporter Mark Gurman, Apple is developing smart glasses that skip the display entirely and instead function as an AI wearable. The article Apple is building smart glasses without a display to serve as an AI wearable appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/apple-is-building-smart-glasses-without-a-display-to-serve-as-an-ai-wearable/",
+    "id": "news-381"
+  },
+  {
+    "title": "Defender – Local prompt injection detection for AI agents (no API calls)",
+    "summary": "Article URL: https://www.npmjs.com/package/@stackone/defender Comments URL: https://news.ycombinator.com/item?id=47749598 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.npmjs.com/package/@stackone/defender Comments URL: https://news.ycombinator.com/item?id=47749598 Points: 1 # Comments: 0",
+    "author": "Hiskias",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npmjs.com/package/@stackone/defender",
+    "id": "news-380"
+  },
+  {
+    "title": "AI conditionally allowed in the Linux kernel. \"Linux lays down the law on AI..\"",
+    "summary": "Article URL: https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-t",
+    "content": "Article URL: https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement Comments URL: https://news.ycombinator.com/item?id=47749646 Points: 1 # Comments: 0",
+    "author": "aleksjess",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
+    "id": "news-379"
+  },
+  {
+    "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+    "summary": "Article URL: https://github.com/brightbeanxyz/brightbean-studio Comments URL: https://news.ycombinator.com/item?id=47749674 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/brightbeanxyz/brightbean-studio Comments URL: https://news.ycombinator.com/item?id=47749674 Points: 2 # Comments: 0",
+    "author": "JanSchu",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/brightbeanxyz/brightbean-studio",
+    "id": "news-378"
+  },
+  {
+    "title": "Show HN: SkillCompass – open-source quality evaluator for your AI skills",
+    "summary": "Article URL: https://github.com/Evol-ai/SkillCompass Comments URL: https://news.ycombinator.com/item?id=47749727 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Evol-ai/SkillCompass Comments URL: https://news.ycombinator.com/item?id=47749727 Points: 1 # Comments: 0",
+    "author": "yo103jg",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Evol-ai/SkillCompass",
+    "id": "news-377"
+  },
+  {
+    "title": "Claude Code – Disabling telemetry also disables 1-hour prompt cache TTL",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/45381 Comments URL: https://news.ycombinator.com/item?id=47749757 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/anthropics/claude-code/issues/45381 Comments URL: https://news.ycombinator.com/item?id=47749757 Points: 1 # Comments: 0",
+    "author": "dsr12",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/claude-code/issues/45381",
+    "id": "news-376"
+  },
+  {
     "title": "Sam Altman's San Francisco home hit by drive-by shooting just two days after Molotov cocktail attack",
     "summary": "The home of OpenAI CEO Sam Altman in San Francisco has been attacked twice in two days. After a Molotov cocktail was thrown at the property on Friday, someone fired a shot from a car on Sunday. Police",
     "content": "The home of OpenAI CEO Sam Altman in San Francisco has been attacked twice in two days. After a Molotov cocktail was thrown at the property on Friday, someone fired a shot from a car on Sunday. Police have arrested three suspects. The article Sam Altman's San Francisco home hit by drive-by shooting just two days after Molotov cocktail attack appeared first on The Decoder.",
