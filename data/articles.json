@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI opens London office with room for over 500 employees",
+    "summary": "OpenAI is opening a new office in London with space for more than 500 employees - more than double its current headcount of around 200 in the British capital. The article OpenAI opens London office wi",
+    "content": "OpenAI is opening a new office in London with space for more than 500 employees - more than double its current headcount of around 200 in the British capital. The article OpenAI opens London office with room for over 500 employees appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-opens-london-office-with-room-for-over-500-employees/",
+    "id": "news-388"
+  },
+  {
+    "title": "Beyond Karpathy's LLM-Wiki: The Necessity of Cognitive Governance",
+    "summary": "Article URL: https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki Comments URL: https://news.ycombinator.com/item?id=47750193 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki Comments URL: https://news.ycombinator.com/item?id=47750193 Points: 3 # Comments: 1",
+    "author": "jonadas",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki",
+    "id": "news-387"
+  },
+  {
+    "title": "The Star Chamber: Why Multi-LLM Consensus Is Now a Necessity for Code Quality",
+    "summary": "Article URL: https://blog.mozilla.ai/the-star-chamber-multi-llm-consensus-for-code-quality/ Comments URL: https://news.ycombinator.com/item?id=47750234 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.mozilla.ai/the-star-chamber-multi-llm-consensus-for-code-quality/ Comments URL: https://news.ycombinator.com/item?id=47750234 Points: 1 # Comments: 0",
+    "author": "dev_tools_lab",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.mozilla.ai/the-star-chamber-multi-llm-consensus-for-code-quality/",
+    "id": "news-386"
+  },
+  {
+    "title": "Open source 1040 tax software built by AI agents",
+    "summary": "Article URL: https://github.com/filedcom/opentax Comments URL: https://news.ycombinator.com/item?id=47750251 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/filedcom/opentax Comments URL: https://news.ycombinator.com/item?id=47750251 Points: 1 # Comments: 0",
+    "author": "atulanand94",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/filedcom/opentax",
+    "id": "news-385"
+  },
+  {
+    "title": "XBPP – Open standard for governing AI agent payments (Apache 2.0)",
+    "summary": "Article URL: https://github.com/VanarChain/xbpp-sdk Comments URL: https://news.ycombinator.com/item?id=47750281 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/VanarChain/xbpp-sdk Comments URL: https://news.ycombinator.com/item?id=47750281 Points: 1 # Comments: 0",
+    "author": "vanardev",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/VanarChain/xbpp-sdk",
+    "id": "news-384"
+  },
+  {
+    "title": "The Rise of AI Pentesting Agents: A Technical Analysis (2026)",
+    "summary": "Article URL: https://appsecsanta.com/research/ai-pentesting-agents-2026 Comments URL: https://news.ycombinator.com/item?id=47750350 Points: 1 # Comments: 0",
+    "content": "Article URL: https://appsecsanta.com/research/ai-pentesting-agents-2026 Comments URL: https://news.ycombinator.com/item?id=47750350 Points: 1 # Comments: 0",
+    "author": "appsecsanta",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://appsecsanta.com/research/ai-pentesting-agents-2026",
+    "id": "news-383"
+  },
+  {
     "title": "Claude now works across all three major Office apps",
     "summary": "Anthropic already offered Claude add-ins for Excel and PowerPoint. Now the company is rounding out its Microsoft Office integration with a Word add-in. The article Claude now works across all three ma",
     "content": "Anthropic already offered Claude add-ins for Excel and PowerPoint. Now the company is rounding out its Microsoft Office integration with a Word add-in. The article Claude now works across all three major Office apps appeared first on The Decoder.",
