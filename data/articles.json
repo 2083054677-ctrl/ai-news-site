@@ -1,5 +1,57 @@
 [
   {
+    "title": "Your intuition of LLM token usage might be wrong",
+    "summary": "Article URL: https://blog.andreani.in/blog/37/ Comments URL: https://news.ycombinator.com/item?id=47758341 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blog.andreani.in/blog/37/ Comments URL: https://news.ycombinator.com/item?id=47758341 Points: 2 # Comments: 0",
+    "author": "gandreani",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.andreani.in/blog/37/",
+    "id": "news-417"
+  },
+  {
+    "title": "The US-China AI Gap Widens in 2026",
+    "summary": "Article URL: https://interconnect.substack.com/p/the-us-china-ai-gap-widens-in-2026 Comments URL: https://news.ycombinator.com/item?id=47758490 Points: 2 # Comments: 0",
+    "content": "Article URL: https://interconnect.substack.com/p/the-us-china-ai-gap-widens-in-2026 Comments URL: https://news.ycombinator.com/item?id=47758490 Points: 2 # Comments: 0",
+    "author": "ironyman",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://interconnect.substack.com/p/the-us-china-ai-gap-widens-in-2026",
+    "id": "news-416"
+  },
+  {
+    "title": "Why Your \"AI-First\" Strategy Is Probably Wrong",
+    "summary": "Article URL: https://twitter.com/intuitiveml/status/2043545596699750791 Comments URL: https://news.ycombinator.com/item?id=47758616 Points: 4 # Comments: 0",
+    "content": "Article URL: https://twitter.com/intuitiveml/status/2043545596699750791 Comments URL: https://news.ycombinator.com/item?id=47758616 Points: 4 # Comments: 0",
+    "author": "shenli3514",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/intuitiveml/status/2043545596699750791",
+    "id": "news-415"
+  },
+  {
+    "title": "Show HN: OQP – A verification protocol for AI agents",
+    "summary": "As AI agents autonomously write and deploy code, there's no standard for verifying that what they shipped actually satisfies business requirements. OQP is an attempt to define that standard.It's MCP-c",
+    "content": "As AI agents autonomously write and deploy code, there's no standard for verifying that what they shipped actually satisfies business requirements. OQP is an attempt to define that standard.It's MCP-compatible and defines four core endpoints: - GET /capabilities — what can this agent verify? - GET /context/workflows — what are the business rules for this workflow? - POST /verification/execute — run a verification workflow - POST /verification/assess-risk — what is the risk of this change?The ana",
+    "author": "Aamir21",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47758801",
+    "id": "news-414"
+  },
+  {
     "title": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
     "summary": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic ",
     "content": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars. The article OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\" appeared first on The Decoder.",
