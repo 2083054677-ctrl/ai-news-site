@@ -1,5 +1,83 @@
 [
   {
+    "title": "The AI industry is running out of compute, with outages, rationing, and rising GPU prices",
+    "summary": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according",
+    "content": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according to market data. The article The AI industry is running out of compute, with outages, rationing, and rising GPU prices appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-ai-industry-is-running-out-of-compute-with-outages-rationing-and-rising-gpu-prices/",
+    "id": "news-400"
+  },
+  {
+    "title": "Jammed phone lines. Burned-out dispatchers. Can AI ease a strained 911 system?",
+    "summary": "Article URL: https://www.begiant.ca/stories/people/911-wait-times-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=47752712 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.begiant.ca/stories/people/911-wait-times-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=47752712 Points: 2 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.begiant.ca/stories/people/911-wait-times-artificial-intelligence",
+    "id": "news-399"
+  },
+  {
+    "title": "Show HN: Crafto – AI carousel post generator for LinkedIn and Instagram",
+    "summary": "Hi HN folks,I am a solo builder and wanted to share a tool I’ve been working on: Crafto. It turns text, webpages, documents, and images into carousel posts for platforms like LinkedIn, Instagram, and ",
+    "content": "Hi HN folks,I am a solo builder and wanted to share a tool I’ve been working on: Crafto. It turns text, webpages, documents, and images into carousel posts for platforms like LinkedIn, Instagram, and X.The goal is to turn plain text into engaging visuals to help marketers, educators, and influencers boost their content engagement, grow audience, and save hours of work.This idea came from my previous work on using AI to summarize documents, meetings, blogs, and articles. While exploring that dire",
+    "author": "xz_tie",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://crafto.ai",
+    "id": "news-398"
+  },
+  {
+    "title": "Lambda Just Got a File System. I Put AI Agents on It",
+    "summary": "Article URL: https://edjgeek.com/blog/s3-files-lambda-agents/ Comments URL: https://news.ycombinator.com/item?id=47752780 Points: 1 # Comments: 0",
+    "content": "Article URL: https://edjgeek.com/blog/s3-files-lambda-agents/ Comments URL: https://news.ycombinator.com/item?id=47752780 Points: 1 # Comments: 0",
+    "author": "edjgeek",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://edjgeek.com/blog/s3-files-lambda-agents/",
+    "id": "news-397"
+  },
+  {
+    "title": "OpenCode vs. Claude Code vs. Copilot",
+    "summary": "Looking to make a choix for my company about that.. Struggling to have a proper benchmark, especially with OpenCode which still young..Any advice ? Comments URL: https://news.ycombinator.com/item?id=4",
+    "content": "Looking to make a choix for my company about that.. Struggling to have a proper benchmark, especially with OpenCode which still young..Any advice ? Comments URL: https://news.ycombinator.com/item?id=47753068 Points: 1 # Comments: 0",
+    "author": "pjmalandrino",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47753068",
+    "id": "news-396"
+  },
+  {
+    "title": "Web scraping tarpits are catching legitimate data teams, not just AI crawlers",
+    "summary": "Article URL: https://foura.ai/blog/web-scraping-tarpits-collateral-damage Comments URL: https://news.ycombinator.com/item?id=47753078 Points: 1 # Comments: 0",
+    "content": "Article URL: https://foura.ai/blog/web-scraping-tarpits-collateral-damage Comments URL: https://news.ycombinator.com/item?id=47753078 Points: 1 # Comments: 0",
+    "author": "angelhadjiev",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://foura.ai/blog/web-scraping-tarpits-collateral-damage",
+    "id": "news-395"
+  },
+  {
     "title": "Steel giants, automakers, and banks plan to build Japan's answer to US and Chinese AI dominance",
     "summary": "SoftBank is uniting Japan's industrial elite to build the country's own AI foundation, trying to reduce dependence on American and Chinese models. The article Steel giants, automakers, and banks plan ",
     "content": "SoftBank is uniting Japan's industrial elite to build the country's own AI foundation, trying to reduce dependence on American and Chinese models. The article Steel giants, automakers, and banks plan to build Japan's answer to US and Chinese AI dominance appeared first on The Decoder.",
