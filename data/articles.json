@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost",
+    "summary": "Google is rolling out a new video generation option for Ultra subscribers that won't cost them any additional credits. The article Google now offers Ultra subscribers video generation with Veo 3.1 Lit",
+    "content": "Google is rolling out a new video generation option for Ultra subscribers that won't cost them any additional credits. The article Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/",
+    "id": "news-406"
+  },
+  {
+    "title": "Show HN: Bloomberg Terminal for LLM ops – free and open source",
+    "summary": "Bloomberg Terminal exists because financial traders needed one place to see everything: prices, risk, routing, counterparty health. You can't trade blind.LLM engineers are trading blind.Which provider",
+    "content": "Bloomberg Terminal exists because financial traders needed one place to see everything: prices, risk, routing, counterparty health. You can't trade blind.LLM engineers are trading blind.Which provider is degraded right now? What does this model actually cost when you factor in overhead, not just token price? If traffic shifts between providers, what happens to cost and latency? Is your stack dangerously concentrated on one provider?These are operational questions every production LLM system has.",
+    "author": "amans9712",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47754636",
+    "id": "news-405"
+  },
+  {
+    "title": "The GPU Moat Has a Side Door: AI Research Outside the Frontier Labs",
+    "summary": "Article URL: https://mangeshgupte.substack.com/p/the-gpu-moat-has-a-side-door Comments URL: https://news.ycombinator.com/item?id=47754752 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mangeshgupte.substack.com/p/the-gpu-moat-has-a-side-door Comments URL: https://news.ycombinator.com/item?id=47754752 Points: 1 # Comments: 0",
+    "author": "achllies",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mangeshgupte.substack.com/p/the-gpu-moat-has-a-side-door",
+    "id": "news-404"
+  },
+  {
+    "title": "Tell HN: Claude-code prompt-cache fix",
+    "summary": "TLDR: for now launch using `CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 claude \"Hello\"`otherwise you will only ever hit on the tools-block, and your first follow-up-question(Note: setting includeGitInstruc",
+    "content": "TLDR: for now launch using `CLAUDE_CODE_DISABLE_GIT_INSTRUCTIONS=1 claude \"Hello\"`otherwise you will only ever hit on the tools-block, and your first follow-up-question(Note: setting includeGitInstructions=false in settings.json is an option to and likely the better thing anyhow since that git-status will always be noise - but since one needs the \"Hello\" remembering one alias is simple same deal ;D)Currently the whole query is build from 3 cache-able blocks: {tools | claude-version}, {system-pro",
+    "author": "g4cg54g54",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47754795",
+    "id": "news-403"
+  },
+  {
+    "title": "Mist: Open-source Markdown editor with AI-native comments and suggested edits",
+    "summary": "Article URL: https://interconnected.org/home/2026/04/10/open-mist Comments URL: https://news.ycombinator.com/item?id=47754846 Points: 1 # Comments: 0",
+    "content": "Article URL: https://interconnected.org/home/2026/04/10/open-mist Comments URL: https://news.ycombinator.com/item?id=47754846 Points: 1 # Comments: 0",
+    "author": "austinbirch",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://interconnected.org/home/2026/04/10/open-mist",
+    "id": "news-402"
+  },
+  {
+    "title": "The AI build-out is powering global goods trade",
+    "summary": "Article URL: https://www.ft.com/content/ad169119-4a62-437b-b6ec-70819b1e8b4f Comments URL: https://news.ycombinator.com/item?id=47754853 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/ad169119-4a62-437b-b6ec-70819b1e8b4f Comments URL: https://news.ycombinator.com/item?id=47754853 Points: 1 # Comments: 0",
+    "author": "alephnerd",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/ad169119-4a62-437b-b6ec-70819b1e8b4f",
+    "id": "news-401"
+  },
+  {
     "title": "The AI industry is running out of compute, with outages, rationing, and rising GPU prices",
     "summary": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according",
     "content": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according to market data. The article The AI industry is running out of compute, with outages, rationing, and rising GPU prices appeared first on The Decoder.",
