@@ -1,5 +1,70 @@
 [
   {
+    "title": "An Interview with Asana Founder Dustin Moskovitz about AI, SaaS, and Safety",
+    "summary": "Article URL: https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47746311 Points: 1 # Comments: 0",
+    "content": "Article URL: https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47746311 Points: 1 # Comments: 0",
+    "author": "theorchid",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/",
+    "id": "news-374"
+  },
+  {
+    "title": "Show HN: A virtual office where you watch your AI agents code",
+    "summary": "I run a lot of Claude agents at once and got tired of switching between terminals. Built a virtual office on top of t3code where each agent has a desk and you can see what everyone's working on. Comme",
+    "content": "I run a lot of Claude agents at once and got tired of switching between terminals. Built a virtual office on top of t3code where each agent has a desk and you can see what everyone's working on. Comments URL: https://news.ycombinator.com/item?id=47746363 Points: 1 # Comments: 0",
+    "author": "ashxsf",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ashxco/piedpiper",
+    "id": "news-373"
+  },
+  {
+    "title": "Externalization in LLM Agents",
+    "summary": "Article URL: https://arxiv.org/abs/2604.08224 Comments URL: https://news.ycombinator.com/item?id=47746378 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.08224 Comments URL: https://news.ycombinator.com/item?id=47746378 Points: 2 # Comments: 0",
+    "author": "Anon84",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.08224",
+    "id": "news-372"
+  },
+  {
+    "title": "GraphAI – dual-graph $0 knowledge system with AI-native binary format",
+    "summary": "Article URL: https://github.com/nehloo/graphAI Comments URL: https://news.ycombinator.com/item?id=47746391 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/nehloo/graphAI Comments URL: https://news.ycombinator.com/item?id=47746391 Points: 1 # Comments: 0",
+    "author": "nehloo",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/nehloo/graphAI",
+    "id": "news-371"
+  },
+  {
+    "title": "Moat: Run AI agents in isolated containers",
+    "summary": "Article URL: https://majorcontext.com/moat/ Comments URL: https://news.ycombinator.com/item?id=47746591 Points: 2 # Comments: 1",
+    "content": "Article URL: https://majorcontext.com/moat/ Comments URL: https://news.ycombinator.com/item?id=47746591 Points: 2 # Comments: 1",
+    "author": "cjbarber",
+    "date": "2026-04-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://majorcontext.com/moat/",
+    "id": "news-370"
+  },
+  {
     "title": "OpenPGx – Ask Claude about medications from your 23andMe/Genera raw file (MCP)",
     "summary": "Article URL: https://github.com/open-pgx/openpgx Comments URL: https://news.ycombinator.com/item?id=47744581 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/open-pgx/openpgx Comments URL: https://news.ycombinator.com/item?id=47744581 Points: 1 # Comments: 1",
