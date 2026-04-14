@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Code is thinking too much",
+    "summary": "Been noticing this pattern since Saturday, opus 4.6 on Claude Code thinks for 3-5 mins+ for even the most basic questions.Can this be related to the cache TTL drop they did?? Comments URL: https://new",
+    "content": "Been noticing this pattern since Saturday, opus 4.6 on Claude Code thinks for 3-5 mins+ for even the most basic questions.Can this be related to the cache TTL drop they did?? Comments URL: https://news.ycombinator.com/item?id=47765103 Points: 1 # Comments: 0",
+    "author": "mrprincerawat",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47765103",
+    "id": "news-433"
+  },
+  {
+    "title": "AI-Powered Bioacoustics",
+    "summary": "Article URL: https://birdnet.cornell.edu/ Comments URL: https://news.ycombinator.com/item?id=47765108 Points: 2 # Comments: 0",
+    "content": "Article URL: https://birdnet.cornell.edu/ Comments URL: https://news.ycombinator.com/item?id=47765108 Points: 2 # Comments: 0",
+    "author": "modinfo",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://birdnet.cornell.edu/",
+    "id": "news-432"
+  },
+  {
+    "title": "Show HN: I built a Claude Code plugin that ships production-ready SaaS product",
+    "summary": "Article URL: https://github.com/saasroo/build-saas Comments URL: https://news.ycombinator.com/item?id=47765159 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/saasroo/build-saas Comments URL: https://news.ycombinator.com/item?id=47765159 Points: 2 # Comments: 0",
+    "author": "sydcli",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/saasroo/build-saas",
+    "id": "news-431"
+  },
+  {
+    "title": "Show HN: DollhouseMCP 2.0, open-source MCP composable AI building blocks",
+    "summary": "Hi, I'm Mick. I've been building this for the last 9 monthsDollhouseMCP 2.0 is an open-source MCP server for making and using composable building blocks for AI customization. You build elements as por",
+    "content": "Hi, I'm Mick. I've been building this for the last 9 monthsDollhouseMCP 2.0 is an open-source MCP server for making and using composable building blocks for AI customization. You build elements as portable YAML files, compose them into stacks, and activate the stacks in any MCP-compatible client.Element types that drive behavior and permissions:* Personas: behavioral profiles (how the AI sounds and acts)* Skills: discrete capabilities (what the AI can do)* Agents: goal-oriented, multi-step execu",
+    "author": "mickdarling",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dollhousemcp.com/",
+    "id": "news-430"
+  },
+  {
+    "title": "Why Everyone Is Obsessed with Claude Code – Enrico Tartarotti [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=gzt52Trk9w0 Comments URL: https://news.ycombinator.com/item?id=47765174 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=gzt52Trk9w0 Comments URL: https://news.ycombinator.com/item?id=47765174 Points: 1 # Comments: 0",
+    "author": "Topfi",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=gzt52Trk9w0",
+    "id": "news-429"
+  },
+  {
     "title": "Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust",
     "summary": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to e",
     "content": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode. The article Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust appeared first on The Decoder.",
