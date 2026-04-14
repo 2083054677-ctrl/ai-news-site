@@ -1,5 +1,83 @@
 [
   {
+    "title": "Claude Mythos is a wake-up call for Europe's AI safety apparatus",
+    "summary": "Anthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while t",
+    "content": "Anthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while the UK is already running its own tests. The situation exposes a deeper structural problem. The article Claude Mythos is a wake-up call for Europe's AI safety apparatus appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-europes-ai-safety-apparatus/",
+    "id": "news-439"
+  },
+  {
+    "title": "Agentic AI pentesting with Strix: results from 18 LLM models",
+    "summary": "Article URL: https://theartificialq.github.io/2026/04/14/agentic-ai-pentesting-with-strix-results-from-18-llm-models.html Comments URL: https://news.ycombinator.com/item?id=47766536 Points: 1 # Commen",
+    "content": "Article URL: https://theartificialq.github.io/2026/04/14/agentic-ai-pentesting-with-strix-results-from-18-llm-models.html Comments URL: https://news.ycombinator.com/item?id=47766536 Points: 1 # Comments: 0",
+    "author": "TheArtificialQ",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theartificialq.github.io/2026/04/14/agentic-ai-pentesting-with-strix-results-from-18-llm-models.html",
+    "id": "news-438"
+  },
+  {
+    "title": "Broodlink – Multi-agent AI orchestration built for governance, in Rust",
+    "summary": "Article URL: https://broodlink.ai Comments URL: https://news.ycombinator.com/item?id=47766551 Points: 1 # Comments: 0",
+    "content": "Article URL: https://broodlink.ai Comments URL: https://news.ycombinator.com/item?id=47766551 Points: 1 # Comments: 0",
+    "author": "yotta25",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://broodlink.ai",
+    "id": "news-437"
+  },
+  {
+    "title": "Show HN: Signoff.sh – Claude Co-Authored-By with random fictional characters",
+    "summary": "Every Claude Code commit and PR is shipped with Co-Authored-By: Claude Opus 4.6 (or similar). It's less fun than I think it should be. So signoff.sh is a 40-line bash script that replaces it with a ra",
+    "content": "Every Claude Code commit and PR is shipped with Co-Authored-By: Claude Opus 4.6 (or similar). It's less fun than I think it should be. So signoff.sh is a 40-line bash script that replaces it with a random fictional character's full legal name - as best as I could figure out :)Preserves the model name and the Anthropic noreply email, so you still get transparency about AI coding.It's silly and that's the point.I'm also a fan of peon ping (not mine): https://github.com/PeonPing/peon-ping Comments ",
+    "author": "Reebz",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gist.github.com/Reebz/b3102c6a5de8238d3b60eb63450ee48e",
+    "id": "news-436"
+  },
+  {
+    "title": "Roam AI",
+    "summary": "Article URL: https://chatgpt.com/g/g-6995e5be83948191a26b6a965a6760bf-roam-ai Comments URL: https://news.ycombinator.com/item?id=47766597 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chatgpt.com/g/g-6995e5be83948191a26b6a965a6760bf-roam-ai Comments URL: https://news.ycombinator.com/item?id=47766597 Points: 1 # Comments: 0",
+    "author": "aaabbbb",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chatgpt.com/g/g-6995e5be83948191a26b6a965a6760bf-roam-ai",
+    "id": "news-435"
+  },
+  {
+    "title": "The AI School Bus Camera Company Blanketing America in Tickets",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say Comments URL: https://news.ycombinator.com/item?id=4776661",
+    "content": "Article URL: https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say Comments URL: https://news.ycombinator.com/item?id=47766611 Points: 3 # Comments: 1",
+    "author": "jimt1234",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
+    "id": "news-434"
+  },
+  {
     "title": "Claude Code is thinking too much",
     "summary": "Been noticing this pattern since Saturday, opus 4.6 on Claude Code thinks for 3-5 mins+ for even the most basic questions.Can this be related to the cache TTL drop they did?? Comments URL: https://new",
     "content": "Been noticing this pattern since Saturday, opus 4.6 on Claude Code thinks for 3-5 mins+ for even the most basic questions.Can this be related to the cache TTL drop they did?? Comments URL: https://news.ycombinator.com/item?id=47765103 Points: 1 # Comments: 0",
