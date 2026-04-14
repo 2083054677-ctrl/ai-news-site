@@ -1,5 +1,122 @@
 [
   {
+    "title": "Claude Code routines let AI fix bugs and review code on autopilot",
+    "summary": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine. The articl",
+    "content": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine. The article Claude Code routines let AI fix bugs and review code on autopilot appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/",
+    "id": "news-454"
+  },
+  {
+    "title": "Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end",
+    "summary": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate networ",
+    "content": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats. The article Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/",
+    "id": "news-453"
+  },
+  {
+    "title": "Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click",
+    "summary": "With \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and app",
+    "content": "With \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and apply it to any website. Google also offers a ready-made library of skills for everyday tasks. The article Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/",
+    "id": "news-452"
+  },
+  {
+    "title": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute",
+    "summary": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive. Institutions will change.\" The article Greg",
+    "content": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive. Institutions will change.\" The article Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/",
+    "id": "news-451"
+  },
+  {
+    "title": "People are pretending to be AI chatbots – for fun",
+    "summary": "Article URL: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt Comments URL: https://news.ycombinator.com/item?id=47769634 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt Comments URL: https://news.ycombinator.com/item?id=47769634 Points: 1 # Comments: 0",
+    "author": "rolph",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
+    "id": "news-450"
+  },
+  {
+    "title": "Write It First Then Let AI Drive",
+    "summary": "Article URL: https://kennethreitz.org/essays/2026-04-12-write_it_first_then_let_ai_drive Comments URL: https://news.ycombinator.com/item?id=47769654 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kennethreitz.org/essays/2026-04-12-write_it_first_then_let_ai_drive Comments URL: https://news.ycombinator.com/item?id=47769654 Points: 1 # Comments: 0",
+    "author": "jorzel",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kennethreitz.org/essays/2026-04-12-write_it_first_then_let_ai_drive",
+    "id": "news-449"
+  },
+  {
+    "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
+    "summary": "Article URL: https://www.trychroma.com/research/context-rot Comments URL: https://news.ycombinator.com/item?id=47769695 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.trychroma.com/research/context-rot Comments URL: https://news.ycombinator.com/item?id=47769695 Points: 1 # Comments: 0",
+    "author": "felineflock",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.trychroma.com/research/context-rot",
+    "id": "news-448"
+  },
+  {
+    "title": "One question tells you your EU AI Act risk tier (10 seconds)",
+    "summary": "Article URL: https://for-loops.com/assess Comments URL: https://news.ycombinator.com/item?id=47769750 Points: 1 # Comments: 0",
+    "content": "Article URL: https://for-loops.com/assess Comments URL: https://news.ycombinator.com/item?id=47769750 Points: 1 # Comments: 0",
+    "author": "mike_mullerr",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://for-loops.com/assess",
+    "id": "news-447"
+  },
+  {
+    "title": "Downgrading Claude Code and changing one global setting fixes model reasoning",
+    "summary": "Article URL: https://twitter.com/sthiven_r/status/2043992488109899849 Comments URL: https://news.ycombinator.com/item?id=47769879 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/sthiven_r/status/2043992488109899849 Comments URL: https://news.ycombinator.com/item?id=47769879 Points: 1 # Comments: 0",
+    "author": "giancarlostoro",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/sthiven_r/status/2043992488109899849",
+    "id": "news-446"
+  },
+  {
     "title": "Ukraine captures a Russian position using only drones and ground robots",
     "summary": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remai",
     "content": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain. The article Ukraine captures a Russian position using only drones and ground robots appeared first on The Decoder.",
