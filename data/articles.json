@@ -1,5 +1,70 @@
 [
   {
+    "title": "Generalist AI Doesn't Scale",
+    "summary": "Article URL: https://www.daemonology.net/blog/2024-04-06-Generalist-AI-doesnt-scale.html Comments URL: https://news.ycombinator.com/item?id=47770793 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.daemonology.net/blog/2024-04-06-Generalist-AI-doesnt-scale.html Comments URL: https://news.ycombinator.com/item?id=47770793 Points: 2 # Comments: 0",
+    "author": "colinhb",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.daemonology.net/blog/2024-04-06-Generalist-AI-doesnt-scale.html",
+    "id": "news-459"
+  },
+  {
+    "title": "AgentFM – A single Go binary that turns idle GPUs into a P2P AI grid",
+    "summary": "Article URL: https://github.com/Agent-FM/agentfm-core Comments URL: https://news.ycombinator.com/item?id=47771025 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Agent-FM/agentfm-core Comments URL: https://news.ycombinator.com/item?id=47771025 Points: 1 # Comments: 0",
+    "author": "s4saif",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Agent-FM/agentfm-core",
+    "id": "news-458"
+  },
+  {
+    "title": "A simple test-time method that beats Claude Mythos on Terminal-Bench",
+    "summary": "Article URL: https://llm-as-a-verifier.notion.site Comments URL: https://news.ycombinator.com/item?id=47771055 Points: 1 # Comments: 1",
+    "content": "Article URL: https://llm-as-a-verifier.notion.site Comments URL: https://news.ycombinator.com/item?id=47771055 Points: 1 # Comments: 1",
+    "author": "jackykwok",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://llm-as-a-verifier.notion.site",
+    "id": "news-457"
+  },
+  {
+    "title": "Show HN: Putting AI in the loop for embedded dev",
+    "summary": "Article URL: https://www.electronicsconsult.com/blog/ai-assisted-hardware-in-the-loop-for-embedded-linux Comments URL: https://news.ycombinator.com/item?id=47771066 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.electronicsconsult.com/blog/ai-assisted-hardware-in-the-loop-for-embedded-linux Comments URL: https://news.ycombinator.com/item?id=47771066 Points: 1 # Comments: 0",
+    "author": "OOHehir",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.electronicsconsult.com/blog/ai-assisted-hardware-in-the-loop-for-embedded-linux",
+    "id": "news-456"
+  },
+  {
+    "title": "Show HN: ILTY – AI mental health companion that does not pat your back",
+    "summary": "Hey HN. My wife and I built ILTY because we both needed it for different reasons. My wife deals with anxiety. I have a fairly advanced case of procrastination and I kinda low-key feel too comfortable ",
+    "content": "Hey HN. My wife and I built ILTY because we both needed it for different reasons. My wife deals with anxiety. I have a fairly advanced case of procrastination and I kinda low-key feel too comfortable in my life so I cant quite make myself move.We tried the apps. Calm felt like homework and ChatGPT mostly tells how awesome we are and we need to love ourselves like we are, cant agree with that too muchSo we built what we actually wanted, tested with ~50 beta testers and felt good about publishing ",
+    "author": "sklyarov",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47771203",
+    "id": "news-455"
+  },
+  {
     "title": "Claude Code routines let AI fix bugs and review code on autopilot",
     "summary": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine. The articl",
     "content": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine. The article Claude Code routines let AI fix bugs and review code on autopilot appeared first on The Decoder.",
