@@ -1,5 +1,83 @@
 [
   {
+    "title": "Ukraine captures a Russian position using only drones and ground robots",
+    "summary": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remai",
+    "content": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain. The article Ukraine captures a Russian position using only drones and ground robots appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ukraine-captures-a-russian-position-using-only-drones-and-ground-robots/",
+    "id": "news-445"
+  },
+  {
+    "title": "AI Approach Reveals Ocean Currents in Unprecedented Detail",
+    "summary": "Article URL: https://today.ucsd.edu/story/new-ai-approach-reveals-ocean-currents-in-unprecedented-detail Comments URL: https://news.ycombinator.com/item?id=47768129 Points: 1 # Comments: 0",
+    "content": "Article URL: https://today.ucsd.edu/story/new-ai-approach-reveals-ocean-currents-in-unprecedented-detail Comments URL: https://news.ycombinator.com/item?id=47768129 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://today.ucsd.edu/story/new-ai-approach-reveals-ocean-currents-in-unprecedented-detail",
+    "id": "news-444"
+  },
+  {
+    "title": "Claude Code Routines",
+    "summary": "Article URL: https://code.claude.com/docs/en/routines Comments URL: https://news.ycombinator.com/item?id=47768133 Points: 3 # Comments: 0",
+    "content": "Article URL: https://code.claude.com/docs/en/routines Comments URL: https://news.ycombinator.com/item?id=47768133 Points: 3 # Comments: 0",
+    "author": "matthieu_bl",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://code.claude.com/docs/en/routines",
+    "id": "news-443"
+  },
+  {
+    "title": "Ask HN: What standards or protocols exist for AI Agent permissions",
+    "summary": "Curious what standards exist for AI agent permissions. Something like Linux read, write, execute types, but for AI agents. For example, is there standard way to provide a \"buy\" permission, or agentic ",
+    "content": "Curious what standards exist for AI agent permissions. Something like Linux read, write, execute types, but for AI agents. For example, is there standard way to provide a \"buy\" permission, or agentic commerce agents?I've seen a some stuff, but wanted to get community input. Comments URL: https://news.ycombinator.com/item?id=47768134 Points: 1 # Comments: 0",
+    "author": "lyfeninja",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47768134",
+    "id": "news-442"
+  },
+  {
+    "title": "The Missing Context Layer: Why Your LLM Agent Can't Do More Than Text-to-SQL",
+    "summary": "Article URL: https://airbyte.com/blog/the-missing-context-layer Comments URL: https://news.ycombinator.com/item?id=47768158 Points: 1 # Comments: 0",
+    "content": "Article URL: https://airbyte.com/blog/the-missing-context-layer Comments URL: https://news.ycombinator.com/item?id=47768158 Points: 1 # Comments: 0",
+    "author": "eigenBasis",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://airbyte.com/blog/the-missing-context-layer",
+    "id": "news-441"
+  },
+  {
+    "title": "Exposing Claude Code Fake YouTubers (No Hate) [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=eh2OUZVQWdk Comments URL: https://news.ycombinator.com/item?id=47768183 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=eh2OUZVQWdk Comments URL: https://news.ycombinator.com/item?id=47768183 Points: 1 # Comments: 0",
+    "author": "yunseo47",
+    "date": "2026-04-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=eh2OUZVQWdk",
+    "id": "news-440"
+  },
+  {
     "title": "Claude Mythos is a wake-up call for Europe's AI safety apparatus",
     "summary": "Anthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while t",
     "content": "Anthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while the UK is already running its own tests. The situation exposes a deeper structural problem. The article Claude Mythos is a wake-up call for Europe's AI safety apparatus appeared first on The Decoder.",
