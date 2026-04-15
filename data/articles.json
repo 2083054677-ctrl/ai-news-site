@@ -1,5 +1,110 @@
 [
   {
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "summary": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Hcompany/holotab",
+    "id": "news-477"
+  },
+  {
+    "title": "OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity",
+    "summary": "OpenAI releases GPT-5.4-Cyber, a model that has been specifically trained for defensive cyber security. Access remains restricted to verified security experts for the time being. The article OpenAI re",
+    "content": "OpenAI releases GPT-5.4-Cyber, a model that has been specifically trained for defensive cyber security. Access remains restricted to verified security experts for the time being. The article OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-releases-gpt-5-4-cyber-a-model-built-specifically-for-defensive-cybersecurity/",
+    "id": "news-476"
+  },
+  {
+    "title": "OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours",
+    "summary": "GPT-5.4 Pro solves an open Erdős problem in 80 minutes. Terence Tao calls it a meaningful contribution to mathematics. The article OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math",
+    "content": "GPT-5.4 Pro solves an open Erdős problem in 80 minutes. Terence Tao calls it a meaningful contribution to mathematics. The article OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/",
+    "id": "news-475"
+  },
+  {
+    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+    "summary": "Article URL: https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/ Comments URL: https://news.ycombinator.com/item?id=47777081 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/ Comments URL: https://news.ycombinator.com/item?id=47777081 Points: 1 # Comments: 0",
+    "author": "Topfi",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+    "id": "news-474"
+  },
+  {
+    "title": "Show HN: Markplane – Project management in your repo, built for AI collaboration",
+    "summary": "Article URL: https://github.com/zerowand01/markplane Comments URL: https://news.ycombinator.com/item?id=47777134 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/zerowand01/markplane Comments URL: https://news.ycombinator.com/item?id=47777134 Points: 1 # Comments: 1",
+    "author": "ddkingsley",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zerowand01/markplane",
+    "id": "news-473"
+  },
+  {
+    "title": "Redesigning Claude Code on desktop for parallel agents",
+    "summary": "Article URL: https://claude.com/blog/claude-code-desktop-redesign Comments URL: https://news.ycombinator.com/item?id=47777149 Points: 1 # Comments: 0",
+    "content": "Article URL: https://claude.com/blog/claude-code-desktop-redesign Comments URL: https://news.ycombinator.com/item?id=47777149 Points: 1 # Comments: 0",
+    "author": "lis",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/blog/claude-code-desktop-redesign",
+    "id": "news-472"
+  },
+  {
+    "title": "CodeRadar – Detecting AI code that passes every linter but doesn't work",
+    "summary": "Article URL: https://github.com/LowerJacksonMound/CodeRadar Comments URL: https://news.ycombinator.com/item?id=47777279 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/LowerJacksonMound/CodeRadar Comments URL: https://news.ycombinator.com/item?id=47777279 Points: 1 # Comments: 0",
+    "author": "jacksonmound22",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/LowerJacksonMound/CodeRadar",
+    "id": "news-471"
+  },
+  {
+    "title": "Anthropic blocked Claude subscribers from using OpenClaw",
+    "summary": "Article URL: https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/ Comments URL: https://news.ycombinator.com/item?id=47777280 Points: 2 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/ Comments URL: https://news.ycombinator.com/item?id=47777280 Points: 2 # Comments: 0",
+    "author": "manishfp",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "id": "news-470"
+  },
+  {
     "title": "The Death of an AI Whistleblower",
     "summary": "Article URL: https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/ Comments URL: https://news.ycombinator.com/item?id=47775593 Points: 3 # Comments: 0",
     "content": "Article URL: https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/ Comments URL: https://news.ycombinator.com/item?id=47775593 Points: 3 # Comments: 0",
