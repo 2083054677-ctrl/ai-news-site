@@ -1,5 +1,84 @@
 [
   {
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "summary": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "id": "news-492"
+  },
+  {
+    "title": "Jane Street Signs $6B AI Cloud Agreement with CoreWeave",
+    "summary": "Article URL: https://www.coreweave.com/news/jane-street-signs-6-billion-ai-cloud-agreement-with-coreweave Comments URL: https://news.ycombinator.com/item?id=47783274 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.coreweave.com/news/jane-street-signs-6-billion-ai-cloud-agreement-with-coreweave Comments URL: https://news.ycombinator.com/item?id=47783274 Points: 1 # Comments: 0",
+    "author": "moelf",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.coreweave.com/news/jane-street-signs-6-billion-ai-cloud-agreement-with-coreweave",
+    "id": "news-491"
+  },
+  {
+    "title": "Allbirds shares jump over 400% on plans to pivot to AI from sneakers",
+    "summary": "Article URL: https://www.reuters.com/business/allbirds-shares-jump-over-400-plans-pivot-ai-sneakers-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47783484 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.reuters.com/business/allbirds-shares-jump-over-400-plans-pivot-ai-sneakers-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47783484 Points: 1 # Comments: 0",
+    "author": "sph",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/allbirds-shares-jump-over-400-plans-pivot-ai-sneakers-2026-04-15/",
+    "id": "news-490"
+  },
+  {
+    "title": "A Survey of Workflow Optimization for LLM Agents",
+    "summary": "Article URL: https://arxiv.org/abs/2603.22386 Comments URL: https://news.ycombinator.com/item?id=47783523 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2603.22386 Comments URL: https://news.ycombinator.com/item?id=47783523 Points: 1 # Comments: 0",
+    "author": "PaulHoule",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2603.22386",
+    "id": "news-489"
+  },
+  {
+    "title": "AI Could Democratize One of Techs Most Valuable Resources",
+    "summary": "Article URL: https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/ Comments URL: https://news.ycombinator.com/item?id=47783621 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/ Comments URL: https://news.ycombinator.com/item?id=47783621 Points: 2 # Comments: 0",
+    "author": "technoabsurdist",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+    "id": "news-488"
+  },
+  {
+    "title": "I wrote a open source iMessage for your AI agents",
+    "summary": "Article URL: https://github.com/Potarix/agent-hub Comments URL: https://news.ycombinator.com/item?id=47783673 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Potarix/agent-hub Comments URL: https://news.ycombinator.com/item?id=47783673 Points: 1 # Comments: 1",
+    "author": "YoungGato",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Potarix/agent-hub",
+    "id": "news-487"
+  },
+  {
     "title": "Show HN: MetaHide – Hide Vibes in Meta.ai:)",
     "summary": "A simple Chrome extension that lets you show or hide the meta.ai sidebar menu items. Comments URL: https://news.ycombinator.com/item?id=47781592 Points: 1 # Comments: 0",
     "content": "A simple Chrome extension that lets you show or hide the meta.ai sidebar menu items. Comments URL: https://news.ycombinator.com/item?id=47781592 Points: 1 # Comments: 0",
