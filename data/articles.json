@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: MetaHide – Hide Vibes in Meta.ai:)",
+    "summary": "A simple Chrome extension that lets you show or hide the meta.ai sidebar menu items. Comments URL: https://news.ycombinator.com/item?id=47781592 Points: 1 # Comments: 0",
+    "content": "A simple Chrome extension that lets you show or hide the meta.ai sidebar menu items. Comments URL: https://news.ycombinator.com/item?id=47781592 Points: 1 # Comments: 0",
+    "author": "qainsights",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chromewebstore.google.com/detail/metahide/hodomjpjmaifjigbaobgabhpgkhifpib",
+    "id": "news-486"
+  },
+  {
+    "title": "When AI writes 100K lines of code, QA becomes the whole job",
+    "summary": "Article URL: https://thenewstack.io/ai-code-qa-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=47781613 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thenewstack.io/ai-code-qa-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=47781613 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/ai-code-qa-bottleneck/",
+    "id": "news-485"
+  },
+  {
+    "title": "Fix technical debt with AI-powered CLI tool",
+    "summary": "Article URL: https://noorlytics.se/ Comments URL: https://news.ycombinator.com/item?id=47781619 Points: 1 # Comments: 1",
+    "content": "Article URL: https://noorlytics.se/ Comments URL: https://news.ycombinator.com/item?id=47781619 Points: 1 # Comments: 1",
+    "author": "aisha_uk",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://noorlytics.se/",
+    "id": "news-484"
+  },
+  {
+    "title": "I built an AI tool to help analyze medical research for my son's condition",
+    "summary": "Article URL: https://patientwise.io Comments URL: https://news.ycombinator.com/item?id=47781672 Points: 1 # Comments: 0",
+    "content": "Article URL: https://patientwise.io Comments URL: https://news.ycombinator.com/item?id=47781672 Points: 1 # Comments: 0",
+    "author": "damcreativ",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://patientwise.io",
+    "id": "news-483"
+  },
+  {
+    "title": "AI Agents, Contained",
+    "summary": "Article URL: https://nemesis8.nuts.services/ Comments URL: https://news.ycombinator.com/item?id=47781801 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nemesis8.nuts.services/ Comments URL: https://news.ycombinator.com/item?id=47781801 Points: 1 # Comments: 0",
+    "author": "kordlessagain",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nemesis8.nuts.services/",
+    "id": "news-482"
+  },
+  {
     "title": "Claude beat human researchers on an alignment task, and then the results vanished in production",
     "summary": "In a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its ow",
     "content": "In a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its own production models, the effect vanished. The article Claude beat human researchers on an alignment task, and then the results vanished in production appeared first on The Decoder.",
