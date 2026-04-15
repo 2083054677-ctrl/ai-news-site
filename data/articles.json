@@ -1,5 +1,31 @@
 [
   {
+    "title": "Claude beat human researchers on an alignment task, and then the results vanished in production",
+    "summary": "In a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its ow",
+    "content": "In a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its own production models, the effect vanished. The article Claude beat human researchers on an alignment task, and then the results vanished in production appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/",
+    "id": "news-481"
+  },
+  {
+    "title": "Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars",
+    "summary": "Anthropic is preparing to release a new model and a design tool that would compete with Adobe and Figma. Meanwhile, venture capitalists are lining up to invest at sky-high valuations. The article Anth",
+    "content": "Anthropic is preparing to release a new model and a design tool that would compete with Adobe and Figma. Meanwhile, venture capitalists are lining up to invest at sky-high valuations. The article Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-prepares-opus-4-7-and-ai-design-tool-vcs-offer-up-to-800-billion-dollars/",
+    "id": "news-480"
+  },
+  {
     "title": "OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity",
     "summary": "Back in July 2025, OpenAI CEO Sam Altman expressed confidence that the conditions were right to bring Stargate to Narvik, Norway. Just a few months later, that optimism has largely evaporated. The art",
     "content": "Back in July 2025, OpenAI CEO Sam Altman expressed confidence that the conditions were right to bring Stargate to Narvik, Norway. Just a few months later, that optimism has largely evaporated. The article OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity appeared first on The Decoder.",
