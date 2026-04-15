@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Code can now do your job overnight",
+    "summary": "Article URL: https://thenewstack.io/claude-code-can-now-do-your-job-overnight/ Comments URL: https://news.ycombinator.com/item?id=47784510 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thenewstack.io/claude-code-can-now-do-your-job-overnight/ Comments URL: https://news.ycombinator.com/item?id=47784510 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/claude-code-can-now-do-your-job-overnight/",
+    "id": "news-497"
+  },
+  {
+    "title": "The AI Labs Have a $7 Doritos Problem",
+    "summary": "Article URL: https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem Comments URL: https://news.ycombinator.com/item?id=47784647 Points: 1 # Comments: 0",
+    "content": "Article URL: https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem Comments URL: https://news.ycombinator.com/item?id=47784647 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem",
+    "id": "news-496"
+  },
+  {
+    "title": "Apple is sending Siri Engineers to an AI Coding Bootcamp",
+    "summary": "Article URL: https://www.macrumors.com/2026/04/15/siri-engineers-ai-coding-bootcamp/ Comments URL: https://news.ycombinator.com/item?id=47784832 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.macrumors.com/2026/04/15/siri-engineers-ai-coding-bootcamp/ Comments URL: https://news.ycombinator.com/item?id=47784832 Points: 1 # Comments: 0",
+    "author": "hmokiguess",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.macrumors.com/2026/04/15/siri-engineers-ai-coding-bootcamp/",
+    "id": "news-495"
+  },
+  {
+    "title": "AI Heartache",
+    "summary": "Article URL: https://github.com/kevin-luddy39/context-inspector/ Comments URL: https://news.ycombinator.com/item?id=47784837 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/kevin-luddy39/context-inspector/ Comments URL: https://news.ycombinator.com/item?id=47784837 Points: 1 # Comments: 0",
+    "author": "kevinluddy39",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kevin-luddy39/context-inspector/",
+    "id": "news-494"
+  },
+  {
+    "title": "LLM from scratch, part 32k – Interventions: gradient accumulation",
+    "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation Comments URL: https://news.ycombinator.com/item?id=47784852 Po",
+    "content": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation Comments URL: https://news.ycombinator.com/item?id=47784852 Points: 1 # Comments: 0",
+    "author": "gpjt",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation",
+    "id": "news-493"
+  },
+  {
     "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
     "summary": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
     "content": "",
