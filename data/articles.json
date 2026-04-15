@@ -1,5 +1,70 @@
 [
   {
+    "title": "GPT-5.4 Pro solves Erdős Problem #1196",
+    "summary": "Article URL: https://twitter.com/i/status/2044051379916882067 Comments URL: https://news.ycombinator.com/item?id=47774494 Points: 2 # Comments: 1",
+    "content": "Article URL: https://twitter.com/i/status/2044051379916882067 Comments URL: https://news.ycombinator.com/item?id=47774494 Points: 2 # Comments: 1",
+    "author": "fratellobigio",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/i/status/2044051379916882067",
+    "id": "news-464"
+  },
+  {
+    "title": "Show HN: BSCS Bench – College CS Curriculum AI Benchmark",
+    "summary": "Can frontier models complete a college CS curriculum? I tested exactly that with BSCS-bench: 66 assignments across 11 core courses in Rice University’s CS curriculum.I also wrote a companion essay dis",
+    "content": "Can frontier models complete a college CS curriculum? I tested exactly that with BSCS-bench: 66 assignments across 11 core courses in Rice University’s CS curriculum.I also wrote a companion essay discussing the effects of these results on higher education as a whole: https://www.bscsbench.com/blog/no-calculators-please Comments URL: https://news.ycombinator.com/item?id=47774508 Points: 1 # Comments: 0",
+    "author": "charlielockyer",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bscsbench.com/",
+    "id": "news-463"
+  },
+  {
+    "title": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1",
+    "summary": "Article URL: https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/ Comments URL: https://news.ycombinator.com/item?id=47774523 Points: 3 # Comments: 1",
+    "content": "Article URL: https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/ Comments URL: https://news.ycombinator.com/item?id=47774523 Points: 3 # Comments: 1",
+    "author": "spaghettifythis",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+    "id": "news-462"
+  },
+  {
+    "title": "Show HN: Firefox Sidebar Local LLM",
+    "summary": "Article URL: https://github.com/skorotkiewicz/firefox-ai Comments URL: https://news.ycombinator.com/item?id=47774670 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/skorotkiewicz/firefox-ai Comments URL: https://news.ycombinator.com/item?id=47774670 Points: 1 # Comments: 0",
+    "author": "modinfo",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/skorotkiewicz/firefox-ai",
+    "id": "news-461"
+  },
+  {
+    "title": "The tech jobs bust is real. Don't blame AI (yet)",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47774692 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47774692 Points: 1 # Comments: 1",
+    "author": "axiomdata316",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+    "id": "news-460"
+  },
+  {
     "title": "Generalist AI Doesn't Scale",
     "summary": "Article URL: https://www.daemonology.net/blog/2024-04-06-Generalist-AI-doesnt-scale.html Comments URL: https://news.ycombinator.com/item?id=47770793 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.daemonology.net/blog/2024-04-06-Generalist-AI-doesnt-scale.html Comments URL: https://news.ycombinator.com/item?id=47770793 Points: 2 # Comments: 0",
