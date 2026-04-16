@@ -1,5 +1,70 @@
 [
   {
+    "title": "Why Anthropic and OpenAI are locking up their latest models",
+    "summary": "Article URL: https://economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models Comments URL: https://news.ycombinator.com/item?id=47788589 Points: 2 # Comments: 0",
+    "content": "Article URL: https://economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models Comments URL: https://news.ycombinator.com/item?id=47788589 Points: 2 # Comments: 0",
+    "author": "andsoitis",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models",
+    "id": "news-512"
+  },
+  {
+    "title": "Charts-of-Thought: Enhancing LLM Visualization Literacy (PDF, 2026)",
+    "summary": "Article URL: https://www3.cs.stonybrook.edu/~mueller/papers/Charts%20of%20Thought%20TVCG.pdf Comments URL: https://news.ycombinator.com/item?id=47788600 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www3.cs.stonybrook.edu/~mueller/papers/Charts%20of%20Thought%20TVCG.pdf Comments URL: https://news.ycombinator.com/item?id=47788600 Points: 1 # Comments: 0",
+    "author": "delfrrr",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www3.cs.stonybrook.edu/~mueller/papers/Charts%20of%20Thought%20TVCG.pdf",
+    "id": "news-511"
+  },
+  {
+    "title": "AI as an attorney? Student uses ChatGPT, Gemini to sue UW",
+    "summary": "Article URL: https://www.kuow.org/stories/ai-as-attorney-this-student-is-using-it-to-sue-uw-over-alleged-racial-discrimination Comments URL: https://news.ycombinator.com/item?id=47788659 Points: 1 # C",
+    "content": "Article URL: https://www.kuow.org/stories/ai-as-attorney-this-student-is-using-it-to-sue-uw-over-alleged-racial-discrimination Comments URL: https://news.ycombinator.com/item?id=47788659 Points: 1 # Comments: 0",
+    "author": "Umofomia",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kuow.org/stories/ai-as-attorney-this-student-is-using-it-to-sue-uw-over-alleged-racial-discrimination",
+    "id": "news-510"
+  },
+  {
+    "title": "Git blame your Claude Code setup",
+    "summary": "Article URL: https://breaking-changes.blog/treat-your-claude-code-setup-like-a-dev-project/ Comments URL: https://news.ycombinator.com/item?id=47788707 Points: 1 # Comments: 0",
+    "content": "Article URL: https://breaking-changes.blog/treat-your-claude-code-setup-like-a-dev-project/ Comments URL: https://news.ycombinator.com/item?id=47788707 Points: 1 # Comments: 0",
+    "author": "oakhan3",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://breaking-changes.blog/treat-your-claude-code-setup-like-a-dev-project/",
+    "id": "news-509"
+  },
+  {
+    "title": "Show HN: Centrality – Visualize your how Claude Code operates on your codebase",
+    "summary": "As a regular vibe coder, I came to really like claude-devtools for the level of observability it gives into tool calls, context allocation, and token consumption. But, I'm also a visual learner and th",
+    "content": "As a regular vibe coder, I came to really like claude-devtools for the level of observability it gives into tool calls, context allocation, and token consumption. But, I'm also a visual learner and the dialogue-style flow was not cutting it for me, especially when it came to system design. So, I went and built Centrality which combines some of my favorite features of claude-devtools with my own needs for codebase visualization.It shows you: * A graph of your codebase and which files have been to",
+    "author": "sorenjmadsen",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.centrality.sh/",
+    "id": "news-508"
+  },
+  {
     "title": "Amazon AI Cancelling Webcomics",
     "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 2 # Comments: 0",
     "content": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 2 # Comments: 0",
@@ -63,6 +128,45 @@
     ],
     "source": "https://justintallant.com/the-ai-debacle",
     "id": "news-503"
+  },
+  {
+    "title": "Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support",
+    "summary": "Google Gemini 3.1 Flash TTS converts text into natural-sounding speech in over 70 languages, with new audio tags for precise control over style, pace and tone. The article Google ships its most expres",
+    "content": "Google Gemini 3.1 Flash TTS converts text into natural-sounding speech in over 70 languages, with new audio tags for precise control over style, pace and tone. The article Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/",
+    "id": "news-515"
+  },
+  {
+    "title": "OpenAI updates Agents SDK with new sandbox support for safer AI agents",
+    "summary": "OpenAI has shipped a major update to its Agents SDK, adding native sandbox support and new tools. Developers can now build AI agents that check files, write code, and handle complex tasks in isolated ",
+    "content": "OpenAI has shipped a major update to its Agents SDK, adding native sandbox support and new tools. Developers can now build AI agents that check files, write code, and handle complex tasks in isolated environments. The article OpenAI updates Agents SDK with new sandbox support for safer AI agents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-updates-agents-sdk-with-new-sandbox-support-for-safer-ai-agents/",
+    "id": "news-514"
+  },
+  {
+    "title": "Adobe turns its creative suite into a chatbot with the new Firefly AI Assistant",
+    "summary": "With the Firefly AI Assistant, Adobe is launching an AI agent that manages creative workflows across apps like Photoshop and Premiere from a single chat interface. The article Adobe turns its creative",
+    "content": "With the Firefly AI Assistant, Adobe is launching an AI agent that manages creative workflows across apps like Photoshop and Premiere from a single chat interface. The article Adobe turns its creative suite into a chatbot with the new Firefly AI Assistant appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/adobe-turns-its-creative-suite-into-a-chatbot-with-the-new-firefly-ai-assistant/",
+    "id": "news-513"
   },
   {
     "title": "Title: Show HN: France Life MCP – 18 free AI tools for daily life in France",
