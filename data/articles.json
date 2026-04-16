@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Mythos and the EU Cyber Resilience Act",
+    "summary": "Article URL: https://til.andrew-quinn.me/posts/claude-mythos-and-the-eu-cyber-resiilience-act/ Comments URL: https://news.ycombinator.com/item?id=47790156 Points: 1 # Comments: 0",
+    "content": "Article URL: https://til.andrew-quinn.me/posts/claude-mythos-and-the-eu-cyber-resiilience-act/ Comments URL: https://news.ycombinator.com/item?id=47790156 Points: 1 # Comments: 0",
+    "author": "hiAndrewQuinn",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://til.andrew-quinn.me/posts/claude-mythos-and-the-eu-cyber-resiilience-act/",
+    "id": "news-520"
+  },
+  {
+    "title": "Ask HN: Simple tooling for local LLM code critique without IDE integration?",
+    "summary": "While I'll set out the criteria for what I'm looking for, I don't want this to turn into a general debate about the role of LLMs in software development. That discussion is important, but we have plen",
+    "content": "While I'll set out the criteria for what I'm looking for, I don't want this to turn into a general debate about the role of LLMs in software development. That discussion is important, but we have plenty of them. Consider everything that follows as personal a taste as ice cream flavor.Is there a lightweight, simple toolset for having local LLMs (preferably through llama.cpp) inspect and critique code without relying on IDE integration? I do not want an LLM to write any code for me, but I have def",
+    "author": "gspr",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47790214",
+    "id": "news-519"
+  },
+  {
+    "title": "Show HN: I built Emailbottle – AI email assistant, no inbox access",
+    "summary": "Hey HN, I built Emailbottle because I wanted AI help with my email without giving an app full access to my inbox. You get a personal email address (like yourname.assistant@emailbottle.com). Forward an",
+    "content": "Hey HN, I built Emailbottle because I wanted AI help with my email without giving an app full access to my inbox. You get a personal email address (like yourname.assistant@emailbottle.com). Forward an email to it with an instruction like “summarize this” or “pull out the action items,” and it replies. You can also ask it to create calendar events (it sends back .ics files), set reminders (it emails you at the scheduled time), or draft replies.Since it’s just email, it works with Gmail, Outlook, ",
+    "author": "devshaded",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://emailbottle.com",
+    "id": "news-518"
+  },
+  {
+    "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 2 # Comments: 1",
+    "author": "tcp_handshaker",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/c98mrepzgj7o",
+    "id": "news-517"
+  },
+  {
+    "title": "We built an AI patch network agent that maps Class A surfaces from sketches",
+    "summary": "Article URL: https://www.youtube.com/watch?v=B1bLRzSlH2k Comments URL: https://news.ycombinator.com/item?id=47790521 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=B1bLRzSlH2k Comments URL: https://news.ycombinator.com/item?id=47790521 Points: 1 # Comments: 0",
+    "author": "Webster_Lewis",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=B1bLRzSlH2k",
+    "id": "news-516"
+  },
+  {
     "title": "Why Anthropic and OpenAI are locking up their latest models",
     "summary": "Article URL: https://economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models Comments URL: https://news.ycombinator.com/item?id=47788589 Points: 2 # Comments: 0",
     "content": "Article URL: https://economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models Comments URL: https://news.ycombinator.com/item?id=47788589 Points: 2 # Comments: 0",
