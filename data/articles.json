@@ -1,5 +1,135 @@
 [
   {
+    "title": "Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities",
+    "summary": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities. The article An",
+    "content": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities. The article Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-claude-opus-4-7-makes-a-big-leap-in-coding-while-deliberately-scaling-back-cyber-capabilities/",
+    "id": "news-533"
+  },
+  {
+    "title": "Google launches native Gemini app for Mac",
+    "summary": "Google has released a native Gemini app for Mac, marking the first desktop version of its AI assistant alongside the existing smartphone apps. The article Google launches native Gemini app for Mac app",
+    "content": "Google has released a native Gemini app for Mac, marking the first desktop version of its AI assistant alongside the existing smartphone apps. The article Google launches native Gemini app for Mac appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-launches-native-gemini-app-for-mac/",
+    "id": "news-532"
+  },
+  {
+    "title": "India's 1.5 million annual IT graduates face an industry that's moving on without them",
+    "summary": "A Bloomberg report reveals how agentic AI is shaking up India's massive IT industry. Companies like Infosys are spending weeks retraining new hires because the country's universities aren't keeping up",
+    "content": "A Bloomberg report reveals how agentic AI is shaking up India's massive IT industry. Companies like Infosys are spending weeks retraining new hires because the country's universities aren't keeping up with reality. The article India's 1.5 million annual IT graduates face an industry that's moving on without them appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/indias-1-5-million-annual-it-graduates-face-an-industry-thats-moving-on-without-them/",
+    "id": "news-531"
+  },
+  {
+    "title": "Nvidia wants to scale robot simulation training with Lyra 2.0",
+    "summary": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robo",
+    "content": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations. The article Nvidia wants to scale robot simulation training with Lyra 2.0 appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/",
+    "id": "news-530"
+  },
+  {
+    "title": "OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch",
+    "summary": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defi",
+    "content": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race. The article OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/",
+    "id": "news-529"
+  },
+  {
+    "title": "How are people handling AI personality consistency?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47796218 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47796218 Points: 1 # Comments: 0",
+    "author": "mianzubair",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47796218",
+    "id": "news-528"
+  },
+  {
+    "title": "Best practices for using Claude Opus 4.7 with Claude Code",
+    "summary": "Article URL: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code Comments URL: https://news.ycombinator.com/item?id=47796264 Points: 2 # Comments: 0",
+    "content": "Article URL: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code Comments URL: https://news.ycombinator.com/item?id=47796264 Points: 2 # Comments: 0",
+    "author": "mfiguiere",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code",
+    "id": "news-527"
+  },
+  {
+    "title": "My experience with Claude and Codex on a system architecture bug",
+    "summary": "Article URL: https://swaranga.dev/posts/claude-vs-codex-on-a-system-architecture-bug/ Comments URL: https://news.ycombinator.com/item?id=47796292 Points: 1 # Comments: 0",
+    "content": "Article URL: https://swaranga.dev/posts/claude-vs-codex-on-a-system-architecture-bug/ Comments URL: https://news.ycombinator.com/item?id=47796292 Points: 1 # Comments: 0",
+    "author": "swaranga",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://swaranga.dev/posts/claude-vs-codex-on-a-system-architecture-bug/",
+    "id": "news-526"
+  },
+  {
+    "title": "Music Millennium Cancels Listening Party After AI Backlash",
+    "summary": "Article URL: https://www.wweek.com/music/2026/04/14/music-millennium-cancels-listening-party-after-ai-backlash/ Comments URL: https://news.ycombinator.com/item?id=47796295 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.wweek.com/music/2026/04/14/music-millennium-cancels-listening-party-after-ai-backlash/ Comments URL: https://news.ycombinator.com/item?id=47796295 Points: 3 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wweek.com/music/2026/04/14/music-millennium-cancels-listening-party-after-ai-backlash/",
+    "id": "news-525"
+  },
+  {
+    "title": "Making AI operational in constrained public sector environments",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/ Comments URL: https://news.ycombinator.com/item?id=47796324 Points: 1 ",
+    "content": "Article URL: https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/ Comments URL: https://news.ycombinator.com/item?id=47796324 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "id": "news-524"
+  },
+  {
     "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
     "summary": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
     "content": "",
