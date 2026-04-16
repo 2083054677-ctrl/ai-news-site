@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN I made my vacation rental bookable by AI agents–no Airbnb, 0% commission",
+    "summary": "Article URL: https://hemmabo-mcp-server.vercel.app/.well-known/mcp.json Comments URL: https://news.ycombinator.com/item?id=47798900 Points: 1 # Comments: 2",
+    "content": "Article URL: https://hemmabo-mcp-server.vercel.app/.well-known/mcp.json Comments URL: https://news.ycombinator.com/item?id=47798900 Points: 1 # Comments: 2",
+    "author": "Freezone",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hemmabo-mcp-server.vercel.app/.well-known/mcp.json",
+    "id": "news-539"
+  },
+  {
+    "title": "Ask HN: Agent orchestrators / UIs you use on top of Claude?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47798952 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47798952 Points: 1 # Comments: 0",
+    "author": "nyellin",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47798952",
+    "id": "news-538"
+  },
+  {
+    "title": "Sekreets – Real-Time Scanning of Leaked AI API Keys on GitHub",
+    "summary": "Article URL: https://sekreets.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=47798982 Points: 2 # Comments: 0",
+    "content": "Article URL: https://sekreets.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=47798982 Points: 2 # Comments: 0",
+    "author": "certyfreak",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sekreets.vercel.app/",
+    "id": "news-537"
+  },
+  {
+    "title": "Timeplus Released AgentGuard – Real-Time Security Detection for AI Agents",
+    "summary": "Article URL: https://www.timeplus.com/post/agentguard Comments URL: https://news.ycombinator.com/item?id=47799114 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.timeplus.com/post/agentguard Comments URL: https://news.ycombinator.com/item?id=47799114 Points: 1 # Comments: 0",
+    "author": "gangtao",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.timeplus.com/post/agentguard",
+    "id": "news-536"
+  },
+  {
+    "title": "Show HN: King Louie – desktop AI with 20 agent tools, no cloud required",
+    "summary": "Article URL: https://github.com/the-banana-tool/king-louie Comments URL: https://news.ycombinator.com/item?id=47799129 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/the-banana-tool/king-louie Comments URL: https://news.ycombinator.com/item?id=47799129 Points: 1 # Comments: 0",
+    "author": "sethito",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/the-banana-tool/king-louie",
+    "id": "news-535"
+  },
+  {
     "title": "OpenAI turns Codex into an always-on coding agent that watches your screen",
     "summary": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes",
     "content": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code. The article OpenAI turns Codex into an always-on coding agent that watches your screen appeared first on The Decoder.",
