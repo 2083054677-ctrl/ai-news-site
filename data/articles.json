@@ -1,5 +1,46 @@
 [
   {
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "summary": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "id": "news-523"
+  },
+  {
+    "title": "The PR you would have opened yourself",
+    "summary": "The PR you would have opened yourself",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/transformers-to-mlx",
+    "id": "news-522"
+  },
+  {
+    "title": "Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list",
+    "summary": "Bytedance is rolling out its AI video model Seedance 2.0 to over 100 countries—but the US isn't one of them, likely due to ongoing copyright disputes with Hollywood studios. The article Bytedance roll",
+    "content": "Bytedance is rolling out its AI video model Seedance 2.0 to over 100 countries—but the US isn't one of them, likely due to ongoing copyright disputes with Hollywood studios. The article Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/",
+    "id": "news-521"
+  },
+  {
     "title": "Claude Mythos and the EU Cyber Resilience Act",
     "summary": "Article URL: https://til.andrew-quinn.me/posts/claude-mythos-and-the-eu-cyber-resiilience-act/ Comments URL: https://news.ycombinator.com/item?id=47790156 Points: 1 # Comments: 0",
     "content": "Article URL: https://til.andrew-quinn.me/posts/claude-mythos-and-the-eu-cyber-resiilience-act/ Comments URL: https://news.ycombinator.com/item?id=47790156 Points: 1 # Comments: 0",
