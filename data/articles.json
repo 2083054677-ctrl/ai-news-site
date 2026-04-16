@@ -1,5 +1,70 @@
 [
   {
+    "title": "Amazon AI Cancelling Webcomics",
+    "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 2 # Comments: 0",
+    "content": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 2 # Comments: 0",
+    "author": "vmbrasseur",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+    "id": "news-507"
+  },
+  {
+    "title": "EU AI Act: curated tools, official sources, templates, and OSS",
+    "summary": "Article URL: https://github.com/GenAI-Gurus/awesome-eu-ai-act Comments URL: https://news.ycombinator.com/item?id=47787469 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/GenAI-Gurus/awesome-eu-ai-act Comments URL: https://news.ycombinator.com/item?id=47787469 Points: 1 # Comments: 0",
+    "author": "carloshvp",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/GenAI-Gurus/awesome-eu-ai-act",
+    "id": "news-506"
+  },
+  {
+    "title": "Show HN: Gave Claude a casino bankroll – it gambles till it's too broke to think",
+    "summary": "Inspired by ALMA. As Claude loses money gambling on provably-fair slots, it's forced to downgrade from Opus → Sonnet → Haiku, making worse decisions and accelerating the spiral. Donations go to gambli",
+    "content": "Inspired by ALMA. As Claude loses money gambling on provably-fair slots, it's forced to downgrade from Opus → Sonnet → Haiku, making worse decisions and accelerating the spiral. Donations go to gambling support charities. Comments URL: https://news.ycombinator.com/item?id=47787491 Points: 3 # Comments: 1",
+    "author": "mackbrowne",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://letaigamble.com/",
+    "id": "news-505"
+  },
+  {
+    "title": "Free open source AI Editor",
+    "summary": "Article URL: https://github.com/MeepCastana/KubeezCut Comments URL: https://news.ycombinator.com/item?id=47787589 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/MeepCastana/KubeezCut Comments URL: https://news.ycombinator.com/item?id=47787589 Points: 1 # Comments: 0",
+    "author": "Meeeeeep",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MeepCastana/KubeezCut",
+    "id": "news-504"
+  },
+  {
+    "title": "The AI Debacle",
+    "summary": "Article URL: https://justintallant.com/the-ai-debacle Comments URL: https://news.ycombinator.com/item?id=47787594 Points: 1 # Comments: 0",
+    "content": "Article URL: https://justintallant.com/the-ai-debacle Comments URL: https://news.ycombinator.com/item?id=47787594 Points: 1 # Comments: 0",
+    "author": "jtallant",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://justintallant.com/the-ai-debacle",
+    "id": "news-503"
+  },
+  {
     "title": "Title: Show HN: France Life MCP – 18 free AI tools for daily life in France",
     "summary": "Article URL: https://github.com/giacomomaria81/france-life-mcp Comments URL: https://news.ycombinator.com/item?id=47785760 Points: 2 # Comments: 1",
     "content": "Article URL: https://github.com/giacomomaria81/france-life-mcp Comments URL: https://news.ycombinator.com/item?id=47785760 Points: 2 # Comments: 1",
