@@ -1,5 +1,18 @@
 [
   {
+    "title": "OpenAI turns Codex into an always-on coding agent that watches your screen",
+    "summary": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes",
+    "content": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code. The article OpenAI turns Codex into an always-on coding agent that watches your screen appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/",
+    "id": "news-534"
+  },
+  {
     "title": "Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities",
     "summary": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities. The article An",
     "content": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities. The article Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities appeared first on The Decoder.",
