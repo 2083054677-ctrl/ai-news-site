@@ -1,5 +1,32 @@
 [
   {
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "summary": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "id": "news-576"
+  },
+  {
+    "title": "Anthropic's Claude Design turns chatbot conversations into prototypes, slide decks, and marketing assets",
+    "summary": "Anthropic is launching Claude Design, a new tool that lets users create and refine designs, interactive prototypes, presentation slides, and one-pagers through a back-and-forth conversation with Claud",
+    "content": "Anthropic is launching Claude Design, a new tool that lets users create and refine designs, interactive prototypes, presentation slides, and one-pagers through a back-and-forth conversation with Claude. The tool can pull in codebases, design files, and live websites to match existing brand styles. The article Anthropic's Claude Design turns chatbot conversations into prototypes, slide decks, and marketing assets appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-claude-design-turns-chatbot-conversations-into-prototypes-slide-decks-and-marketing-assets/",
+    "id": "news-575"
+  },
+  {
     "title": "OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research",
     "summary": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now.",
     "content": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now. The article OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research appeared first on The Decoder.",
