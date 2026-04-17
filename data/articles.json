@@ -1,5 +1,96 @@
 [
   {
+    "title": "Google finds new ways to keep you from ever visiting a website directly again",
+    "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant. The article Google finds new ways to k",
+    "content": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant. The article Google finds new ways to keep you from ever visiting a website directly again appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/",
+    "id": "news-592"
+  },
+  {
+    "title": "Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception",
+    "summary": "Google Deepmind's Gemini Robotics-ER 1.6 helps robots plan and act more precisely, with a new knack for reading measuring instruments. The article Google Deepmind's Gemini Robotics-ER 1.6 gives robots",
+    "content": "Google Deepmind's Gemini Robotics-ER 1.6 helps robots plan and act more precisely, with a new knack for reading measuring instruments. The article Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/",
+    "id": "news-591"
+  },
+  {
+    "title": "Why AI Is Not Getting You Out of a Job",
+    "summary": "Article URL: https://yeikoff.xyz/blog/17-04-2026-not-out-of-a-job/ Comments URL: https://news.ycombinator.com/item?id=47809564 Points: 2 # Comments: 0",
+    "content": "Article URL: https://yeikoff.xyz/blog/17-04-2026-not-out-of-a-job/ Comments URL: https://news.ycombinator.com/item?id=47809564 Points: 2 # Comments: 0",
+    "author": "iglesiastj",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://yeikoff.xyz/blog/17-04-2026-not-out-of-a-job/",
+    "id": "news-590"
+  },
+  {
+    "title": "Ask HN: In the AI world what does \"great\" look like?",
+    "summary": "I had a chat with my team mate today and they brought up an interesting point. If AI is cooking our software and doing an amazing job, for us devs what does \"great\" look like? How do WE improve? How d",
+    "content": "I had a chat with my team mate today and they brought up an interesting point. If AI is cooking our software and doing an amazing job, for us devs what does \"great\" look like? How do WE improve? How do we assess performance of us, i.e. \"the humans\"? What do we base salaries on?Have you discussed this in your organisations? Does anyone have a plan? If your dev teams are creating scaffolding, harnesses, skills and getting CC to cook up everything, make PRs, perform reviews, find bugs, fix bugs, up",
+    "author": "armcat",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47809594",
+    "id": "news-589"
+  },
+  {
+    "title": "How to Build Advanced Generative AI Agents (Kinda)",
+    "summary": "Article URL: https://www.generative.inc/how-to-build-advanced-generative-ai-agents Comments URL: https://news.ycombinator.com/item?id=47809915 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.generative.inc/how-to-build-advanced-generative-ai-agents Comments URL: https://news.ycombinator.com/item?id=47809915 Points: 3 # Comments: 0",
+    "author": "altonwells",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.generative.inc/how-to-build-advanced-generative-ai-agents",
+    "id": "news-588"
+  },
+  {
+    "title": "Show HN: Agents.ml – a public identity page and A2A card for your AI agent",
+    "summary": "Article URL: https://agents.ml Comments URL: https://news.ycombinator.com/item?id=47810052 Points: 2 # Comments: 1",
+    "content": "Article URL: https://agents.ml Comments URL: https://news.ycombinator.com/item?id=47810052 Points: 2 # Comments: 1",
+    "author": "bayff",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agents.ml",
+    "id": "news-587"
+  },
+  {
+    "title": "Stalwart-Sentinel – A physics-based logic gate to stop AI hallucinations",
+    "summary": "Article URL: https://github.com/taxischramm347-pixel/Stalwart-Sentinel-MVP-/tree/main Comments URL: https://news.ycombinator.com/item?id=47810086 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/taxischramm347-pixel/Stalwart-Sentinel-MVP-/tree/main Comments URL: https://news.ycombinator.com/item?id=47810086 Points: 1 # Comments: 0",
+    "author": "taxi347",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/taxischramm347-pixel/Stalwart-Sentinel-MVP-/tree/main",
+    "id": "news-586"
+  },
+  {
     "title": "Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering",
     "summary": "With OpenAI's planned IPO valuing the company at around $850 billion, internal doubts about Sam Altman are reportedly growing. According to the Wall Street Journal, some shareholders are already float",
     "content": "With OpenAI's planned IPO valuing the company at around $850 billion, internal doubts about Sam Altman are reportedly growing. According to the Wall Street Journal, some shareholders are already floating a potential successor. The article Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering appeared first on The Decoder.",
