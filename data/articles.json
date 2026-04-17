@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Patchwright – AI Assisted Short Film",
+    "summary": "Article URL: https://www.youtube.com/watch?v=-Rzl7nUdEs4 Comments URL: https://news.ycombinator.com/item?id=47801447 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=-Rzl7nUdEs4 Comments URL: https://news.ycombinator.com/item?id=47801447 Points: 1 # Comments: 0",
+    "author": "gradus_ad",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=-Rzl7nUdEs4",
+    "id": "news-549"
+  },
+  {
+    "title": "DARPA builds AI to investigate China's claim it can break military encryption",
+    "summary": "Article URL: https://www.scientificamerican.com/article/darpa-built-an-ai-to-fact-check-enemy-weapons-claims/ Comments URL: https://news.ycombinator.com/item?id=47801478 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.scientificamerican.com/article/darpa-built-an-ai-to-fact-check-enemy-weapons-claims/ Comments URL: https://news.ycombinator.com/item?id=47801478 Points: 2 # Comments: 0",
+    "author": "Jimmc414",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.scientificamerican.com/article/darpa-built-an-ai-to-fact-check-enemy-weapons-claims/",
+    "id": "news-548"
+  },
+  {
+    "title": "AI companies are buying the Slack data of failed startups",
+    "summary": "Article URL: https://twitter.com/_iainmartin/status/2044758204773486925 Comments URL: https://news.ycombinator.com/item?id=47801494 Points: 4 # Comments: 2",
+    "content": "Article URL: https://twitter.com/_iainmartin/status/2044758204773486925 Comments URL: https://news.ycombinator.com/item?id=47801494 Points: 4 # Comments: 2",
+    "author": "harambae",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/_iainmartin/status/2044758204773486925",
+    "id": "news-547"
+  },
+  {
+    "title": "Google Opens Personal Intelligence AI to All US Users",
+    "summary": "Article URL: https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/ Comments URL: https://news.ycombinator.com/item?id=47801628 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/ Comments URL: https://news.ycombinator.com/item?id=47801628 Points: 1 # Comments: 0",
+    "author": "demiurges",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/",
+    "id": "news-546"
+  },
+  {
+    "title": "Claude Monitor Track token usage, costs, and tool calls for Claude Code sessions",
+    "summary": "Article URL: https://github.com/szaher/claude-monitor Comments URL: https://news.ycombinator.com/item?id=47801696 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/szaher/claude-monitor Comments URL: https://news.ycombinator.com/item?id=47801696 Points: 1 # Comments: 0",
+    "author": "szaher",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/szaher/claude-monitor",
+    "id": "news-545"
+  },
+  {
     "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
     "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 25 # Comments: 2",
     "content": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 25 # Comments: 2",
