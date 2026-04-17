@@ -1,5 +1,122 @@
 [
   {
+    "title": "Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering",
+    "summary": "With OpenAI's planned IPO valuing the company at around $850 billion, internal doubts about Sam Altman are reportedly growing. According to the Wall Street Journal, some shareholders are already float",
+    "content": "With OpenAI's planned IPO valuing the company at around $850 billion, internal doubts about Sam Altman are reportedly growing. According to the Wall Street Journal, some shareholders are already floating a potential successor. The article Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/some-openai-shareholders-reportedly-question-whether-altman-can-steer-the-company-to-a-public-offering/",
+    "id": "news-585"
+  },
+  {
+    "title": "ChatGPT bleeds market share as Claude posts explosive monthly growth",
+    "summary": "Claude doubles its market share in a single month, jumping past Deepseek and Grok. ChatGPT still leads the pack but is losing ground fast, especially to Google Gemini, which now captures a quarter of ",
+    "content": "Claude doubles its market share in a single month, jumping past Deepseek and Grok. ChatGPT still leads the pack but is losing ground fast, especially to Google Gemini, which now captures a quarter of all AI traffic. The article ChatGPT bleeds market share as Claude posts explosive monthly growth appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/",
+    "id": "news-584"
+  },
+  {
+    "title": "Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks",
+    "summary": "Alibaba's new open-source Qwen3.6-35B-A3B activates just three of its 35 billion parameters at a time, yet beats Google's larger Gemma 4-31B on coding and reasoning benchmarks. The article Alibaba's o",
+    "content": "Alibaba's new open-source Qwen3.6-35B-A3B activates just three of its 35 billion parameters at a time, yet beats Google's larger Gemma 4-31B on coding and reasoning benchmarks. The article Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-open-model-qwen3-6-leads-googles-gemma-4-across-agentic-coding-benchmarks/",
+    "id": "news-583"
+  },
+  {
+    "title": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse",
+    "summary": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opene",
+    "content": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door. The article The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/",
+    "id": "news-582"
+  },
+  {
+    "title": "Reactionary Red-Lining of AI",
+    "summary": "Article URL: https://www.chrbutler.com/reactionary-red-lining-of-ai Comments URL: https://news.ycombinator.com/item?id=47808972 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.chrbutler.com/reactionary-red-lining-of-ai Comments URL: https://news.ycombinator.com/item?id=47808972 Points: 3 # Comments: 0",
+    "author": "delaugust",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.chrbutler.com/reactionary-red-lining-of-ai",
+    "id": "news-581"
+  },
+  {
+    "title": "Dome Systems – A system of control for AI agents",
+    "summary": "Article URL: https://www.domesystems.ai/ Comments URL: https://news.ycombinator.com/item?id=47809008 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.domesystems.ai/ Comments URL: https://news.ycombinator.com/item?id=47809008 Points: 1 # Comments: 0",
+    "author": "madmax108",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.domesystems.ai/",
+    "id": "news-580"
+  },
+  {
+    "title": "Analytics group: 40% of AI data center construction sites face possible delays",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdu",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdups-but-satellite-imagery-indicates-otherwise Comments URL: https://news.ycombinator.com/item?id=47809025 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdups-but-satellite-imagery-indicates-otherwise",
+    "id": "news-579"
+  },
+  {
+    "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup in 2026",
+    "summary": "Article URL: https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47809037 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47809037 Points: 1 # Comments: 0",
+    "author": "wrxd",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/",
+    "id": "news-578"
+  },
+  {
+    "title": "AAIP – An open protocol for AI agent identity and agent-to-agent commerce",
+    "summary": "Article URL: https://github.com/MohammdKopa/aaip Comments URL: https://news.ycombinator.com/item?id=47809199 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/MohammdKopa/aaip Comments URL: https://news.ycombinator.com/item?id=47809199 Points: 1 # Comments: 0",
+    "author": "mohamedkeba",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MohammdKopa/aaip",
+    "id": "news-577"
+  },
+  {
     "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
     "summary": "Building a Fast Multilingual OCR Model with Synthetic Data",
     "content": "",
