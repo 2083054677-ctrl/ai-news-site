@@ -1,5 +1,109 @@
 [
   {
+    "title": "OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research",
+    "summary": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now.",
+    "content": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now. The article OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/",
+    "id": "news-573"
+  },
+  {
+    "title": "Physical Intelligence shows robot model with LLM-like generalization, flaws included",
+    "summary": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments fro",
+    "content": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data. The researchers describe this as early signs of \"compositional generalization\" in robotics. The article Physical Intelligence shows robot model with LLM-like generalization, flaws included appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/",
+    "id": "news-572"
+  },
+  {
+    "title": "Google finds new ways to keep you from ever clicking a link again",
+    "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant. The article Google finds new ways to k",
+    "content": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant. The article Google finds new ways to keep you from ever clicking a link again appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-clicking-a-link-again/",
+    "id": "news-571"
+  },
+  {
+    "title": "Anthropic chief Dario Amodei: 'I don't want AI turned on our own people'",
+    "summary": "Article URL: https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06 Comments URL: https://news.ycombinator.com/item?id=47805296 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06 Comments URL: https://news.ycombinator.com/item?id=47805296 Points: 2 # Comments: 1",
+    "author": "ironyman",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06",
+    "id": "news-570"
+  },
+  {
+    "title": "Adapt: an LLM-based memory layer that restructures itself",
+    "summary": "Article URL: https://github.com/unbody-io/adapt Comments URL: https://news.ycombinator.com/item?id=47805302 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/unbody-io/adapt Comments URL: https://news.ycombinator.com/item?id=47805302 Points: 1 # Comments: 0",
+    "author": "Amirhouieh",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/unbody-io/adapt",
+    "id": "news-569"
+  },
+  {
+    "title": "An AI system that runs an art exhibition and decides what gets made",
+    "summary": "Article URL: https://performance-review.jonaslund.com/ Comments URL: https://news.ycombinator.com/item?id=47805367 Points: 1 # Comments: 0",
+    "content": "Article URL: https://performance-review.jonaslund.com/ Comments URL: https://news.ycombinator.com/item?id=47805367 Points: 1 # Comments: 0",
+    "author": "jonaslund",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://performance-review.jonaslund.com/",
+    "id": "news-568"
+  },
+  {
+    "title": "Java 26 and the Rise of Agentic AI: The State of the Ecosystem (April 2026)",
+    "summary": "Article URL: https://techlife.blog/posts/java-ecosystem-april-2026/ Comments URL: https://news.ycombinator.com/item?id=47805372 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techlife.blog/posts/java-ecosystem-april-2026/ Comments URL: https://news.ycombinator.com/item?id=47805372 Points: 1 # Comments: 0",
+    "author": "tsenturk",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techlife.blog/posts/java-ecosystem-april-2026/",
+    "id": "news-567"
+  },
+  {
+    "title": "Open source protocol for tracking AI agent commitments with proof of delivery",
+    "summary": "Article URL: https://github.com/Redas-Protocol/redas-protocol Comments URL: https://news.ycombinator.com/item?id=47805411 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Redas-Protocol/redas-protocol Comments URL: https://news.ycombinator.com/item?id=47805411 Points: 1 # Comments: 0",
+    "author": "lilknicks9",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Redas-Protocol/redas-protocol",
+    "id": "news-566"
+  },
+  {
     "title": "White House Works to Give US Agencies Anthropic Mythos AI",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access Comments URL: https://news.ycombinator.com/item?id=47804358 Points: 2 # Co",
     "content": "Article URL: https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access Comments URL: https://news.ycombinator.com/item?id=47804358 Points: 2 # Comments: 0",
@@ -271,6 +375,20 @@
     ],
     "source": "https://github.com/szaher/claude-monitor",
     "id": "news-545"
+  },
+  {
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "summary": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-16",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ecom-rlve",
+    "id": "news-574"
   },
   {
     "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
