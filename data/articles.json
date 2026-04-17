@@ -1,5 +1,70 @@
 [
   {
+    "title": "I'm tired about hearing about AI startups",
+    "summary": "Are there any companies just hiring for real people with real decades' of experience? Comments URL: https://news.ycombinator.com/item?id=47803078 Points: 1 # Comments: 2",
+    "content": "Are there any companies just hiring for real people with real decades' of experience? Comments URL: https://news.ycombinator.com/item?id=47803078 Points: 1 # Comments: 2",
+    "author": "geuis",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47803078",
+    "id": "news-559"
+  },
+  {
+    "title": "Engram – context spine for AI coding agents, 88% proven token savings",
+    "summary": "Article URL: https://github.com/NickCirv/engram Comments URL: https://news.ycombinator.com/item?id=47803155 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/NickCirv/engram Comments URL: https://news.ycombinator.com/item?id=47803155 Points: 1 # Comments: 0",
+    "author": "NickCirv",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/NickCirv/engram",
+    "id": "news-558"
+  },
+  {
+    "title": "Ask HN: What are the machine requirements for a LLM like Llama-3.1-8B?",
+    "summary": "I want to create a local GenAI. Tell me the server machine requirements.Or if you can suggest both—The model & a cheap machine requirement against that, it will help a lot. By the way, for now—I have ",
+    "content": "I want to create a local GenAI. Tell me the server machine requirements.Or if you can suggest both—The model & a cheap machine requirement against that, it will help a lot. By the way, for now—I have Intel i5 6th Gen CPU, Graphics card with 4 GB VRAM, 16 GB RAM & Ethernet. I will improve it if I get a good guidance here on. Comments URL: https://news.ycombinator.com/item?id=47803176 Points: 2 # Comments: 0",
+    "author": "wasimsk",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47803176",
+    "id": "news-557"
+  },
+  {
+    "title": "Treating enterprise AI as an operating layer",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/ Comments URL: https://news.ycombinator.com/item?id=47803219 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/ Comments URL: https://news.ycombinator.com/item?id=47803219 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "id": "news-556"
+  },
+  {
+    "title": "AI images are being used in insurance scams",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cm2rr9pg4jzo Comments URL: https://news.ycombinator.com/item?id=47803265 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/cm2rr9pg4jzo Comments URL: https://news.ycombinator.com/item?id=47803265 Points: 1 # Comments: 0",
+    "author": "1659447091",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/cm2rr9pg4jzo",
+    "id": "news-555"
+  },
+  {
     "title": "AST and LLM Navigation Tool",
     "summary": "Article URL: https://analect.dev/ Comments URL: https://news.ycombinator.com/item?id=47802113 Points: 1 # Comments: 0",
     "content": "Article URL: https://analect.dev/ Comments URL: https://news.ycombinator.com/item?id=47802113 Points: 1 # Comments: 0",
