@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Agentic Dev – AI dev-tools news, curated daily by Claude",
+    "summary": "Article URL: https://agenticdev.blog/ Comments URL: https://news.ycombinator.com/item?id=47811916 Points: 2 # Comments: 0",
+    "content": "Article URL: https://agenticdev.blog/ Comments URL: https://news.ycombinator.com/item?id=47811916 Points: 2 # Comments: 0",
+    "author": "beeswaxpat",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agenticdev.blog/",
+    "id": "news-596"
+  },
+  {
+    "title": "Steno – Compressed memory with RAG for AI agents",
+    "summary": "Article URL: https://github.com/KultMember6Banger/steno Comments URL: https://news.ycombinator.com/item?id=47812054 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/KultMember6Banger/steno Comments URL: https://news.ycombinator.com/item?id=47812054 Points: 1 # Comments: 1",
+    "author": "KM6B",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/KultMember6Banger/steno",
+    "id": "news-595"
+  },
+  {
+    "title": "Show HN - TokensAI – Mint for AI Usage",
+    "summary": "Article URL: https://tokensai.dev Comments URL: https://news.ycombinator.com/item?id=47812164 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tokensai.dev Comments URL: https://news.ycombinator.com/item?id=47812164 Points: 1 # Comments: 0",
+    "author": "SowjanyaY",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tokensai.dev",
+    "id": "news-594"
+  },
+  {
+    "title": "New AI-generated videos of Iran war spread across social media",
+    "summary": "Article URL: https://www.youtube.com/watch?v=0mKCBAM4wZs Comments URL: https://news.ycombinator.com/item?id=47812407 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=0mKCBAM4wZs Comments URL: https://news.ycombinator.com/item?id=47812407 Points: 1 # Comments: 0",
+    "author": "mgh2",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=0mKCBAM4wZs",
+    "id": "news-593"
+  },
+  {
+    "title": "OpenAI Says Codex Agents Are Running Its Data Platform Autonomously",
+    "summary": "Article URL: https://www.forbes.com/sites/victordey/2026/04/17/openai-says-codex-agents-are-running-its-data-platform-autonomously/ Comments URL: https://news.ycombinator.com/item?id=47811847 Points: ",
+    "content": "Article URL: https://www.forbes.com/sites/victordey/2026/04/17/openai-says-codex-agents-are-running-its-data-platform-autonomously/ Comments URL: https://news.ycombinator.com/item?id=47811847 Points: 3 # Comments: 0",
+    "author": "tanelpoder",
+    "date": "2026-04-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/victordey/2026/04/17/openai-says-codex-agents-are-running-its-data-platform-autonomously/",
+    "id": "news-597"
+  },
+  {
     "title": "Google finds new ways to keep you from ever visiting a website directly again",
     "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant. The article Google finds new ways to k",
     "content": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant. The article Google finds new ways to keep you from ever visiting a website directly again appeared first on The Decoder.",
