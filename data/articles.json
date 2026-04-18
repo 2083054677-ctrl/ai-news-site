@@ -1,5 +1,109 @@
 [
   {
+    "title": "OpenAI loses three executives in one swoop as restructuring reshapes its product lineup",
+    "summary": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers. The article OpenAI loses three executiv",
+    "content": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers. The article OpenAI loses three executives in one swoop as restructuring reshapes its product lineup appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/",
+    "id": "news-610"
+  },
+  {
+    "title": "Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure",
+    "summary": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its",
+    "content": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending. The article Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/",
+    "id": "news-609"
+  },
+  {
+    "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
+    "summary": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed mod",
+    "content": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by rivals, and mounting pressure from deep-pocketed tech giants. The article Deepseek reportedly seeks outside funding for the first time at $10 billion valuation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
+    "id": "news-608"
+  },
+  {
+    "title": "Purdue University CS240 Class over 50% of students 'caught' using AI on homework",
+    "summary": "Article URL: https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/ Comments URL: https://news.ycombinator.com/item?id=47814040 Points: 1 # Comments: 2",
+    "content": "Article URL: https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/ Comments URL: https://news.ycombinator.com/item?id=47814040 Points: 1 # Comments: 2",
+    "author": "twaldin",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/",
+    "id": "news-607"
+  },
+  {
+    "title": "Claude Opus wrote a Chrome exploit for $2,283",
+    "summary": "Article URL: https://www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/ Comments URL: https://news.ycombinator.com/item?id=47814068 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/ Comments URL: https://news.ycombinator.com/item?id=47814068 Points: 3 # Comments: 0",
+    "author": "Mohansrk",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
+    "id": "news-606"
+  },
+  {
+    "title": "BibCrit – LLM grounded in ETCBC corpus data for Biblical textual criticism",
+    "summary": "Article URL: https://github.com/Jossifresben/BibCrit Comments URL: https://news.ycombinator.com/item?id=47814116 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Jossifresben/BibCrit Comments URL: https://news.ycombinator.com/item?id=47814116 Points: 1 # Comments: 0",
+    "author": "jossifresben",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Jossifresben/BibCrit",
+    "id": "news-605"
+  },
+  {
+    "title": "Peter Thiel Is Launching an \"AI Ministry of Truth\" Called Objection",
+    "summary": "Article URL: https://old.reddit.com/r/antiai/comments/1sngw6f/peter_thiel_is_launching_an_ai_ministry_of_truth/ Comments URL: https://news.ycombinator.com/item?id=47814148 Points: 3 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/antiai/comments/1sngw6f/peter_thiel_is_launching_an_ai_ministry_of_truth/ Comments URL: https://news.ycombinator.com/item?id=47814148 Points: 3 # Comments: 0",
+    "author": "doener",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/antiai/comments/1sngw6f/peter_thiel_is_launching_an_ai_ministry_of_truth/",
+    "id": "news-604"
+  },
+  {
+    "title": "Laimark – 8B LLM that self-improves. Consumer GPU",
+    "summary": "Article URL: https://github.com/seetrex-ai/laimark Comments URL: https://news.ycombinator.com/item?id=47814175 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/seetrex-ai/laimark Comments URL: https://news.ycombinator.com/item?id=47814175 Points: 2 # Comments: 0",
+    "author": "jesustabares",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/seetrex-ai/laimark",
+    "id": "news-603"
+  },
+  {
     "title": "LLM wiki daemon with per-wiki filesystem isolation",
     "summary": "Article URL: https://github.com/wastedcode/memex Comments URL: https://news.ycombinator.com/item?id=47812934 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/wastedcode/memex Comments URL: https://news.ycombinator.com/item?id=47812934 Points: 2 # Comments: 0",
