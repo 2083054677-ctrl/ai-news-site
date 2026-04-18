@@ -1,5 +1,70 @@
 [
   {
+    "title": "LLM wiki daemon with per-wiki filesystem isolation",
+    "summary": "Article URL: https://github.com/wastedcode/memex Comments URL: https://news.ycombinator.com/item?id=47812934 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/wastedcode/memex Comments URL: https://news.ycombinator.com/item?id=47812934 Points: 2 # Comments: 0",
+    "author": "zeppelin_7",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wastedcode/memex",
+    "id": "news-602"
+  },
+  {
+    "title": "OpenAI loses multiple executives in latest leadership shakeup",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/17/openai-executives-leave.html Comments URL: https://news.ycombinator.com/item?id=47813015 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/04/17/openai-executives-leave.html Comments URL: https://news.ycombinator.com/item?id=47813015 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/04/17/openai-executives-leave.html",
+    "id": "news-601"
+  },
+  {
+    "title": "Google Told to Share Search Data with AI Rivals in EU Proposal",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-16/google-told-to-share-search-data-with-ai-rivals-in-eu-proposal Comments URL: https://news.ycombinator.com/item?id=47813059 Points: 1 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-04-16/google-told-to-share-search-data-with-ai-rivals-in-eu-proposal Comments URL: https://news.ycombinator.com/item?id=47813059 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-04-16/google-told-to-share-search-data-with-ai-rivals-in-eu-proposal",
+    "id": "news-600"
+  },
+  {
+    "title": "Why AI Needs a Sense of Smell",
+    "summary": "Article URL: https://www.noemamag.com/why-ai-needs-a-sense-of-smell/ Comments URL: https://news.ycombinator.com/item?id=47813072 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.noemamag.com/why-ai-needs-a-sense-of-smell/ Comments URL: https://news.ycombinator.com/item?id=47813072 Points: 1 # Comments: 0",
+    "author": "tintinnabula",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.noemamag.com/why-ai-needs-a-sense-of-smell/",
+    "id": "news-599"
+  },
+  {
+    "title": "The Digital Ouija Effect – Emergent Behavior in AI Models",
+    "summary": "Article URL: https://kennethreitz.org/essays/2026-04-17-the_digital_ouija_effect Comments URL: https://news.ycombinator.com/item?id=47813073 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kennethreitz.org/essays/2026-04-17-the_digital_ouija_effect Comments URL: https://news.ycombinator.com/item?id=47813073 Points: 1 # Comments: 0",
+    "author": "txtsd",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kennethreitz.org/essays/2026-04-17-the_digital_ouija_effect",
+    "id": "news-598"
+  },
+  {
     "title": "Show HN: Agentic Dev – AI dev-tools news, curated daily by Claude",
     "summary": "Article URL: https://agenticdev.blog/ Comments URL: https://news.ycombinator.com/item?id=47811916 Points: 2 # Comments: 0",
     "content": "Article URL: https://agenticdev.blog/ Comments URL: https://news.ycombinator.com/item?id=47811916 Points: 2 # Comments: 0",
