@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: Anyone know of that \"levels of AI programming\" blog post?",
+    "summary": "I was browsing HN comments a while ago and ran into a wonderful blog on the levels of AI involvement in programming. It started at 0 I think, with no AI involved and went to around 7 where LLMs direct",
+    "content": "I was browsing HN comments a while ago and ran into a wonderful blog on the levels of AI involvement in programming. It started at 0 I think, with no AI involved and went to around 7 where LLMs direct other LLMs and no human is involved.I wanted to reference these levels in the README of an open source project I'm creating as part of it was hand-programmed while using AI as a kind of search engine, while another part was crafted by AI with me reviewing code and providing a spec.Any help is great",
+    "author": "tuvix",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47818097",
+    "id": "news-620"
+  },
+  {
+    "title": "Filmmakers defend Val Kilmer movie made with AI",
+    "summary": "Article URL: https://www.reuters.com/business/media-telecom/filmmakers-defend-val-kilmer-movie-made-with-ai-2026-04-16/ Comments URL: https://news.ycombinator.com/item?id=47818165 Points: 2 # Comments",
+    "content": "Article URL: https://www.reuters.com/business/media-telecom/filmmakers-defend-val-kilmer-movie-made-with-ai-2026-04-16/ Comments URL: https://news.ycombinator.com/item?id=47818165 Points: 2 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/media-telecom/filmmakers-defend-val-kilmer-movie-made-with-ai-2026-04-16/",
+    "id": "news-619"
+  },
+  {
+    "title": "AI is about to make the global e-waste crisis worse",
+    "summary": "Article URL: https://restofworld.org/2026/global-ewaste-crisis/ Comments URL: https://news.ycombinator.com/item?id=47818193 Points: 1 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/global-ewaste-crisis/ Comments URL: https://news.ycombinator.com/item?id=47818193 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/global-ewaste-crisis/",
+    "id": "news-618"
+  },
+  {
+    "title": "The next phase of enterprise AI",
+    "summary": "Article URL: https://openai.com/index/next-phase-of-enterprise-ai/ Comments URL: https://news.ycombinator.com/item?id=47818211 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/next-phase-of-enterprise-ai/ Comments URL: https://news.ycombinator.com/item?id=47818211 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/next-phase-of-enterprise-ai/",
+    "id": "news-617"
+  },
+  {
+    "title": "Claude Mythos and Cybersecurity",
+    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html Comments URL: https://news.ycombinator.com/item?id=47818230 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html Comments URL: https://news.ycombinator.com/item?id=47818230 Points: 2 # Comments: 0",
+    "author": "abhisek",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html",
+    "id": "news-616"
+  },
+  {
     "title": "Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds",
     "summary": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US an",
     "content": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK. The article Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds appeared first on The Decoder.",
