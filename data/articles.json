@@ -1,5 +1,70 @@
 [
   {
+    "title": "Mapping India's homegrown AI ecosystem – 110 apps, 22 languages, 28 sectors",
+    "summary": "Article URL: https://github.com/suyash333/india-ai-ecosystem Comments URL: https://news.ycombinator.com/item?id=47819722 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/suyash333/india-ai-ecosystem Comments URL: https://news.ycombinator.com/item?id=47819722 Points: 1 # Comments: 1",
+    "author": "golearnsap",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/suyash333/india-ai-ecosystem",
+    "id": "news-630"
+  },
+  {
+    "title": "Ask HN: Can you show me some useful AI-written programs?",
+    "summary": "Looking at the software I use day to day, none of it is majority AI/LLM-written. I'm not actively going out of my way to avoid AI programs, but I haven't found any useful ones.When I say \"useful softw",
+    "content": "Looking at the software I use day to day, none of it is majority AI/LLM-written. I'm not actively going out of my way to avoid AI programs, but I haven't found any useful ones.When I say \"useful software\" I'm particularly interested in something that my grandmother would recognize as software - an OS, IDE, DAW, DBMS, word processor, a 3D modeller, game engine, video editor, CAD software, spreadsheet application, compiler, browser, etc. I'm marginally less interested in colorful cat/ls rewrites.G",
+    "author": "nananana9",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47819757",
+    "id": "news-629"
+  },
+  {
+    "title": "Singapore Tourism Board Launches AI-Powered Robodog Guides at Sentosa",
+    "summary": "Article URL: https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-tourism-board-launches-ai-powered-robodog-guides-at-sentosa-and-the-mandai-wildlife-reserve-in-partnership-with-",
+    "content": "Article URL: https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-tourism-board-launches-ai-powered-robodog-guides-at-sentosa-and-the-mandai-wildlife-reserve-in-partnership-with-mafengwo/ Comments URL: https://news.ycombinator.com/item?id=47819808 Points: 1 # Comments: 0",
+    "author": "mmarian",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.stb.gov.sg/about-stb/media-publications/media-centre/singapore-tourism-board-launches-ai-powered-robodog-guides-at-sentosa-and-the-mandai-wildlife-reserve-in-partnership-with-mafengwo/",
+    "id": "news-628"
+  },
+  {
+    "title": "Meshcore: Architecture for a Decentralized P2P LLM Inference Network",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47819839 Points: 1 # Comments: 1",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47819839 Points: 1 # Comments: 1",
+    "author": "elyawhoo",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47819839",
+    "id": "news-627"
+  },
+  {
+    "title": "AI writes code 100x faster – why hasn't productivity?",
+    "summary": "Article URL: https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt/ Comments URL: https://news.ycombinator.com/item?id=47819874 Points: 2 # Comments: 1",
+    "content": "Article URL: https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt/ Comments URL: https://news.ycombinator.com/item?id=47819874 Points: 2 # Comments: 1",
+    "author": "deeplstm",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt/",
+    "id": "news-626"
+  },
+  {
     "title": "Hyperloom – A concurrent state broker and time-travel debugger for AI",
     "summary": "I’m the creator of Hyperloom. I built this because running multi-agent swarms (like CrewAI, AutoGen, or raw LangChain) in production is currently a massive headache of brittle state and wasted tokens.",
     "content": "I’m the creator of Hyperloom. I built this because running multi-agent swarms (like CrewAI, AutoGen, or raw LangChain) in production is currently a massive headache of brittle state and wasted tokens. Comments URL: https://news.ycombinator.com/item?id=47819063 Points: 1 # Comments: 0",
