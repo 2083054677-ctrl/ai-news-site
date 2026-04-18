@@ -1,5 +1,44 @@
 [
   {
+    "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
+    "summary": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can",
+    "content": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display. The article The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/",
+    "id": "news-613"
+  },
+  {
+    "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
+    "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI",
+    "content": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself. The article Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/",
+    "id": "news-612"
+  },
+  {
+    "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
+    "summary": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption. The article Anthr",
+    "content": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption. The article Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/",
+    "id": "news-611"
+  },
+  {
     "title": "OpenAI loses three executives in one swoop as restructuring reshapes its product lineup",
     "summary": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers. The article OpenAI loses three executiv",
     "content": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers. The article OpenAI loses three executives in one swoop as restructuring reshapes its product lineup appeared first on The Decoder.",
