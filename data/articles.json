@@ -1,5 +1,70 @@
 [
   {
+    "title": "Hyperloom – A concurrent state broker and time-travel debugger for AI",
+    "summary": "I’m the creator of Hyperloom. I built this because running multi-agent swarms (like CrewAI, AutoGen, or raw LangChain) in production is currently a massive headache of brittle state and wasted tokens.",
+    "content": "I’m the creator of Hyperloom. I built this because running multi-agent swarms (like CrewAI, AutoGen, or raw LangChain) in production is currently a massive headache of brittle state and wasted tokens. Comments URL: https://news.ycombinator.com/item?id=47819063 Points: 1 # Comments: 0",
+    "author": "debabhishek",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47819063",
+    "id": "news-625"
+  },
+  {
+    "title": "OpenAI Pulls Back from Stargate Norway Data Center Deal as Microsoft Takes Over",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/15/openai-stargate-norway-project-microsoft.html Comments URL: https://news.ycombinator.com/item?id=47819066 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/04/15/openai-stargate-norway-project-microsoft.html Comments URL: https://news.ycombinator.com/item?id=47819066 Points: 1 # Comments: 0",
+    "author": "ninjahawk1",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/04/15/openai-stargate-norway-project-microsoft.html",
+    "id": "news-624"
+  },
+  {
+    "title": "Ask HN: How can I support the AI resistance movement financially?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47819138 Points: 4 # Comments: 1",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47819138 Points: 4 # Comments: 1",
+    "author": "roschdal",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47819138",
+    "id": "news-623"
+  },
+  {
+    "title": "Lessons from running 14 AI agents in production for 6 months",
+    "summary": "Article URL: https://orgtp.com/blog/the-weight-is-wrong-without-it Comments URL: https://news.ycombinator.com/item?id=47819142 Points: 1 # Comments: 0",
+    "content": "Article URL: https://orgtp.com/blog/the-weight-is-wrong-without-it Comments URL: https://news.ycombinator.com/item?id=47819142 Points: 1 # Comments: 0",
+    "author": "dsteel",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://orgtp.com/blog/the-weight-is-wrong-without-it",
+    "id": "news-622"
+  },
+  {
+    "title": "Ask HN: Has zooming out helped you deal with AI anxiety?",
+    "summary": "My weird little aha moment came from an HN thread about moon dust smelling like gunpowder.I recently moved to the Bay and have noticed a lot of AI anxiety in everyday conversation.I'm in my early 20s,",
+    "content": "My weird little aha moment came from an HN thread about moon dust smelling like gunpowder.I recently moved to the Bay and have noticed a lot of AI anxiety in everyday conversation.I'm in my early 20s, work in tech but not as an engineer, and a few friends have asked why I don't seem that anxious about it. I didn't have a good answer until yesterday.Oddly, the answer came from an HN thread about moon dust smelling like gunpowder. The thread drifted into oxygen, reactivity, Mars, and long timescal",
+    "author": "ItsClo688",
+    "date": "2026-04-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47819206",
+    "id": "news-621"
+  },
+  {
     "title": "Ask HN: Anyone know of that \"levels of AI programming\" blog post?",
     "summary": "I was browsing HN comments a while ago and ran into a wonderful blog on the levels of AI involvement in programming. It started at 0 I think, with no AI involved and went to around 7 where LLMs direct",
     "content": "I was browsing HN comments a while ago and ran into a wonderful blog on the levels of AI involvement in programming. It started at 0 I think, with no AI involved and went to around 7 where LLMs direct other LLMs and no human is involved.I wanted to reference these levels in the README of an open source project I'm creating as part of it was hand-programmed while using AI as a kind of search engine, while another part was crafted by AI with me reviewing code and providing a spec.Any help is great",
