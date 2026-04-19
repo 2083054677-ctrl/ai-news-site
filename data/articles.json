@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
+    "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating va",
+    "content": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion. The article Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/",
+    "id": "news-661"
+  },
+  {
+    "title": "Passmark: Open-source Playwright library for AI regression testing",
+    "summary": "Article URL: https://passmark.dev Comments URL: https://news.ycombinator.com/item?id=47825186 Points: 4 # Comments: 1",
+    "content": "Article URL: https://passmark.dev Comments URL: https://news.ycombinator.com/item?id=47825186 Points: 4 # Comments: 1",
+    "author": "hliyan",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://passmark.dev",
+    "id": "news-660"
+  },
+  {
+    "title": "The State of LLM Bug Bounties in 2026",
+    "summary": "Article URL: https://wraith.sh/learn/state-of-llm-bug-bounties-2026 Comments URL: https://news.ycombinator.com/item?id=47825413 Points: 1 # Comments: 0",
+    "content": "Article URL: https://wraith.sh/learn/state-of-llm-bug-bounties-2026 Comments URL: https://news.ycombinator.com/item?id=47825413 Points: 1 # Comments: 0",
+    "author": "WizardX_0x",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wraith.sh/learn/state-of-llm-bug-bounties-2026",
+    "id": "news-659"
+  },
+  {
+    "title": "543 Hours: What happens when AI runs while you sleep",
+    "summary": "Article URL: https://michael.roth.rocks/research/543-hours/ Comments URL: https://news.ycombinator.com/item?id=47825432 Points: 1 # Comments: 0",
+    "content": "Article URL: https://michael.roth.rocks/research/543-hours/ Comments URL: https://news.ycombinator.com/item?id=47825432 Points: 1 # Comments: 0",
+    "author": "pramodbiligiri",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://michael.roth.rocks/research/543-hours/",
+    "id": "news-658"
+  },
+  {
+    "title": "AI Is Killing Open Source SaaS Too",
+    "summary": "Article URL: https://nmn.gl/blog/open-source-killed-ai Comments URL: https://news.ycombinator.com/item?id=47825458 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nmn.gl/blog/open-source-killed-ai Comments URL: https://news.ycombinator.com/item?id=47825458 Points: 1 # Comments: 0",
+    "author": "namanyayg",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nmn.gl/blog/open-source-killed-ai",
+    "id": "news-657"
+  },
+  {
+    "title": "Self-healing GitHub CI that won't let AI touch your application code",
+    "summary": "Article URL: https://github.com/mosidze/aiheal Comments URL: https://news.ycombinator.com/item?id=47825460 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/mosidze/aiheal Comments URL: https://news.ycombinator.com/item?id=47825460 Points: 2 # Comments: 0",
+    "author": "mosidze",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mosidze/aiheal",
+    "id": "news-656"
+  },
+  {
     "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
     "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighte",
     "content": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared first on The Decoder.",
