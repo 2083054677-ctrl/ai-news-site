@@ -1,5 +1,83 @@
 [
   {
+    "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
+    "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has alread",
+    "content": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content. It's unclear whether this is the work of individual activists or a coordinated campaign. The article AI-generated influencers flood social media with pro-Trump content ahead of midterms appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/",
+    "id": "news-654"
+  },
+  {
+    "title": "First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing",
+    "summary": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more to",
+    "content": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more tokens. Early measurements show what that shift means in practice for Claude Code users. The article First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/",
+    "id": "news-653"
+  },
+  {
+    "title": "Resources for starting and growing an AI safety org",
+    "summary": "Article URL: https://www.lesswrong.com/posts/fBDMCLTv8Cx28cJeJ/resources-for-starting-and-growing-an-ai-safety-org Comments URL: https://news.ycombinator.com/item?id=47822909 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.lesswrong.com/posts/fBDMCLTv8Cx28cJeJ/resources-for-starting-and-growing-an-ai-safety-org Comments URL: https://news.ycombinator.com/item?id=47822909 Points: 1 # Comments: 0",
+    "author": "omer_k",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/fBDMCLTv8Cx28cJeJ/resources-for-starting-and-growing-an-ai-safety-org",
+    "id": "news-652"
+  },
+  {
+    "title": "Show HN: AI Primer – A Searchable AI Changelog for AI Engineers and Creatives",
+    "summary": "My girlfriend and I built this because we kept losing chunks of the day to \"catching up on AI.\"We're both building AI products in production. We both get a huge buzz out of being on X, and our day-to-",
+    "content": "My girlfriend and I built this because we kept losing chunks of the day to \"catching up on AI.\"We're both building AI products in production. We both get a huge buzz out of being on X, and our day-to-day work changes meaningfully based on what we find that day.We built AI Primer to get the benefit of being on X but with the focus of a curated feed. You can catch up when you want without the anxiety of missing something if you skip a day on X.It’s closer to a changelog than a newsletter. Dated en",
+    "author": "andyasprou",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ai-primer.com",
+    "id": "news-651"
+  },
+  {
+    "title": "Waterloo’s live AI-goose tracker. Never get ambushed by a cobra chicken again.",
+    "summary": "Article URL: https://www.waddleloo.com/ Comments URL: https://news.ycombinator.com/item?id=47822934 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.waddleloo.com/ Comments URL: https://news.ycombinator.com/item?id=47822934 Points: 1 # Comments: 0",
+    "author": "consumer451",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.waddleloo.com/",
+    "id": "news-650"
+  },
+  {
+    "title": "Show HN: Claude Code Rust – a native Rust TUI that avoids the V8 heap OOM",
+    "summary": "I'm a contributor to Claude Code Rust, a Rust reimplementation of Anthropic's Claude Code CLI. I switched to it as my daily driver because upstream Claude Code crashes with JavaScript heap OOM in long",
+    "content": "I'm a contributor to Claude Code Rust, a Rust reimplementation of Anthropic's Claude Code CLI. I switched to it as my daily driver because upstream Claude Code crashes with JavaScript heap OOM in long sessions (anthropics/claude-code#1421 (https://github.com/anthropics/claude-code/issues/1421), 65+ comments). The Rust port doesn't have a V8 heap, so the failure mode goes away. Comments URL: https://news.ycombinator.com/item?id=47823203 Points: 1 # Comments: 0",
+    "author": "char8",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/srothgan/claude-code-rust",
+    "id": "news-649"
+  },
+  {
     "title": "Google launches generative UI standard for AI agents",
     "summary": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms. The article G",
     "content": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms. The article Google launches generative UI standard for AI agents appeared first on The Decoder.",
