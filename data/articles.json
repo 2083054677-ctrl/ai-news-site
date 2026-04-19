@@ -1,5 +1,70 @@
 [
   {
+    "title": "Why your AI assistant is suddenly selling to you",
+    "summary": "Article URL: https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you Comments URL: https://news.ycombinator.com/item?id=47827950 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you Comments URL: https://news.ycombinator.com/item?id=47827950 Points: 2 # Comments: 0",
+    "author": "vinni2",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you",
+    "id": "news-666"
+  },
+  {
+    "title": "CEOs admit AI had no impact on employment or productivity",
+    "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 17 # C",
+    "content": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 17 # Comments: 6",
+    "author": "tcp_handshaker",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+    "id": "news-665"
+  },
+  {
+    "title": "Ask HN: Has AI impacted entry-level programming skills?",
+    "summary": "I'm an academic. When I taught C++ last year, many students struggled because the IDE completed a lot of the code for them; their programming assignments scored high marks, but they struggled to answe",
+    "content": "I'm an academic. When I taught C++ last year, many students struggled because the IDE completed a lot of the code for them; their programming assignments scored high marks, but they struggled to answer basic programming questions in written tests. We've adjusted by weighting the tests more heavily, and it seems to help.When I learned to program we had very few programming tools, but I feel I learned more basic skills as a result.Have people in the industry noticed a difference? Do new hires have",
+    "author": "alejohausner",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47828087",
+    "id": "news-664"
+  },
+  {
+    "title": "Claude Design(ed) Numble.today",
+    "summary": "The new Claude Design designed https://numble.todayHow would you rate it’s work? Comments URL: https://news.ycombinator.com/item?id=47828101 Points: 1 # Comments: 2",
+    "content": "The new Claude Design designed https://numble.todayHow would you rate it’s work? Comments URL: https://news.ycombinator.com/item?id=47828101 Points: 1 # Comments: 2",
+    "author": "shauntrennery",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47828101",
+    "id": "news-663"
+  },
+  {
+    "title": "Claude UI Feature Request",
+    "summary": "Putting this here in the hope that someone at Anthropic reads it.Searching through old conversations is difficult with the current app and web interface. Could you have the model provide a bunch of ta",
+    "content": "Putting this here in the hope that someone at Anthropic reads it.Searching through old conversations is difficult with the current app and web interface. Could you have the model provide a bunch of tags relevant to the conversation like “cooking” or “purchase advice” or “music”, so that we are able to browse conversations by topic?Thanks! Comments URL: https://news.ycombinator.com/item?id=47828154 Points: 1 # Comments: 0",
+    "author": "simon_acca",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47828154",
+    "id": "news-662"
+  },
+  {
     "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
     "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating va",
     "content": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion. The article Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation appeared first on The Decoder.",
