@@ -1,5 +1,109 @@
 [
   {
+    "title": "Google launches generative UI standard for AI agents",
+    "summary": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms. The article G",
+    "content": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms. The article Google launches generative UI standard for AI agents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/",
+    "id": "news-648"
+  },
+  {
+    "title": "Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study",
+    "summary": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems. The article Always-on Ray-Ban Meta glasses power",
+    "content": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems. The article Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study appeared first on The Decoder.",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/",
+    "id": "news-647"
+  },
+  {
+    "title": "Even the best AI models lose about half their performance when charts get complicated, new benchmark finds",
+    "summary": "The RealChart2Code benchmark puts 14 leading AI models to the test on complex visualizations built from real-world datasets. Even the top proprietary models lose nearly half their performance compared",
+    "content": "The RealChart2Code benchmark puts 14 leading AI models to the test on complex visualizations built from real-world datasets. Even the top proprietary models lose nearly half their performance compared to simpler tests. The article Even the best AI models lose about half their performance when charts get complicated, new benchmark finds appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/",
+    "id": "news-646"
+  },
+  {
+    "title": "Claude is skeptical about OpenClaw",
+    "summary": "Article URL: https://wecreatethis.com/blog/post?slug=claude-is-skeptical-about-openclaw Comments URL: https://news.ycombinator.com/item?id=47822692 Points: 2 # Comments: 1",
+    "content": "Article URL: https://wecreatethis.com/blog/post?slug=claude-is-skeptical-about-openclaw Comments URL: https://news.ycombinator.com/item?id=47822692 Points: 2 # Comments: 1",
+    "author": "jameswhitford",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wecreatethis.com/blog/post?slug=claude-is-skeptical-about-openclaw",
+    "id": "news-645"
+  },
+  {
+    "title": "PCMind: Local AI analysis of docs, audio, video and images",
+    "summary": "Article URL: https://pcmind.app/ Comments URL: https://news.ycombinator.com/item?id=47822707 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pcmind.app/ Comments URL: https://news.ycombinator.com/item?id=47822707 Points: 1 # Comments: 0",
+    "author": "hishamsasy",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pcmind.app/",
+    "id": "news-644"
+  },
+  {
+    "title": "Web Agent Bridge – An Open-Source OS for AI Agents (MIT and Open Core)",
+    "summary": "Article URL: https://webagentbride.com Comments URL: https://news.ycombinator.com/item?id=47822767 Points: 1 # Comments: 0",
+    "content": "Article URL: https://webagentbride.com Comments URL: https://news.ycombinator.com/item?id=47822767 Points: 1 # Comments: 0",
+    "author": "abokenan444",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://webagentbride.com",
+    "id": "news-643"
+  },
+  {
+    "title": "Show HN: Unclog – find and fix Claude Code context bloat",
+    "summary": "I've been using Claude Code heavily for a few months and kept adding MCPs, skills, hooks, and CLAUDE.md files along the way. Ran a measurement recently and found I was burning 16k tokens of context be",
+    "content": "I've been using Claude Code heavily for a few months and kept adding MCPs, skills, hooks, and CLAUDE.md files along the way. Ran a measurement recently and found I was burning 16k tokens of context before typing a single message.I built unclog to surface this. It scans ~/.claude, shows you what's eating your context window and how much, then lets you selectively remove things. Every change is reversible — it snapshots before touching anything. uv tool install unclog unclog Feedback welcome — esp",
+    "author": "tomchill",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/thomaschill/unclog",
+    "id": "news-642"
+  },
+  {
+    "title": "Ask HN: May be a basic question, but how can I use AI well?",
+    "summary": "I am a programmer with about seven years of experience, but I would say I am below many of the programmers here, and most of the work I do is fairly simple. I mainly work on WPF and WinForms applicati",
+    "content": "I am a programmer with about seven years of experience, but I would say I am below many of the programmers here, and most of the work I do is fairly simple. I mainly work on WPF and WinForms applications that act as UI layers for ladder diagram based systems in industrial sites.Because of the nature of this work, it is very labor intensive. There are too many factory trips, it is physically exhausting, and the pay is not great relative to the amount of effort involved. That is why I want to beco",
+    "author": "jdw64",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47822787",
+    "id": "news-641"
+  },
+  {
     "title": "Show HN: Fuelgauge – a Claude Code status line that doesn't need Node",
     "summary": "Article URL: https://github.com/adityaarakeri/fuelgauge Comments URL: https://news.ycombinator.com/item?id=47822144 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/adityaarakeri/fuelgauge Comments URL: https://news.ycombinator.com/item?id=47822144 Points: 2 # Comments: 0",
