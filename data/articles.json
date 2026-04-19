@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI chip startup Cerebras files for IPO",
+    "summary": "Article URL: https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/ Comments URL: https://news.ycombinator.com/item?id=47820871 Points: 2 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/ Comments URL: https://news.ycombinator.com/item?id=47820871 Points: 2 # Comments: 0",
+    "author": "AnhTho_FR",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "id": "news-635"
+  },
+  {
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "summary": "Article URL: https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/ Comments URL: https://news.ycombinator.com/item?id=47820895 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/ Comments URL: https://news.ycombinator.com/item?id=47820895 Points: 1 # Comments: 0",
+    "author": "Rafsark",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "id": "news-634"
+  },
+  {
+    "title": "CTX is a cognitive memory layer for AI systems",
+    "summary": "Article URL: https://github.com/diegoxtr/ctx-open Comments URL: https://news.ycombinator.com/item?id=47821069 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/diegoxtr/ctx-open Comments URL: https://news.ycombinator.com/item?id=47821069 Points: 2 # Comments: 0",
+    "author": "diegoxtr",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/diegoxtr/ctx-open",
+    "id": "news-633"
+  },
+  {
+    "title": "AI agent called every pub in Ireland to index the cost of a Guinness",
+    "summary": "Article URL: https://guinndex.ai Comments URL: https://news.ycombinator.com/item?id=47821139 Points: 1 # Comments: 0",
+    "content": "Article URL: https://guinndex.ai Comments URL: https://news.ycombinator.com/item?id=47821139 Points: 1 # Comments: 0",
+    "author": "bilekas",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://guinndex.ai",
+    "id": "news-632"
+  },
+  {
+    "title": "TensorRT LLM",
+    "summary": "Article URL: https://github.com/NVIDIA/TensorRT-LLM Comments URL: https://news.ycombinator.com/item?id=47821198 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/NVIDIA/TensorRT-LLM Comments URL: https://news.ycombinator.com/item?id=47821198 Points: 1 # Comments: 0",
+    "author": "kristianpaul",
+    "date": "2026-04-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/NVIDIA/TensorRT-LLM",
+    "id": "news-631"
+  },
+  {
     "title": "Mapping India's homegrown AI ecosystem – 110 apps, 22 languages, 28 sectors",
     "summary": "Article URL: https://github.com/suyash333/india-ai-ecosystem Comments URL: https://news.ycombinator.com/item?id=47819722 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/suyash333/india-ai-ecosystem Comments URL: https://news.ycombinator.com/item?id=47819722 Points: 1 # Comments: 1",
