@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google builds elite team to close the coding gap with Anthropic",
+    "summary": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive. The article Google buil",
+    "content": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive. The article Google builds elite team to close the coding gap with Anthropic appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/",
+    "id": "news-697"
+  },
+  {
+    "title": "Show HN: Ctx – a /resume that works across Claude Code and Codex",
+    "summary": "ctx is a local SQLite-backed skill for Claude Code and Codex that stores context as a persistent workstream that can be continued across agent sessions. Each workstream can contain multiple sessions, ",
+    "content": "ctx is a local SQLite-backed skill for Claude Code and Codex that stores context as a persistent workstream that can be continued across agent sessions. Each workstream can contain multiple sessions, notes, decisions, todos, and resume packs. It essentially functions as a /resume that can work across coding agents.Here is a video of how it works: https://www.loom.com/share/5e558204885e4264a34d2cf6bd488117I initially built ctx because I wanted to try a workstream that I started on Claude and cont",
+    "author": "dchu17",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dchu917/ctx",
+    "id": "news-696"
+  },
+  {
+    "title": "Scaling Claude beyond individual workflows – lessons from our team",
+    "summary": "Article URL: https://ninkovic.dev/blog/2026/scaling-claude-beyond-individual-workflows Comments URL: https://news.ycombinator.com/item?id=47836855 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ninkovic.dev/blog/2026/scaling-claude-beyond-individual-workflows Comments URL: https://news.ycombinator.com/item?id=47836855 Points: 1 # Comments: 0",
+    "author": "nemwiz",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ninkovic.dev/blog/2026/scaling-claude-beyond-individual-workflows",
+    "id": "news-695"
+  },
+  {
+    "title": "Show HN: Enlist AI: A tool that turns any job description into a study plan",
+    "summary": "Enlist AI is a free web app I built to help people prepare for job interviews. You paste a job description, and it generates a personalized study plan with topics, priority levels, and estimated hours",
+    "content": "Enlist AI is a free web app I built to help people prepare for job interviews. You paste a job description, and it generates a personalized study plan with topics, priority levels, and estimated hours. It also includes a CV builder and voice training to practice answers.No sign‑up required during beta. Just paste a JD and start.I'd love brutal feedback. What features are missing? What's confusing?Also, if you fill out the feedback form on the site, you get one month free when we launch. Comments",
+    "author": "lilprince1218",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://enlistai.vercel.app",
+    "id": "news-694"
+  },
+  {
+    "title": "Labor Automation Forecasting Hub on Metaculus Measures Impact of AI on Labor",
+    "summary": "Article URL: https://www.metaculus.com/labor-hub/ Comments URL: https://news.ycombinator.com/item?id=47837021 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.metaculus.com/labor-hub/ Comments URL: https://news.ycombinator.com/item?id=47837021 Points: 1 # Comments: 1",
+    "author": "postreal",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.metaculus.com/labor-hub/",
+    "id": "news-693"
+  },
+  {
+    "title": "Show HN: Reproducible benchmark – OpenAI charges 1.5x-3.3x more for non-English",
+    "summary": "Article URL: https://github.com/vfalbor/llm-language-token-tax Comments URL: https://news.ycombinator.com/item?id=47837068 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/vfalbor/llm-language-token-tax Comments URL: https://news.ycombinator.com/item?id=47837068 Points: 1 # Comments: 0",
+    "author": "vfalbor",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vfalbor/llm-language-token-tax",
+    "id": "news-692"
+  },
+  {
     "title": "Google plans nearly two million new AI chips as it turns to Marvell for custom designs",
     "summary": "Google is in talks with chip designer Marvell Technology to develop two new specialized chips for its data centers, according to The Information, citing two sources. The article Google plans nearly tw",
     "content": "Google is in talks with chip designer Marvell Technology to develop two new specialized chips for its data centers, according to The Information, citing two sources. The article Google plans nearly two million new AI chips as it turns to Marvell for custom designs appeared first on The Decoder.",
