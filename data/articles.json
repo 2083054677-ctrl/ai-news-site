@@ -1,5 +1,31 @@
 [
   {
+    "title": "Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms",
+    "summary": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel. The article Open-weight K",
+    "content": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel. The article Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/",
+    "id": "news-699"
+  },
+  {
+    "title": "OpenAI's Codex now watches your screen to remember what you're working on",
+    "summary": "OpenAI is giving Codex a memory of what's on screen. The new Chronicle feature tracks what users are working on and remembers it for future tasks, but it also amplifies familiar security risks. The ar",
+    "content": "OpenAI is giving Codex a memory of what's on screen. The new Chronicle feature tracks what users are working on and remembers it for future tasks, but it also amplifies familiar security risks. The article OpenAI's Codex now watches your screen to remember what you're working on appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/",
+    "id": "news-698"
+  },
+  {
     "title": "Google builds elite team to close the coding gap with Anthropic",
     "summary": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive. The article Google buil",
     "content": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive. The article Google builds elite team to close the coding gap with Anthropic appeared first on The Decoder.",
