@@ -1,5 +1,83 @@
 [
   {
+    "title": "Salesforce bets on \"Agent Albert\" to prove AI won't kill enterprise software",
+    "summary": "Wall Street worries AI could make traditional enterprise software obsolete. Salesforce CEO Marc Benioff is pushing back with a new AI product and a homegrown metric. The article Salesforce bets on \"Ag",
+    "content": "Wall Street worries AI could make traditional enterprise software obsolete. Salesforce CEO Marc Benioff is pushing back with a new AI product and a homegrown metric. The article Salesforce bets on \"Agent Albert\" to prove AI won't kill enterprise software appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/salesforce-bets-on-agent-albert-to-prove-ai-wont-kill-enterprise-software/",
+    "id": "news-688"
+  },
+  {
+    "title": "5 days No AI. An AI detox challenge",
+    "summary": "Article URL: https://zymacs.github.io/post/five-days-no-ai/ Comments URL: https://news.ycombinator.com/item?id=47833574 Points: 1 # Comments: 1",
+    "content": "Article URL: https://zymacs.github.io/post/five-days-no-ai/ Comments URL: https://news.ycombinator.com/item?id=47833574 Points: 1 # Comments: 1",
+    "author": "kernzistor45",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zymacs.github.io/post/five-days-no-ai/",
+    "id": "news-687"
+  },
+  {
+    "title": "Claude Code sometimes hallucinates user messages",
+    "summary": "Article URL: https://www.lesswrong.com/posts/F2jg34PYtwWZMvzme/edward-james-young-s-shortform?commentId=JvQkqcCg5KsLbkHZr Comments URL: https://news.ycombinator.com/item?id=47833614 Points: 2 # Commen",
+    "content": "Article URL: https://www.lesswrong.com/posts/F2jg34PYtwWZMvzme/edward-james-young-s-shortform?commentId=JvQkqcCg5KsLbkHZr Comments URL: https://news.ycombinator.com/item?id=47833614 Points: 2 # Comments: 1",
+    "author": "cubefox",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/F2jg34PYtwWZMvzme/edward-james-young-s-shortform?commentId=JvQkqcCg5KsLbkHZr",
+    "id": "news-686"
+  },
+  {
+    "title": "Chinese tech workers are starting to train their AI doubles",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/ Comments URL: https://news.ycombinator.com/item?id=47833698 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/ Comments URL: https://news.ycombinator.com/item?id=47833698 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "id": "news-685"
+  },
+  {
+    "title": "AI Consciousness Requires Validated Models of Human Consciousness [pdf]",
+    "summary": "Article URL: https://lossfunk.com/papers/ai-consciousness.pdf Comments URL: https://news.ycombinator.com/item?id=47833709 Points: 2 # Comments: 0",
+    "content": "Article URL: https://lossfunk.com/papers/ai-consciousness.pdf Comments URL: https://news.ycombinator.com/item?id=47833709 Points: 2 # Comments: 0",
+    "author": "paraschopra",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lossfunk.com/papers/ai-consciousness.pdf",
+    "id": "news-684"
+  },
+  {
+    "title": "Show HN: CyberWriter – a .md editor built on Apple's (barely-used) on-device AI",
+    "summary": "Apple has quietly shipped a pretty complete on-device AI stack into macOS, with these features first getting API access in MacOS 26. There are multiple components in the foundation model, but the skil",
+    "content": "Apple has quietly shipped a pretty complete on-device AI stack into macOS, with these features first getting API access in MacOS 26. There are multiple components in the foundation model, but the skills it shipped with actually make this ~3b parameter model useful. The API to hit the model is super easy, and no one is really wiring them together yet.- Foundation Models (macOS 26) - a ~3B-parameter LLM with an API. Streaming, structured output, tool use. No API key, no cloud call, no per-token co",
+    "author": "uncSoft",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cyberwriter.app",
+    "id": "news-683"
+  },
+  {
     "title": "Figma's woes compound with Claude Design",
     "summary": "Article URL: https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/ Comments URL: https://news.ycombinator.com/item?id=47832366 Points: 3 # Comments: 0",
     "content": "Article URL: https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/ Comments URL: https://news.ycombinator.com/item?id=47832366 Points: 3 # Comments: 0",
