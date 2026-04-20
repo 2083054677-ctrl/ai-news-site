@@ -1,5 +1,70 @@
 [
   {
+    "title": "Figma's woes compound with Claude Design",
+    "summary": "Article URL: https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/ Comments URL: https://news.ycombinator.com/item?id=47832366 Points: 3 # Comments: 0",
+    "content": "Article URL: https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/ Comments URL: https://news.ycombinator.com/item?id=47832366 Points: 3 # Comments: 0",
+    "author": "martinald",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+    "id": "news-682"
+  },
+  {
+    "title": "Your \"AI\" Pull Request was rejected and you don't know why",
+    "summary": "Article URL: https://blog.codepipes.com/llms/your-pr-was-rejected.html Comments URL: https://news.ycombinator.com/item?id=47832380 Points: 3 # Comments: 1",
+    "content": "Article URL: https://blog.codepipes.com/llms/your-pr-was-rejected.html Comments URL: https://news.ycombinator.com/item?id=47832380 Points: 3 # Comments: 1",
+    "author": "kkapelon",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.codepipes.com/llms/your-pr-was-rejected.html",
+    "id": "news-681"
+  },
+  {
+    "title": "Ask HN: Did Claude lowered its usage limits?",
+    "summary": "For a last few days, I keep hitting chat limits on Sonnet 4.6 and I perceive it to be like 5-10x faster to hit the limit than it used to a week ago. What happened? Do you also experience it? Comments ",
+    "content": "For a last few days, I keep hitting chat limits on Sonnet 4.6 and I perceive it to be like 5-10x faster to hit the limit than it used to a week ago. What happened? Do you also experience it? Comments URL: https://news.ycombinator.com/item?id=47832448 Points: 5 # Comments: 1",
+    "author": "yu3zhou4",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47832448",
+    "id": "news-680"
+  },
+  {
+    "title": "Reimagine Python Notebooks in the AI Era",
+    "summary": "Article URL: https://mljar.com/blog/reimagine-python-notebook-in-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47832601 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mljar.com/blog/reimagine-python-notebook-in-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47832601 Points: 1 # Comments: 0",
+    "author": "pplonski86",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mljar.com/blog/reimagine-python-notebook-in-ai-era/",
+    "id": "news-679"
+  },
+  {
+    "title": "Show HN: AI Applyd – a bot that applies to jobs for you",
+    "summary": "Article URL: https://aiapplyd.com/ Comments URL: https://news.ycombinator.com/item?id=47832631 Points: 1 # Comments: 1",
+    "content": "Article URL: https://aiapplyd.com/ Comments URL: https://news.ycombinator.com/item?id=47832631 Points: 1 # Comments: 1",
+    "author": "sneefle",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aiapplyd.com/",
+    "id": "news-678"
+  },
+  {
     "title": "The NSA is using Anthropic's most powerful AI model Mythos",
     "summary": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic's most powerful AI mo",
     "content": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic's most powerful AI model Mythos appeared first on The Decoder.",
