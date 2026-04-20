@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
+    "summary": "Article URL: https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/ Comments URL: https://news.ycombinator.com/item?id=47840980 Points: 60 # Comments: 15",
+    "content": "Article URL: https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/ Comments URL: https://news.ycombinator.com/item?id=47840980 Points: 60 # Comments: 15",
+    "author": "jlark77777",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+    "id": "news-704"
+  },
+  {
+    "title": "Claude Desktop changes access settings for browsers you haven't installed yet",
+    "summary": "Article URL: https://www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/ Comments URL: https://news.ycombinator.com/item?id=47841325 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/ Comments URL: https://news.ycombinator.com/item?id=47841325 Points: 1 # Comments: 1",
+    "author": "rswerve",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/",
+    "id": "news-703"
+  },
+  {
+    "title": "AI Algorithm Enables Biological Imaging Breakthroughs",
+    "summary": "Article URL: https://www.caltech.edu/about/news/ai-algorithm-enables-biological-imaging-breakthroughs Comments URL: https://news.ycombinator.com/item?id=47841460 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.caltech.edu/about/news/ai-algorithm-enables-biological-imaging-breakthroughs Comments URL: https://news.ycombinator.com/item?id=47841460 Points: 3 # Comments: 0",
+    "author": "geox",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.caltech.edu/about/news/ai-algorithm-enables-biological-imaging-breakthroughs",
+    "id": "news-702"
+  },
+  {
+    "title": "I turned EU Cyber laws (AI Act, NIS2, GDPR) into a simple checklist",
+    "summary": "Article URL: https://cyberchecklist.app/en/rules-finder Comments URL: https://news.ycombinator.com/item?id=47841687 Points: 2 # Comments: 0",
+    "content": "Article URL: https://cyberchecklist.app/en/rules-finder Comments URL: https://news.ycombinator.com/item?id=47841687 Points: 2 # Comments: 0",
+    "author": "johnde",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cyberchecklist.app/en/rules-finder",
+    "id": "news-701"
+  },
+  {
+    "title": "AI and the Neurodivergent Unlock",
+    "summary": "Article URL: https://www.jonoherrington.com/blog/the-neurodivergent-unlock Comments URL: https://news.ycombinator.com/item?id=47841788 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.jonoherrington.com/blog/the-neurodivergent-unlock Comments URL: https://news.ycombinator.com/item?id=47841788 Points: 1 # Comments: 0",
+    "author": "_doctor_love",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.jonoherrington.com/blog/the-neurodivergent-unlock",
+    "id": "news-700"
+  },
+  {
     "title": "Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms",
     "summary": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel. The article Open-weight K",
     "content": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel. The article Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms appeared first on The Decoder.",
