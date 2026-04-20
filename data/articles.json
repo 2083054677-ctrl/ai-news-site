@@ -1,5 +1,83 @@
 [
   {
+    "title": "The NSA is using Anthropic's most powerful AI model Mythos",
+    "summary": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic's most powerful AI mo",
+    "content": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic's most powerful AI model Mythos appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/",
+    "id": "news-677"
+  },
+  {
+    "title": "People and AI",
+    "summary": "Article URL: https://insurtechamsterdam.com/blog/ai-people-strategy-insurance Comments URL: https://news.ycombinator.com/item?id=47831768 Points: 1 # Comments: 0",
+    "content": "Article URL: https://insurtechamsterdam.com/blog/ai-people-strategy-insurance Comments URL: https://news.ycombinator.com/item?id=47831768 Points: 1 # Comments: 0",
+    "author": "Venesha",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://insurtechamsterdam.com/blog/ai-people-strategy-insurance",
+    "id": "news-676"
+  },
+  {
+    "title": "Show HN: Keshro, plan and execute migrations with AI agents",
+    "summary": "Article URL: https://keshro.com Comments URL: https://news.ycombinator.com/item?id=47831770 Points: 1 # Comments: 1",
+    "content": "Article URL: https://keshro.com Comments URL: https://news.ycombinator.com/item?id=47831770 Points: 1 # Comments: 1",
+    "author": "jlewitt1",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://keshro.com",
+    "id": "news-675"
+  },
+  {
+    "title": "ZeusHammer – Built an AI Agent That \"Thinks Locally\"",
+    "summary": "Article URL: https://github.com/pengrambo3-tech/ZeusHammer Comments URL: https://news.ycombinator.com/item?id=47831834 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/pengrambo3-tech/ZeusHammer Comments URL: https://news.ycombinator.com/item?id=47831834 Points: 1 # Comments: 0",
+    "author": "RamboZeusHammer",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/pengrambo3-tech/ZeusHammer",
+    "id": "news-674"
+  },
+  {
+    "title": "Controlling the secondary fan on Minisforum AI Pro HX 370",
+    "summary": "Article URL: https://github.com/MiniPcThinker/minisforum_ai_pro_hx_370_aux_fan_controller/blob/main/INVESTIGATION.md Comments URL: https://news.ycombinator.com/item?id=47831925 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/MiniPcThinker/minisforum_ai_pro_hx_370_aux_fan_controller/blob/main/INVESTIGATION.md Comments URL: https://news.ycombinator.com/item?id=47831925 Points: 1 # Comments: 0",
+    "author": "minipcthinker",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MiniPcThinker/minisforum_ai_pro_hx_370_aux_fan_controller/blob/main/INVESTIGATION.md",
+    "id": "news-673"
+  },
+  {
+    "title": "The AI-Ready Product Data Framework for B2B Commerce",
+    "summary": "Article URL: https://virtocommerce.com/assets/ai-ready-pim-framework Comments URL: https://news.ycombinator.com/item?id=47832007 Points: 2 # Comments: 0",
+    "content": "Article URL: https://virtocommerce.com/assets/ai-ready-pim-framework Comments URL: https://news.ycombinator.com/item?id=47832007 Points: 2 # Comments: 0",
+    "author": "lizzieyo",
+    "date": "2026-04-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://virtocommerce.com/assets/ai-ready-pim-framework",
+    "id": "news-672"
+  },
+  {
     "title": "Show HN: FeralHq – The funniest AI driven content generation engine",
     "summary": "So I really love building apps. If you dig through my post history, you’ll find a small graveyard of launches to prove it.Marketing(or marketers) and I, however, have never gotten along. I can build t",
     "content": "So I really love building apps. If you dig through my post history, you’ll find a small graveyard of launches to prove it.Marketing(or marketers) and I, however, have never gotten along. I can build the product. Writing the \"look at me, I made a thing\" post has always felt stressful and a little nauseating.So I built FeralHq.Feral is an agentic system for generating social media content for brands, but with a very specific goal: make the output actually funny. I built it primarily to solve my ow",
