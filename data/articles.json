@@ -1,5 +1,123 @@
 [
   {
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "summary": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "id": "news-719"
+  },
+  {
+    "title": "Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\"",
+    "summary": "Jeff Bezos is about to close a $10 billion funding round for his AI lab codenamed \"Project Prometheus,\" the Financial Times reports. The article Jeff Bezos nears $10 billion funding round for AI lab \"",
+    "content": "Jeff Bezos is about to close a $10 billion funding round for his AI lab codenamed \"Project Prometheus,\" the Financial Times reports. The article Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\" appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-project-prometheus/",
+    "id": "news-718"
+  },
+  {
+    "title": "Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS",
+    "summary": "Amazon is pouring up to another $25 billion into Anthropic. In return, the AI company has committed to spending more than $100 billion on AWS infrastructure over the next ten years. The deal is meant ",
+    "content": "Amazon is pouring up to another $25 billion into Anthropic. In return, the AI company has committed to spending more than $100 billion on AWS infrastructure over the next ten years. The deal is meant to ease Anthropic's acute capacity crunch, but it also has the circular quality that's become typical of the AI industry. The article Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-pours-33b-into-anthropic-which-promises-to-spend-100b-right-back-on-aws/",
+    "id": "news-717"
+  },
+  {
+    "title": "Anthropic is building its first data center team outside the US",
+    "summary": "According to job listings spotted by Data Center Dynamics, Anthropic is hiring data center contract specialists in Europe and Australia. The article Anthropic is building its first data center team ou",
+    "content": "According to job listings spotted by Data Center Dynamics, Anthropic is hiring data center contract specialists in Europe and Australia. The article Anthropic is building its first data center team outside the US appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-is-building-its-first-data-center-team-outside-the-us/",
+    "id": "news-716"
+  },
+  {
+    "title": "Nova Launcher could soon add proactive AI assistant that sucks up all your data",
+    "summary": "Article URL: https://www.androidauthority.com/nova-launcher-ai-plus-subscription-apk-teardown-3658932/ Comments URL: https://news.ycombinator.com/item?id=47846967 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.androidauthority.com/nova-launcher-ai-plus-subscription-apk-teardown-3658932/ Comments URL: https://news.ycombinator.com/item?id=47846967 Points: 1 # Comments: 0",
+    "author": "croes",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.androidauthority.com/nova-launcher-ai-plus-subscription-apk-teardown-3658932/",
+    "id": "news-715"
+  },
+  {
+    "title": "Claude Evolve: ShinkaEvolve code evolution on only Claude Code",
+    "summary": "Article URL: https://github.com/samuelzxu/claude-evolve Comments URL: https://news.ycombinator.com/item?id=47847015 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/samuelzxu/claude-evolve Comments URL: https://news.ycombinator.com/item?id=47847015 Points: 1 # Comments: 1",
+    "author": "samuelzxu",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/samuelzxu/claude-evolve",
+    "id": "news-714"
+  },
+  {
+    "title": "The Guide to Claude Opus 4.7",
+    "summary": "Article URL: https://www.productcompass.pm/p/claude-opus-4-7-guide Comments URL: https://news.ycombinator.com/item?id=47847039 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.productcompass.pm/p/claude-opus-4-7-guide Comments URL: https://news.ycombinator.com/item?id=47847039 Points: 2 # Comments: 0",
+    "author": "sminchev",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.productcompass.pm/p/claude-opus-4-7-guide",
+    "id": "news-713"
+  },
+  {
+    "title": "Show HN: Unwired – LLM-powered DNS to filter the internet",
+    "summary": "Ad blockers aren’t really enough anymore. There’s still a lot of noise and low-quality content that slips through.I built Unwired, an open-source DNS layer that uses an LLM to filter what you see base",
+    "content": "Ad blockers aren’t really enough anymore. There’s still a lot of noise and low-quality content that slips through.I built Unwired, an open-source DNS layer that uses an LLM to filter what you see based on your preferences, not just static blocklists.Repo: https://github.com/moe18/Unwired/tree/main Extension: https://chromewebstore.google.com/detail/unwired/eagjafndbce... Comments URL: https://news.ycombinator.com/item?id=47847087 Points: 1 # Comments: 0",
+    "author": "mchab",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/moe18/Unwired",
+    "id": "news-712"
+  },
+  {
+    "title": "I moved my AI's memory into a local database (better than folders and .md)",
+    "summary": "Article URL: https://github.com/bradwmorris/ra-h_os/ Comments URL: https://news.ycombinator.com/item?id=47847118 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/bradwmorris/ra-h_os/ Comments URL: https://news.ycombinator.com/item?id=47847118 Points: 1 # Comments: 1",
+    "author": "bradwmorris",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/bradwmorris/ra-h_os/",
+    "id": "news-711"
+  },
+  {
     "title": "The AI revolution – spamming 680PRs in 442 GitHub repos in 21 days in April",
     "summary": "Article URL: https://github.com/SAY-5 Comments URL: https://news.ycombinator.com/item?id=47846133 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/SAY-5 Comments URL: https://news.ycombinator.com/item?id=47846133 Points: 1 # Comments: 1",
