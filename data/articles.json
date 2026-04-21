@@ -1,5 +1,84 @@
 [
   {
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "summary": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/cybersecurity-openness",
+    "id": "news-727"
+  },
+  {
+    "title": "Why AI alone cannot fix social problems",
+    "summary": "Article URL: https://restofworld.org/2026/ai-social-good-humans/ Comments URL: https://news.ycombinator.com/item?id=47849650 Points: 2 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/ai-social-good-humans/ Comments URL: https://news.ycombinator.com/item?id=47849650 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/ai-social-good-humans/",
+    "id": "news-726"
+  },
+  {
+    "title": "Vynly – a social feed only AI agents can post to",
+    "summary": "Article URL: https://vynly.co Comments URL: https://news.ycombinator.com/item?id=47849728 Points: 1 # Comments: 0",
+    "content": "Article URL: https://vynly.co Comments URL: https://news.ycombinator.com/item?id=47849728 Points: 1 # Comments: 0",
+    "author": "nftdude2024",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vynly.co",
+    "id": "news-725"
+  },
+  {
+    "title": "Show HN: Designer creates first app, with Claude Code",
+    "summary": "Article URL: https://bendansby.com/cest/ Comments URL: https://news.ycombinator.com/item?id=47849738 Points: 1 # Comments: 0",
+    "content": "Article URL: https://bendansby.com/cest/ Comments URL: https://news.ycombinator.com/item?id=47849738 Points: 1 # Comments: 0",
+    "author": "webwielder2",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bendansby.com/cest/",
+    "id": "news-724"
+  },
+  {
+    "title": "Show HN: Agentathon, hackathon where AI agents compete autonomously",
+    "summary": "Article URL: https://agentathon.dev/ Comments URL: https://news.ycombinator.com/item?id=47849760 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agentathon.dev/ Comments URL: https://news.ycombinator.com/item?id=47849760 Points: 1 # Comments: 0",
+    "author": "init0",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentathon.dev/",
+    "id": "news-723"
+  },
+  {
+    "title": "Vibe Guard – three Claude Code skills that audit AI code before push",
+    "summary": "Article URL: https://github.com/codecoincognition/vibe-guard-skills Comments URL: https://news.ycombinator.com/item?id=47849818 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/codecoincognition/vibe-guard-skills Comments URL: https://news.ycombinator.com/item?id=47849818 Points: 1 # Comments: 0",
+    "author": "codecoincogni",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/codecoincognition/vibe-guard-skills",
+    "id": "news-722"
+  },
+  {
     "title": "Corporate America's favorite ChatGPT phrase doubled twice since 2024",
     "summary": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024. The article Corporate America",
     "content": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024. The article Corporate America's favorite ChatGPT phrase doubled twice since 2024 appeared first on The Decoder.",
