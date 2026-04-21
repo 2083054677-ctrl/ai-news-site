@@ -1,5 +1,70 @@
 [
   {
+    "title": "The AI revolution – spamming 680PRs in 442 GitHub repos in 21 days in April",
+    "summary": "Article URL: https://github.com/SAY-5 Comments URL: https://news.ycombinator.com/item?id=47846133 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/SAY-5 Comments URL: https://news.ycombinator.com/item?id=47846133 Points: 1 # Comments: 1",
+    "author": "ddorian43",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/SAY-5",
+    "id": "news-710"
+  },
+  {
+    "title": "GPT Image 2 – AI-Powered Image Generation Tool",
+    "summary": "Article URL: https://gptimg2ai.net Comments URL: https://news.ycombinator.com/item?id=47846182 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gptimg2ai.net Comments URL: https://news.ycombinator.com/item?id=47846182 Points: 1 # Comments: 0",
+    "author": "danielmateo773",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gptimg2ai.net",
+    "id": "news-709"
+  },
+  {
+    "title": "DotLLM – Building an LLM Inference Engine in C#",
+    "summary": "Article URL: https://kokosa.dev/blog/2026/dotllm/ Comments URL: https://news.ycombinator.com/item?id=47846309 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kokosa.dev/blog/2026/dotllm/ Comments URL: https://news.ycombinator.com/item?id=47846309 Points: 1 # Comments: 0",
+    "author": "bjarteaarmolund",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kokosa.dev/blog/2026/dotllm/",
+    "id": "news-708"
+  },
+  {
+    "title": "Claude for Equity Research",
+    "summary": "Article URL: https://www.asiancenturystocks.com/how-to-use-claude-for-equity-resear/ Comments URL: https://news.ycombinator.com/item?id=47846329 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.asiancenturystocks.com/how-to-use-claude-for-equity-resear/ Comments URL: https://news.ycombinator.com/item?id=47846329 Points: 1 # Comments: 0",
+    "author": "fritz123",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.asiancenturystocks.com/how-to-use-claude-for-equity-resear/",
+    "id": "news-707"
+  },
+  {
+    "title": "OpenMythos: A looped transformer take on how Claude Mythos might work",
+    "summary": "Article URL: https://firethering.com/openmythos-open-source-claude-mythos-reconstruction/ Comments URL: https://news.ycombinator.com/item?id=47846473 Points: 1 # Comments: 0",
+    "content": "Article URL: https://firethering.com/openmythos-open-source-claude-mythos-reconstruction/ Comments URL: https://news.ycombinator.com/item?id=47846473 Points: 1 # Comments: 0",
+    "author": "steveharing1",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://firethering.com/openmythos-open-source-claude-mythos-reconstruction/",
+    "id": "news-706"
+  },
+  {
     "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
     "summary": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
     "content": "",
