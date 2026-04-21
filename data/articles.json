@@ -1,5 +1,70 @@
 [
   {
+    "title": "Edster – An open-source local AI agent with swarm mode and a web UI",
+    "summary": "Article URL: https://github.com/unrealumanga/Nedster Comments URL: https://news.ycombinator.com/item?id=47854904 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/unrealumanga/Nedster Comments URL: https://news.ycombinator.com/item?id=47854904 Points: 2 # Comments: 0",
+    "author": "unrealumanga",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/unrealumanga/Nedster",
+    "id": "news-740"
+  },
+  {
+    "title": "The Birth Certificate for AI Agents",
+    "summary": "Article URL: https://dnsid.ai Comments URL: https://news.ycombinator.com/item?id=47855062 Points: 1 # Comments: 0",
+    "content": "Article URL: https://dnsid.ai Comments URL: https://news.ycombinator.com/item?id=47855062 Points: 1 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dnsid.ai",
+    "id": "news-739"
+  },
+  {
+    "title": "AI as a Fascist Artifact",
+    "summary": "Article URL: https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/ Comments URL: https://news.ycombinator.com/item?id=47855216 Points: 4 # Comments: 0",
+    "content": "Article URL: https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/ Comments URL: https://news.ycombinator.com/item?id=47855216 Points: 4 # Comments: 0",
+    "author": "vladyslavfox",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/",
+    "id": "news-738"
+  },
+  {
+    "title": "LLM Position Bias Benchmark: Swapped-Order Pairwise Judging",
+    "summary": "Article URL: https://github.com/lechmazur/position_bias Comments URL: https://news.ycombinator.com/item?id=47855226 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/lechmazur/position_bias Comments URL: https://news.ycombinator.com/item?id=47855226 Points: 1 # Comments: 0",
+    "author": "zone411",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lechmazur/position_bias",
+    "id": "news-737"
+  },
+  {
+    "title": "Show HN: Almanac MCP, turn Claude Code into a Deep Research agent",
+    "summary": "I am Rohan, and I have grown really frustrated with CC's search and read tools. They use Haiku to summarise all the search results, so it is really slow and often ends up being very lossy.I built this",
+    "content": "I am Rohan, and I have grown really frustrated with CC's search and read tools. They use Haiku to summarise all the search results, so it is really slow and often ends up being very lossy.I built this MCP that you can install into your coding agents so they can actually access the web properly.Right now it can:- search the general web- search Reddit- read and scrape basically any webpageInstall it:npx openalmanac setupThe MCP is completely free to use. We have also built a central store where yo",
+    "author": "rohans0509",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.openalmanac.org/",
+    "id": "news-736"
+  },
+  {
     "title": "ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation",
     "summary": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especi",
     "content": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especially in non-Latin scripts, significantly better. The article ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation appeared first on The Decoder.",
