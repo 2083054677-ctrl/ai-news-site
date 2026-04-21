@@ -1,5 +1,83 @@
 [
   {
+    "title": "ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation",
+    "summary": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especi",
+    "content": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especially in non-Latin scripts, significantly better. The article ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/",
+    "id": "news-735"
+  },
+  {
+    "title": "Bond: A new AI social network that turns memories into discoveries",
+    "summary": "Article URL: https://www.bond.now/ Comments URL: https://news.ycombinator.com/item?id=47854027 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bond.now/ Comments URL: https://news.ycombinator.com/item?id=47854027 Points: 1 # Comments: 0",
+    "author": "johndavisonr",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bond.now/",
+    "id": "news-734"
+  },
+  {
+    "title": "Flex Routing (EU and EFTA) for Copilot LLM Data Processing",
+    "summary": "Article URL: https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-flex-routing Comments URL: https://news.ycombinator.com/item?id=47854055 Points: 1 # Comments: 1",
+    "content": "Article URL: https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-flex-routing Comments URL: https://news.ycombinator.com/item?id=47854055 Points: 1 # Comments: 1",
+    "author": "raffael_de",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-flex-routing",
+    "id": "news-733"
+  },
+  {
+    "title": "GPT Image 2 Launch",
+    "summary": "Article URL: https://twitter.com/arena/status/2046670703311884548 Comments URL: https://news.ycombinator.com/item?id=47854083 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/arena/status/2046670703311884548 Comments URL: https://news.ycombinator.com/item?id=47854083 Points: 3 # Comments: 0",
+    "author": "twtw99",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/arena/status/2046670703311884548",
+    "id": "news-732"
+  },
+  {
+    "title": "Running Faster to Go Nowhere: The AI Adoption Trap",
+    "summary": "Article URL: https://educatedguesser.substack.com/p/running-faster-to-go-nowhere-the Comments URL: https://news.ycombinator.com/item?id=47854097 Points: 3 # Comments: 0",
+    "content": "Article URL: https://educatedguesser.substack.com/p/running-faster-to-go-nowhere-the Comments URL: https://news.ycombinator.com/item?id=47854097 Points: 3 # Comments: 0",
+    "author": "jerrygarcia",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://educatedguesser.substack.com/p/running-faster-to-go-nowhere-the",
+    "id": "news-731"
+  },
+  {
+    "title": "OpenAI Image 2.0 claims to generate an existing image",
+    "summary": "Article URL: https://bengarcia.dev/openai-image-2-0-claimed-to-generate-an-existing-image Comments URL: https://news.ycombinator.com/item?id=47854143 Points: 2 # Comments: 0",
+    "content": "Article URL: https://bengarcia.dev/openai-image-2-0-claimed-to-generate-an-existing-image Comments URL: https://news.ycombinator.com/item?id=47854143 Points: 2 # Comments: 0",
+    "author": "hahahacorn",
+    "date": "2026-04-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bengarcia.dev/openai-image-2-0-claimed-to-generate-an-existing-image",
+    "id": "news-730"
+  },
+  {
     "title": "Google launches Deep Research and Deep Research Max agents to automate complex research",
     "summary": "Google Deepmind is rolling out Deep Research Max, a new AI agent built on Gemini 3.1 Pro that runs autonomous research across the web and proprietary data sources. For the first time, developers can p",
     "content": "Google Deepmind is rolling out Deep Research Max, a new AI agent built on Gemini 3.1 Pro that runs autonomous research across the web and proprietary data sources. For the first time, developers can plug in financial feeds and other specialized sources through the Model Context Protocol. The benchmarks come with the usual lack of transparency. The article Google launches Deep Research and Deep Research Max agents to automate complex research appeared first on The Decoder.",
