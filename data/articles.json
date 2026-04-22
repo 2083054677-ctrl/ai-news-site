@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads",
+    "summary": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plan",
+    "content": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plans fundamentally no longer match how people are using Claude. The article Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-manager-hints-that-pro-and-max-plans-are-outgrown-by-todays-claude-workloads/",
+    "id": "news-769"
+  },
+  {
+    "title": "OpenAI Privacy Filter",
+    "summary": "Article URL: https://openai.com/index/introducing-openai-privacy-filter/ Comments URL: https://news.ycombinator.com/item?id=47864601 Points: 2 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/introducing-openai-privacy-filter/ Comments URL: https://news.ycombinator.com/item?id=47864601 Points: 2 # Comments: 0",
+    "author": "meetpateltech",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/introducing-openai-privacy-filter/",
+    "id": "news-768"
+  },
+  {
+    "title": "OpenAI Stargate's Milam, Texas, 'Freebird' data center to span 548,950 sq ft",
+    "summary": "Article URL: https://www.datacenterdynamics.com/en/news/openai-stargates-milam-texas-freebird-data-center-to-span-548950-sq-ft-in-first-phase/ Comments URL: https://news.ycombinator.com/item?id=478646",
+    "content": "Article URL: https://www.datacenterdynamics.com/en/news/openai-stargates-milam-texas-freebird-data-center-to-span-548950-sq-ft-in-first-phase/ Comments URL: https://news.ycombinator.com/item?id=47864603 Points: 1 # Comments: 0",
+    "author": "flyaway123",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.datacenterdynamics.com/en/news/openai-stargates-milam-texas-freebird-data-center-to-span-548950-sq-ft-in-first-phase/",
+    "id": "news-767"
+  },
+  {
+    "title": "You Don't Need a Better Chat Multiplexer for AI Agents",
+    "summary": "Article URL: https://blog.adrq.dev/you-don-t-need-a-better-chat-multiplexer-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47864632 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.adrq.dev/you-don-t-need-a-better-chat-multiplexer-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47864632 Points: 1 # Comments: 0",
+    "author": "adrq",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.adrq.dev/you-don-t-need-a-better-chat-multiplexer-for-ai-agents",
+    "id": "news-766"
+  },
+  {
+    "title": "Yaw Mode: opinionated config for Claude Code",
+    "summary": "Article URL: https://yaw.sh/blog/claude-code-yaw-mode/ Comments URL: https://news.ycombinator.com/item?id=47864644 Points: 1 # Comments: 0",
+    "content": "Article URL: https://yaw.sh/blog/claude-code-yaw-mode/ Comments URL: https://news.ycombinator.com/item?id=47864644 Points: 1 # Comments: 0",
+    "author": "jeffyaw",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://yaw.sh/blog/claude-code-yaw-mode/",
+    "id": "news-765"
+  },
+  {
+    "title": "Simulation of the Hormuz crisis after Iran seizure of 2 ships with 6 LLM agents",
+    "summary": "Article URL: https://colab.research.google.com/github/VincenzoManto/Doxa/blob/main/notebooks/doxa.ipynb Comments URL: https://news.ycombinator.com/item?id=47864648 Points: 3 # Comments: 1",
+    "content": "Article URL: https://colab.research.google.com/github/VincenzoManto/Doxa/blob/main/notebooks/doxa.ipynb Comments URL: https://news.ycombinator.com/item?id=47864648 Points: 3 # Comments: 1",
+    "author": "dinarino",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://colab.research.google.com/github/VincenzoManto/Doxa/blob/main/notebooks/doxa.ipynb",
+    "id": "news-764"
+  },
+  {
     "title": "Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap",
     "summary": "SpaceX has secured an option to buy AI coding startup Cursor for $60 billion. The deal would fill a gap Elon Musk's xAI has struggled to close on its own: coding tools. The article Musk's SpaceX bets ",
     "content": "SpaceX has secured an option to buy AI coding startup Cursor for $60 billion. The deal would fill a gap Elon Musk's xAI has struggled to close on its own: coding tools. The article Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap appeared first on The Decoder.",
