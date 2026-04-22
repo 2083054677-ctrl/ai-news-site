@@ -1,5 +1,32 @@
 [
   {
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "summary": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/gemma4",
+    "id": "news-771"
+  },
+  {
+    "title": "Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26",
+    "summary": "Google used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace. The company is pitching the whole package under the banner ",
+    "content": "Google used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace. The company is pitching the whole package under the banner \"Agentic Enterprise.\" The article Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26 appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-unveils-8th-gen-tpus-agent-platform-and-workspace-ai-layer-at-cloud-next-26/",
+    "id": "news-770"
+  },
+  {
     "title": "Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads",
     "summary": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plan",
     "content": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plans fundamentally no longer match how people are using Claude. The article Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads appeared first on The Decoder.",
