@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Code for the Outer Loop: An AI SRE Playbook",
+    "summary": "Article URL: https://www.arcade.dev/blog/claude-code-ai-sre-oncall-workflows/ Comments URL: https://news.ycombinator.com/item?id=47869934 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.arcade.dev/blog/claude-code-ai-sre-oncall-workflows/ Comments URL: https://news.ycombinator.com/item?id=47869934 Points: 1 # Comments: 0",
+    "author": "manveerc",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.arcade.dev/blog/claude-code-ai-sre-oncall-workflows/",
+    "id": "news-789"
+  },
+  {
+    "title": "What 81000 Claude users said about the economics of AI",
+    "summary": "Article URL: https://www.anthropic.com/research/81k-economics Comments URL: https://news.ycombinator.com/item?id=47869957 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.anthropic.com/research/81k-economics Comments URL: https://news.ycombinator.com/item?id=47869957 Points: 1 # Comments: 1",
+    "author": "schyzomaniac",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/research/81k-economics",
+    "id": "news-788"
+  },
+  {
+    "title": "In two years nobody will care if actors are AI or not–director Mathieu Kassovitz",
+    "summary": "Article URL: https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz Comments URL: https://news.ycombinator.com/item?id=47870129 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz Comments URL: https://news.ycombinator.com/item?id=47870129 Points: 2 # Comments: 0",
+    "author": "bookofjoe",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz",
+    "id": "news-787"
+  },
+  {
+    "title": "Americans Turning to AI to Supplement Healthcare Visits",
+    "summary": "Article URL: https://news.gallup.com/poll/707789/americans-turning-supplement-healthcare-visits.aspx Comments URL: https://news.ycombinator.com/item?id=47870211 Points: 1 # Comments: 0",
+    "content": "Article URL: https://news.gallup.com/poll/707789/americans-turning-supplement-healthcare-visits.aspx Comments URL: https://news.ycombinator.com/item?id=47870211 Points: 1 # Comments: 0",
+    "author": "hn_acker",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.gallup.com/poll/707789/americans-turning-supplement-healthcare-visits.aspx",
+    "id": "news-786"
+  },
+  {
+    "title": "Design.md: The New Open Contract Between Designers and AI",
+    "summary": "Article URL: https://kyanfeat.substack.com/p/designmd-the-new-open-contract-between Comments URL: https://news.ycombinator.com/item?id=47870227 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kyanfeat.substack.com/p/designmd-the-new-open-contract-between Comments URL: https://news.ycombinator.com/item?id=47870227 Points: 1 # Comments: 0",
+    "author": "kyanfeat",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kyanfeat.substack.com/p/designmd-the-new-open-contract-between",
+    "id": "news-785"
+  },
+  {
     "title": "We mapped unauthenticated Vector DBs exposing corporate AI data",
     "summary": "We noticed a massive spike in misconfigured RAG pipelines leaving vector ports open to the public internet with zero auth. We built a live map pulling OSINT data to visualize the scale of the leak: ht",
     "content": "We noticed a massive spike in misconfigured RAG pipelines leaving vector ports open to the public internet with zero auth. We built a live map pulling OSINT data to visualize the scale of the leak: https://echelongraph.io/ai-threat-mapIt highlights why perimeter security is failing in the AI rush, and why we are building EchelonGraph to process telemetry with zero-knowledge encapsulation at the source. Happy to answer questions. Comments URL: https://news.ycombinator.com/item?id=47868779 Points:",
