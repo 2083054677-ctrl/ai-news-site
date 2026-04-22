@@ -1,5 +1,109 @@
 [
   {
+    "title": "Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes",
+    "summary": "At Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery i",
+    "content": "At Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery in minutes instead of weeks, and developers get new models that can identify objects like bridges and power lines. The article Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/",
+    "id": "news-779"
+  },
+  {
+    "title": "OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform",
+    "summary": "OpenAI is rolling out workspace agents in ChatGPT, an evolution of custom GPTs. Powered by Codex, the agents automate complex team workflows and keep running even when no one is watching. Existing cus",
+    "content": "OpenAI is rolling out workspace agents in ChatGPT, an evolution of custom GPTs. Powered by Codex, the agents automate complex team workflows and keep running even when no one is watching. Existing custom GPTs will stick around for now, with a migration path coming later. The article OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/",
+    "id": "news-778"
+  },
+  {
+    "title": "Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world",
+    "summary": "New AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods. The article Ex-OpenAI researcher ",
+    "content": "New AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods. The article Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
+    "id": "news-777"
+  },
+  {
+    "title": "Project Ace Sony AI [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=FrGq8ltb-_E Comments URL: https://news.ycombinator.com/item?id=47867705 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=FrGq8ltb-_E Comments URL: https://news.ycombinator.com/item?id=47867705 Points: 2 # Comments: 0",
+    "author": "cyrc",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=FrGq8ltb-_E",
+    "id": "news-776"
+  },
+  {
+    "title": "Rundock – Get your own AI team",
+    "summary": "Article URL: https://rundock.ai/ Comments URL: https://news.ycombinator.com/item?id=47867770 Points: 1 # Comments: 0",
+    "content": "Article URL: https://rundock.ai/ Comments URL: https://news.ycombinator.com/item?id=47867770 Points: 1 # Comments: 0",
+    "author": "curiousape",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rundock.ai/",
+    "id": "news-775"
+  },
+  {
+    "title": "Show HN: Chess of Minds, a chess game where every piece is an AI agent",
+    "summary": "I built a chess game where every piece-type is an AI agent with its own personality. Just type \"Use https://chessminds.fun /play.md to start a chess game\" in your claude code. Comments URL: https://ne",
+    "content": "I built a chess game where every piece-type is an AI agent with its own personality. Just type \"Use https://chessminds.fun /play.md to start a chess game\" in your claude code. Comments URL: https://news.ycombinator.com/item?id=47867771 Points: 1 # Comments: 0",
+    "author": "anoop4bhat",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chessminds.fun",
+    "id": "news-774"
+  },
+  {
+    "title": "Building AI-First at Intercom (With Claude Code and Rails) [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=ADBs2K5Tpz0 Comments URL: https://news.ycombinator.com/item?id=47867812 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=ADBs2K5Tpz0 Comments URL: https://news.ycombinator.com/item?id=47867812 Points: 1 # Comments: 1",
+    "author": "robbyrussell",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=ADBs2K5Tpz0",
+    "id": "news-773"
+  },
+  {
+    "title": "Allbirds goes soleless and pivots to AI",
+    "summary": "Article URL: https://mashable.com/article/allbirds-ai-pivot-shoes-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=47867823 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mashable.com/article/allbirds-ai-pivot-shoes-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=47867823 Points: 1 # Comments: 0",
+    "author": "likhitkumar",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mashable.com/article/allbirds-ai-pivot-shoes-artificial-intelligence",
+    "id": "news-772"
+  },
+  {
     "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
     "summary": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
     "content": "",
