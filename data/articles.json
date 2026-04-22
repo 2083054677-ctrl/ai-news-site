@@ -1,5 +1,109 @@
 [
   {
+    "title": "Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap",
+    "summary": "SpaceX has secured an option to buy AI coding startup Cursor for $60 billion. The deal would fill a gap Elon Musk's xAI has struggled to close on its own: coding tools. The article Musk's SpaceX bets ",
+    "content": "SpaceX has secured an option to buy AI coding startup Cursor for $60 billion. The deal would fill a gap Elon Musk's xAI has struggled to close on its own: coding tools. The article Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/musks-spacex-bets-60-billion-on-cursor-to-fix-xais-coding-gap/",
+    "id": "news-763"
+  },
+  {
+    "title": "Meta tracks US employees' clicks and keystrokes to train AI agents",
+    "summary": "Meta is installing new surveillance software on its US employees' computers that captures mouse movements, clicks, and keystrokes to train AI models. The article Meta tracks US employees' clicks and k",
+    "content": "Meta is installing new surveillance software on its US employees' computers that captures mouse movements, clicks, and keystrokes to train AI models. The article Meta tracks US employees' clicks and keystrokes to train AI agents appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-tracks-us-employees-clicks-and-keystrokes-to-train-ai-agents/",
+    "id": "news-762"
+  },
+  {
+    "title": "Unauthorized users breach Anthropic's restricted Mythos AI model",
+    "summary": "A small group of unauthorized users gained access to Anthropic's new AI model Claude Mythos, Bloomberg reports. The article Unauthorized users breach Anthropic's restricted Mythos AI model appeared fi",
+    "content": "A small group of unauthorized users gained access to Anthropic's new AI model Claude Mythos, Bloomberg reports. The article Unauthorized users breach Anthropic's restricted Mythos AI model appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/unauthorized-users-breach-anthropics-restricted-mythos-ai-model/",
+    "id": "news-761"
+  },
+  {
+    "title": "S&C law firm apologizes for AI 'hallucinations' in court filing",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/sullivan-cromwell-law-firm-apologizes-ai-hallucinations-court-filing-2026-04-21/ Comments URL: https://news.ycombinator.com/item?id=47862942 Point",
+    "content": "Article URL: https://www.reuters.com/legal/litigation/sullivan-cromwell-law-firm-apologizes-ai-hallucinations-court-filing-2026-04-21/ Comments URL: https://news.ycombinator.com/item?id=47862942 Points: 2 # Comments: 1",
+    "author": "aferber",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/litigation/sullivan-cromwell-law-firm-apologizes-ai-hallucinations-court-filing-2026-04-21/",
+    "id": "news-760"
+  },
+  {
+    "title": "McClatchy AI Controversy: Blame the Human Leaders",
+    "summary": "Article URL: https://tedium.co/2026/04/21/mcclatchy-journalism-ai-scapegoat/ Comments URL: https://news.ycombinator.com/item?id=47862970 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tedium.co/2026/04/21/mcclatchy-journalism-ai-scapegoat/ Comments URL: https://news.ycombinator.com/item?id=47862970 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tedium.co/2026/04/21/mcclatchy-journalism-ai-scapegoat/",
+    "id": "news-759"
+  },
+  {
+    "title": "Ask HN: Is there any free, rate limited and no key AI API?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47862997 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47862997 Points: 1 # Comments: 0",
+    "author": "wasimsk",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47862997",
+    "id": "news-758"
+  },
+  {
+    "title": "Eridani-speak – make your LLM talk like Rocky from Project Hail Mary",
+    "summary": "Article URL: https://github.com/SijuEC/eridani-speak Comments URL: https://news.ycombinator.com/item?id=47863008 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/SijuEC/eridani-speak Comments URL: https://news.ycombinator.com/item?id=47863008 Points: 1 # Comments: 1",
+    "author": "primax",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/SijuEC/eridani-speak",
+    "id": "news-757"
+  },
+  {
+    "title": "Google unleashes more AI security agents to fight the baddies",
+    "summary": "Article URL: https://www.theregister.com/2026/04/22/google_unleashes_even_more_ai/ Comments URL: https://news.ycombinator.com/item?id=47863065 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/04/22/google_unleashes_even_more_ai/ Comments URL: https://news.ycombinator.com/item?id=47863065 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/04/22/google_unleashes_even_more_ai/",
+    "id": "news-756"
+  },
+  {
     "title": "Show HN: Tesseron – an API for AI agents, defined by the app developer",
     "summary": "Article URL: https://github.com/BrainBlend-AI/tesseron Comments URL: https://news.ycombinator.com/item?id=47860933 Points: 2 # Comments: 1",
     "content": "Article URL: https://github.com/BrainBlend-AI/tesseron Comments URL: https://news.ycombinator.com/item?id=47860933 Points: 2 # Comments: 1",
