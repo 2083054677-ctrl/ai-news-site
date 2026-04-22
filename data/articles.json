@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Tesseron – an API for AI agents, defined by the app developer",
+    "summary": "Article URL: https://github.com/BrainBlend-AI/tesseron Comments URL: https://news.ycombinator.com/item?id=47860933 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/BrainBlend-AI/tesseron Comments URL: https://news.ycombinator.com/item?id=47860933 Points: 2 # Comments: 1",
+    "author": "KennyVan",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/BrainBlend-AI/tesseron",
+    "id": "news-755"
+  },
+  {
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 4 # Comments: 1",
+    "author": "latein",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "id": "news-754"
+  },
+  {
+    "title": "My AI Workflow (Without Losing My Skills)",
+    "summary": "Article URL: https://marcgg.com/blog/2026/04/15/my-current-ai-workflow/ Comments URL: https://news.ycombinator.com/item?id=47860962 Points: 2 # Comments: 0",
+    "content": "Article URL: https://marcgg.com/blog/2026/04/15/my-current-ai-workflow/ Comments URL: https://news.ycombinator.com/item?id=47860962 Points: 2 # Comments: 0",
+    "author": "r4um",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://marcgg.com/blog/2026/04/15/my-current-ai-workflow/",
+    "id": "news-753"
+  },
+  {
+    "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai Comments URL: https://news.ycombinator.com/item?id=47860988 Poi",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai Comments URL: https://news.ycombinator.com/item?id=47860988 Points: 1 # Comments: 0",
+    "author": "n1b0m",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
+    "id": "news-752"
+  },
+  {
+    "title": "Ask HN: Why Opus4.6 was silently removed from Claude Code?",
+    "summary": "Opus 4.6 was working fine after the whole cache problems were solved. Now after the release of Opus 4.7, Anthropic has completely removed Opus 4.6. Why is Anthropic taking such poor descisions and scr",
+    "content": "Opus 4.6 was working fine after the whole cache problems were solved. Now after the release of Opus 4.7, Anthropic has completely removed Opus 4.6. Why is Anthropic taking such poor descisions and screwing up with their customer base? Comments URL: https://news.ycombinator.com/item?id=47861009 Points: 2 # Comments: 0",
+    "author": "t0duf0du",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47861009",
+    "id": "news-751"
+  },
+  {
     "title": "Zappa: An AI powered mitmproxy",
     "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html Comments URL: https://news.ycombinator.com/item?id=47859769 Points: 1 # Comments: 0",
     "content": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html Comments URL: https://news.ycombinator.com/item?id=47859769 Points: 1 # Comments: 0",
