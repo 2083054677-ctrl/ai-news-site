@@ -1,5 +1,70 @@
 [
   {
+    "title": "We mapped unauthenticated Vector DBs exposing corporate AI data",
+    "summary": "We noticed a massive spike in misconfigured RAG pipelines leaving vector ports open to the public internet with zero auth. We built a live map pulling OSINT data to visualize the scale of the leak: ht",
+    "content": "We noticed a massive spike in misconfigured RAG pipelines leaving vector ports open to the public internet with zero auth. We built a live map pulling OSINT data to visualize the scale of the leak: https://echelongraph.io/ai-threat-mapIt highlights why perimeter security is failing in the AI rush, and why we are building EchelonGraph to process telemetry with zero-knowledge encapsulation at the source. Happy to answer questions. Comments URL: https://news.ycombinator.com/item?id=47868779 Points:",
+    "author": "echelongraph",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47868779",
+    "id": "news-784"
+  },
+  {
+    "title": "Show HN: Contral AI IDE Vibe-Learn to Code",
+    "summary": "Article URL: https://contral.ai Comments URL: https://news.ycombinator.com/item?id=47868841 Points: 2 # Comments: 0",
+    "content": "Article URL: https://contral.ai Comments URL: https://news.ycombinator.com/item?id=47868841 Points: 2 # Comments: 0",
+    "author": "vednig",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://contral.ai",
+    "id": "news-783"
+  },
+  {
+    "title": "OpenAI now lets teams make custom bots that can do work on their own",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots Comments URL: https://news.ycombinator.com/item?id=47868860 Points: 3 # Commen",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots Comments URL: https://news.ycombinator.com/item?id=47868860 Points: 3 # Comments: 0",
+    "author": "omer_k",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "id": "news-782"
+  },
+  {
+    "title": "Symbiont – Typestate-enforced policy gates for AI agents (Rust)",
+    "summary": "Article URL: https://github.com/thirdkeyai/symbiont Comments URL: https://news.ycombinator.com/item?id=47868896 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/thirdkeyai/symbiont Comments URL: https://news.ycombinator.com/item?id=47868896 Points: 1 # Comments: 0",
+    "author": "smugglereal",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/thirdkeyai/symbiont",
+    "id": "news-781"
+  },
+  {
+    "title": "Elon Musk backs 'universal high income' to combat AI job losses",
+    "summary": "Article URL: https://www.foxbusiness.com/fox-news-tech/elon-musk-backs-universal-high-income-combat-ai-job-losses Comments URL: https://news.ycombinator.com/item?id=47868963 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.foxbusiness.com/fox-news-tech/elon-musk-backs-universal-high-income-combat-ai-job-losses Comments URL: https://news.ycombinator.com/item?id=47868963 Points: 4 # Comments: 1",
+    "author": "paulpauper",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.foxbusiness.com/fox-news-tech/elon-musk-backs-universal-high-income-combat-ai-job-losses",
+    "id": "news-780"
+  },
+  {
     "title": "Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes",
     "summary": "At Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery i",
     "content": "At Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery in minutes instead of weeks, and developers get new models that can identify objects like bridges and power lines. The article Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes appeared first on The Decoder.",
