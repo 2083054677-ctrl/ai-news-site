@@ -1,5 +1,70 @@
 [
   {
+    "title": "Zappa: An AI powered mitmproxy",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html Comments URL: https://news.ycombinator.com/item?id=47859769 Points: 1 # Comments: 0",
+    "content": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html Comments URL: https://news.ycombinator.com/item?id=47859769 Points: 1 # Comments: 0",
+    "author": "WithinReason",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html",
+    "id": "news-750"
+  },
+  {
+    "title": "Show HN: GPT-Image-2 Prompts",
+    "summary": "Article URL: https://github.com/magiccreator-ai/awesome-gpt-image-2-prompts Comments URL: https://news.ycombinator.com/item?id=47859811 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/magiccreator-ai/awesome-gpt-image-2-prompts Comments URL: https://news.ycombinator.com/item?id=47859811 Points: 1 # Comments: 0",
+    "author": "kevinhacker",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/magiccreator-ai/awesome-gpt-image-2-prompts",
+    "id": "news-749"
+  },
+  {
+    "title": "Claude Cowork against your own cloud inference provider",
+    "summary": "Article URL: https://claude.com/docs/cowork/3p/overview Comments URL: https://news.ycombinator.com/item?id=47859827 Points: 2 # Comments: 2",
+    "content": "Article URL: https://claude.com/docs/cowork/3p/overview Comments URL: https://news.ycombinator.com/item?id=47859827 Points: 2 # Comments: 2",
+    "author": "nrsapt",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/docs/cowork/3p/overview",
+    "id": "news-748"
+  },
+  {
+    "title": "Geo Content Writer: a backlog-first system for AI visibility content",
+    "summary": "Article URL: https://github.com/dageno-agents/geo-content-writer Comments URL: https://news.ycombinator.com/item?id=47859983 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/dageno-agents/geo-content-writer Comments URL: https://news.ycombinator.com/item?id=47859983 Points: 3 # Comments: 0",
+    "author": "timdageno",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dageno-agents/geo-content-writer",
+    "id": "news-747"
+  },
+  {
+    "title": "Roundtables: Unveiling the Things That Matter in AI",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/ Comments URL: https://news.ycombinator.com/item?id=47860072 Points: 1 ",
+    "content": "Article URL: https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/ Comments URL: https://news.ycombinator.com/item?id=47860072 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-04-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+    "id": "news-746"
+  },
+  {
     "title": "Show HN: PayClaw – Give your AI agent a wallet it can spend",
     "summary": "Article URL: https://www.payclaw.me/ Comments URL: https://news.ycombinator.com/item?id=47857376 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.payclaw.me/ Comments URL: https://news.ycombinator.com/item?id=47857376 Points: 1 # Comments: 0",
