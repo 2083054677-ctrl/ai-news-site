@@ -1,5 +1,57 @@
 [
   {
+    "title": "In the age of AI, why do Australian company boards have few technology experts?",
+    "summary": "Article URL: https://theconversation.com/in-the-age-of-ai-why-do-australian-company-boards-have-so-few-technology-experts-279752 Comments URL: https://news.ycombinator.com/item?id=47872217 Points: 1 #",
+    "content": "Article URL: https://theconversation.com/in-the-age-of-ai-why-do-australian-company-boards-have-so-few-technology-experts-279752 Comments URL: https://news.ycombinator.com/item?id=47872217 Points: 1 # Comments: 0",
+    "author": "indynz",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theconversation.com/in-the-age-of-ai-why-do-australian-company-boards-have-so-few-technology-experts-279752",
+    "id": "news-798"
+  },
+  {
+    "title": "MartinLoop – The control plane for autonomous AI agents",
+    "summary": "Article URL: https://github.com/Keesan12/martin-loop Comments URL: https://news.ycombinator.com/item?id=47872262 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Keesan12/martin-loop Comments URL: https://news.ycombinator.com/item?id=47872262 Points: 1 # Comments: 0",
+    "author": "martinloop",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Keesan12/martin-loop",
+    "id": "news-797"
+  },
+  {
+    "title": "Half of AI health answers are wrong even though they sound convincing",
+    "summary": "Article URL: https://theconversation.com/half-of-ai-health-answers-are-wrong-even-though-they-sound-convincing-new-study-280512 Comments URL: https://news.ycombinator.com/item?id=47872322 Points: 1 # ",
+    "content": "Article URL: https://theconversation.com/half-of-ai-health-answers-are-wrong-even-though-they-sound-convincing-new-study-280512 Comments URL: https://news.ycombinator.com/item?id=47872322 Points: 1 # Comments: 0",
+    "author": "KnuthIsGod",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theconversation.com/half-of-ai-health-answers-are-wrong-even-though-they-sound-convincing-new-study-280512",
+    "id": "news-796"
+  },
+  {
+    "title": "House lawmakers get a chilling demo of 'jailbroken' AI",
+    "summary": "Article URL: https://www.politico.com/news/2026/04/22/ai-chatbots-jailbreak-safety-00887869 Comments URL: https://news.ycombinator.com/item?id=47872331 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.politico.com/news/2026/04/22/ai-chatbots-jailbreak-safety-00887869 Comments URL: https://news.ycombinator.com/item?id=47872331 Points: 1 # Comments: 0",
+    "author": "0in",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.politico.com/news/2026/04/22/ai-chatbots-jailbreak-safety-00887869",
+    "id": "news-795"
+  },
+  {
     "title": "How to turn off Google AI overview",
     "summary": "Article URL: https://substack.com/@grefiti/p-192810091 Comments URL: https://news.ycombinator.com/item?id=47871108 Points: 1 # Comments: 0",
     "content": "Article URL: https://substack.com/@grefiti/p-192810091 Comments URL: https://news.ycombinator.com/item?id=47871108 Points: 1 # Comments: 0",
