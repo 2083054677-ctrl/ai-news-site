@@ -1,5 +1,31 @@
 [
   {
+    "title": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design",
+    "summary": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules. The article Google's open-source DESIGN.md gives ",
+    "content": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules. The article Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/",
+    "id": "news-812"
+  },
+  {
+    "title": "Trump science advisor says Chinese actors are copying American AI at massive scale",
+    "summary": "The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving t",
+    "content": "The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving to fight back. The article Trump science advisor says Chinese actors are copying American AI at massive scale appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/trump-science-advisor-says-chinese-actors-are-copying-american-ai-at-massive-scale/",
+    "id": "news-811"
+  },
+  {
     "title": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense",
     "summary": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws o",
     "content": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own. The article OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense appeared first on The Decoder.",
