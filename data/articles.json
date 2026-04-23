@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense",
+    "summary": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws o",
+    "content": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own. The article OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-new-trusted-access-program-gives-microsoft-its-most-capable-models-for-cyber-defense/",
+    "id": "news-810"
+  },
+  {
+    "title": "Show HN: Seleci – Pre-built AI agents that keeps your business running",
+    "summary": "Hi HN, I'm Rudi, the founder of Seleci. Most founder tools give you dashboards. Seleci gives you agents — pre-built, connected to Stripe, Google Analytics, and HubSpot — that surface what's happening ",
+    "content": "Hi HN, I'm Rudi, the founder of Seleci. Most founder tools give you dashboards. Seleci gives you agents — pre-built, connected to Stripe, Google Analytics, and HubSpot — that surface what's happening in your business without you having to ask. The core differentiator is persistent memory. Seleci doesn't answer one-off queries. It learns your business over time and gets smarter the longer you use it. Happy to answer any questions. → https://seleci.com Comments URL: https://news.ycombinator.com/it",
+    "author": "Seleci",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47878237",
+    "id": "news-809"
+  },
+  {
+    "title": "AI-assisted Agent Coordination (Claude/codex)",
+    "summary": "Article URL: https://github.com/jstuart0/agentpulse Comments URL: https://news.ycombinator.com/item?id=47878312 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/jstuart0/agentpulse Comments URL: https://news.ycombinator.com/item?id=47878312 Points: 1 # Comments: 1",
+    "author": "Craze0",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/jstuart0/agentpulse",
+    "id": "news-808"
+  },
+  {
+    "title": "AI Can Write Data Analysis Code, but Can You Trust the Result?",
+    "summary": "Article URL: https://blog.exploratory.io/in-the-age-of-ai-rs-readability-becomes-a-superpower-4e9b59beeabd Comments URL: https://news.ycombinator.com/item?id=47878315 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.exploratory.io/in-the-age-of-ai-rs-readability-becomes-a-superpower-4e9b59beeabd Comments URL: https://news.ycombinator.com/item?id=47878315 Points: 1 # Comments: 0",
+    "author": "kanaugust",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.exploratory.io/in-the-age-of-ai-rs-readability-becomes-a-superpower-4e9b59beeabd",
+    "id": "news-807"
+  },
+  {
+    "title": "AI galaxy hunters are adding to the global GPU crunch",
+    "summary": "Article URL: https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/ Comments URL: https://news.ycombinator.com/item?id=47878343 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/ Comments URL: https://news.ycombinator.com/item?id=47878343 Points: 1 # Comments: 0",
+    "author": "rustoo",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+    "id": "news-806"
+  },
+  {
+    "title": "America's Largest Landowner Is Using AI to Digitize the Forest",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/americas-largest-landowner-is-using-ai-to-digitize-the-forest-bd3eec86 Comments URL: https://news.ycombinator.com/item?id=47878361 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.wsj.com/tech/ai/americas-largest-landowner-is-using-ai-to-digitize-the-forest-bd3eec86 Comments URL: https://news.ycombinator.com/item?id=47878361 Points: 1 # Comments: 1",
+    "author": "fortran77",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/americas-largest-landowner-is-using-ai-to-digitize-the-forest-bd3eec86",
+    "id": "news-805"
+  },
+  {
     "title": "Sony AI builds the first robot to reach expert level in a sport",
     "summary": "Sony's table tennis robot \"Ace\" is the first robot to reach expert-level performance in a sport, according to the company. The article Sony AI builds the first robot to reach expert level in a sport a",
     "content": "Sony's table tennis robot \"Ace\" is the first robot to reach expert-level performance in a sport, according to the company. The article Sony AI builds the first robot to reach expert level in a sport appeared first on The Decoder.",
