@@ -1,5 +1,70 @@
 [
   {
+    "title": "How to turn off Google AI overview",
+    "summary": "Article URL: https://substack.com/@grefiti/p-192810091 Comments URL: https://news.ycombinator.com/item?id=47871108 Points: 1 # Comments: 0",
+    "content": "Article URL: https://substack.com/@grefiti/p-192810091 Comments URL: https://news.ycombinator.com/item?id=47871108 Points: 1 # Comments: 0",
+    "author": "olafnub",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://substack.com/@grefiti/p-192810091",
+    "id": "news-794"
+  },
+  {
+    "title": "AI Tokens Optimization",
+    "summary": "Article URL: https://tokenpinch.com Comments URL: https://news.ycombinator.com/item?id=47871168 Points: 1 # Comments: 1",
+    "content": "Article URL: https://tokenpinch.com Comments URL: https://news.ycombinator.com/item?id=47871168 Points: 1 # Comments: 1",
+    "author": "javiercast",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tokenpinch.com",
+    "id": "news-793"
+  },
+  {
+    "title": "Hermes Agent – A self-improving AI agent",
+    "summary": "Article URL: https://hermes-agent.nousresearch.com Comments URL: https://news.ycombinator.com/item?id=47871176 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hermes-agent.nousresearch.com Comments URL: https://news.ycombinator.com/item?id=47871176 Points: 1 # Comments: 0",
+    "author": "rob",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hermes-agent.nousresearch.com",
+    "id": "news-792"
+  },
+  {
+    "title": "Z.ai phasing out original subscription plans",
+    "summary": "Article URL: https://docs.z.ai/devpack/transition Comments URL: https://news.ycombinator.com/item?id=47871339 Points: 1 # Comments: 0",
+    "content": "Article URL: https://docs.z.ai/devpack/transition Comments URL: https://news.ycombinator.com/item?id=47871339 Points: 1 # Comments: 0",
+    "author": "reddec",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://docs.z.ai/devpack/transition",
+    "id": "news-791"
+  },
+  {
+    "title": "SportScore MCP – free live sports data for Claude",
+    "summary": "Article URL: https://github.com/Backspace-me/sportscore-mcp Comments URL: https://news.ycombinator.com/item?id=47871351 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Backspace-me/sportscore-mcp Comments URL: https://news.ycombinator.com/item?id=47871351 Points: 1 # Comments: 0",
+    "author": "sportscore",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Backspace-me/sportscore-mcp",
+    "id": "news-790"
+  },
+  {
     "title": "Claude Code for the Outer Loop: An AI SRE Playbook",
     "summary": "Article URL: https://www.arcade.dev/blog/claude-code-ai-sre-oncall-workflows/ Comments URL: https://news.ycombinator.com/item?id=47869934 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.arcade.dev/blog/claude-code-ai-sre-oncall-workflows/ Comments URL: https://news.ycombinator.com/item?id=47869934 Points: 1 # Comments: 0",
