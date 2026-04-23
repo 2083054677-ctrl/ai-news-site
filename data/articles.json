@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
+    "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intel",
+    "content": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
+    "id": "news-818"
+  },
+  {
+    "title": "Which AI coding tools do developers use at work? (JetBrains, 10k devs)",
+    "summary": "Article URL: https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/ Comments URL: https://news.ycombinator.com/item?id=47880805 Points: 3 # Comments: 0",
+    "content": "Article URL: https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/ Comments URL: https://news.ycombinator.com/item?id=47880805 Points: 3 # Comments: 0",
+    "author": "AgentNews",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/",
+    "id": "news-817"
+  },
+  {
+    "title": "Meta says it will cut 8k jobs as AI spending grows",
+    "summary": "Article URL: https://www.bbc.com/news/articles/crm1y89vek8o Comments URL: https://news.ycombinator.com/item?id=47880822 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/crm1y89vek8o Comments URL: https://news.ycombinator.com/item?id=47880822 Points: 4 # Comments: 0",
+    "author": "billybuckwheat",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/crm1y89vek8o",
+    "id": "news-816"
+  },
+  {
+    "title": "Show HN: PayClaw – a gasless USDC wallet for AI agents (12 frameworks)",
+    "summary": "Article URL: https://github.com/ONSARI/payclaw-skill Comments URL: https://news.ycombinator.com/item?id=47881111 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ONSARI/payclaw-skill Comments URL: https://news.ycombinator.com/item?id=47881111 Points: 1 # Comments: 0",
+    "author": "onsari",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ONSARI/payclaw-skill",
+    "id": "news-815"
+  },
+  {
+    "title": "AI Is Destroying the Junior Developer Pipeline. Fix: Preceptorships",
+    "summary": "Article URL: https://newclawtimes.com/articles/microsoft-russinovich-hanselman-junior-developer-pipeline-crisis-agentic-ai-preceptorship/ Comments URL: https://news.ycombinator.com/item?id=47881305 Po",
+    "content": "Article URL: https://newclawtimes.com/articles/microsoft-russinovich-hanselman-junior-developer-pipeline-crisis-agentic-ai-preceptorship/ Comments URL: https://news.ycombinator.com/item?id=47881305 Points: 1 # Comments: 0",
+    "author": "andrewstetsenko",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newclawtimes.com/articles/microsoft-russinovich-hanselman-junior-developer-pipeline-crisis-agentic-ai-preceptorship/",
+    "id": "news-814"
+  },
+  {
+    "title": "Brain Regeneration Observatory – a real, long term use of ML and AI that matters",
+    "summary": "Article URL: https://brain-regeneration.com/ Comments URL: https://news.ycombinator.com/item?id=47881456 Points: 1 # Comments: 0",
+    "content": "Article URL: https://brain-regeneration.com/ Comments URL: https://news.ycombinator.com/item?id=47881456 Points: 1 # Comments: 0",
+    "author": "rcarmo",
+    "date": "2026-04-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://brain-regeneration.com/",
+    "id": "news-813"
+  },
+  {
     "title": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design",
     "summary": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules. The article Google's open-source DESIGN.md gives ",
     "content": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules. The article Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design appeared first on The Decoder.",
