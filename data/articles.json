@@ -1,5 +1,97 @@
 [
   {
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "summary": "DeepSeek-V4: a million-token context that agents can actually use",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/deepseekv4",
+    "id": "news-843"
+  },
+  {
+    "title": "Cohere takes over Aleph Alpha shortly after the German startup ousted its original founder",
+    "summary": "Just months after founder Jonas Andrulis was pushed out, Canadian AI company Cohere is taking over Aleph Alpha - once hailed as Germany's answer to OpenAI. The Schwarz Group is putting $600 million in",
+    "content": "Just months after founder Jonas Andrulis was pushed out, Canadian AI company Cohere is taking over Aleph Alpha - once hailed as Germany's answer to OpenAI. The Schwarz Group is putting $600 million into the deal. The article Cohere takes over Aleph Alpha shortly after the German startup ousted its original founder appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cohere-takes-over-aleph-alpha-shortly-after-the-german-startup-ousted-its-original-founder/",
+    "id": "news-842"
+  },
+  {
+    "title": "People are paying $200/mo for AI tools but still not getting work done",
+    "summary": "Article URL: https://workfil.com Comments URL: https://news.ycombinator.com/item?id=47889435 Points: 3 # Comments: 0",
+    "content": "Article URL: https://workfil.com Comments URL: https://news.ycombinator.com/item?id=47889435 Points: 3 # Comments: 0",
+    "author": "valineagu",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://workfil.com",
+    "id": "news-841"
+  },
+  {
+    "title": "Is AI Killing Jobs?",
+    "summary": "Article URL: https://twitter.com/pdmsero/status/2046943519101661561 Comments URL: https://news.ycombinator.com/item?id=47889458 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/pdmsero/status/2046943519101661561 Comments URL: https://news.ycombinator.com/item?id=47889458 Points: 1 # Comments: 0",
+    "author": "MrBuddyCasino",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/pdmsero/status/2046943519101661561",
+    "id": "news-840"
+  },
+  {
+    "title": "ContextSync – MCP server that auto-loads your Linear tickets into Claude Code",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47889491 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47889491 Points: 1 # Comments: 0",
+    "author": "diamondsg",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47889491",
+    "id": "news-839"
+  },
+  {
+    "title": "MiniVecDb – A local vector DB that garbage-collects AI agent memory",
+    "summary": "Article URL: https://github.com/Alekkk777/MiniVecDb Comments URL: https://news.ycombinator.com/item?id=47889570 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Alekkk777/MiniVecDb Comments URL: https://news.ycombinator.com/item?id=47889570 Points: 1 # Comments: 0",
+    "author": "alekkk777",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Alekkk777/MiniVecDb",
+    "id": "news-838"
+  },
+  {
+    "title": "A plain-text knowledge vault with Claude Code and Obsidian",
+    "summary": "Article URL: https://canatak.substack.com/p/i-dont-need-to-know-everything-i Comments URL: https://news.ycombinator.com/item?id=47889594 Points: 1 # Comments: 0",
+    "content": "Article URL: https://canatak.substack.com/p/i-dont-need-to-know-everything-i Comments URL: https://news.ycombinator.com/item?id=47889594 Points: 1 # Comments: 0",
+    "author": "cango35",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://canatak.substack.com/p/i-dont-need-to-know-everything-i",
+    "id": "news-837"
+  },
+  {
     "title": "Anthropic confirms Claude Code problems and promises stricter quality controls",
     "summary": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward. The article Anthr",
     "content": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward. The article Anthropic confirms Claude Code problems and promises stricter quality controls appeared first on The Decoder.",
