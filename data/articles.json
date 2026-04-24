@@ -1,5 +1,96 @@
 [
   {
+    "title": "Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon",
+    "summary": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world. The article Meta buys tens of millions of AWS Graviton ",
+    "content": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world. The article Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-buys-tens-of-millions-of-aws-graviton-5-processor-cores-from-amazon/",
+    "id": "news-850"
+  },
+  {
+    "title": "China moves to block tech firms from taking US money without government approval",
+    "summary": "China plans to block tech companies from accepting US capital without government approval, according to Bloomberg. The article China moves to block tech firms from taking US money without government a",
+    "content": "China plans to block tech companies from accepting US capital without government approval, according to Bloomberg. The article China moves to block tech firms from taking US money without government approval appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-moves-to-block-tech-firms-from-taking-us-money-without-government-approval/",
+    "id": "news-849"
+  },
+  {
+    "title": "The Flavor of the AI Interface",
+    "summary": "Article URL: https://metedata.substack.com/p/009-the-flavor-of-the-ai-interface Comments URL: https://news.ycombinator.com/item?id=47891066 Points: 1 # Comments: 0",
+    "content": "Article URL: https://metedata.substack.com/p/009-the-flavor-of-the-ai-interface Comments URL: https://news.ycombinator.com/item?id=47891066 Points: 1 # Comments: 0",
+    "author": "young_mete",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://metedata.substack.com/p/009-the-flavor-of-the-ai-interface",
+    "id": "news-848"
+  },
+  {
+    "title": "Towards end-to-end automation of AI research",
+    "summary": "Article URL: https://www.nature.com/articles/s41586-026-10265-5 Comments URL: https://news.ycombinator.com/item?id=47891101 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.nature.com/articles/s41586-026-10265-5 Comments URL: https://news.ycombinator.com/item?id=47891101 Points: 2 # Comments: 0",
+    "author": "hardmaru",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nature.com/articles/s41586-026-10265-5",
+    "id": "news-847"
+  },
+  {
+    "title": "AI-Designed Thermoelectric Generator Slashes Design Time",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-thermoelectric-generator Comments URL: https://news.ycombinator.com/item?id=47891156 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/ai-designed-thermoelectric-generator Comments URL: https://news.ycombinator.com/item?id=47891156 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/ai-designed-thermoelectric-generator",
+    "id": "news-846"
+  },
+  {
+    "title": "Do AI models understand GPS coordinates?",
+    "summary": "Article URL: https://www.spatialedge.co/p/do-ai-models-actually-understand Comments URL: https://news.ycombinator.com/item?id=47891164 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.spatialedge.co/p/do-ai-models-actually-understand Comments URL: https://news.ycombinator.com/item?id=47891164 Points: 2 # Comments: 0",
+    "author": "CGMthrowaway",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.spatialedge.co/p/do-ai-models-actually-understand",
+    "id": "news-845"
+  },
+  {
+    "title": "The Killer Use Case for AI in Social Media: Narrative Storytelling",
+    "summary": "Article URL: https://thecarrierwave.substack.com/p/the-killer-use-case-for-ai-in-social Comments URL: https://news.ycombinator.com/item?id=47891171 Points: 2 # Comments: 0",
+    "content": "Article URL: https://thecarrierwave.substack.com/p/the-killer-use-case-for-ai-in-social Comments URL: https://news.ycombinator.com/item?id=47891171 Points: 2 # Comments: 0",
+    "author": "23j423j423hj",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thecarrierwave.substack.com/p/the-killer-use-case-for-ai-in-social",
+    "id": "news-844"
+  },
+  {
     "title": "DeepSeek-V4: a million-token context that agents can actually use",
     "summary": "DeepSeek-V4: a million-token context that agents can actually use",
     "content": "",
