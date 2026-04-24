@@ -1,5 +1,70 @@
 [
   {
+    "title": "What AI Needs That $700B Can't Buy",
+    "summary": "Article URL: https://cyrusradfar.com/thoughts/what-700-billion-cant-buy Comments URL: https://news.ycombinator.com/item?id=47896028 Points: 3 # Comments: 1",
+    "content": "Article URL: https://cyrusradfar.com/thoughts/what-700-billion-cant-buy Comments URL: https://news.ycombinator.com/item?id=47896028 Points: 3 # Comments: 1",
+    "author": "cyrusradfar",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cyrusradfar.com/thoughts/what-700-billion-cant-buy",
+    "id": "news-872"
+  },
+  {
+    "title": "Editable 3D models with code or AI in Roblox",
+    "summary": "Article URL: https://twitter.com/roblox/status/2047406073263382834 Comments URL: https://news.ycombinator.com/item?id=47896223 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/roblox/status/2047406073263382834 Comments URL: https://news.ycombinator.com/item?id=47896223 Points: 3 # Comments: 0",
+    "author": "dmarcos",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/roblox/status/2047406073263382834",
+    "id": "news-871"
+  },
+  {
+    "title": "Working with Claude Code: A Field Manual",
+    "summary": "Article URL: https://blog.iannelson.uk/working-with-claude-code Comments URL: https://news.ycombinator.com/item?id=47896281 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blog.iannelson.uk/working-with-claude-code Comments URL: https://news.ycombinator.com/item?id=47896281 Points: 2 # Comments: 0",
+    "author": "ianfrasernelson",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.iannelson.uk/working-with-claude-code",
+    "id": "news-870"
+  },
+  {
+    "title": "The Space Between Humans, AI, and the Work We've Been Avoiding",
+    "summary": "Article URL: https://www.bettyjunod.com/blog/the-space-between-humans-ai-and-the-work-weve-been-avoiding Comments URL: https://news.ycombinator.com/item?id=47896395 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bettyjunod.com/blog/the-space-between-humans-ai-and-the-work-weve-been-avoiding Comments URL: https://news.ycombinator.com/item?id=47896395 Points: 2 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bettyjunod.com/blog/the-space-between-humans-ai-and-the-work-weve-been-avoiding",
+    "id": "news-869"
+  },
+  {
+    "title": "Replacing probabilistic AI with deterministic math and Dafny formal verification",
+    "summary": "Article URL: https://gist.github.com/Solymus-foundation/5be1dbb91b29d7a8d40760dbc77c8ceb Comments URL: https://news.ycombinator.com/item?id=47896629 Points: 1 # Comments: 1",
+    "content": "Article URL: https://gist.github.com/Solymus-foundation/5be1dbb91b29d7a8d40760dbc77c8ceb Comments URL: https://news.ycombinator.com/item?id=47896629 Points: 1 # Comments: 1",
+    "author": "kevinkibeom",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gist.github.com/Solymus-foundation/5be1dbb91b29d7a8d40760dbc77c8ceb",
+    "id": "news-868"
+  },
+  {
     "title": "GPT-5.5 is generally available for GitHub Copilot",
     "summary": "Article URL: https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=47895150 Points: 10 # Comments: 1",
     "content": "Article URL: https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=47895150 Points: 10 # Comments: 1",
