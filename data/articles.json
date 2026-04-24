@@ -1,5 +1,70 @@
 [
   {
+    "title": "GPT-5.5 is generally available for GitHub Copilot",
+    "summary": "Article URL: https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=47895150 Points: 10 # Comments: 1",
+    "content": "Article URL: https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=47895150 Points: 10 # Comments: 1",
+    "author": "zorrn",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/",
+    "id": "news-867"
+  },
+  {
+    "title": "Show HN: I made Codex work as a Claude Code teammate",
+    "summary": "Article URL: https://github.com/JonathanRosado/claude-anyteam Comments URL: https://news.ycombinator.com/item?id=47895174 Points: 2 # Comments: 2",
+    "content": "Article URL: https://github.com/JonathanRosado/claude-anyteam Comments URL: https://news.ycombinator.com/item?id=47895174 Points: 2 # Comments: 2",
+    "author": "rosadoft",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/JonathanRosado/claude-anyteam",
+    "id": "news-866"
+  },
+  {
+    "title": "OpenAI issues apology to Tumbler Ridge after mass shooting",
+    "summary": "Article URL: https://tumblerridgelines.com/2026/04/24/openai-apologizes-to-tumbler-ridge/ Comments URL: https://news.ycombinator.com/item?id=47895177 Points: 2 # Comments: 1",
+    "content": "Article URL: https://tumblerridgelines.com/2026/04/24/openai-apologizes-to-tumbler-ridge/ Comments URL: https://news.ycombinator.com/item?id=47895177 Points: 2 # Comments: 1",
+    "author": "mellowyeller",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tumblerridgelines.com/2026/04/24/openai-apologizes-to-tumbler-ridge/",
+    "id": "news-865"
+  },
+  {
+    "title": "Officials underestimated impact of AI datacentres on UK carbon emissions",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions Comments URL: https://news.ycombinator.com/item?id=47895",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions Comments URL: https://news.ycombinator.com/item?id=47895232 Points: 3 # Comments: 0",
+    "author": "bsdz",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+    "id": "news-864"
+  },
+  {
+    "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower Comments URL: https://news.ycombinator.com/item?id=47895350 Points: 2 # C",
+    "content": "Article URL: https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower Comments URL: https://news.ycombinator.com/item?id=47895350 Points: 2 # Comments: 0",
+    "author": "ilreb",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
+    "id": "news-863"
+  },
+  {
     "title": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead",
     "summary": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, c",
     "content": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, calling recent AI progress \"surprisingly slow.\" The article OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead appeared first on The Decoder.",
