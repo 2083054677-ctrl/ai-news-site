@@ -1,5 +1,70 @@
 [
   {
+    "title": "Selvedge: Capture the why behind AI code changes",
+    "summary": "Article URL: https://github.com/masondelan/selvedge Comments URL: https://news.ycombinator.com/item?id=47884406 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/masondelan/selvedge Comments URL: https://news.ycombinator.com/item?id=47884406 Points: 1 # Comments: 1",
+    "author": "masondelan",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/masondelan/selvedge",
+    "id": "news-823"
+  },
+  {
+    "title": "Show HN: MirrorNeuron – an open-source runtime for reliable on-device AI agents",
+    "summary": "AI inference is rapidly moving out of the data center and onto local machines. With hardware like the upcoming Mac Studio M5 Ultra, it’s already possible to run top open models locally at performance ",
+    "content": "AI inference is rapidly moving out of the data center and onto local machines. With hardware like the upcoming Mac Studio M5 Ultra, it’s already possible to run top open models locally at performance levels approaching systems like ChatGPT. At the same time, companies like SK Hynix and Micron Technology are pushing memory bandwidth forward, making edge inference increasingly practical. But the software layer hasn’t caught up yet. We have great building blocks (e.g., OpenClaw), but they don’t yet",
+    "author": "homerquan",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mirrorneuron.io/",
+    "id": "news-822"
+  },
+  {
+    "title": "Supply chain cracks constrain AI boom",
+    "summary": "Article URL: https://www.axios.com/2026/04/23/ai-iran-supply-chain Comments URL: https://news.ycombinator.com/item?id=47884490 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/04/23/ai-iran-supply-chain Comments URL: https://news.ycombinator.com/item?id=47884490 Points: 2 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/04/23/ai-iran-supply-chain",
+    "id": "news-821"
+  },
+  {
+    "title": "Prompt engineering is dead, but Claude still tries",
+    "summary": "Article URL: https://blog.exe.dev/prompt-engineering-is-dead Comments URL: https://news.ycombinator.com/item?id=47884581 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.exe.dev/prompt-engineering-is-dead Comments URL: https://news.ycombinator.com/item?id=47884581 Points: 1 # Comments: 0",
+    "author": "vinipolicena",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.exe.dev/prompt-engineering-is-dead",
+    "id": "news-820"
+  },
+  {
+    "title": "Bret Taylor's Sierra Buys YC-Backed AI Startup Fragment",
+    "summary": "Article URL: https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/ Comments URL: https://news.ycombinator.com/item?id=47884586 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/ Comments URL: https://news.ycombinator.com/item?id=47884586 Points: 1 # Comments: 0",
+    "author": "zachdotai",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "id": "news-819"
+  },
+  {
     "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
     "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intel",
     "content": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
