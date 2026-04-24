@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead",
+    "summary": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, c",
+    "content": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, calling recent AI progress \"surprisingly slow.\" The article OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/",
+    "id": "news-862"
+  },
+  {
+    "title": "AI discovered 20 of 23 recent zero-days in OpenSSL",
+    "summary": "Article URL: https://aisle.com/blog/aisle-discovers-20-openssl-zero-days-in-6-months Comments URL: https://news.ycombinator.com/item?id=47893677 Points: 5 # Comments: 1",
+    "content": "Article URL: https://aisle.com/blog/aisle-discovers-20-openssl-zero-days-in-6-months Comments URL: https://news.ycombinator.com/item?id=47893677 Points: 5 # Comments: 1",
+    "author": "swesweswe",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aisle.com/blog/aisle-discovers-20-openssl-zero-days-in-6-months",
+    "id": "news-861"
+  },
+  {
+    "title": "Ask HN: How are you evaluating AI apps and CLI?",
+    "summary": "I'm sure many of you work for companies where various AI tools are being made available and IT departments asking for feedback on those tools. The IT departments are allocating in some cases unlimited",
+    "content": "I'm sure many of you work for companies where various AI tools are being made available and IT departments asking for feedback on those tools. The IT departments are allocating in some cases unlimited budget in the hopes that something comes out as a winner and sticks out eventually...For example the models from Anthropic, OpenAI, Google etc. can be accessed via: - IDE integration, e.g. VS Code, JetBrains etc. - Dedicated apps and CLIs, e.g. Codex, Claude, Copilot CLI etc.It's already bad enough",
+    "author": "twen_ty",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47893745",
+    "id": "news-860"
+  },
+  {
+    "title": "LLM research on Hacker News is drying up",
+    "summary": "Article URL: https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html Comments URL: https://news.ycombinator.com/item?id=47893860 Points: 3 # Comments: 0",
+    "content": "Article URL: https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html Comments URL: https://news.ycombinator.com/item?id=47893860 Points: 3 # Comments: 0",
+    "author": "dcastm",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html",
+    "id": "news-859"
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "summary": "Article URL: https://developers.openai.com/api/docs/changelog Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 3 # Comments: 0",
+    "content": "Article URL: https://developers.openai.com/api/docs/changelog Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 3 # Comments: 0",
+    "author": "arabicalories",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://developers.openai.com/api/docs/changelog",
+    "id": "news-858"
+  },
+  {
+    "title": "Benchmarking OpenAI's Privacy Filter",
+    "summary": "Article URL: https://www.tonic.ai/blog/benchmarking-openai-privacy-filter-pii-detection Comments URL: https://news.ycombinator.com/item?id=47894104 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.tonic.ai/blog/benchmarking-openai-privacy-filter-pii-detection Comments URL: https://news.ycombinator.com/item?id=47894104 Points: 1 # Comments: 0",
+    "author": "akamor",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tonic.ai/blog/benchmarking-openai-privacy-filter-pii-detection",
+    "id": "news-857"
+  },
+  {
     "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
     "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models. The article GPT-5.5 tops benchmarks but sti",
     "content": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models. The article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API appeared first on The Decoder.",
