@@ -1,5 +1,18 @@
 [
   {
+    "title": "Anthropic confirms Claude Code problems and promises stricter quality controls",
+    "summary": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward. The article Anthr",
+    "content": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward. The article Anthropic confirms Claude Code problems and promises stricter quality controls appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-confirms-claude-code-problems-and-promises-stricter-quality-controls/",
+    "id": "news-836"
+  },
+  {
     "title": "As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing",
     "summary": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropi",
     "content": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropic. The accompanying technical paper also reveals details about training data, distillation, and hardware. The article As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing appeared first on The Decoder.",
