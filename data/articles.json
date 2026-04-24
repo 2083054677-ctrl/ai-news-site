@@ -1,5 +1,83 @@
 [
   {
+    "title": "As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing",
+    "summary": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropi",
+    "content": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropic. The accompanying technical paper also reveals details about training data, distillation, and hardware. The article As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/as-agentic-ai-pushes-rivals-to-raise-prices-and-cap-usage-deepseek-ships-a-good-enough-model-for-almost-nothing/",
+    "id": "news-835"
+  },
+  {
+    "title": "I over-engineered my AI coding setup one justified upgrade at a time",
+    "summary": "Article URL: https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over Comments URL: https://news.ycombinator.com/item?id=47887267 Points: 1 # Comments: 0",
+    "content": "Article URL: https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over Comments URL: https://news.ycombinator.com/item?id=47887267 Points: 1 # Comments: 0",
+    "author": "jurreB",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over",
+    "id": "news-834"
+  },
+  {
+    "title": "Canada's AI Startup Cohere Buys Germany's Aleph Alpha to Expand in Europe",
+    "summary": "Article URL: https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/ Comments URL: https://news.ycombinator.com/item?id=4788738",
+    "content": "Article URL: https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/ Comments URL: https://news.ycombinator.com/item?id=47887383 Points: 1 # Comments: 0",
+    "author": "ipieter",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/",
+    "id": "news-833"
+  },
+  {
+    "title": "Fit.ly – AI Outfit Generation",
+    "summary": "Article URL: https://fitly-app.onrender.com/ Comments URL: https://news.ycombinator.com/item?id=47887516 Points: 1 # Comments: 1",
+    "content": "Article URL: https://fitly-app.onrender.com/ Comments URL: https://news.ycombinator.com/item?id=47887516 Points: 1 # Comments: 1",
+    "author": "seanwarrren",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fitly-app.onrender.com/",
+    "id": "news-832"
+  },
+  {
+    "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 1 # Comments: 0",
+    "author": "giuliomagnifico",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+    "id": "news-831"
+  },
+  {
+    "title": "Got the Rust dream job, then AI happened",
+    "summary": "Article URL: https://old.reddit.com/r/rust/comments/1stj607/got_the_rust_dream_job_then_ai_happened/ Comments URL: https://news.ycombinator.com/item?id=47887685 Points: 1 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/rust/comments/1stj607/got_the_rust_dream_job_then_ai_happened/ Comments URL: https://news.ycombinator.com/item?id=47887685 Points: 1 # Comments: 0",
+    "author": "mellosouls",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/rust/comments/1stj607/got_the_rust_dream_job_then_ai_happened/",
+    "id": "news-830"
+  },
+  {
     "title": "Oracle's Deluge of AI Debt Pushes Wall Street to the Limit",
     "summary": "Article URL: https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749 Comments URL: https://news.ycombinator.com/item?id=47885531 Points: 4 # Comments: 1",
     "content": "Article URL: https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749 Comments URL: https://news.ycombinator.com/item?id=47885531 Points: 4 # Comments: 1",
