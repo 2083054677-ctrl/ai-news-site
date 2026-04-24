@@ -1,5 +1,83 @@
 [
   {
+    "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
+    "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models. The article GPT-5.5 tops benchmarks but sti",
+    "content": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models. The article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/",
+    "id": "news-856"
+  },
+  {
+    "title": "Use of AI in Indian elections (2026)",
+    "summary": "Article URL: https://www.channelnewsasia.com/asia/india-state-elections-ai-use-campaigning-6063751 Comments URL: https://news.ycombinator.com/item?id=47892409 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.channelnewsasia.com/asia/india-state-elections-ai-use-campaigning-6063751 Comments URL: https://news.ycombinator.com/item?id=47892409 Points: 2 # Comments: 0",
+    "author": "debarshri",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.channelnewsasia.com/asia/india-state-elections-ai-use-campaigning-6063751",
+    "id": "news-855"
+  },
+  {
+    "title": "Designing a Memory System for LLM-Based Agents",
+    "summary": "Article URL: https://zby.github.io/commonplace/notes/designing-agent-memory-systems/ Comments URL: https://news.ycombinator.com/item?id=47892444 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zby.github.io/commonplace/notes/designing-agent-memory-systems/ Comments URL: https://news.ycombinator.com/item?id=47892444 Points: 1 # Comments: 0",
+    "author": "thomasweiser",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zby.github.io/commonplace/notes/designing-agent-memory-systems/",
+    "id": "news-854"
+  },
+  {
+    "title": "The Atlas of AI Interaction Design",
+    "summary": "Article URL: https://ai-interaction.com/ Comments URL: https://news.ycombinator.com/item?id=47892504 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-interaction.com/ Comments URL: https://news.ycombinator.com/item?id=47892504 Points: 1 # Comments: 0",
+    "author": "laurex",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-interaction.com/",
+    "id": "news-853"
+  },
+  {
+    "title": "AI Progress doesn't feel as fast as we're told",
+    "summary": "Article URL: https://backnotprop.com/blog/ai-progress-doesnt-feel-as-fast-as-were-told/ Comments URL: https://news.ycombinator.com/item?id=47892572 Points: 1 # Comments: 0",
+    "content": "Article URL: https://backnotprop.com/blog/ai-progress-doesnt-feel-as-fast-as-were-told/ Comments URL: https://news.ycombinator.com/item?id=47892572 Points: 1 # Comments: 0",
+    "author": "ramoz",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://backnotprop.com/blog/ai-progress-doesnt-feel-as-fast-as-were-told/",
+    "id": "news-852"
+  },
+  {
+    "title": "Claude proxy to record interactions: browse, search sessions, usage, MCP",
+    "summary": "Article URL: https://github.com/tillahoffmann/cctape Comments URL: https://news.ycombinator.com/item?id=47892645 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/tillahoffmann/cctape Comments URL: https://news.ycombinator.com/item?id=47892645 Points: 1 # Comments: 1",
+    "author": "tillahoffmann",
+    "date": "2026-04-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tillahoffmann/cctape",
+    "id": "news-851"
+  },
+  {
     "title": "Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon",
     "summary": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world. The article Meta buys tens of millions of AWS Graviton ",
     "content": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world. The article Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon appeared first on The Decoder.",
