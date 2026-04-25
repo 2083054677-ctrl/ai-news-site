@@ -1,5 +1,70 @@
 [
   {
+    "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
+    "summary": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks",
+    "content": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks. The article Google pours up to $40 billion into ChatGPT rival Anthropic appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/",
+    "id": "news-887"
+  },
+  {
+    "title": "Show HN: NoonFlow – a macOS workspace I built for Claude Code and Codex",
+    "summary": "Article URL: https://github.com/heyallencao/NoonFlow/releases Comments URL: https://news.ycombinator.com/item?id=47899577 Points: 1 # Comments: 5",
+    "content": "Article URL: https://github.com/heyallencao/NoonFlow/releases Comments URL: https://news.ycombinator.com/item?id=47899577 Points: 1 # Comments: 5",
+    "author": "AllenCao",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/heyallencao/NoonFlow/releases",
+    "id": "news-886"
+  },
+  {
+    "title": "OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget",
+    "summary": "Article URL: https://thenewstack.io/persistent-ai-agents-compared/ Comments URL: https://news.ycombinator.com/item?id=47899616 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thenewstack.io/persistent-ai-agents-compared/ Comments URL: https://news.ycombinator.com/item?id=47899616 Points: 1 # Comments: 0",
+    "author": "thunderbong",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/persistent-ai-agents-compared/",
+    "id": "news-885"
+  },
+  {
+    "title": "Ask HN: What's your AI assisted dev setup that actually follows instructions?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47899681 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47899681 Points: 1 # Comments: 0",
+    "author": "setnone",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47899681",
+    "id": "news-884"
+  },
+  {
+    "title": "Fixing hallucination in LLM prediction with only one 48gib GPU",
+    "summary": "Article URL: https://zenodo.org/records/19703218 Comments URL: https://news.ycombinator.com/item?id=47899690 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/19703218 Comments URL: https://news.ycombinator.com/item?id=47899690 Points: 1 # Comments: 0",
+    "author": "genji970",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/19703218",
+    "id": "news-883"
+  },
+  {
     "title": "In visit to Brown, Jaron Lanier says people are thinking about AI all wrong",
     "summary": "Article URL: https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture Comments URL: https://news.ycombinator.com/item?id=47898893 Points: 3 # Comments: 1",
     "content": "Article URL: https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture Comments URL: https://news.ycombinator.com/item?id=47898893 Points: 3 # Comments: 1",
