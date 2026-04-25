@@ -1,5 +1,31 @@
 [
   {
+    "title": "Qwen3.6-27B beats much larger predecessor on most coding benchmarks",
+    "summary": "Alibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters. The article Qwen3.6-27B beats much larger predecessor on mos",
+    "content": "Alibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters. The article Qwen3.6-27B beats much larger predecessor on most coding benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/",
+    "id": "news-896"
+  },
+  {
+    "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
+    "summary": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also ",
+    "content": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures. The article US programmer job growth nearly halved since ChatGPT launched, Fed study finds appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/",
+    "id": "news-895"
+  },
+  {
     "title": "The UAE wants half its government run by autonomous AI agents within two years",
     "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within tw",
     "content": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
