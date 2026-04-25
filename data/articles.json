@@ -1,5 +1,57 @@
 [
   {
+    "title": "Memory in the Age of AI Agents",
+    "summary": "Article URL: https://arxiv.org/abs/2512.13564 Comments URL: https://news.ycombinator.com/item?id=47904562 Points: 2 # Comments: 1",
+    "content": "Article URL: https://arxiv.org/abs/2512.13564 Comments URL: https://news.ycombinator.com/item?id=47904562 Points: 2 # Comments: 1",
+    "author": "fittingopposite",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2512.13564",
+    "id": "news-913"
+  },
+  {
+    "title": "A TUI to browse what Claude Code remembers about your projects",
+    "summary": "Article URL: https://github.com/lu-zhengda/claude-mem-viz Comments URL: https://news.ycombinator.com/item?id=47904565 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/lu-zhengda/claude-mem-viz Comments URL: https://news.ycombinator.com/item?id=47904565 Points: 2 # Comments: 1",
+    "author": "zhengda-lu",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lu-zhengda/claude-mem-viz",
+    "id": "news-912"
+  },
+  {
+    "title": "The AI Industry Is Discovering That the Public Hates It",
+    "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 140 # Comments: 162",
+    "content": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 140 # Comments: 162",
+    "author": "chirau",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+    "id": "news-911"
+  },
+  {
+    "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
+    "summary": "Article URL: https://ellipsus.com/blog/survey-on-writing-and-ai Comments URL: https://news.ycombinator.com/item?id=47904589 Points: 3 # Comments: 0",
+    "content": "Article URL: https://ellipsus.com/blog/survey-on-writing-and-ai Comments URL: https://news.ycombinator.com/item?id=47904589 Points: 3 # Comments: 0",
+    "author": "fao_",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ellipsus.com/blog/survey-on-writing-and-ai",
+    "id": "news-910"
+  },
+  {
     "title": "AI agents that argue with each other to improve decisions",
     "summary": "Article URL: https://github.com/rockcat/HATS Comments URL: https://news.ycombinator.com/item?id=47903471 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/rockcat/HATS Comments URL: https://news.ycombinator.com/item?id=47903471 Points: 1 # Comments: 0",
