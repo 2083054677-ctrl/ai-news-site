@@ -1,5 +1,70 @@
 [
   {
+    "title": "What Would You Ask an AI to Do in Every Prompt?",
+    "summary": "I'm referring to the way some AI agents let you add a rule that applies to every conversation, and the AI will follow that rule every time you interact with it. Is it necessary to set up such rules in",
+    "content": "I'm referring to the way some AI agents let you add a rule that applies to every conversation, and the AI will follow that rule every time you interact with it. Is it necessary to set up such rules in agents?I used to add a rule that reminds the AI to commit code every time it modifies code or documentation, following a set of git commit conventions. The second rule I often add tells the AI to update AGENTS.md whenever it changes any functionality in the overall project. Comments URL: https://ne",
+    "author": "moonzfxs",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47901712",
+    "id": "news-901"
+  },
+  {
+    "title": "GPT 5.5 biosafety bounty",
+    "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 3 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 3 # Comments: 0",
+    "author": "Murfalo",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+    "id": "news-900"
+  },
+  {
+    "title": "xAI credits (YC AI STACK) rescinded",
+    "summary": "I redeemed xai credits from my yc stack, now those credits are gone, i asked someone i know too , even their credits in xai are gone. Comments URL: https://news.ycombinator.com/item?id=47901739 Points",
+    "content": "I redeemed xai credits from my yc stack, now those credits are gone, i asked someone i know too , even their credits in xai are gone. Comments URL: https://news.ycombinator.com/item?id=47901739 Points: 1 # Comments: 0",
+    "author": "galaba",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47901739",
+    "id": "news-899"
+  },
+  {
+    "title": "Onyx Pro, a local desktop utility for re-evaluating AI IDEs before paying",
+    "summary": "Article URL: https://getonyxpro.com Comments URL: https://news.ycombinator.com/item?id=47901765 Points: 1 # Comments: 0",
+    "content": "Article URL: https://getonyxpro.com Comments URL: https://news.ycombinator.com/item?id=47901765 Points: 1 # Comments: 0",
+    "author": "chloevalesquez",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://getonyxpro.com",
+    "id": "news-898"
+  },
+  {
+    "title": "Surf-CLI – a CLI for AI agents to control Chrome",
+    "summary": "Article URL: https://github.com/nicobailon/surf-cli Comments URL: https://news.ycombinator.com/item?id=47901782 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/nicobailon/surf-cli Comments URL: https://news.ycombinator.com/item?id=47901782 Points: 2 # Comments: 0",
+    "author": "cardboard9926",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/nicobailon/surf-cli",
+    "id": "news-897"
+  },
+  {
     "title": "Qwen3.6-27B beats much larger predecessor on most coding benchmarks",
     "summary": "Alibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters. The article Qwen3.6-27B beats much larger predecessor on mos",
     "content": "Alibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters. The article Qwen3.6-27B beats much larger predecessor on most coding benchmarks appeared first on The Decoder.",
