@@ -1,5 +1,96 @@
 [
   {
+    "title": "The UAE wants half its government run by autonomous AI agents within two years",
+    "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within tw",
+    "content": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/",
+    "id": "news-894"
+  },
+  {
+    "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
+    "summary": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models ",
+    "content": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities. The article Anthropic says stronger AI models cut better deals, and the losers don't even notice appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
+    "id": "news-893"
+  },
+  {
+    "title": "Rust open-source headless browser for AI agents and web scraping",
+    "summary": "Article URL: https://github.com/h4ckf0r0day/obscura Comments URL: https://news.ycombinator.com/item?id=47900202 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/h4ckf0r0day/obscura Comments URL: https://news.ycombinator.com/item?id=47900202 Points: 2 # Comments: 0",
+    "author": "guerby",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/h4ckf0r0day/obscura",
+    "id": "news-892"
+  },
+  {
+    "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+    "summary": "Article URL: https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership Comments URL: https://news.ycombinator.com/item?id=47900251 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership Comments URL: https://news.ycombinator.com/item?id=47900251 Points: 1 # Comments: 1",
+    "author": "ksec",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership",
+    "id": "news-891"
+  },
+  {
+    "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
+    "summary": "Article URL: https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010 Comments URL: https://news.ycombinator.com/item?id=47900270 Points: 2 # Comm",
+    "content": "Article URL: https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010 Comments URL: https://news.ycombinator.com/item?id=47900270 Points: 2 # Comments: 0",
+    "author": "geox",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
+    "id": "news-890"
+  },
+  {
+    "title": "Claude Opus 4.7 has turned into an overzealous query cop, devs complain",
+    "summary": "Article URL: https://www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/ Comments URL: https://news.ycombinator.com/item?id=47900293 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/ Comments URL: https://news.ycombinator.com/item?id=47900293 Points: 1 # Comments: 0",
+    "author": "freedomben",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/",
+    "id": "news-889"
+  },
+  {
+    "title": "Project Deal: Claude-run marketplace experiment",
+    "summary": "Article URL: https://www.anthropic.com/features/project-deal Comments URL: https://news.ycombinator.com/item?id=47900331 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.anthropic.com/features/project-deal Comments URL: https://news.ycombinator.com/item?id=47900331 Points: 1 # Comments: 0",
+    "author": "EFLKumo",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/features/project-deal",
+    "id": "news-888"
+  },
+  {
     "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
     "summary": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks",
     "content": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks. The article Google pours up to $40 billion into ChatGPT rival Anthropic appeared first on The Decoder.",
