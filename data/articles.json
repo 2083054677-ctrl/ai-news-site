@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: Do you read differently now that anything could be AI generated?",
+    "summary": "or How has AI generated content changed what and how you read? Comments URL: https://news.ycombinator.com/item?id=47902507 Points: 1 # Comments: 0",
+    "content": "or How has AI generated content changed what and how you read? Comments URL: https://news.ycombinator.com/item?id=47902507 Points: 1 # Comments: 0",
+    "author": "dwa3592",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47902507",
+    "id": "news-906"
+  },
+  {
+    "title": "AI Agents for Business Analysis: A Working BA's Honest Take",
+    "summary": "Article URL: https://bettersoftware.uk/2026/01/17/ai-agents-for-business-analysis/ Comments URL: https://news.ycombinator.com/item?id=47902514 Points: 1 # Comments: 1",
+    "content": "Article URL: https://bettersoftware.uk/2026/01/17/ai-agents-for-business-analysis/ Comments URL: https://news.ycombinator.com/item?id=47902514 Points: 1 # Comments: 1",
+    "author": "lifeisstillgood",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bettersoftware.uk/2026/01/17/ai-agents-for-business-analysis/",
+    "id": "news-905"
+  },
+  {
+    "title": "A graduating CS senior cannot afford the AI eating his career",
+    "summary": "Article URL: https://pilgrimsage.substack.com/p/the-side-door Comments URL: https://news.ycombinator.com/item?id=47902551 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pilgrimsage.substack.com/p/the-side-door Comments URL: https://news.ycombinator.com/item?id=47902551 Points: 1 # Comments: 0",
+    "author": "momentmaker",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pilgrimsage.substack.com/p/the-side-door",
+    "id": "news-904"
+  },
+  {
+    "title": "The AI Revolution: The Road to Superintelligence (2015)",
+    "summary": "Article URL: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html Comments URL: https://news.ycombinator.com/item?id=47902561 Points: 1 # Comments: 0",
+    "content": "Article URL: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html Comments URL: https://news.ycombinator.com/item?id=47902561 Points: 1 # Comments: 0",
+    "author": "simonebrunozzi",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
+    "id": "news-903"
+  },
+  {
+    "title": "AI created SE050 PCB for me and it works, damn (not an electrical engineer)",
+    "summary": "Article URL: https://www.etsy.com/listing/4494477464/se050-secure-element-breakout-board Comments URL: https://news.ycombinator.com/item?id=47902598 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.etsy.com/listing/4494477464/se050-secure-element-breakout-board Comments URL: https://news.ycombinator.com/item?id=47902598 Points: 1 # Comments: 1",
+    "author": "alen-z",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.etsy.com/listing/4494477464/se050-secure-element-breakout-board",
+    "id": "news-902"
+  },
+  {
     "title": "What Would You Ask an AI to Do in Every Prompt?",
     "summary": "I'm referring to the way some AI agents let you add a rule that applies to every conversation, and the AI will follow that rule every time you interact with it. Is it necessary to set up such rules in",
     "content": "I'm referring to the way some AI agents let you add a rule that applies to every conversation, and the AI will follow that rule every time you interact with it. Is it necessary to set up such rules in agents?I used to add a rule that reminds the AI to commit code every time it modifies code or documentation, following a set of git commit conventions. The second rule I often add tells the AI to update AGENTS.md whenever it changes any functionality in the overall project. Comments URL: https://ne",
