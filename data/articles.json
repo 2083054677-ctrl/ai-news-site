@@ -1,5 +1,70 @@
 [
   {
+    "title": "In visit to Brown, Jaron Lanier says people are thinking about AI all wrong",
+    "summary": "Article URL: https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture Comments URL: https://news.ycombinator.com/item?id=47898893 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture Comments URL: https://news.ycombinator.com/item?id=47898893 Points: 3 # Comments: 1",
+    "author": "pigeons",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture",
+    "id": "news-882"
+  },
+  {
+    "title": "GPT-5.5 Prompting Guide",
+    "summary": "Article URL: https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/ Comments URL: https://news.ycombinator.com/item?id=47898932 Points: 3 # Comments: 1",
+    "content": "Article URL: https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/ Comments URL: https://news.ycombinator.com/item?id=47898932 Points: 3 # Comments: 1",
+    "author": "y1n0",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/",
+    "id": "news-881"
+  },
+  {
+    "title": "AMD Ryzen AI Max+ AI PCs Deliver Exceptional Intelligence Right on Your Desk",
+    "summary": "Article URL: https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html Comments URL: https://news.ycombinator.com/item?id=47898945 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html Comments URL: https://news.ycombinator.com/item?id=47898945 Points: 1 # Comments: 0",
+    "author": "teleforce",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html",
+    "id": "news-880"
+  },
+  {
+    "title": "Do you ever ask \"Please Claude I need this my account is kinda tokenless \"",
+    "summary": "Article URL: https://engram-three.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=47899184 Points: 1 # Comments: 1",
+    "content": "Article URL: https://engram-three.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=47899184 Points: 1 # Comments: 1",
+    "author": "-Refraction-",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://engram-three.vercel.app/",
+    "id": "news-879"
+  },
+  {
+    "title": "Testing GPT-5.5 in early access: what we are seeing so far",
+    "summary": "Article URL: https://lovable.dev/blog/gpt-5-5-now-in-lovable Comments URL: https://news.ycombinator.com/item?id=47899355 Points: 2 # Comments: 0",
+    "content": "Article URL: https://lovable.dev/blog/gpt-5-5-now-in-lovable Comments URL: https://news.ycombinator.com/item?id=47899355 Points: 2 # Comments: 0",
+    "author": "doener",
+    "date": "2026-04-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lovable.dev/blog/gpt-5-5-now-in-lovable",
+    "id": "news-878"
+  },
+  {
     "title": "Fast-AI-detector: a fast local CLI for detecting AI-generated text",
     "summary": "Article URL: https://github.com/Ejhfast/fast-ai-detector Comments URL: https://news.ycombinator.com/item?id=47897581 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/Ejhfast/fast-ai-detector Comments URL: https://news.ycombinator.com/item?id=47897581 Points: 1 # Comments: 0",
