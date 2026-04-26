@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: How do you use AI at your regulated, restrictive company?",
+    "summary": "I work in finance, and the company policy is that mainstream LLMs are allowed when using public information but anything private / sensitive has to be done via M$ copilot, which I find crap for anythi",
+    "content": "I work in finance, and the company policy is that mainstream LLMs are allowed when using public information but anything private / sensitive has to be done via M$ copilot, which I find crap for anything other than searching company documents. The result of that is that my usage of AI is massively limited.I expect my only option is to effectively go to Mordor to get a Claude or a ChatGPT approved by risk and compliance - a daunting task - unless I’m missing something with copilot.For those in sim",
+    "author": "iso20022",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47912605",
+    "id": "news-953"
+  },
+  {
+    "title": "Can your AI solve this? Be honest",
+    "summary": "A farmer has 17 sheep. 9 ran away. He then bought enough to double what he had. His neighbor, who had 4 dogs and 14 sheep, gave him one-third of her animals. The farmer sold 5 sheep on Monday and agai",
+    "content": "A farmer has 17 sheep. 9 ran away. He then bought enough to double what he had. His neighbor, who had 4 dogs and 14 sheep, gave him one-third of her animals. The farmer sold 5 sheep on Monday and again the next day, which was Wednesday. Each sheep weighs about 150 lbs. How many sheep does the farmer have? Comments URL: https://news.ycombinator.com/item?id=47912612 Points: 1 # Comments: 0",
+    "author": "0xBA5ED",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47912612",
+    "id": "news-952"
+  },
+  {
+    "title": "NeurotecIO – Your Study AI Assistant",
+    "summary": "Article URL: https://neurotec.io Comments URL: https://news.ycombinator.com/item?id=47912657 Points: 1 # Comments: 0",
+    "content": "Article URL: https://neurotec.io Comments URL: https://news.ycombinator.com/item?id=47912657 Points: 1 # Comments: 0",
+    "author": "areeshalam",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://neurotec.io",
+    "id": "news-951"
+  },
+  {
+    "title": "I built an agent that breaks your AI agents before someone else does",
+    "summary": "Article URL: https://fabraix.com/ Comments URL: https://news.ycombinator.com/item?id=47912662 Points: 2 # Comments: 1",
+    "content": "Article URL: https://fabraix.com/ Comments URL: https://news.ycombinator.com/item?id=47912662 Points: 2 # Comments: 1",
+    "author": "zachdotai",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fabraix.com/",
+    "id": "news-950"
+  },
+  {
+    "title": "Claude.md",
+    "summary": "Article URL: https://gist.github.com/vinayakkulkarni/05954385ff86dd65ea8a21da6971add7 Comments URL: https://news.ycombinator.com/item?id=47912687 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gist.github.com/vinayakkulkarni/05954385ff86dd65ea8a21da6971add7 Comments URL: https://news.ycombinator.com/item?id=47912687 Points: 1 # Comments: 0",
+    "author": "vinayakkulkarni",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gist.github.com/vinayakkulkarni/05954385ff86dd65ea8a21da6971add7",
+    "id": "news-949"
+  },
+  {
     "title": "AI vibe coding vs. AI vibe cracking",
     "summary": "Article URL: https://meshoskey.com/article.html Comments URL: https://news.ycombinator.com/item?id=47911495 Points: 2 # Comments: 0",
     "content": "Article URL: https://meshoskey.com/article.html Comments URL: https://news.ycombinator.com/item?id=47911495 Points: 2 # Comments: 0",
