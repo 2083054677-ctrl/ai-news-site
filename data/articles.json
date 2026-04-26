@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
+    "summary": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says. The ",
+    "content": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says. The article OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/",
+    "id": "news-943"
+  },
+  {
+    "title": "AI slop videos aimed at babies are 'garbage,' says pediatrician",
+    "summary": "Article URL: https://www.cbc.ca/news/canada/ai-baby-slop-9.7166873 Comments URL: https://news.ycombinator.com/item?id=47910375 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.cbc.ca/news/canada/ai-baby-slop-9.7166873 Comments URL: https://news.ycombinator.com/item?id=47910375 Points: 3 # Comments: 0",
+    "author": "fidotron",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cbc.ca/news/canada/ai-baby-slop-9.7166873",
+    "id": "news-942"
+  },
+  {
+    "title": "Top Programmers Return to Hand-Coding Amid AI Tool Doubts",
+    "summary": "Article URL: https://x.com/i/trending/2048161728521798035 Comments URL: https://news.ycombinator.com/item?id=47910382 Points: 4 # Comments: 5",
+    "content": "Article URL: https://x.com/i/trending/2048161728521798035 Comments URL: https://news.ycombinator.com/item?id=47910382 Points: 4 # Comments: 5",
+    "author": "northfield27",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://x.com/i/trending/2048161728521798035",
+    "id": "news-941"
+  },
+  {
+    "title": "Claude Platform on AWS",
+    "summary": "Article URL: https://aws.amazon.com/claude-platform/ Comments URL: https://news.ycombinator.com/item?id=47910491 Points: 2 # Comments: 0",
+    "content": "Article URL: https://aws.amazon.com/claude-platform/ Comments URL: https://news.ycombinator.com/item?id=47910491 Points: 2 # Comments: 0",
+    "author": "dkobia",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aws.amazon.com/claude-platform/",
+    "id": "news-940"
+  },
+  {
+    "title": "Claude Opus 4.6 vs. Opus 4.7 Effort Levels and Prompt Steering Benchmarks",
+    "summary": "Article URL: https://ai.georgeliu.com/p/claude-opus-46-vs-opus-47-effort Comments URL: https://news.ycombinator.com/item?id=47910494 Points: 1 # Comments: 1",
+    "content": "Article URL: https://ai.georgeliu.com/p/claude-opus-46-vs-opus-47-effort Comments URL: https://news.ycombinator.com/item?id=47910494 Points: 1 # Comments: 1",
+    "author": "mszel",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai.georgeliu.com/p/claude-opus-46-vs-opus-47-effort",
+    "id": "news-939"
+  },
+  {
+    "title": "Show HN: Are AI competitor newsletters useful?",
+    "summary": "Article URL: https://newsletrix.com/ Comments URL: https://news.ycombinator.com/item?id=47910582 Points: 2 # Comments: 0",
+    "content": "Article URL: https://newsletrix.com/ Comments URL: https://news.ycombinator.com/item?id=47910582 Points: 2 # Comments: 0",
+    "author": "beledev",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newsletrix.com/",
+    "id": "news-938"
+  },
+  {
     "title": "Show HN: Ctxbrew – Ship and Use LLM-friendly library context",
     "summary": "ctxbrew is a CLI and protocol for shipping and consuming LLM-friendly library context.If you’re building a package and thinking of creating an MCP server for your users, you should consider ctxbrew as",
     "content": "ctxbrew is a CLI and protocol for shipping and consuming LLM-friendly library context.If you’re building a package and thinking of creating an MCP server for your users, you should consider ctxbrew as a simpler alternative and focus on the library code itself.If you’re building a product and find yourself fighting with LLMs generating incorrect code using your dependencies, you should consider asking the maintainers to add ctxbrew support. Comments URL: https://news.ycombinator.com/item?id=47909",
