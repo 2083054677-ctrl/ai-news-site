@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI vibe coding vs. AI vibe cracking",
+    "summary": "Article URL: https://meshoskey.com/article.html Comments URL: https://news.ycombinator.com/item?id=47911495 Points: 2 # Comments: 0",
+    "content": "Article URL: https://meshoskey.com/article.html Comments URL: https://news.ycombinator.com/item?id=47911495 Points: 2 # Comments: 0",
+    "author": "simonjgreen",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://meshoskey.com/article.html",
+    "id": "news-948"
+  },
+  {
+    "title": "Show HN: I made GAI to have LLM agents in Go without heavy frameworks",
+    "summary": "Article URL: https://github.com/lace-ai/gai Comments URL: https://news.ycombinator.com/item?id=47911522 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/lace-ai/gai Comments URL: https://news.ycombinator.com/item?id=47911522 Points: 1 # Comments: 0",
+    "author": "samuel_kx0",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lace-ai/gai",
+    "id": "news-947"
+  },
+  {
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 1 # Comments: 0",
+    "author": "jeremyccrane",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "id": "news-946"
+  },
+  {
+    "title": "LLM Anxiety",
+    "summary": "Article URL: https://dheer.co/llm-anxiety/ Comments URL: https://news.ycombinator.com/item?id=47911553 Points: 1 # Comments: 0",
+    "content": "Article URL: https://dheer.co/llm-anxiety/ Comments URL: https://news.ycombinator.com/item?id=47911553 Points: 1 # Comments: 0",
+    "author": "bushido",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dheer.co/llm-anxiety/",
+    "id": "news-945"
+  },
+  {
+    "title": "AI Reverses the Political Logic of the Internet",
+    "summary": "Article URL: https://www.techpolicy.press/how-ai-reverses-the-political-logic-of-the-internet/ Comments URL: https://news.ycombinator.com/item?id=47911562 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.techpolicy.press/how-ai-reverses-the-political-logic-of-the-internet/ Comments URL: https://news.ycombinator.com/item?id=47911562 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.techpolicy.press/how-ai-reverses-the-political-logic-of-the-internet/",
+    "id": "news-944"
+  },
+  {
     "title": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
     "summary": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says. The ",
     "content": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says. The article OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 appeared first on The Decoder.",
