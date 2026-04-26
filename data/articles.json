@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Ctxbrew – Ship and Use LLM-friendly library context",
+    "summary": "ctxbrew is a CLI and protocol for shipping and consuming LLM-friendly library context.If you’re building a package and thinking of creating an MCP server for your users, you should consider ctxbrew as",
+    "content": "ctxbrew is a CLI and protocol for shipping and consuming LLM-friendly library context.If you’re building a package and thinking of creating an MCP server for your users, you should consider ctxbrew as a simpler alternative and focus on the library code itself.If you’re building a product and find yourself fighting with LLMs generating incorrect code using your dependencies, you should consider asking the maintainers to add ctxbrew support. Comments URL: https://news.ycombinator.com/item?id=47909",
+    "author": "mangilev",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/artem-mangilev/ctxbrew",
+    "id": "news-937"
+  },
+  {
+    "title": "Thoughts about Moments in Claude Mythos System Card",
+    "summary": "Article URL: https://old.reddit.com/r/BetterOffline/comments/1sgxc77/thoughts_about_strange_moments_in_claude_mythos/ Comments URL: https://news.ycombinator.com/item?id=47909614 Points: 3 # Comments: ",
+    "content": "Article URL: https://old.reddit.com/r/BetterOffline/comments/1sgxc77/thoughts_about_strange_moments_in_claude_mythos/ Comments URL: https://news.ycombinator.com/item?id=47909614 Points: 3 # Comments: 0",
+    "author": "kmdupree",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/BetterOffline/comments/1sgxc77/thoughts_about_strange_moments_in_claude_mythos/",
+    "id": "news-936"
+  },
+  {
+    "title": "Claude Code Hooks Reference",
+    "summary": "Article URL: https://code.claude.com/docs/en/hooks Comments URL: https://news.ycombinator.com/item?id=47909654 Points: 2 # Comments: 0",
+    "content": "Article URL: https://code.claude.com/docs/en/hooks Comments URL: https://news.ycombinator.com/item?id=47909654 Points: 2 # Comments: 0",
+    "author": "firasd",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://code.claude.com/docs/en/hooks",
+    "id": "news-935"
+  },
+  {
+    "title": "Ask HN: Has Claude Opus 4.7 nerfed?",
+    "summary": "I have started to feel that Anthropic has nerfed the Opus 4.7 and it has started to feel less smart than Opus 4.6 was previously! Anyone feels the same? Comments URL: https://news.ycombinator.com/item",
+    "content": "I have started to feel that Anthropic has nerfed the Opus 4.7 and it has started to feel less smart than Opus 4.6 was previously! Anyone feels the same? Comments URL: https://news.ycombinator.com/item?id=47909674 Points: 2 # Comments: 0",
+    "author": "souravroy78",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47909674",
+    "id": "news-934"
+  },
+  {
+    "title": "Show HN: UseMoney AI: AI Copilot for Retail Investors of India",
+    "summary": "Stock market research and stocks/MFs comparison for all available indian stocks and MFs.Connect with a broker and do a deep dive to find out weak points in your portfolio, plan retirement using the FI",
+    "content": "Stock market research and stocks/MFs comparison for all available indian stocks and MFs.Connect with a broker and do a deep dive to find out weak points in your portfolio, plan retirement using the FIRE calculator and much more.Would love to get the initial feedback: https://usemoney.ai/ Comments URL: https://news.ycombinator.com/item?id=47909866 Points: 1 # Comments: 0",
+    "author": "deepshaswat",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47909866",
+    "id": "news-933"
+  },
+  {
     "title": "500 investment bankers review AI outputs and find none ready for client delivery",
     "summary": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; t",
     "content": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. Still, more than half of the bankers said they'd use the output as a starting point. The article 500 investment bankers review AI outputs and find none ready for client delivery appeared first on The Decoder.",
