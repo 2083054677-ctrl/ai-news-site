@@ -1,5 +1,96 @@
 [
   {
+    "title": "500 investment bankers review AI outputs and find none ready for client delivery",
+    "summary": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; t",
+    "content": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. Still, more than half of the bankers said they'd use the output as a starting point. The article 500 investment bankers review AI outputs and find none ready for client delivery appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/",
+    "id": "news-932"
+  },
+  {
+    "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline",
+    "summary": "OpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the ",
+    "content": "OpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the framework. The article OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-old-prompts-are-holding-gpt-5-5-back-and-developers-need-a-fresh-baseline/",
+    "id": "news-931"
+  },
+  {
+    "title": "OpenAI CEO Apologizes for Not Warning Authorities About Mass Shooting Suspect",
+    "summary": "Article URL: https://www.pcmag.com/news/openai-ceo-deeply-sorry-for-not-warning-authorities-about-mass-shooting Comments URL: https://news.ycombinator.com/item?id=47908707 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.pcmag.com/news/openai-ceo-deeply-sorry-for-not-warning-authorities-about-mass-shooting Comments URL: https://news.ycombinator.com/item?id=47908707 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pcmag.com/news/openai-ceo-deeply-sorry-for-not-warning-authorities-about-mass-shooting",
+    "id": "news-930"
+  },
+  {
+    "title": "Singapore's Foreign Minister Builds an AI \"Second Brain\" Using NanoClaw",
+    "summary": "Article URL: https://officechai.com/ai/singapores-foreign-minister-builds-an-ai-second-brain-using-nanoclaw-says-it-can-answer-every-question-for-a-diplomat/ Comments URL: https://news.ycombinator.com",
+    "content": "Article URL: https://officechai.com/ai/singapores-foreign-minister-builds-an-ai-second-brain-using-nanoclaw-says-it-can-answer-every-question-for-a-diplomat/ Comments URL: https://news.ycombinator.com/item?id=47908737 Points: 1 # Comments: 0",
+    "author": "doppp",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://officechai.com/ai/singapores-foreign-minister-builds-an-ai-second-brain-using-nanoclaw-says-it-can-answer-every-question-for-a-diplomat/",
+    "id": "news-929"
+  },
+  {
+    "title": "Thinking Outside the Box: New Attack Surfaces in Sandboxed AI Agents",
+    "summary": "Article URL: https://www.lasso.security/blog/sandboxed-ai-agents-attack-surface Comments URL: https://news.ycombinator.com/item?id=47908789 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.lasso.security/blog/sandboxed-ai-agents-attack-surface Comments URL: https://news.ycombinator.com/item?id=47908789 Points: 1 # Comments: 0",
+    "author": "irememberu",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lasso.security/blog/sandboxed-ai-agents-attack-surface",
+    "id": "news-928"
+  },
+  {
+    "title": "Could creativy in LLM emerge by reframing language?",
+    "summary": "Today an LLM prompted to be novel and creative solved one Erdos Problem, one hnuser, energy123: Reading the prompt[1], one wonders if stoking the model to be unconventional is part of the success: \"th",
+    "content": "Today an LLM prompted to be novel and creative solved one Erdos Problem, one hnuser, energy123: Reading the prompt[1], one wonders if stoking the model to be unconventional is part of the success: \"this ... may require non-trivial, creative and novel elements\". That connect what the ideas I have been exploring lately, design a way so that the LLM can work on a problem in a new way. My initial idea was a folder language, a problem like, increasing cost of living or house affordability is converte",
+    "author": "nopelican",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47908871",
+    "id": "news-927"
+  },
+  {
+    "title": "Show HN: Axle – a11y/WCAG CI that proposes real source-code fixes via Claude",
+    "summary": "Article URL: https://axle-iota.vercel.app Comments URL: https://news.ycombinator.com/item?id=47909040 Points: 1 # Comments: 1",
+    "content": "Article URL: https://axle-iota.vercel.app Comments URL: https://news.ycombinator.com/item?id=47909040 Points: 1 # Comments: 1",
+    "author": "swapvideo",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://axle-iota.vercel.app",
+    "id": "news-926"
+  },
+  {
     "title": "AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue",
     "summary": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volv",
     "content": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark. The article AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue appeared first on The Decoder.",
