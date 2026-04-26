@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI shipped privacy-filter, a 1.5B PII tagger you can run locally",
+    "summary": "Article URL: https://redactdesk.app/blog/openai-privacy-filter Comments URL: https://news.ycombinator.com/item?id=47906239 Points: 3 # Comments: 0",
+    "content": "Article URL: https://redactdesk.app/blog/openai-privacy-filter Comments URL: https://news.ycombinator.com/item?id=47906239 Points: 3 # Comments: 0",
+    "author": "kamban",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://redactdesk.app/blog/openai-privacy-filter",
+    "id": "news-918"
+  },
+  {
+    "title": "Zephyr Agent: Add AI chat to any website",
+    "summary": "Article URL: https://zephyr-agent.sh/ Comments URL: https://news.ycombinator.com/item?id=47906308 Points: 2 # Comments: 0",
+    "content": "Article URL: https://zephyr-agent.sh/ Comments URL: https://news.ycombinator.com/item?id=47906308 Points: 2 # Comments: 0",
+    "author": "daltonlcarr",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zephyr-agent.sh/",
+    "id": "news-917"
+  },
+  {
+    "title": "Multiple AI Models in One Platform",
+    "summary": "Article URL: https://www.chatcomparison.ai/ Comments URL: https://news.ycombinator.com/item?id=47906310 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.chatcomparison.ai/ Comments URL: https://news.ycombinator.com/item?id=47906310 Points: 1 # Comments: 0",
+    "author": "chatcomparison",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.chatcomparison.ai/",
+    "id": "news-916"
+  },
+  {
+    "title": "Aruana – Detects scams and blocks PII before it reaches AI chatbots (100% local)",
+    "summary": "Article URL: https://aruana.maiaware.com/ Comments URL: https://news.ycombinator.com/item?id=47906422 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aruana.maiaware.com/ Comments URL: https://news.ycombinator.com/item?id=47906422 Points: 1 # Comments: 0",
+    "author": "rolsite",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aruana.maiaware.com/",
+    "id": "news-915"
+  },
+  {
+    "title": "Can Frontier AI Labs make money?",
+    "summary": "Article URL: https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html Comments URL: https://news.ycombinator.com/item?id=47906583 Points: 1 # Comments: 0",
+    "content": "Article URL: https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html Comments URL: https://news.ycombinator.com/item?id=47906583 Points: 1 # Comments: 0",
+    "author": "janos95",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html",
+    "id": "news-914"
+  },
+  {
     "title": "Memory in the Age of AI Agents",
     "summary": "Article URL: https://arxiv.org/abs/2512.13564 Comments URL: https://news.ycombinator.com/item?id=47904562 Points: 2 # Comments: 1",
     "content": "Article URL: https://arxiv.org/abs/2512.13564 Comments URL: https://news.ycombinator.com/item?id=47904562 Points: 2 # Comments: 1",
