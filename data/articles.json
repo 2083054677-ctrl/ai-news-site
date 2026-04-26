@@ -1,5 +1,96 @@
 [
   {
+    "title": "AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue",
+    "summary": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volv",
+    "content": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark. The article AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/",
+    "id": "news-925"
+  },
+  {
+    "title": "Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant",
+    "summary": "A survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across ChatGPT, Gemini, and the rest. The article Survey finds Claude's weekly active",
+    "content": "A survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across ChatGPT, Gemini, and the rest. The article Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/",
+    "id": "news-924"
+  },
+  {
+    "title": "Blueprint: AI Hardware Design",
+    "summary": "Article URL: https://www.blueprint.am/ Comments URL: https://news.ycombinator.com/item?id=47907988 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.blueprint.am/ Comments URL: https://news.ycombinator.com/item?id=47907988 Points: 1 # Comments: 0",
+    "author": "handfuloflight",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.blueprint.am/",
+    "id": "news-923"
+  },
+  {
+    "title": "Airprompt – SSH into your Mac from your phone for AI agent prompts",
+    "summary": "Article URL: https://www.npmjs.com/package/airprompt Comments URL: https://news.ycombinator.com/item?id=47908040 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.npmjs.com/package/airprompt Comments URL: https://news.ycombinator.com/item?id=47908040 Points: 2 # Comments: 1",
+    "author": "hatefrad",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npmjs.com/package/airprompt",
+    "id": "news-922"
+  },
+  {
+    "title": "Eden AI – European Alternative to OpenRouter",
+    "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 1 # Comments: 1",
+    "author": "muzzy19",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.edenai.co",
+    "id": "news-921"
+  },
+  {
+    "title": "Claude Is Guilt-Ridden About the War, but Not Enough to Tell the Truth",
+    "summary": "Article URL: https://newrepublic.com/article/209404/claude-ai-iran-war-guilt-truth Comments URL: https://news.ycombinator.com/item?id=47908594 Points: 1 # Comments: 0",
+    "content": "Article URL: https://newrepublic.com/article/209404/claude-ai-iran-war-guilt-truth Comments URL: https://news.ycombinator.com/item?id=47908594 Points: 1 # Comments: 0",
+    "author": "Bluestein",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newrepublic.com/article/209404/claude-ai-iran-war-guilt-truth",
+    "id": "news-920"
+  },
+  {
+    "title": "Will AI Drive Wages Down or Up? [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=DBvrwWoyYQM Comments URL: https://news.ycombinator.com/item?id=47908597 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=DBvrwWoyYQM Comments URL: https://news.ycombinator.com/item?id=47908597 Points: 1 # Comments: 0",
+    "author": "chewz",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=DBvrwWoyYQM",
+    "id": "news-919"
+  },
+  {
     "title": "OpenAI shipped privacy-filter, a 1.5B PII tagger you can run locally",
     "summary": "Article URL: https://redactdesk.app/blog/openai-privacy-filter Comments URL: https://news.ycombinator.com/item?id=47906239 Points: 3 # Comments: 0",
     "content": "Article URL: https://redactdesk.app/blog/openai-privacy-filter Comments URL: https://news.ycombinator.com/item?id=47906239 Points: 3 # Comments: 0",
