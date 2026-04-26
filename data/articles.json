@@ -1,5 +1,70 @@
 [
   {
+    "title": "8v: One CLI for you and your AI agent. Up to 66% fewer tokens",
+    "summary": "Article URL: https://github.com/8Network/8v Comments URL: https://news.ycombinator.com/item?id=47914963 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/8Network/8v Comments URL: https://news.ycombinator.com/item?id=47914963 Points: 3 # Comments: 0",
+    "author": "soheeilalizadeh",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/8Network/8v",
+    "id": "news-958"
+  },
+  {
+    "title": "Squish – a local memory runtime for AI agents",
+    "summary": "Article URL: https://squishplugin.dev/ Comments URL: https://news.ycombinator.com/item?id=47915017 Points: 3 # Comments: 0",
+    "content": "Article URL: https://squishplugin.dev/ Comments URL: https://news.ycombinator.com/item?id=47915017 Points: 3 # Comments: 0",
+    "author": "michieldoteth",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://squishplugin.dev/",
+    "id": "news-957"
+  },
+  {
+    "title": "UK departments at odds over energy demands of AI datacentres",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres Comments URL: https://news.ycombinator.com/item?id=47915061 Points: 4 # Com",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres Comments URL: https://news.ycombinator.com/item?id=47915061 Points: 4 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
+    "id": "news-956"
+  },
+  {
+    "title": "Elon Musk's xAI discussed partnership with Mistral to try and rival OpenAI",
+    "summary": "Article URL: https://www.euronews.com/next/2026/04/24/elon-musks-xai-discussed-partnership-with-mistral-to-try-and-rival-openai-and-anthropic-re Comments URL: https://news.ycombinator.com/item?id=4791",
+    "content": "Article URL: https://www.euronews.com/next/2026/04/24/elon-musks-xai-discussed-partnership-with-mistral-to-try-and-rival-openai-and-anthropic-re Comments URL: https://news.ycombinator.com/item?id=47915134 Points: 3 # Comments: 0",
+    "author": "muxamilian",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.euronews.com/next/2026/04/24/elon-musks-xai-discussed-partnership-with-mistral-to-try-and-rival-openai-and-anthropic-re",
+    "id": "news-955"
+  },
+  {
+    "title": "CIOs struggle to find clarity in their organizations' AI strategies",
+    "summary": "Article URL: https://www.cio.com/article/4162949/cios-struggle-to-find-clarity-in-their-organizations-ai-strategies.html Comments URL: https://news.ycombinator.com/item?id=47915267 Points: 2 # Comment",
+    "content": "Article URL: https://www.cio.com/article/4162949/cios-struggle-to-find-clarity-in-their-organizations-ai-strategies.html Comments URL: https://news.ycombinator.com/item?id=47915267 Points: 2 # Comments: 0",
+    "author": "WaitWaitWha",
+    "date": "2026-04-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cio.com/article/4162949/cios-struggle-to-find-clarity-in-their-organizations-ai-strategies.html",
+    "id": "news-954"
+  },
+  {
     "title": "Ask HN: How do you use AI at your regulated, restrictive company?",
     "summary": "I work in finance, and the company policy is that mainstream LLMs are allowed when using public information but anything private / sensitive has to be done via M$ copilot, which I find crap for anythi",
     "content": "I work in finance, and the company policy is that mainstream LLMs are allowed when using public information but anything private / sensitive has to be done via M$ copilot, which I find crap for anything other than searching company documents. The result of that is that my usage of AI is massively limited.I expect my only option is to effectively go to Mordor to get a Claude or a ChatGPT approved by risk and compliance - a daunting task - unless I’m missing something with copilot.For those in sim",
