@@ -1,5 +1,96 @@
 [
   {
+    "title": "China blocks Meta's $2 billion acquisition of AI startup Manus",
+    "summary": "Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China. The article China blocks Meta's $2 billion acquisiti",
+    "content": "Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China. The article China blocks Meta's $2 billion acquisition of AI startup Manus appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/",
+    "id": "news-982"
+  },
+  {
+    "title": "Meta wants to power AI data centers with solar energy from space",
+    "summary": "Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet. The article Meta wants to power AI data centers w",
+    "content": "Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet. The article Meta wants to power AI data centers with solar energy from space appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/",
+    "id": "news-981"
+  },
+  {
+    "title": "AI Chatbots: Last Week Tonight with John Oliver [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Ykvf3MunGf8 Comments URL: https://news.ycombinator.com/item?id=47921094 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=Ykvf3MunGf8 Comments URL: https://news.ycombinator.com/item?id=47921094 Points: 2 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=Ykvf3MunGf8",
+    "id": "news-980"
+  },
+  {
+    "title": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police",
+    "summary": "Article URL: https://www.wsj.com/us-news/law/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-to-police-afa53d1d Comments URL: https://news.ycombinator.com/item?id=47921133 Points: 1 # Com",
+    "content": "Article URL: https://www.wsj.com/us-news/law/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-to-police-afa53d1d Comments URL: https://news.ycombinator.com/item?id=47921133 Points: 1 # Comments: 1",
+    "author": "fortran77",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/us-news/law/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-to-police-afa53d1d",
+    "id": "news-979"
+  },
+  {
+    "title": "Show HN: DAG-chat – DAG-based AI chat app with branch and merge",
+    "summary": "Article URL: https://github.com/ZM-BAD/DAG-chat Comments URL: https://news.ycombinator.com/item?id=47921162 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ZM-BAD/DAG-chat Comments URL: https://news.ycombinator.com/item?id=47921162 Points: 1 # Comments: 0",
+    "author": "zm_bad",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ZM-BAD/DAG-chat",
+    "id": "news-978"
+  },
+  {
+    "title": "The next phase of the Microsoft-OpenAI partnership",
+    "summary": "Article URL: https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/ Comments URL: https://news.ycombinator.com/item?id=47921184 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/ Comments URL: https://news.ycombinator.com/item?id=47921184 Points: 2 # Comments: 0",
+    "author": "mfiguiere",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+    "id": "news-977"
+  },
+  {
+    "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai Comments URL: https://news.ycombinator.com/item?id=47921248 Points: 1 # Co",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai Comments URL: https://news.ycombinator.com/item?id=47921248 Points: 1 # Comments: 1",
+    "author": "helsinkiandrew",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "id": "news-976"
+  },
+  {
     "title": "OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm",
     "summary": "According to analyst Ming-Chi Kuo, OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing. The article",
     "content": "According to analyst Ming-Chi Kuo, OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing. The article OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm appeared first on The Decoder.",
