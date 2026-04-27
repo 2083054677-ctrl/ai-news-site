@@ -1,5 +1,70 @@
 [
   {
+    "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+    "summary": "Article URL: https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are Comments URL: https://news.ycombinator.com/item?id=47916519 Points: 7 # Comments: 0",
+    "content": "Article URL: https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are Comments URL: https://news.ycombinator.com/item?id=47916519 Points: 7 # Comments: 0",
+    "author": "Teever",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+    "id": "news-963"
+  },
+  {
+    "title": "Aether – A GCP-Native Framework to Terminate LLM Agent Drift",
+    "summary": "Article URL: https://github.com/poinsettiaclg-gif/AETHER-core Comments URL: https://news.ycombinator.com/item?id=47916656 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/poinsettiaclg-gif/AETHER-core Comments URL: https://news.ycombinator.com/item?id=47916656 Points: 1 # Comments: 1",
+    "author": "Painsettia",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/poinsettiaclg-gif/AETHER-core",
+    "id": "news-962"
+  },
+  {
+    "title": "SpaceX warns probes into abusive AI imagery could cause headaches for IPO",
+    "summary": "Article URL: https://nypost.com/2026/04/24/business/elon-musks-spacex-warns-probes-into-sexually-abusive-ai-imagery-could-hurt-ahead-of-ipo/ Comments URL: https://news.ycombinator.com/item?id=47916744",
+    "content": "Article URL: https://nypost.com/2026/04/24/business/elon-musks-spacex-warns-probes-into-sexually-abusive-ai-imagery-could-hurt-ahead-of-ipo/ Comments URL: https://news.ycombinator.com/item?id=47916744 Points: 2 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nypost.com/2026/04/24/business/elon-musks-spacex-warns-probes-into-sexually-abusive-ai-imagery-could-hurt-ahead-of-ipo/",
+    "id": "news-961"
+  },
+  {
+    "title": "Language Anchoring: A Systematic Method for LLM Multilingual Adaptation",
+    "summary": "Article URL: https://github.com/fkyah3/opencode-fkyah3 Comments URL: https://news.ycombinator.com/item?id=47916857 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/fkyah3/opencode-fkyah3 Comments URL: https://news.ycombinator.com/item?id=47916857 Points: 1 # Comments: 0",
+    "author": "fkyah3",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fkyah3/opencode-fkyah3",
+    "id": "news-960"
+  },
+  {
+    "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+    "summary": "Article URL: https://github.com/evanklem/evanflow Comments URL: https://news.ycombinator.com/item?id=47916909 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/evanklem/evanflow Comments URL: https://news.ycombinator.com/item?id=47916909 Points: 1 # Comments: 0",
+    "author": "evanklem2004",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/evanklem/evanflow",
+    "id": "news-959"
+  },
+  {
     "title": "8v: One CLI for you and your AI agent. Up to 66% fewer tokens",
     "summary": "Article URL: https://github.com/8Network/8v Comments URL: https://news.ycombinator.com/item?id=47914963 Points: 3 # Comments: 0",
     "content": "Article URL: https://github.com/8Network/8v Comments URL: https://news.ycombinator.com/item?id=47914963 Points: 3 # Comments: 0",
