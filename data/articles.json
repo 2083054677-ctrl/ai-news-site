@@ -1,5 +1,70 @@
 [
   {
+    "title": "Clio MCP Open-source Claude connector for law firms",
+    "summary": "Article URL: https://github.com/oktopeak/clio-mcp Comments URL: https://news.ycombinator.com/item?id=47926395 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/oktopeak/clio-mcp Comments URL: https://news.ycombinator.com/item?id=47926395 Points: 1 # Comments: 0",
+    "author": "piterjov",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/oktopeak/clio-mcp",
+    "id": "news-1000"
+  },
+  {
+    "title": "Show HN: Lightport – AI gateway that makes LLM providers OpenAI-compatible",
+    "summary": "I am making Lightport open-source – the AI gateway that's been powering Glama.GitHub: https://github.com/glama-ai/lightportLive: https://glama.ai/ai/gatewayWhy?We're going all-in on the MCP ecosystem ",
+    "content": "I am making Lightport open-source – the AI gateway that's been powering Glama.GitHub: https://github.com/glama-ai/lightportLive: https://glama.ai/ai/gatewayWhy?We're going all-in on the MCP ecosystem – it's what we're best at. Open-sourcing the gateway is both a thank-you to the community that helped us grow and a way to keep us focused.The short backstory:Lightport began as a fork of Portkey. We needed a way to make various LLM providers OpenAI-compatible, and Portkey provided a solid foundatio",
+    "author": "smokybay",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/glama-ai/lightport",
+    "id": "news-999"
+  },
+  {
+    "title": "Oracle Corporation Emerges as AI Shot-Caller",
+    "summary": "Article URL: http://tommyatomsjr.blogspot.com/2026/04/oracle-corporation-transforms-into-ai.html Comments URL: https://news.ycombinator.com/item?id=47926577 Points: 2 # Comments: 0",
+    "content": "Article URL: http://tommyatomsjr.blogspot.com/2026/04/oracle-corporation-transforms-into-ai.html Comments URL: https://news.ycombinator.com/item?id=47926577 Points: 2 # Comments: 0",
+    "author": "paizono",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://tommyatomsjr.blogspot.com/2026/04/oracle-corporation-transforms-into-ai.html",
+    "id": "news-998"
+  },
+  {
+    "title": "Rick and Morty Tried to Warn Us About Agentic AI",
+    "summary": "Article URL: https://jadarma.github.io/blog/posts/2026/04/rick-and-morty-tried-to-warn-us-about-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=47927021 Points: 1 # Comments: 0",
+    "content": "Article URL: https://jadarma.github.io/blog/posts/2026/04/rick-and-morty-tried-to-warn-us-about-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=47927021 Points: 1 # Comments: 0",
+    "author": "tymscar",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jadarma.github.io/blog/posts/2026/04/rick-and-morty-tried-to-warn-us-about-agentic-ai/",
+    "id": "news-997"
+  },
+  {
+    "title": "Version Sentinel – Claude Code plugin that blocks outdated dependency installs",
+    "summary": "Article URL: https://github.com/KSEGIT/Version-Sentinel Comments URL: https://news.ycombinator.com/item?id=47927105 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/KSEGIT/Version-Sentinel Comments URL: https://news.ycombinator.com/item?id=47927105 Points: 1 # Comments: 0",
+    "author": "dupadupa234",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/KSEGIT/Version-Sentinel",
+    "id": "news-996"
+  },
+  {
     "title": "Why I'm Adding an AI Disclosure to My Site",
     "summary": "Article URL: https://www.plagiarismtoday.com/2026/04/13/why-im-adding-an-ai-disclosure-to-my-site/ Comments URL: https://news.ycombinator.com/item?id=47925708 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.plagiarismtoday.com/2026/04/13/why-im-adding-an-ai-disclosure-to-my-site/ Comments URL: https://news.ycombinator.com/item?id=47925708 Points: 2 # Comments: 0",
