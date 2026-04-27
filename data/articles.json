@@ -1,5 +1,70 @@
 [
   {
+    "title": "Why I'm Adding an AI Disclosure to My Site",
+    "summary": "Article URL: https://www.plagiarismtoday.com/2026/04/13/why-im-adding-an-ai-disclosure-to-my-site/ Comments URL: https://news.ycombinator.com/item?id=47925708 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.plagiarismtoday.com/2026/04/13/why-im-adding-an-ai-disclosure-to-my-site/ Comments URL: https://news.ycombinator.com/item?id=47925708 Points: 2 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.plagiarismtoday.com/2026/04/13/why-im-adding-an-ai-disclosure-to-my-site/",
+    "id": "news-995"
+  },
+  {
+    "title": "Claude prompt-cache writes may not be immediately visible to the next request",
+    "summary": "Article URL: https://github.com/anthropics/anthropic-sdk-python/issues/1451 Comments URL: https://news.ycombinator.com/item?id=47925747 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/anthropics/anthropic-sdk-python/issues/1451 Comments URL: https://news.ycombinator.com/item?id=47925747 Points: 1 # Comments: 0",
+    "author": "myyke",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/anthropic-sdk-python/issues/1451",
+    "id": "news-994"
+  },
+  {
+    "title": "Tera – A Compiler‑Native UI Framework with Shared Runtime/AI Context",
+    "summary": "Article URL: https://github.com/terajs/terajs Comments URL: https://news.ycombinator.com/item?id=47925751 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/terajs/terajs Comments URL: https://news.ycombinator.com/item?id=47925751 Points: 1 # Comments: 0",
+    "author": "thecodergabe",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/terajs/terajs",
+    "id": "news-993"
+  },
+  {
+    "title": "OpenAI's Revolutionary AI Gadget Is a Phone?",
+    "summary": "Article URL: https://gizmodo.com/openai-revolutionary-ai-gadget-is-a-phone-a-stinkin-phone-2000751129 Comments URL: https://news.ycombinator.com/item?id=47925825 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gizmodo.com/openai-revolutionary-ai-gadget-is-a-phone-a-stinkin-phone-2000751129 Comments URL: https://news.ycombinator.com/item?id=47925825 Points: 1 # Comments: 0",
+    "author": "dlx",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gizmodo.com/openai-revolutionary-ai-gadget-is-a-phone-a-stinkin-phone-2000751129",
+    "id": "news-992"
+  },
+  {
+    "title": "Show HN: Open-source control layer for AI safely access production",
+    "summary": "Article URL: https://github.com/hoophq/hoop Comments URL: https://news.ycombinator.com/item?id=47925837 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/hoophq/hoop Comments URL: https://news.ycombinator.com/item?id=47925837 Points: 1 # Comments: 0",
+    "author": "luisfdias",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hoophq/hoop",
+    "id": "news-991"
+  },
+  {
     "title": "How to build scalable web apps with OpenAI's Privacy Filter",
     "summary": "How to build scalable web apps with OpenAI's Privacy Filter",
     "content": "",
