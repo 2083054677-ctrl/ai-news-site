@@ -1,5 +1,70 @@
 [
   {
+    "title": "Everything that went wrong with Claude",
+    "summary": "Article URL: https://clawd.rip/ Comments URL: https://news.ycombinator.com/item?id=47918095 Points: 2 # Comments: 0",
+    "content": "Article URL: https://clawd.rip/ Comments URL: https://news.ycombinator.com/item?id=47918095 Points: 2 # Comments: 0",
+    "author": "aratahikaru5",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://clawd.rip/",
+    "id": "news-968"
+  },
+  {
+    "title": "Google's best practices document for designing AI products",
+    "summary": "Article URL: https://pair.withgoogle.com/guidebook/ Comments URL: https://news.ycombinator.com/item?id=47918166 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pair.withgoogle.com/guidebook/ Comments URL: https://news.ycombinator.com/item?id=47918166 Points: 1 # Comments: 0",
+    "author": "dotancohen",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pair.withgoogle.com/guidebook/",
+    "id": "news-967"
+  },
+  {
+    "title": "MemPalace – Local-first AI memory",
+    "summary": "Article URL: https://github.com/mempalace/mempalace Comments URL: https://news.ycombinator.com/item?id=47918225 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/mempalace/mempalace Comments URL: https://news.ycombinator.com/item?id=47918225 Points: 1 # Comments: 0",
+    "author": "danboarder",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mempalace/mempalace",
+    "id": "news-966"
+  },
+  {
+    "title": "The cost math behind routing Claude Code through Ollama (~90% cut)",
+    "summary": "Article URL: https://github.com/Coherence-Daddy/use-ollama-to-enhance-claude Comments URL: https://news.ycombinator.com/item?id=47918239 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/Coherence-Daddy/use-ollama-to-enhance-claude Comments URL: https://news.ycombinator.com/item?id=47918239 Points: 2 # Comments: 0",
+    "author": "CoherenceDaddy",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Coherence-Daddy/use-ollama-to-enhance-claude",
+    "id": "news-965"
+  },
+  {
+    "title": "Study the 50 leaked LLM Interview Questions with my lil learning App",
+    "summary": "Article URL: https://boguslavskyy.com/projects/llm-interview-learning-app/ Comments URL: https://news.ycombinator.com/item?id=47918270 Points: 1 # Comments: 1",
+    "content": "Article URL: https://boguslavskyy.com/projects/llm-interview-learning-app/ Comments URL: https://news.ycombinator.com/item?id=47918270 Points: 1 # Comments: 1",
+    "author": "indoor47",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://boguslavskyy.com/projects/llm-interview-learning-app/",
+    "id": "news-964"
+  },
+  {
     "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
     "summary": "Article URL: https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are Comments URL: https://news.ycombinator.com/item?id=47916519 Points: 7 # Comments: 0",
     "content": "Article URL: https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are Comments URL: https://news.ycombinator.com/item?id=47916519 Points: 7 # Comments: 0",
