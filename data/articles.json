@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm",
+    "summary": "According to analyst Ming-Chi Kuo, OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing. The article",
+    "content": "According to analyst Ming-Chi Kuo, OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing. The article OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-reportedly-developing-its-own-smartphone-chips-with-mediatek-and-qualcomm/",
+    "id": "news-975"
+  },
+  {
+    "title": "The company with a monopoly on AI's most critical machine is racing to build more",
+    "summary": "ASML plans to significantly increase production of its EUV lithography machines to keep pace with growing demand for AI chips, the Wall Street Journal reports. The article The company with a monopoly ",
+    "content": "ASML plans to significantly increase production of its EUV lithography machines to keep pace with growing demand for AI chips, the Wall Street Journal reports. The article The company with a monopoly on AI's most critical machine is racing to build more appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-company-with-a-monopoly-on-ais-most-critical-machine-is-racing-to-build-more/",
+    "id": "news-974"
+  },
+  {
+    "title": "Show HN: Agent Context – let your AI coding tools see your reference projects",
+    "summary": "I built a small VS Code extension to solve a problem I kept running into.When I’m working on something new, I usually have good reference code somewhere else:- an old service - a starter project - a p",
+    "content": "I built a small VS Code extension to solve a problem I kept running into.When I’m working on something new, I usually have good reference code somewhere else:- an old service - a starter project - a pattern I’ve used beforeThe problem is that against can't see any of that unless I copy it into the repo.So I built Agent Context.It lets you attach external folders into your current workspace (via symlinks), so:- you can browse them alongside your current project - and your AI tools can use them as",
+    "author": "gamerdrome",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/gmarland/Agent-Context",
+    "id": "news-973"
+  },
+  {
+    "title": "Shellora: SSH terminal, AI help, and server tools",
+    "summary": "Article URL: https://holding.vc/shellora/ Comments URL: https://news.ycombinator.com/item?id=47919578 Points: 1 # Comments: 0",
+    "content": "Article URL: https://holding.vc/shellora/ Comments URL: https://news.ycombinator.com/item?id=47919578 Points: 1 # Comments: 0",
+    "author": "yaseral",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://holding.vc/shellora/",
+    "id": "news-972"
+  },
+  {
+    "title": "Show HN: Implit – A CLI that catches AI-hallucinated NPM packages",
+    "summary": "Article URL: https://github.com/Neurall-build/implit Comments URL: https://news.ycombinator.com/item?id=47919585 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Neurall-build/implit Comments URL: https://news.ycombinator.com/item?id=47919585 Points: 1 # Comments: 0",
+    "author": "neurall-build",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Neurall-build/implit",
+    "id": "news-971"
+  },
+  {
+    "title": "Ask HN: Can you tell the difference between Claude Sonnet and Opus?",
+    "summary": "HelloI have been using Claude code for the past 6 months. In that time, multiple revisions of each model have come out. I have seen some improvement, especially in regards to sycophancy, with recent i",
+    "content": "HelloI have been using Claude code for the past 6 months. In that time, multiple revisions of each model have come out. I have seen some improvement, especially in regards to sycophancy, with recent iterations.However, I can't differentiate the outputs of either. To me, sonnet seems just as capable as opus.Have any of y'all run real life tests? Mine seem to be too random to say either way. Comments URL: https://news.ycombinator.com/item?id=47919623 Points: 1 # Comments: 1",
+    "author": "muddi900",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47919623",
+    "id": "news-970"
+  },
+  {
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 1 # Comments: 0",
+    "content": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 1 # Comments: 0",
+    "author": "Oravys",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://app.oravys.com/blog/mercor-breach-2026",
+    "id": "news-969"
+  },
+  {
     "title": "Everything that went wrong with Claude",
     "summary": "Article URL: https://clawd.rip/ Comments URL: https://news.ycombinator.com/item?id=47918095 Points: 2 # Comments: 0",
     "content": "Article URL: https://clawd.rip/ Comments URL: https://news.ycombinator.com/item?id=47918095 Points: 2 # Comments: 0",
