@@ -1,5 +1,110 @@
 [
   {
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "summary": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "id": "news-990"
+  },
+  {
+    "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
+    "summary": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves. The article Sam Altman outlines",
+    "content": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves. The article Sam Altman outlines five principles that double as justification for OpenAI's business decisions appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/",
+    "id": "news-989"
+  },
+  {
+    "title": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
+    "summary": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone. The article OpenAI and Mic",
+    "content": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone. The article OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
+    "id": "news-988"
+  },
+  {
+    "title": "OpenAI has updated partnership with Microsoft, services will be cross cloud",
+    "summary": "Article URL: https://twitter.com/sama/status/2048755148361707946 Comments URL: https://news.ycombinator.com/item?id=47922685 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/sama/status/2048755148361707946 Comments URL: https://news.ycombinator.com/item?id=47922685 Points: 2 # Comments: 0",
+    "author": "ritzaco",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/sama/status/2048755148361707946",
+    "id": "news-987"
+  },
+  {
+    "title": "Is it easy to build advanced AI features on SSE?",
+    "summary": "Article URL: https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/ Comments URL: https://news.ycombinator.com/item?id=47922823 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/ Comments URL: https://news.ycombinator.com/item?id=47922823 Points: 1 # Comments: 0",
+    "author": "zknill",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+    "id": "news-986"
+  },
+  {
+    "title": "GPT 5.5 vs. Opus 4.7: Benchmarks Say One Thing, Reality Says Another",
+    "summary": "Article URL: https://internetdecode.com/gpt-5-5-vs-opus-4-7-performance-comparison/ Comments URL: https://news.ycombinator.com/item?id=47922945 Points: 1 # Comments: 0",
+    "content": "Article URL: https://internetdecode.com/gpt-5-5-vs-opus-4-7-performance-comparison/ Comments URL: https://news.ycombinator.com/item?id=47922945 Points: 1 # Comments: 0",
+    "author": "Utubepublisher",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://internetdecode.com/gpt-5-5-vs-opus-4-7-performance-comparison/",
+    "id": "news-985"
+  },
+  {
+    "title": "What Leopold's $5.5B portfolio reveals about powering the AI boom",
+    "summary": "Article URL: https://theloadgrowth.substack.com/p/what-leopolds-55b-portfolio-reveals Comments URL: https://news.ycombinator.com/item?id=47922961 Points: 3 # Comments: 1",
+    "content": "Article URL: https://theloadgrowth.substack.com/p/what-leopolds-55b-portfolio-reveals Comments URL: https://news.ycombinator.com/item?id=47922961 Points: 3 # Comments: 1",
+    "author": "agordhandas",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theloadgrowth.substack.com/p/what-leopolds-55b-portfolio-reveals",
+    "id": "news-984"
+  },
+  {
+    "title": "How we use Claude Code to modernize a .NET Framework 4.8 monolith",
+    "summary": "Article URL: https://tech.shipstation.com/posts/2026-03-26-ai-modernization/ Comments URL: https://news.ycombinator.com/item?id=47922983 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tech.shipstation.com/posts/2026-03-26-ai-modernization/ Comments URL: https://news.ycombinator.com/item?id=47922983 Points: 1 # Comments: 0",
+    "author": "semarj-auctane",
+    "date": "2026-04-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tech.shipstation.com/posts/2026-03-26-ai-modernization/",
+    "id": "news-983"
+  },
+  {
     "title": "China blocks Meta's $2 billion acquisition of AI startup Manus",
     "summary": "Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China. The article China blocks Meta's $2 billion acquisiti",
     "content": "Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China. The article China blocks Meta's $2 billion acquisition of AI startup Manus appeared first on The Decoder.",
