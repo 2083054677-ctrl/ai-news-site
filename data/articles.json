@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: A narrative walk through AI history, paper by paper (1936–2025)",
+    "summary": "Article URL: https://github.com/hgus107/A-Long-Walk-of-AI Comments URL: https://news.ycombinator.com/item?id=47930743 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/hgus107/A-Long-Walk-of-AI Comments URL: https://news.ycombinator.com/item?id=47930743 Points: 1 # Comments: 0",
+    "author": "hgus107",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hgus107/A-Long-Walk-of-AI",
+    "id": "news-1016"
+  },
+  {
+    "title": "Porting a Scratch-Built 500M LLM Training Pipeline to ROCm on Strix Halo",
+    "summary": "Article URL: https://github.com/epscylonb/1386.ai.rocm Comments URL: https://news.ycombinator.com/item?id=47930757 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/epscylonb/1386.ai.rocm Comments URL: https://news.ycombinator.com/item?id=47930757 Points: 1 # Comments: 0",
+    "author": "thomasfromcdnjs",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/epscylonb/1386.ai.rocm",
+    "id": "news-1015"
+  },
+  {
+    "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption",
+    "summary": "Article URL: https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption Comments URL: https://news.ycombinator.com/item?id=47930791 Points:",
+    "content": "Article URL: https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption Comments URL: https://news.ycombinator.com/item?id=47930791 Points: 1 # Comments: 0",
+    "author": "razorbeamz",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
+    "id": "news-1014"
+  },
+  {
+    "title": "Show HN: Gate – AI workers handle dev tickets in a visual workspace",
+    "summary": "Article URL: https://soliddark.net/gate Comments URL: https://news.ycombinator.com/item?id=47930996 Points: 1 # Comments: 0",
+    "content": "Article URL: https://soliddark.net/gate Comments URL: https://news.ycombinator.com/item?id=47930996 Points: 1 # Comments: 0",
+    "author": "SolidDark",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://soliddark.net/gate",
+    "id": "news-1013"
+  },
+  {
+    "title": "Show HN: Modern alternative to Google Dictionary, AI-powered and context-aware",
+    "summary": "I kept losing my reading flow every time I hit an unfamiliar word. The usual fix: open a new tab, search, scroll past ads, come back. Costs about 30 seconds of focus each time. Multiply that by 10 loo",
+    "content": "I kept losing my reading flow every time I hit an unfamiliar word. The usual fix: open a new tab, search, scroll past ads, come back. Costs about 30 seconds of focus each time. Multiply that by 10 lookups in one article and it adds up fast.Google Dictionary extension solved the tab-switching problem but never went further than static definitions. I wanted something smarter.So I built QuickDef, a Chrome extension that sends the surrounding sentence to GPT-4o-mini alongside the word, so the defini",
+    "author": "hanifrev",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chromewebstore.google.com/detail/quickdef-â-ai-dictionary/ioepkncpchchdiookgpkckafhfjcehke",
+    "id": "news-1012"
+  },
+  {
     "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
     "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
     "content": "",
