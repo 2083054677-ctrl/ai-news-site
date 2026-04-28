@@ -1,5 +1,149 @@
 [
   {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "summary": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "id": "news-1034"
+  },
+  {
+    "title": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
+    "summary": "Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safe",
+    "content": "Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding. The article Google signs AI deal with the Pentagon, ignoring protest from over 600 employees appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
+    "id": "news-1033"
+  },
+  {
+    "title": "Google's \"Ask YouTube\" turns video search into a conversation",
+    "summary": "Google is testing \"Ask YouTube,\" a conversational search feature that replaces the standard video list with a results page combining text, full-length videos, and Shorts. The article Google's \"Ask You",
+    "content": "Google is testing \"Ask YouTube,\" a conversational search feature that replaces the standard video list with a results page combining text, full-length videos, and Shorts. The article Google's \"Ask YouTube\" turns video search into a conversation appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/",
+    "id": "news-1032"
+  },
+  {
+    "title": "Researchers find AI text is making the internet more uniform and weirdly cheerful",
+    "summary": "A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturates the web. According to the researchers, though, the actual effects look quite different from w",
+    "content": "A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturates the web. According to the researchers, though, the actual effects look quite different from what the public assumes. The article Researchers find AI text is making the internet more uniform and weirdly cheerful appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/",
+    "id": "news-1031"
+  },
+  {
+    "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
+    "summary": "Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal. The article Meta scrambles to unwind Manus deal as Beijing's deadline looms appeared first on The Deco",
+    "content": "Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal. The article Meta scrambles to unwind Manus deal as Beijing's deadline looms appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
+    "id": "news-1030"
+  },
+  {
+    "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
+    "summary": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems. The article Mistral AI takes on enterprise AI orchestration wi",
+    "content": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems. The article Mistral AI takes on enterprise AI orchestration with Workflows appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
+    "id": "news-1029"
+  },
+  {
+    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 10 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 10 # Comments: 0",
+    "author": "granzymes",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "id": "news-1028"
+  },
+  {
+    "title": "Superwhisper now integrates with Claude Code",
+    "summary": "Article URL: https://superwhisper.com/claude-code Comments URL: https://news.ycombinator.com/item?id=47936169 Points: 2 # Comments: 1",
+    "content": "Article URL: https://superwhisper.com/claude-code Comments URL: https://news.ycombinator.com/item?id=47936169 Points: 2 # Comments: 1",
+    "author": "Neeeks",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://superwhisper.com/claude-code",
+    "id": "news-1027"
+  },
+  {
+    "title": "Authsome – open-source local auth proxy for AI agents",
+    "summary": "Article URL: https://github.com/manojbajaj95/authsome Comments URL: https://news.ycombinator.com/item?id=47936190 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/manojbajaj95/authsome Comments URL: https://news.ycombinator.com/item?id=47936190 Points: 1 # Comments: 1",
+    "author": "pkhodiyar",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/manojbajaj95/authsome",
+    "id": "news-1026"
+  },
+  {
+    "title": "Claude Code: The Changelog Nobody Read Is the Most Important One",
+    "summary": "Article URL: https://alirezarezvani.medium.com/claude-code-the-changelog-nobody-read-is-the-most-important-one-be56bddbf6f1 Comments URL: https://news.ycombinator.com/item?id=47936197 Points: 1 # Comm",
+    "content": "Article URL: https://alirezarezvani.medium.com/claude-code-the-changelog-nobody-read-is-the-most-important-one-be56bddbf6f1 Comments URL: https://news.ycombinator.com/item?id=47936197 Points: 1 # Comments: 1",
+    "author": "jungard",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alirezarezvani.medium.com/claude-code-the-changelog-nobody-read-is-the-most-important-one-be56bddbf6f1",
+    "id": "news-1025"
+  },
+  {
+    "title": "Nvidia executive says AI is more expensive than human workers",
+    "summary": "Article URL: https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/ Comments URL: https://news.ycombinator.com/item?id=47936209 Points: 3 # Comments: 1",
+    "content": "Article URL: https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/ Comments URL: https://news.ycombinator.com/item?id=47936209 Points: 3 # Comments: 1",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/",
+    "id": "news-1024"
+  },
+  {
     "title": "GitHub Copilot switches to token-based billing in June 2026",
     "summary": "Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts. The article GitHub Copilot switches to token-based billing in June 2026 appeared first ",
     "content": "Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts. The article GitHub Copilot switches to token-based billing in June 2026 appeared first on The Decoder.",
