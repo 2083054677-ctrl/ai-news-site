@@ -1,5 +1,96 @@
 [
   {
+    "title": "GitHub Copilot switches to token-based billing in June 2026",
+    "summary": "Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts. The article GitHub Copilot switches to token-based billing in June 2026 appeared first ",
+    "content": "Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts. The article GitHub Copilot switches to token-based billing in June 2026 appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/github-copilot-switches-to-token-based-billing-in-june-2026/",
+    "id": "news-1023"
+  },
+  {
+    "title": "OpenAI misses revenue targets as Anthropic and Google close in",
+    "summary": "OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spen",
+    "content": "OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing. The article OpenAI misses revenue targets as Anthropic and Google close in appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/",
+    "id": "news-1022"
+  },
+  {
+    "title": "Show HN: Async multi-person collaboration skill for Claude Code",
+    "summary": "Whilst working with a colleague researching a data model we wanted to build into a website we were struggling sharing the output of our AI sessions, not just the findings but the thought process, the ",
+    "content": "Whilst working with a colleague researching a data model we wanted to build into a website we were struggling sharing the output of our AI sessions, not just the findings but the thought process, the failures as well as success, and any files written.So I built a Claude skill that enables asynchronous collaboration between multiple human / agent pairs.Its write once markdown files in a shared location, git, dropbox, network, that all users can view realtime. User driven summaries can be created ",
+    "author": "siclark",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AI-Collab-Skill/collab-session-skill",
+    "id": "news-1021"
+  },
+  {
+    "title": "AI Makes Sitting with Discomfort Feel Shameful",
+    "summary": "Article URL: https://www.bennadel.com/blog/4890-ai-makes-sitting-with-discomfort-feel-shameful.htm Comments URL: https://news.ycombinator.com/item?id=47932377 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bennadel.com/blog/4890-ai-makes-sitting-with-discomfort-feel-shameful.htm Comments URL: https://news.ycombinator.com/item?id=47932377 Points: 1 # Comments: 0",
+    "author": "alabhyajindal",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bennadel.com/blog/4890-ai-makes-sitting-with-discomfort-feel-shameful.htm",
+    "id": "news-1020"
+  },
+  {
+    "title": "White House pushed out new AI official after just four days on the job",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/04/24/white-house-fires-ai-official-anthropic/ Comments URL: https://news.ycombinator.com/item?id=47932406 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.washingtonpost.com/technology/2026/04/24/white-house-fires-ai-official-anthropic/ Comments URL: https://news.ycombinator.com/item?id=47932406 Points: 1 # Comments: 0",
+    "author": "croes",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/technology/2026/04/24/white-house-fires-ai-official-anthropic/",
+    "id": "news-1019"
+  },
+  {
+    "title": "My AI Skeptic Friends Are All Poor",
+    "summary": "Article URL: https://hashutopia.com/register Comments URL: https://news.ycombinator.com/item?id=47932407 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hashutopia.com/register Comments URL: https://news.ycombinator.com/item?id=47932407 Points: 1 # Comments: 0",
+    "author": "melvincode",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hashutopia.com/register",
+    "id": "news-1018"
+  },
+  {
+    "title": "What Happened to Claude Code",
+    "summary": "Article URL: https://man-labs.com/blog/anthropic-rip-off/ Comments URL: https://news.ycombinator.com/item?id=47932429 Points: 1 # Comments: 1",
+    "content": "Article URL: https://man-labs.com/blog/anthropic-rip-off/ Comments URL: https://news.ycombinator.com/item?id=47932429 Points: 1 # Comments: 1",
+    "author": "e-nouri",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://man-labs.com/blog/anthropic-rip-off/",
+    "id": "news-1017"
+  },
+  {
     "title": "Show HN: A narrative walk through AI history, paper by paper (1936–2025)",
     "summary": "Article URL: https://github.com/hgus107/A-Long-Walk-of-AI Comments URL: https://news.ycombinator.com/item?id=47930743 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/hgus107/A-Long-Walk-of-AI Comments URL: https://news.ycombinator.com/item?id=47930743 Points: 1 # Comments: 0",
