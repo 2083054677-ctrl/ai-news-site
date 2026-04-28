@@ -1,5 +1,57 @@
 [
   {
+    "title": "World's First conversational AI skills assessment",
+    "summary": "Two AIs. One conversation. Measure real AI skills. I like to call it LLMs As Assessment (LLMAA?) One AI talks to you. A second one scores every answer in real time. Comments URL: https://news.ycombina",
+    "content": "Two AIs. One conversation. Measure real AI skills. I like to call it LLMs As Assessment (LLMAA?) One AI talks to you. A second one scores every answer in real time. Comments URL: https://news.ycombinator.com/item?id=47941341 Points: 1 # Comments: 0",
+    "author": "Ozzie-D",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47941341",
+    "id": "news-1039"
+  },
+  {
+    "title": "Musk: \"The reason OpenAI exists is because Larry Page called me a specieist\"",
+    "summary": "Article URL: https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial Comments URL: https://news.ycombinator.com/item?id=47941410 Points: 5 # Comments: 1",
+    "content": "Article URL: https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial Comments URL: https://news.ycombinator.com/item?id=47941410 Points: 5 # Comments: 1",
+    "author": "johnbarron",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial",
+    "id": "news-1038"
+  },
+  {
+    "title": "Building an AI-Native Company",
+    "summary": "Article URL: https://darkport.co.uk/blog/on-building-an-ai-native-company/ Comments URL: https://news.ycombinator.com/item?id=47941445 Points: 3 # Comments: 1",
+    "content": "Article URL: https://darkport.co.uk/blog/on-building-an-ai-native-company/ Comments URL: https://news.ycombinator.com/item?id=47941445 Points: 3 # Comments: 1",
+    "author": "darkport",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://darkport.co.uk/blog/on-building-an-ai-native-company/",
+    "id": "news-1037"
+  },
+  {
+    "title": "Lawyers for Sam Altman's sister quit representing her in lawsuit vs. OpenAI CEO",
+    "summary": "Article URL: https://nypost.com/2026/04/27/business/sam-altmans-sister-loses-lawyers-in-her-sex-abuse-lawsuit-against-openai-ceo/ Comments URL: https://news.ycombinator.com/item?id=47941658 Points: 4 ",
+    "content": "Article URL: https://nypost.com/2026/04/27/business/sam-altmans-sister-loses-lawyers-in-her-sex-abuse-lawsuit-against-openai-ceo/ Comments URL: https://news.ycombinator.com/item?id=47941658 Points: 4 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nypost.com/2026/04/27/business/sam-altmans-sister-loses-lawyers-in-her-sex-abuse-lawsuit-against-openai-ceo/",
+    "id": "news-1036"
+  },
+  {
     "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
     "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels. ",
     "content": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels. The article Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026 appeared first on The Decoder.",
