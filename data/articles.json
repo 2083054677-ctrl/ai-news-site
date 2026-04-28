@@ -1,5 +1,18 @@
 [
   {
+    "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
+    "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels. ",
+    "content": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels. The article Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
+    "id": "news-1035"
+  },
+  {
     "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
     "summary": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
     "content": "",
