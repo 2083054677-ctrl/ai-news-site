@@ -1,5 +1,84 @@
 [
   {
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "id": "news-1011"
+  },
+  {
+    "title": "Show HN: 49Agents – Infinite canvas IDE for AI agents",
+    "summary": "Article URL: https://github.com/49Agents/49Agents Comments URL: https://news.ycombinator.com/item?id=47929077 Points: 13 # Comments: 6",
+    "content": "Article URL: https://github.com/49Agents/49Agents Comments URL: https://news.ycombinator.com/item?id=47929077 Points: 13 # Comments: 6",
+    "author": "alpadurza",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/49Agents/49Agents",
+    "id": "news-1010"
+  },
+  {
+    "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273 Comments URL: https://news.ycombinator.com/item?id=47929510 Points: 5 # Commen",
+    "content": "Article URL: https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273 Comments URL: https://news.ycombinator.com/item?id=47929510 Points: 5 # Comments: 1",
+    "author": "ksherlock",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
+    "id": "news-1009"
+  },
+  {
+    "title": "Show HN: Lightport – open-source AI gateway",
+    "summary": "Hey HN!I am the founder of Glama.We are making Lightport open-source – it's the AI gateway that's been powering Glama.GitHub: https://github.com/glama-ai/lightportLive: https://glama.ai/ai/gatewayWhy?",
+    "content": "Hey HN!I am the founder of Glama.We are making Lightport open-source – it's the AI gateway that's been powering Glama.GitHub: https://github.com/glama-ai/lightportLive: https://glama.ai/ai/gatewayWhy?We're going all-in on the MCP ecosystem – it's what we're best at. Open-sourcing the gateway is both a thank-you to the community that helped us grow and a way to keep us focused.The short backstory:Lightport began as a fork of Portkey. We needed a way to make various LLM providers OpenAI-compatible",
+    "author": "statements",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npmjs.com/package/lightport",
+    "id": "news-1008"
+  },
+  {
+    "title": "How AI Will Reshape Computer Systems by 2035",
+    "summary": "Article URL: https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/ Comments URL: https://news.ycombinator.com",
+    "content": "Article URL: https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/ Comments URL: https://news.ycombinator.com/item?id=47929621 Points: 1 # Comments: 0",
+    "author": "hasheddan",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/",
+    "id": "news-1007"
+  },
+  {
+    "title": "An AI First World (2016)",
+    "summary": "Article URL: https://avc.com/2016/04/an-ai-first-world/ Comments URL: https://news.ycombinator.com/item?id=47929692 Points: 2 # Comments: 0",
+    "content": "Article URL: https://avc.com/2016/04/an-ai-first-world/ Comments URL: https://news.ycombinator.com/item?id=47929692 Points: 2 # Comments: 0",
+    "author": "capitalatrisk",
+    "date": "2026-04-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://avc.com/2016/04/an-ai-first-world/",
+    "id": "news-1006"
+  },
+  {
     "title": "I build my LLM a Brain",
     "summary": "A glimpse about my app context engineeringTake a look :https://x.com/TabetKevin/status/2048884876603203850Have a nice one, feel free to comment, i want to so better Comments URL: https://news.ycombina",
     "content": "A glimpse about my app context engineeringTake a look :https://x.com/TabetKevin/status/2048884876603203850Have a nice one, feel free to comment, i want to so better Comments URL: https://news.ycombinator.com/item?id=47928151 Points: 1 # Comments: 1",
