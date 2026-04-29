@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+    "summary": "Article URL: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/ Comments URL: https://news.ycombinator.com/item?id=47955218 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/ Comments URL: https://news.ycombinator.com/item?id=47955218 Points: 4 # Comments: 0",
+    "author": "mikhael",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+    "id": "news-1099"
+  },
+  {
+    "title": "Shopify's AI-first engineering playbook",
+    "summary": "Article URL: https://www.bvp.com/atlas/inside-shopifys-ai-first-engineering-playbook Comments URL: https://news.ycombinator.com/item?id=47955284 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bvp.com/atlas/inside-shopifys-ai-first-engineering-playbook Comments URL: https://news.ycombinator.com/item?id=47955284 Points: 1 # Comments: 0",
+    "author": "deakhaus",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bvp.com/atlas/inside-shopifys-ai-first-engineering-playbook",
+    "id": "news-1098"
+  },
+  {
+    "title": "I built an AI job search agent on Claude Code to run my own PM job search",
+    "summary": "Article URL: https://github.com/ymuromcev/ai-job-searcher Comments URL: https://news.ycombinator.com/item?id=47955347 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ymuromcev/ai-job-searcher Comments URL: https://news.ycombinator.com/item?id=47955347 Points: 1 # Comments: 0",
+    "author": "ymuromcev",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ymuromcev/ai-job-searcher",
+    "id": "news-1097"
+  },
+  {
+    "title": "The Luddites would have loved AI",
+    "summary": "Article URL: https://www.disruptingjapan.com/the-real-luddites-would-have-loved-ai/ Comments URL: https://news.ycombinator.com/item?id=47955404 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.disruptingjapan.com/the-real-luddites-would-have-loved-ai/ Comments URL: https://news.ycombinator.com/item?id=47955404 Points: 2 # Comments: 1",
+    "author": "timoth3y",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.disruptingjapan.com/the-real-luddites-would-have-loved-ai/",
+    "id": "news-1096"
+  },
+  {
+    "title": "Creating a Dashboard with Claude Design",
+    "summary": "Article URL: https://theautomatedoperator.substack.com/p/creating-a-dashboard-with-claude Comments URL: https://news.ycombinator.com/item?id=47955667 Points: 1 # Comments: 0",
+    "content": "Article URL: https://theautomatedoperator.substack.com/p/creating-a-dashboard-with-claude Comments URL: https://news.ycombinator.com/item?id=47955667 Points: 1 # Comments: 0",
+    "author": "idopmstuff",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theautomatedoperator.substack.com/p/creating-a-dashboard-with-claude",
+    "id": "news-1095"
+  },
+  {
     "title": "Lakera Gandalf: A game where you see if you can get AI to reveal it's secrets",
     "summary": "Article URL: https://gandalf.lakera.ai/do-not-tell-and-block Comments URL: https://news.ycombinator.com/item?id=47953869 Points: 2 # Comments: 0",
     "content": "Article URL: https://gandalf.lakera.ai/do-not-tell-and-block Comments URL: https://news.ycombinator.com/item?id=47953869 Points: 2 # Comments: 0",
