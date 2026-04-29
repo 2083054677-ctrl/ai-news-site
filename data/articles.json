@@ -1,5 +1,122 @@
 [
   {
+    "title": "Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along",
+    "summary": "Gemini can now remember your preferences and import your chat history from other AI apps. The article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared f",
+    "content": "Gemini can now remember your preferences and import your chat history from other AI apps. The article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/",
+    "id": "news-1068"
+  },
+  {
+    "title": "Musk and Altman face off in court over OpenAI's for-profit pivot",
+    "summary": "The closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days. The article Musk",
+    "content": "The closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days. The article Musk and Altman face off in court over OpenAI's for-profit pivot appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot/",
+    "id": "news-1067"
+  },
+  {
+    "title": "OpenAI lands on AWS one day after Microsoft deal restructuring",
+    "summary": "Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service. The article OpenAI lands",
+    "content": "Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service. The article OpenAI lands on AWS one day after Microsoft deal restructuring appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/",
+    "id": "news-1066"
+  },
+  {
+    "title": "White House moves to restore Anthropic access after Pentagon standoff",
+    "summary": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos. The article White House moves to restore Anthropic a",
+    "content": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos. The article White House moves to restore Anthropic access after Pentagon standoff appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/",
+    "id": "news-1065"
+  },
+  {
+    "title": "Coding Was Never the Hard Part: What I Wish Every Business Leader Knew About AI",
+    "summary": "Article URL: https://koushikdasika.com/blog/coding-was-never-the-hard-part/ Comments URL: https://news.ycombinator.com/item?id=47947810 Points: 3 # Comments: 0",
+    "content": "Article URL: https://koushikdasika.com/blog/coding-was-never-the-hard-part/ Comments URL: https://news.ycombinator.com/item?id=47947810 Points: 3 # Comments: 0",
+    "author": "HalcyonicStorm",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://koushikdasika.com/blog/coding-was-never-the-hard-part/",
+    "id": "news-1064"
+  },
+  {
+    "title": "The uncomfortable truth about AI and the American worker",
+    "summary": "Article URL: https://fortune.com/2026/04/29/why-do-workers-hate-ai-more-productive-training-obsolete/ Comments URL: https://news.ycombinator.com/item?id=47947932 Points: 3 # Comments: 0",
+    "content": "Article URL: https://fortune.com/2026/04/29/why-do-workers-hate-ai-more-productive-training-obsolete/ Comments URL: https://news.ycombinator.com/item?id=47947932 Points: 3 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/04/29/why-do-workers-hate-ai-more-productive-training-obsolete/",
+    "id": "news-1063"
+  },
+  {
+    "title": "What Elon Musk's Clash with Sam Altman of OpenAI Is About",
+    "summary": "Article URL: https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html Comments URL: https://news.ycombinator.com/item?id=47947941 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html Comments URL: https://news.ycombinator.com/item?id=47947941 Points: 3 # Comments: 1",
+    "author": "Anon84",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
+    "id": "news-1062"
+  },
+  {
+    "title": "School-shooting lawsuits accuse OpenAI of hiding violent ChatGPT users",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/ Comments URL: https://news.ycombinator.com/item?id=47948078 Points: 1 #",
+    "content": "Article URL: https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/ Comments URL: https://news.ycombinator.com/item?id=47948078 Points: 1 # Comments: 0",
+    "author": "furcyd",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+    "id": "news-1061"
+  },
+  {
+    "title": "An OpenAI Bubble Is Not an AI Bubble",
+    "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-04-29/an-openai-bubble-is-not-an-ai-market-bubble Comments URL: https://news.ycombinator.com/item?id=47948088 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bloomberg.com/opinion/articles/2026-04-29/an-openai-bubble-is-not-an-ai-market-bubble Comments URL: https://news.ycombinator.com/item?id=47948088 Points: 1 # Comments: 0",
+    "author": "wslh",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/opinion/articles/2026-04-29/an-openai-bubble-is-not-an-ai-market-bubble",
+    "id": "news-1060"
+  },
+  {
     "title": "Personal Productivity Tools in the Age of AI",
     "summary": "Article URL: https://tilldettmering.com/posts/personal-productivity-tools-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47946708 Points: 1 # Comments: 0",
     "content": "Article URL: https://tilldettmering.com/posts/personal-productivity-tools-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47946708 Points: 1 # Comments: 0",
