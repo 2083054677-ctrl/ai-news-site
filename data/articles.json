@@ -1,5 +1,111 @@
 [
   {
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "summary": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "id": "news-1083"
+  },
+  {
+    "title": "AI evals are becoming the new compute bottleneck",
+    "summary": "AI evals are becoming the new compute bottleneck",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "id": "news-1082"
+  },
+  {
+    "title": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat",
+    "summary": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets. The article Google Gemini now generates full documents, spreadsheets, and presentations direct",
+    "content": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets. The article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/",
+    "id": "news-1081"
+  },
+  {
+    "title": "I got stood up by an AI agent, and tracked down its human owner in China",
+    "summary": "Article URL: https://restofworld.org/2026/ai-agent-china-one-person-company/ Comments URL: https://news.ycombinator.com/item?id=47951194 Points: 3 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/ai-agent-china-one-person-company/ Comments URL: https://news.ycombinator.com/item?id=47951194 Points: 3 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/ai-agent-china-one-person-company/",
+    "id": "news-1080"
+  },
+  {
+    "title": "Windows K2 with faster start menu, less ads and AI, to win back user trust",
+    "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/what-is-windows-k2-everything-you-need-to-know-saving-windows-11 Comments URL: https://news.ycombinator.com/item?id=47951227 Points: 3 ",
+    "content": "Article URL: https://www.windowscentral.com/microsoft/windows-11/what-is-windows-k2-everything-you-need-to-know-saving-windows-11 Comments URL: https://news.ycombinator.com/item?id=47951227 Points: 3 # Comments: 2",
+    "author": "workfromspace",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.windowscentral.com/microsoft/windows-11/what-is-windows-k2-everything-you-need-to-know-saving-windows-11",
+    "id": "news-1079"
+  },
+  {
+    "title": "Why JSON Schema matters more than ever in the age of generative AI",
+    "summary": "Article URL: https://thenewstack.io/json-schema-ai-reliability/ Comments URL: https://news.ycombinator.com/item?id=47951293 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thenewstack.io/json-schema-ai-reliability/ Comments URL: https://news.ycombinator.com/item?id=47951293 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/json-schema-ai-reliability/",
+    "id": "news-1078"
+  },
+  {
+    "title": "Warp's gambles its AI tool going open source will help it take on closed rivals",
+    "summary": "Article URL: https://thenewstack.io/warp-open-source-client/ Comments URL: https://news.ycombinator.com/item?id=47951361 Points: 1 # Comments: 1",
+    "content": "Article URL: https://thenewstack.io/warp-open-source-client/ Comments URL: https://news.ycombinator.com/item?id=47951361 Points: 1 # Comments: 1",
+    "author": "CrankyBear",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/warp-open-source-client/",
+    "id": "news-1077"
+  },
+  {
+    "title": "GraphQL wasn't made for AI. But it might be one of the best ways to talk to it",
+    "summary": "Article URL: https://chillicream.com/blog/2026/04/22/semantic-introspection/ Comments URL: https://news.ycombinator.com/item?id=47951384 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chillicream.com/blog/2026/04/22/semantic-introspection/ Comments URL: https://news.ycombinator.com/item?id=47951384 Points: 1 # Comments: 0",
+    "author": "pascal_senn",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chillicream.com/blog/2026/04/22/semantic-introspection/",
+    "id": "news-1076"
+  },
+  {
     "title": "Granite 4.1 LLMs: How They’re Built",
     "summary": "Granite 4.1 LLMs: How They’re Built",
     "content": "",
