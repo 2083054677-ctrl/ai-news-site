@@ -1,5 +1,70 @@
 [
   {
+    "title": "Personal Productivity Tools in the Age of AI",
+    "summary": "Article URL: https://tilldettmering.com/posts/personal-productivity-tools-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47946708 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tilldettmering.com/posts/personal-productivity-tools-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47946708 Points: 1 # Comments: 0",
+    "author": "Odenwaelder",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tilldettmering.com/posts/personal-productivity-tools-age-of-ai/",
+    "id": "news-1059"
+  },
+  {
+    "title": "SLM – zero-dependency TUI LLM chat",
+    "summary": "Article URL: https://github.com/allocz/slm Comments URL: https://news.ycombinator.com/item?id=47946861 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/allocz/slm Comments URL: https://news.ycombinator.com/item?id=47946861 Points: 1 # Comments: 0",
+    "author": "allocz",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/allocz/slm",
+    "id": "news-1058"
+  },
+  {
+    "title": "AI Job Loss Is Not Real",
+    "summary": "Article URL: https://orischwartz.com/posts/ai-job-loss-is-not-real.html Comments URL: https://news.ycombinator.com/item?id=47946867 Points: 1 # Comments: 0",
+    "content": "Article URL: https://orischwartz.com/posts/ai-job-loss-is-not-real.html Comments URL: https://news.ycombinator.com/item?id=47946867 Points: 1 # Comments: 0",
+    "author": "fleaflicker",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://orischwartz.com/posts/ai-job-loss-is-not-real.html",
+    "id": "news-1057"
+  },
+  {
+    "title": "30 ClawHub Skills Are Quietly Recruiting Your AI Agent into a Crypto Swarm",
+    "summary": "Article URL: https://www.manifold.security/blog/clawhub-clawswarm-agent-crypto-recruitment Comments URL: https://news.ycombinator.com/item?id=47946886 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.manifold.security/blog/clawhub-clawswarm-agent-crypto-recruitment Comments URL: https://news.ycombinator.com/item?id=47946886 Points: 1 # Comments: 0",
+    "author": "axsharma",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.manifold.security/blog/clawhub-clawswarm-agent-crypto-recruitment",
+    "id": "news-1056"
+  },
+  {
+    "title": "The AI coding config fragmentation problem nobody talks about",
+    "summary": "Article URL: https://github.com/sampleXbro/agentsmesh Comments URL: https://news.ycombinator.com/item?id=47946900 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/sampleXbro/agentsmesh Comments URL: https://news.ycombinator.com/item?id=47946900 Points: 1 # Comments: 0",
+    "author": "samplexBro",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sampleXbro/agentsmesh",
+    "id": "news-1055"
+  },
+  {
     "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
     "summary": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS",
     "content": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others. The article With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model appeared first on The Decoder.",
