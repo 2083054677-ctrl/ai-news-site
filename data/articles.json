@@ -1,5 +1,83 @@
 [
   {
+    "title": "Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts",
+    "summary": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent fo",
+    "content": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent for malicious ones. The article Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/",
+    "id": "news-1089"
+  },
+  {
+    "title": "They train LLM only with data up to 1930 and it still solves Python problems",
+    "summary": "Article URL: https://www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/ Comments URL: https://news.ycombinator.com/item?id=47952586 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/ Comments URL: https://news.ycombinator.com/item?id=47952586 Points: 1 # Comments: 0",
+    "author": "Multipassionate",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/",
+    "id": "news-1088"
+  },
+  {
+    "title": "CipherTax – Safely use AI for tax filing by redacting PII locally",
+    "summary": "Article URL: https://github.com/z26zheng/CipherTax Comments URL: https://news.ycombinator.com/item?id=47952693 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/z26zheng/CipherTax Comments URL: https://news.ycombinator.com/item?id=47952693 Points: 1 # Comments: 0",
+    "author": "z26zheng",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/z26zheng/CipherTax",
+    "id": "news-1087"
+  },
+  {
+    "title": "PocketOS AI Fiasco – Lesson in Automation Access",
+    "summary": "Article URL: https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol Comments URL: https://news.ycombinator.com/item?id=47952804 Points: 1 # Comments: 0",
+    "content": "Article URL: https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol Comments URL: https://news.ycombinator.com/item?id=47952804 Points: 1 # Comments: 0",
+    "author": "vednig",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol",
+    "id": "news-1086"
+  },
+  {
+    "title": "Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs",
+    "summary": "Article URL: https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/ Comments URL: https://news.ycombinator.com/item?id=47952851 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/ Comments URL: https://news.ycombinator.com/item?id=47952851 Points: 1 # Comments: 0",
+    "author": "patrikcsak",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/",
+    "id": "news-1085"
+  },
+  {
+    "title": "Seer – Open-source local AI image descriptions for screen readers (no API key)",
+    "summary": "Article URL: https://github.com/recursia-lab/Seer Comments URL: https://news.ycombinator.com/item?id=47952900 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/recursia-lab/Seer Comments URL: https://news.ycombinator.com/item?id=47952900 Points: 1 # Comments: 1",
+    "author": "chiachi",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/recursia-lab/Seer",
+    "id": "news-1084"
+  },
+  {
     "title": "DeepInfra on Hugging Face Inference Providers 🔥",
     "summary": "DeepInfra on Hugging Face Inference Providers 🔥",
     "content": "",
