@@ -1,5 +1,70 @@
 [
   {
+    "title": "Lakera Gandalf: A game where you see if you can get AI to reveal it's secrets",
+    "summary": "Article URL: https://gandalf.lakera.ai/do-not-tell-and-block Comments URL: https://news.ycombinator.com/item?id=47953869 Points: 2 # Comments: 0",
+    "content": "Article URL: https://gandalf.lakera.ai/do-not-tell-and-block Comments URL: https://news.ycombinator.com/item?id=47953869 Points: 2 # Comments: 0",
+    "author": "turbocon",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gandalf.lakera.ai/do-not-tell-and-block",
+    "id": "news-1094"
+  },
+  {
+    "title": "Increase in Claude Code speed bumps?",
+    "summary": "Claude Code seems like it's pausing a lot more than it has previously to ask me kind of frivolous questions about the prompt I've just given it. It seems to be pausing multiple times per step. I've be",
+    "content": "Claude Code seems like it's pausing a lot more than it has previously to ask me kind of frivolous questions about the prompt I've just given it. It seems to be pausing multiple times per step. I've been using CC for quite awhile and have never noticed it until this week in particular.Am I missing a new setting or something? (I do not and will not use the destructive flag(s)) Comments URL: https://news.ycombinator.com/item?id=47954076 Points: 2 # Comments: 0",
+    "author": "jesse_dot_id",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47954076",
+    "id": "news-1093"
+  },
+  {
+    "title": "AI with European Values",
+    "summary": "Article URL: https://hostedai.eu Comments URL: https://news.ycombinator.com/item?id=47954196 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hostedai.eu Comments URL: https://news.ycombinator.com/item?id=47954196 Points: 1 # Comments: 0",
+    "author": "vodou",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hostedai.eu",
+    "id": "news-1092"
+  },
+  {
+    "title": "GPT-5.5's biggest blind spot: the Java bugs your tests won't catch",
+    "summary": "Article URL: https://www.sonarsource.com/blog/gpt-5-5-biggest-blind-spot Comments URL: https://news.ycombinator.com/item?id=47954322 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.sonarsource.com/blog/gpt-5-5-biggest-blind-spot Comments URL: https://news.ycombinator.com/item?id=47954322 Points: 1 # Comments: 0",
+    "author": "andrewstetsenko",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sonarsource.com/blog/gpt-5-5-biggest-blind-spot",
+    "id": "news-1091"
+  },
+  {
+    "title": "Would you use AI tools built specifically for data science workflows?",
+    "summary": "Article URL: https://github.com/getbridgekit/bridgekit Comments URL: https://news.ycombinator.com/item?id=47954491 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/getbridgekit/bridgekit Comments URL: https://news.ycombinator.com/item?id=47954491 Points: 1 # Comments: 0",
+    "author": "ivaivanova",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/getbridgekit/bridgekit",
+    "id": "news-1090"
+  },
+  {
     "title": "Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts",
     "summary": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent fo",
     "content": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent for malicious ones. The article Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts appeared first on The Decoder.",
