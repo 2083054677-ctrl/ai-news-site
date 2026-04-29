@@ -1,5 +1,83 @@
 [
   {
+    "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
+    "summary": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS",
+    "content": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others. The article With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/",
+    "id": "news-1054"
+  },
+  {
+    "title": "Welcome to the \"find out\" stage of AI",
+    "summary": "Article URL: https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47945960 Points: 1 # Comments: 0",
+    "content": "Article URL: https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47945960 Points: 1 # Comments: 0",
+    "author": "vinhnx",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/",
+    "id": "news-1053"
+  },
+  {
+    "title": "Orchestrating AI Code Review at Scale",
+    "summary": "Article URL: https://blog.cloudflare.com/ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=47945983 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.cloudflare.com/ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=47945983 Points: 1 # Comments: 0",
+    "author": "vinhnx",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.cloudflare.com/ai-code-review/",
+    "id": "news-1052"
+  },
+  {
+    "title": "GraphOS – Visual runtime and debugger for AI agents (with local-first execution)",
+    "summary": "Article URL: https://github.com/ahmedbutt2015/graphos Comments URL: https://news.ycombinator.com/item?id=47946029 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/ahmedbutt2015/graphos Comments URL: https://news.ycombinator.com/item?id=47946029 Points: 1 # Comments: 1",
+    "author": "ahmedthefayyaz",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ahmedbutt2015/graphos",
+    "id": "news-1051"
+  },
+  {
+    "title": "SnoreStop AI: Stop Snoring",
+    "summary": "Article URL: https://apps.apple.com/gr/app/snorestop-ai-stop-snoring/id6761017053 Comments URL: https://news.ycombinator.com/item?id=47946040 Points: 2 # Comments: 0",
+    "content": "Article URL: https://apps.apple.com/gr/app/snorestop-ai-stop-snoring/id6761017053 Comments URL: https://news.ycombinator.com/item?id=47946040 Points: 2 # Comments: 0",
+    "author": "SnoreStopAI",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.apple.com/gr/app/snorestop-ai-stop-snoring/id6761017053",
+    "id": "news-1050"
+  },
+  {
+    "title": "How will AI crypto trading bots shape automated trading in 2026?",
+    "summary": "Article URL: https://www.bitdeal.net/crypto-trading-bot-development Comments URL: https://news.ycombinator.com/item?id=47946159 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bitdeal.net/crypto-trading-bot-development Comments URL: https://news.ycombinator.com/item?id=47946159 Points: 2 # Comments: 0",
+    "author": "harrisonrichrd",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bitdeal.net/crypto-trading-bot-development",
+    "id": "news-1049"
+  },
+  {
     "title": "IBM Bob: AI Development Partner",
     "summary": "Article URL: https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software Comments URL: https://news.ycomb",
     "content": "Article URL: https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software Comments URL: https://news.ycombinator.com/item?id=47944507 Points: 2 # Comments: 0",
