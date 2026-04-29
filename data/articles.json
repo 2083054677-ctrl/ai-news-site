@@ -1,5 +1,97 @@
 [
   {
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "summary": "Granite 4.1 LLMs: How They’re Built",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "id": "news-1075"
+  },
+  {
+    "title": "OpenAI researchers explain why math is the road to AGI",
+    "summary": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why m",
+    "content": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence. The article OpenAI researchers explain why math is the road to AGI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/",
+    "id": "news-1074"
+  },
+  {
+    "title": "AI Overviews are coming to your Gmail at work",
+    "summary": "Article URL: https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/ Comments URL: https://news.ycombinator.com/item?id=47949993 Points: 1 # Comments: 1",
+    "content": "Article URL: https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/ Comments URL: https://news.ycombinator.com/item?id=47949993 Points: 1 # Comments: 1",
+    "author": "gmays",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "id": "news-1073"
+  },
+  {
+    "title": "Patterns for Reducing App LLM Costs (Video Series)",
+    "summary": "Article URL: https://usagetap.com/ai-app-cost-savings Comments URL: https://news.ycombinator.com/item?id=47950050 Points: 1 # Comments: 1",
+    "content": "Article URL: https://usagetap.com/ai-app-cost-savings Comments URL: https://news.ycombinator.com/item?id=47950050 Points: 1 # Comments: 1",
+    "author": "troymagennis",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://usagetap.com/ai-app-cost-savings",
+    "id": "news-1072"
+  },
+  {
+    "title": "Show HN: OmniForge – document intelligence and audio capture with local LLM",
+    "summary": "We built OmniForge for 2 reasons: - we dread context switching between apps and wanted a unified place for docs and meeting recaps that can be used as context for an AI assistant - we wanted an altern",
+    "content": "We built OmniForge for 2 reasons: - we dread context switching between apps and wanted a unified place for docs and meeting recaps that can be used as context for an AI assistant - we wanted an alternative to cloud solutions and the piece of mind that our information stays privateWith OmniForge you can import documents, record > transcribe > summarize audio and ask questions across all of themThe app has a generous free plan and requires no registration/payment to try it.Happy to answer question",
+    "author": "vlad_omniforge",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://omniforge.online/",
+    "id": "news-1071"
+  },
+  {
+    "title": "Replacing labor with AI shifts costs to compute – and compute is still expensive",
+    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/cost-compute-far-beyond-costs-071100797.html Comments URL: https://news.ycombinator.com/item?id=47950096 Points: 1 # Comments: 1",
+    "content": "Article URL: https://finance.yahoo.com/sectors/technology/articles/cost-compute-far-beyond-costs-071100797.html Comments URL: https://news.ycombinator.com/item?id=47950096 Points: 1 # Comments: 1",
+    "author": "latentframe",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://finance.yahoo.com/sectors/technology/articles/cost-compute-far-beyond-costs-071100797.html",
+    "id": "news-1070"
+  },
+  {
+    "title": "When the Paradigm Shifts: A Zero-Trust Model for AI Agents",
+    "summary": "Article URL: https://worklifenotes.com/2026/04/29/when-the-paradigm-shifts-a-zero-trust-model-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47950124 Points: 1 # Comments: 0",
+    "content": "Article URL: https://worklifenotes.com/2026/04/29/when-the-paradigm-shifts-a-zero-trust-model-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47950124 Points: 1 # Comments: 0",
+    "author": "taleodor",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://worklifenotes.com/2026/04/29/when-the-paradigm-shifts-a-zero-trust-model-for-ai-agents/",
+    "id": "news-1069"
+  },
+  {
     "title": "Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along",
     "summary": "Gemini can now remember your preferences and import your chat history from other AI apps. The article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared f",
     "content": "Gemini can now remember your preferences and import your chat history from other AI apps. The article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared first on The Decoder.",
