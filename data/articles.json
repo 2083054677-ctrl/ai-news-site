@@ -1,5 +1,57 @@
 [
   {
+    "title": "We decreased our LLM costs with Opus",
+    "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 25 # Comments: 4",
+    "content": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 25 # Comments: 4",
+    "author": "shad42",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mendral.com/blog/frontier-model-lower-costs",
+    "id": "news-1043"
+  },
+  {
+    "title": "From One AI to Any AI: JetBrains rethinks the approach to AI tooling [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=J8fHU4WFd_c Comments URL: https://news.ycombinator.com/item?id=47942940 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=J8fHU4WFd_c Comments URL: https://news.ycombinator.com/item?id=47942940 Points: 1 # Comments: 0",
+    "author": "lemming",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=J8fHU4WFd_c",
+    "id": "news-1042"
+  },
+  {
+    "title": "OpenAI Wants Codex to Shut Up About Goblins",
+    "summary": "Article URL: https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/ Comments URL: https://news.ycombinator.com/item?id=47942954 Points: 5 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/ Comments URL: https://news.ycombinator.com/item?id=47942954 Points: 5 # Comments: 0",
+    "author": "spenvo",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+    "id": "news-1041"
+  },
+  {
+    "title": "Show HN: I built an AI agent to diagnose technical issues",
+    "summary": "Article URL: https://rinhelp.com Comments URL: https://news.ycombinator.com/item?id=47943335 Points: 1 # Comments: 0",
+    "content": "Article URL: https://rinhelp.com Comments URL: https://news.ycombinator.com/item?id=47943335 Points: 1 # Comments: 0",
+    "author": "wilbertliu",
+    "date": "2026-04-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rinhelp.com",
+    "id": "news-1040"
+  },
+  {
     "title": "World's First conversational AI skills assessment",
     "summary": "Two AIs. One conversation. Measure real AI skills. I like to call it LLMs As Assessment (LLMAA?) One AI talks to you. A second one scores every answer in real time. Comments URL: https://news.ycombina",
     "content": "Two AIs. One conversation. Measure real AI skills. I like to call it LLMs As Assessment (LLMAA?) One AI talks to you. A second one scores every answer in real time. Comments URL: https://news.ycombinator.com/item?id=47941341 Points: 1 # Comments: 0",
