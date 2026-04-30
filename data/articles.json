@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more",
+    "summary": "Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027. The article Google CEO says Pichai says peo",
+    "content": "Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027. The article Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/",
+    "id": "news-1120"
+  },
+  {
+    "title": "US Economy Grows 2%, Boosted by Surging AI Investment",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-30/us-gdp-rose-2-in-early-2026-in-sign-of-economy-s-resilience Comments URL: https://news.ycombinator.com/item?id=47963903 Points: 3 # Comm",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-04-30/us-gdp-rose-2-in-early-2026-in-sign-of-economy-s-resilience Comments URL: https://news.ycombinator.com/item?id=47963903 Points: 3 # Comments: 2",
+    "author": "alephnerd",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-04-30/us-gdp-rose-2-in-early-2026-in-sign-of-economy-s-resilience",
+    "id": "news-1119"
+  },
+  {
+    "title": "Show HN: Npx LLM-safe-haven – harden your AI coding agent in 60 seconds",
+    "summary": "Article URL: https://github.com/pleasedodisturb/llm-safe-haven Comments URL: https://news.ycombinator.com/item?id=47963910 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/pleasedodisturb/llm-safe-haven Comments URL: https://news.ycombinator.com/item?id=47963910 Points: 1 # Comments: 0",
+    "author": "pleasedodisturb",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/pleasedodisturb/llm-safe-haven",
+    "id": "news-1118"
+  },
+  {
+    "title": "Show HN: ComicInk – AI tool that turns a prompt into a full comic book",
+    "summary": "Hi HN, I'm Sanjoy. I've always loved comic books and stories but can't draw. So I built ComicInk: describe a story, the AI generates a complete comic book — consistent characters across panels, dialog",
+    "content": "Hi HN, I'm Sanjoy. I've always loved comic books and stories but can't draw. So I built ComicInk: describe a story, the AI generates a complete comic book — consistent characters across panels, dialogue, cover art, the whole thing.No-signup demo at comicink.ai/quick — type a prompt, watch Gemini write a dramatic teaser of your story in real-time while the cover + page 1 render (~2 min). Free signup unlocks the full 4-page comic.The hard problem was character consistency. Most AI image tools trea",
+    "author": "comicink",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.comicink.ai",
+    "id": "news-1117"
+  },
+  {
+    "title": "AI Terminology Is Poorly Defined and Oft Misused",
+    "summary": "Article URL: https://vale.rocks/posts/ai-terminology Comments URL: https://news.ycombinator.com/item?id=47964122 Points: 2 # Comments: 0",
+    "content": "Article URL: https://vale.rocks/posts/ai-terminology Comments URL: https://news.ycombinator.com/item?id=47964122 Points: 2 # Comments: 0",
+    "author": "gnodar",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vale.rocks/posts/ai-terminology",
+    "id": "news-1116"
+  },
+  {
+    "title": "The Jevons Employment Effect from AI",
+    "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/the-jevons-employment-effect-from-ai Comments URL: https://news.ycombinator.com/item?id=47964194 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.apollo.com/wealth/the-daily-spark/the-jevons-employment-effect-from-ai Comments URL: https://news.ycombinator.com/item?id=47964194 Points: 1 # Comments: 0",
+    "author": "akyuu",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.apollo.com/wealth/the-daily-spark/the-jevons-employment-effect-from-ai",
+    "id": "news-1115"
+  },
+  {
     "title": "FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs",
     "summary": "The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs. The",
     "content": "The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs. The article FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs appeared first on The Decoder.",
