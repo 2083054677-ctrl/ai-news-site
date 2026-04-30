@@ -1,5 +1,70 @@
 [
   {
+    "title": "Meta shares slide as it hikes AI spending forecast, youth social media backlash",
+    "summary": "Article URL: https://nypost.com/2026/04/29/business/meta-shares-slide-as-tech-giant-hikes-ai-spending-forecast-warns-of-youth-social-media-backlash/ Comments URL: https://news.ycombinator.com/item?id=",
+    "content": "Article URL: https://nypost.com/2026/04/29/business/meta-shares-slide-as-tech-giant-hikes-ai-spending-forecast-warns-of-youth-social-media-backlash/ Comments URL: https://news.ycombinator.com/item?id=47958707 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nypost.com/2026/04/29/business/meta-shares-slide-as-tech-giant-hikes-ai-spending-forecast-warns-of-youth-social-media-backlash/",
+    "id": "news-1109"
+  },
+  {
+    "title": "How AI Is Changing Programming Language Usage",
+    "summary": "Article URL: https://cacm.acm.org/news/how-ai-is-changing-programming-language-usage/ Comments URL: https://news.ycombinator.com/item?id=47958761 Points: 2 # Comments: 0",
+    "content": "Article URL: https://cacm.acm.org/news/how-ai-is-changing-programming-language-usage/ Comments URL: https://news.ycombinator.com/item?id=47958761 Points: 2 # Comments: 0",
+    "author": "adunk",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cacm.acm.org/news/how-ai-is-changing-programming-language-usage/",
+    "id": "news-1108"
+  },
+  {
+    "title": "Banana Pi Announces RISC-V Based BPI‑SM10 Developer Kit and K3 Pico‑ITX AI SBC",
+    "summary": "Article URL: https://forum.banana-pi.org/t/banana-pi-major-release-based-on-spacemit-k3-launching-bpi-sm10-developer-kit-and-k3-pico-itx-sbc/27238 Comments URL: https://news.ycombinator.com/item?id=47",
+    "content": "Article URL: https://forum.banana-pi.org/t/banana-pi-major-release-based-on-spacemit-k3-launching-bpi-sm10-developer-kit-and-k3-pico-itx-sbc/27238 Comments URL: https://news.ycombinator.com/item?id=47958778 Points: 1 # Comments: 0",
+    "author": "fork-bomber",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://forum.banana-pi.org/t/banana-pi-major-release-based-on-spacemit-k3-launching-bpi-sm10-developer-kit-and-k3-pico-itx-sbc/27238",
+    "id": "news-1107"
+  },
+  {
+    "title": "Claude Code Opus 4.7: 16B cache reads across 8 sessions, forensic JSONL data",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/38350 Comments URL: https://news.ycombinator.com/item?id=47958812 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/anthropics/claude-code/issues/38350 Comments URL: https://news.ycombinator.com/item?id=47958812 Points: 1 # Comments: 0",
+    "author": "biniruprojects",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/claude-code/issues/38350",
+    "id": "news-1106"
+  },
+  {
+    "title": "AI Coding Tools Ranked by Community Sentiment: 4 Weeks of Reddit/HN Data (2026)",
+    "summary": "Article URL: https://murmure.cc/state-of-ai-devtools-2026 Comments URL: https://news.ycombinator.com/item?id=47958869 Points: 1 # Comments: 0",
+    "content": "Article URL: https://murmure.cc/state-of-ai-devtools-2026 Comments URL: https://news.ycombinator.com/item?id=47958869 Points: 1 # Comments: 0",
+    "author": "ianalyze",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://murmure.cc/state-of-ai-devtools-2026",
+    "id": "news-1105"
+  },
+  {
     "title": "Failed AI tractor company lays off all employees, abandons Bay Area headquarters",
     "summary": "Article URL: https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php Comments URL: https://news.ycombinator.com/item?id=47956976 Points: 5 # Comments: 0",
     "content": "Article URL: https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php Comments URL: https://news.ycombinator.com/item?id=47956976 Points: 5 # Comments: 0",
