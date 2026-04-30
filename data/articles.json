@@ -1,5 +1,70 @@
 [
   {
+    "title": "FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs",
+    "summary": "The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs. The",
+    "content": "The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs. The article FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/",
+    "id": "news-1114"
+  },
+  {
+    "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
+    "summary": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. The article White House worried about compute",
+    "content": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. The article White House worried about compute limits as it blocks wider access to Anthropic's Mythos appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/",
+    "id": "news-1113"
+  },
+  {
+    "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
+    "summary": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent's 440 MB AI mode",
+    "content": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent's 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/",
+    "id": "news-1112"
+  },
+  {
+    "title": "Anthropic's new benchmark claims Claude can match human experts in bioinformatics",
+    "summary": "With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats. The article Anthropic's",
+    "content": "With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats. The article Anthropic's new benchmark claims Claude can match human experts in bioinformatics appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-new-benchmark-claims-claude-can-match-human-experts-in-bioinformatics/",
+    "id": "news-1111"
+  },
+  {
+    "title": "OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule",
+    "summary": "OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. The article OpenAI says it hit its 10 gigawatt compute goal years ahead",
+    "content": "OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. The article OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-04-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/",
+    "id": "news-1110"
+  },
+  {
     "title": "Meta shares slide as it hikes AI spending forecast, youth social media backlash",
     "summary": "Article URL: https://nypost.com/2026/04/29/business/meta-shares-slide-as-tech-giant-hikes-ai-spending-forecast-warns-of-youth-social-media-backlash/ Comments URL: https://news.ycombinator.com/item?id=",
     "content": "Article URL: https://nypost.com/2026/04/29/business/meta-shares-slide-as-tech-giant-hikes-ai-spending-forecast-warns-of-youth-social-media-backlash/ Comments URL: https://news.ycombinator.com/item?id=47958707 Points: 1 # Comments: 0",
