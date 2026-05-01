@@ -1,5 +1,70 @@
 [
   {
+    "title": "Bringing Fusion onto Claude for Creative Work",
+    "summary": "Article URL: https://aps.autodesk.com/blog/bringing-fusion-claude-creative-work Comments URL: https://news.ycombinator.com/item?id=47970370 Points: 2 # Comments: 0",
+    "content": "Article URL: https://aps.autodesk.com/blog/bringing-fusion-claude-creative-work Comments URL: https://news.ycombinator.com/item?id=47970370 Points: 2 # Comments: 0",
+    "author": "nsoonhui",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aps.autodesk.com/blog/bringing-fusion-claude-creative-work",
+    "id": "news-1136"
+  },
+  {
+    "title": "State of the AI Frontier, April 2026",
+    "summary": "Article URL: https://gertlabs.com/blog/state-of-frontier-april-2026 Comments URL: https://news.ycombinator.com/item?id=47970396 Points: 6 # Comments: 1",
+    "content": "Article URL: https://gertlabs.com/blog/state-of-frontier-april-2026 Comments URL: https://news.ycombinator.com/item?id=47970396 Points: 6 # Comments: 1",
+    "author": "gertlabs",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gertlabs.com/blog/state-of-frontier-april-2026",
+    "id": "news-1135"
+  },
+  {
+    "title": "Enabling privacy-preserving AI training on everyday devices",
+    "summary": "Article URL: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429 Comments URL: https://news.ycombinator.com/item?id=47970405 Points: 2 # Comments: 0",
+    "content": "Article URL: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429 Comments URL: https://news.ycombinator.com/item?id=47970405 Points: 2 # Comments: 0",
+    "author": "gnabgib",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+    "id": "news-1134"
+  },
+  {
+    "title": "KV Cache Locality: The Hidden Variable in Your LLM Serving Cost",
+    "summary": "Article URL: https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html Comments URL: https://news.ycombinator.com/item?id=47970614 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html Comments URL: https://news.ycombinator.com/item?id=47970614 Points: 1 # Comments: 0",
+    "author": "mindsaspire",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html",
+    "id": "news-1133"
+  },
+  {
+    "title": "Claude Code is going to fail you eventually, and you need to be ready",
+    "summary": "Article URL: https://claudefolio.com/blog/claude-code-is-going-to-fail-you-eventually-and-you-need-to-be-ready Comments URL: https://news.ycombinator.com/item?id=47970686 Points: 1 # Comments: 0",
+    "content": "Article URL: https://claudefolio.com/blog/claude-code-is-going-to-fail-you-eventually-and-you-need-to-be-ready Comments URL: https://news.ycombinator.com/item?id=47970686 Points: 1 # Comments: 0",
+    "author": "VaderMaster",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claudefolio.com/blog/claude-code-is-going-to-fail-you-eventually-and-you-need-to-be-ready",
+    "id": "news-1132"
+  },
+  {
     "title": "Hard budget enforcement for AI agents – blocks before the API call",
     "summary": "Article URL: https://awx-shredder.fly.dev Comments URL: https://news.ycombinator.com/item?id=47968007 Points: 2 # Comments: 0",
     "content": "Article URL: https://awx-shredder.fly.dev Comments URL: https://news.ycombinator.com/item?id=47968007 Points: 2 # Comments: 0",
