@@ -1,5 +1,83 @@
 [
   {
+    "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
+    "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's C",
+    "content": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+    "id": "news-1154"
+  },
+  {
+    "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+    "summary": "I've always had the urge to have my two macbooks communicate. Having one idle while working on the other felt like underutilization of resources. So I built Loopsy. Initially the goal was to do file t",
+    "content": "I've always had the urge to have my two macbooks communicate. Having one idle while working on the other felt like underutilization of resources. So I built Loopsy. Initially the goal was to do file transfer via local network, and then came running commands. I then tried running coding agents from one machine to the other, and it worked.Later I figured there should be a better way to continue my claude sessions remotely on my phone from the gym. So I did a cloudflare worker that connects to my l",
+    "author": "todience",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/leox255/loopsy",
+    "id": "news-1153"
+  },
+  {
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+    "summary": "Article URL: https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/ Comments URL: https://news.ycombinator.com/item?id=47973108 Points: 28 ",
+    "content": "Article URL: https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/ Comments URL: https://news.ycombinator.com/item?id=47973108 Points: 28 # Comments: 11",
+    "author": "gbourne1",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "id": "news-1152"
+  },
+  {
+    "title": "The AI Jailbreakers",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced Comments URL: https://news.ycombinator.com/item?id=47973206 Points",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced Comments URL: https://news.ycombinator.com/item?id=47973206 Points: 1 # Comments: 0",
+    "author": "saikatsg",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
+    "id": "news-1151"
+  },
+  {
+    "title": "AI Mock Interviewer That Challenges You – LoopPass [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=a4oMH7spG8c Comments URL: https://news.ycombinator.com/item?id=47973229 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=a4oMH7spG8c Comments URL: https://news.ycombinator.com/item?id=47973229 Points: 1 # Comments: 0",
+    "author": "tomerbd",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=a4oMH7spG8c",
+    "id": "news-1150"
+  },
+  {
+    "title": "Show HN: Revdoku – visual document review with AI (open-source)",
+    "summary": "Article URL: https://github.com/revdoku/revdoku Comments URL: https://news.ycombinator.com/item?id=47973316 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/revdoku/revdoku Comments URL: https://news.ycombinator.com/item?id=47973316 Points: 1 # Comments: 0",
+    "author": "eummm",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/revdoku/revdoku",
+    "id": "news-1149"
+  },
+  {
     "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
     "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to i",
     "content": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode. The article Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model appeared first on The Decoder.",
