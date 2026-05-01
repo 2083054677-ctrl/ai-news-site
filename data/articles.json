@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI Tips and Tricks",
+    "summary": "Article URL: https://www.youtube.com/watch?v=w_m5RmVsmtE Comments URL: https://news.ycombinator.com/item?id=47971410 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=w_m5RmVsmtE Comments URL: https://news.ycombinator.com/item?id=47971410 Points: 2 # Comments: 0",
+    "author": "frag",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=w_m5RmVsmtE",
+    "id": "news-1141"
+  },
+  {
+    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+    "summary": "Article URL: https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/ Comments URL: https://news.ycombinator.com/item?id=47971475 Points: 5 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/ Comments URL: https://news.ycombinator.com/item?id=47971475 Points: 5 # Comments: 0",
+    "author": "satai",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+    "id": "news-1140"
+  },
+  {
+    "title": "Shivon Zilis Operated as Elon Musk's OpenAI Insider",
+    "summary": "Article URL: https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/ Comments URL: https://news.ycombinator.com/item?id=47971519 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/ Comments URL: https://news.ycombinator.com/item?id=47971519 Points: 2 # Comments: 0",
+    "author": "aanet",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+    "id": "news-1139"
+  },
+  {
+    "title": "How People ask Claude for personal guidance",
+    "summary": "Article URL: https://www.anthropic.com/research/claude-personal-guidance Comments URL: https://news.ycombinator.com/item?id=47971585 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.anthropic.com/research/claude-personal-guidance Comments URL: https://news.ycombinator.com/item?id=47971585 Points: 1 # Comments: 0",
+    "author": "pseudolus",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/research/claude-personal-guidance",
+    "id": "news-1138"
+  },
+  {
+    "title": "Reunderstanding the Power of AI Through Reverse Engineering",
+    "summary": "Article URL: https://blog.huli.tw/2026/04/18/en/ai-reverse-engineering-op/ Comments URL: https://news.ycombinator.com/item?id=47971741 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.huli.tw/2026/04/18/en/ai-reverse-engineering-op/ Comments URL: https://news.ycombinator.com/item?id=47971741 Points: 1 # Comments: 0",
+    "author": "swq115",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.huli.tw/2026/04/18/en/ai-reverse-engineering-op/",
+    "id": "news-1137"
+  },
+  {
     "title": "Bringing Fusion onto Claude for Creative Work",
     "summary": "Article URL: https://aps.autodesk.com/blog/bringing-fusion-claude-creative-work Comments URL: https://news.ycombinator.com/item?id=47970370 Points: 2 # Comments: 0",
     "content": "Article URL: https://aps.autodesk.com/blog/bringing-fusion-claude-creative-work Comments URL: https://news.ycombinator.com/item?id=47970370 Points: 2 # Comments: 0",
