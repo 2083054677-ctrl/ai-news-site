@@ -1,5 +1,44 @@
 [
   {
+    "title": "Microsoft puts an AI legal agent inside Word for contract review",
+    "summary": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI ",
+    "content": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-puts-an-ai-legal-agent-inside-word-for-contract-review/",
+    "id": "news-1163"
+  },
+  {
+    "title": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training",
+    "summary": "A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of h",
+    "content": "A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side effects. The article ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/",
+    "id": "news-1162"
+  },
+  {
+    "title": "Big tech's AI spending balloons to $725 billion this year",
+    "summary": "Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion f",
+    "content": "Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year. The article Big tech's AI spending balloons to $725 billion this year appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
+    "id": "news-1161"
+  },
+  {
     "title": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have",
     "summary": "Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model. The article Anthropic lau",
     "content": "Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model. The article Anthropic launches Claude Security to give defenders the same AI edge attackers already have appeared first on The Decoder.",
