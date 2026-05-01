@@ -1,5 +1,96 @@
 [
   {
+    "title": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China",
+    "summary": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are ",
+    "content": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering directly in China as part of Beijing's broader push to keep its AI industry under tight control. The article First Chinese AI startups are reportedly ditching offshore structures to register directly in China appeared first on T",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/",
+    "id": "news-1170"
+  },
+  {
+    "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
+    "summary": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the compan",
+    "content": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk. The article Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
+    "id": "news-1169"
+  },
+  {
+    "title": "Tell HN: Claude account suspension for flagging duplicate billing",
+    "summary": "PSA, unsure about precise causation, but my Claude account was suspended less than 24 hours after flagging duplicate billing and payment irregularities to Anthropic.As I've documented here, I was char",
+    "content": "PSA, unsure about precise causation, but my Claude account was suspended less than 24 hours after flagging duplicate billing and payment irregularities to Anthropic.As I've documented here, I was charged an extra $200 this billing cycle, https://news.ycombinator.com/item?id=47954005 and Fin / Claude their support bot accepted that it was an “unauthorized transaction” and said Anthropic would assist with cancelling it, \"Since this appears to be an unauthorized transaction that you didn't initiate",
+    "author": "areoform",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47976682",
+    "id": "news-1168"
+  },
+  {
+    "title": "Regarding cybersecurity, AI is our best hope in a profession that lacks hope",
+    "summary": "Article URL: https://manchester.inklink.news/when-it-comes-to-cybersecurity-ai-is-our-best-hope-in-a-profession-that-generally-lacks-hope/ Comments URL: https://news.ycombinator.com/item?id=47976721 P",
+    "content": "Article URL: https://manchester.inklink.news/when-it-comes-to-cybersecurity-ai-is-our-best-hope-in-a-profession-that-generally-lacks-hope/ Comments URL: https://news.ycombinator.com/item?id=47976721 Points: 1 # Comments: 0",
+    "author": "603security",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://manchester.inklink.news/when-it-comes-to-cybersecurity-ai-is-our-best-hope-in-a-profession-that-generally-lacks-hope/",
+    "id": "news-1167"
+  },
+  {
+    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 1 # Comments: 0",
+    "author": "reconnecting",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+    "id": "news-1166"
+  },
+  {
+    "title": "Show HN: Duo – AI Matchmaking over iMessage",
+    "summary": "Article URL: https://tryduo.net Comments URL: https://news.ycombinator.com/item?id=47976862 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tryduo.net Comments URL: https://news.ycombinator.com/item?id=47976862 Points: 1 # Comments: 0",
+    "author": "gsibble",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tryduo.net",
+    "id": "news-1165"
+  },
+  {
+    "title": "Technical Debt of AI Systems: Agent Runtime",
+    "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/24/hidden-technical-debt-agent-runtime/ Comments URL: https://news.ycombinator.com/item?id=47976902 Points: 1 # Comments: 0",
+    "content": "Article URL: https://leehanchung.github.io/blogs/2026/04/24/hidden-technical-debt-agent-runtime/ Comments URL: https://news.ycombinator.com/item?id=47976902 Points: 1 # Comments: 0",
+    "author": "emersonmacro",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://leehanchung.github.io/blogs/2026/04/24/hidden-technical-debt-agent-runtime/",
+    "id": "news-1164"
+  },
+  {
     "title": "Microsoft puts an AI legal agent inside Word for contract review",
     "summary": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI ",
     "content": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
