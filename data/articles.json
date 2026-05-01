@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have",
+    "summary": "Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model. The article Anthropic lau",
+    "content": "Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model. The article Anthropic launches Claude Security to give defenders the same AI edge attackers already have appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-launches-claude-security-to-give-defenders-the-same-ai-edge-attackers-already-have/",
+    "id": "news-1160"
+  },
+  {
+    "title": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html Comments URL: https://news.ycombinator.com/item?id=47974008 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html Comments URL: https://news.ycombinator.com/item?id=47974008 Points: 1 # Comments: 1",
+    "author": "dolomo",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html",
+    "id": "news-1159"
+  },
+  {
+    "title": "Coverage-guided and grammar-aware and LLM fuzzing finds 100 compiler bugs",
+    "summary": "Article URL: https://nowarp.io/blog/compiler-testing-part-1/ Comments URL: https://news.ycombinator.com/item?id=47974089 Points: 1 # Comments: 1",
+    "content": "Article URL: https://nowarp.io/blog/compiler-testing-part-1/ Comments URL: https://news.ycombinator.com/item?id=47974089 Points: 1 # Comments: 1",
+    "author": "jubnzv_",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nowarp.io/blog/compiler-testing-part-1/",
+    "id": "news-1158"
+  },
+  {
+    "title": "An AI reasoning system just discovered a candidate universal law in astrophysics",
+    "summary": "Article URL: https://blankline.org/research/universal-bimodal-drift-rate Comments URL: https://news.ycombinator.com/item?id=47974218 Points: 1 # Comments: 1",
+    "content": "Article URL: https://blankline.org/research/universal-bimodal-drift-rate Comments URL: https://news.ycombinator.com/item?id=47974218 Points: 1 # Comments: 1",
+    "author": "DarenWatson",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blankline.org/research/universal-bimodal-drift-rate",
+    "id": "news-1157"
+  },
+  {
+    "title": "Show HN: Stanzio, AI presentation tool that designs each slide as real HTML",
+    "summary": "Given that PowerPoint's format doesn't play well with LLMs, I built a tool that generates presentations as real HTML instead. Think Lovable but for slides. Would love to hear what you think :) Comment",
+    "content": "Given that PowerPoint's format doesn't play well with LLMs, I built a tool that generates presentations as real HTML instead. Think Lovable but for slides. Would love to hear what you think :) Comments URL: https://news.ycombinator.com/item?id=47974235 Points: 1 # Comments: 0",
+    "author": "mrconter11",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stanzio.fly.dev/",
+    "id": "news-1156"
+  },
+  {
+    "title": "Ask HN: How do you feel about AI assisted blogging?",
+    "summary": "How do you feel when you learn someone has been using AI heavily to help them write? Setting aside English as a second language.My knee-jerk is to find it disappointing. But maybe I’m missing some nua",
+    "content": "How do you feel when you learn someone has been using AI heavily to help them write? Setting aside English as a second language.My knee-jerk is to find it disappointing. But maybe I’m missing some nuance. And I don’t have the same negative reaction to AI coding.But if you’re going to ask me to read a blog article, I don’t quite enjoy it when it’s not in your own words. I want to be in conversation with you, not you intermediated through an LLM.While I don’t particularly care about a bit of LLM s",
+    "author": "throwarayes",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47974256",
+    "id": "news-1155"
+  },
+  {
     "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
     "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's C",
     "content": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds appeared first on The Decoder.",
