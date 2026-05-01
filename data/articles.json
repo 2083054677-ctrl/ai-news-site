@@ -1,5 +1,96 @@
 [
   {
+    "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
+    "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to i",
+    "content": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode. The article Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+    "id": "news-1148"
+  },
+  {
+    "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+    "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also ",
+    "content": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations. The article Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+    "id": "news-1147"
+  },
+  {
+    "title": "Employers are blindsiding candidates with AI interviews–and scaring them off",
+    "summary": "Article URL: https://www.fastcompany.com/91534397/employers-are-blindsiding-candidates-with-ai-interviews-and-scaring-them-off Comments URL: https://news.ycombinator.com/item?id=47972559 Points: 2 # C",
+    "content": "Article URL: https://www.fastcompany.com/91534397/employers-are-blindsiding-candidates-with-ai-interviews-and-scaring-them-off Comments URL: https://news.ycombinator.com/item?id=47972559 Points: 2 # Comments: 0",
+    "author": "geox",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fastcompany.com/91534397/employers-are-blindsiding-candidates-with-ai-interviews-and-scaring-them-off",
+    "id": "news-1146"
+  },
+  {
+    "title": "AI will dissolve human civilization as we know it",
+    "summary": "Article URL: https://www.newstatesman.com/culture/books/book-of-the-day/2026/04/ai-will-dissolve-human-autonomy Comments URL: https://news.ycombinator.com/item?id=47972572 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.newstatesman.com/culture/books/book-of-the-day/2026/04/ai-will-dissolve-human-autonomy Comments URL: https://news.ycombinator.com/item?id=47972572 Points: 2 # Comments: 0",
+    "author": "thinkingemote",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.newstatesman.com/culture/books/book-of-the-day/2026/04/ai-will-dissolve-human-autonomy",
+    "id": "news-1145"
+  },
+  {
+    "title": "AI and decomp project used to port Super Smash Bros to PC",
+    "summary": "Article URL: https://github.com/JRickey/BattleShip Comments URL: https://news.ycombinator.com/item?id=47972592 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/JRickey/BattleShip Comments URL: https://news.ycombinator.com/item?id=47972592 Points: 1 # Comments: 0",
+    "author": "tnelsond4",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/JRickey/BattleShip",
+    "id": "news-1144"
+  },
+  {
+    "title": "Ubuntu is going all in on Generative AI and other Linux distros might follow",
+    "summary": "Article URL: https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/ Comments URL: https://news.ycombinator.com/item?id=47972608 Points: 1 # Comments:",
+    "content": "Article URL: https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/ Comments URL: https://news.ycombinator.com/item?id=47972608 Points: 1 # Comments: 0",
+    "author": "bundie",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/",
+    "id": "news-1143"
+  },
+  {
+    "title": "Xmemory: Benchmarking Structured AI Memory Against RAG and Hybrid RAG",
+    "summary": "Article URL: https://arxiv.org/abs/2604.27906 Comments URL: https://news.ycombinator.com/item?id=47972683 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.27906 Comments URL: https://news.ycombinator.com/item?id=47972683 Points: 1 # Comments: 0",
+    "author": "alex_petrov",
+    "date": "2026-05-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.27906",
+    "id": "news-1142"
+  },
+  {
     "title": "AI Tips and Tricks",
     "summary": "Article URL: https://www.youtube.com/watch?v=w_m5RmVsmtE Comments URL: https://news.ycombinator.com/item?id=47971410 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.youtube.com/watch?v=w_m5RmVsmtE Comments URL: https://news.ycombinator.com/item?id=47971410 Points: 2 # Comments: 0",
