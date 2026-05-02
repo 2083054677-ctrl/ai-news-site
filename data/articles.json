@@ -1,5 +1,96 @@
 [
   {
+    "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
+    "summary": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered p",
+    "content": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead. The article Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/",
+    "id": "news-1194"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
+    "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen H",
+    "content": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
+    "id": "news-1193"
+  },
+  {
+    "title": "Show HN: Autorank – Rank on Google and AI search while you sleep",
+    "summary": "Article URL: https://www.getautorank.ai/ Comments URL: https://news.ycombinator.com/item?id=47984856 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.getautorank.ai/ Comments URL: https://news.ycombinator.com/item?id=47984856 Points: 1 # Comments: 0",
+    "author": "alokjnv10",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.getautorank.ai/",
+    "id": "news-1192"
+  },
+  {
+    "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
+    "summary": "Article URL: https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead Comments URL: https://news.ycombinator.com/item?id",
+    "content": "Article URL: https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead Comments URL: https://news.ycombinator.com/item?id=47984913 Points: 1 # Comments: 0",
+    "author": "dalvrosa",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead",
+    "id": "news-1191"
+  },
+  {
+    "title": "The AI Race Is Charged by the Fear of Being Left Behind",
+    "summary": "Article URL: https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47984998 Points: 3 # Comments: 0",
+    "content": "Article URL: https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47984998 Points: 3 # Comments: 0",
+    "author": "pseudolus",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/",
+    "id": "news-1190"
+  },
+  {
+    "title": "Leading journal finds AI is flooding academic publishing with lower quality work",
+    "summary": "Article URL: https://phys.org/news/2026-05-journal-ai-academic-publishing-quality.html Comments URL: https://news.ycombinator.com/item?id=47985057 Points: 2 # Comments: 0",
+    "content": "Article URL: https://phys.org/news/2026-05-journal-ai-academic-publishing-quality.html Comments URL: https://news.ycombinator.com/item?id=47985057 Points: 2 # Comments: 0",
+    "author": "pseudolus",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://phys.org/news/2026-05-journal-ai-academic-publishing-quality.html",
+    "id": "news-1189"
+  },
+  {
+    "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+    "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your dat",
+    "content": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your data in natural language, the AI generates Python code, executes it locally, and the whole conversation becomes a reproducible notebook (*.ipynb file). So instead of just chatting with data, you end up with something you can inspect, modify, and rerun.What MLJAR Studio does:- Sets up a local Python env",
+    "author": "pplonski86",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mljar.com/",
+    "id": "news-1188"
+  },
+  {
     "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
     "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new",
     "content": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on The Decoder.",
