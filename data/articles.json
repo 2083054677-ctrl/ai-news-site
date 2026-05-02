@@ -1,5 +1,70 @@
 [
   {
+    "title": "Inside the Courtroom at the OpenAI Trial",
+    "summary": "Article URL: https://www.nytimes.com/2026/04/30/insider/times-inside-openai-musk-trial.html Comments URL: https://news.ycombinator.com/item?id=47989804 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.nytimes.com/2026/04/30/insider/times-inside-openai-musk-trial.html Comments URL: https://news.ycombinator.com/item?id=47989804 Points: 2 # Comments: 1",
+    "author": "bookofjoe",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/2026/04/30/insider/times-inside-openai-musk-trial.html",
+    "id": "news-1216"
+  },
+  {
+    "title": "English councils to trial Google AI tool to speed up planning decisions",
+    "summary": "Article URL: https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6 Comments URL: https://news.ycombinator.com/item?id=47989887 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6 Comments URL: https://news.ycombinator.com/item?id=47989887 Points: 2 # Comments: 1",
+    "author": "mmarian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6",
+    "id": "news-1215"
+  },
+  {
+    "title": "Preliminary Findings on AI Automation from Worker Evaluations",
+    "summary": "Article URL: https://arxiv.org/abs/2604.01363 Comments URL: https://news.ycombinator.com/item?id=47990033 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.01363 Comments URL: https://news.ycombinator.com/item?id=47990033 Points: 2 # Comments: 0",
+    "author": "saikatsg",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.01363",
+    "id": "news-1214"
+  },
+  {
+    "title": "Show HN: I built a dev workspace with AI as backbone",
+    "summary": "Article URL: https://thekit.dev/ Comments URL: https://news.ycombinator.com/item?id=47990080 Points: 2 # Comments: 0",
+    "content": "Article URL: https://thekit.dev/ Comments URL: https://news.ycombinator.com/item?id=47990080 Points: 2 # Comments: 0",
+    "author": "RaiyanYahya",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thekit.dev/",
+    "id": "news-1213"
+  },
+  {
+    "title": "Narrow by Design: The Case for Composable AI Teams",
+    "summary": "Article URL: https://substack.com/@ashconway/note/p-196059865 Comments URL: https://news.ycombinator.com/item?id=47990153 Points: 1 # Comments: 1",
+    "content": "Article URL: https://substack.com/@ashconway/note/p-196059865 Comments URL: https://news.ycombinator.com/item?id=47990153 Points: 1 # Comments: 1",
+    "author": "ashconway",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://substack.com/@ashconway/note/p-196059865",
+    "id": "news-1212"
+  },
+  {
     "title": "Customizing Claude Code spinner verbs",
     "summary": "Article URL: https://www.augmentedswe.com/p/customizing-claude-code-spinner-verbs Comments URL: https://news.ycombinator.com/item?id=47987525 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.augmentedswe.com/p/customizing-claude-code-spinner-verbs Comments URL: https://news.ycombinator.com/item?id=47987525 Points: 1 # Comments: 0",
