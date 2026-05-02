@@ -1,5 +1,83 @@
 [
   {
+    "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
+    "summary": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on",
+    "content": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble. The article Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/",
+    "id": "news-1206"
+  },
+  {
+    "title": "World AI Agents–35 AI Models (Claude, GPT, Llama)via One OpenAIcompatible API",
+    "summary": "Article URL: https://world-ai-agents.com Comments URL: https://news.ycombinator.com/item?id=47986543 Points: 2 # Comments: 1",
+    "content": "Article URL: https://world-ai-agents.com Comments URL: https://news.ycombinator.com/item?id=47986543 Points: 2 # Comments: 1",
+    "author": "fazyyy",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://world-ai-agents.com",
+    "id": "news-1205"
+  },
+  {
+    "title": "The only schema language AI speaks is JSON Schema",
+    "summary": "Article URL: https://www.sourcemeta.com/blog/ai-only-speaks-json-schema/ Comments URL: https://news.ycombinator.com/item?id=47986590 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.sourcemeta.com/blog/ai-only-speaks-json-schema/ Comments URL: https://news.ycombinator.com/item?id=47986590 Points: 1 # Comments: 0",
+    "author": "BerislavLopac",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sourcemeta.com/blog/ai-only-speaks-json-schema/",
+    "id": "news-1204"
+  },
+  {
+    "title": "Interoperability for LLM Applications",
+    "summary": "Is there any suitable way to make a user switch applications such as Chatgpt and Claude but maintain their context , without copy paste shenanigans ? Comments URL: https://news.ycombinator.com/item?id",
+    "content": "Is there any suitable way to make a user switch applications such as Chatgpt and Claude but maintain their context , without copy paste shenanigans ? Comments URL: https://news.ycombinator.com/item?id=47986693 Points: 1 # Comments: 0",
+    "author": "niketmk2000",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47986693",
+    "id": "news-1203"
+  },
+  {
+    "title": "Show HN: Vdiff – CLI to help you review AI-generated code",
+    "summary": "Hey, you probably already saw that reviewing AI-generated code is a nightmare and quickly becomes a bottleneck. Everyone is using AI agents to write code fast, but the hard part is reviewing a bazilli",
+    "content": "Hey, you probably already saw that reviewing AI-generated code is a nightmare and quickly becomes a bottleneck. Everyone is using AI agents to write code fast, but the hard part is reviewing a bazillion lines.I was thinking about building something that would guide me during development and during PR reviews. Something that would give me signals based on facts, risks, and evidence. Not just one LLM reviewing the code it generated. The initial idea was to add a deterministic review layer and comb",
+    "author": "fforbeck",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47986749",
+    "id": "news-1202"
+  },
+  {
+    "title": "Roll your own local AI coding agents to save money",
+    "summary": "Article URL: https://www.theregister.com/2026/05/02/local_ai_coding_agents/ Comments URL: https://news.ycombinator.com/item?id=47986787 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/05/02/local_ai_coding_agents/ Comments URL: https://news.ycombinator.com/item?id=47986787 Points: 1 # Comments: 0",
+    "author": "samizdis",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
+    "id": "news-1201"
+  },
+  {
     "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
     "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI's new C",
     "content": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI's new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
