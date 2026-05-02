@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
+    "summary": "Article URL: https://github.com/p32929/rotato Comments URL: https://news.ycombinator.com/item?id=47990541 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/p32929/rotato Comments URL: https://news.ycombinator.com/item?id=47990541 Points: 1 # Comments: 0",
+    "author": "heliskyr2",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/p32929/rotato",
+    "id": "news-1221"
+  },
+  {
+    "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents",
+    "summary": "Article URL: https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47990574 Points: 2 # Comments: 0",
+    "content": "Article URL: https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47990574 Points: 2 # Comments: 0",
+    "author": "lschueller",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/",
+    "id": "news-1220"
+  },
+  {
+    "title": "What Is GStack? Gary Tan's Open-Source Startup Framework for Claude Code",
+    "summary": "Article URL: https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework Comments URL: https://news.ycombinator.com/item?id=47990960 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework Comments URL: https://news.ycombinator.com/item?id=47990960 Points: 2 # Comments: 0",
+    "author": "evo_9",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework",
+    "id": "news-1219"
+  },
+  {
+    "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+    "summary": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 2 # Comments: 0",
+    "author": "mahimai",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mahimairaja/voiceai",
+    "id": "news-1218"
+  },
+  {
+    "title": "AI agents are briefly overhyped",
+    "summary": "Article URL: https://stevekrouse.com/agent-hype Comments URL: https://news.ycombinator.com/item?id=47991259 Points: 1 # Comments: 0",
+    "content": "Article URL: https://stevekrouse.com/agent-hype Comments URL: https://news.ycombinator.com/item?id=47991259 Points: 1 # Comments: 0",
+    "author": "stevekrouse",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stevekrouse.com/agent-hype",
+    "id": "news-1217"
+  },
+  {
     "title": "Inside the Courtroom at the OpenAI Trial",
     "summary": "Article URL: https://www.nytimes.com/2026/04/30/insider/times-inside-openai-musk-trial.html Comments URL: https://news.ycombinator.com/item?id=47989804 Points: 2 # Comments: 1",
     "content": "Article URL: https://www.nytimes.com/2026/04/30/insider/times-inside-openai-musk-trial.html Comments URL: https://news.ycombinator.com/item?id=47989804 Points: 2 # Comments: 1",
