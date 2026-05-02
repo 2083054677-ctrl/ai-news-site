@@ -1,5 +1,96 @@
 [
   {
+    "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
+    "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new",
+    "content": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
+    "id": "news-1187"
+  },
+  {
+    "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
+    "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartp",
+    "content": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones. The article Meta acquires Assured Robot Intelligence to accelerate humanoid robot push appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
+    "id": "news-1186"
+  },
+  {
+    "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
+    "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can ",
+    "content": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings. The article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
+    "id": "news-1185"
+  },
+  {
+    "title": "Claude Code: Creating Kubernetes Debugging AI Agent for VictoriaMetrics",
+    "summary": "Article URL: https://rtfm.co.ua/en/claude-code-creating-kubernetes-debugging-ai-agent-for-victoriametrics/ Comments URL: https://news.ycombinator.com/item?id=47984578 Points: 1 # Comments: 0",
+    "content": "Article URL: https://rtfm.co.ua/en/claude-code-creating-kubernetes-debugging-ai-agent-for-victoriametrics/ Comments URL: https://news.ycombinator.com/item?id=47984578 Points: 1 # Comments: 0",
+    "author": "valyala",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rtfm.co.ua/en/claude-code-creating-kubernetes-debugging-ai-agent-for-victoriametrics/",
+    "id": "news-1184"
+  },
+  {
+    "title": "Ask HN: Is the AI running out of capacity?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47984627 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=47984627 Points: 1 # Comments: 0",
+    "author": "roschdal",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47984627",
+    "id": "news-1183"
+  },
+  {
+    "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+    "summary": "Article URL: https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/ Comments URL: https://news.ycombinator.com/item?id=47984673 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/ Comments URL: https://news.ycombinator.com/item?id=47984673 Points: 1 # Comments: 0",
+    "author": "zeristor",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+    "id": "news-1182"
+  },
+  {
+    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+    "summary": "Hey HN!I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on.It's bui",
+    "content": "Hey HN!I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on.It's built on top of SimplePDF that I started 7 years ago, pioneering privacy-respecting client-side pdf editing, now used monthly by 200k+ people.As for the privacy model: the PDF itself never leaves the browser. Parsing, rendering, and field detection all run client-side.The text the model needs (and your",
+    "author": "nip",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+    "id": "news-1181"
+  },
+  {
     "title": "GitHub Copilot: Upcoming Deprecation of GPT-5.2 and GPT-5.2-Codex",
     "summary": "Article URL: https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/ Comments URL: https://news.ycombinator.com/item?id=47981179 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/ Comments URL: https://news.ycombinator.com/item?id=47981179 Points: 2 # Comments: 0",
