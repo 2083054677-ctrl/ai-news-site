@@ -1,5 +1,70 @@
 [
   {
+    "title": "Customizing Claude Code spinner verbs",
+    "summary": "Article URL: https://www.augmentedswe.com/p/customizing-claude-code-spinner-verbs Comments URL: https://news.ycombinator.com/item?id=47987525 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.augmentedswe.com/p/customizing-claude-code-spinner-verbs Comments URL: https://news.ycombinator.com/item?id=47987525 Points: 1 # Comments: 0",
+    "author": "wordsaboutcode",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.augmentedswe.com/p/customizing-claude-code-spinner-verbs",
+    "id": "news-1211"
+  },
+  {
+    "title": "AI Agents Are the Mass-Produced Cars of Software",
+    "summary": "Article URL: https://telegraphic.substack.com/p/ai-agents-are-the-mass-produced-cars Comments URL: https://news.ycombinator.com/item?id=47987676 Points: 1 # Comments: 0",
+    "content": "Article URL: https://telegraphic.substack.com/p/ai-agents-are-the-mass-produced-cars Comments URL: https://news.ycombinator.com/item?id=47987676 Points: 1 # Comments: 0",
+    "author": "telegrahi",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://telegraphic.substack.com/p/ai-agents-are-the-mass-produced-cars",
+    "id": "news-1210"
+  },
+  {
+    "title": "Life update: Zig, AI, unemployment, and more [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=DhhPUrizZcw Comments URL: https://news.ycombinator.com/item?id=47987696 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=DhhPUrizZcw Comments URL: https://news.ycombinator.com/item?id=47987696 Points: 1 # Comments: 0",
+    "author": "rubenflamshep",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=DhhPUrizZcw",
+    "id": "news-1209"
+  },
+  {
+    "title": "AI talks draw backlash from Mass. state lawmakers",
+    "summary": "Article URL: https://www.politico.com/news/2026/05/01/ai-backlash-massachusetts-lawmakers-00903440 Comments URL: https://news.ycombinator.com/item?id=47987699 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.politico.com/news/2026/05/01/ai-backlash-massachusetts-lawmakers-00903440 Comments URL: https://news.ycombinator.com/item?id=47987699 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.politico.com/news/2026/05/01/ai-backlash-massachusetts-lawmakers-00903440",
+    "id": "news-1208"
+  },
+  {
+    "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+    "summary": "Article URL: https://arxiv.org/abs/2604.22119 Comments URL: https://news.ycombinator.com/item?id=47987881 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.22119 Comments URL: https://news.ycombinator.com/item?id=47987881 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.22119",
+    "id": "news-1207"
+  },
+  {
     "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
     "summary": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on",
     "content": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble. The article Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows appeared first on The Decoder.",
