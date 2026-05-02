@@ -1,5 +1,83 @@
 [
   {
+    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
+    "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI's new C",
+    "content": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI's new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
+    "id": "news-1200"
+  },
+  {
+    "title": "When generative AI makes mistakes, are they the same as human errors?",
+    "summary": "Article URL: https://link.springer.com/article/10.1007/s13347-026-01056-x Comments URL: https://news.ycombinator.com/item?id=47985788 Points: 1 # Comments: 1",
+    "content": "Article URL: https://link.springer.com/article/10.1007/s13347-026-01056-x Comments URL: https://news.ycombinator.com/item?id=47985788 Points: 1 # Comments: 1",
+    "author": "camilochs",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://link.springer.com/article/10.1007/s13347-026-01056-x",
+    "id": "news-1199"
+  },
+  {
+    "title": "I'm building a pool logging and AI app. What would make this genuinely useful?",
+    "summary": "Article URL: https://poolquant.com Comments URL: https://news.ycombinator.com/item?id=47985799 Points: 1 # Comments: 0",
+    "content": "Article URL: https://poolquant.com Comments URL: https://news.ycombinator.com/item?id=47985799 Points: 1 # Comments: 0",
+    "author": "geoffreycross01",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://poolquant.com",
+    "id": "news-1198"
+  },
+  {
+    "title": "AI Cyberattacks Meet Memory-Safe Code Defenses",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code Comments URL: https://news.ycombinator.com/item?id=47985890 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code Comments URL: https://news.ycombinator.com/item?id=47985890 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+    "id": "news-1197"
+  },
+  {
+    "title": "David Bessis on AI destroying mathematics",
+    "summary": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=47985962 Points: 1 # Comments: 0",
+    "content": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=47985962 Points: 1 # Comments: 0",
+    "author": "delis-thumbs-7e",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "id": "news-1196"
+  },
+  {
+    "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
+    "summary": "Article URL: https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for Comments URL: https://news.ycombinator.com/item?id=47985976 Points: 1 # Comments: 0",
+    "content": "Article URL: https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for Comments URL: https://news.ycombinator.com/item?id=47985976 Points: 1 # Comments: 0",
+    "author": "2noame",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for",
+    "id": "news-1195"
+  },
+  {
     "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
     "summary": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered p",
     "content": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead. The article Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company appeared first on The Decoder.",
