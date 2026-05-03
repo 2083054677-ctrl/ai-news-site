@@ -1,5 +1,57 @@
 [
   {
+    "title": "In real-world test, an AI model did better than doctors at diagnosing patients",
+    "summary": "Article URL: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis Comments URL: https://news.ycombinator.com/item?id=47991831 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis Comments URL: https://news.ycombinator.com/item?id=47991831 Points: 2 # Comments: 0",
+    "author": "jawns",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
+    "id": "news-1223"
+  },
+  {
+    "title": "US Navy signs deal with AI firm for training underwater drones",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months Comments URL: https://news.ycombinator.com/item?id=47992542 Points: 1 # Comments: 0",
+    "author": "y1n0",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months",
+    "id": "news-1222"
+  },
+  {
+    "title": "AI is locking people out. At Scale",
+    "summary": "Article URL: https://conesible.de/wab/ Comments URL: https://news.ycombinator.com/item?id=47991586 Points: 6 # Comments: 0",
+    "content": "Article URL: https://conesible.de/wab/ Comments URL: https://news.ycombinator.com/item?id=47991586 Points: 6 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://conesible.de/wab/",
+    "id": "news-1225"
+  },
+  {
+    "title": "Spine – verified codebase onboarding for Claude Code",
+    "summary": "Article URL: https://github.com/ahmedbutt2015/spine Comments URL: https://news.ycombinator.com/item?id=47991661 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ahmedbutt2015/spine Comments URL: https://news.ycombinator.com/item?id=47991661 Points: 1 # Comments: 0",
+    "author": "ahmedthefayyaz",
+    "date": "2026-05-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ahmedbutt2015/spine",
+    "id": "news-1224"
+  },
+  {
     "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
     "summary": "Article URL: https://github.com/p32929/rotato Comments URL: https://news.ycombinator.com/item?id=47990541 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/p32929/rotato Comments URL: https://news.ycombinator.com/item?id=47990541 Points: 1 # Comments: 0",
