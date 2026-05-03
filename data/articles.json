@@ -1,5 +1,70 @@
 [
   {
+    "title": "Public Runtime for Convera for LLM's",
+    "summary": "Article URL: https://github.com/cjparadise79/CONVERA-PUBLIC Comments URL: https://news.ycombinator.com/item?id=47999666 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/cjparadise79/CONVERA-PUBLIC Comments URL: https://news.ycombinator.com/item?id=47999666 Points: 1 # Comments: 1",
+    "author": "cjparadise",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/cjparadise79/CONVERA-PUBLIC",
+    "id": "news-1259"
+  },
+  {
+    "title": "Separating what AI does well from what code does well",
+    "summary": "Article URL: https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude Comments URL: https://news.ycombinator.com/item?id=47999754 Points: 2 # Comments: 1",
+    "content": "Article URL: https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude Comments URL: https://news.ycombinator.com/item?id=47999754 Points: 2 # Comments: 1",
+    "author": "eddiehammond",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+    "id": "news-1258"
+  },
+  {
+    "title": "The Croupier – AI-powered candidate discovery and ranking for recruiting teams",
+    "summary": "Article URL: https://dealers-choice-systems.vercel.app Comments URL: https://news.ycombinator.com/item?id=47999878 Points: 1 # Comments: 0",
+    "content": "Article URL: https://dealers-choice-systems.vercel.app Comments URL: https://news.ycombinator.com/item?id=47999878 Points: 1 # Comments: 0",
+    "author": "Berlia",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dealers-choice-systems.vercel.app",
+    "id": "news-1257"
+  },
+  {
+    "title": "Writing the loss function: AI, feeds, and the engagement optimizer",
+    "summary": "Article URL: https://eignex.com/posts/writing-the-loss-function/ Comments URL: https://news.ycombinator.com/item?id=47999988 Points: 1 # Comments: 1",
+    "content": "Article URL: https://eignex.com/posts/writing-the-loss-function/ Comments URL: https://news.ycombinator.com/item?id=47999988 Points: 1 # Comments: 1",
+    "author": "monom",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://eignex.com/posts/writing-the-loss-function/",
+    "id": "news-1256"
+  },
+  {
+    "title": "MIT AI expert warns automating Gen Z entry-level jobs could backfire",
+    "summary": "Article URL: https://fortune.com/2026/05/01/automating-gen-z-entry-level-jobs-could-backfire-mit-ai-researcher-andrew-mcafee-talent-pipelines-at-risk/ Comments URL: https://news.ycombinator.com/item?i",
+    "content": "Article URL: https://fortune.com/2026/05/01/automating-gen-z-entry-level-jobs-could-backfire-mit-ai-researcher-andrew-mcafee-talent-pipelines-at-risk/ Comments URL: https://news.ycombinator.com/item?id=48000054 Points: 1 # Comments: 1",
+    "author": "ZeidJ",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/05/01/automating-gen-z-entry-level-jobs-could-backfire-mit-ai-researcher-andrew-mcafee-talent-pipelines-at-risk/",
+    "id": "news-1255"
+  },
+  {
     "title": "Do you think AI Agents need an identity?",
     "summary": "Are you giving your agents names and IDs, or keeping them strictly ephemeral? I’d love to hear from anyone building in this space. Comments URL: https://news.ycombinator.com/item?id=47998124 Points: 1",
     "content": "Are you giving your agents names and IDs, or keeping them strictly ephemeral? I’d love to hear from anyone building in this space. Comments URL: https://news.ycombinator.com/item?id=47998124 Points: 1 # Comments: 1",
