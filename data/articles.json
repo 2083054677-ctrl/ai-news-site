@@ -1,5 +1,70 @@
 [
   {
+    "title": "Do you think AI Agents need an identity?",
+    "summary": "Are you giving your agents names and IDs, or keeping them strictly ephemeral? I’d love to hear from anyone building in this space. Comments URL: https://news.ycombinator.com/item?id=47998124 Points: 1",
+    "content": "Are you giving your agents names and IDs, or keeping them strictly ephemeral? I’d love to hear from anyone building in this space. Comments URL: https://news.ycombinator.com/item?id=47998124 Points: 1 # Comments: 1",
+    "author": "DannyHeng",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47998124",
+    "id": "news-1254"
+  },
+  {
+    "title": "AI chatbot fraud: the 'gift card' subcription that may cost you dear",
+    "summary": "Article URL: https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments Comments URL: https://news.ycombinator.com/item?id=47998302 Points: 1 # Comment",
+    "content": "Article URL: https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments Comments URL: https://news.ycombinator.com/item?id=47998302 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments",
+    "id": "news-1253"
+  },
+  {
+    "title": "On AI-Created Art: An Interview with Adam Clegg",
+    "summary": "Article URL: https://micahblachman.beehiiv.com/p/on-ai-created-art-an-interview-with-adam-clegg Comments URL: https://news.ycombinator.com/item?id=47998309 Points: 1 # Comments: 0",
+    "content": "Article URL: https://micahblachman.beehiiv.com/p/on-ai-created-art-an-interview-with-adam-clegg Comments URL: https://news.ycombinator.com/item?id=47998309 Points: 1 # Comments: 0",
+    "author": "subdomain",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://micahblachman.beehiiv.com/p/on-ai-created-art-an-interview-with-adam-clegg",
+    "id": "news-1252"
+  },
+  {
+    "title": "Can Investors Trust AI Sales Figures?",
+    "summary": "Article URL: https://www.wsj.com/opinion/can-investors-trust-ai-sales-figures-c60c46bf Comments URL: https://news.ycombinator.com/item?id=47998424 Points: 2 # Comments: 2",
+    "content": "Article URL: https://www.wsj.com/opinion/can-investors-trust-ai-sales-figures-c60c46bf Comments URL: https://news.ycombinator.com/item?id=47998424 Points: 2 # Comments: 2",
+    "author": "ericlamb89",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/opinion/can-investors-trust-ai-sales-figures-c60c46bf",
+    "id": "news-1251"
+  },
+  {
+    "title": "Eliza effect at work: Avoiding emotional attachment to AI coworkers",
+    "summary": "Article URL: https://www.ibm.com/think Comments URL: https://news.ycombinator.com/item?id=47998537 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ibm.com/think Comments URL: https://news.ycombinator.com/item?id=47998537 Points: 1 # Comments: 0",
+    "author": "thinkingemote",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ibm.com/think",
+    "id": "news-1250"
+  },
+  {
     "title": "Show HN: Kirikiri – A mobile IDE for Claude Code (iOS, open source)",
     "summary": "Claude Code runs in a terminal. Phones don't have good terminals. That's the problem Kirikiri solves.Connect to Google Cloud Shell or any SSH server, run Claude Code there, and interact with it from y",
     "content": "Claude Code runs in a terminal. Phones don't have good terminals. That's the problem Kirikiri solves.Connect to Google Cloud Shell or any SSH server, run Claude Code there, and interact with it from your phone. Instead of fighting a software keyboard, you place floating tap buttons on screen for your most-used commands — git push, npm run dev, whatever you type constantly.It's early, but the goal is to make the phone a first-class environment for AI-assisted development: Claude Code or Codex wri",
