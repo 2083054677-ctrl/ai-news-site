@@ -1,5 +1,57 @@
 [
   {
+    "title": "Can AI Design Therapies?",
+    "summary": "Article URL: https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences Comments URL: https://news.ycombinator.com/item?id=47993434 Points: 1 # Co",
+    "content": "Article URL: https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences Comments URL: https://news.ycombinator.com/item?id=47993434 Points: 1 # Comments: 0",
+    "author": "hemc4",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences",
+    "id": "news-1229"
+  },
+  {
+    "title": "The AI Spending Trap: Why Adoption Outpaces Outcomes",
+    "summary": "Article URL: https://age-of-product.com/ai-spending-trap/ Comments URL: https://news.ycombinator.com/item?id=47993456 Points: 1 # Comments: 0",
+    "content": "Article URL: https://age-of-product.com/ai-spending-trap/ Comments URL: https://news.ycombinator.com/item?id=47993456 Points: 1 # Comments: 0",
+    "author": "swolpers",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://age-of-product.com/ai-spending-trap/",
+    "id": "news-1228"
+  },
+  {
+    "title": "Show HN: UIGen – Runtime front end for any OpenAPI spec with AI skills",
+    "summary": "Article URL: https://github.com/darula-hpp/uigen Comments URL: https://news.ycombinator.com/item?id=47993816 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/darula-hpp/uigen Comments URL: https://news.ycombinator.com/item?id=47993816 Points: 2 # Comments: 0",
+    "author": "ombedzi",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/darula-hpp/uigen",
+    "id": "news-1227"
+  },
+  {
+    "title": "I Wrote Ultralearning. This Is What I'd Change Because of AI",
+    "summary": "Article URL: https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai/ Comments URL: https://news.ycombinator.com/item?id=47993821 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai/ Comments URL: https://news.ycombinator.com/item?id=47993821 Points: 2 # Comments: 0",
+    "author": "pullshark91",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai/",
+    "id": "news-1226"
+  },
+  {
     "title": "In real-world test, an AI model did better than doctors at diagnosing patients",
     "summary": "Article URL: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis Comments URL: https://news.ycombinator.com/item?id=47991831 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis Comments URL: https://news.ycombinator.com/item?id=47991831 Points: 2 # Comments: 0",
