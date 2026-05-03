@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Kirikiri – A mobile IDE for Claude Code (iOS, open source)",
+    "summary": "Claude Code runs in a terminal. Phones don't have good terminals. That's the problem Kirikiri solves.Connect to Google Cloud Shell or any SSH server, run Claude Code there, and interact with it from y",
+    "content": "Claude Code runs in a terminal. Phones don't have good terminals. That's the problem Kirikiri solves.Connect to Google Cloud Shell or any SSH server, run Claude Code there, and interact with it from your phone. Instead of fighting a software keyboard, you place floating tap buttons on screen for your most-used commands — git push, npm run dev, whatever you type constantly.It's early, but the goal is to make the phone a first-class environment for AI-assisted development: Claude Code or Codex wri",
+    "author": "Husena",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=47996198",
+    "id": "news-1249"
+  },
+  {
+    "title": "Show HN: Flop Map – a 3D globe of every known AI compute cluster",
+    "summary": "Article URL: https://flopmap.com Comments URL: https://news.ycombinator.com/item?id=47996208 Points: 2 # Comments: 0",
+    "content": "Article URL: https://flopmap.com Comments URL: https://news.ycombinator.com/item?id=47996208 Points: 2 # Comments: 0",
+    "author": "kitwebster",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://flopmap.com",
+    "id": "news-1248"
+  },
+  {
+    "title": "Show HN: ShadowBrokers – AI trade signals for retail traders",
+    "summary": "Article URL: https://www.shadowbrokers.app/start Comments URL: https://news.ycombinator.com/item?id=47996308 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.shadowbrokers.app/start Comments URL: https://news.ycombinator.com/item?id=47996308 Points: 3 # Comments: 1",
+    "author": "devlsx",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.shadowbrokers.app/start",
+    "id": "news-1247"
+  },
+  {
+    "title": "Where's the New AI Infrastructure?",
+    "summary": "Article URL: https://blog.viewfromtheweb.com/where-s-the-new-ai-infrastructure-6f3e2320/ Comments URL: https://news.ycombinator.com/item?id=47996359 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.viewfromtheweb.com/where-s-the-new-ai-infrastructure-6f3e2320/ Comments URL: https://news.ycombinator.com/item?id=47996359 Points: 1 # Comments: 0",
+    "author": "rickdg",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.viewfromtheweb.com/where-s-the-new-ai-infrastructure-6f3e2320/",
+    "id": "news-1246"
+  },
+  {
+    "title": "In Defense of AI Slop",
+    "summary": "Article URL: https://reidhoffman.substack.com/p/in-defense-of-ai-slop Comments URL: https://news.ycombinator.com/item?id=47996408 Points: 1 # Comments: 0",
+    "content": "Article URL: https://reidhoffman.substack.com/p/in-defense-of-ai-slop Comments URL: https://news.ycombinator.com/item?id=47996408 Points: 1 # Comments: 0",
+    "author": "aworks",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://reidhoffman.substack.com/p/in-defense-of-ai-slop",
+    "id": "news-1245"
+  },
+  {
     "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
     "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneakin",
     "content": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off appeared first on The Decoder.",
