@@ -1,5 +1,70 @@
 [
   {
+    "title": "Professor's bold prediction: AI could help cure all diseases within a decade",
+    "summary": "Article URL: https://excitech.media/p/professors-bold-prediction-ai-could Comments URL: https://news.ycombinator.com/item?id=48000703 Points: 1 # Comments: 0",
+    "content": "Article URL: https://excitech.media/p/professors-bold-prediction-ai-could Comments URL: https://news.ycombinator.com/item?id=48000703 Points: 1 # Comments: 0",
+    "author": "sminchev",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://excitech.media/p/professors-bold-prediction-ai-could",
+    "id": "news-1264"
+  },
+  {
+    "title": "Claude Code Leak: 8100 Takedown Requests and the Birth of Claw-Code",
+    "summary": "Article URL: https://www.heise.de/en/news/Claude-Code-Leak-8100-Takedown-Requests-and-the-Birth-of-Claw-Code-11279674.html Comments URL: https://news.ycombinator.com/item?id=48000722 Points: 2 # Comme",
+    "content": "Article URL: https://www.heise.de/en/news/Claude-Code-Leak-8100-Takedown-Requests-and-the-Birth-of-Claw-Code-11279674.html Comments URL: https://news.ycombinator.com/item?id=48000722 Points: 2 # Comments: 0",
+    "author": "smartmic",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.heise.de/en/news/Claude-Code-Leak-8100-Takedown-Requests-and-the-Birth-of-Claw-Code-11279674.html",
+    "id": "news-1263"
+  },
+  {
+    "title": "Most Companies Aren't Anywhere Near Ready for AI",
+    "summary": "Article URL: https://danielmiessler.com/blog/most-companies-arent-ready-for-ai Comments URL: https://news.ycombinator.com/item?id=48001097 Points: 1 # Comments: 0",
+    "content": "Article URL: https://danielmiessler.com/blog/most-companies-arent-ready-for-ai Comments URL: https://news.ycombinator.com/item?id=48001097 Points: 1 # Comments: 0",
+    "author": "rmason",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://danielmiessler.com/blog/most-companies-arent-ready-for-ai",
+    "id": "news-1262"
+  },
+  {
+    "title": "Duralang – decorator makes every LangChain LLM/tool/MCP call a Temporal Activity",
+    "summary": "Article URL: https://temporal.io/code-exchange/duralang-durable-stochastic-ai-agents-with-one-decorator Comments URL: https://news.ycombinator.com/item?id=48001123 Points: 1 # Comments: 0",
+    "content": "Article URL: https://temporal.io/code-exchange/duralang-durable-stochastic-ai-agents-with-one-decorator Comments URL: https://news.ycombinator.com/item?id=48001123 Points: 1 # Comments: 0",
+    "author": "deepanshsaxena",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://temporal.io/code-exchange/duralang-durable-stochastic-ai-agents-with-one-decorator",
+    "id": "news-1261"
+  },
+  {
+    "title": "Show HN: I built an AI visibility checker – my site failed it",
+    "summary": "A few months ago I noticed that most articles about \"AI SEO\" were vague and had nothing you could actually measure. So I built AIO Checker – a tool that audits any URL against 7 signals AI crawlers us",
+    "content": "A few months ago I noticed that most articles about \"AI SEO\" were vague and had nothing you could actually measure. So I built AIO Checker – a tool that audits any URL against 7 signals AI crawlers use: robots.txt permissions, llms.txt, JSON-LD schema, SSR vs. client-side rendering, sitemap quality, meta freshness, and semantic HTML structure.The embarrassing part: when I ran it on my own site at launch, it scored below 40. A React SPA with client-side rendering, no llms.txt, blocking ClaudeBot ",
+    "author": "solskede",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aiochecker.vercel.app",
+    "id": "news-1260"
+  },
+  {
     "title": "Public Runtime for Convera for LLM's",
     "summary": "Article URL: https://github.com/cjparadise79/CONVERA-PUBLIC Comments URL: https://news.ycombinator.com/item?id=47999666 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/cjparadise79/CONVERA-PUBLIC Comments URL: https://news.ycombinator.com/item?id=47999666 Points: 1 # Comments: 1",
