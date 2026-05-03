@@ -1,5 +1,122 @@
 [
   {
+    "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
+    "summary": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decide",
+    "content": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow? The article Same prompt, different morals: how frontier AI models diverge on ethical dilemmas appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/",
+    "id": "news-1238"
+  },
+  {
+    "title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding",
+    "summary": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into ",
+    "content": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into the race among Chinese open-weight providers like Deepseek, where the fight is shifting from raw benchmark scores to how cheaply and how long a model can run autonomously on a single task. The article Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding appea",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/",
+    "id": "news-1237"
+  },
+  {
+    "title": "China is falling behind in the AI race, according to a US government benchmark",
+    "summary": "A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and ",
+    "content": "A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger argument. The article China is falling behind in the AI race, according to a US government benchmark appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/",
+    "id": "news-1236"
+  },
+  {
+    "title": "MIT study explains why scaling language models works so reliably",
+    "summary": "MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition. The article MIT study ",
+    "content": "MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition. The article MIT study explains why scaling language models works so reliably appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/",
+    "id": "news-1235"
+  },
+  {
+    "title": "Show HN: Editor, Browser, Terminal, Mail, Agents. AI Sharing Context",
+    "summary": "Article URL: https://github.com/raiyanyahya/kit Comments URL: https://news.ycombinator.com/item?id=47994639 Points: 2 # Comments: 2",
+    "content": "Article URL: https://github.com/raiyanyahya/kit Comments URL: https://news.ycombinator.com/item?id=47994639 Points: 2 # Comments: 2",
+    "author": "RaiyanYahya",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/raiyanyahya/kit",
+    "id": "news-1234"
+  },
+  {
+    "title": "OpenAI: Auto-review of agent actions without synchronous human oversight",
+    "summary": "Article URL: https://alignment.openai.com/auto-review/ Comments URL: https://news.ycombinator.com/item?id=47994914 Points: 1 # Comments: 0",
+    "content": "Article URL: https://alignment.openai.com/auto-review/ Comments URL: https://news.ycombinator.com/item?id=47994914 Points: 1 # Comments: 0",
+    "author": "tosh",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alignment.openai.com/auto-review/",
+    "id": "news-1233"
+  },
+  {
+    "title": "NIST's CAISI Evaluation of DeepSeek V4 Pro finds it to be on par with GPT-5",
+    "summary": "Article URL: https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro Comments URL: https://news.ycombinator.com/item?id=47994920 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro Comments URL: https://news.ycombinator.com/item?id=47994920 Points: 1 # Comments: 0",
+    "author": "maxloh",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro",
+    "id": "news-1232"
+  },
+  {
+    "title": "Wire-level context pruner for Claude Code",
+    "summary": "Article URL: https://github.com/pathakmukul/claude-code-context-pruner Comments URL: https://news.ycombinator.com/item?id=47994929 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/pathakmukul/claude-code-context-pruner Comments URL: https://news.ycombinator.com/item?id=47994929 Points: 1 # Comments: 0",
+    "author": "mukulpathak",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/pathakmukul/claude-code-context-pruner",
+    "id": "news-1231"
+  },
+  {
+    "title": "Comparison: Different AI systems structure decisions under real-world scenarios",
+    "summary": "Article URL: https://zenodo.org/records/19443285 Comments URL: https://news.ycombinator.com/item?id=47995040 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/19443285 Comments URL: https://news.ycombinator.com/item?id=47995040 Points: 1 # Comments: 0",
+    "author": "zobian_ai",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/19443285",
+    "id": "news-1230"
+  },
+  {
     "title": "Can AI Design Therapies?",
     "summary": "Article URL: https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences Comments URL: https://news.ycombinator.com/item?id=47993434 Points: 1 # Co",
     "content": "Article URL: https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences Comments URL: https://news.ycombinator.com/item?id=47993434 Points: 1 # Comments: 0",
