@@ -1,5 +1,83 @@
 [
   {
+    "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
+    "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneakin",
+    "content": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/",
+    "id": "news-1244"
+  },
+  {
+    "title": "Thoth – open-source Local-first AI Assistant",
+    "summary": "Article URL: https://github.com/siddsachar/Thoth Comments URL: https://news.ycombinator.com/item?id=47995065 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/siddsachar/Thoth Comments URL: https://news.ycombinator.com/item?id=47995065 Points: 2 # Comments: 0",
+    "author": "sydsachar",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/siddsachar/Thoth",
+    "id": "news-1243"
+  },
+  {
+    "title": "Why CFOs Need a Consensus Hardening Protocol for AI Decisions",
+    "summary": "Article URL: https://cubiczan.substack.com/p/why-cfos-need-a-consensus-hardening Comments URL: https://news.ycombinator.com/item?id=47995494 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cubiczan.substack.com/p/why-cfos-need-a-consensus-hardening Comments URL: https://news.ycombinator.com/item?id=47995494 Points: 1 # Comments: 0",
+    "author": "cubiczan",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cubiczan.substack.com/p/why-cfos-need-a-consensus-hardening",
+    "id": "news-1242"
+  },
+  {
+    "title": "Codeonix: Python task automation for your desktop – with AI, 14 triggers",
+    "summary": "Article URL: https://codeonix.app Comments URL: https://news.ycombinator.com/item?id=47995519 Points: 2 # Comments: 1",
+    "content": "Article URL: https://codeonix.app Comments URL: https://news.ycombinator.com/item?id=47995519 Points: 2 # Comments: 1",
+    "author": "hassananayi",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codeonix.app",
+    "id": "news-1241"
+  },
+  {
+    "title": "Mnemory – Persistent memory for AI agents",
+    "summary": "Article URL: https://github.com/fpytloun/mnemory Comments URL: https://news.ycombinator.com/item?id=47995527 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/fpytloun/mnemory Comments URL: https://news.ycombinator.com/item?id=47995527 Points: 1 # Comments: 1",
+    "author": "genunix64",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fpytloun/mnemory",
+    "id": "news-1240"
+  },
+  {
+    "title": "Three full-stack data platforms in a weekend: Fabric and Azure AI Foundry",
+    "summary": "Article URL: https://cubiczan.substack.com/p/how-we-shipped-3-full-stack-data Comments URL: https://news.ycombinator.com/item?id=47995604 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cubiczan.substack.com/p/how-we-shipped-3-full-stack-data Comments URL: https://news.ycombinator.com/item?id=47995604 Points: 1 # Comments: 0",
+    "author": "cubiczan",
+    "date": "2026-05-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cubiczan.substack.com/p/how-we-shipped-3-full-stack-data",
+    "id": "news-1239"
+  },
+  {
     "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
     "summary": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decide",
     "content": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow? The article Same prompt, different morals: how frontier AI models diverge on ethical dilemmas appeared first on The Decoder.",
