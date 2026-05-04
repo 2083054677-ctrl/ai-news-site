@@ -1,5 +1,70 @@
 [
   {
+    "title": "Use Cheaper Models with Claude",
+    "summary": "Article URL: https://gist.github.com/gitcloned/1929590e2fa0d0267919c6826808da2c Comments URL: https://news.ycombinator.com/item?id=48004559 Points: 1 # Comments: 5",
+    "content": "Article URL: https://gist.github.com/gitcloned/1929590e2fa0d0267919c6826808da2c Comments URL: https://news.ycombinator.com/item?id=48004559 Points: 1 # Comments: 5",
+    "author": "ashish0112",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gist.github.com/gitcloned/1929590e2fa0d0267919c6826808da2c",
+    "id": "news-1279"
+  },
+  {
+    "title": "The AI Revolution Hollywood Feared Is Happening – In India",
+    "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/ Comments URL: https://news.ycombinator.com/item?id=48004924 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/ Comments URL: https://news.ycombinator.com/item?id=48004924 Points: 2 # Comments: 0",
+    "author": "varun_chopra",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/",
+    "id": "news-1278"
+  },
+  {
+    "title": "Show HN: See how much you spend per AI agent",
+    "summary": "Article URL: https://wakatime.com/ai Comments URL: https://news.ycombinator.com/item?id=48005014 Points: 1 # Comments: 0",
+    "content": "Article URL: https://wakatime.com/ai Comments URL: https://news.ycombinator.com/item?id=48005014 Points: 1 # Comments: 0",
+    "author": "welder",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wakatime.com/ai",
+    "id": "news-1277"
+  },
+  {
+    "title": "Evolving the Android and Chrome Vulnerability Reward Programs for the AI Era",
+    "summary": "Article URL: https://bughunters.google.com/blog/evolving-the-android-chrome-vrps-for-the-ai-era Comments URL: https://news.ycombinator.com/item?id=48005109 Points: 2 # Comments: 0",
+    "content": "Article URL: https://bughunters.google.com/blog/evolving-the-android-chrome-vrps-for-the-ai-era Comments URL: https://news.ycombinator.com/item?id=48005109 Points: 2 # Comments: 0",
+    "author": "tjek",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bughunters.google.com/blog/evolving-the-android-chrome-vrps-for-the-ai-era",
+    "id": "news-1276"
+  },
+  {
+    "title": "AI Coding Models You Can Run Locally on Consumer Hardware",
+    "summary": "Article URL: https://firethering.com/best-coding-models-consumer-hardware/ Comments URL: https://news.ycombinator.com/item?id=48005219 Points: 1 # Comments: 1",
+    "content": "Article URL: https://firethering.com/best-coding-models-consumer-hardware/ Comments URL: https://news.ycombinator.com/item?id=48005219 Points: 1 # Comments: 1",
+    "author": "steveharing1",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://firethering.com/best-coding-models-consumer-hardware/",
+    "id": "news-1275"
+  },
+  {
     "title": "Know thyself: LLM schema for personal memory",
     "summary": "Article URL: https://github.com/parrik/know-thyself Comments URL: https://news.ycombinator.com/item?id=48003019 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/parrik/know-thyself Comments URL: https://news.ycombinator.com/item?id=48003019 Points: 2 # Comments: 0",
