@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
+    "summary": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job",
+    "content": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done. The article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+    "id": "news-1285"
+  },
+  {
+    "title": "Evals Skills for AI Agents",
+    "summary": "Article URL: https://github.com/latitude-dev/eval-skills Comments URL: https://news.ycombinator.com/item?id=48006381 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/latitude-dev/eval-skills Comments URL: https://news.ycombinator.com/item?id=48006381 Points: 1 # Comments: 0",
+    "author": "paulaq",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/latitude-dev/eval-skills",
+    "id": "news-1284"
+  },
+  {
+    "title": "Daintreehq/daintree: A delegation environment for orchestrating AI coding agents",
+    "summary": "Article URL: https://github.com/daintreehq/daintree Comments URL: https://news.ycombinator.com/item?id=48006433 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/daintreehq/daintree Comments URL: https://news.ycombinator.com/item?id=48006433 Points: 1 # Comments: 0",
+    "author": "ankitg12",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/daintreehq/daintree",
+    "id": "news-1283"
+  },
+  {
+    "title": "Medical Information Provided to AI Is Often Incomplete",
+    "summary": "Article URL: https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/reis-nature-health/ Comments URL: https://news.ycombinator.com/item?id=48006507 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/reis-nature-health/ Comments URL: https://news.ycombinator.com/item?id=48006507 Points: 2 # Comments: 0",
+    "author": "JeanKage",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/reis-nature-health/",
+    "id": "news-1282"
+  },
+  {
+    "title": "Ruflo: Multi-agent AI orchestration for Claude Code",
+    "summary": "Article URL: https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md Comments URL: https://news.ycombinator.com/item?id=48006522 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md Comments URL: https://news.ycombinator.com/item?id=48006522 Points: 2 # Comments: 0",
+    "author": "pramodbiligiri",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md",
+    "id": "news-1281"
+  },
+  {
+    "title": "AI-Generated Code Has No Author – Ossature Blog",
+    "summary": "Article URL: https://ossature.dev/blog/ai-generated-code-has-no-author/ Comments URL: https://news.ycombinator.com/item?id=48006636 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ossature.dev/blog/ai-generated-code-has-no-author/ Comments URL: https://news.ycombinator.com/item?id=48006636 Points: 1 # Comments: 0",
+    "author": "lifeisstillgood",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ossature.dev/blog/ai-generated-code-has-no-author/",
+    "id": "news-1280"
+  },
+  {
     "title": "Use Cheaper Models with Claude",
     "summary": "Article URL: https://gist.github.com/gitcloned/1929590e2fa0d0267919c6826808da2c Comments URL: https://news.ycombinator.com/item?id=48004559 Points: 1 # Comments: 5",
     "content": "Article URL: https://gist.github.com/gitcloned/1929590e2fa0d0267919c6826808da2c Comments URL: https://news.ycombinator.com/item?id=48004559 Points: 1 # Comments: 5",
