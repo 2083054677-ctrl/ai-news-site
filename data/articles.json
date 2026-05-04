@@ -1,5 +1,70 @@
 [
   {
+    "title": "Know thyself: LLM schema for personal memory",
+    "summary": "Article URL: https://github.com/parrik/know-thyself Comments URL: https://news.ycombinator.com/item?id=48003019 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/parrik/know-thyself Comments URL: https://news.ycombinator.com/item?id=48003019 Points: 2 # Comments: 0",
+    "author": "parrik",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/parrik/know-thyself",
+    "id": "news-1274"
+  },
+  {
+    "title": "Do AI Detectors Work Well Enough to Trust?",
+    "summary": "Article URL: https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust Comments URL: https://news.ycombinator.com/item?id=48003026 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust Comments URL: https://news.ycombinator.com/item?id=48003026 Points: 2 # Comments: 0",
+    "author": "alex000kim",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
+    "id": "news-1273"
+  },
+  {
+    "title": "Ask HN: Does Claude Code succeed after being asked \"should we give up?\" for you?",
+    "summary": "Almost every time Claude has failed to properly implement something or fix a bug several times, if I ask \"should we give up?\" it declares it's not giving up and successfully completes the task. Of cou",
+    "content": "Almost every time Claude has failed to properly implement something or fix a bug several times, if I ask \"should we give up?\" it declares it's not giving up and successfully completes the task. Of course, it could very well be that when I resort to this tends to coincide with Claude's progress on a problem, but absent rigorous testing, it's truly uncanny. I can't decide whether to be happy I have a \"win\" button or exasperated that I \"have\" to go through the ritual. Comments URL: https://news.yco",
+    "author": "webwielder2",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48003592",
+    "id": "news-1272"
+  },
+  {
+    "title": "OpenAI Codex system includes explicit directive to \"never talk about goblins\"",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/ Comments URL: https://news.ycombinator.com/item?id=48003718 Points: ",
+    "content": "Article URL: https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/ Comments URL: https://news.ycombinator.com/item?id=48003718 Points: 3 # Comments: 1",
+    "author": "randycupertino",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+    "id": "news-1271"
+  },
+  {
+    "title": "Richard Dawkins (AI) Responds to Richard Dawkins on If AI Has Consciousness",
+    "summary": "Article URL: https://vexjoy.com/posts/the-submarine-that-wanted-to-swim/ Comments URL: https://news.ycombinator.com/item?id=48003816 Points: 1 # Comments: 1",
+    "content": "Article URL: https://vexjoy.com/posts/the-submarine-that-wanted-to-swim/ Comments URL: https://news.ycombinator.com/item?id=48003816 Points: 1 # Comments: 1",
+    "author": "AndyNemmity",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vexjoy.com/posts/the-submarine-that-wanted-to-swim/",
+    "id": "news-1270"
+  },
+  {
     "title": "UAE Plans to Run 50% of Government on Agentic AI Within Two Years",
     "summary": "Article URL: https://www.mitsloanme.com/article/uae-plans-to-run-50-of-government-on-agentic-ai-within-two-years/ Comments URL: https://news.ycombinator.com/item?id=48001340 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.mitsloanme.com/article/uae-plans-to-run-50-of-government-on-agentic-ai-within-two-years/ Comments URL: https://news.ycombinator.com/item?id=48001340 Points: 2 # Comments: 0",
