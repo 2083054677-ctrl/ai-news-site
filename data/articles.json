@@ -1,5 +1,70 @@
 [
   {
+    "title": "Tailoring AI solutions for health care needs",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/ Comments URL: https://news.ycombinator.com/item?id=48011470 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/ Comments URL: https://news.ycombinator.com/item?id=48011470 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "id": "news-1302"
+  },
+  {
+    "title": "Future of Work with AI Agents",
+    "summary": "Article URL: https://futureofwork.saltlab.stanford.edu/ Comments URL: https://news.ycombinator.com/item?id=48011485 Points: 1 # Comments: 0",
+    "content": "Article URL: https://futureofwork.saltlab.stanford.edu/ Comments URL: https://news.ycombinator.com/item?id=48011485 Points: 1 # Comments: 0",
+    "author": "iceboundrock",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://futureofwork.saltlab.stanford.edu/",
+    "id": "news-1301"
+  },
+  {
+    "title": "Clone Talking – Real-Time Voice Conversations with AI Persona Clones",
+    "summary": "Article URL: https://github.com/MatheusSimonaci/clone-talking Comments URL: https://news.ycombinator.com/item?id=48011717 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/MatheusSimonaci/clone-talking Comments URL: https://news.ycombinator.com/item?id=48011717 Points: 1 # Comments: 0",
+    "author": "MatheusSimonaci",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MatheusSimonaci/clone-talking",
+    "id": "news-1300"
+  },
+  {
+    "title": "Show HN: Vibe-coding video games with Claude (Day 21: Blackjack)",
+    "summary": "I used to run a flash games website (SWF files) years ago. I've made a few games of my own. I'm also an avid gamer and love to play games of all kinds.I'm also a software engineer, and a few days ago ",
+    "content": "I used to run a flash games website (SWF files) years ago. I've made a few games of my own. I'm also an avid gamer and love to play games of all kinds.I'm also a software engineer, and a few days ago I decided I wanted to run a games website again. So I bought the domain gamevibe.us and with the help of Claude I've been vibe-coding one video game every day since.Happy to answer questions, take feedback, etcOther games made in the past week (sometimes with a single AI prompt, sometimes multiple):",
+    "author": "pzxc",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gamevibe.us/21-blackjack",
+    "id": "news-1299"
+  },
+  {
+    "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+    "summary": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn Comments URL: https://news.ycombinator.com/i",
+    "content": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn Comments URL: https://news.ycombinator.com/item?id=48011726 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+    "id": "news-1298"
+  },
+  {
     "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
     "summary": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. The article OpenAI raises over $4 billion for new enterprise deployment venture ",
     "content": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. The article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
