@@ -1,5 +1,83 @@
 [
   {
+    "title": "Cerebras targets $40 billion valuation in second IPO attempt",
+    "summary": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar ",
+    "content": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter. The article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
+    "id": "news-1291"
+  },
+  {
+    "title": "Building AI data centers is becoming a stress test for banks",
+    "summary": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other inve",
+    "content": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors. The article Building AI data centers is becoming a stress test for banks appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
+    "id": "news-1290"
+  },
+  {
+    "title": "How to Improve at Sensemaking AI?",
+    "summary": "Article URL: https://commoncog.com/how-to-improve-at-sensemaking-ai/ Comments URL: https://news.ycombinator.com/item?id=48008142 Points: 1 # Comments: 1",
+    "content": "Article URL: https://commoncog.com/how-to-improve-at-sensemaking-ai/ Comments URL: https://news.ycombinator.com/item?id=48008142 Points: 1 # Comments: 1",
+    "author": "rrherr",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://commoncog.com/how-to-improve-at-sensemaking-ai/",
+    "id": "news-1289"
+  },
+  {
+    "title": "Unauthorized Notepad++ macOS fork credits Don Ho on AI plugin he didn't make",
+    "summary": "Article URL: https://www.neowin.net/news/notepad-creator-issues-warning-to-users-about-an-unauthorized-macos-fork/ Comments URL: https://news.ycombinator.com/item?id=48008174 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.neowin.net/news/notepad-creator-issues-warning-to-users-about-an-unauthorized-macos-fork/ Comments URL: https://news.ycombinator.com/item?id=48008174 Points: 1 # Comments: 0",
+    "author": "bundie",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.neowin.net/news/notepad-creator-issues-warning-to-users-about-an-unauthorized-macos-fork/",
+    "id": "news-1288"
+  },
+  {
+    "title": "Modyak – run Claude Code and Codex with any model from your Mac menu bar",
+    "summary": "Article URL: https://modyak.com Comments URL: https://news.ycombinator.com/item?id=48008232 Points: 1 # Comments: 0",
+    "content": "Article URL: https://modyak.com Comments URL: https://news.ycombinator.com/item?id=48008232 Points: 1 # Comments: 0",
+    "author": "robertkeus",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://modyak.com",
+    "id": "news-1287"
+  },
+  {
+    "title": "AI Agent API Grader",
+    "summary": "Article URL: https://saastr.ai/api-report-card Comments URL: https://news.ycombinator.com/item?id=48008261 Points: 1 # Comments: 0",
+    "content": "Article URL: https://saastr.ai/api-report-card Comments URL: https://news.ycombinator.com/item?id=48008261 Points: 1 # Comments: 0",
+    "author": "gertjandewilde",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://saastr.ai/api-report-card",
+    "id": "news-1286"
+  },
+  {
     "title": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
     "summary": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job",
     "content": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done. The article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decoder.",
