@@ -1,5 +1,70 @@
 [
   {
+    "title": "What do we lose when AI does our work?",
+    "summary": "Article URL: https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/ Comments URL: https://news.ycombinator.com/item?id=48015548 Points: 14 # Comments: 3",
+    "content": "Article URL: https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/ Comments URL: https://news.ycombinator.com/item?id=48015548 Points: 14 # Comments: 3",
+    "author": "rickyyean",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/",
+    "id": "news-1313"
+  },
+  {
+    "title": "Show HN: Smile-Serve – Inference Server for ML, ONNX, and LLM",
+    "summary": "SMILE Serve is a production-ready inference server built on [Quarkus](https://quarkus.io/) that brings together three complementary inference capabilities on the JVM: - **Classic ML**: `/api/v1/models",
+    "content": "SMILE Serve is a production-ready inference server built on [Quarkus](https://quarkus.io/) that brings together three complementary inference capabilities on the JVM: - **Classic ML**: `/api/v1/models` for serialized SMILE models (`.sml`) - **ONNX Runtime**: `/api/v1/onnx` for any model in the ONNX open format (`.onnx`) - **LLM Chat**: `/api/v1/chat` for Llama 3 chat completions A React-based web UI is bundled and served from the same process. Comments URL: https://news.ycombinator.com/item?id=4",
+    "author": "haifeng",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/haifengl/smile/tree/master/serve",
+    "id": "news-1312"
+  },
+  {
+    "title": "HyperFrames lets AI agents compose videos by writing HTML, CSS and JavaScript",
+    "summary": "Article URL: https://hyperframes.heygen.com Comments URL: https://news.ycombinator.com/item?id=48015808 Points: 2 # Comments: 0",
+    "content": "Article URL: https://hyperframes.heygen.com Comments URL: https://news.ycombinator.com/item?id=48015808 Points: 2 # Comments: 0",
+    "author": "siegers",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hyperframes.heygen.com",
+    "id": "news-1311"
+  },
+  {
+    "title": "Show HN: AI that responds in Star Wars crawl style",
+    "summary": "Article URL: https://may-the-4th-gpt.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48015871 Points: 1 # Comments: 0",
+    "content": "Article URL: https://may-the-4th-gpt.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48015871 Points: 1 # Comments: 0",
+    "author": "zahlekhan",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://may-the-4th-gpt.vercel.app/",
+    "id": "news-1310"
+  },
+  {
+    "title": "Powerful AI finds 100 hidden planets in NASA data including extreme worlds",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/05/260502233926.htm Comments URL: https://news.ycombinator.com/item?id=48015891 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.sciencedaily.com/releases/2026/05/260502233926.htm Comments URL: https://news.ycombinator.com/item?id=48015891 Points: 2 # Comments: 0",
+    "author": "bilsbie",
+    "date": "2026-05-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm",
+    "id": "news-1309"
+  },
+  {
     "title": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
     "summary": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude. The article Anthropic and OpenAI now agree on one thing",
     "content": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude. The article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
