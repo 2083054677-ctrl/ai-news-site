@@ -1,5 +1,83 @@
 [
   {
+    "title": "Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova",
+    "summary": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models. The article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, a",
+    "content": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models. The article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-brings-agentic-fine-tuning-to-sagemaker-with-support-for-llama-qwen-deepseek-and-nova/",
+    "id": "news-1335"
+  },
+  {
+    "title": "Blink – AI Assistant. A knowledge destination",
+    "summary": "Article URL: https://blink-oi.vercel.app Comments URL: https://news.ycombinator.com/item?id=48020632 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blink-oi.vercel.app Comments URL: https://news.ycombinator.com/item?id=48020632 Points: 1 # Comments: 0",
+    "author": "Pascal1997",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blink-oi.vercel.app",
+    "id": "news-1334"
+  },
+  {
+    "title": "What Should Our Children Focus on in an AI World?",
+    "summary": "Article URL: https://www.squig.com/blog/what-should-our-children-focus-on-in-an-ai-world Comments URL: https://news.ycombinator.com/item?id=48020735 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.squig.com/blog/what-should-our-children-focus-on-in-an-ai-world Comments URL: https://news.ycombinator.com/item?id=48020735 Points: 1 # Comments: 1",
+    "author": "nashadelic",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.squig.com/blog/what-should-our-children-focus-on-in-an-ai-world",
+    "id": "news-1333"
+  },
+  {
+    "title": "AI Earth Observation in Space Delivers Live Insight",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-earth-observation-in-space Comments URL: https://news.ycombinator.com/item?id=48020763 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/ai-earth-observation-in-space Comments URL: https://news.ycombinator.com/item?id=48020763 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/ai-earth-observation-in-space",
+    "id": "news-1332"
+  },
+  {
+    "title": "Pro-Grade Java Development in Claude Code – Beyond Grep with LSP",
+    "summary": "Article URL: https://blog.codonomics.com/2026/04/pro-grade-java-development-in-claude.html Comments URL: https://news.ycombinator.com/item?id=48020764 Points: 2 # Comments: 1",
+    "content": "Article URL: https://blog.codonomics.com/2026/04/pro-grade-java-development-in-claude.html Comments URL: https://news.ycombinator.com/item?id=48020764 Points: 2 # Comments: 1",
+    "author": "sirkarthik",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.codonomics.com/2026/04/pro-grade-java-development-in-claude.html",
+    "id": "news-1331"
+  },
+  {
+    "title": "Talk to your project/app AI [video]",
+    "summary": "Article URL: https://vimeo.com/1189337961 Comments URL: https://news.ycombinator.com/item?id=48020790 Points: 1 # Comments: 1",
+    "content": "Article URL: https://vimeo.com/1189337961 Comments URL: https://news.ycombinator.com/item?id=48020790 Points: 1 # Comments: 1",
+    "author": "voice-to-code",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vimeo.com/1189337961",
+    "id": "news-1330"
+  },
+  {
     "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process",
     "summary": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's",
     "content": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's \"Mythos\" model. The article White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process appeared first on The Decoder.",
