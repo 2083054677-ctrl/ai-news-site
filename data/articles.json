@@ -1,5 +1,83 @@
 [
   {
+    "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process",
+    "summary": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's",
+    "content": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's \"Mythos\" model. The article White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/white-house-briefed-anthropic-google-and-openai-on-plans-for-a-government-ai-review-process/",
+    "id": "news-1329"
+  },
+  {
+    "title": "Show HN: Claude Relay – local Claude Code sessions message each other",
+    "summary": "Article URL: https://github.com/innestic/claude-relay Comments URL: https://news.ycombinator.com/item?id=48019985 Points: 1 # Comments: 2",
+    "content": "Article URL: https://github.com/innestic/claude-relay Comments URL: https://news.ycombinator.com/item?id=48019985 Points: 1 # Comments: 2",
+    "author": "vildanbina",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/innestic/claude-relay",
+    "id": "news-1328"
+  },
+  {
+    "title": "A blueprint for using AI to strengthen democracy",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/ Comments URL: https://news.ycombinator.com/item?id=48020035 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/ Comments URL: https://news.ycombinator.com/item?id=48020035 Points: 1 # Comments: 0",
+    "author": "omer_k",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "id": "news-1327"
+  },
+  {
+    "title": "When everyone has AI and the company still learns nothing",
+    "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 3 # Comments: 0",
+    "author": "youngbrioche",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "id": "news-1326"
+  },
+  {
+    "title": "AI, Disruption, and Automation: Is the Academic World the Next Kodak?",
+    "summary": "Article URL: https://philippesilberzahneng.com/2026/05/04/ai-disruption-and-automation-is-the-academic-world-the-next-kodak/ Comments URL: https://news.ycombinator.com/item?id=48020166 Points: 1 # Com",
+    "content": "Article URL: https://philippesilberzahneng.com/2026/05/04/ai-disruption-and-automation-is-the-academic-world-the-next-kodak/ Comments URL: https://news.ycombinator.com/item?id=48020166 Points: 1 # Comments: 0",
+    "author": "JeanKage",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://philippesilberzahneng.com/2026/05/04/ai-disruption-and-automation-is-the-academic-world-the-next-kodak/",
+    "id": "news-1325"
+  },
+  {
+    "title": "NHS to close-source GitHub repos over AI, security concerns",
+    "summary": "Article URL: https://www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/ Comments URL: https://news.ycombinator.com/item?id=48020184 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/ Comments URL: https://news.ycombinator.com/item?id=48020184 Points: 1 # Comments: 0",
+    "author": "jjgreen",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/",
+    "id": "news-1324"
+  },
+  {
     "title": "Show HN: Retroguard – Verifiably secure AI guardrails",
     "summary": "Cryptographically secure and verifiably robust protection with drop-in integration and outcome-based pricing Comments URL: https://news.ycombinator.com/item?id=48018413 Points: 2 # Comments: 0",
     "content": "Cryptographically secure and verifiably robust protection with drop-in integration and outcome-based pricing Comments URL: https://news.ycombinator.com/item?id=48018413 Points: 2 # Comments: 0",
