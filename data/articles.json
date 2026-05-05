@@ -1,5 +1,70 @@
 [
   {
+    "title": "The World AI Security conference 2026",
+    "summary": "Article URL: https://seclab.stanford.edu/RealWorldAIsec/ Comments URL: https://news.ycombinator.com/item?id=48028076 Points: 1 # Comments: 0",
+    "content": "Article URL: https://seclab.stanford.edu/RealWorldAIsec/ Comments URL: https://news.ycombinator.com/item?id=48028076 Points: 1 # Comments: 0",
+    "author": "wslh",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://seclab.stanford.edu/RealWorldAIsec/",
+    "id": "news-1368"
+  },
+  {
+    "title": "Let's not fool ourselves about AI taking jobs. It's humans, laying humans off",
+    "summary": "Article URL: https://circuitbored.com/viewtopic.php?t=246 Comments URL: https://news.ycombinator.com/item?id=48028189 Points: 9 # Comments: 0",
+    "content": "Article URL: https://circuitbored.com/viewtopic.php?t=246 Comments URL: https://news.ycombinator.com/item?id=48028189 Points: 9 # Comments: 0",
+    "author": "winternett",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://circuitbored.com/viewtopic.php?t=246",
+    "id": "news-1367"
+  },
+  {
+    "title": "Elephant/Goldfish Pattern for Claude, Codex and Gemini",
+    "summary": "Article URL: https://github.com/vshvedov/elephant-goldfish Comments URL: https://news.ycombinator.com/item?id=48028204 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/vshvedov/elephant-goldfish Comments URL: https://news.ycombinator.com/item?id=48028204 Points: 1 # Comments: 1",
+    "author": "vladcodes",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vshvedov/elephant-goldfish",
+    "id": "news-1366"
+  },
+  {
+    "title": "Our AI started a cafe in Stockholm",
+    "summary": "Article URL: https://andonlabs.com/blog/ai-cafe-stockholm Comments URL: https://news.ycombinator.com/item?id=48028289 Points: 2 # Comments: 0",
+    "content": "Article URL: https://andonlabs.com/blog/ai-cafe-stockholm Comments URL: https://news.ycombinator.com/item?id=48028289 Points: 2 # Comments: 0",
+    "author": "lukaspetersson",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://andonlabs.com/blog/ai-cafe-stockholm",
+    "id": "news-1365"
+  },
+  {
+    "title": "Issue tracking for AI-assisted software work",
+    "summary": "Article URL: https://github.com/wesm/kata Comments URL: https://news.ycombinator.com/item?id=48028405 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/wesm/kata Comments URL: https://news.ycombinator.com/item?id=48028405 Points: 1 # Comments: 0",
+    "author": "dmpetrov",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wesm/kata",
+    "id": "news-1364"
+  },
+  {
     "title": "ChatGPT update rolls out GPT-5.5 Instant with fewer hallucinations and more personalized answers",
     "summary": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law. A new fea",
     "content": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law. A new feature called \"memory sources\" lets users see which stored context shaped a given response. The model is rolling out to all ChatGPT users right away, though personalization based on past chats, files, and Gmail launches first for Plus and Pro users on the web. The article ChatGPT update rolls out GPT-",
