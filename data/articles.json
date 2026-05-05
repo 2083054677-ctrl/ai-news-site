@@ -1,5 +1,109 @@
 [
   {
+    "title": "Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook",
+    "summary": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasi",
+    "content": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasizes. The article Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-now-scans-photos-for-bone-structure-and-body-size-to-flag-minors-on-instagram-and-facebook/",
+    "id": "news-1356"
+  },
+  {
+    "title": "Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue",
+    "summary": "Anthropic has released ten preconfigured AI agents for the financial sector that are designed to automate typical tasks performed by investment banks, asset managers and insurers. According to the ann",
+    "content": "Anthropic has released ten preconfigured AI agents for the financial sector that are designed to automate typical tasks performed by investment banks, asset managers and insurers. According to the announcement, the templates cover areas such as research, risk and compliance checks and financial accounting. The article Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-ships-ten-ai-agents-for-finance-as-both-it-and-openai-chase-ipo-ready-revenue/",
+    "id": "news-1355"
+  },
+  {
+    "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream",
+    "summary": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare. According to analyst Ming-Chi Kuo, mass production could start as early as the",
+    "content": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare. According to analyst Ming-Chi Kuo, mass production could start as early as the first half of 2027, with up to 30 million devices shipped in the first two years. The form factor choice is also an admission that more experimental AI hardware isn't ready for the mainstream yet. The article OpenAI's first hardware play might be a phone that replaces your app grid with an agent ta",
+    "author": "Matthias Bastian",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/",
+    "id": "news-1354"
+  },
+  {
+    "title": "Pennsylvania sues Character AI, says chatbot poses as doctors",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/pennsylvania-sues-character-ai-says-chatbot-poses-doctors-2026-05-05/ Comments URL: https://news.ycombinator.com/item?id=48025212 Points: 2 # Comm",
+    "content": "Article URL: https://www.reuters.com/legal/litigation/pennsylvania-sues-character-ai-says-chatbot-poses-doctors-2026-05-05/ Comments URL: https://news.ycombinator.com/item?id=48025212 Points: 2 # Comments: 1",
+    "author": "randycupertino",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/litigation/pennsylvania-sues-character-ai-says-chatbot-poses-doctors-2026-05-05/",
+    "id": "news-1353"
+  },
+  {
+    "title": "Mathematicians in the Age of AI",
+    "summary": "Article URL: https://arxiv.org/abs/2603.03684 Comments URL: https://news.ycombinator.com/item?id=48025218 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2603.03684 Comments URL: https://news.ycombinator.com/item?id=48025218 Points: 2 # Comments: 0",
+    "author": "lostathome",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2603.03684",
+    "id": "news-1352"
+  },
+  {
+    "title": "The Download: inside the Musk vs. Altman trial, and AI for democracy",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/ Comments URL: https://news.ycombinator.com/item?id=48025273 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/ Comments URL: https://news.ycombinator.com/item?id=48025273 Points: 2 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "id": "news-1351"
+  },
+  {
+    "title": "GPT‑5.5 Instant",
+    "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 8 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 8 # Comments: 0",
+    "author": "meetpateltech",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/gpt-5-5-instant/",
+    "id": "news-1350"
+  },
+  {
+    "title": "European Grand Challenge in AI and Security",
+    "summary": "Article URL: https://docs.google.com/document/d/1t5dXnBNIyQbdpGa9EHOKDFEQs-5Pt-FHNKFw1UGmXLI/edit?tab=t.0 Comments URL: https://news.ycombinator.com/item?id=48025472 Points: 1 # Comments: 0",
+    "content": "Article URL: https://docs.google.com/document/d/1t5dXnBNIyQbdpGa9EHOKDFEQs-5Pt-FHNKFw1UGmXLI/edit?tab=t.0 Comments URL: https://news.ycombinator.com/item?id=48025472 Points: 1 # Comments: 0",
+    "author": "kiki_milotic",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://docs.google.com/document/d/1t5dXnBNIyQbdpGa9EHOKDFEQs-5Pt-FHNKFw1UGmXLI/edit?tab=t.0",
+    "id": "news-1349"
+  },
+  {
     "title": "AI is saving pharma billions in manufacturing and back-office work, just not in the lab",
     "summary": "Eli Lilly's digital chief admits that, so far, AI is paying off in pharma everywhere except where the industry hyped it most: drug discovery. The article AI is saving pharma billions in manufacturing ",
     "content": "Eli Lilly's digital chief admits that, so far, AI is paying off in pharma everywhere except where the industry hyped it most: drug discovery. The article AI is saving pharma billions in manufacturing and back-office work, just not in the lab appeared first on The Decoder.",
