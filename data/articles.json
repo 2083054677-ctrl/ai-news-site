@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI co-founder discloses nearly $30B stake, financial ties to Altman",
+    "summary": "Article URL: https://www.reuters.com/sustainability/boards-policy-regulation/openai-co-founder-discloses-nearly-30-billion-stake-financial-ties-altman-2026-05-04/ Comments URL: https://news.ycombinato",
+    "content": "Article URL: https://www.reuters.com/sustainability/boards-policy-regulation/openai-co-founder-discloses-nearly-30-billion-stake-financial-ties-altman-2026-05-04/ Comments URL: https://news.ycombinator.com/item?id=48017067 Points: 1 # Comments: 0",
+    "author": "PessimalDecimal",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/sustainability/boards-policy-regulation/openai-co-founder-discloses-nearly-30-billion-stake-financial-ties-altman-2026-05-04/",
+    "id": "news-1318"
+  },
+  {
+    "title": "Ctx – Persistent Memory for Claude Code, Cursor, and AI Coding Tools",
+    "summary": "Article URL: https://github.com/ActiveMemory/ctx Comments URL: https://news.ycombinator.com/item?id=48017090 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ActiveMemory/ctx Comments URL: https://news.ycombinator.com/item?id=48017090 Points: 2 # Comments: 0",
+    "author": "parlakisik",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ActiveMemory/ctx",
+    "id": "news-1317"
+  },
+  {
+    "title": "Show HN: A tiny C program where an LLM rewires its DAG while running",
+    "summary": "Article URL: https://github.com/kouhxp/liteflow Comments URL: https://news.ycombinator.com/item?id=48017118 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/kouhxp/liteflow Comments URL: https://news.ycombinator.com/item?id=48017118 Points: 2 # Comments: 0",
+    "author": "mrkn1",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kouhxp/liteflow",
+    "id": "news-1316"
+  },
+  {
+    "title": "Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions",
+    "summary": "Article URL: https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706 Comments URL: https://news.ycombinator.com/item?id=48017231 Points: 1 # Co",
+    "content": "Article URL: https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706 Comments URL: https://news.ycombinator.com/item?id=48017231 Points: 1 # Comments: 0",
+    "author": "spenvo",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706",
+    "id": "news-1315"
+  },
+  {
+    "title": "White House considers government reviews for AI models",
+    "summary": "Article URL: https://www.reuters.com/world/white-house-considers-vetting-ai-models-before-they-are-released-nyt-reports-2026-05-04/ Comments URL: https://news.ycombinator.com/item?id=48017277 Points: ",
+    "content": "Article URL: https://www.reuters.com/world/white-house-considers-vetting-ai-models-before-they-are-released-nyt-reports-2026-05-04/ Comments URL: https://news.ycombinator.com/item?id=48017277 Points: 1 # Comments: 0",
+    "author": "AlexDragusin",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/world/white-house-considers-vetting-ai-models-before-they-are-released-nyt-reports-2026-05-04/",
+    "id": "news-1314"
+  },
+  {
     "title": "What do we lose when AI does our work?",
     "summary": "Article URL: https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/ Comments URL: https://news.ycombinator.com/item?id=48015548 Points: 14 # Comments: 3",
     "content": "Article URL: https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/ Comments URL: https://news.ycombinator.com/item?id=48015548 Points: 14 # Comments: 3",
