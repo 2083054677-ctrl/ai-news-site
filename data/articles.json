@@ -1,5 +1,57 @@
 [
   {
+    "title": "Claude, I order a whiskey sour, I get spaghetti",
+    "summary": "Article URL: https://claude.ai/share/328f95d9-1c15-4eb5-accb-d1bf5bcaa713 Comments URL: https://news.ycombinator.com/item?id=48029434 Points: 3 # Comments: 1",
+    "content": "Article URL: https://claude.ai/share/328f95d9-1c15-4eb5-accb-d1bf5bcaa713 Comments URL: https://news.ycombinator.com/item?id=48029434 Points: 3 # Comments: 1",
+    "author": "nilsnolde",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.ai/share/328f95d9-1c15-4eb5-accb-d1bf5bcaa713",
+    "id": "news-1372"
+  },
+  {
+    "title": "Google DeepMind Workers Vote to Unionize over Military AI Deals",
+    "summary": "Article URL: https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/ Comments URL: https://news.ycombinator.com/item?id=48029462 Points: 6 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/ Comments URL: https://news.ycombinator.com/item?id=48029462 Points: 6 # Comments: 0",
+    "author": "breve",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+    "id": "news-1371"
+  },
+  {
+    "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
+    "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
+    "id": "news-1370"
+  },
+  {
+    "title": "Looking for feedback on AI content in R/programming and the April no-AI trial",
+    "summary": "Article URL: https://old.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/ Comments URL: https://news.ycombinator.com/item?id=48029808 Points: 1 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/ Comments URL: https://news.ycombinator.com/item?id=48029808 Points: 1 # Comments: 0",
+    "author": "birdculture",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/",
+    "id": "news-1369"
+  },
+  {
     "title": "The World AI Security conference 2026",
     "summary": "Article URL: https://seclab.stanford.edu/RealWorldAIsec/ Comments URL: https://news.ycombinator.com/item?id=48028076 Points: 1 # Comments: 0",
     "content": "Article URL: https://seclab.stanford.edu/RealWorldAIsec/ Comments URL: https://news.ycombinator.com/item?id=48028076 Points: 1 # Comments: 0",
