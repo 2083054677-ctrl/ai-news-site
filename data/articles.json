@@ -1,5 +1,83 @@
 [
   {
+    "title": "AI is saving pharma billions in manufacturing and back-office work, just not in the lab",
+    "summary": "Eli Lilly's digital chief admits that, so far, AI is paying off in pharma everywhere except where the industry hyped it most: drug discovery. The article AI is saving pharma billions in manufacturing ",
+    "content": "Eli Lilly's digital chief admits that, so far, AI is paying off in pharma everywhere except where the industry hyped it most: drug discovery. The article AI is saving pharma billions in manufacturing and back-office work, just not in the lab appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-is-saving-pharma-billions-in-manufacturing-and-back-office-work-just-not-in-the-lab/",
+    "id": "news-1348"
+  },
+  {
+    "title": "OpenAI has reportedly fast-tracked plans for a phone",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo Comments URL: https://news.ycombinator.com/item?id=48023802 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo Comments URL: https://news.ycombinator.com/item?id=48023802 Points: 1 # Comments: 0",
+    "author": "socratics",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+    "id": "news-1347"
+  },
+  {
+    "title": "Three Inverse Laws of AI",
+    "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 7 # Comments: 0",
+    "content": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 7 # Comments: 0",
+    "author": "blenderob",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://susam.net/inverse-laws-of-robotics.html",
+    "id": "news-1346"
+  },
+  {
+    "title": "Offline Local AI for Protest",
+    "summary": "Article URL: https://apps.apple.com/us/app/outcry-activist-ai-mentor/id6762086768 Comments URL: https://news.ycombinator.com/item?id=48023948 Points: 1 # Comments: 0",
+    "content": "Article URL: https://apps.apple.com/us/app/outcry-activist-ai-mentor/id6762086768 Comments URL: https://news.ycombinator.com/item?id=48023948 Points: 1 # Comments: 0",
+    "author": "micahwhite",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.apple.com/us/app/outcry-activist-ai-mentor/id6762086768",
+    "id": "news-1345"
+  },
+  {
+    "title": "Google, xAI and Microsoft agree to US national security reviews of new AI models",
+    "summary": "Article URL: https://www.ft.com/content/c4435dd4-00c0-4270-aab9-3c7ce1ae45f6 Comments URL: https://news.ycombinator.com/item?id=48024043 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/c4435dd4-00c0-4270-aab9-3c7ce1ae45f6 Comments URL: https://news.ycombinator.com/item?id=48024043 Points: 1 # Comments: 0",
+    "author": "merksittich",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/c4435dd4-00c0-4270-aab9-3c7ce1ae45f6",
+    "id": "news-1344"
+  },
+  {
+    "title": "SubQ – a major breakthrough in LLM intelligence",
+    "summary": "Article URL: https://twitter.com/alex_whedon/status/2051663268704636937 Comments URL: https://news.ycombinator.com/item?id=48024094 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/alex_whedon/status/2051663268704636937 Comments URL: https://news.ycombinator.com/item?id=48024094 Points: 2 # Comments: 0",
+    "author": "vanni",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/alex_whedon/status/2051663268704636937",
+    "id": "news-1343"
+  },
+  {
     "title": "Anthropic co-founder maps out how recursive AI improvement could outpace the humans meant to supervise it",
     "summary": "Jack Clark argues in a long essay that the building blocks for AI systems training their own successors are largely in place. He puts the odds at 60 percent by the end of 2028. The article Anthropic c",
     "content": "Jack Clark argues in a long essay that the building blocks for AI systems training their own successors are largely in place. He puts the odds at 60 percent by the end of 2028. The article Anthropic co-founder maps out how recursive AI improvement could outpace the humans meant to supervise it appeared first on The Decoder.",
