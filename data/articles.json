@@ -1,5 +1,96 @@
 [
   {
+    "title": "Anthropic co-founder maps out how recursive AI improvement could outpace the humans meant to supervise it",
+    "summary": "Jack Clark argues in a long essay that the building blocks for AI systems training their own successors are largely in place. He puts the odds at 60 percent by the end of 2028. The article Anthropic c",
+    "content": "Jack Clark argues in a long essay that the building blocks for AI systems training their own successors are largely in place. He puts the odds at 60 percent by the end of 2028. The article Anthropic co-founder maps out how recursive AI improvement could outpace the humans meant to supervise it appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/",
+    "id": "news-1342"
+  },
+  {
+    "title": "SAP's acquisition spree signals the enterprise giant is serious about becoming an AI-ready data platform",
+    "summary": "SAP is acquiring open data lakehouse provider Dremio and AI company Prior Labs to expand its data platform. The article SAP's acquisition spree signals the enterprise giant is serious about becoming a",
+    "content": "SAP is acquiring open data lakehouse provider Dremio and AI company Prior Labs to expand its data platform. The article SAP's acquisition spree signals the enterprise giant is serious about becoming an AI-ready data platform appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/saps-acquisition-spree-signals-the-enterprise-giant-is-serious-about-becoming-an-ai-ready-data-platform/",
+    "id": "news-1341"
+  },
+  {
+    "title": "BWVI – A CLI tool that gives AI agents structured design decision-making",
+    "summary": "Article URL: https://github.com/lh123aa/bwvi-design Comments URL: https://news.ycombinator.com/item?id=48022001 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/lh123aa/bwvi-design Comments URL: https://news.ycombinator.com/item?id=48022001 Points: 2 # Comments: 0",
+    "author": "lh123aa",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lh123aa/bwvi-design",
+    "id": "news-1340"
+  },
+  {
+    "title": "What's Blocking AI from Going Beyond Chatbots?",
+    "summary": "Article URL: https://www.santoshkumarradha.com/writing/toward-theory-hax Comments URL: https://news.ycombinator.com/item?id=48022042 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.santoshkumarradha.com/writing/toward-theory-hax Comments URL: https://news.ycombinator.com/item?id=48022042 Points: 1 # Comments: 1",
+    "author": "youknowme123",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.santoshkumarradha.com/writing/toward-theory-hax",
+    "id": "news-1339"
+  },
+  {
+    "title": "Show HN: Askdiff – Ask the Claude session that wrote your code in a diff viewer",
+    "summary": "Article URL: https://github.com/narghev/askdiff Comments URL: https://news.ycombinator.com/item?id=48022064 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/narghev/askdiff Comments URL: https://news.ycombinator.com/item?id=48022064 Points: 1 # Comments: 0",
+    "author": "narghev",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/narghev/askdiff",
+    "id": "news-1338"
+  },
+  {
+    "title": "VC fired all analysts, is using AI to help run deals for its new $75M fund",
+    "summary": "Article URL: https://www.businessinsider.com/davidovs-venture-collective-dvc-ai-agents-talent-run-deals-2025-10 Comments URL: https://news.ycombinator.com/item?id=48022066 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.businessinsider.com/davidovs-venture-collective-dvc-ai-agents-talent-run-deals-2025-10 Comments URL: https://news.ycombinator.com/item?id=48022066 Points: 3 # Comments: 1",
+    "author": "SenHeng",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/davidovs-venture-collective-dvc-ai-agents-talent-run-deals-2025-10",
+    "id": "news-1337"
+  },
+  {
+    "title": "Make Technical Documentation Available for Local AI Use",
+    "summary": "Article URL: https://www.heltweg.org/posts/make-technical-documentation-available-for-local-ai-use/ Comments URL: https://news.ycombinator.com/item?id=48022140 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.heltweg.org/posts/make-technical-documentation-available-for-local-ai-use/ Comments URL: https://news.ycombinator.com/item?id=48022140 Points: 1 # Comments: 0",
+    "author": "rhazn",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.heltweg.org/posts/make-technical-documentation-available-for-local-ai-use/",
+    "id": "news-1336"
+  },
+  {
     "title": "Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova",
     "summary": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models. The article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, a",
     "content": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models. The article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova appeared first on The Decoder.",
