@@ -1,5 +1,96 @@
 [
   {
+    "title": "ChatGPT update rolls out GPT-5.5 Instant with fewer hallucinations and more personalized answers",
+    "summary": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law. A new fea",
+    "content": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law. A new feature called \"memory sources\" lets users see which stored context shaped a given response. The model is rolling out to all ChatGPT users right away, though personalization based on past chats, files, and Gmail launches first for Plus and Pro users on the web. The article ChatGPT update rolls out GPT-",
+    "author": "Matthias Bastian",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/",
+    "id": "news-1363"
+  },
+  {
+    "title": "US government now has pre-release access to AI models from five major labs for national security testing",
+    "summary": "The US Department of Commerce is expanding its AI safety testing: Following Anthropic and OpenAI, Google Deepmind, Microsoft, and xAI have now signed agreements with the Center for AI Standards and In",
+    "content": "The US Department of Commerce is expanding its AI safety testing: Following Anthropic and OpenAI, Google Deepmind, Microsoft, and xAI have now signed agreements with the Center for AI Standards and Innovation. The companies provide models with reduced safety guardrails for testing in classified environments amid growing cybersecurity risks and an intensifying tech race with China. The article US government now has pre-release access to AI models from five major labs for national security testing",
+    "author": "Matthias Bastian",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/",
+    "id": "news-1362"
+  },
+  {
+    "title": "Brockman: OpenAI to Spend $50B on Computing in 2026",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-05/openai-to-spend-50-billion-on-computing-in-2026-brockman-says Comments URL: https://news.ycombinator.com/item?id=48026882 Points: 2 # Co",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-05-05/openai-to-spend-50-billion-on-computing-in-2026-brockman-says Comments URL: https://news.ycombinator.com/item?id=48026882 Points: 2 # Comments: 0",
+    "author": "htrp",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-05-05/openai-to-spend-50-billion-on-computing-in-2026-brockman-says",
+    "id": "news-1361"
+  },
+  {
+    "title": "We removed AI from our game and it made it significantly better",
+    "summary": "Article URL: https://zadzoud.com/chibitomo Comments URL: https://news.ycombinator.com/item?id=48026919 Points: 3 # Comments: 1",
+    "content": "Article URL: https://zadzoud.com/chibitomo Comments URL: https://news.ycombinator.com/item?id=48026919 Points: 3 # Comments: 1",
+    "author": "ZeidJ",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zadzoud.com/chibitomo",
+    "id": "news-1360"
+  },
+  {
+    "title": "When innocent tools form dangerous chains to jailbreak LLM agents",
+    "summary": "Article URL: https://arxiv.org/abs/2509.25624 Comments URL: https://news.ycombinator.com/item?id=48027039 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2509.25624 Comments URL: https://news.ycombinator.com/item?id=48027039 Points: 2 # Comments: 0",
+    "author": "leecoursey",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2509.25624",
+    "id": "news-1359"
+  },
+  {
+    "title": "Quirre – An AI marketing copilot for non-marketers",
+    "summary": "Article URL: https://www.quirre.com/ Comments URL: https://news.ycombinator.com/item?id=48027054 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.quirre.com/ Comments URL: https://news.ycombinator.com/item?id=48027054 Points: 1 # Comments: 0",
+    "author": "dmnlaali",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.quirre.com/",
+    "id": "news-1358"
+  },
+  {
+    "title": "Unlocking Long-Context LLM Training via Compiler-Based Sequence Parallelism",
+    "summary": "Article URL: https://arxiv.org/abs/2604.27089 Comments URL: https://news.ycombinator.com/item?id=48027059 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.27089 Comments URL: https://news.ycombinator.com/item?id=48027059 Points: 1 # Comments: 0",
+    "author": "PaulHoule",
+    "date": "2026-05-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.27089",
+    "id": "news-1357"
+  },
+  {
     "title": "Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook",
     "summary": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasi",
     "content": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasizes. The article Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook appeared first on The Decoder.",
