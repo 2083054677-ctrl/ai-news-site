@@ -1,5 +1,57 @@
 [
   {
+    "title": "Anthropic commits $200 billion to Google Cloud over five years",
+    "summary": "According to a report by The Information, Anthropic has committed to spending roughly $200 billion on Google Cloud over the next five years - more than 40 percent of Google's entire cloud backlog. Tog",
+    "content": "According to a report by The Information, Anthropic has committed to spending roughly $200 billion on Google Cloud over the next five years - more than 40 percent of Google's entire cloud backlog. Together with OpenAI, the two money-losing startups account for roughly half of the $2 trillion in committed cloud revenue at Amazon, Microsoft, Google, and Oracle. Whether the 20- to 30-fold revenue growth both companies are projecting by 2029 will justify these numbers remains an open question. The a",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years/",
+    "id": "news-1392"
+  },
+  {
+    "title": "Google and Meta race to build personal AI agents as Anthropic and OpenAI pull further ahead",
+    "summary": "Google and Meta are both internally testing personal AI agents - codenamed \"Remy\" and \"Hatch\" - designed to handle everyday tasks on their own, a direct response to the lead built by Anthropic and Ope",
+    "content": "Google and Meta are both internally testing personal AI agents - codenamed \"Remy\" and \"Hatch\" - designed to handle everyday tasks on their own, a direct response to the lead built by Anthropic and OpenAI. Google shut down its browser agent project Mariner to focus on the effort. The market is shifting away from browser agents toward integrated assistants that live inside email, calendars, and shopping platforms. The article Google and Meta race to build personal AI agents as Anthropic and OpenAI",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/",
+    "id": "news-1391"
+  },
+  {
+    "title": "Deepseek nears $45 billion valuation as China's state chip fund leads round",
+    "summary": "Deepseek is close to a funding round that could value the Chinese AI lab at roughly $45 billion, according to the Financial Times. The article Deepseek nears $45 billion valuation as China's state chi",
+    "content": "Deepseek is close to a funding round that could value the Chinese AI lab at roughly $45 billion, according to the Financial Times. The article Deepseek nears $45 billion valuation as China's state chip fund leads round appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-nears-45-billion-valuation-as-chinas-state-chip-fund-leads-round/",
+    "id": "news-1390"
+  },
+  {
+    "title": "ChatGPT ads are now open to small businesses as OpenAI builds a full self-serve ad platform",
+    "summary": "Advertisers in the US can now book ads in ChatGPT on their own. The $50,000 minimum budget is gone. OpenAI is targeting $2.5 billion in ad revenue this year. The article ChatGPT ads are now open to sm",
+    "content": "Advertisers in the US can now book ads in ChatGPT on their own. The $50,000 minimum budget is gone. OpenAI is targeting $2.5 billion in ad revenue this year. The article ChatGPT ads are now open to small businesses as OpenAI builds a full self-serve ad platform appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/",
+    "id": "news-1389"
+  },
+  {
     "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
     "summary": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
     "content": "",
