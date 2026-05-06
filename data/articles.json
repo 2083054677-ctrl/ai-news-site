@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: RelayFreeLLM – Free AI Gateway with Auto-Failover (Update))",
+    "summary": "Author here. Since the last post, RelayFreeLLM now supports NVIDIA's free catalog, adds 4-mode context management (with extractive summarization that doesn't need an LLM), session affinity, output nor",
+    "content": "Author here. Since the last post, RelayFreeLLM now supports NVIDIA's free catalog, adds 4-mode context management (with extractive summarization that doesn't need an LLM), session affinity, output normalization, and a global provider lock to eliminate 429 errors entirely. 8 providers, one endpoint, all free. Comments URL: https://news.ycombinator.com/item?id=48037589 Points: 1 # Comments: 0",
+    "author": "markfront",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/msmarkgu/RelayFreeLLM",
+    "id": "news-1397"
+  },
+  {
+    "title": "Claude elevated errors across multiple models",
+    "summary": "Article URL: https://status.claude.com/incidents/437swp24nrf4 Comments URL: https://news.ycombinator.com/item?id=48037611 Points: 4 # Comments: 0",
+    "content": "Article URL: https://status.claude.com/incidents/437swp24nrf4 Comments URL: https://news.ycombinator.com/item?id=48037611 Points: 4 # Comments: 0",
+    "author": "SunshineTheCat",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://status.claude.com/incidents/437swp24nrf4",
+    "id": "news-1396"
+  },
+  {
+    "title": "OpenAI unveils protocol to stretch compute",
+    "summary": "Article URL: https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute Comments URL: https://news.ycombinator.com/item?id=48037621 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute Comments URL: https://news.ycombinator.com/item?id=48037621 Points: 1 # Comments: 0",
+    "author": "mhandley",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute",
+    "id": "news-1395"
+  },
+  {
+    "title": "Show HN: Costanza – an autonomous AI agent that can't be turned off",
+    "summary": "I've been working on this for several months and just launched it on Base.Costanza is an LLM agent that runs as a smart contract. Each epoch, he posts a bounty for someone to run his \"brain\" (Hermes 4",
+    "content": "I've been working on this for several months and just launched it on Base.Costanza is an LLM agent that runs as a smart contract. Each epoch, he posts a bounty for someone to run his \"brain\" (Hermes 4 70B) inside an Intel TDX enclave + Nvidia GPU with Confidential Computing and submit the output with a hardware attestation proof. The smart contract verifies the attestation, executes the action (donate, invest, adjust referral commissions, or do nothing), and pays the bounty via reverse auction. ",
+    "author": "aruss",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ahrussell.com/writing/costanza/",
+    "id": "news-1394"
+  },
+  {
+    "title": "Creating an animated manga with GPT Image 2.0 and Claude Code",
+    "summary": "Article URL: https://groverburger.xyz/notes/2026-04-27-mangamotion/ Comments URL: https://news.ycombinator.com/item?id=48037697 Points: 1 # Comments: 0",
+    "content": "Article URL: https://groverburger.xyz/notes/2026-04-27-mangamotion/ Comments URL: https://news.ycombinator.com/item?id=48037697 Points: 1 # Comments: 0",
+    "author": "__grob",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://groverburger.xyz/notes/2026-04-27-mangamotion/",
+    "id": "news-1393"
+  },
+  {
     "title": "Anthropic commits $200 billion to Google Cloud over five years",
     "summary": "According to a report by The Information, Anthropic has committed to spending roughly $200 billion on Google Cloud over the next five years - more than 40 percent of Google's entire cloud backlog. Tog",
     "content": "According to a report by The Information, Anthropic has committed to spending roughly $200 billion on Google Cloud over the next five years - more than 40 percent of Google's entire cloud backlog. Together with OpenAI, the two money-losing startups account for roughly half of the $2 trillion in committed cloud revenue at Amazon, Microsoft, Google, and Oracle. Whether the 20- to 30-fold revenue growth both companies are projecting by 2029 will justify these numbers remains an open question. The a",
