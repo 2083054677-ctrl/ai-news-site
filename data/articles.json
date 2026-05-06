@@ -1,5 +1,70 @@
 [
   {
+    "title": "CLI2API: Turn Your Claude Subscription into an OpenAI-Compatible API",
+    "summary": "Article URL: https://github.com/zhusq20/CLI2API Comments URL: https://news.ycombinator.com/item?id=48032446 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/zhusq20/CLI2API Comments URL: https://news.ycombinator.com/item?id=48032446 Points: 1 # Comments: 0",
+    "author": "zsqzz",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zhusq20/CLI2API",
+    "id": "news-1382"
+  },
+  {
+    "title": "Why LLM APIs Shouldn't Ship UTF-8\", \"Stop Wasting Bandwidth on LLM Text APIs",
+    "summary": "Article URL: https://github.com/wdunn001/codec Comments URL: https://news.ycombinator.com/item?id=48032449 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/wdunn001/codec Comments URL: https://news.ycombinator.com/item?id=48032449 Points: 3 # Comments: 1",
+    "author": "Zombwaffle",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wdunn001/codec",
+    "id": "news-1381"
+  },
+  {
+    "title": "Math Behind \"AI Will Replace Engineers\" Is Embarrassingly Wrong",
+    "summary": "Article URL: https://www.youtube.com/watch?v=ItSLny8on5I Comments URL: https://news.ycombinator.com/item?id=48032661 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=ItSLny8on5I Comments URL: https://news.ycombinator.com/item?id=48032661 Points: 2 # Comments: 0",
+    "author": "amcorvi",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=ItSLny8on5I",
+    "id": "news-1380"
+  },
+  {
+    "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
+    "summary": "Article URL: https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit Comments URL: https://news.ycombinator.com/item?id=48032672 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit Comments URL: https://news.ycombinator.com/item?id=48032672 Points: 2 # Comments: 0",
+    "author": "geox",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
+    "id": "news-1379"
+  },
+  {
+    "title": "The guide to RL environments: building and scaling them in the LLM era",
+    "summary": "Article URL: https://huggingface.co/spaces/AdithyaSK/rl-environments-guide Comments URL: https://news.ycombinator.com/item?id=48032715 Points: 2 # Comments: 0",
+    "content": "Article URL: https://huggingface.co/spaces/AdithyaSK/rl-environments-guide Comments URL: https://news.ycombinator.com/item?id=48032715 Points: 2 # Comments: 0",
+    "author": "babelfish",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://huggingface.co/spaces/AdithyaSK/rl-environments-guide",
+    "id": "news-1378"
+  },
+  {
     "title": "Telus using AI to alter the accents of customer service agents",
     "summary": "Article URL: https://www.theglobeandmail.com/business/article-telus-ai-accents-customer-service-agents/ Comments URL: https://news.ycombinator.com/item?id=48031182 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.theglobeandmail.com/business/article-telus-ai-accents-customer-service-agents/ Comments URL: https://news.ycombinator.com/item?id=48031182 Points: 2 # Comments: 0",
