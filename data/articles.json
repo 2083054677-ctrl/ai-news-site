@@ -1,5 +1,110 @@
 [
   {
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "summary": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "id": "news-1411"
+  },
+  {
+    "title": "Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude",
+    "summary": "Anthropic is taking over the full computing capacity of SpaceX's Colossus 1 data center, more than 300 megawatts and over 220,000 NVIDIA GPUs, expected to come online within a month. The company is al",
+    "content": "Anthropic is taking over the full computing capacity of SpaceX's Colossus 1 data center, more than 300 megawatts and over 220,000 NVIDIA GPUs, expected to come online within a month. The company is also doubling rate limits for Claude Code and significantly raising API limits for Opus models. The article Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-taps-spacexs-colossus-1-data-center-for-220000-gpus-to-power-claude/",
+    "id": "news-1410"
+  },
+  {
+    "title": "OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks",
+    "summary": "OpenAI has teamed up with AMD, Broadcom, Intel, Microsoft, and NVIDIA to develop MRC, an open source network protocol that sends data across hundreds of paths simultaneously between GPUs. Instead of t",
+    "content": "OpenAI has teamed up with AMD, Broadcom, Intel, Microsoft, and NVIDIA to develop MRC, an open source network protocol that sends data across hundreds of paths simultaneously between GPUs. Instead of three or four switch layers, MRC needs only two to connect over 100,000 GPUs, cutting both power and costs. The protocol is already running on OpenAI's Stargate supercomputer. The article OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottl",
+    "author": "Matthias Bastian",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-built-a-networking-protocol-with-amd-broadcom-intel-microsoft-and-nvidia-to-fix-ai-supercomputer-bottlenecks/",
+    "id": "news-1409"
+  },
+  {
+    "title": "Brian's Misunderstanding of Management in a World Rapidly Adopting AI",
+    "summary": "Article URL: https://allstead.dev/blog/brians-misunderstanding Comments URL: https://news.ycombinator.com/item?id=48039957 Points: 2 # Comments: 0",
+    "content": "Article URL: https://allstead.dev/blog/brians-misunderstanding Comments URL: https://news.ycombinator.com/item?id=48039957 Points: 2 # Comments: 0",
+    "author": "willio58",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://allstead.dev/blog/brians-misunderstanding",
+    "id": "news-1408"
+  },
+  {
+    "title": "Ascynd – AI video clipper that runs on your machine",
+    "summary": "Article URL: https://ascynd.io/en/blog/building-ascynd-in-rust Comments URL: https://news.ycombinator.com/item?id=48040053 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ascynd.io/en/blog/building-ascynd-in-rust Comments URL: https://news.ycombinator.com/item?id=48040053 Points: 2 # Comments: 0",
+    "author": "niels_",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ascynd.io/en/blog/building-ascynd-in-rust",
+    "id": "news-1407"
+  },
+  {
+    "title": "Recondo – Logging Proxy for Coding Agents (Claude Code, Codex, Gemini)",
+    "summary": "Article URL: https://github.com/recondodev/recondo Comments URL: https://news.ycombinator.com/item?id=48040214 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/recondodev/recondo Comments URL: https://news.ycombinator.com/item?id=48040214 Points: 1 # Comments: 0",
+    "author": "andmerm",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/recondodev/recondo",
+    "id": "news-1406"
+  },
+  {
+    "title": "How AI agent memory works",
+    "summary": "Article URL: https://memory.cobanov.dev/ Comments URL: https://news.ycombinator.com/item?id=48040311 Points: 2 # Comments: 0",
+    "content": "Article URL: https://memory.cobanov.dev/ Comments URL: https://news.ycombinator.com/item?id=48040311 Points: 2 # Comments: 0",
+    "author": "cobanov",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://memory.cobanov.dev/",
+    "id": "news-1405"
+  },
+  {
+    "title": "What the OpenAI Agent Phone might feel like",
+    "summary": "Article URL: https://kouh.me/openaiphone Comments URL: https://news.ycombinator.com/item?id=48040327 Points: 2 # Comments: 0",
+    "content": "Article URL: https://kouh.me/openaiphone Comments URL: https://news.ycombinator.com/item?id=48040327 Points: 2 # Comments: 0",
+    "author": "mrkn1",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kouh.me/openaiphone",
+    "id": "news-1404"
+  },
+  {
     "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
     "summary": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while ",
     "content": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while the main model checks them in a single pass. The article Google speeds up Gemma 4 threefold with multi-token prediction appeared first on The Decoder.",
