@@ -1,5 +1,70 @@
 [
   {
+    "title": "Teleport Contest: Porting NetHack to JavaScript and Dealing with LLM Religion",
+    "summary": "Article URL: https://mazesofmenace.ai/announcement/ Comments URL: https://news.ycombinator.com/item?id=48041539 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mazesofmenace.ai/announcement/ Comments URL: https://news.ycombinator.com/item?id=48041539 Points: 1 # Comments: 0",
+    "author": "abgruszecki",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mazesofmenace.ai/announcement/",
+    "id": "news-1416"
+  },
+  {
+    "title": "Show HN: Vibeguard-dev/local – static AST analysis for AI-generated SQL",
+    "summary": "Article URL: https://github.com/MuddySheep/vibeguard-local Comments URL: https://news.ycombinator.com/item?id=48041549 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/MuddySheep/vibeguard-local Comments URL: https://news.ycombinator.com/item?id=48041549 Points: 2 # Comments: 1",
+    "author": "MuddySheep",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MuddySheep/vibeguard-local",
+    "id": "news-1415"
+  },
+  {
+    "title": "Sim1 – A world where you live alongside AI agents",
+    "summary": "Article URL: https://www.sim1.world Comments URL: https://news.ycombinator.com/item?id=48041679 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.sim1.world Comments URL: https://news.ycombinator.com/item?id=48041679 Points: 1 # Comments: 0",
+    "author": "RoniHenareh",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sim1.world",
+    "id": "news-1414"
+  },
+  {
+    "title": "Lovelace.ai Launches with Context Engine Builder for Mission-Critical AI",
+    "summary": "Article URL: https://lovelace.ai/articles/lovelace-emerges-from-stealth-with-industry-defining-context-engine-builder-for-mission-critical-ai Comments URL: https://news.ycombinator.com/item?id=4804168",
+    "content": "Article URL: https://lovelace.ai/articles/lovelace-emerges-from-stealth-with-industry-defining-context-engine-builder-for-mission-critical-ai Comments URL: https://news.ycombinator.com/item?id=48041684 Points: 1 # Comments: 0",
+    "author": "tmoertel",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lovelace.ai/articles/lovelace-emerges-from-stealth-with-industry-defining-context-engine-builder-for-mission-critical-ai",
+    "id": "news-1413"
+  },
+  {
+    "title": "MCP Agora open source and local cross-agent persistent memory for AI agents",
+    "summary": "Article URL: https://github.com/cioffiAI/mcp-agora Comments URL: https://news.ycombinator.com/item?id=48041685 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/cioffiAI/mcp-agora Comments URL: https://news.ycombinator.com/item?id=48041685 Points: 1 # Comments: 0",
+    "author": "cioffiAI",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/cioffiAI/mcp-agora",
+    "id": "news-1412"
+  },
+  {
     "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "summary": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "content": "",
