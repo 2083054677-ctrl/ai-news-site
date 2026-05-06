@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
+    "summary": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while ",
+    "content": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while the main model checks them in a single pass. The article Google speeds up Gemma 4 threefold with multi-token prediction appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-speeds-up-gemma-4-threefold-with-multi-token-prediction/",
+    "id": "news-1403"
+  },
+  {
+    "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
+    "summary": "Article URL: https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/ Comments URL: https://news.ycombinator.com/item?id=48038753 Points: 3 # Comments: ",
+    "content": "Article URL: https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/ Comments URL: https://news.ycombinator.com/item?id=48038753 Points: 3 # Comments: 0",
+    "author": "netfortius",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/",
+    "id": "news-1402"
+  },
+  {
+    "title": "Show HN: Upskill – skill to find skills for your AI agents",
+    "summary": "Article URL: https://github.com/Autoloops/upskill Comments URL: https://news.ycombinator.com/item?id=48038825 Points: 3 # Comments: 3",
+    "content": "Article URL: https://github.com/Autoloops/upskill Comments URL: https://news.ycombinator.com/item?id=48038825 Points: 3 # Comments: 3",
+    "author": "kushalpatil07",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Autoloops/upskill",
+    "id": "news-1401"
+  },
+  {
+    "title": "The April every AI plan broke",
+    "summary": "Article URL: https://thefinancialengineer.substack.com/p/the-april-every-ai-plan-broke Comments URL: https://news.ycombinator.com/item?id=48038839 Points: 2 # Comments: 0",
+    "content": "Article URL: https://thefinancialengineer.substack.com/p/the-april-every-ai-plan-broke Comments URL: https://news.ycombinator.com/item?id=48038839 Points: 2 # Comments: 0",
+    "author": "gemanor",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thefinancialengineer.substack.com/p/the-april-every-ai-plan-broke",
+    "id": "news-1400"
+  },
+  {
+    "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+    "summary": "Article URL: https://claude.com/blog/new-in-claude-managed-agents Comments URL: https://news.ycombinator.com/item?id=48038949 Points: 1 # Comments: 0",
+    "content": "Article URL: https://claude.com/blog/new-in-claude-managed-agents Comments URL: https://news.ycombinator.com/item?id=48038949 Points: 1 # Comments: 0",
+    "author": "yusufozkan",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/blog/new-in-claude-managed-agents",
+    "id": "news-1399"
+  },
+  {
+    "title": "Doctors' growing AI deepfakes problem",
+    "summary": "Article URL: https://www.axios.com/2026/05/06/doctors-ai-deepfakes-misinformation-problem Comments URL: https://news.ycombinator.com/item?id=48039101 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/05/06/doctors-ai-deepfakes-misinformation-problem Comments URL: https://news.ycombinator.com/item?id=48039101 Points: 2 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/05/06/doctors-ai-deepfakes-misinformation-problem",
+    "id": "news-1398"
+  },
+  {
     "title": "Show HN: RelayFreeLLM – Free AI Gateway with Auto-Failover (Update))",
     "summary": "Author here. Since the last post, RelayFreeLLM now supports NVIDIA's free catalog, adds 4-mode context management (with extractive summarization that doesn't need an LLM), session affinity, output nor",
     "content": "Author here. Since the last post, RelayFreeLLM now supports NVIDIA's free catalog, adds 4-mode context management (with extractive summarization that doesn't need an LLM), session affinity, output normalization, and a global provider lock to eliminate 429 errors entirely. 8 providers, one endpoint, all free. Comments URL: https://news.ycombinator.com/item?id=48037589 Points: 1 # Comments: 0",
