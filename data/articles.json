@@ -1,5 +1,84 @@
 [
   {
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "summary": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "id": "news-1388"
+  },
+  {
+    "title": "Ask HN: Does your employer require everyone to use the same AI model?",
+    "summary": "I am consulting (software engineering) at two companies. At one company everyone is free to choose their preferred AI model while at the other the company imposes a strict AI policy that limits use to",
+    "content": "I am consulting (software engineering) at two companies. At one company everyone is free to choose their preferred AI model while at the other the company imposes a strict AI policy that limits use to a single model.From my perspective, the company where everyone can choose their own model has seen much higher adoption but there are regular discussions about which model to use and when.Does your employer impose a strict AI policy or is everyone free to pick and choose? Comments URL: https://news",
+    "author": "kevinfarrugia",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48034252",
+    "id": "news-1387"
+  },
+  {
+    "title": "Agentic AI Community 2026",
+    "summary": "Article URL: https://simplai.ai/simplai-university Comments URL: https://news.ycombinator.com/item?id=48034348 Points: 2 # Comments: 0",
+    "content": "Article URL: https://simplai.ai/simplai-university Comments URL: https://news.ycombinator.com/item?id=48034348 Points: 2 # Comments: 0",
+    "author": "peterparker01",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simplai.ai/simplai-university",
+    "id": "news-1386"
+  },
+  {
+    "title": "notebooklm-py makes Claude interact with NotebookLM",
+    "summary": "Article URL: https://github.com/teng-lin/notebooklm-py Comments URL: https://news.ycombinator.com/item?id=48034401 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/teng-lin/notebooklm-py Comments URL: https://news.ycombinator.com/item?id=48034401 Points: 1 # Comments: 0",
+    "author": "rippeltippel",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/teng-lin/notebooklm-py",
+    "id": "news-1385"
+  },
+  {
+    "title": "What Is an AI SDR? How AI Sales Agents Work in 2026",
+    "summary": "Article URL: https://babuger.com/blog/what-is-an-ai-sdr-how-ai-sales-agents-work Comments URL: https://news.ycombinator.com/item?id=48034421 Points: 1 # Comments: 1",
+    "content": "Article URL: https://babuger.com/blog/what-is-an-ai-sdr-how-ai-sales-agents-work Comments URL: https://news.ycombinator.com/item?id=48034421 Points: 1 # Comments: 1",
+    "author": "lyuata",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://babuger.com/blog/what-is-an-ai-sdr-how-ai-sales-agents-work",
+    "id": "news-1384"
+  },
+  {
+    "title": "AI and laser physics – a metaphor for collaborative collaboration",
+    "summary": "Article URL: https://solitonmaths.substack.com/p/the-coherent-cavity Comments URL: https://news.ycombinator.com/item?id=48034455 Points: 1 # Comments: 0",
+    "content": "Article URL: https://solitonmaths.substack.com/p/the-coherent-cavity Comments URL: https://news.ycombinator.com/item?id=48034455 Points: 1 # Comments: 0",
+    "author": "tompdavis",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://solitonmaths.substack.com/p/the-coherent-cavity",
+    "id": "news-1383"
+  },
+  {
     "title": "CLI2API: Turn Your Claude Subscription into an OpenAI-Compatible API",
     "summary": "Article URL: https://github.com/zhusq20/CLI2API Comments URL: https://news.ycombinator.com/item?id=48032446 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/zhusq20/CLI2API Comments URL: https://news.ycombinator.com/item?id=48032446 Points: 1 # Comments: 0",
