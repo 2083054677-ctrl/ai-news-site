@@ -1,5 +1,70 @@
 [
   {
+    "title": "Telus using AI to alter the accents of customer service agents",
+    "summary": "Article URL: https://www.theglobeandmail.com/business/article-telus-ai-accents-customer-service-agents/ Comments URL: https://news.ycombinator.com/item?id=48031182 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theglobeandmail.com/business/article-telus-ai-accents-customer-service-agents/ Comments URL: https://news.ycombinator.com/item?id=48031182 Points: 2 # Comments: 0",
+    "author": "gnabgib",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theglobeandmail.com/business/article-telus-ai-accents-customer-service-agents/",
+    "id": "news-1377"
+  },
+  {
+    "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
+    "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 2 # Comments: 0",
+    "author": "dmitrygr",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/OxideAV/oxideav-magicyuv/issues/3",
+    "id": "news-1376"
+  },
+  {
+    "title": "Google is building an AI agent that could be its answer to OpenClaw",
+    "summary": "Article URL: https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5 Comments URL: https://news.ycombinator.com/item?id=48031214 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5 Comments URL: https://news.ycombinator.com/item?id=48031214 Points: 2 # Comments: 0",
+    "author": "droidjj",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5",
+    "id": "news-1375"
+  },
+  {
+    "title": "Skelm – Build AI agents in TypeScript without losing your mind",
+    "summary": "Article URL: https://github.com/scottgl9/skelm Comments URL: https://news.ycombinator.com/item?id=48031274 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/scottgl9/skelm Comments URL: https://news.ycombinator.com/item?id=48031274 Points: 1 # Comments: 0",
+    "author": "scottgl",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/scottgl9/skelm",
+    "id": "news-1374"
+  },
+  {
+    "title": "Sample App – On-Device AI Assistant for Android",
+    "summary": "Article URL: https://github.com/ajay-sainy/GemOfGemma Comments URL: https://news.ycombinator.com/item?id=48031277 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ajay-sainy/GemOfGemma Comments URL: https://news.ycombinator.com/item?id=48031277 Points: 1 # Comments: 0",
+    "author": "qarue",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ajay-sainy/GemOfGemma",
+    "id": "news-1373"
+  },
+  {
     "title": "Claude, I order a whiskey sour, I get spaghetti",
     "summary": "Article URL: https://claude.ai/share/328f95d9-1c15-4eb5-accb-d1bf5bcaa713 Comments URL: https://news.ycombinator.com/item?id=48029434 Points: 3 # Comments: 1",
     "content": "Article URL: https://claude.ai/share/328f95d9-1c15-4eb5-accb-d1bf5bcaa713 Comments URL: https://news.ycombinator.com/item?id=48029434 Points: 3 # Comments: 1",
