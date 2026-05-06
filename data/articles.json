@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI evaluation startup Braintrust confirms breach",
+    "summary": "Article URL: https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/ Comments URL: https://news.ycombinator.com/item?id=480424",
+    "content": "Article URL: https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/ Comments URL: https://news.ycombinator.com/item?id=48042494 Points: 3 # Comments: 1",
+    "author": "zachdotai",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+    "id": "news-1421"
+  },
+  {
+    "title": "Judge Halts Colorado AI Law After xAI First Amendment Challenge",
+    "summary": "Article URL: https://reclaimthenet.org/judge-halts-colorado-ai-law-after-first-amendment-challenge Comments URL: https://news.ycombinator.com/item?id=48042519 Points: 4 # Comments: 0",
+    "content": "Article URL: https://reclaimthenet.org/judge-halts-colorado-ai-law-after-first-amendment-challenge Comments URL: https://news.ycombinator.com/item?id=48042519 Points: 4 # Comments: 0",
+    "author": "bilsbie",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://reclaimthenet.org/judge-halts-colorado-ai-law-after-first-amendment-challenge",
+    "id": "news-1420"
+  },
+  {
+    "title": "AI-Induced Cognitive Atrophy",
+    "summary": "Article URL: https://notesbylex.com/on-ai-induced-cognitive-atrophy Comments URL: https://news.ycombinator.com/item?id=48042616 Points: 1 # Comments: 0",
+    "content": "Article URL: https://notesbylex.com/on-ai-induced-cognitive-atrophy Comments URL: https://news.ycombinator.com/item?id=48042616 Points: 1 # Comments: 0",
+    "author": "lexandstuff",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://notesbylex.com/on-ai-induced-cognitive-atrophy",
+    "id": "news-1419"
+  },
+  {
+    "title": "Google Chrome downloads 4GB AI model to your device without permission",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violat",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy Comments URL: https://news.ycombinator.com/item?id=48042704 Points: 1 # Comments: 0",
+    "author": "vednig",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy",
+    "id": "news-1418"
+  },
+  {
+    "title": "Designing AI for Strategy Games Through Modding",
+    "summary": "Article URL: https://anbeeld.com/articles/designing-ai-for-strategy-games-through-modding Comments URL: https://news.ycombinator.com/item?id=48042735 Points: 2 # Comments: 0",
+    "content": "Article URL: https://anbeeld.com/articles/designing-ai-for-strategy-games-through-modding Comments URL: https://news.ycombinator.com/item?id=48042735 Points: 2 # Comments: 0",
+    "author": "nateberkopec",
+    "date": "2026-05-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://anbeeld.com/articles/designing-ai-for-strategy-games-through-modding",
+    "id": "news-1417"
+  },
+  {
     "title": "Teleport Contest: Porting NetHack to JavaScript and Dealing with LLM Religion",
     "summary": "Article URL: https://mazesofmenace.ai/announcement/ Comments URL: https://news.ycombinator.com/item?id=48041539 Points: 1 # Comments: 0",
     "content": "Article URL: https://mazesofmenace.ai/announcement/ Comments URL: https://news.ycombinator.com/item?id=48041539 Points: 1 # Comments: 0",
