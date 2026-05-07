@@ -1,5 +1,70 @@
 [
   {
+    "title": "Locked, stocked, and losing budget: AI vendor lock-in bites back",
+    "summary": "Article URL: https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050 Comments URL: https://news.ycombinator.com/item?id=48047400 Points: 2 # Co",
+    "content": "Article URL: https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050 Comments URL: https://news.ycombinator.com/item?id=48047400 Points: 2 # Comments: 0",
+    "author": "instagraham",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050",
+    "id": "news-1436"
+  },
+  {
+    "title": "Ask HN: Real life autonomous AI Agents",
+    "summary": "Is there a place where I can read real use cases / actual deployments of AI Agents?The internet is flooded with examples similar to below but these in my head are not true AI Agents right?1. If email ",
+    "content": "Is there a place where I can read real use cases / actual deployments of AI Agents?The internet is flooded with examples similar to below but these in my head are not true AI Agents right?1. If email arrives with pdf, check pdf for invoice information and put it in a google sheet is not a AI Agent? Its a workflow that now has llm call as a node 2. Check my google search console and suggest ideas for SEO - This again is a cron job (run every xhrs), collate information and feed it into a llm to ge",
+    "author": "gagarwal123",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48047428",
+    "id": "news-1435"
+  },
+  {
+    "title": "Is AI Creative?",
+    "summary": "Article URL: https://negativestarinnovators.com/blog/does-ai-actually-have-creativity Comments URL: https://news.ycombinator.com/item?id=48047436 Points: 1 # Comments: 0",
+    "content": "Article URL: https://negativestarinnovators.com/blog/does-ai-actually-have-creativity Comments URL: https://news.ycombinator.com/item?id=48047436 Points: 1 # Comments: 0",
+    "author": "pizzly",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://negativestarinnovators.com/blog/does-ai-actually-have-creativity",
+    "id": "news-1434"
+  },
+  {
+    "title": "Show HN: Desktop Agent Center – Local AI Automation via Hotkeys",
+    "summary": "I built an open-source tool called Desktop Agent Center: https://github.com/WellWells/desktop-agent-centerIt's a local-first gateway designed to bridge the gap between your desktop workflow and AI web",
+    "content": "I built an open-source tool called Desktop Agent Center: https://github.com/WellWells/desktop-agent-centerIt's a local-first gateway designed to bridge the gap between your desktop workflow and AI web interfaces like ChatGPT, Gemini, and Perplexity. Comments URL: https://news.ycombinator.com/item?id=48047444 Points: 1 # Comments: 1",
+    "author": "Tint6666",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48047444",
+    "id": "news-1433"
+  },
+  {
+    "title": "I got prompt-injected asking Claude on iOS to recommend a cycling route app",
+    "summary": "Article URL: https://menno.sh/prompt-injection.html Comments URL: https://news.ycombinator.com/item?id=48047536 Points: 1 # Comments: 0",
+    "content": "Article URL: https://menno.sh/prompt-injection.html Comments URL: https://news.ycombinator.com/item?id=48047536 Points: 1 # Comments: 0",
+    "author": "menno-sh",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://menno.sh/prompt-injection.html",
+    "id": "news-1432"
+  },
+  {
     "title": "Show HN: StackSense – AI/data/systems engineering knowledge graph",
     "summary": "Article URL: https://www.stacksense.cc/ Comments URL: https://news.ycombinator.com/item?id=48045897 Points: 3 # Comments: 0",
     "content": "Article URL: https://www.stacksense.cc/ Comments URL: https://news.ycombinator.com/item?id=48045897 Points: 3 # Comments: 0",
