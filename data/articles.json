@@ -1,5 +1,122 @@
 [
   {
+    "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
+    "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with",
+    "content": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with Outcomes and Multiagent Orchestration, now both in public beta, the updates are designed to help AI agents learn and improve across sessions. The article Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/",
+    "id": "news-1445"
+  },
+  {
+    "title": "The US and China are considering formal talks on AI",
+    "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder",
+    "content": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/",
+    "id": "news-1444"
+  },
+  {
+    "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
+    "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE On",
+    "content": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/",
+    "id": "news-1443"
+  },
+  {
+    "title": "AI models follow their values better when they first learn why those values matter",
+    "summary": "A study from the Anthropic Fellows Program shows that training a language model on texts explaining its intended values before teaching it specific behaviors leads to significantly better adherence to",
+    "content": "A study from the Anthropic Fellows Program shows that training a language model on texts explaining its intended values before teaching it specific behaviors leads to significantly better adherence to those values, even in situations never encountered during training. The article AI models follow their values better when they first learn why those values matter appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-models-follow-their-values-better-when-they-first-learn-why-those-values-matter/",
+    "id": "news-1442"
+  },
+  {
+    "title": "What would make an academic AI assistant trustworthy for students?",
+    "summary": "Article URL: https://github.com/DavidHavoc/openworkers Comments URL: https://news.ycombinator.com/item?id=48049190 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/DavidHavoc/openworkers Comments URL: https://news.ycombinator.com/item?id=48049190 Points: 1 # Comments: 1",
+    "author": "dvdhvc",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/DavidHavoc/openworkers",
+    "id": "news-1441"
+  },
+  {
+    "title": "Claude for Financial Services",
+    "summary": "Article URL: https://github.com/anthropics/financial-services Comments URL: https://news.ycombinator.com/item?id=48049207 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/anthropics/financial-services Comments URL: https://news.ycombinator.com/item?id=48049207 Points: 1 # Comments: 0",
+    "author": "srikanth235",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/financial-services",
+    "id": "news-1440"
+  },
+  {
+    "title": "AI for Bio has a Fuzzy API problem",
+    "summary": "Article URL: https://ankitg.me/blog/2026/05/04/fuzzy_api.html Comments URL: https://news.ycombinator.com/item?id=48049311 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ankitg.me/blog/2026/05/04/fuzzy_api.html Comments URL: https://news.ycombinator.com/item?id=48049311 Points: 1 # Comments: 0",
+    "author": "laserson",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
+    "id": "news-1439"
+  },
+  {
+    "title": "Show HN: Transform Claude/Codex/Cursor sessions into high-value data assets",
+    "summary": "Article URL: https://github.com/max-ng/datamoat Comments URL: https://news.ycombinator.com/item?id=48049321 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/max-ng/datamoat Comments URL: https://news.ycombinator.com/item?id=48049321 Points: 3 # Comments: 1",
+    "author": "max93",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/max-ng/datamoat",
+    "id": "news-1438"
+  },
+  {
+    "title": "Xfra AI",
+    "summary": "Article URL: https://www.xfra.ai/ Comments URL: https://news.ycombinator.com/item?id=48049359 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.xfra.ai/ Comments URL: https://news.ycombinator.com/item?id=48049359 Points: 2 # Comments: 0",
+    "author": "snickmy",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.xfra.ai/",
+    "id": "news-1437"
+  },
+  {
     "title": "Locked, stocked, and losing budget: AI vendor lock-in bites back",
     "summary": "Article URL: https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050 Comments URL: https://news.ycombinator.com/item?id=48047400 Points: 2 # Co",
     "content": "Article URL: https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050 Comments URL: https://news.ycombinator.com/item?id=48047400 Points: 2 # Comments: 0",
