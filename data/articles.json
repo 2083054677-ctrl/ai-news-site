@@ -1,5 +1,31 @@
 [
   {
+    "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
+    "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic's 80x gr",
+    "content": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/",
+    "id": "news-1447"
+  },
+  {
+    "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
+    "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees. The article AI translation company DeepL ",
+    "content": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees. The article AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+    "id": "news-1446"
+  },
+  {
     "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
     "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with",
     "content": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with Outcomes and Multiagent Orchestration, now both in public beta, the updates are designed to help AI agents learn and improve across sessions. The article Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes appeared first on The Decoder.",
