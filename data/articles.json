@@ -1,5 +1,57 @@
 [
   {
+    "title": "Being a line cook without talking to AI",
+    "summary": "Article URL: https://knhash.in/no-ai-line-cook/ Comments URL: https://news.ycombinator.com/item?id=48054599 Points: 2 # Comments: 0",
+    "content": "Article URL: https://knhash.in/no-ai-line-cook/ Comments URL: https://news.ycombinator.com/item?id=48054599 Points: 2 # Comments: 0",
+    "author": "kn81198",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://knhash.in/no-ai-line-cook/",
+    "id": "news-1458"
+  },
+  {
+    "title": "The Big Question Lurking Beneath the AI Debate",
+    "summary": "Article URL: https://www.derekthompson.org/p/the-fundamental-question-in-every Comments URL: https://news.ycombinator.com/item?id=48054630 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.derekthompson.org/p/the-fundamental-question-in-every Comments URL: https://news.ycombinator.com/item?id=48054630 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.derekthompson.org/p/the-fundamental-question-in-every",
+    "id": "news-1457"
+  },
+  {
+    "title": "Show HN: Resurf – realistic, reproducible test framework for AI browser agents",
+    "summary": "Systematic testing of browser agents today is not easy: testing on real websites is flaky, rate-limited and potentially expensive (e.g. using proxies or bypassing Captcha), while static-HTML benchmark",
+    "content": "Systematic testing of browser agents today is not easy: testing on real websites is flaky, rate-limited and potentially expensive (e.g. using proxies or bypassing Captcha), while static-HTML benchmarks lack state and dynamic behavior.Resurf gives your browser agent a realistic, stateful, instrumented framework — built on synthetic websites with failure-mode injection:- Realistic, dynamic, interactive environment - Deterministic & reproducible - Failure-mode injection (latency, payment errors, 5x",
+    "author": "andrew_zhong",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lightfeed/resurf",
+    "id": "news-1456"
+  },
+  {
+    "title": "AI Push to Add $1.6B to Maryland Power Bills, State Says",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-07/ai-push-to-add-1-6-billion-to-maryland-power-bills-state-says Comments URL: https://news.ycombinator.com/item?id=48054792 Points: 1 # Co",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-05-07/ai-push-to-add-1-6-billion-to-maryland-power-bills-state-says Comments URL: https://news.ycombinator.com/item?id=48054792 Points: 1 # Comments: 1",
+    "author": "spankibalt",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-05-07/ai-push-to-add-1-6-billion-to-maryland-power-bills-state-says",
+    "id": "news-1455"
+  },
+  {
     "title": "Europe's answer to AI regulation complexity is to just delay most of it",
     "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudific",
     "content": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026. The article Europe's answer to AI regulation complexity is to just delay most of it appeared first on The Decoder.",
