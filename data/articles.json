@@ -1,5 +1,70 @@
 [
   {
+    "title": "My Claude dreams at night and remembers everything. Better than mempalace",
+    "summary": "Article URL: https://github.com/CodeAbra/iai-mcp Comments URL: https://news.ycombinator.com/item?id=48055550 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/CodeAbra/iai-mcp Comments URL: https://news.ycombinator.com/item?id=48055550 Points: 2 # Comments: 0",
+    "author": "CodeAbra",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/CodeAbra/iai-mcp",
+    "id": "news-1463"
+  },
+  {
+    "title": "Show HN: Disputron – AI small claims court for petty disputes",
+    "summary": "Disputron is a small claims court for petty disputes. Two parties file, AI lawyers argue both sides, and a AI judge rules from the bench. Trials run live in a courtroom view with a live court tv guide",
+    "content": "Disputron is a small claims court for petty disputes. Two parties file, AI lawyers argue both sides, and a AI judge rules from the bench. Trials run live in a courtroom view with a live court tv guide. Anyone can watch.I built it because I wanted to build something with an LLM that didn't take AI too seriously. I think it started with a text \"have your lawyer talk to my lawyer.\" Just leaned into the absurd nature of it. Brought in human designers, illustrators, and musicians.If I didn't already ",
+    "author": "etaheri",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://disputron.ai",
+    "id": "news-1462"
+  },
+  {
+    "title": "AWS gives AI agents wallets to pay for APIs and web content",
+    "summary": "Article URL: https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/ Comments URL: https://news.ycombinator.com",
+    "content": "Article URL: https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/ Comments URL: https://news.ycombinator.com/item?id=48055798 Points: 5 # Comments: 0",
+    "author": "logickkk1",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+    "id": "news-1461"
+  },
+  {
+    "title": "Cloudflare stock sinks after earnings; cuts 1,100 employees due to AI changes",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html Comments URL: https://news.ycombinator.com/item?id=48056074 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html Comments URL: https://news.ycombinator.com/item?id=48056074 Points: 2 # Comments: 1",
+    "author": "choult",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html",
+    "id": "news-1460"
+  },
+  {
+    "title": "Writers Are Going to Extremes to Prove They Didn't Use AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/writers-are-going-to-extremes-to-prove-they-didnt-use-ai-46e7c3f7 Comments URL: https://news.ycombinator.com/item?id=48056131 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/writers-are-going-to-extremes-to-prove-they-didnt-use-ai-46e7c3f7 Comments URL: https://news.ycombinator.com/item?id=48056131 Points: 2 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/writers-are-going-to-extremes-to-prove-they-didnt-use-ai-46e7c3f7",
+    "id": "news-1459"
+  },
+  {
     "title": "Being a line cook without talking to AI",
     "summary": "Article URL: https://knhash.in/no-ai-line-cook/ Comments URL: https://news.ycombinator.com/item?id=48054599 Points: 2 # Comments: 0",
     "content": "Article URL: https://knhash.in/no-ai-line-cook/ Comments URL: https://news.ycombinator.com/item?id=48054599 Points: 2 # Comments: 0",
