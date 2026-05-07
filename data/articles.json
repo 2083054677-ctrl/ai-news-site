@@ -1,5 +1,96 @@
 [
   {
+    "title": "Europe's answer to AI regulation complexity is to just delay most of it",
+    "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudific",
+    "content": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026. The article Europe's answer to AI regulation complexity is to just delay most of it appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+    "id": "news-1454"
+  },
+  {
+    "title": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations",
+    "summary": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT",
+    "content": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matches GPT-5. The article OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/",
+    "id": "news-1453"
+  },
+  {
+    "title": "Show HN: Describe what makes a photo \"bad\" and let a local LLM flag them",
+    "summary": "Article URL: https://github.com/iamnotagentleman/bad-photos-out Comments URL: https://news.ycombinator.com/item?id=48053248 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/iamnotagentleman/bad-photos-out Comments URL: https://news.ycombinator.com/item?id=48053248 Points: 2 # Comments: 0",
+    "author": "velieroglu",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/iamnotagentleman/bad-photos-out",
+    "id": "news-1452"
+  },
+  {
+    "title": "The AI fitness instructors selling unreal gains",
+    "summary": "Article URL: https://www.bbc.com/sport/articles/c5ye7dnxv86o Comments URL: https://news.ycombinator.com/item?id=48053267 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/sport/articles/c5ye7dnxv86o Comments URL: https://news.ycombinator.com/item?id=48053267 Points: 3 # Comments: 0",
+    "author": "reconnecting",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/sport/articles/c5ye7dnxv86o",
+    "id": "news-1451"
+  },
+  {
+    "title": "Automating AI Research",
+    "summary": "Article URL: https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/ Comments URL: https://news.ycombinator.com/item?id=48053673 Points: 1 # Comments: 0",
+    "content": "Article URL: https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/ Comments URL: https://news.ycombinator.com/item?id=48053673 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
+    "id": "news-1450"
+  },
+  {
+    "title": "Does Claude Have Feelings?",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/dawkins-claude-ai-consciousness/687093/ Comments URL: https://news.ycombinator.com/item?id=48053693 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/05/dawkins-claude-ai-consciousness/687093/ Comments URL: https://news.ycombinator.com/item?id=48053693 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/05/dawkins-claude-ai-consciousness/687093/",
+    "id": "news-1449"
+  },
+  {
+    "title": "Understanding AI",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/ Comments URL: https://news.ycombinator.com/item?id=48053699 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/ Comments URL: https://news.ycombinator.com/item?id=48053699 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/",
+    "id": "news-1448"
+  },
+  {
     "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
     "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic's 80x gr",
     "content": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center appeared first on The Decoder.",
