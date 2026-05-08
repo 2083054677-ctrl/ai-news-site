@@ -1,5 +1,57 @@
 [
   {
+    "title": "Ask HN: What kind of computer language will LLM use?",
+    "summary": "I think in little time LLM will have the capability to translate easily code from one computer language to another, for example the LLM could \"think\" in prolog + lisp instead python. LLM will be able ",
+    "content": "I think in little time LLM will have the capability to translate easily code from one computer language to another, for example the LLM could \"think\" in prolog + lisp instead python. LLM will be able to write thousands of lines of APL or J in just a minute, we will have to accept that python is not the language for future LLMs. Perhaps the power of macros will not be defeated by its complexity because for an LLM a thousand line macro is just another simple code, prolog unification could mean bui",
+    "author": "folderquestion",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48069336",
+    "id": "news-1520"
+  },
+  {
+    "title": "How Do You Know If a Skill Is Any Good? LLM-as-Judge Scoring",
+    "summary": "Article URL: http://instructionmanuel.com/scoring-skills-with-llm-as-judge Comments URL: https://news.ycombinator.com/item?id=48069403 Points: 2 # Comments: 0",
+    "content": "Article URL: http://instructionmanuel.com/scoring-skills-with-llm-as-judge Comments URL: https://news.ycombinator.com/item?id=48069403 Points: 2 # Comments: 0",
+    "author": "eigenBasis",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://instructionmanuel.com/scoring-skills-with-llm-as-judge",
+    "id": "news-1519"
+  },
+  {
+    "title": "Teaching Claude Why",
+    "summary": "Article URL: https://alignment.anthropic.com/2026/teaching-claude-why/ Comments URL: https://news.ycombinator.com/item?id=48069421 Points: 1 # Comments: 0",
+    "content": "Article URL: https://alignment.anthropic.com/2026/teaching-claude-why/ Comments URL: https://news.ycombinator.com/item?id=48069421 Points: 1 # Comments: 0",
+    "author": "cebert",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alignment.anthropic.com/2026/teaching-claude-why/",
+    "id": "news-1518"
+  },
+  {
+    "title": "AI makes weak engineers less harmful",
+    "summary": "Article URL: https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/ Comments URL: https://news.ycombinator.com/item?id=48069496 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/ Comments URL: https://news.ycombinator.com/item?id=48069496 Points: 2 # Comments: 0",
+    "author": "bsgada",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
+    "id": "news-1517"
+  },
+  {
     "title": "A New Era of Security: Frontier AI Defense",
     "summary": "Article URL: https://www.paloaltonetworks.com/blog/2026/05/frontier-ai-defense/ Comments URL: https://news.ycombinator.com/item?id=48068059 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.paloaltonetworks.com/blog/2026/05/frontier-ai-defense/ Comments URL: https://news.ycombinator.com/item?id=48068059 Points: 1 # Comments: 0",
