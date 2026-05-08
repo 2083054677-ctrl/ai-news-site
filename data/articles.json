@@ -1,5 +1,84 @@
 [
   {
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "summary": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "id": "news-1511"
+  },
+  {
+    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
+    "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researc",
+    "content": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
+    "id": "news-1510"
+  },
+  {
+    "title": "SafeSandbox – infinite undo for AI coding agents (Cursor, Claude Code, Codex)",
+    "summary": "Article URL: https://github.com/Baukaalm/safesandbox Comments URL: https://news.ycombinator.com/item?id=48066981 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/Baukaalm/safesandbox Comments URL: https://news.ycombinator.com/item?id=48066981 Points: 2 # Comments: 0",
+    "author": "baursha",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Baukaalm/safesandbox",
+    "id": "news-1509"
+  },
+  {
+    "title": "IatroBench: Pre-Registered Evidence of Iatrogenic Harm from AI Safety Measures",
+    "summary": "Article URL: https://arxiv.org/abs/2604.07709 Comments URL: https://news.ycombinator.com/item?id=48067023 Points: 2 # Comments: 1",
+    "content": "Article URL: https://arxiv.org/abs/2604.07709 Comments URL: https://news.ycombinator.com/item?id=48067023 Points: 2 # Comments: 1",
+    "author": "NavinF",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.07709",
+    "id": "news-1508"
+  },
+  {
+    "title": "Debt Behind the AI Boom: A Large-Scale Study of AI-Generated Code in the Wild",
+    "summary": "Article URL: https://arxiv.org/abs/2603.28592 Comments URL: https://news.ycombinator.com/item?id=48067254 Points: 2 # Comments: 1",
+    "content": "Article URL: https://arxiv.org/abs/2603.28592 Comments URL: https://news.ycombinator.com/item?id=48067254 Points: 2 # Comments: 1",
+    "author": "shyam_meher",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2603.28592",
+    "id": "news-1507"
+  },
+  {
+    "title": "The Abstraction Fallacy: Why AI Can Simulate but Not Instantiate Consciousness",
+    "summary": "Article URL: https://philarchive.org/rec/LERTAF Comments URL: https://news.ycombinator.com/item?id=48067313 Points: 1 # Comments: 0",
+    "content": "Article URL: https://philarchive.org/rec/LERTAF Comments URL: https://news.ycombinator.com/item?id=48067313 Points: 1 # Comments: 0",
+    "author": "shervinafshar",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://philarchive.org/rec/LERTAF",
+    "id": "news-1506"
+  },
+  {
     "title": "EMO: Pretraining mixture of experts for emergent modularity",
     "summary": "EMO: Pretraining mixture of experts for emergent modularity",
     "content": "",
