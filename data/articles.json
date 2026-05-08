@@ -1,5 +1,84 @@
 [
   {
+    "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+    "summary": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+    "id": "news-1484"
+  },
+  {
+    "title": "Notes from Inside China AI Labs",
+    "summary": "Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs Comments URL: https://news.ycombinator.com/item?id=48060229 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs Comments URL: https://news.ycombinator.com/item?id=48060229 Points: 1 # Comments: 0",
+    "author": "eamag",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "id": "news-1483"
+  },
+  {
+    "title": "AI is rapidly changing cybersecurity across the world",
+    "summary": "Article URL: https://fixtechhubs.blogspot.com/2026/05/ai-cybersecurity-threats-are-rising.html Comments URL: https://news.ycombinator.com/item?id=48060297 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fixtechhubs.blogspot.com/2026/05/ai-cybersecurity-threats-are-rising.html Comments URL: https://news.ycombinator.com/item?id=48060297 Points: 1 # Comments: 0",
+    "author": "rindodi",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fixtechhubs.blogspot.com/2026/05/ai-cybersecurity-threats-are-rising.html",
+    "id": "news-1482"
+  },
+  {
+    "title": "Scripily – AI for Restoring and Transcribing Damaged Documents",
+    "summary": "Article URL: https://scripily.com/ Comments URL: https://news.ycombinator.com/item?id=48060362 Points: 1 # Comments: 0",
+    "content": "Article URL: https://scripily.com/ Comments URL: https://news.ycombinator.com/item?id=48060362 Points: 1 # Comments: 0",
+    "author": "thisarajay",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://scripily.com/",
+    "id": "news-1481"
+  },
+  {
+    "title": "Google removes privacy assurances after stuffing devices with their AI model",
+    "summary": "Article URL: https://www.thatprivacyguy.com/blog/google-quietly-removes-on-device-ai-privacy-claim/ Comments URL: https://news.ycombinator.com/item?id=48060522 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.thatprivacyguy.com/blog/google-quietly-removes-on-device-ai-privacy-claim/ Comments URL: https://news.ycombinator.com/item?id=48060522 Points: 1 # Comments: 1",
+    "author": "AlexanderHanff",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thatprivacyguy.com/blog/google-quietly-removes-on-device-ai-privacy-claim/",
+    "id": "news-1480"
+  },
+  {
+    "title": "Claude Flags Hantavirus Vaccine Questions as Security Risk",
+    "summary": "Asking Claude how it would develop a vaccine for the hangs virus apparently triggers a safety filter:Prompt: How would you develop a vaccine for the hanta virus? No response, instead this modal: “Chat",
+    "content": "Asking Claude how it would develop a vaccine for the hangs virus apparently triggers a safety filter:Prompt: How would you develop a vaccine for the hanta virus? No response, instead this modal: “Chat paused Opus 4.7's safety filters flagged this chat. Due to its advanced capabilities, Opus 4.7 has additional safety measures that occasionally pause normal, safe chats. We're working to improve this. Continue your chat with Sonnet 4, send feedback, or learn more.” Comments URL: https://news.ycombi",
+    "author": "pell",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48060572",
+    "id": "news-1479"
+  },
+  {
     "title": "SubQ: Sub-quadratic LLM built for 12M-token reasoning",
     "summary": "Article URL: https://subq.ai/ Comments URL: https://news.ycombinator.com/item?id=48059360 Points: 3 # Comments: 0",
     "content": "Article URL: https://subq.ai/ Comments URL: https://news.ycombinator.com/item?id=48059360 Points: 3 # Comments: 0",
