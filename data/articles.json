@@ -1,5 +1,97 @@
 [
   {
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "summary": "EMO: Pretraining mixture of experts for emergent modularity",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/emo",
+    "id": "news-1505"
+  },
+  {
+    "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
+    "summary": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI. The article ",
+    "content": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI. The article SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/",
+    "id": "news-1504"
+  },
+  {
+    "title": "Emacs with Org-Mode and Claude for Apple MacBook",
+    "summary": "Article URL: https://github.com/deno1011/emacs-mac-setup/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=48065731 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/deno1011/emacs-mac-setup/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=48065731 Points: 1 # Comments: 0",
+    "author": "noed1011",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/deno1011/emacs-mac-setup/blob/main/README.md",
+    "id": "news-1503"
+  },
+  {
+    "title": "Dora: ROI of AI Calculator",
+    "summary": "Article URL: https://dora.dev/ai/roi/calculator/#staff_size=500&salary=176000&revenue=100000000&downtime_cost_per_hour=100000¤t_deployments_per_year=50¤t_features_per_year=50&idea_success_rate=0.33&re",
+    "content": "Article URL: https://dora.dev/ai/roi/calculator/#staff_size=500&salary=176000&revenue=100000000&downtime_cost_per_hour=100000¤t_deployments_per_year=50¤t_features_per_year=50&idea_success_rate=0.33&revenue_impact_per_feature=0.005¤t_cfr=0.05¤t_fdrt=4&time_saved_per_developer=0.125&ai_license_cost_per_user=250&additional_ai_cost_per_user=80&additional_ai_infra_cost=100000&training_cost_per_user=9600&target_deployments_per_year=56&target_features_per_year=56&target_cfr=0.06&j_curve_drop=0.15&j_cur",
+    "author": "swolpers",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dora.dev/ai/roi/calculator/#staff_size=500&salary=176000&revenue=100000000&downtime_cost_per_hour=100000&current_deployments_per_year=50&current_features_per_year=50&idea_success_rate=0.33&revenue_impact_per_feature=0.005&current_cfr=0.05&current_fdrt=4&time_saved_per_developer=0.125&ai_license_cost_per_user=250&additional_ai_cost_per_user=80&additional_ai_infra_cost=100000&training_cost_per_user=9600&target_deployments_per_year=56&target_features_per_year=56&target_cfr=0.06&j_curve_drop=0.15&j_curve_duration=3",
+    "id": "news-1502"
+  },
+  {
+    "title": "GPT-5.5 low vs. medium vs. high vs. xhigh: the reasoning curve on 26 real tasks",
+    "summary": "Article URL: https://www.stet.sh/blog/gpt-55-codex-graphql-reasoning-curve Comments URL: https://news.ycombinator.com/item?id=48065788 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.stet.sh/blog/gpt-55-codex-graphql-reasoning-curve Comments URL: https://news.ycombinator.com/item?id=48065788 Points: 2 # Comments: 0",
+    "author": "bisonbear",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.stet.sh/blog/gpt-55-codex-graphql-reasoning-curve",
+    "id": "news-1501"
+  },
+  {
+    "title": "Reproducing all of Schmidhuber's papers with Claude",
+    "summary": "Article URL: https://cybertronai.github.io/schmidhuber-problems/visual-tour.html Comments URL: https://news.ycombinator.com/item?id=48065843 Points: 2 # Comments: 0",
+    "content": "Article URL: https://cybertronai.github.io/schmidhuber-problems/visual-tour.html Comments URL: https://news.ycombinator.com/item?id=48065843 Points: 2 # Comments: 0",
+    "author": "hardmaru",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cybertronai.github.io/schmidhuber-problems/visual-tour.html",
+    "id": "news-1500"
+  },
+  {
+    "title": "The Download: AI malaise and babymaking tech",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/ Comments URL: https://news.ycombinator.com/item?id=48065869 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/ Comments URL: https://news.ycombinator.com/item?id=48065869 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+    "id": "news-1499"
+  },
+  {
     "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces",
     "summary": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text. Pre-deployment audits show that models often recognize test situations and deliberately de",
     "content": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text. Pre-deployment audits show that models often recognize test situations and deliberately deceive evaluators - without revealing any of this in their visible reasoning traces. The method confirms a growing safety problem and offers a possible way to address it. The article AI safety tests have a new problem: Models are now faking their own reasoning traces appeared first on The Decoder.",
