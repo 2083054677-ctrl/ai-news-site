@@ -1,5 +1,70 @@
 [
   {
+    "title": "The AI Revival of the Three Mile Island Nuclear Plant",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal Comments URL: https://news.ycombinator.com/item?id=48058663 Points: 2 # Com",
+    "content": "Article URL: https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal Comments URL: https://news.ycombinator.com/item?id=48058663 Points: 2 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal",
+    "id": "news-1473"
+  },
+  {
+    "title": "Webdevbench: Evaluating AI as software development agencies",
+    "summary": "Article URL: https://webdevbench-ai-benchmarks.qwikbuild.site/ Comments URL: https://news.ycombinator.com/item?id=48058718 Points: 2 # Comments: 0",
+    "content": "Article URL: https://webdevbench-ai-benchmarks.qwikbuild.site/ Comments URL: https://news.ycombinator.com/item?id=48058718 Points: 2 # Comments: 0",
+    "author": "nileshtrivedi",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://webdevbench-ai-benchmarks.qwikbuild.site/",
+    "id": "news-1472"
+  },
+  {
+    "title": "Ask HN: How are you sandboxing AI agents and developer CLIs?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48058747 Points: 2 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=48058747 Points: 2 # Comments: 0",
+    "author": "nikhilpareek13",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48058747",
+    "id": "news-1471"
+  },
+  {
+    "title": "Show HN: When the LLM Accidentally",
+    "summary": "Output's some high-level abstraction of \"thinking\" into the actual response...What else??? This isn't jailbreaking on my end - just normal use - with GPT5.4 in this case, reasoning and verbosity both ",
+    "content": "Output's some high-level abstraction of \"thinking\" into the actual response...What else??? This isn't jailbreaking on my end - just normal use - with GPT5.4 in this case, reasoning and verbosity both set to \"high\".. (on /completions)Point is, this block (plus lots more) is at the top of the response - then the \"actual output\" or response later on... but it's kind of cool, it helps me see how much time is being spent inferring things improperly and how I could change my instructions..The real que",
+    "author": "lucid-dev",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48059025",
+    "id": "news-1470"
+  },
+  {
+    "title": "The layoffs will continue till we learn to use AI",
+    "summary": "Article URL: https://twitter.com/championswimmer/status/2051807284691612099 Comments URL: https://news.ycombinator.com/item?id=48059081 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/championswimmer/status/2051807284691612099 Comments URL: https://news.ycombinator.com/item?id=48059081 Points: 2 # Comments: 0",
+    "author": "s4i",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/championswimmer/status/2051807284691612099",
+    "id": "news-1469"
+  },
+  {
     "title": "Roche to Buy PathAI for Up to $1.05B to Bolster AI Diagnostics Tools",
     "summary": "Article URL: https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee Comments URL: https://news.ycombinator.com/item?id=48057610 Points: ",
     "content": "Article URL: https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee Comments URL: https://news.ycombinator.com/item?id=48057610 Points: 1 # Comments: 0",
