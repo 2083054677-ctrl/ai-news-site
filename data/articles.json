@@ -1,5 +1,83 @@
 [
   {
+    "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
+    "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds",
+    "content": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit. The article Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
+    "id": "news-1490"
+  },
+  {
+    "title": "Show HN: DashResume, a resume builder with ATS scoring, and AI job desc matching",
+    "summary": "Article URL: https://dashresume.com/ Comments URL: https://news.ycombinator.com/item?id=48061195 Points: 2 # Comments: 0",
+    "content": "Article URL: https://dashresume.com/ Comments URL: https://news.ycombinator.com/item?id=48061195 Points: 2 # Comments: 0",
+    "author": "nicereads",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dashresume.com/",
+    "id": "news-1489"
+  },
+  {
+    "title": "The Margin Sandwich: Where the AI Services Dollar Lands",
+    "summary": "Article URL: https://deepviews.xyz/blog/margin-sandwich-ii-en Comments URL: https://news.ycombinator.com/item?id=48061228 Points: 2 # Comments: 1",
+    "content": "Article URL: https://deepviews.xyz/blog/margin-sandwich-ii-en Comments URL: https://news.ycombinator.com/item?id=48061228 Points: 2 # Comments: 1",
+    "author": "rswcf",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deepviews.xyz/blog/margin-sandwich-ii-en",
+    "id": "news-1488"
+  },
+  {
+    "title": "Vimes Boots and why the right AI evals could save your project",
+    "summary": "Article URL: https://www.investigatingsoftware.co.uk/2026/05/vimes-boots-why-right-ai-evals-could.html Comments URL: https://news.ycombinator.com/item?id=48061268 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.investigatingsoftware.co.uk/2026/05/vimes-boots-why-right-ai-evals-could.html Comments URL: https://news.ycombinator.com/item?id=48061268 Points: 1 # Comments: 0",
+    "author": "phoughton",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.investigatingsoftware.co.uk/2026/05/vimes-boots-why-right-ai-evals-could.html",
+    "id": "news-1487"
+  },
+  {
+    "title": "AirPods Pro with AI Cameras Reach 'Advanced' Testing Stage",
+    "summary": "Article URL: https://www.macrumors.com/2026/05/07/airpods-pro-built-in-cameras-advanced-testing/ Comments URL: https://news.ycombinator.com/item?id=48061291 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.macrumors.com/2026/05/07/airpods-pro-built-in-cameras-advanced-testing/ Comments URL: https://news.ycombinator.com/item?id=48061291 Points: 3 # Comments: 0",
+    "author": "doener",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.macrumors.com/2026/05/07/airpods-pro-built-in-cameras-advanced-testing/",
+    "id": "news-1486"
+  },
+  {
+    "title": "Notes from Code with Claude 2026",
+    "summary": "Article URL: https://chrisebert.net/notes-from-code-with-claude-2026/ Comments URL: https://news.ycombinator.com/item?id=48061370 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chrisebert.net/notes-from-code-with-claude-2026/ Comments URL: https://news.ycombinator.com/item?id=48061370 Points: 1 # Comments: 0",
+    "author": "cebert",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chrisebert.net/notes-from-code-with-claude-2026/",
+    "id": "news-1485"
+  },
+  {
     "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
     "summary": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
     "content": "",
