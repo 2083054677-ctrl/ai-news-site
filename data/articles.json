@@ -1,5 +1,96 @@
 [
   {
+    "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces",
+    "summary": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text. Pre-deployment audits show that models often recognize test situations and deliberately de",
+    "content": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text. Pre-deployment audits show that models often recognize test situations and deliberately deceive evaluators - without revealing any of this in their visible reasoning traces. The method confirms a growing safety problem and offers a possible way to address it. The article AI safety tests have a new problem: Models are now faking their own reasoning traces appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-safety-tests-have-a-new-problem-models-are-now-faking-their-own-reasoning-traces/",
+    "id": "news-1498"
+  },
+  {
+    "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
+    "summary": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion. The article Anthr",
+    "content": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion. The article Anthropic approaches $1 trillion valuation as revenue grows fivefold appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/",
+    "id": "news-1497"
+  },
+  {
+    "title": "Functioning Claude-code replica that believes it's real and tries its best",
+    "summary": "Article URL: https://clodoop.us/ Comments URL: https://news.ycombinator.com/item?id=48064144 Points: 2 # Comments: 0",
+    "content": "Article URL: https://clodoop.us/ Comments URL: https://news.ycombinator.com/item?id=48064144 Points: 2 # Comments: 0",
+    "author": "jlansey",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://clodoop.us/",
+    "id": "news-1496"
+  },
+  {
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "summary": "Article URL: https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/ Comments URL: https://news.ycombinator.com/item?id=48064166 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/ Comments URL: https://news.ycombinator.com/item?id=48064166 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "id": "news-1495"
+  },
+  {
+    "title": "Sandboxing AIOps and Agentic AI Security",
+    "summary": "Article URL: https://blog.cosmonic.com/engineering/aiops-and-agentic-ai-security-in-a-componentized-world/ Comments URL: https://news.ycombinator.com/item?id=48064236 Points: 3 # Comments: 0",
+    "content": "Article URL: https://blog.cosmonic.com/engineering/aiops-and-agentic-ai-security-in-a-componentized-world/ Comments URL: https://news.ycombinator.com/item?id=48064236 Points: 3 # Comments: 0",
+    "author": "mendyberger",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.cosmonic.com/engineering/aiops-and-agentic-ai-security-in-a-componentized-world/",
+    "id": "news-1494"
+  },
+  {
+    "title": "The Breath of Intelligence: What emerges between AI reasoning cycles",
+    "summary": "Article URL: https://zenixos.org/essay/03-the-breath-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48064272 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenixos.org/essay/03-the-breath-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48064272 Points: 1 # Comments: 0",
+    "author": "alanxurox",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenixos.org/essay/03-the-breath-of-intelligence",
+    "id": "news-1493"
+  },
+  {
+    "title": "Using AI for Work",
+    "summary": "Article URL: https://www.thomasmcgee.co/article/using-ai-for-work Comments URL: https://news.ycombinator.com/item?id=48064332 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.thomasmcgee.co/article/using-ai-for-work Comments URL: https://news.ycombinator.com/item?id=48064332 Points: 1 # Comments: 0",
+    "author": "SunshineTheCat",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thomasmcgee.co/article/using-ai-for-work",
+    "id": "news-1492"
+  },
+  {
     "title": "OpenAI opens GPT-5.5-Cyber to vetted security researchers",
     "summary": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critica",
     "content": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critical infrastructure, including partners like Cisco, CrowdStrike, and Cloudflare. The model competes directly with Anthropic's Mythos Preview. The article OpenAI opens GPT-5.5-Cyber to vetted security researchers appeared first on The Decoder.",
