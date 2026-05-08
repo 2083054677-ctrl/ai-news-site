@@ -1,5 +1,70 @@
 [
   {
+    "title": "SubQ: Sub-quadratic LLM built for 12M-token reasoning",
+    "summary": "Article URL: https://subq.ai/ Comments URL: https://news.ycombinator.com/item?id=48059360 Points: 3 # Comments: 0",
+    "content": "Article URL: https://subq.ai/ Comments URL: https://news.ycombinator.com/item?id=48059360 Points: 3 # Comments: 0",
+    "author": "anujbans",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://subq.ai/",
+    "id": "news-1478"
+  },
+  {
+    "title": "Why the Future of AI Depends on Smaller Models",
+    "summary": "Article URL: https://jeevan.life/posts/why-the-future-of-ai-depends-on-smaller-models.html Comments URL: https://news.ycombinator.com/item?id=48059403 Points: 2 # Comments: 0",
+    "content": "Article URL: https://jeevan.life/posts/why-the-future-of-ai-depends-on-smaller-models.html Comments URL: https://news.ycombinator.com/item?id=48059403 Points: 2 # Comments: 0",
+    "author": "lroe",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jeevan.life/posts/why-the-future-of-ai-depends-on-smaller-models.html",
+    "id": "news-1477"
+  },
+  {
+    "title": "AI-Native Hedge Funds Are Possible and Profitable Just Not the Next Unicorn",
+    "summary": "Article URL: https://podium-finance.com/blog/ai-native-hedge-funds-and-yc Comments URL: https://news.ycombinator.com/item?id=48059453 Points: 2 # Comments: 0",
+    "content": "Article URL: https://podium-finance.com/blog/ai-native-hedge-funds-and-yc Comments URL: https://news.ycombinator.com/item?id=48059453 Points: 2 # Comments: 0",
+    "author": "nlpnerd",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://podium-finance.com/blog/ai-native-hedge-funds-and-yc",
+    "id": "news-1476"
+  },
+  {
+    "title": "The room, not the words in it. My AI harness",
+    "summary": "Article URL: https://blog.imjackofitall.com/posts/2026-04-28/ Comments URL: https://news.ycombinator.com/item?id=48059522 Points: 3 # Comments: 0",
+    "content": "Article URL: https://blog.imjackofitall.com/posts/2026-04-28/ Comments URL: https://news.ycombinator.com/item?id=48059522 Points: 3 # Comments: 0",
+    "author": "imjackofitall",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.imjackofitall.com/posts/2026-04-28/",
+    "id": "news-1475"
+  },
+  {
+    "title": "Ask HN: How are you handling QA being bottlenecked with more AI-generated PRs?",
+    "summary": "At my company engineers are producing a high quantity of PRs with the help of AI agents. QA was already the bottleneck since the software involves camera flows across multiple devices, now this is mor",
+    "content": "At my company engineers are producing a high quantity of PRs with the help of AI agents. QA was already the bottleneck since the software involves camera flows across multiple devices, now this is more so the case. Comments URL: https://news.ycombinator.com/item?id=48059756 Points: 1 # Comments: 0",
+    "author": "softneon",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48059756",
+    "id": "news-1474"
+  },
+  {
     "title": "The AI Revival of the Three Mile Island Nuclear Plant",
     "summary": "Article URL: https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal Comments URL: https://news.ycombinator.com/item?id=48058663 Points: 2 # Com",
     "content": "Article URL: https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal Comments URL: https://news.ycombinator.com/item?id=48058663 Points: 2 # Comments: 0",
