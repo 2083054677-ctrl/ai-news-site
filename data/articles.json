@@ -1,5 +1,18 @@
 [
   {
+    "title": "OpenAI opens GPT-5.5-Cyber to vetted security researchers",
+    "summary": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critica",
+    "content": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critical infrastructure, including partners like Cisco, CrowdStrike, and Cloudflare. The model competes directly with Anthropic's Mythos Preview. The article OpenAI opens GPT-5.5-Cyber to vetted security researchers appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-opens-gpt-5-5-cyber-to-vetted-security-researchers/",
+    "id": "news-1491"
+  },
+  {
     "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
     "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds",
     "content": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit. The article Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities appeared first on The Decoder.",
