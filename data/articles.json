@@ -1,5 +1,70 @@
 [
   {
+    "title": "A New Era of Security: Frontier AI Defense",
+    "summary": "Article URL: https://www.paloaltonetworks.com/blog/2026/05/frontier-ai-defense/ Comments URL: https://news.ycombinator.com/item?id=48068059 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.paloaltonetworks.com/blog/2026/05/frontier-ai-defense/ Comments URL: https://news.ycombinator.com/item?id=48068059 Points: 1 # Comments: 0",
+    "author": "yusufozkan",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.paloaltonetworks.com/blog/2026/05/frontier-ai-defense/",
+    "id": "news-1516"
+  },
+  {
+    "title": "Frontier models refuse to help organizers, so we built our own activist AI",
+    "summary": "Article URL: https://www.outcryai.com/research/how-to-create-activist-ai Comments URL: https://news.ycombinator.com/item?id=48068135 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.outcryai.com/research/how-to-create-activist-ai Comments URL: https://news.ycombinator.com/item?id=48068135 Points: 2 # Comments: 0",
+    "author": "micahwhite",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.outcryai.com/research/how-to-create-activist-ai",
+    "id": "news-1515"
+  },
+  {
+    "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
+    "summary": "Article URL: https://twitter.com/trq212/status/2052809885763747935 Comments URL: https://news.ycombinator.com/item?id=48068185 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/trq212/status/2052809885763747935 Comments URL: https://news.ycombinator.com/item?id=48068185 Points: 3 # Comments: 0",
+    "author": "tchalla",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/trq212/status/2052809885763747935",
+    "id": "news-1514"
+  },
+  {
+    "title": "AI, the Poor, and the Ignorant",
+    "summary": "Article URL: https://user8.bearblog.dev/ai-the-poor-and-the-ignorant/ Comments URL: https://news.ycombinator.com/item?id=48068207 Points: 1 # Comments: 0",
+    "content": "Article URL: https://user8.bearblog.dev/ai-the-poor-and-the-ignorant/ Comments URL: https://news.ycombinator.com/item?id=48068207 Points: 1 # Comments: 0",
+    "author": "James72689",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://user8.bearblog.dev/ai-the-poor-and-the-ignorant/",
+    "id": "news-1513"
+  },
+  {
+    "title": "AI's Big Messaging Pivot",
+    "summary": "Article URL: https://www.noahpinion.blog/p/ais-big-messaging-pivot Comments URL: https://news.ycombinator.com/item?id=48068509 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.noahpinion.blog/p/ais-big-messaging-pivot Comments URL: https://news.ycombinator.com/item?id=48068509 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.noahpinion.blog/p/ais-big-messaging-pivot",
+    "id": "news-1512"
+  },
+  {
     "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
     "summary": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
     "content": "",
