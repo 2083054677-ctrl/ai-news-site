@@ -1,5 +1,83 @@
 [
   {
+    "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help",
+    "summary": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour. An MIT researcher involved calls",
+    "content": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour. An MIT researcher involved calls the key idea \"completely original.\" Gowers' takeaway: the bar for mathematical contributions is now proving something LLMs can't. The article Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help/",
+    "id": "news-1552"
+  },
+  {
+    "title": "It Was a Good Quarter for \"Other Income\" [A16Z Charts on AI Growth]",
+    "summary": "Article URL: https://www.a16z.news/p/charts-of-the-week-it-was-a-good Comments URL: https://news.ycombinator.com/item?id=48075075 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.a16z.news/p/charts-of-the-week-it-was-a-good Comments URL: https://news.ycombinator.com/item?id=48075075 Points: 1 # Comments: 1",
+    "author": "alecco",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.a16z.news/p/charts-of-the-week-it-was-a-good",
+    "id": "news-1551"
+  },
+  {
+    "title": "Self-Fulfilling Misalignment Data Might Be Poisoning Our AI Models (2025)",
+    "summary": "Article URL: https://turntrout.com/self-fulfilling-misalignment Comments URL: https://news.ycombinator.com/item?id=48075077 Points: 1 # Comments: 0",
+    "content": "Article URL: https://turntrout.com/self-fulfilling-misalignment Comments URL: https://news.ycombinator.com/item?id=48075077 Points: 1 # Comments: 0",
+    "author": "herbertl",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://turntrout.com/self-fulfilling-misalignment",
+    "id": "news-1550"
+  },
+  {
+    "title": "Canvas Data Breach; DeepSeek V4 Flash Boosts LLM Inference 4.3x",
+    "summary": "Article URL: https://presciente.com/edition/77 Comments URL: https://news.ycombinator.com/item?id=48075126 Points: 2 # Comments: 0",
+    "content": "Article URL: https://presciente.com/edition/77 Comments URL: https://news.ycombinator.com/item?id=48075126 Points: 2 # Comments: 0",
+    "author": "sebastianperezr",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://presciente.com/edition/77",
+    "id": "news-1549"
+  },
+  {
+    "title": "Novo Navis Intelligence Sobers Up the AI Community",
+    "summary": "Article URL: https://news.novonavis.com/news/intel_090526_3827 Comments URL: https://news.ycombinator.com/item?id=48075222 Points: 1 # Comments: 0",
+    "content": "Article URL: https://news.novonavis.com/news/intel_090526_3827 Comments URL: https://news.ycombinator.com/item?id=48075222 Points: 1 # Comments: 0",
+    "author": "capagg",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.novonavis.com/news/intel_090526_3827",
+    "id": "news-1548"
+  },
+  {
+    "title": "Our side project: cyber-research-AI IDE, writing an exploit for CVE-2026-23918 [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=szddOzKB-BM Comments URL: https://news.ycombinator.com/item?id=48075296 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=szddOzKB-BM Comments URL: https://news.ycombinator.com/item?id=48075296 Points: 1 # Comments: 1",
+    "author": "xphilter",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=szddOzKB-BM",
+    "id": "news-1547"
+  },
+  {
     "title": "I think AI is pushing me toward the AGPL – by Julio Merino",
     "summary": "Article URL: https://blogsystem5.substack.com/p/ai-and-agpl-licensing Comments URL: https://news.ycombinator.com/item?id=48074498 Points: 3 # Comments: 0",
     "content": "Article URL: https://blogsystem5.substack.com/p/ai-and-agpl-licensing Comments URL: https://news.ycombinator.com/item?id=48074498 Points: 3 # Comments: 0",
