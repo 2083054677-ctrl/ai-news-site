@@ -1,5 +1,57 @@
 [
   {
+    "title": "I think AI is pushing me toward the AGPL – by Julio Merino",
+    "summary": "Article URL: https://blogsystem5.substack.com/p/ai-and-agpl-licensing Comments URL: https://news.ycombinator.com/item?id=48074498 Points: 3 # Comments: 0",
+    "content": "Article URL: https://blogsystem5.substack.com/p/ai-and-agpl-licensing Comments URL: https://news.ycombinator.com/item?id=48074498 Points: 3 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blogsystem5.substack.com/p/ai-and-agpl-licensing",
+    "id": "news-1546"
+  },
+  {
+    "title": "I've Solved AI Alignment,'Godfather' of AI, Yoshua Bengio",
+    "summary": "Article URL: https://www.youtube.com/watch?v=PZqDFs2sbiY Comments URL: https://news.ycombinator.com/item?id=48074544 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=PZqDFs2sbiY Comments URL: https://news.ycombinator.com/item?id=48074544 Points: 1 # Comments: 0",
+    "author": "quantummagic",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=PZqDFs2sbiY",
+    "id": "news-1545"
+  },
+  {
+    "title": "Typewhisper: Local speech-to-text on-device AI, private, optional cloud",
+    "summary": "Article URL: https://github.com/TypeWhisper/typewhisper-mac Comments URL: https://news.ycombinator.com/item?id=48074572 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/TypeWhisper/typewhisper-mac Comments URL: https://news.ycombinator.com/item?id=48074572 Points: 1 # Comments: 0",
+    "author": "janandonly",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/TypeWhisper/typewhisper-mac",
+    "id": "news-1544"
+  },
+  {
+    "title": "How AI Is recasting cement manufacturing",
+    "summary": "Article URL: https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/05/06/how-ai-is-recasting-cement-manufacturing/ Comments URL: https://news.ycombinator.com/item?id=48074587 Points: 1 ",
+    "content": "Article URL: https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/05/06/how-ai-is-recasting-cement-manufacturing/ Comments URL: https://news.ycombinator.com/item?id=48074587 Points: 1 # Comments: 1",
+    "author": "bookofjoe",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/05/06/how-ai-is-recasting-cement-manufacturing/",
+    "id": "news-1543"
+  },
+  {
     "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
     "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choi",
     "content": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces. The article Google's \"Preferred Sources\" feature is a free pass for more garbage in search appeared first on The Decoder.",
