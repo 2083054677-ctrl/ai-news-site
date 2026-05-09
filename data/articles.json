@@ -1,5 +1,70 @@
 [
   {
+    "title": "What 16 Parallel Claude Agents Built Around Themselves",
+    "summary": "Article URL: https://medium.com/@vbcherepanov/what-16-parallel-claude-agents-built-around-themselves-deconstructing-anthropics-c-compiler-f2fa6335b1ca Comments URL: https://news.ycombinator.com/item?i",
+    "content": "Article URL: https://medium.com/@vbcherepanov/what-16-parallel-claude-agents-built-around-themselves-deconstructing-anthropics-c-compiler-f2fa6335b1ca Comments URL: https://news.ycombinator.com/item?id=48075986 Points: 3 # Comments: 1",
+    "author": "vbcherepanov",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@vbcherepanov/what-16-parallel-claude-agents-built-around-themselves-deconstructing-anthropics-c-compiler-f2fa6335b1ca",
+    "id": "news-1557"
+  },
+  {
+    "title": "Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker",
+    "summary": "Article URL: https://github.com/ArmorerLabs/Armorer Comments URL: https://news.ycombinator.com/item?id=48076067 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ArmorerLabs/Armorer Comments URL: https://news.ycombinator.com/item?id=48076067 Points: 2 # Comments: 0",
+    "author": "cristianleo",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ArmorerLabs/Armorer",
+    "id": "news-1556"
+  },
+  {
+    "title": "Using perspective lines to identify AI generated photos",
+    "summary": "Article URL: https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back Comments URL: https://news.ycombinator.com/item?id=48076119 Points: 2 # Comments",
+    "content": "Article URL: https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back Comments URL: https://news.ycombinator.com/item?id=48076119 Points: 2 # Comments: 0",
+    "author": "alok-g",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back",
+    "id": "news-1555"
+  },
+  {
+    "title": "Show HN: AI coworkers who bully to keep each other from drifting(Karpathy-style)",
+    "summary": "Most multi-agent systems fail the same way: agents drift apart across handoffs. By turn 3 they are working in different realities. By turn 5 they are repeating each other's mistakes and calling it par",
+    "content": "Most multi-agent systems fail the same way: agents drift apart across handoffs. By turn 3 they are working in different realities. By turn 5 they are repeating each other's mistakes and calling it parallelism.WUPHF is an open-source local-first office where AI coworkers run on your laptop, around a shared markdown + git LLM wiki the agents build. The wiki is the collective memory. The office around it keeps the team on the same shared context across thousands of handoffs.What actually stops drif",
+    "author": "najmuzzaman",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wuphf.team",
+    "id": "news-1554"
+  },
+  {
+    "title": "Open-source experiment: collaborative AI cognition through wiki pages",
+    "summary": "Article URL: https://mentisphere.wiki/wiki/Main_Page Comments URL: https://news.ycombinator.com/item?id=48076251 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mentisphere.wiki/wiki/Main_Page Comments URL: https://news.ycombinator.com/item?id=48076251 Points: 1 # Comments: 0",
+    "author": "franzvill",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mentisphere.wiki/wiki/Main_Page",
+    "id": "news-1553"
+  },
+  {
     "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help",
     "summary": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour. An MIT researcher involved calls",
     "content": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour. An MIT researcher involved calls the key idea \"completely original.\" Gowers' takeaway: the bar for mathematical contributions is now proving something LLMs can't. The article Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help appeared first on The Decoder.",
