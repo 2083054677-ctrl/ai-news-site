@@ -1,5 +1,19 @@
 [
   {
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "summary": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "id": "news-1558"
+  },
+  {
     "title": "What 16 Parallel Claude Agents Built Around Themselves",
     "summary": "Article URL: https://medium.com/@vbcherepanov/what-16-parallel-claude-agents-built-around-themselves-deconstructing-anthropics-c-compiler-f2fa6335b1ca Comments URL: https://news.ycombinator.com/item?i",
     "content": "Article URL: https://medium.com/@vbcherepanov/what-16-parallel-claude-agents-built-around-themselves-deconstructing-anthropics-c-compiler-f2fa6335b1ca Comments URL: https://news.ycombinator.com/item?id=48075986 Points: 3 # Comments: 1",
