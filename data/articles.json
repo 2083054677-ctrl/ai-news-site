@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Nexa-gauge – Cache/cost-aware graph-based eval for LLM and RAG",
+    "summary": "Article URL: https://github.com/harnexa/nexa-gauge Comments URL: https://news.ycombinator.com/item?id=48070603 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/harnexa/nexa-gauge Comments URL: https://news.ycombinator.com/item?id=48070603 Points: 3 # Comments: 0",
+    "author": "Sardhendu",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/harnexa/nexa-gauge",
+    "id": "news-1525"
+  },
+  {
+    "title": "AI Hard Drive Shortage Making It More Expensive, Harder to Archive the Internet",
+    "summary": "Article URL: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/ Comments URL: https://news.ycombinator.com/item?id=48070817 Points: 2 # ",
+    "content": "Article URL: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/ Comments URL: https://news.ycombinator.com/item?id=48070817 Points: 2 # Comments: 1",
+    "author": "pabs3",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
+    "id": "news-1524"
+  },
+  {
+    "title": "AI's Circular Psychosis",
+    "summary": "Article URL: https://www.wheresyoured.at/premium-ais-circular-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48070826 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wheresyoured.at/premium-ais-circular-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48070826 Points: 2 # Comments: 0",
+    "author": "greedo",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wheresyoured.at/premium-ais-circular-psychosis/",
+    "id": "news-1523"
+  },
+  {
+    "title": "How to Work and Compound with AI",
+    "summary": "Article URL: https://eugeneyan.com/writing/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48070873 Points: 1 # Comments: 0",
+    "content": "Article URL: https://eugeneyan.com/writing/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48070873 Points: 1 # Comments: 0",
+    "author": "vinhnx",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://eugeneyan.com/writing/working-with-ai/",
+    "id": "news-1522"
+  },
+  {
+    "title": "Ask Hacker News: AI music with feedback",
+    "summary": "Can someone make streaming music that changes based on input from the phone, or does this already exist and what app? Comments URL: https://news.ycombinator.com/item?id=48070959 Points: 1 # Comments: ",
+    "content": "Can someone make streaming music that changes based on input from the phone, or does this already exist and what app? Comments URL: https://news.ycombinator.com/item?id=48070959 Points: 1 # Comments: 0",
+    "author": "alpple",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48070959",
+    "id": "news-1521"
+  },
+  {
     "title": "Ask HN: What kind of computer language will LLM use?",
     "summary": "I think in little time LLM will have the capability to translate easily code from one computer language to another, for example the LLM could \"think\" in prolog + lisp instead python. LLM will be able ",
     "content": "I think in little time LLM will have the capability to translate easily code from one computer language to another, for example the LLM could \"think\" in prolog + lisp instead python. LLM will be able to write thousands of lines of APL or J in just a minute, we will have to accept that python is not the language for future LLMs. Perhaps the power of macros will not be defeated by its complexity because for an LLM a thousand line macro is just another simple code, prolog unification could mean bui",
