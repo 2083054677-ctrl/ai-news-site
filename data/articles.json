@@ -1,5 +1,83 @@
 [
   {
+    "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
+    "summary": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic. The article Pseudoscientific emotion AI i",
+    "content": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic. The article Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/",
+    "id": "news-1535"
+  },
+  {
+    "title": "Simplifying camera trap image analysis with AI",
+    "summary": "Article URL: https://addaxdatascience.com/addaxai/ Comments URL: https://news.ycombinator.com/item?id=48073082 Points: 2 # Comments: 1",
+    "content": "Article URL: https://addaxdatascience.com/addaxai/ Comments URL: https://news.ycombinator.com/item?id=48073082 Points: 2 # Comments: 1",
+    "author": "bryanrasmussen",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://addaxdatascience.com/addaxai/",
+    "id": "news-1534"
+  },
+  {
+    "title": "Free Gpt.im",
+    "summary": "Article URL: https://freegpt.im Comments URL: https://news.ycombinator.com/item?id=48073113 Points: 2 # Comments: 0",
+    "content": "Article URL: https://freegpt.im Comments URL: https://news.ycombinator.com/item?id=48073113 Points: 2 # Comments: 0",
+    "author": "Evan23345",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://freegpt.im",
+    "id": "news-1533"
+  },
+  {
+    "title": "Big Tech's $725B AI spending spree sends free cash flow to a decade low",
+    "summary": "Article URL: https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494 Comments URL: https://news.ycombinator.com/item?id=48073189 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494 Comments URL: https://news.ycombinator.com/item?id=48073189 Points: 4 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494",
+    "id": "news-1532"
+  },
+  {
+    "title": "I've replaced my Claude subscription with a sleep control app",
+    "summary": "Article URL: https://twitter.com/patoroco/status/2053031292594225641 Comments URL: https://news.ycombinator.com/item?id=48073207 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/patoroco/status/2053031292594225641 Comments URL: https://news.ycombinator.com/item?id=48073207 Points: 2 # Comments: 0",
+    "author": "patoroco",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/patoroco/status/2053031292594225641",
+    "id": "news-1531"
+  },
+  {
+    "title": "What if new proofs are included in LLM training so LLM rediscover it?",
+    "summary": "If I were to sell the power of LLMs as powerful research agents, and if I had enough money, I could think about introducing little \"gems\" into the training set of LLM so that my model would be able to",
+    "content": "If I were to sell the power of LLMs as powerful research agents, and if I had enough money, I could think about introducing little \"gems\" into the training set of LLM so that my model would be able to discover new theorems and proofs. There is a lot of money at the table, and I am sure there are a lot of genius people with little pay. Perhaps this kind of thinking is wrong?, only bad people would think like this?, how could one detect such a trick without knowing the training set? Comments URL: ",
+    "author": "folderquestion",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48073325",
+    "id": "news-1530"
+  },
+  {
     "title": "Porting Starlark to Pure Python with Claude Code",
     "summary": "Article URL: https://dbohdan.com/starlark-python Comments URL: https://news.ycombinator.com/item?id=48072047 Points: 1 # Comments: 0",
     "content": "Article URL: https://dbohdan.com/starlark-python Comments URL: https://news.ycombinator.com/item?id=48072047 Points: 1 # Comments: 0",
