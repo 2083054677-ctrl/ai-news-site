@@ -1,5 +1,96 @@
 [
   {
+    "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
+    "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choi",
+    "content": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces. The article Google's \"Preferred Sources\" feature is a free pass for more garbage in search appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
+    "id": "news-1542"
+  },
+  {
+    "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them",
+    "summary": "OpenAI's custom AI chip project with Broadcom has hit a funding wall. Broadcom won't finance production unless Microsoft commits to buying 40 percent of the chips, and Microsoft hasn't agreed yet. Ope",
+    "content": "OpenAI's custom AI chip project with Broadcom has hit a funding wall. Broadcom won't finance production unless Microsoft commits to buying 40 percent of the chips, and Microsoft hasn't agreed yet. OpenAI manager Sachin Katti called the dependency \"financially unattractive\" in an internal message. The first phase alone costs around 18 billion dollars. The article Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/",
+    "id": "news-1541"
+  },
+  {
+    "title": "Show HN: Dikaletus – meeting recording and transcription using Mistral AI",
+    "summary": "Dikaletus is a TUI tool to record, transcribe, and generate structured meeting notes using FFmpeg, PulseAudio and the Mistral AI API.The meeting agent automates the process of capturing, transcribing,",
+    "content": "Dikaletus is a TUI tool to record, transcribe, and generate structured meeting notes using FFmpeg, PulseAudio and the Mistral AI API.The meeting agent automates the process of capturing, transcribing, and generating structured meeting notes. It records audio from both microphone and speaker outputs, transcribes the audio using Mistral's speech-to-text API, and generates structured meeting notes in Markdown format.Years ago I used to write a lot of R code for data analysis. Then life changed and ",
+    "author": "phillc73",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codeberg.org/MimosaDev/dikaletus",
+    "id": "news-1540"
+  },
+  {
+    "title": "Claude Knew It Was Being Tested. Anthropic Built a Tool to Detect It",
+    "summary": "Article URL: https://firethering.com/anthropic-nla-claude-thoughts-interpretability/ Comments URL: https://news.ycombinator.com/item?id=48073557 Points: 2 # Comments: 0",
+    "content": "Article URL: https://firethering.com/anthropic-nla-claude-thoughts-interpretability/ Comments URL: https://news.ycombinator.com/item?id=48073557 Points: 2 # Comments: 0",
+    "author": "steveharing1",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://firethering.com/anthropic-nla-claude-thoughts-interpretability/",
+    "id": "news-1539"
+  },
+  {
+    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+    "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48073658 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48073658 Points: 1 # Comments: 0",
+    "author": "elemar",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "id": "news-1538"
+  },
+  {
+    "title": "Terax – a 7mb AI terminal in Rust and Tauri [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kykgXa7sm1g Comments URL: https://news.ycombinator.com/item?id=48073709 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=kykgXa7sm1g Comments URL: https://news.ycombinator.com/item?id=48073709 Points: 3 # Comments: 0",
+    "author": "netten",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=kykgXa7sm1g",
+    "id": "news-1537"
+  },
+  {
+    "title": "Kanvly – notes and boards with AI, now on iOS",
+    "summary": "Article URL: https://kanvly.com Comments URL: https://news.ycombinator.com/item?id=48073823 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kanvly.com Comments URL: https://news.ycombinator.com/item?id=48073823 Points: 1 # Comments: 0",
+    "author": "trotskomain",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kanvly.com",
+    "id": "news-1536"
+  },
+  {
     "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
     "summary": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic. The article Pseudoscientific emotion AI i",
     "content": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic. The article Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows appeared first on The Decoder.",
