@@ -1,5 +1,57 @@
 [
   {
+    "title": "Porting Starlark to Pure Python with Claude Code",
+    "summary": "Article URL: https://dbohdan.com/starlark-python Comments URL: https://news.ycombinator.com/item?id=48072047 Points: 1 # Comments: 0",
+    "content": "Article URL: https://dbohdan.com/starlark-python Comments URL: https://news.ycombinator.com/item?id=48072047 Points: 1 # Comments: 0",
+    "author": "networked",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dbohdan.com/starlark-python",
+    "id": "news-1529"
+  },
+  {
+    "title": "Building an AI-Powered IDE Companion App",
+    "summary": "Article URL: https://mesmacosta.medium.com/google-cloud/from-idea-to-execution-building-an-ai-powered-ide-companion-app-with-antigravity-and-gemini-3-1-60ae10bfd913 Comments URL: https://news.ycombina",
+    "content": "Article URL: https://mesmacosta.medium.com/google-cloud/from-idea-to-execution-building-an-ai-powered-ide-companion-app-with-antigravity-and-gemini-3-1-60ae10bfd913 Comments URL: https://news.ycombinator.com/item?id=48072188 Points: 1 # Comments: 2",
+    "author": "graup",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mesmacosta.medium.com/google-cloud/from-idea-to-execution-building-an-ai-powered-ide-companion-app-with-antigravity-and-gemini-3-1-60ae10bfd913",
+    "id": "news-1528"
+  },
+  {
+    "title": "Code with Claude 2026 – San Francisco (playlist) [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=GMIWm5y90xA&list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR Comments URL: https://news.ycombinator.com/item?id=48072202 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=GMIWm5y90xA&list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR Comments URL: https://news.ycombinator.com/item?id=48072202 Points: 1 # Comments: 0",
+    "author": "pramodbiligiri",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=GMIWm5y90xA&list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR",
+    "id": "news-1527"
+  },
+  {
+    "title": "The Birthplace of AI",
+    "summary": "Article URL: https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00 Comments URL: https://news.ycombinator.com/item?id=48072287 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00 Comments URL: https://news.ycombinator.com/item?id=48072287 Points: 1 # Comments: 0",
+    "author": "tzury",
+    "date": "2026-05-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00",
+    "id": "news-1526"
+  },
+  {
     "title": "Show HN: Nexa-gauge – Cache/cost-aware graph-based eval for LLM and RAG",
     "summary": "Article URL: https://github.com/harnexa/nexa-gauge Comments URL: https://news.ycombinator.com/item?id=48070603 Points: 3 # Comments: 0",
     "content": "Article URL: https://github.com/harnexa/nexa-gauge Comments URL: https://news.ycombinator.com/item?id=48070603 Points: 3 # Comments: 0",
