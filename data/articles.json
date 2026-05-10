@@ -1,5 +1,70 @@
 [
   {
+    "title": "Snyk and Claude Code: real-time security scanning of AI-generated code",
+    "summary": "Article URL: https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code Comments URL: https://news.ycombinator.com/item?id=48080697 Points: 4 # Comments: 0",
+    "content": "Article URL: https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code Comments URL: https://news.ycombinator.com/item?id=48080697 Points: 4 # Comments: 0",
+    "author": "yogeshbansal",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code",
+    "id": "news-1573"
+  },
+  {
+    "title": "Global AI Diffusion Q1 2026 Trends and Insights",
+    "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48080835 Po",
+    "content": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48080835 Points: 2 # Comments: 2",
+    "author": "igor_mart",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/",
+    "id": "news-1572"
+  },
+  {
+    "title": "A Field Study of Institutional Control in an AI-Staffed Prediction-Market Desk",
+    "summary": "Article URL: https://github.com/wes-zheng/ai_institutions/blob/main/technical_report/paper.md Comments URL: https://news.ycombinator.com/item?id=48081151 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/wes-zheng/ai_institutions/blob/main/technical_report/paper.md Comments URL: https://news.ycombinator.com/item?id=48081151 Points: 3 # Comments: 0",
+    "author": "bbcf",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wes-zheng/ai_institutions/blob/main/technical_report/paper.md",
+    "id": "news-1571"
+  },
+  {
+    "title": "Best AI coding plan alternative to Claude and ChatGPT",
+    "summary": "With the lowering usage limit in Claude, I am thinking of jumping ship to Chinese AI, since the benchmark is already very near compared to Sonnet or Haiku 4.5 , but for a fraction of the price. I am n",
+    "content": "With the lowering usage limit in Claude, I am thinking of jumping ship to Chinese AI, since the benchmark is already very near compared to Sonnet or Haiku 4.5 , but for a fraction of the price. I am not worried about where is my data ending up through, I am focused on performance and usage limit. I mostly use it for coding and research.However, I am currently deciding on which to use, and would love any recommendations from anyone that are using any or many of these AI,- GLM Coding Plan (Z AI): ",
+    "author": "Jsttan",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48081266",
+    "id": "news-1570"
+  },
+  {
+    "title": "Task Paralysis and AI",
+    "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 1 # Comments: 0",
+    "content": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 1 # Comments: 0",
+    "author": "MrGilbert",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "id": "news-1569"
+  },
+  {
     "title": "24/7 AI-powered radio station. Generates music, writes hosted breaks,speaks them",
     "summary": "Article URL: https://github.com/keltokhy/writ-fm Comments URL: https://news.ycombinator.com/item?id=48079865 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/keltokhy/writ-fm Comments URL: https://news.ycombinator.com/item?id=48079865 Points: 2 # Comments: 0",
