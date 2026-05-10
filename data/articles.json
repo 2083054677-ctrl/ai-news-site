@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Code auto daily /weekly recap notes",
+    "summary": "Article URL: https://github.com/vibe-log/vibe-log-cli Comments URL: https://news.ycombinator.com/item?id=48088314 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/vibe-log/vibe-log-cli Comments URL: https://news.ycombinator.com/item?id=48088314 Points: 2 # Comments: 1",
+    "author": "noashavit",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vibe-log/vibe-log-cli",
+    "id": "news-1616"
+  },
+  {
+    "title": "Chris Hohn's fund slashes $8B Microsoft stake in warning over AI disruption",
+    "summary": "Article URL: https://www.ft.com/content/639703f3-064c-4065-96dc-11a9dfd6d83c Comments URL: https://news.ycombinator.com/item?id=48088559 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/639703f3-064c-4065-96dc-11a9dfd6d83c Comments URL: https://news.ycombinator.com/item?id=48088559 Points: 2 # Comments: 1",
+    "author": "fallinditch",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/639703f3-064c-4065-96dc-11a9dfd6d83c",
+    "id": "news-1615"
+  },
+  {
+    "title": "Design Framework for Conversational AI, Curatorial Insights in Cultural Heritage [pdf]",
+    "summary": "Article URL: https://mkenely.com/publications/preprints/from-broadcast-to-dialogue.pdf Comments URL: https://news.ycombinator.com/item?id=48088670 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mkenely.com/publications/preprints/from-broadcast-to-dialogue.pdf Comments URL: https://news.ycombinator.com/item?id=48088670 Points: 1 # Comments: 0",
+    "author": "andsoitis",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mkenely.com/publications/preprints/from-broadcast-to-dialogue.pdf",
+    "id": "news-1614"
+  },
+  {
+    "title": "I run a company with 30 engineers. Built this app with AI and none of them",
+    "summary": "Article URL: https://footbeen.com/blog/i-built-a-production-app-with-ai-no-developers Comments URL: https://news.ycombinator.com/item?id=48088764 Points: 2 # Comments: 0",
+    "content": "Article URL: https://footbeen.com/blog/i-built-a-production-app-with-ai-no-developers Comments URL: https://news.ycombinator.com/item?id=48088764 Points: 2 # Comments: 0",
+    "author": "dmgmyza",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://footbeen.com/blog/i-built-a-production-app-with-ai-no-developers",
+    "id": "news-1613"
+  },
+  {
+    "title": "Ask HN: What are some good resources on AI Engineering and Prompting",
+    "summary": "What are some great resources for people who looking to break into this field or improve their skillset in generalI would love to hear some recommendations Comments URL: https://news.ycombinator.com/i",
+    "content": "What are some great resources for people who looking to break into this field or improve their skillset in generalI would love to hear some recommendations Comments URL: https://news.ycombinator.com/item?id=48088849 Points: 1 # Comments: 1",
+    "author": "mraza007",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48088849",
+    "id": "news-1612"
+  },
+  {
     "title": "AI-powered NPM deprecation tracker with dependency tree Ghost Detection",
     "summary": "Article URL: https://www.stackgraveyard.dev/ Comments URL: https://news.ycombinator.com/item?id=48087029 Points: 3 # Comments: 0",
     "content": "Article URL: https://www.stackgraveyard.dev/ Comments URL: https://news.ycombinator.com/item?id=48087029 Points: 3 # Comments: 0",
