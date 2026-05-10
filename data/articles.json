@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Faith AI Covenant",
+    "summary": "Article URL: https://faithaicovenant.com/ Comments URL: https://news.ycombinator.com/item?id=48085227 Points: 1 # Comments: 1",
+    "content": "Article URL: https://faithaicovenant.com/ Comments URL: https://news.ycombinator.com/item?id=48085227 Points: 1 # Comments: 1",
+    "author": "niemandhier",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://faithaicovenant.com/",
+    "id": "news-1600"
+  },
+  {
+    "title": "Compensation in AI Tokens?",
+    "summary": "Article URL: https://www.bogleheads.org/forum/viewtopic.php?t=469693 Comments URL: https://news.ycombinator.com/item?id=48085228 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.bogleheads.org/forum/viewtopic.php?t=469693 Comments URL: https://news.ycombinator.com/item?id=48085228 Points: 1 # Comments: 1",
+    "author": "CoffeeOnWrite",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bogleheads.org/forum/viewtopic.php?t=469693",
+    "id": "news-1599"
+  },
+  {
+    "title": "Terax – A Lightweight AI Terminal",
+    "summary": "Article URL: https://terax.app Comments URL: https://news.ycombinator.com/item?id=48085237 Points: 1 # Comments: 0",
+    "content": "Article URL: https://terax.app Comments URL: https://news.ycombinator.com/item?id=48085237 Points: 1 # Comments: 0",
+    "author": "indigodaddy",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://terax.app",
+    "id": "news-1598"
+  },
+  {
+    "title": "AI's Memorization Crisis",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/ Comments URL: https://news.ycombinator.com/item?id=48085270 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/ Comments URL: https://news.ycombinator.com/item?id=48085270 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/",
+    "id": "news-1597"
+  },
+  {
+    "title": "For Palantir, AI Is a Product, a Punching Bag–and a Problem",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/for-palantir-ai-is-a-product-a-punching-bagand-a-problem-a4cfea77 Comments URL: https://news.ycombinator.com/item?id=48085290 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/for-palantir-ai-is-a-product-a-punching-bagand-a-problem-a4cfea77 Comments URL: https://news.ycombinator.com/item?id=48085290 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/for-palantir-ai-is-a-product-a-punching-bagand-a-problem-a4cfea77",
+    "id": "news-1596"
+  },
+  {
     "title": "AI agents can now hack computers and copy themselves, and they're getting better fast",
     "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers exp",
     "content": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking. The article AI agents can now hack computers and copy themselves, and they're getting better fast appeared first on The Decoder.",
