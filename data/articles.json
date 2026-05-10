@@ -1,5 +1,18 @@
 [
   {
+    "title": "AI agents that hack computers and replicate themselves, and they're getting better fast",
+    "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers exp",
+    "content": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking. The article AI agents that hack computers and replicate themselves, and they're getting better fast appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-agents-that-hack-computers-and-replicate-themselves-and-theyre-getting-better-fast/",
+    "id": "news-1589"
+  },
+  {
     "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers",
     "summary": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models au",
     "content": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models autonomously chain vulnerabilities, shrinking the time from initial access to data exfiltration to just 25 minutes. Evaluation methods are growing more slowly than the models themselves, and that may be the bigger problem. The article METR says it can barely measure Claude Mythos, Palo Alto Networks w",
