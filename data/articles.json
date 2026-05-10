@@ -1,5 +1,83 @@
 [
   {
+    "title": "AI agents can now hack computers and copy themselves, and they're getting better fast",
+    "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers exp",
+    "content": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking. The article AI agents can now hack computers and copy themselves, and they're getting better fast appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/",
+    "id": "news-1595"
+  },
+  {
+    "title": "Ranking 1k ShowHN posts by estimated merit using an LLM judge and TrueSkill",
+    "summary": "Article URL: https://github.com/kouhxp/showhn-rank Comments URL: https://news.ycombinator.com/item?id=48084170 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/kouhxp/showhn-rank Comments URL: https://news.ycombinator.com/item?id=48084170 Points: 1 # Comments: 0",
+    "author": "mrkn1",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kouhxp/showhn-rank",
+    "id": "news-1594"
+  },
+  {
+    "title": "Train your AI code review instincts",
+    "summary": "Article URL: https://siftly.dev/announcement Comments URL: https://news.ycombinator.com/item?id=48084200 Points: 1 # Comments: 1",
+    "content": "Article URL: https://siftly.dev/announcement Comments URL: https://news.ycombinator.com/item?id=48084200 Points: 1 # Comments: 1",
+    "author": "svensauleau",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://siftly.dev/announcement",
+    "id": "news-1593"
+  },
+  {
+    "title": "We asked 72 AI models which brands are best",
+    "summary": "Article URL: https://peaktoken.ai/ Comments URL: https://news.ycombinator.com/item?id=48084241 Points: 1 # Comments: 0",
+    "content": "Article URL: https://peaktoken.ai/ Comments URL: https://news.ycombinator.com/item?id=48084241 Points: 1 # Comments: 0",
+    "author": "svensauleau",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://peaktoken.ai/",
+    "id": "news-1592"
+  },
+  {
+    "title": "Cancelling Claude subscription renewal immediately revokes Design access",
+    "summary": "Starting today, Anthropic now immediately revokes Claude Design access if you cancel your subscription plan renewal, even while you're still in a valid period you've already paid for. I had a Claude 2",
+    "content": "Starting today, Anthropic now immediately revokes Claude Design access if you cancel your subscription plan renewal, even while you're still in a valid period you've already paid for. I had a Claude 20x max plan and cancelled my automatic renewal last week. My plan, which I've already paid $200 for, is valid through May 13, 2026, as confirmed on Anthropic's website:https://claude.ai/settings/billing shows \"Your subscription will be canceled on May 13, 2026.\"For the past week even after I cancell",
+    "author": "o10449366",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48084278",
+    "id": "news-1591"
+  },
+  {
+    "title": "AI Agent Passport – an open identity standard for AI agents",
+    "summary": "Article URL: https://github.com/StacyStarchum/Ai-agent-passport- Comments URL: https://news.ycombinator.com/item?id=48084362 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/StacyStarchum/Ai-agent-passport- Comments URL: https://news.ycombinator.com/item?id=48084362 Points: 1 # Comments: 0",
+    "author": "Stacy_Starchum",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/StacyStarchum/Ai-agent-passport-",
+    "id": "news-1590"
+  },
+  {
     "title": "AI agents that hack computers and replicate themselves, and they're getting better fast",
     "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers exp",
     "content": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking. The article AI agents that hack computers and replicate themselves, and they're getting better fast appeared first on The Decoder.",
