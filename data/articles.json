@@ -1,5 +1,96 @@
 [
   {
+    "title": "Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations",
+    "summary": "A study by researchers from the MATS program, Redwood Research, the University of Oxford, and Anthropic examines a safety problem that grows more pressing as AI systems become more capable: \"sandbaggi",
+    "content": "A study by researchers from the MATS program, Redwood Research, the University of Oxford, and Anthropic examines a safety problem that grows more pressing as AI systems become more capable: \"sandbagging,\" where a model deliberately hides its true abilities and delivers work that looks adequate but is intentionally subpar. The article Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/researchers-may-have-found-a-way-to-stop-ai-models-from-intentionally-playing-dumb-during-safety-evaluations/",
+    "id": "news-1580"
+  },
+  {
+    "title": "GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on the input length",
+    "summary": "OpenAI doubled GPT-5.5's list price compared to GPT-5.4, claiming shorter responses would offset the increase. An OpenRouter analysis of real usage data tells a different story: actual costs rose 49 t",
+    "content": "OpenAI doubled GPT-5.5's list price compared to GPT-5.4, claiming shorter responses would offset the increase. An OpenRouter analysis of real usage data tells a different story: actual costs rose 49 to 92 percent depending on input length. Anthropic hiked Opus 4.7 prices too—and with both companies eyeing IPOs, the trend is unlikely to stop. The article GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on the input length appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-5-costs-49-to-92-percent-more-than-its-predecessor-depending-on-the-input-length/",
+    "id": "news-1579"
+  },
+  {
+    "title": "LibreOffice 26.4 Beta Experiments with AI Writing Features",
+    "summary": "Article URL: https://www.linuxjournal.com/content/libreoffice-264-beta-experiments-ai-writing-features-and-smarter-editing-tools Comments URL: https://news.ycombinator.com/item?id=48081725 Points: 3 #",
+    "content": "Article URL: https://www.linuxjournal.com/content/libreoffice-264-beta-experiments-ai-writing-features-and-smarter-editing-tools Comments URL: https://news.ycombinator.com/item?id=48081725 Points: 3 # Comments: 0",
+    "author": "throw_await",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.linuxjournal.com/content/libreoffice-264-beta-experiments-ai-writing-features-and-smarter-editing-tools",
+    "id": "news-1578"
+  },
+  {
+    "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+    "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?i",
+    "content": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 5 # Comments: 0",
+    "author": "mgh2",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+    "id": "news-1577"
+  },
+  {
+    "title": "In a quest to becoming AI independent",
+    "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai Comments URL: https://news.ycombinator.com/item?id=48081961 Points: 5 # Comments: 1",
+    "content": "Article URL: https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai Comments URL: https://news.ycombinator.com/item?id=48081961 Points: 5 # Comments: 1",
+    "author": "adlrocha",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai",
+    "id": "news-1576"
+  },
+  {
+    "title": "AI cost optimization tool \"distillfast.com\"",
+    "summary": "Are you paying per-API-call to OpenAl? I built something that might cut that by 80%. checkout https://distillfast.com/ Comments URL: https://news.ycombinator.com/item?id=48082112 Points: 2 # Comments:",
+    "content": "Are you paying per-API-call to OpenAl? I built something that might cut that by 80%. checkout https://distillfast.com/ Comments URL: https://news.ycombinator.com/item?id=48082112 Points: 2 # Comments: 2",
+    "author": "ashuashpawar",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48082112",
+    "id": "news-1575"
+  },
+  {
+    "title": "AI Act Article 50 transparency rules. Heading for another cookie consent moment?",
+    "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act Comments URL: https://news.ycombinator",
+    "content": "Article URL: https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act Comments URL: https://news.ycombinator.com/item?id=48082253 Points: 2 # Comments: 0",
+    "author": "nilen",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act",
+    "id": "news-1574"
+  },
+  {
     "title": "Snyk and Claude Code: real-time security scanning of AI-generated code",
     "summary": "Article URL: https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code Comments URL: https://news.ycombinator.com/item?id=48080697 Points: 4 # Comments: 0",
     "content": "Article URL: https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code Comments URL: https://news.ycombinator.com/item?id=48080697 Points: 4 # Comments: 0",
