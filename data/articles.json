@@ -1,5 +1,84 @@
 [
   {
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "summary": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "id": "news-1606"
+  },
+  {
+    "title": "Local AI needs to be the norm",
+    "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 5 # Comments: 1",
+    "content": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 5 # Comments: 1",
+    "author": "cylo",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "id": "news-1605"
+  },
+  {
+    "title": "My writing students were using AI. Their confessions led to a teaching moment",
+    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai Comments URL: https://news.ycombinator.com/item?id=48085825 Points: 6 # Comments: 1",
+    "content": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai Comments URL: https://news.ycombinator.com/item?id=48085825 Points: 6 # Comments: 1",
+    "author": "spzb",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
+    "id": "news-1604"
+  },
+  {
+    "title": "Mostly the first breakup AI agent that delivers your breakup over iMessage",
+    "summary": "Article URL: https://behalf.love Comments URL: https://news.ycombinator.com/item?id=48085873 Points: 1 # Comments: 1",
+    "content": "Article URL: https://behalf.love Comments URL: https://news.ycombinator.com/item?id=48085873 Points: 1 # Comments: 1",
+    "author": "goyibo",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://behalf.love",
+    "id": "news-1603"
+  },
+  {
+    "title": "'AI gave me your number': AI doxxing turns ChatGPT hallucinations to harassment",
+    "summary": "Article URL: https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html Comments URL: https://news.ycombinator.com/item?id=48085958 Points: 2 # Comments: 2",
+    "content": "Article URL: https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html Comments URL: https://news.ycombinator.com/item?id=48085958 Points: 2 # Comments: 2",
+    "author": "ColinWright",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html",
+    "id": "news-1602"
+  },
+  {
+    "title": "Show HN: SimplyBudget, AI Finance Tracker",
+    "summary": "I know there’s no shortage of budgeting and expense tracking apps, but most still rely on manual input and feel slow for everyday use.SimplyBudget lets you log expenses by voice instead of typing ever",
+    "content": "I know there’s no shortage of budgeting and expense tracking apps, but most still rely on manual input and feel slow for everyday use.SimplyBudget lets you log expenses by voice instead of typing everything out.You can just speak naturally and it extracts the merchant, amount, category, and date automatically. Even applying logos for transaction automatically.It removes the friction of traditional budgeting apps where every transaction has to be entered manually, making it easier to track spendi",
+    "author": "zaintechsavvy",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simplybudget.framer.ai/",
+    "id": "news-1601"
+  },
+  {
     "title": "The Faith AI Covenant",
     "summary": "Article URL: https://faithaicovenant.com/ Comments URL: https://news.ycombinator.com/item?id=48085227 Points: 1 # Comments: 1",
     "content": "Article URL: https://faithaicovenant.com/ Comments URL: https://news.ycombinator.com/item?id=48085227 Points: 1 # Comments: 1",
