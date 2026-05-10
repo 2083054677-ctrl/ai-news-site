@@ -1,5 +1,109 @@
 [
   {
+    "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers",
+    "summary": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models au",
+    "content": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models autonomously chain vulnerabilities, shrinking the time from initial access to data exfiltration to just 25 minutes. Evaluation methods are growing more slowly than the models themselves, and that may be the bigger problem. The article METR says it can barely measure Claude Mythos, Palo Alto Networks w",
+    "author": "Matthias Bastian",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/",
+    "id": "news-1588"
+  },
+  {
+    "title": "ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips",
+    "summary": "ByteDance is raising its planned AI spending for 2026 to over 200 billion yuan (roughly $30 billion), at least a 25 percent jump from earlier plans. The TikTok parent is increasingly turning to Chines",
+    "content": "ByteDance is raising its planned AI spending for 2026 to over 200 billion yuan (roughly $30 billion), at least a 25 percent jump from earlier plans. The TikTok parent is increasingly turning to Chinese chips. Still, the figure looks modest next to the $725 billion that Google, Amazon, Microsoft, and Meta are planning to spend combined. The article ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bytedance-plans-over-30-billion-for-ai-expansion-bets-big-on-chinese-chips/",
+    "id": "news-1587"
+  },
+  {
+    "title": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
+    "summary": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from ",
+    "content": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions. Critics like AI researcher Rumman Chowdhury call the talks \"at best a distraction\" from concrete questions about regulation and control over AI systems. The article Anthropic and OpenAI sit down with religious leaders to seek ethical advice appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/",
+    "id": "news-1586"
+  },
+  {
+    "title": "\"openai.com\" was once the personal homepage of a guy named glenn",
+    "summary": "Article URL: https://bsky.app/profile/annierau.bsky.social/post/3mkzrvrn44c2h Comments URL: https://news.ycombinator.com/item?id=48082617 Points: 4 # Comments: 0",
+    "content": "Article URL: https://bsky.app/profile/annierau.bsky.social/post/3mkzrvrn44c2h Comments URL: https://news.ycombinator.com/item?id=48082617 Points: 4 # Comments: 0",
+    "author": "ndr42",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bsky.app/profile/annierau.bsky.social/post/3mkzrvrn44c2h",
+    "id": "news-1585"
+  },
+  {
+    "title": "Show HN: Akmon, a Rust AI coding agent for regulated engineering",
+    "summary": "Article URL: https://github.com/radotsvetkov/akmon Comments URL: https://news.ycombinator.com/item?id=48082634 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/radotsvetkov/akmon Comments URL: https://news.ycombinator.com/item?id=48082634 Points: 1 # Comments: 0",
+    "author": "radotsvetkov",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/radotsvetkov/akmon",
+    "id": "news-1584"
+  },
+  {
+    "title": "AI Startup's Software Watches Employees as They Work",
+    "summary": "Article URL: https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/ Comments URL: https://news.ycombinator.com/item",
+    "content": "Article URL: https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/ Comments URL: https://news.ycombinator.com/item?id=48082759 Points: 2 # Comments: 0",
+    "author": "geox",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/",
+    "id": "news-1583"
+  },
+  {
+    "title": "Israel's AI targeting system: data from a phone become a death sentence",
+    "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082",
+    "content": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 2 # Comments: 0",
+    "author": "YeGoblynQueenne",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+    "id": "news-1582"
+  },
+  {
+    "title": "If you're a programmer and you feel depressed by AI, don't be!",
+    "summary": "Article URL: https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html Comments URL: https://news.ycombinator.com/item?id=48082767 Points: 1 # Comments: 0",
+    "content": "Article URL: https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html Comments URL: https://news.ycombinator.com/item?id=48082767 Points: 1 # Comments: 0",
+    "author": "jruohonen",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html",
+    "id": "news-1581"
+  },
+  {
     "title": "Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations",
     "summary": "A study by researchers from the MATS program, Redwood Research, the University of Oxford, and Anthropic examines a safety problem that grows more pressing as AI systems become more capable: \"sandbaggi",
     "content": "A study by researchers from the MATS program, Redwood Research, the University of Oxford, and Anthropic examines a safety problem that grows more pressing as AI systems become more capable: \"sandbagging,\" where a model deliberately hides its true abilities and delivers work that looks adequate but is intentionally subpar. The article Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations appeared first on The Decoder.",
