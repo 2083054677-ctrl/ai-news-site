@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI-powered NPM deprecation tracker with dependency tree Ghost Detection",
+    "summary": "Article URL: https://www.stackgraveyard.dev/ Comments URL: https://news.ycombinator.com/item?id=48087029 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.stackgraveyard.dev/ Comments URL: https://news.ycombinator.com/item?id=48087029 Points: 3 # Comments: 0",
+    "author": "tlseternal",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.stackgraveyard.dev/",
+    "id": "news-1611"
+  },
+  {
+    "title": "Tell HN: Claude claims the AGPLv3 license violates it's content policy",
+    "summary": "On three separate projects, Claude has refused to add an AGPLv3 license to my project, telling me that it violates the content policy. Most recent reject gave: API Error: Output blocked by content fil",
+    "content": "On three separate projects, Claude has refused to add an AGPLv3 license to my project, telling me that it violates the content policy. Most recent reject gave: API Error: Output blocked by content filtering policy I've reproduced this a total of four times. It has also been reported for quite some time[1][2], including by myself a month or so ago (though I can't find the link), and it is clearly not just happening to me.This is unacceptable IMHO, and is beginning to feel like an intentional deci",
+    "author": "freedomben",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48087073",
+    "id": "news-1610"
+  },
+  {
+    "title": "ProxyFace: Give Your AI a Face and Emotions (100% Local, Zero Telemetry)",
+    "summary": "Article URL: https://www.proxyface.com Comments URL: https://news.ycombinator.com/item?id=48087139 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.proxyface.com Comments URL: https://news.ycombinator.com/item?id=48087139 Points: 1 # Comments: 1",
+    "author": "NaotoMatsumoto",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.proxyface.com",
+    "id": "news-1609"
+  },
+  {
+    "title": "Lorein – A Persistent, Local-First AI Architecture [pdf]",
+    "summary": "Article URL: https://github.com/AnonymousNomad/LOREIN-Sovereign-Entity Comments URL: https://news.ycombinator.com/item?id=48087182 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/AnonymousNomad/LOREIN-Sovereign-Entity Comments URL: https://news.ycombinator.com/item?id=48087182 Points: 1 # Comments: 0",
+    "author": "Neuro_Nomad",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AnonymousNomad/LOREIN-Sovereign-Entity",
+    "id": "news-1608"
+  },
+  {
+    "title": "Prpack – Pack a pull request into one Markdown file for LLM code review",
+    "summary": "Article URL: https://github.com/Lucas2944/prpack Comments URL: https://news.ycombinator.com/item?id=48087329 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Lucas2944/prpack Comments URL: https://news.ycombinator.com/item?id=48087329 Points: 1 # Comments: 0",
+    "author": "claudetester89",
+    "date": "2026-05-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Lucas2944/prpack",
+    "id": "news-1607"
+  },
+  {
     "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
     "summary": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
     "content": "",
