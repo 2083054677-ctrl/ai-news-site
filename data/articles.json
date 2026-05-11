@@ -1,5 +1,70 @@
 [
   {
+    "title": "Family of Florida mass shooting victim sues OpenAI in US court",
+    "summary": "Article URL: https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/ Comments URL: https://news.ycombinator.com/item?id=48101023 Points: 2 # Comme",
+    "content": "Article URL: https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/ Comments URL: https://news.ycombinator.com/item?id=48101023 Points: 2 # Comments: 0",
+    "author": "tartoran",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/",
+    "id": "news-1643"
+  },
+  {
+    "title": "My First AI Project: An \"Evidence-Based\" System Architect. Looking for Feedback",
+    "summary": "Article URL: https://github.com/maioio/genesis-architect Comments URL: https://news.ycombinator.com/item?id=48101172 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/maioio/genesis-architect Comments URL: https://news.ycombinator.com/item?id=48101172 Points: 1 # Comments: 0",
+    "author": "maioio",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/maioio/genesis-architect",
+    "id": "news-1642"
+  },
+  {
+    "title": "Cloud Storage Rapid: Turbocharged object storage for AI and analytics",
+    "summary": "Article URL: https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics/ Comments URL: https://news.ycombinator.com/item?id=48101176 ",
+    "content": "Article URL: https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics/ Comments URL: https://news.ycombinator.com/item?id=48101176 Points: 1 # Comments: 0",
+    "author": "leg",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics/",
+    "id": "news-1641"
+  },
+  {
+    "title": "AI is a Sword not a Shield [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=TdbMZRlTDaI Comments URL: https://news.ycombinator.com/item?id=48101424 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=TdbMZRlTDaI Comments URL: https://news.ycombinator.com/item?id=48101424 Points: 1 # Comments: 0",
+    "author": "saltysalt",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=TdbMZRlTDaI",
+    "id": "news-1640"
+  },
+  {
+    "title": "Red flags when building AI",
+    "summary": "Article URL: https://www.dianapfeil.com/ai/2026/02/11/red-flags-when-building-ai.html Comments URL: https://news.ycombinator.com/item?id=48101455 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.dianapfeil.com/ai/2026/02/11/red-flags-when-building-ai.html Comments URL: https://news.ycombinator.com/item?id=48101455 Points: 2 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.dianapfeil.com/ai/2026/02/11/red-flags-when-building-ai.html",
+    "id": "news-1639"
+  },
+  {
     "title": "The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door",
     "summary": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings",
     "content": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have access. The gap highlights how dependent Europe's AI oversight remains on voluntary cooperation from the companies it aims to regulate. The article The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door appeared",
