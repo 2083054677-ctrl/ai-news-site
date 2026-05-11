@@ -1,5 +1,122 @@
 [
   {
+    "title": "OpenAI's internal share sale minted roughly 75 multimillionaires who each cashed out the $30 million cap",
+    "summary": "In October 2025, OpenAI organized a $6.6 billion share sale for over 600 current and former employees. Around 75 of them cashed out the maximum cap of $30 million each. President Greg Brockman says he",
+    "content": "In October 2025, OpenAI organized a $6.6 billion share sale for over 600 current and former employees. Around 75 of them cashed out the maximum cap of $30 million each. President Greg Brockman says he holds shares worth roughly $30 billion. The article OpenAI's internal share sale minted roughly 75 multimillionaires who each cashed out the $30 million cap appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-internal-share-sale-minted-roughly-75-multimillionaires-who-each-cashed-out-the-30-million-cap/",
+    "id": "news-1634"
+  },
+  {
+    "title": "Nvidia pumps over 40 billion dollars into AI partners so far in 2026",
+    "summary": "Nvidia has invested more than $40 billion in AI companies in 2025, cementing its role as the industry's biggest backer. The article Nvidia pumps over 40 billion dollars into AI partners so far in 2026",
+    "content": "Nvidia has invested more than $40 billion in AI companies in 2025, cementing its role as the industry's biggest backer. The article Nvidia pumps over 40 billion dollars into AI partners so far in 2026 appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-pumps-over-40-billion-dollars-into-ai-partners-so-far-in-2026/",
+    "id": "news-1633"
+  },
+  {
+    "title": "Generative AI turns identity theft into an industrial-scale operation",
+    "summary": "A Bloomberg investigation shows how generative AI and autonomous agents are supercharging identity theft in the US, from social security number lookups on the darknet to deepfake driver's licenses. Th",
+    "content": "A Bloomberg investigation shows how generative AI and autonomous agents are supercharging identity theft in the US, from social security number lookups on the darknet to deepfake driver's licenses. The article Generative AI turns identity theft into an industrial-scale operation appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/generative-ai-turns-identity-theft-into-an-industrial-scale-operation/",
+    "id": "news-1632"
+  },
+  {
+    "title": "AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty",
+    "summary": "Language models find security flaws faster and turn patches into working exploits in minutes. A veteran researcher says the established disclosure process needs to change. The article AI turns patches",
+    "content": "Language models find security flaws faster and turn patches into working exploits in minutes. A veteran researcher says the established disclosure process needs to change. The article AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-turns-patches-into-working-exploits-in-30-minutes-and-the-90-day-disclosure-window-is-the-casualty/",
+    "id": "news-1631"
+  },
+  {
+    "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
+    "summary": "Article URL: https://www.jetbrains.com/junie/ Comments URL: https://news.ycombinator.com/item?id=48095392 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.jetbrains.com/junie/ Comments URL: https://news.ycombinator.com/item?id=48095392 Points: 1 # Comments: 0",
+    "author": "dude250711",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.jetbrains.com/junie/",
+    "id": "news-1630"
+  },
+  {
+    "title": "Show HN: LLM post-training to speak like GenZ, costing less than a cup of coffee",
+    "summary": "Article URL: https://github.com/aidarbek/genz-qwen Comments URL: https://news.ycombinator.com/item?id=48095446 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/aidarbek/genz-qwen Comments URL: https://news.ycombinator.com/item?id=48095446 Points: 2 # Comments: 1",
+    "author": "aidarbek",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aidarbek/genz-qwen",
+    "id": "news-1629"
+  },
+  {
+    "title": "OpenAI, Anthropic, and Google, private equity giants threatens IT services work",
+    "summary": "Article URL: https://www.moneycontrol.com/artificial-intelligence/openai-anthropic-and-google-s-enterprise-push-with-private-equity-giants-threatens-commoditised-it-services-work-article-13913588.html",
+    "content": "Article URL: https://www.moneycontrol.com/artificial-intelligence/openai-anthropic-and-google-s-enterprise-push-with-private-equity-giants-threatens-commoditised-it-services-work-article-13913588.html Comments URL: https://news.ycombinator.com/item?id=48095474 Points: 2 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.moneycontrol.com/artificial-intelligence/openai-anthropic-and-google-s-enterprise-push-with-private-equity-giants-threatens-commoditised-it-services-work-article-13913588.html",
+    "id": "news-1628"
+  },
+  {
+    "title": "TypeScript framework for building reactive AI agents",
+    "summary": "Article URL: https://github.com/jigjoy-ai/mozaik Comments URL: https://news.ycombinator.com/item?id=48095496 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/jigjoy-ai/mozaik Comments URL: https://news.ycombinator.com/item?id=48095496 Points: 1 # Comments: 0",
+    "author": "mijura",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/jigjoy-ai/mozaik",
+    "id": "news-1627"
+  },
+  {
+    "title": "Show HN: BrowserCode – Run Claude Code in the Browser via WebAssembly",
+    "summary": "We built BrowserCode, a FOSS web app to run TUI agents (Claude Code, Gemini CLI, others coming soon) fully in the browser, locally.To use BrowserCode, you'll need to login to each CLI with the corresp",
+    "content": "We built BrowserCode, a FOSS web app to run TUI agents (Claude Code, Gemini CLI, others coming soon) fully in the browser, locally.To use BrowserCode, you'll need to login to each CLI with the corresponding login, i.e. with your Anthropic account or API key. All the data and execution stays completely local to the browser and it's persistent across sessions thanks to a disk backend based on the Origin Private File System API or IndexedDB.This is running the unmodified Claude Code (and Gemini CLI",
+    "author": "multimillion",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/leaningtech/browsercode",
+    "id": "news-1626"
+  },
+  {
     "title": "Cotypist – AI Autocomplete for Mac",
     "summary": "Article URL: https://cotypist.app/ Comments URL: https://news.ycombinator.com/item?id=48093079 Points: 3 # Comments: 0",
     "content": "Article URL: https://cotypist.app/ Comments URL: https://news.ycombinator.com/item?id=48093079 Points: 3 # Comments: 0",
