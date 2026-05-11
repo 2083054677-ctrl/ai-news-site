@@ -1,5 +1,70 @@
 [
   {
+    "title": "Cotypist – AI Autocomplete for Mac",
+    "summary": "Article URL: https://cotypist.app/ Comments URL: https://news.ycombinator.com/item?id=48093079 Points: 3 # Comments: 0",
+    "content": "Article URL: https://cotypist.app/ Comments URL: https://news.ycombinator.com/item?id=48093079 Points: 3 # Comments: 0",
+    "author": "AndrewDucker",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cotypist.app/",
+    "id": "news-1625"
+  },
+  {
+    "title": "Show HN: AI Agents in 30 Lines of YAML: Lowdefy v5.3",
+    "summary": "Article URL: https://lowdefy.com/articles/lowdefy-agents/ Comments URL: https://news.ycombinator.com/item?id=48093184 Points: 2 # Comments: 1",
+    "content": "Article URL: https://lowdefy.com/articles/lowdefy-agents/ Comments URL: https://news.ycombinator.com/item?id=48093184 Points: 2 # Comments: 1",
+    "author": "gervwyk",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lowdefy.com/articles/lowdefy-agents/",
+    "id": "news-1624"
+  },
+  {
+    "title": "DoneSpec – deterministic completion checks for AI coding agents",
+    "summary": "Article URL: https://github.com/xryv/DoneSpec Comments URL: https://news.ycombinator.com/item?id=48093260 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/xryv/DoneSpec Comments URL: https://news.ycombinator.com/item?id=48093260 Points: 1 # Comments: 0",
+    "author": "brunocerqueira",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/xryv/DoneSpec",
+    "id": "news-1623"
+  },
+  {
+    "title": "The new Wild West of AI kids' toys",
+    "summary": "Article URL: https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/ Comments URL: https://news.ycombinator.com/item?id=48093289 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/ Comments URL: https://news.ycombinator.com/item?id=48093289 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+    "id": "news-1622"
+  },
+  {
+    "title": "AI will make language barriers disappear, diminish our understanding of cultures",
+    "summary": "Article URL: https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani Comments URL: https://news.ycombinator.com/item?id=48093325 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani Comments URL: https://news.ycombinator.com/item?id=48093325 Points: 1 # Comments: 0",
+    "author": "brandrick",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani",
+    "id": "news-1621"
+  },
+  {
     "title": "AI Agents Have Two Souls. You Only Control One",
     "summary": "Article URL: https://auth0.com/blog/ai-agents-have-two-souls-you-control-only-one/ Comments URL: https://news.ycombinator.com/item?id=48091749 Points: 1 # Comments: 0",
     "content": "Article URL: https://auth0.com/blog/ai-agents-have-two-souls-you-control-only-one/ Comments URL: https://news.ycombinator.com/item?id=48091749 Points: 1 # Comments: 0",
