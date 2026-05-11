@@ -1,5 +1,57 @@
 [
   {
+    "title": "AI Agents Have Two Souls. You Only Control One",
+    "summary": "Article URL: https://auth0.com/blog/ai-agents-have-two-souls-you-control-only-one/ Comments URL: https://news.ycombinator.com/item?id=48091749 Points: 1 # Comments: 0",
+    "content": "Article URL: https://auth0.com/blog/ai-agents-have-two-souls-you-control-only-one/ Comments URL: https://news.ycombinator.com/item?id=48091749 Points: 1 # Comments: 0",
+    "author": "andychiare",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://auth0.com/blog/ai-agents-have-two-souls-you-control-only-one/",
+    "id": "news-1620"
+  },
+  {
+    "title": "Agent Patterns for AI Agent Development",
+    "summary": "Article URL: https://agentpatterns.ai/ Comments URL: https://news.ycombinator.com/item?id=48091767 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agentpatterns.ai/ Comments URL: https://news.ycombinator.com/item?id=48091767 Points: 1 # Comments: 0",
+    "author": "ankitg12",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentpatterns.ai/",
+    "id": "news-1619"
+  },
+  {
+    "title": "Make Claude Code Sing",
+    "summary": "Article URL: https://github.com/harajlim/vibe-sing Comments URL: https://news.ycombinator.com/item?id=48091814 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/harajlim/vibe-sing Comments URL: https://news.ycombinator.com/item?id=48091814 Points: 1 # Comments: 1",
+    "author": "mharajli",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/harajlim/vibe-sing",
+    "id": "news-1618"
+  },
+  {
+    "title": "Evolved antennas, LLM-generated code, and a potential antifuture",
+    "summary": "Article URL: https://ericwbailey.website/published/evolved-antennas-llm-generated-code-and-a-potential-antifuture/ Comments URL: https://news.ycombinator.com/item?id=48091852 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ericwbailey.website/published/evolved-antennas-llm-generated-code-and-a-potential-antifuture/ Comments URL: https://news.ycombinator.com/item?id=48091852 Points: 1 # Comments: 0",
+    "author": "tobr",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ericwbailey.website/published/evolved-antennas-llm-generated-code-and-a-potential-antifuture/",
+    "id": "news-1617"
+  },
+  {
     "title": "Claude Code auto daily /weekly recap notes",
     "summary": "Article URL: https://github.com/vibe-log/vibe-log-cli Comments URL: https://news.ycombinator.com/item?id=48088314 Points: 2 # Comments: 1",
     "content": "Article URL: https://github.com/vibe-log/vibe-log-cli Comments URL: https://news.ycombinator.com/item?id=48088314 Points: 2 # Comments: 1",
