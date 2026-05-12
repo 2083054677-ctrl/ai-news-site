@@ -1,5 +1,109 @@
 [
   {
+    "title": "\"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards",
+    "summary": "Amazon employees are automating unnecessary tasks just to climb internal AI leaderboards. The article \"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards appeared first on The ",
+    "content": "Amazon employees are automating unnecessary tasks just to climb internal AI leaderboards. The article \"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/tokenmaxxing-spreads-at-amazon-as-employees-game-internal-ai-leaderboards/",
+    "id": "news-1673"
+  },
+  {
+    "title": "Microsoft ousts its Israel chief following reports that Azure quietly powered military AI targeting in Gaza",
+    "summary": "Microsoft Israel's top executive is out after an internal investigation into the unit's work with Israel's defense ministry. Reporting over the past years points to what's likely at the center of it a",
+    "content": "Microsoft Israel's top executive is out after an internal investigation into the unit's work with Israel's defense ministry. Reporting over the past years points to what's likely at the center of it all: cloud infrastructure, mass surveillance, and AI-powered target selection in Gaza. The article Microsoft ousts its Israel chief following reports that Azure quietly powered military AI targeting in Gaza appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-ousts-its-israel-chief-following-reports-that-azure-quietly-powered-military-ai-targeting-in-gaza/",
+    "id": "news-1672"
+  },
+  {
+    "title": "Alphabet's Isomorphic Labs raises $2.1 billion to scale AI drug discovery toward clinical trials",
+    "summary": "Isomorphic Labs, the AI drug research company led by DeepMind co-founder Demis Hassabis, has closed a $2.1 billion Series B round led by Thrive Capital. The funding will go toward expanding its in-hou",
+    "content": "Isomorphic Labs, the AI drug research company led by DeepMind co-founder Demis Hassabis, has closed a $2.1 billion Series B round led by Thrive Capital. The funding will go toward expanding its in-house platform IsoDDE and advancing drug candidates toward clinical trials. The article Alphabet's Isomorphic Labs raises $2.1 billion to scale AI drug discovery toward clinical trials appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alphabets-isomorphic-labs-raises-2-1-billion-to-scale-ai-drug-discovery-toward-clinical-trials/",
+    "id": "news-1671"
+  },
+  {
+    "title": "Deep Dive AAuth (Agent Auth) – Identity and Access Management for AI Agents",
+    "summary": "Article URL: https://blog.christianposta.com/exploring-aauth-agent-auth-identity-and-access-management-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48111613 Points: 1 # Comments: ",
+    "content": "Article URL: https://blog.christianposta.com/exploring-aauth-agent-auth-identity-and-access-management-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48111613 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.christianposta.com/exploring-aauth-agent-auth-identity-and-access-management-for-ai-agents/",
+    "id": "news-1670"
+  },
+  {
+    "title": "AWS releases Semantic Entropy for AI and parallel agents",
+    "summary": "Article URL: https://kiro.dev/blog/faster-smarter-specs/ Comments URL: https://news.ycombinator.com/item?id=48111616 Points: 3 # Comments: 0",
+    "content": "Article URL: https://kiro.dev/blog/faster-smarter-specs/ Comments URL: https://news.ycombinator.com/item?id=48111616 Points: 3 # Comments: 0",
+    "author": "nslog",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kiro.dev/blog/faster-smarter-specs/",
+    "id": "news-1669"
+  },
+  {
+    "title": "Aegis DQ – agentic data quality with LLM diagnosis",
+    "summary": "Article URL: https://github.com/aegis-dq/aegis-dq Comments URL: https://news.ycombinator.com/item?id=48111717 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/aegis-dq/aegis-dq Comments URL: https://news.ycombinator.com/item?id=48111717 Points: 1 # Comments: 0",
+    "author": "shiva_koreddi",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aegis-dq/aegis-dq",
+    "id": "news-1668"
+  },
+  {
+    "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+    "summary": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim Comments URL: https://news.ycombinator.com/item?id=48111748 Points: 1 # Comments: 0",
+    "content": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim Comments URL: https://news.ycombinator.com/item?id=48111748 Points: 1 # Comments: 0",
+    "author": "fedek_",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+    "id": "news-1667"
+  },
+  {
+    "title": "AI Use Is Breaking My Brain",
+    "summary": "Article URL: https://www.404media.co/your-ai-use-is-breaking-my-brain/ Comments URL: https://news.ycombinator.com/item?id=48111752 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.404media.co/your-ai-use-is-breaking-my-brain/ Comments URL: https://news.ycombinator.com/item?id=48111752 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
+    "id": "news-1666"
+  },
+  {
     "title": "Thinking Machines Lab ships its first model and argues interactivity is what OpenAI gets wrong about voice",
     "summary": "Mira Murati's start-up presents its first AI model and aims to free voice AI from the question-and-answer model. The model processes audio, video and text in 200-millisecond chunks in parallel and aim",
     "content": "Mira Murati's start-up presents its first AI model and aims to free voice AI from the question-and-answer model. The model processes audio, video and text in 200-millisecond chunks in parallel and aims to beat OpenAI's GPT Realtime 2 and Google's Gemini Live in terms of interaction quality. The article Thinking Machines Lab ships its first model and argues interactivity is what OpenAI gets wrong about voice appeared first on The Decoder.",
