@@ -1,5 +1,83 @@
 [
   {
+    "title": "Thinking Machines Lab ships its first model and argues interactivity is what OpenAI gets wrong about voice",
+    "summary": "Mira Murati's start-up presents its first AI model and aims to free voice AI from the question-and-answer model. The model processes audio, video and text in 200-millisecond chunks in parallel and aim",
+    "content": "Mira Murati's start-up presents its first AI model and aims to free voice AI from the question-and-answer model. The model processes audio, video and text in 200-millisecond chunks in parallel and aims to beat OpenAI's GPT Realtime 2 and Google's Gemini Live in terms of interaction quality. The article Thinking Machines Lab ships its first model and argues interactivity is what OpenAI gets wrong about voice appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/thinking-machines-lab-ships-its-first-model-and-argues-interactivity-is-what-openai-gets-wrong-about-voice/",
+    "id": "news-1665"
+  },
+  {
+    "title": "My offline AI-assisted Linux development machine",
+    "summary": "Article URL: https://deepu.tech/my-fully-offline-ai-assisted-linux-development-machine/ Comments URL: https://news.ycombinator.com/item?id=48108125 Points: 1 # Comments: 0",
+    "content": "Article URL: https://deepu.tech/my-fully-offline-ai-assisted-linux-development-machine/ Comments URL: https://news.ycombinator.com/item?id=48108125 Points: 1 # Comments: 0",
+    "author": "deepu105",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deepu.tech/my-fully-offline-ai-assisted-linux-development-machine/",
+    "id": "news-1664"
+  },
+  {
+    "title": "In Trump administration battle over AI, U.S. spy agencies seek more power",
+    "summary": "Article URL: https://www.washingtonpost.com/politics/2026/05/11/trump-ai-regulation-commerce-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48108163 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.washingtonpost.com/politics/2026/05/11/trump-ai-regulation-commerce-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48108163 Points: 2 # Comments: 0",
+    "author": "delichon",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/politics/2026/05/11/trump-ai-regulation-commerce-intelligence/",
+    "id": "news-1663"
+  },
+  {
+    "title": "How We Built an AI Second Brain for 60K Knowledge Workers",
+    "summary": "Article URL: https://medium.com/@AnalyticsAtMeta/how-we-built-an-ai-second-brain-for-60k-knowledge-workers-78c507dd795b Comments URL: https://news.ycombinator.com/item?id=48108301 Points: 1 # Comments",
+    "content": "Article URL: https://medium.com/@AnalyticsAtMeta/how-we-built-an-ai-second-brain-for-60k-knowledge-workers-78c507dd795b Comments URL: https://news.ycombinator.com/item?id=48108301 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@AnalyticsAtMeta/how-we-built-an-ai-second-brain-for-60k-knowledge-workers-78c507dd795b",
+    "id": "news-1662"
+  },
+  {
+    "title": "OpenAI Just Launched Daybreak",
+    "summary": "Article URL: https://abz.global/technology/openai-just-launched-daybreak-cybersecurity-is-becoming-part-of-the-development-workflow Comments URL: https://news.ycombinator.com/item?id=48108385 Points: ",
+    "content": "Article URL: https://abz.global/technology/openai-just-launched-daybreak-cybersecurity-is-becoming-part-of-the-development-workflow Comments URL: https://news.ycombinator.com/item?id=48108385 Points: 1 # Comments: 0",
+    "author": "marian_abz",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://abz.global/technology/openai-just-launched-daybreak-cybersecurity-is-becoming-part-of-the-development-workflow",
+    "id": "news-1661"
+  },
+  {
+    "title": "Show HN: Kimiflare, Kimi K2.6 as a Coding Agent on Cloudflare Workers AI",
+    "summary": "hey HN, this is sina.i've had some cloudflare credits expiring on may 14 and was wondering what to do with them. when kimi k2.6 dropped and it was available on workers ai, i figured i'd build an open-",
+    "content": "hey HN, this is sina.i've had some cloudflare credits expiring on may 14 and was wondering what to do with them. when kimi k2.6 dropped and it was available on workers ai, i figured i'd build an open-source claude code clone with it. didn't think too much about it. (people asked if i know about opencode and tbh i learned about them only after i built this. but they seem really brilliant.)anyway, kimiflare is a CLI coding agent, basically claude code but powered by kimi k2.6 on cloudflare workers",
+    "author": "sinameraji",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48108407",
+    "id": "news-1660"
+  },
+  {
     "title": "Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO",
     "summary": "Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO. The article Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO appeared fi",
     "content": "Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO. The article Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO appeared first on The Decoder.",
