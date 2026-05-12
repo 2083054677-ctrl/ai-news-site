@@ -1,5 +1,109 @@
 [
   {
+    "title": "Google says it stopped a mass cyberattack after AI was used to discover a zero-day exploit",
+    "summary": "Google's Threat Intelligence Group has identified the first known case of an attacker using AI to discover and weaponize a zero-day vulnerability. Google says it stopped the planned mass attack. State",
+    "content": "Google's Threat Intelligence Group has identified the first known case of an attacker using AI to discover and weaponize a zero-day vulnerability. Google says it stopped the planned mass attack. State-backed actors from China, North Korea, and Russia are also using AI to find vulnerabilities and disguise malware code. The article Google says it stopped a mass cyberattack after AI was used to discover a zero-day exploit appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-says-it-stopped-a-mass-cyberattack-after-ai-was-used-to-discover-a-zero-day-exploit/",
+    "id": "news-1681"
+  },
+  {
+    "title": "Anthropic expands legal AI offerings with new Claude Cowork plugins",
+    "summary": "Anthropic launches twelve new Claude plugins for legal work covering contract law, employment law, and litigation, while connecting the chatbot to services like Thomson Reuters' CoCounsel Legal and Ha",
+    "content": "Anthropic launches twelve new Claude plugins for legal work covering contract law, employment law, and litigation, while connecting the chatbot to services like Thomson Reuters' CoCounsel Legal and Harvey. According to Anthropic's chief legal officer, lawyers use Claude more than almost any other profession. The article Anthropic expands legal AI offerings with new Claude Cowork plugins appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-expands-legal-ai-offerings-with-new-cowork-plugins/",
+    "id": "news-1680"
+  },
+  {
+    "title": "Android gets AI agents that book trips, fill forms, and clean up your texts",
+    "summary": "With Gemini Intelligence, Google is introducing new AI features for Android that automate multi-step tasks, summarize web content, fill out forms, and turn spoken thoughts into polished text messages.",
+    "content": "With Gemini Intelligence, Google is introducing new AI features for Android that automate multi-step tasks, summarize web content, fill out forms, and turn spoken thoughts into polished text messages. The article Android gets AI agents that book trips, fill forms, and clean up your texts appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gemini-intelligence-makes-autofill-chrome-and-gboard-on-android-smarter/",
+    "id": "news-1679"
+  },
+  {
+    "title": "Show HN: Prempti – Guardrails and observability for AI coding agents",
+    "summary": "Article URL: https://falco.org/blog/introducing-prempti/ Comments URL: https://news.ycombinator.com/item?id=48112850 Points: 2 # Comments: 0",
+    "content": "Article URL: https://falco.org/blog/introducing-prempti/ Comments URL: https://news.ycombinator.com/item?id=48112850 Points: 2 # Comments: 0",
+    "author": "jonasrosland",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://falco.org/blog/introducing-prempti/",
+    "id": "news-1678"
+  },
+  {
+    "title": "Why is Anthropic's training data disclosure AI-generated?",
+    "summary": "Article URL: https://twitter.com/TheMidasProj/status/2054276553622851818 Comments URL: https://news.ycombinator.com/item?id=48112961 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/TheMidasProj/status/2054276553622851818 Comments URL: https://news.ycombinator.com/item?id=48112961 Points: 1 # Comments: 0",
+    "author": "pretext",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/TheMidasProj/status/2054276553622851818",
+    "id": "news-1677"
+  },
+  {
+    "title": "US Bank CEO on AI Popularity in the Workforce",
+    "summary": "Article URL: https://www.wsj.com/video/us-bank-ceo-on-ai-popularity-in-the-workforce/6AFB369E-2EF3-4804-B1BF-4D64DE29AABC Comments URL: https://news.ycombinator.com/item?id=48113061 Points: 2 # Commen",
+    "content": "Article URL: https://www.wsj.com/video/us-bank-ceo-on-ai-popularity-in-the-workforce/6AFB369E-2EF3-4804-B1BF-4D64DE29AABC Comments URL: https://news.ycombinator.com/item?id=48113061 Points: 2 # Comments: 2",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/video/us-bank-ceo-on-ai-popularity-in-the-workforce/6AFB369E-2EF3-4804-B1BF-4D64DE29AABC",
+    "id": "news-1676"
+  },
+  {
+    "title": "AI Agents Under EU Law",
+    "summary": "Article URL: https://arxiv.org/abs/2604.04604 Comments URL: https://news.ycombinator.com/item?id=48113073 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.04604 Comments URL: https://news.ycombinator.com/item?id=48113073 Points: 1 # Comments: 0",
+    "author": "tanelpoder",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.04604",
+    "id": "news-1675"
+  },
+  {
+    "title": "Show HN: Ralph Workflow - Simple Agent-Agnostic AI Orchestrator based on Ralph.",
+    "summary": "Simple AI Orchestrator based on Ralph. The original Ralph idea was to repeat the same PROMPT over and over again, which was still a pretty powerful idea to this day. This workflow builds on top of the",
+    "content": "Simple AI Orchestrator based on Ralph. The original Ralph idea was to repeat the same PROMPT over and over again, which was still a pretty powerful idea to this day. This workflow builds on top of the original Ralph idea by introducing verification after development, planning iteration before we start development using the same Ralph idea for planning and not just developing code. The entire thing is also free and open source so anyone can start using it right away. I'll be here to answer any qu",
+    "author": "yichi",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codeberg.org/RalphWorkflow/Ralph-Workflow",
+    "id": "news-1674"
+  },
+  {
     "title": "\"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards",
     "summary": "Amazon employees are automating unnecessary tasks just to climb internal AI leaderboards. The article \"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards appeared first on The ",
     "content": "Amazon employees are automating unnecessary tasks just to climb internal AI leaderboards. The article \"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards appeared first on The Decoder.",
