@@ -1,5 +1,70 @@
 [
   {
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/ Comments URL: https://news.ycombinator.com/item?id=48114222 Points:",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/ Comments URL: https://news.ycombinator.com/item?id=48114222 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "id": "news-1686"
+  },
+  {
+    "title": "SpaceX backs Anthropic with data centre deal amidst Musk's OpenAI lawsuit",
+    "summary": "Article URL: https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit Comments URL: https://news.ycombinator.com/item?id=48114277 Points: 3 #",
+    "content": "Article URL: https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit Comments URL: https://news.ycombinator.com/item?id=48114277 Points: 3 # Comments: 0",
+    "author": "billybuckwheat",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit",
+    "id": "news-1685"
+  },
+  {
+    "title": "Show HN: GitGlimpse – CLI for understanding AI-generated Git diffs",
+    "summary": "Built GitGlimpse — a CLI that helps you understand AI-generated code changes faster.Coding agents can generate huge diffs quickly, but reviewing those changes is getting harder — especially in PRs whe",
+    "content": "Built GitGlimpse — a CLI that helps you understand AI-generated code changes faster.Coding agents can generate huge diffs quickly, but reviewing those changes is getting harder — especially in PRs where the author used an agent and already has the context in their head.GitGlimpse analyzes git diffs and generates contextual summaries of what changed and why, making PR reviews easier and faster.It can also:* generate standups/changelogs * summarize commits and branches * run in CI pipelines and au",
+    "author": "dinoze",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gitglimpse.com",
+    "id": "news-1684"
+  },
+  {
+    "title": "AI Strategy Has a Blind Spot: The Network",
+    "summary": "Article URL: https://www.kentik.com/blog/your-ai-strategy-has-a-blind-spot-the-network/ Comments URL: https://news.ycombinator.com/item?id=48114554 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.kentik.com/blog/your-ai-strategy-has-a-blind-spot-the-network/ Comments URL: https://news.ycombinator.com/item?id=48114554 Points: 1 # Comments: 0",
+    "author": "oavioklein",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kentik.com/blog/your-ai-strategy-has-a-blind-spot-the-network/",
+    "id": "news-1683"
+  },
+  {
+    "title": "Open Vibe – an interactive web dev course in Claude Code",
+    "summary": "Article URL: https://openvibe.sh/ Comments URL: https://news.ycombinator.com/item?id=48114556 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openvibe.sh/ Comments URL: https://news.ycombinator.com/item?id=48114556 Points: 1 # Comments: 0",
+    "author": "matijash",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openvibe.sh/",
+    "id": "news-1682"
+  },
+  {
     "title": "Google says it stopped a mass cyberattack after AI was used to discover a zero-day exploit",
     "summary": "Google's Threat Intelligence Group has identified the first known case of an attacker using AI to discover and weaponize a zero-day vulnerability. Google says it stopped the planned mass attack. State",
     "content": "Google's Threat Intelligence Group has identified the first known case of an attacker using AI to discover and weaponize a zero-day vulnerability. Google says it stopped the planned mass attack. State-backed actors from China, North Korea, and Russia are also using AI to find vulnerabilities and disguise malware code. The article Google says it stopped a mass cyberattack after AI was used to discover a zero-day exploit appeared first on The Decoder.",
