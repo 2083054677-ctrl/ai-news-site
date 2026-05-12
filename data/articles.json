@@ -1,5 +1,71 @@
 [
   {
+    "title": "The Morse Code Hack That Made an AI Agent Spend $200k [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=UQ4pSVS_mN0 Comments URL: https://news.ycombinator.com/item?id=48103104 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=UQ4pSVS_mN0 Comments URL: https://news.ycombinator.com/item?id=48103104 Points: 1 # Comments: 1",
+    "author": "CharlesW",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=UQ4pSVS_mN0",
+    "id": "news-1647"
+  },
+  {
+    "title": "METR can barely measure Claude Mythos – 50% task horizon now exceeds 16 hours",
+    "summary": "Article URL: https://hugonomy.com/news.html Comments URL: https://news.ycombinator.com/item?id=48103214 Points: 1 # Comments: 1",
+    "content": "Article URL: https://hugonomy.com/news.html Comments URL: https://news.ycombinator.com/item?id=48103214 Points: 1 # Comments: 1",
+    "author": "GlyphWeaver_a",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hugonomy.com/news.html",
+    "id": "news-1646"
+  },
+  {
+    "title": "Cisco CPO predicts AI will have built majority of their products by end of 2027",
+    "summary": "Article URL: https://www.sdxcentral.com/analysis/cisco-cpo-predicts-ai-will-have-built-majority-of-the-vendors-products-by-end-of-2027/ Comments URL: https://news.ycombinator.com/item?id=48103302 Poin",
+    "content": "Article URL: https://www.sdxcentral.com/analysis/cisco-cpo-predicts-ai-will-have-built-majority-of-the-vendors-products-by-end-of-2027/ Comments URL: https://news.ycombinator.com/item?id=48103302 Points: 1 # Comments: 0",
+    "author": "oavioklein",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sdxcentral.com/analysis/cisco-cpo-predicts-ai-will-have-built-majority-of-the-vendors-products-by-end-of-2027/",
+    "id": "news-1645"
+  },
+  {
+    "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+    "summary": "Article URL: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/ Comments URL: https://news.ycombinator.com/item?id=48103459 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/ Comments URL: https://news.ycombinator.com/item?id=48103459 Points: 1 # Comments: 0",
+    "author": "firef1y1203",
+    "date": "2026-05-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+    "id": "news-1644"
+  },
+  {
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "summary": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-11",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "id": "news-1648"
+  },
+  {
     "title": "Family of Florida mass shooting victim sues OpenAI in US court",
     "summary": "Article URL: https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/ Comments URL: https://news.ycombinator.com/item?id=48101023 Points: 2 # Comme",
     "content": "Article URL: https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/ Comments URL: https://news.ycombinator.com/item?id=48101023 Points: 2 # Comments: 0",
