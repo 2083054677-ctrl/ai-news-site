@@ -1,5 +1,109 @@
 [
   {
+    "title": "Google is hiring hundreds of engineers to help customers adopt its AI",
+    "summary": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult. The article Google is hiring hundreds of engineers to help customers adopt",
+    "content": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult. The article Google is hiring hundreds of engineers to help customers adopt its AI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-is-hiring-hundreds-of-engineers-to-help-customers-adopt-its-ai/",
+    "id": "news-1714"
+  },
+  {
+    "title": "AI startup Recursive emerges from stealth with $650 million to build self-improving AI",
+    "summary": "AI startup Recursive has officially emerged from stealth, calling recursive self-improvement the \"fastest path to superintelligence.\" The article AI startup Recursive emerges from stealth with $650 mi",
+    "content": "AI startup Recursive has officially emerged from stealth, calling recursive self-improvement the \"fastest path to superintelligence.\" The article AI startup Recursive emerges from stealth with $650 million to build self-improving AI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-startup-recursive-emerges-from-stealth-with-650-million-to-build-self-improving-ai/",
+    "id": "news-1713"
+  },
+  {
+    "title": "China's AI suppliers can't keep up as critical component shortages hit production",
+    "summary": "China's AI hardware suppliers can't keep up with surging demand because critical components are scarce and production capacity is lacking, Bloomberg reports. The article China's AI suppliers can't kee",
+    "content": "China's AI hardware suppliers can't keep up with surging demand because critical components are scarce and production capacity is lacking, Bloomberg reports. The article China's AI suppliers can't keep up as critical component shortages hit production appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chinas-ai-suppliers-cant-keep-up-as-critical-component-shortages-hit-production/",
+    "id": "news-1712"
+  },
+  {
+    "title": "Open-source AI modding tool for Rimworld (and soon Factorio)",
+    "summary": "Hi everyone,I'm an indie game developer and Rimworld fan. For the past month I've been working on a new tool for building & fixing Rimworld mods using AI: https://modmixer.com/Modmixer decompiles & in",
+    "content": "Hi everyone,I'm an indie game developer and Rimworld fan. For the past month I've been working on a new tool for building & fixing Rimworld mods using AI: https://modmixer.com/Modmixer decompiles & indexes all your game/DLC source code so the model can easily understand it (without costing as much as Claude!), it also launches the game, populates the debug palette, and monitors game logs for errors. When errors arrive it fixes them automatically and relaunches the game. Overall I think we can bu",
+    "author": "lebek",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48121901",
+    "id": "news-1711"
+  },
+  {
+    "title": "The US Is Winning the AI Race",
+    "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 3 # Comments: 0",
+    "content": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 3 # Comments: 0",
+    "author": "akrylov",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "id": "news-1710"
+  },
+  {
+    "title": "What if your AI could buy you a car?",
+    "summary": "Article URL: https://medium.com/@alex_21933/what-if-your-ai-could-actually-buy-you-a-car-7ba84bae4a55 Comments URL: https://news.ycombinator.com/item?id=48121946 Points: 1 # Comments: 1",
+    "content": "Article URL: https://medium.com/@alex_21933/what-if-your-ai-could-actually-buy-you-a-car-7ba84bae4a55 Comments URL: https://news.ycombinator.com/item?id=48121946 Points: 1 # Comments: 1",
+    "author": "yankouskia",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@alex_21933/what-if-your-ai-could-actually-buy-you-a-car-7ba84bae4a55",
+    "id": "news-1709"
+  },
+  {
+    "title": "Show HN: Promptcellar – capture every Claude Code prompt as JSONL in your repo",
+    "summary": "Article URL: https://github.com/dominiek/promptcellar-for-claude-code Comments URL: https://news.ycombinator.com/item?id=48121953 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/dominiek/promptcellar-for-claude-code Comments URL: https://news.ycombinator.com/item?id=48121953 Points: 3 # Comments: 0",
+    "author": "dominiek",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dominiek/promptcellar-for-claude-code",
+    "id": "news-1708"
+  },
+  {
+    "title": "Ask HN: What are you working on (non-AI)?",
+    "summary": "Please don't turn this into an inflammatory post.Regardless of \"AI\" being good or bad (it's not even just one thing as many of you know), I feel like the \"What are you working on?\" posts are drowning ",
+    "content": "Please don't turn this into an inflammatory post.Regardless of \"AI\" being good or bad (it's not even just one thing as many of you know), I feel like the \"What are you working on?\" posts are drowning in things that use AI for something and/or are clearly \"AI slop\".I'd like to look at things other humans have been doing (even if they used a bit of some kind of AI for assistance), that aren't a product or tool that uses AI for something.I know it exists (and I use and build some), but it's incredi",
+    "author": "BrunoBernardino",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48122103",
+    "id": "news-1707"
+  },
+  {
     "title": "From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era",
     "summary": "Pointer Engineering: Deepmind wants to turn the mouse cursor into the key variable in context engineering. The article From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor f",
     "content": "Pointer Engineering: Deepmind wants to turn the mouse cursor into the key variable in context engineering. The article From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era appeared first on The Decoder.",
