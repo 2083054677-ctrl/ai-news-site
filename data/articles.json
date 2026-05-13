@@ -1,5 +1,96 @@
 [
   {
+    "title": "Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data",
+    "summary": "Anthropic now leads OpenAI in B2B adoption for the first time, with 34.4 percent of US companies on the Ramp AI Index compared to OpenAI's 32.3 percent. Anthropic quadrupled its reach in just one year",
+    "content": "Anthropic now leads OpenAI in B2B adoption for the first time, with 34.4 percent of US companies on the Ramp AI Index compared to OpenAI's 32.3 percent. Anthropic quadrupled its reach in just one year, but three factors could erode that lead quickly. The article Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data/",
+    "id": "news-1729"
+  },
+  {
+    "title": "Tencent plans to ramp up AI spending as China's chip supply allegedly improves",
+    "summary": "Tencent plans to significantly boost AI infrastructure spending in the second half of 2026, as Chinese chipmakers ramp up domestic AI chip production. The company also posted strong first-quarter resu",
+    "content": "Tencent plans to significantly boost AI infrastructure spending in the second half of 2026, as Chinese chipmakers ramp up domestic AI chip production. The company also posted strong first-quarter results and is in talks for a stake in Deepseek. The article Tencent plans to ramp up AI spending as China's chip supply allegedly improves appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/tencent-plans-to-ramp-up-ai-spending-as-chinas-chip-supply-allegedly-improves/",
+    "id": "news-1728"
+  },
+  {
+    "title": "Claude Code weekly limits increasing 50% till July 13",
+    "summary": "Article URL: https://twitter.com/ClaudeDevs/status/2054639777685934564 Comments URL: https://news.ycombinator.com/item?id=48126429 Points: 1 # Comments: 2",
+    "content": "Article URL: https://twitter.com/ClaudeDevs/status/2054639777685934564 Comments URL: https://news.ycombinator.com/item?id=48126429 Points: 1 # Comments: 2",
+    "author": "mesmertech",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/ClaudeDevs/status/2054639777685934564",
+    "id": "news-1727"
+  },
+  {
+    "title": "New Claude Code programmatic usage restrictions",
+    "summary": "Article URL: https://twitter.com/i/status/2054610152817619388 Comments URL: https://news.ycombinator.com/item?id=48126438 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/i/status/2054610152817619388 Comments URL: https://news.ycombinator.com/item?id=48126438 Points: 3 # Comments: 0",
+    "author": "martinald",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/i/status/2054610152817619388",
+    "id": "news-1726"
+  },
+  {
+    "title": "AI as Social Technology",
+    "summary": "Article URL: https://knightcolumbia.org/content/ai-as-social-technology Comments URL: https://news.ycombinator.com/item?id=48126466 Points: 1 # Comments: 0",
+    "content": "Article URL: https://knightcolumbia.org/content/ai-as-social-technology Comments URL: https://news.ycombinator.com/item?id=48126466 Points: 1 # Comments: 0",
+    "author": "beepbooptheory",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://knightcolumbia.org/content/ai-as-social-technology",
+    "id": "news-1725"
+  },
+  {
+    "title": "How to Build Safe AI (Without Making the AI Safe)",
+    "summary": "Article URL: https://whattotelltherobot.com/p/how-to-build-safe-ai-without-making Comments URL: https://news.ycombinator.com/item?id=48126476 Points: 1 # Comments: 0",
+    "content": "Article URL: https://whattotelltherobot.com/p/how-to-build-safe-ai-without-making Comments URL: https://news.ycombinator.com/item?id=48126476 Points: 1 # Comments: 0",
+    "author": "stefie10",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://whattotelltherobot.com/p/how-to-build-safe-ai-without-making",
+    "id": "news-1724"
+  },
+  {
+    "title": "CC-Ledger: anatomy of your Claude Code spend",
+    "summary": "Article URL: https://ccledger.dev Comments URL: https://news.ycombinator.com/item?id=48126481 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ccledger.dev Comments URL: https://news.ycombinator.com/item?id=48126481 Points: 1 # Comments: 0",
+    "author": "tejpal-diffuse",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ccledger.dev",
+    "id": "news-1723"
+  },
+  {
     "title": "Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google",
     "summary": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and Op",
     "content": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and OpenAI. The API includes web search, built-in reasoning, and support for up to nine reference images. The article Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google appeared first on The Decoder.",
