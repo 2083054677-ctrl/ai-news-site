@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude programmatic usage get separate budget",
+    "summary": "Article URL: https://xcancel.com/ClaudeDevs/status/2054610152817619388 Comments URL: https://news.ycombinator.com/item?id=48127056 Points: 3 # Comments: 0",
+    "content": "Article URL: https://xcancel.com/ClaudeDevs/status/2054610152817619388 Comments URL: https://news.ycombinator.com/item?id=48127056 Points: 3 # Comments: 0",
+    "author": "willempienaar",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xcancel.com/ClaudeDevs/status/2054610152817619388",
+    "id": "news-1734"
+  },
+  {
+    "title": "Show HN: AICTL – A native AI agent for terminal and macOS, in Rust",
+    "summary": "Article URL: https://aictl.app Comments URL: https://news.ycombinator.com/item?id=48127081 Points: 2 # Comments: 1",
+    "content": "Article URL: https://aictl.app Comments URL: https://news.ycombinator.com/item?id=48127081 Points: 2 # Comments: 1",
+    "author": "piotrwittchen",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aictl.app",
+    "id": "news-1733"
+  },
+  {
+    "title": "Apple Is Quietly Building the Most Profitable AI Toll Booth",
+    "summary": "Article URL: https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth Comments URL: https://news.ycombinator.com/item?id=48127297 Points: 5 # Comments: 1",
+    "content": "Article URL: https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth Comments URL: https://news.ycombinator.com/item?id=48127297 Points: 5 # Comments: 1",
+    "author": "ndr42",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth",
+    "id": "news-1732"
+  },
+  {
+    "title": "I tested GPT-5.5, Claude Opus 4.7, and Gemini 3.1 Pro on financial-control",
+    "summary": "Article URL: https://albertquaisie.substack.com/p/i-tested-gpt-55-claude-opus-47-and Comments URL: https://news.ycombinator.com/item?id=48127471 Points: 1 # Comments: 0",
+    "content": "Article URL: https://albertquaisie.substack.com/p/i-tested-gpt-55-claude-opus-47-and Comments URL: https://news.ycombinator.com/item?id=48127471 Points: 1 # Comments: 0",
+    "author": "Aquaisie",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://albertquaisie.substack.com/p/i-tested-gpt-55-claude-opus-47-and",
+    "id": "news-1731"
+  },
+  {
+    "title": "Cisco to Cut Jobs in Shift to Capture More AI Demand",
+    "summary": "Article URL: https://www.wsj.com/business/earnings/cisco-to-cut-jobs-in-shift-to-capture-more-ai-demand-b99eeb21 Comments URL: https://news.ycombinator.com/item?id=48127540 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/business/earnings/cisco-to-cut-jobs-in-shift-to-capture-more-ai-demand-b99eeb21 Comments URL: https://news.ycombinator.com/item?id=48127540 Points: 1 # Comments: 0",
+    "author": "whatthesmack",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/business/earnings/cisco-to-cut-jobs-in-shift-to-capture-more-ai-demand-b99eeb21",
+    "id": "news-1730"
+  },
+  {
     "title": "Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data",
     "summary": "Anthropic now leads OpenAI in B2B adoption for the first time, with 34.4 percent of US companies on the Ramp AI Index compared to OpenAI's 32.3 percent. Anthropic quadrupled its reach in just one year",
     "content": "Anthropic now leads OpenAI in B2B adoption for the first time, with 34.4 percent of US companies on the Ramp AI Index compared to OpenAI's 32.3 percent. Anthropic quadrupled its reach in just one year, but three factors could erode that lead quickly. The article Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data appeared first on The Decoder.",
