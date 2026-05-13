@@ -1,5 +1,70 @@
 [
   {
+    "title": "Revisiting \"No Silver Bullets\" in the Age of AI",
+    "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the Comments URL: https://news.ycombinator.com/item?id=48116862 Points: 1 # Comments: 1",
+    "content": "Article URL: https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the Comments URL: https://news.ycombinator.com/item?id=48116862 Points: 1 # Comments: 1",
+    "author": "perpetua",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
+    "id": "news-1696"
+  },
+  {
+    "title": "Using LLM in the shebang line of a script",
+    "summary": "Article URL: https://til.simonwillison.net/llms/llm-shebang Comments URL: https://news.ycombinator.com/item?id=48116986 Points: 3 # Comments: 0",
+    "content": "Article URL: https://til.simonwillison.net/llms/llm-shebang Comments URL: https://news.ycombinator.com/item?id=48116986 Points: 3 # Comments: 0",
+    "author": "dnw",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://til.simonwillison.net/llms/llm-shebang",
+    "id": "news-1695"
+  },
+  {
+    "title": "Show HN: I spent $100 in Claude tokens and 1k battles training my AI tank",
+    "summary": "Hi HN, I built AgenTank.It is a small game where an AI agent writes the logic for your tank. You watch it fight, give strategic feedback, let the agent update the tank code, and send it back into batt",
+    "content": "Hi HN, I built AgenTank.It is a small game where an AI agent writes the logic for your tank. You watch it fight, give strategic feedback, let the agent update the tank code, and send it back into battle.I have run 1,000+ battles on my own tank and spent about $200 in Claude credits improving it. The part I enjoy most is not just winning, but watching the tank make visible mistakes, thinking of a better strategy, and seeing whether Claude can turn that into better code. Comments URL: https://news",
+    "author": "mazzystar",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentank.ai/history/mat_8v9fSEZE8295dcZ8U",
+    "id": "news-1694"
+  },
+  {
+    "title": "Self-hosted AI memory with web dashboard – Cloudflare Workers, D1, Vectorize",
+    "summary": "Article URL: https://github.com/rahilp/second-brain-cloudflare Comments URL: https://news.ycombinator.com/item?id=48117112 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/rahilp/second-brain-cloudflare Comments URL: https://news.ycombinator.com/item?id=48117112 Points: 1 # Comments: 0",
+    "author": "rahilpirani",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rahilp/second-brain-cloudflare",
+    "id": "news-1693"
+  },
+  {
+    "title": "Claude for Legal Launches",
+    "summary": "Article URL: https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/ Comments URL: https://news.ycombinator.com/item?id=48117129 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/ Comments URL: https://news.ycombinator.com/item?id=48117129 Points: 1 # Comments: 0",
+    "author": "msolujic",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/",
+    "id": "news-1692"
+  },
+  {
     "title": "Open Source Claude Code Offer to Help",
     "summary": "Hello I have some time after work and would like to offer to help use Claude Code for 1 specific (TBD) open source project that needs some help. No charge. I have finished all my personal projects (I'",
     "content": "Hello I have some time after work and would like to offer to help use Claude Code for 1 specific (TBD) open source project that needs some help. No charge. I have finished all my personal projects (I've literally pulled scraps of thoughts from my notes to create and finish other projects using Claude Code and now I'm (running dry) ready to help others) and have plenty of Claude Code tokens to use each month with the Max 20x plan. Does anyone out there have a good proposal for using Claude Code t",
