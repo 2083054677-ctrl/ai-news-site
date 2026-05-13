@@ -1,5 +1,109 @@
 [
   {
+    "title": "Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google",
+    "summary": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and Op",
+    "content": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and OpenAI. The API includes web search, built-in reasoning, and support for up to nine reference images. The article Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/luma-opens-uni-1-1-image-model-api-at-prices-and-quality-matching-openai-and-google/",
+    "id": "news-1722"
+  },
+  {
+    "title": "Anthropic launches Claude for Small Business to embed AI into the tools you forgot you pay for",
+    "summary": "Anthropic is launching \"Claude for Small Business,\" a package of 15 agent-based workflows and integrations for tools like QuickBooks, PayPal, and HubSpot. The company is also rolling out free training",
+    "content": "Anthropic is launching \"Claude for Small Business,\" a package of 15 agent-based workflows and integrations for tools like QuickBooks, PayPal, and HubSpot. The company is also rolling out free training courses and a workshop tour across ten US cities as it pushes to bring AI directly to small businesses. The article Anthropic launches Claude for Small Business to embed AI into the tools you forgot you pay for appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-launches-claude-for-small-business-to-embed-ai-into-the-tools-you-forgot-you-pay-for/",
+    "id": "news-1721"
+  },
+  {
+    "title": "Meta AI gets a private mode where no conversation data is stored on servers",
+    "summary": "Meta is rolling out \"Incognito Chat\" for Meta AI on WhatsApp and in the Meta AI app. According to Mark Zuckerberg, conversations are processed in a protected server environment that even Meta can't ac",
+    "content": "Meta is rolling out \"Incognito Chat\" for Meta AI on WhatsApp and in the Meta AI app. According to Mark Zuckerberg, conversations are processed in a protected server environment that even Meta can't access, and chat histories disappear when the session ends. Zuckerberg claims Meta is the first AI lab to offer this level of private AI usage. The article Meta AI gets a private mode where no conversation data is stored on servers appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-ai-gets-a-private-mode-where-no-conversation-data-is-stored-on-servers/",
+    "id": "news-1720"
+  },
+  {
+    "title": "Show HN: Claude MCP to Fitness Tracker",
+    "summary": "would love feedback on my latest connection to claude. build workout programs in claude and push to fitness tracker. https://keegnation.fit/guide#claude-overview Comments URL: https://news.ycombinator",
+    "content": "would love feedback on my latest connection to claude. build workout programs in claude and push to fitness tracker. https://keegnation.fit/guide#claude-overview Comments URL: https://news.ycombinator.com/item?id=48124930 Points: 1 # Comments: 0",
+    "author": "KeegNation",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://keegnation.fit/",
+    "id": "news-1719"
+  },
+  {
+    "title": "Show HN: Claude Code plugin for two-way HTML artifact generation",
+    "summary": "You may have read Thariq's article \"The unreasonable effectiveness of HTML\"This plugin implements the idea as Claude Skills, and adds a new ability: Automatic submit into Claude Code, without the need",
+    "content": "You may have read Thariq's article \"The unreasonable effectiveness of HTML\"This plugin implements the idea as Claude Skills, and adds a new ability: Automatic submit into Claude Code, without the need to manually copy and paste.Installing the plugin has another benefit over \"tell Claude to make HTML\", since having it installed allows Claude to generate HTMLs on its own initiative, when it wants to show you something. Comments URL: https://news.ycombinator.com/item?id=48124955 Points: 1 # Comment",
+    "author": "tzafrir",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/f-labs-io/agent-html-skills",
+    "id": "news-1718"
+  },
+  {
+    "title": "World Models: Things That Matter in AI",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/ Comments URL: https://news.ycombinator.com/item?id=48125002 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/ Comments URL: https://news.ycombinator.com/item?id=48125002 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+    "id": "news-1717"
+  },
+  {
+    "title": "Show HN: Truly Typed – A writing app for the AI era",
+    "summary": "Hey everyone, this is deepan from trulytyped (https://trulytyped.com). I am building a document writing app which makes it extremely easy to figure out how a document was created.Now that any text can",
+    "content": "Hey everyone, this is deepan from trulytyped (https://trulytyped.com). I am building a document writing app which makes it extremely easy to figure out how a document was created.Now that any text can be AI generated, how do you tell if something was actually generated or composed. It is impossible to detect AI after a piece of text has been generated. No amount of watermarking, linguistic checks or vibe checks work consistently. The AI detectors that schools and journals use are easy to bypass.",
+    "author": "dwa3592",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://trulytyped.com/",
+    "id": "news-1716"
+  },
+  {
+    "title": "Show HN: Free Patronus – On-device firewall to monitor and control AI traffic",
+    "summary": "Article URL: https://patronus.studio/ Comments URL: https://news.ycombinator.com/item?id=48125192 Points: 1 # Comments: 0",
+    "content": "Article URL: https://patronus.studio/ Comments URL: https://news.ycombinator.com/item?id=48125192 Points: 1 # Comments: 0",
+    "author": "patronusprotect",
+    "date": "2026-05-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://patronus.studio/",
+    "id": "news-1715"
+  },
+  {
     "title": "Google is hiring hundreds of engineers to help customers adopt its AI",
     "summary": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult. The article Google is hiring hundreds of engineers to help customers adopt",
     "content": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult. The article Google is hiring hundreds of engineers to help customers adopt its AI appeared first on The Decoder.",
