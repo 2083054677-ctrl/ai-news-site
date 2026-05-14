@@ -1,5 +1,96 @@
 [
   {
+    "title": "Claude subscriptions get separate budgets for programmatic use, billed at full API prices",
+    "summary": "As of June 15, Anthropic is splitting programmatic Claude usage out of the existing subscription quota. Instead, subscribers get a dedicated monthly credit ranging from $20 to $200 depending on their ",
+    "content": "As of June 15, Anthropic is splitting programmatic Claude usage out of the existing subscription quota. Instead, subscribers get a dedicated monthly credit ranging from $20 to $200 depending on their plan. Going forward, SDK and third-party requests will be billed at full API rates rather than the subsidized flat rate they were previously counted against. The article Claude subscriptions get separate budgets for programmatic use, billed at full API prices appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-subscriptions-get-separate-budgets-for-programmatic-use-billed-at-full-api-prices/",
+    "id": "news-1750"
+  },
+  {
+    "title": "Microsoft's Edge Copilot can now read all your open tabs at once and write for you on LinkedIn",
+    "summary": "Microsoft is upgrading Edge's Copilot AI chatbot so it can read all open tabs at once, compare products, and summarize articles. New additions include long-term memory, a tool that turns tabs into AI ",
+    "content": "Microsoft is upgrading Edge's Copilot AI chatbot so it can read all open tabs at once, compare products, and summarize articles. New additions include long-term memory, a tool that turns tabs into AI podcasts, and a quiz mode. The article Microsoft's Edge Copilot can now read all your open tabs at once and write for you on LinkedIn appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-edge-copilot-can-now-read-all-your-open-tabs-at-once-and-write-for-you-on-linkedin/",
+    "id": "news-1749"
+  },
+  {
+    "title": "Claude Opus 4.7 leaks system prompt randomly",
+    "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1tcsec4/claude_opus_47_just_revealed_its_system_prompt/ Comments URL: https://news.ycombinator.com/item?id=48132996 Points: 2 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1tcsec4/claude_opus_47_just_revealed_its_system_prompt/ Comments URL: https://news.ycombinator.com/item?id=48132996 Points: 2 # Comments: 0",
+    "author": "ixeption",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/ClaudeAI/comments/1tcsec4/claude_opus_47_just_revealed_its_system_prompt/",
+    "id": "news-1748"
+  },
+  {
+    "title": "40-Year-Old System Analyzed with AI: It Turned Out to Have a Modern Architecture",
+    "summary": "Article URL: https://medium.com/@noborutakahashi/a-40-year-old-system-analyzed-with-ai-it-turned-out-to-have-a-modern-architecture-83751821bf5a Comments URL: https://news.ycombinator.com/item?id=48133",
+    "content": "Article URL: https://medium.com/@noborutakahashi/a-40-year-old-system-analyzed-with-ai-it-turned-out-to-have-a-modern-architecture-83751821bf5a Comments URL: https://news.ycombinator.com/item?id=48133058 Points: 1 # Comments: 0",
+    "author": "fragmede",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@noborutakahashi/a-40-year-old-system-analyzed-with-ai-it-turned-out-to-have-a-modern-architecture-83751821bf5a",
+    "id": "news-1747"
+  },
+  {
+    "title": "Avocado Studio – open-source AI content editor for Next.js sites",
+    "summary": "Article URL: https://docs.avocadostudio.dev Comments URL: https://news.ycombinator.com/item?id=48133069 Points: 1 # Comments: 0",
+    "content": "Article URL: https://docs.avocadostudio.dev Comments URL: https://news.ycombinator.com/item?id=48133069 Points: 1 # Comments: 0",
+    "author": "yury_h",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://docs.avocadostudio.dev",
+    "id": "news-1746"
+  },
+  {
+    "title": "Researchers say AI just broke every benchmark for autonomous cyber capability",
+    "summary": "Article URL: https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/ Comments URL: https://news.ycombinator.com/item?id=48133072 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/ Comments URL: https://news.ycombinator.com/item?id=48133072 Points: 1 # Comments: 0",
+    "author": "lschueller",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/",
+    "id": "news-1745"
+  },
+  {
+    "title": "Claude changes headless usage from June 15",
+    "summary": "Article URL: https://twitter.com/ClaudeDevs/status/2054610152817619388 Comments URL: https://news.ycombinator.com/item?id=48133139 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/ClaudeDevs/status/2054610152817619388 Comments URL: https://news.ycombinator.com/item?id=48133139 Points: 1 # Comments: 0",
+    "author": "tzmlab",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/ClaudeDevs/status/2054610152817619388",
+    "id": "news-1744"
+  },
+  {
     "title": "Vector embeddings are the wrong default for AI agent memory",
     "summary": "Article URL: https://memnode.dev/articles/agent-memory-vs-vector-db Comments URL: https://news.ycombinator.com/item?id=48131492 Points: 1 # Comments: 0",
     "content": "Article URL: https://memnode.dev/articles/agent-memory-vs-vector-db Comments URL: https://news.ycombinator.com/item?id=48131492 Points: 1 # Comments: 0",
