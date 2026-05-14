@@ -1,5 +1,57 @@
 [
   {
+    "title": "Our Partnership with Z.ai",
+    "summary": "Article URL: https://developer.puter.com/blog/puter-zai-annoucement/ Comments URL: https://news.ycombinator.com/item?id=48141057 Points: 1 # Comments: 0",
+    "content": "Article URL: https://developer.puter.com/blog/puter-zai-annoucement/ Comments URL: https://news.ycombinator.com/item?id=48141057 Points: 1 # Comments: 0",
+    "author": "ent101",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://developer.puter.com/blog/puter-zai-annoucement/",
+    "id": "news-1767"
+  },
+  {
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "summary": "Article URL: https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad Comments URL: https://news.ycombinator.com/item?id=48141086 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad Comments URL: https://news.ycombinator.com/item?id=48141086 Points: 3 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "id": "news-1766"
+  },
+  {
+    "title": "Show HN: Full Stack HQ – Claude.md and Agent Stack for Claude Code",
+    "summary": "Permission-first config kit for Claude Code and Google Antigravity IDE. Installs CLAUDE.md + GEMINI.md + 10 specialist agents + 28 skills with one command. MIT license. Comments URL: https://news.ycom",
+    "content": "Permission-first config kit for Claude Code and Google Antigravity IDE. Installs CLAUDE.md + GEMINI.md + 10 specialist agents + 28 skills with one command. MIT license. Comments URL: https://news.ycombinator.com/item?id=48141114 Points: 1 # Comments: 0",
+    "author": "sabahattink",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sabahattink/antigravity-fullstack-hq",
+    "id": "news-1765"
+  },
+  {
+    "title": "What It Will Take to Make AI Sustainable",
+    "summary": "Article URL: https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/ Comments URL: https://news.ycombinator.com/item?id=48141149 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/ Comments URL: https://news.ycombinator.com/item?id=48141149 Points: 1 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+    "id": "news-1764"
+  },
+  {
     "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
     "summary": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
     "content": "",
