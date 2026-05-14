@@ -1,5 +1,57 @@
 [
   {
+    "title": "Vector embeddings are the wrong default for AI agent memory",
+    "summary": "Article URL: https://memnode.dev/articles/agent-memory-vs-vector-db Comments URL: https://news.ycombinator.com/item?id=48131492 Points: 1 # Comments: 0",
+    "content": "Article URL: https://memnode.dev/articles/agent-memory-vs-vector-db Comments URL: https://news.ycombinator.com/item?id=48131492 Points: 1 # Comments: 0",
+    "author": "supercrafthost",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://memnode.dev/articles/agent-memory-vs-vector-db",
+    "id": "news-1743"
+  },
+  {
+    "title": "Multi-LLM AI trading agent harness",
+    "summary": "Article URL: https://github.com/achaljhawar/1rok Comments URL: https://news.ycombinator.com/item?id=48131506 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/achaljhawar/1rok Comments URL: https://news.ycombinator.com/item?id=48131506 Points: 1 # Comments: 0",
+    "author": "satoshiclad",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/achaljhawar/1rok",
+    "id": "news-1742"
+  },
+  {
+    "title": "How LLM Inference Works",
+    "summary": "Article URL: https://arpitbhayani.me/blogs/how-llm-inference-works/ Comments URL: https://news.ycombinator.com/item?id=48131823 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arpitbhayani.me/blogs/how-llm-inference-works/ Comments URL: https://news.ycombinator.com/item?id=48131823 Points: 1 # Comments: 0",
+    "author": "Hd1633",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arpitbhayani.me/blogs/how-llm-inference-works/",
+    "id": "news-1741"
+  },
+  {
+    "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42 Hobbyist Network",
+    "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48131847 Points: 2 # Comments: 0",
+    "content": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48131847 Points: 2 # Comments: 0",
+    "author": "csmantle",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "id": "news-1740"
+  },
+  {
     "title": "Open AI Floats Idea of Global AI Governance Body with US, China",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china Comments URL: https://news.ycombinator.com/item?id=48128304 Points: 2 # Co",
     "content": "Article URL: https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china Comments URL: https://news.ycombinator.com/item?id=48128304 Points: 2 # Comments: 0",
