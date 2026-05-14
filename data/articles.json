@@ -1,5 +1,97 @@
 [
   {
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "summary": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "id": "news-1763"
+  },
+  {
+    "title": "Americans would rather live next to a nuclear plant than an AI data center, Gallup poll finds",
+    "summary": "According to a new Gallup poll, 71 percent of Americans oppose building AI data centers near their homes, far more than the 53 percent who object to a nearby nuclear power plant. The top concerns are ",
+    "content": "According to a new Gallup poll, 71 percent of Americans oppose building AI data centers near their homes, far more than the 53 percent who object to a nearby nuclear power plant. The top concerns are high water and energy use, pollution, and rising utility costs. The article Americans would rather live next to a nuclear plant than an AI data center, Gallup poll finds appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/americans-would-rather-live-next-to-a-nuclear-plant-than-an-ai-data-center-gallup-poll-finds/",
+    "id": "news-1762"
+  },
+  {
+    "title": "2028: Two scenarios for global AI leadership",
+    "summary": "Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48139587 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48139587 Points: 3 # Comments: 0",
+    "author": "mmq",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/research/2028-ai-leadership",
+    "id": "news-1761"
+  },
+  {
+    "title": "The Main Path to Creative AI",
+    "summary": "Article URL: https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai Comments URL: https://news.ycombinator.com/item?id=48139716 Points: 1 # Comments: 0",
+    "content": "Article URL: https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai Comments URL: https://news.ycombinator.com/item?id=48139716 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai",
+    "id": "news-1760"
+  },
+  {
+    "title": "Reject AI Prophecies, Free the Future",
+    "summary": "Article URL: https://projectlibertynewsletter.substack.com/p/reject-ai-prophecies-free-the-future Comments URL: https://news.ycombinator.com/item?id=48139802 Points: 2 # Comments: 0",
+    "content": "Article URL: https://projectlibertynewsletter.substack.com/p/reject-ai-prophecies-free-the-future Comments URL: https://news.ycombinator.com/item?id=48139802 Points: 2 # Comments: 0",
+    "author": "jackbravo",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://projectlibertynewsletter.substack.com/p/reject-ai-prophecies-free-the-future",
+    "id": "news-1759"
+  },
+  {
+    "title": "Show HN: Claude-stash – an idea queue for Claude Code",
+    "summary": "Article URL: https://github.com/AmirSoleimani/claude-stash Comments URL: https://news.ycombinator.com/item?id=48139837 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/AmirSoleimani/claude-stash Comments URL: https://news.ycombinator.com/item?id=48139837 Points: 2 # Comments: 0",
+    "author": "Amirso",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AmirSoleimani/claude-stash",
+    "id": "news-1758"
+  },
+  {
+    "title": "Safety‑First AI Architecture",
+    "summary": "Article URL: https://github.com/ElviCore/ElviCore Comments URL: https://news.ycombinator.com/item?id=48140035 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ElviCore/ElviCore Comments URL: https://news.ycombinator.com/item?id=48140035 Points: 2 # Comments: 0",
+    "author": "jweng",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ElviCore/ElviCore",
+    "id": "news-1757"
+  },
+  {
     "title": "Unlocking asynchronicity in continuous batching",
     "summary": "Unlocking asynchronicity in continuous batching",
     "content": "",
