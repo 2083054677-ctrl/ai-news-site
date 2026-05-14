@@ -1,5 +1,44 @@
 [
   {
+    "title": "New Claude Mythos becomes the first AI model to clear all cyberattack simulations from Britain's AI safety agency",
+    "summary": "The UK's AI Security Institute has revised its estimate of how fast AI cyber capabilities are doubling—twice. First from eight months down to 4.7, and now Anthropic's Claude Mythos Preview and OpenAI'",
+    "content": "The UK's AI Security Institute has revised its estimate of how fast AI cyber capabilities are doubling—twice. First from eight months down to 4.7, and now Anthropic's Claude Mythos Preview and OpenAI's GPT-5.5 have blown past even that accelerated timeline. Mythos is the first model to clear all of AISI's attack simulations. Anthropic's head of red teaming, Logan Graham, warns, \"Within a year, Mythos will probably look quite dumb.\" The article New Claude Mythos becomes the first AI model to clea",
+    "author": "Matthias Bastian",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-claude-mythos-becomes-the-first-ai-model-to-clear-all-cyberattack-simulations-from-britains-ai-safety-agency/",
+    "id": "news-1753"
+  },
+  {
+    "title": "ChatGPT's web traffic share dropped from 78% to 54% in one year as Gemini quietly tripled its reach",
+    "summary": "ChatGPT's website traffic share dropped from 77.6% to 53.7% in just twelve months, according to Similarweb. Google Gemini is the biggest winner, jumping from 7.3% to 26.7%. The numbers only cover web ",
+    "content": "ChatGPT's website traffic share dropped from 77.6% to 53.7% in just twelve months, according to Similarweb. Google Gemini is the biggest winner, jumping from 7.3% to 26.7%. The numbers only cover web traffic, though, not API usage or apps. The article ChatGPT's web traffic share dropped from 78% to 54% in one year as Gemini quietly tripled its reach appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpts-web-traffic-share-dropped-from-78-to-54-in-one-year-as-gemini-quietly-tripled-its-reach/",
+    "id": "news-1752"
+  },
+  {
+    "title": "Alibaba's Qwen-Image-2.0 doubles compression and cuts generation steps from 40 to 4",
+    "summary": "Alibaba's technical report on Qwen-Image-2.0 breaks down how the image model compresses images twice as aggressively as most competitors, stabilizes training with a reworked transformer, and uses a de",
+    "content": "Alibaba's technical report on Qwen-Image-2.0 breaks down how the image model compresses images twice as aggressively as most competitors, stabilizes training with a reworked transformer, and uses a dedicated module that automatically expands short user input into detailed prompts. A distilled version needs just four denoising steps instead of 40. On LMArena, a platform where users run blind comparisons, Qwen-Image-2.0 currently ranks 9th. The article Alibaba's Qwen-Image-2.0 doubles compression ",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-qwen-image-2-0-doubles-compression-and-cuts-generation-steps-from-40-to-4/",
+    "id": "news-1751"
+  },
+  {
     "title": "Claude subscriptions get separate budgets for programmatic use, billed at full API prices",
     "summary": "As of June 15, Anthropic is splitting programmatic Claude usage out of the existing subscription quota. Instead, subscribers get a dedicated monthly credit ranging from $20 to $200 depending on their ",
     "content": "As of June 15, Anthropic is splitting programmatic Claude usage out of the existing subscription quota. Instead, subscribers get a dedicated monthly credit ranging from $20 to $200 depending on their plan. Going forward, SDK and third-party requests will be billed at full API rates rather than the subsidized flat rate they were previously counted against. The article Claude subscriptions get separate budgets for programmatic use, billed at full API prices appeared first on The Decoder.",
