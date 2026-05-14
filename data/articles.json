@@ -1,5 +1,45 @@
 [
   {
+    "title": "Unlocking asynchronicity in continuous batching",
+    "summary": "Unlocking asynchronicity in continuous batching",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/continuous_async",
+    "id": "news-1756"
+  },
+  {
+    "title": "Ten Chinese firms including ByteDance reportedly get US clearance for AI chips they're not allowed to accept",
+    "summary": "The US has cleared roughly ten Chinese companies—including Alibaba, Tencent, and ByteDance—to buy up to 75,000 Nvidia H200 chips each. But not a single chip has shipped. According to Commerce Secretar",
+    "content": "The US has cleared roughly ten Chinese companies—including Alibaba, Tencent, and ByteDance—to buy up to 75,000 Nvidia H200 chips each. But not a single chip has shipped. According to Commerce Secretary Lutnick, Beijing is blocking the purchases to protect its domestic chip industry. The article Ten Chinese firms including ByteDance reportedly get US clearance for AI chips they're not allowed to accept appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ten-chinese-firms-including-bytedance-reportedly-get-us-clearance-for-ai-chips-theyre-not-allowed-to-accept/",
+    "id": "news-1755"
+  },
+  {
+    "title": "Microsoft pits more than 100 AI agents against each other to find Windows vulnerabilities",
+    "summary": "Microsoft has built MDASH, a system that pits more than 100 specialized AI agents against each other to find software vulnerabilities. On Patch Tuesday alone, the system uncovered 16 security flaws in",
+    "content": "Microsoft has built MDASH, a system that pits more than 100 specialized AI agents against each other to find software vulnerabilities. On Patch Tuesday alone, the system uncovered 16 security flaws in Windows, four of them critical. Microsoft isn't saying which AI models power the system. The article Microsoft pits more than 100 AI agents against each other to find Windows vulnerabilities appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-pits-more-than-100-ai-agents-against-each-other-to-find-windows-vulnerabilities/",
+    "id": "news-1754"
+  },
+  {
     "title": "New Claude Mythos becomes the first AI model to clear all cyberattack simulations from Britain's AI safety agency",
     "summary": "The UK's AI Security Institute has revised its estimate of how fast AI cyber capabilities are doubling—twice. First from eight months down to 4.7, and now Anthropic's Claude Mythos Preview and OpenAI'",
     "content": "The UK's AI Security Institute has revised its estimate of how fast AI cyber capabilities are doubling—twice. First from eight months down to 4.7, and now Anthropic's Claude Mythos Preview and OpenAI's GPT-5.5 have blown past even that accelerated timeline. Mythos is the first model to clear all of AISI's attack simulations. Anthropic's head of red teaming, Logan Graham, warns, \"Within a year, Mythos will probably look quite dumb.\" The article New Claude Mythos becomes the first AI model to clea",
