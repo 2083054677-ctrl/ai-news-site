@@ -1,5 +1,70 @@
 [
   {
+    "title": "First AI Solar EBike",
+    "summary": "Article URL: https://phosgo.com/ Comments URL: https://news.ycombinator.com/item?id=48153420 Points: 1 # Comments: 0",
+    "content": "Article URL: https://phosgo.com/ Comments URL: https://news.ycombinator.com/item?id=48153420 Points: 1 # Comments: 0",
+    "author": "aziaziazi",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://phosgo.com/",
+    "id": "news-1799"
+  },
+  {
+    "title": "AI Tool Development Opportunity",
+    "summary": "Article URL: https://news.novonavis.com/smb/dental-practices/orthodontic-solo-small-group-practices/ai-intake-and-lead-qualification Comments URL: https://news.ycombinator.com/item?id=48153461 Points:",
+    "content": "Article URL: https://news.novonavis.com/smb/dental-practices/orthodontic-solo-small-group-practices/ai-intake-and-lead-qualification Comments URL: https://news.ycombinator.com/item?id=48153461 Points: 1 # Comments: 0",
+    "author": "capagg",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.novonavis.com/smb/dental-practices/orthodontic-solo-small-group-practices/ai-intake-and-lead-qualification",
+    "id": "news-1798"
+  },
+  {
+    "title": "My AI converted to Judaism. The other one picked Christianity. Same prompt",
+    "summary": "Article URL: https://askthebooks.com/agents Comments URL: https://news.ycombinator.com/item?id=48153517 Points: 2 # Comments: 0",
+    "content": "Article URL: https://askthebooks.com/agents Comments URL: https://news.ycombinator.com/item?id=48153517 Points: 2 # Comments: 0",
+    "author": "kiroxan",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://askthebooks.com/agents",
+    "id": "news-1797"
+  },
+  {
+    "title": "Show HN: SwarmWright, structured multi-agent AI defined in markdowns",
+    "summary": "I had a bunch of custom AI pipelines and a growing folder of markdown files and Python scripts holding it together. Built this to give that chaos some structure.Agents are markdown files, topology is ",
+    "content": "I had a bunch of custom AI pipelines and a growing folder of markdown files and Python scripts holding it together. Built this to give that chaos some structure.Agents are markdown files, topology is a JSON file the runtime enforces hard. The agents are still fully autonomous: they make their own decisions, but the graph they operate in isn't. You declare who can call whom upfront and the runtime holds that line.No auth yet, fine if you don't expose the port, i guess. Two Docker commands to run ",
+    "author": "ralphbarendse",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.swarmwright.com/",
+    "id": "news-1796"
+  },
+  {
+    "title": "Ask HN: Has Claude started encouraging you to take a break?",
+    "summary": "It seems like every session Claude starts suggesting \"maybe we should end this session for now\" and I'm not sure if it's something I entered into its context or it's a deliberate tactics to cut down o",
+    "content": "It seems like every session Claude starts suggesting \"maybe we should end this session for now\" and I'm not sure if it's something I entered into its context or it's a deliberate tactics to cut down on my usage. I'm not anywhere near my limits (less than 15%) so it just seems weird to me. Is this happening to anyone else? Comments URL: https://news.ycombinator.com/item?id=48153640 Points: 1 # Comments: 0",
+    "author": "BoardsOfCanada",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48153640",
+    "id": "news-1795"
+  },
+  {
     "title": "ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout",
     "summary": "OpenAI is turning ChatGPT into a personal financial assistant. Pro users in the US can now connect their bank accounts through Plaid to get personalized analysis based on real transaction data. The fe",
     "content": "OpenAI is turning ChatGPT into a personal financial assistant. Pro users in the US can now connect their bank accounts through Plaid to get personalized analysis based on real transaction data. The feature runs on GPT-5.5 Thinking and will eventually roll out to all users. OpenAI warns the chatbot is still not a licensed financial advisor. The article ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout appeared first on The Decoder.",
