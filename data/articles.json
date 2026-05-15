@@ -1,5 +1,83 @@
 [
   {
+    "title": "x.AI plays catch-up with Grok Build, its first terminal-based coding agent",
+    "summary": "Elon Musk's AI company x.AI is jumping into the coding agent space with Grok Build, a new terminal-based tool. The article x.AI plays catch-up with Grok Build, its first terminal-based coding agent ap",
+    "content": "Elon Musk's AI company x.AI is jumping into the coding agent space with Grok Build, a new terminal-based tool. The article x.AI plays catch-up with Grok Build, its first terminal-based coding agent appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/x-ai-plays-catch-up-with-grok-build-its-first-terminal-based-coding-agent/",
+    "id": "news-1781"
+  },
+  {
+    "title": "UK firms should take steps to limit risks from frontier AI models, UK says",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/uk-firms-should-take-steps-limit-risks-frontier-ai-models-uk-says-2026-05-15/ Comments URL: https://news.ycombinator.com/item?id=48149783 Points: ",
+    "content": "Article URL: https://www.reuters.com/legal/litigation/uk-firms-should-take-steps-limit-risks-frontier-ai-models-uk-says-2026-05-15/ Comments URL: https://news.ycombinator.com/item?id=48149783 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/litigation/uk-firms-should-take-steps-limit-risks-frontier-ai-models-uk-says-2026-05-15/",
+    "id": "news-1780"
+  },
+  {
+    "title": "Anthropic's Bun Rust rewrite merged at speed of AI",
+    "summary": "Article URL: https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/5240381 Comments URL: https://news.ycombinator.com/item?id=48149798 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/5240381 Comments URL: https://news.ycombinator.com/item?id=48149798 Points: 2 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/5240381",
+    "id": "news-1779"
+  },
+  {
+    "title": "Comparing Context Retrieval Approaches for AI Code Review",
+    "summary": "Article URL: https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=48150123 Points: 1 # Comments: 0",
+    "content": "Article URL: https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=48150123 Points: 1 # Comments: 0",
+    "author": "adzicg",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/",
+    "id": "news-1778"
+  },
+  {
+    "title": "Transfa – ephemeral file transfer for CI/CD pipelines and AI agents",
+    "summary": "Article URL: https://transfa.sh/ Comments URL: https://news.ycombinator.com/item?id=48150172 Points: 1 # Comments: 0",
+    "content": "Article URL: https://transfa.sh/ Comments URL: https://news.ycombinator.com/item?id=48150172 Points: 1 # Comments: 0",
+    "author": "colapsis",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://transfa.sh/",
+    "id": "news-1777"
+  },
+  {
+    "title": "Show HN: Revos – architecture checks for AI-generated code",
+    "summary": "Article URL: https://github.com/mattykry/revos Comments URL: https://news.ycombinator.com/item?id=48150186 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/mattykry/revos Comments URL: https://news.ycombinator.com/item?id=48150186 Points: 1 # Comments: 0",
+    "author": "Mattykry",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mattykry/revos",
+    "id": "news-1776"
+  },
+  {
     "title": "Arxiv cracks down on unchecked AI-generated content in research papers",
     "summary": "Arxiv, the influential preprint server where researchers worldwide publish their work before formal peer review, is tightening its rules on AI-generated content. The article Arxiv cracks down on unche",
     "content": "Arxiv, the influential preprint server where researchers worldwide publish their work before formal peer review, is tightening its rules on AI-generated content. The article Arxiv cracks down on unchecked AI-generated content in research papers appeared first on The Decoder.",
