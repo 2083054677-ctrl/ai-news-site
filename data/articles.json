@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time",
+    "summary": "Anthropic is raising another $30 billion just three months after a round of the same size. The AI lab's valuation jumps to $900 billion, surpassing rival OpenAI for the first time. Fueling the surge: ",
+    "content": "Anthropic is raising another $30 billion just three months after a round of the same size. The AI lab's valuation jumps to $900 billion, surpassing rival OpenAI for the first time. Fueling the surge: annualized revenue approaching $45 billion, a fivefold increase since the end of 2024. The article Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/",
+    "id": "news-1787"
+  },
+  {
+    "title": "Greg Brockman Officially Takes Control of OpenAI's Products in Latest Shakeup",
+    "summary": "Article URL: https://www.wired.com/story/openai-reorg-greg-brockman-product/ Comments URL: https://news.ycombinator.com/item?id=48151312 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/openai-reorg-greg-brockman-product/ Comments URL: https://news.ycombinator.com/item?id=48151312 Points: 2 # Comments: 0",
+    "author": "ent101",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "id": "news-1786"
+  },
+  {
+    "title": "From PDFs to AI-ready structured data: a deep dive (2024)",
+    "summary": "Article URL: https://explosion.ai/blog/pdfs-nlp-structured-data Comments URL: https://news.ycombinator.com/item?id=48151371 Points: 1 # Comments: 0",
+    "content": "Article URL: https://explosion.ai/blog/pdfs-nlp-structured-data Comments URL: https://news.ycombinator.com/item?id=48151371 Points: 1 # Comments: 0",
+    "author": "Tomte",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://explosion.ai/blog/pdfs-nlp-structured-data",
+    "id": "news-1785"
+  },
+  {
+    "title": "EY retracts study after researchers discover AI hallucinations",
+    "summary": "Article URL: https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e Comments URL: https://news.ycombinator.com/item?id=48151456 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e Comments URL: https://news.ycombinator.com/item?id=48151456 Points: 1 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e",
+    "id": "news-1784"
+  },
+  {
+    "title": "OpenAI's KOSA Endorsement Is Regulatory Capture with a Smiley Face",
+    "summary": "Article URL: https://www.techdirt.com/2026/05/14/openais-kosa-endorsement-is-regulatory-capture-with-a-smiley-face/ Comments URL: https://news.ycombinator.com/item?id=48151464 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.techdirt.com/2026/05/14/openais-kosa-endorsement-is-regulatory-capture-with-a-smiley-face/ Comments URL: https://news.ycombinator.com/item?id=48151464 Points: 1 # Comments: 0",
+    "author": "repelsteeltje",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.techdirt.com/2026/05/14/openais-kosa-endorsement-is-regulatory-capture-with-a-smiley-face/",
+    "id": "news-1783"
+  },
+  {
+    "title": "Linus Torvalds declares AI-fueled code surges as the new normal",
+    "summary": "Article URL: https://www.neowin.net/news/linus-torvalds-declares-massive-ai-fueled-code-surges-as-the-new-normal-for-linux/ Comments URL: https://news.ycombinator.com/item?id=48151471 Points: 1 # Comm",
+    "content": "Article URL: https://www.neowin.net/news/linus-torvalds-declares-massive-ai-fueled-code-surges-as-the-new-normal-for-linux/ Comments URL: https://news.ycombinator.com/item?id=48151471 Points: 1 # Comments: 0",
+    "author": "ell1e",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.neowin.net/news/linus-torvalds-declares-massive-ai-fueled-code-surges-as-the-new-normal-for-linux/",
+    "id": "news-1782"
+  },
+  {
     "title": "x.AI plays catch-up with Grok Build, its first terminal-based coding agent",
     "summary": "Elon Musk's AI company x.AI is jumping into the coding agent space with Grok Build, a new terminal-based tool. The article x.AI plays catch-up with Grok Build, its first terminal-based coding agent ap",
     "content": "Elon Musk's AI company x.AI is jumping into the coding agent space with Grok Build, a new terminal-based tool. The article x.AI plays catch-up with Grok Build, its first terminal-based coding agent appeared first on The Decoder.",
