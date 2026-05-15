@@ -1,5 +1,70 @@
 [
   {
+    "title": "Google says generative AI visibility is still SEO",
+    "summary": "Article URL: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide Comments URL: https://news.ycombinator.com/item?id=48154387 Points: 2 # Comments: 0",
+    "content": "Article URL: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide Comments URL: https://news.ycombinator.com/item?id=48154387 Points: 2 # Comments: 0",
+    "author": "snoren",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+    "id": "news-1804"
+  },
+  {
+    "title": "Ask HN: Conductor vs. native Claude Code. Same single-agent performance?",
+    "summary": "Now that people have been running it for a few months, what's the verdict on single-agent performance vs native terminal Claude Code?One thing I noticed is that Conductor bundles its own (pinned) vers",
+    "content": "Now that people have been running it for a few months, what's the verdict on single-agent performance vs native terminal Claude Code?One thing I noticed is that Conductor bundles its own (pinned) version of Claude Code and Codex instead of using the latest one from your system. Does that bother anyone, or is it a non-issue? Comments URL: https://news.ycombinator.com/item?id=48154390 Points: 1 # Comments: 0",
+    "author": "nilen",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48154390",
+    "id": "news-1803"
+  },
+  {
+    "title": "Linux Kernel Adds Documentation What Qualifies as Security Bug, Responsible AI",
+    "summary": "Article URL: https://www.phoronix.com/news/Linux-7.1-Kernel-Docs-AI-Bugs Comments URL: https://news.ycombinator.com/item?id=48154840 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.phoronix.com/news/Linux-7.1-Kernel-Docs-AI-Bugs Comments URL: https://news.ycombinator.com/item?id=48154840 Points: 2 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.phoronix.com/news/Linux-7.1-Kernel-Docs-AI-Bugs",
+    "id": "news-1802"
+  },
+  {
+    "title": "AI Builder Needs Work",
+    "summary": "Article URL: https://agenthiveinc.com/ Comments URL: https://news.ycombinator.com/item?id=48154848 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agenthiveinc.com/ Comments URL: https://news.ycombinator.com/item?id=48154848 Points: 1 # Comments: 0",
+    "author": "AgentHive",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agenthiveinc.com/",
+    "id": "news-1801"
+  },
+  {
+    "title": "Git is unprepared for the AI coding tsunami",
+    "summary": "Article URL: https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480 Comments URL: https://news.ycombinator.com/item?id=48154854 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480 Comments URL: https://news.ycombinator.com/item?id=48154854 Points: 1 # Comments: 1",
+    "author": "Bender",
+    "date": "2026-05-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+    "id": "news-1800"
+  },
+  {
     "title": "First AI Solar EBike",
     "summary": "Article URL: https://phosgo.com/ Comments URL: https://news.ycombinator.com/item?id=48153420 Points: 1 # Comments: 0",
     "content": "Article URL: https://phosgo.com/ Comments URL: https://news.ycombinator.com/item?id=48153420 Points: 1 # Comments: 0",
