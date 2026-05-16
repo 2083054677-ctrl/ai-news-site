@@ -1,5 +1,70 @@
 [
   {
+    "title": "Is AI putting graduates out of work already?",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already Comments URL: https://news.ycombinator.com/item?id=48161366 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already Comments URL: https://news.ycombinator.com/item?id=48161366 Points: 3 # Comments: 0",
+    "author": "Anon84",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already",
+    "id": "news-1839"
+  },
+  {
+    "title": "AI Sends a Grades into Overdrive",
+    "summary": "Article URL: https://www.axios.com/2026/05/16/ai-grade-inflation-college-classes Comments URL: https://news.ycombinator.com/item?id=48161402 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/05/16/ai-grade-inflation-college-classes Comments URL: https://news.ycombinator.com/item?id=48161402 Points: 4 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/05/16/ai-grade-inflation-college-classes",
+    "id": "news-1838"
+  },
+  {
+    "title": "With Its IPO Done, Cerebras Can Get Back to Pushing the AI Envelope",
+    "summary": "Article URL: https://www.nextplatform.com/compute/2026/05/15/with-its-ipo-done-cerebras-can-get-back-to-pushing-the-ai-envelope/5241317 Comments URL: https://news.ycombinator.com/item?id=48161491 Poin",
+    "content": "Article URL: https://www.nextplatform.com/compute/2026/05/15/with-its-ipo-done-cerebras-can-get-back-to-pushing-the-ai-envelope/5241317 Comments URL: https://news.ycombinator.com/item?id=48161491 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nextplatform.com/compute/2026/05/15/with-its-ipo-done-cerebras-can-get-back-to-pushing-the-ai-envelope/5241317",
+    "id": "news-1837"
+  },
+  {
+    "title": "Voice parsing using AI for calender app",
+    "summary": "Article URL: https://apps.apple.com/us/app/voxplan/id6761635850 Comments URL: https://news.ycombinator.com/item?id=48161654 Points: 2 # Comments: 1",
+    "content": "Article URL: https://apps.apple.com/us/app/voxplan/id6761635850 Comments URL: https://news.ycombinator.com/item?id=48161654 Points: 2 # Comments: 1",
+    "author": "suvirb",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.apple.com/us/app/voxplan/id6761635850",
+    "id": "news-1836"
+  },
+  {
+    "title": "Data-Centric AI Manifesto: How Data Quality Drives Modern AI",
+    "summary": "Article URL: https://www.mdpi.com/2079-9292/15/9/1913 Comments URL: https://news.ycombinator.com/item?id=48161686 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.mdpi.com/2079-9292/15/9/1913 Comments URL: https://news.ycombinator.com/item?id=48161686 Points: 2 # Comments: 0",
+    "author": "donato_malerba",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mdpi.com/2079-9292/15/9/1913",
+    "id": "news-1835"
+  },
+  {
     "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
     "summary": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin",
     "content": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much. The article New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously appeared first on The Decoder.",
