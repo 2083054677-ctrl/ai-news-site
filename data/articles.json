@@ -1,5 +1,57 @@
 [
   {
+    "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
+    "summary": "Article URL: https://github.com/chopratejas/headroom Comments URL: https://news.ycombinator.com/item?id=48155888 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/chopratejas/headroom Comments URL: https://news.ycombinator.com/item?id=48155888 Points: 2 # Comments: 0",
+    "author": "botacode",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/chopratejas/headroom",
+    "id": "news-1808"
+  },
+  {
+    "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=rUYP4C29yCw Comments URL: https://news.ycombinator.com/item?id=48155904 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=rUYP4C29yCw Comments URL: https://news.ycombinator.com/item?id=48155904 Points: 2 # Comments: 1",
+    "author": "devdoshi",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=rUYP4C29yCw",
+    "id": "news-1807"
+  },
+  {
+    "title": "Symposia AI",
+    "summary": "Article URL: https://www.trysymposiaai.com/landing Comments URL: https://news.ycombinator.com/item?id=48155946 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.trysymposiaai.com/landing Comments URL: https://news.ycombinator.com/item?id=48155946 Points: 2 # Comments: 1",
+    "author": "CarlosEdu",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.trysymposiaai.com/landing",
+    "id": "news-1806"
+  },
+  {
+    "title": "Used to manage a collection of AI workflows for a single vertical domain – Wasup",
+    "summary": "Article URL: https://github.com/EdwardJoke/Wasup Comments URL: https://news.ycombinator.com/item?id=48156103 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/EdwardJoke/Wasup Comments URL: https://news.ycombinator.com/item?id=48156103 Points: 1 # Comments: 1",
+    "author": "EdwardXie",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/EdwardJoke/Wasup",
+    "id": "news-1805"
+  },
+  {
     "title": "Google says generative AI visibility is still SEO",
     "summary": "Article URL: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide Comments URL: https://news.ycombinator.com/item?id=48154387 Points: 2 # Comments: 0",
     "content": "Article URL: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide Comments URL: https://news.ycombinator.com/item?id=48154387 Points: 2 # Comments: 0",
