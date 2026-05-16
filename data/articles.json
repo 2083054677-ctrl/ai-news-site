@@ -1,5 +1,83 @@
 [
   {
+    "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
+    "summary": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin",
+    "content": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much. The article New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
+    "id": "news-1834"
+  },
+  {
+    "title": "The world model that every AI godfather is racing to figure out",
+    "summary": "Article URL: https://fortune.com/2026/04/23/goldman-sachs-ai-world-model-missing-link/ Comments URL: https://news.ycombinator.com/item?id=48160562 Points: 1 # Comments: 2",
+    "content": "Article URL: https://fortune.com/2026/04/23/goldman-sachs-ai-world-model-missing-link/ Comments URL: https://news.ycombinator.com/item?id=48160562 Points: 1 # Comments: 2",
+    "author": "fcpguru",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/04/23/goldman-sachs-ai-world-model-missing-link/",
+    "id": "news-1833"
+  },
+  {
+    "title": "Ask HN: Do you still spend time maintaining Claude.md / AGENTS.md files?",
+    "summary": "For people using coding agents regularly: do you still invest time in repo-level instruction files like CLAUDE.md, AGENTS.md, etc.?It's not a surprise that you don't expect the rules there to be follo",
+    "content": "For people using coding agents regularly: do you still invest time in repo-level instruction files like CLAUDE.md, AGENTS.md, etc.?It's not a surprise that you don't expect the rules there to be followed even with less than 100 lines of changes. Yet still see folks like Karpathy post rules around with hundreds of stars.Tell me if you're still spending the effort of trying claude.md, and are they effective, what're you writing in it. Comments URL: https://news.ycombinator.com/item?id=48160604 Poi",
+    "author": "david_d8912",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48160604",
+    "id": "news-1832"
+  },
+  {
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "Article URL: https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/ Comments URL: https://news.ycombinator.com/item?id=48160655 Points: 1 # ",
+    "content": "Article URL: https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/ Comments URL: https://news.ycombinator.com/item?id=48160655 Points: 1 # Comments: 0",
+    "author": "mwexler",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "id": "news-1831"
+  },
+  {
+    "title": "Someone forked my repo, then submitted a PR written by Claude",
+    "summary": "Article URL: https://github.com/dacracot/Klondike3-Simulator/pull/53 Comments URL: https://news.ycombinator.com/item?id=48160674 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/dacracot/Klondike3-Simulator/pull/53 Comments URL: https://news.ycombinator.com/item?id=48160674 Points: 1 # Comments: 1",
+    "author": "dacracot",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dacracot/Klondike3-Simulator/pull/53",
+    "id": "news-1830"
+  },
+  {
+    "title": "Wow – these are the AI sources worth paying attention to",
+    "summary": "Article URL: https://fav0.com/en/2026-05-16/ Comments URL: https://news.ycombinator.com/item?id=48160716 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fav0.com/en/2026-05-16/ Comments URL: https://news.ycombinator.com/item?id=48160716 Points: 1 # Comments: 0",
+    "author": "Justin3go",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fav0.com/en/2026-05-16/",
+    "id": "news-1829"
+  },
+  {
     "title": "YouTube opens its deepfake face-swap detection tool to all adult creators",
     "summary": "YouTube is opening its Likeness Detection tool to all creators 18 and older. The system spots AI-generated face fakes in other users' videos and lets creators file removal requests directly through Yo",
     "content": "YouTube is opening its Likeness Detection tool to all creators 18 and older. The system spots AI-generated face fakes in other users' videos and lets creators file removal requests directly through YouTube Studio. Until now, the feature was limited to partner program members; now it's meant to protect smaller channels too. The article YouTube opens its deepfake face-swap detection tool to all adult creators appeared first on The Decoder.",
