@@ -1,5 +1,70 @@
 [
   {
+    "title": "A Pragmatic Beginner's Guide to Introducing AI to Your Engineering Workflow",
+    "summary": "Article URL: https://jeffammons.com/2026/05/05/a-pragmatic-beginners-guide-to-introducing-ai-to-your-engineering-workflow/ Comments URL: https://news.ycombinator.com/item?id=48163083 Points: 2 # Comme",
+    "content": "Article URL: https://jeffammons.com/2026/05/05/a-pragmatic-beginners-guide-to-introducing-ai-to-your-engineering-workflow/ Comments URL: https://news.ycombinator.com/item?id=48163083 Points: 2 # Comments: 0",
+    "author": "jammons",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jeffammons.com/2026/05/05/a-pragmatic-beginners-guide-to-introducing-ai-to-your-engineering-workflow/",
+    "id": "news-1849"
+  },
+  {
+    "title": "Show HN: Stoic AgentOS - Open-source operating system for AI agent fleets",
+    "summary": "Article URL: https://github.com/benjaminkernbaum-ux/stoic-agentos Comments URL: https://news.ycombinator.com/item?id=48163202 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/benjaminkernbaum-ux/stoic-agentos Comments URL: https://news.ycombinator.com/item?id=48163202 Points: 1 # Comments: 0",
+    "author": "bk0",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/benjaminkernbaum-ux/stoic-agentos",
+    "id": "news-1848"
+  },
+  {
+    "title": "ClickBook – Offline Android eReader with local LLM inference via llama.rn",
+    "summary": "Article URL: https://play.google.com/store/apps/details?id=com.clickbook.reader&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48163290 Points: 1 # Comments: 1",
+    "content": "Article URL: https://play.google.com/store/apps/details?id=com.clickbook.reader&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48163290 Points: 1 # Comments: 1",
+    "author": "elcooo",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.clickbook.reader&hl=en_US",
+    "id": "news-1847"
+  },
+  {
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/ Comments URL: https://news.ycombinator.com/item?id=48163392 Points: 18 # Comments: 9",
+    "content": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/ Comments URL: https://news.ycombinator.com/item?id=48163392 Points: 18 # Comments: 9",
+    "author": "bookofjoe",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "id": "news-1846"
+  },
+  {
+    "title": "LLM models are not ready for orchestrating many agents",
+    "summary": "Hi, i have been experimenting with many coding agents distributed in a tree like heirarchy. here is what i found: 1. current LLM models are not trained for orchestrating or managing multiple agents, t",
+    "content": "Hi, i have been experimenting with many coding agents distributed in a tree like heirarchy. here is what i found: 1. current LLM models are not trained for orchestrating or managing multiple agents, they prefer doing the work by themselves instead of outsourcing it. 2. you can prompt them to follow the given heirarchy but it is not perfect, main agent will stop the sub agent and perform the work by itself. 3. claude swarms was a feature, but it just does not work seamlessly, i don't want 10 agen",
+    "author": "daemon_9009",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48163477",
+    "id": "news-1845"
+  },
+  {
     "title": "AI agents make small companies bigger",
     "summary": "Article URL: https://text-incubation.com/ai-agents-make-small-companies-bigger?1 Comments URL: https://news.ycombinator.com/item?id=48162228 Points: 1 # Comments: 0",
     "content": "Article URL: https://text-incubation.com/ai-agents-make-small-companies-bigger?1 Comments URL: https://news.ycombinator.com/item?id=48162228 Points: 1 # Comments: 0",
