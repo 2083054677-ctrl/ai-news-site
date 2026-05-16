@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI face is taking over – and driving plastic surgeons crazy",
+    "summary": "Article URL: https://www.businessinsider.com/ai-generated-images-chatgpt-reshape-plastic-surgery-beauty-expectations-2026-5 Comments URL: https://news.ycombinator.com/item?id=48164072 Points: 2 # Comm",
+    "content": "Article URL: https://www.businessinsider.com/ai-generated-images-chatgpt-reshape-plastic-surgery-beauty-expectations-2026-5 Comments URL: https://news.ycombinator.com/item?id=48164072 Points: 2 # Comments: 0",
+    "author": "andreylangovoy",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/ai-generated-images-chatgpt-reshape-plastic-surgery-beauty-expectations-2026-5",
+    "id": "news-1854"
+  },
+  {
+    "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+    "summary": "Article URL: https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/ Comments URL: https://news.ycombinator.com/item?id=48164189 Points: 2 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/ Comments URL: https://news.ycombinator.com/item?id=48164189 Points: 2 # Comments: 0",
+    "author": "ent101",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+    "id": "news-1853"
+  },
+  {
+    "title": "OpenAI caught NPM supply chain chaos after employeedevices compromised",
+    "summary": "Article URL: https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019 Comments URL: https://news.ycombinator.com/item",
+    "content": "Article URL: https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019 Comments URL: https://news.ycombinator.com/item?id=48164196 Points: 3 # Comments: 0",
+    "author": "Timofeibu",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
+    "id": "news-1852"
+  },
+  {
+    "title": "Irst Apple M5 memory exploit discovered using Anthropic AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integri",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement Comments URL: https://news.ycombinator.com/item?id=48164199 Points: 1 # Comments: 0",
+    "author": "Timofeibu",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
+    "id": "news-1851"
+  },
+  {
+    "title": "I tried to make Claude make me money on Algora bounties (data and tool)",
+    "summary": "Article URL: https://github.com/ztc00/algora-scout/blob/main/POST.md Comments URL: https://news.ycombinator.com/item?id=48164229 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ztc00/algora-scout/blob/main/POST.md Comments URL: https://news.ycombinator.com/item?id=48164229 Points: 2 # Comments: 0",
+    "author": "ztc00",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
+    "id": "news-1850"
+  },
+  {
     "title": "A Pragmatic Beginner's Guide to Introducing AI to Your Engineering Workflow",
     "summary": "Article URL: https://jeffammons.com/2026/05/05/a-pragmatic-beginners-guide-to-introducing-ai-to-your-engineering-workflow/ Comments URL: https://news.ycombinator.com/item?id=48163083 Points: 2 # Comme",
     "content": "Article URL: https://jeffammons.com/2026/05/05/a-pragmatic-beginners-guide-to-introducing-ai-to-your-engineering-workflow/ Comments URL: https://news.ycombinator.com/item?id=48163083 Points: 2 # Comments: 0",
