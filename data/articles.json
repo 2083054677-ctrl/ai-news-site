@@ -1,5 +1,57 @@
 [
   {
+    "title": "Ask HN: Share concrete examples of benefits from AI usage",
+    "summary": "Would like to here from people who have used it to good effect, and in building or creating something that is useful or even better, used by others as well.What did AI make possible? Time reduction? E",
+    "content": "Would like to here from people who have used it to good effect, and in building or creating something that is useful or even better, used by others as well.What did AI make possible? Time reduction? Entirely new capabilities?Yes there are many times it doesn't work, but we have many examples of that. Genuinely looking for true positives here. Thanks! Comments URL: https://news.ycombinator.com/item?id=48156955 Points: 1 # Comments: 0",
+    "author": "ChaitanyaSai",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48156955",
+    "id": "news-1812"
+  },
+  {
+    "title": "Frosthyon: AI assistant for 3D and general workflows",
+    "summary": "Article URL: https://lumithyon.com Comments URL: https://news.ycombinator.com/item?id=48157022 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lumithyon.com Comments URL: https://news.ycombinator.com/item?id=48157022 Points: 1 # Comments: 0",
+    "author": "David_Founder",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lumithyon.com",
+    "id": "news-1811"
+  },
+  {
+    "title": "Tyouson – AI Practice tests for exams (www.tyouson.com)",
+    "summary": "I have been working on first version of Tyouson.Here AI will make practice tests will be made according to user exams.Tests will be similar to the syllabus and pattern of different Competitive exams.I",
+    "content": "I have been working on first version of Tyouson.Here AI will make practice tests will be made according to user exams.Tests will be similar to the syllabus and pattern of different Competitive exams.In case enough traction will come then I will expand to more exams, as of now I kept two exams in India for my MVP.How to use: https://www.loom.com/share/de1c1badec154b74b0ea3786c7797e2d Comments URL: https://news.ycombinator.com/item?id=48157046 Points: 1 # Comments: 0",
+    "author": "Jaiyesh_Paraste",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48157046",
+    "id": "news-1810"
+  },
+  {
+    "title": "OpenAI super PAC paying for an army of Twitter bots to engage with their content",
+    "summary": "Article URL: https://twitter.com/TheMidasProj/status/2055411833184399448 Comments URL: https://news.ycombinator.com/item?id=48157138 Points: 2 # Comments: 1",
+    "content": "Article URL: https://twitter.com/TheMidasProj/status/2055411833184399448 Comments URL: https://news.ycombinator.com/item?id=48157138 Points: 2 # Comments: 1",
+    "author": "pretext",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/TheMidasProj/status/2055411833184399448",
+    "id": "news-1809"
+  },
+  {
     "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
     "summary": "Article URL: https://github.com/chopratejas/headroom Comments URL: https://news.ycombinator.com/item?id=48155888 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/chopratejas/headroom Comments URL: https://news.ycombinator.com/item?id=48155888 Points: 2 # Comments: 0",
