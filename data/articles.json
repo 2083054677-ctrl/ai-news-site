@@ -1,5 +1,109 @@
 [
   {
+    "title": "Google says GEO and AEO are a myth and traditional SEO is all you need for AI search",
+    "summary": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name. In new documentation, the company disman",
+    "content": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name. In new documentation, the company dismantles common tactics like LLMS.txt files and content chunking, making it clear that AI search runs on the same ranking systems as traditional search. The article Google says GEO and AEO are a myth and traditional SEO is all you need for AI search appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search/",
+    "id": "news-1820"
+  },
+  {
+    "title": "Researchers train AI model that hits near-full performance with just 12.5 percent of its experts",
+    "summary": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types. That lets you strip out three-qu",
+    "content": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types. That lets you strip out three-quarters of the experts while losing only about one percentage point of performance, a step that could make MoE models practical for memory-constrained settings for the first time. The article Researchers train AI model that hits near-full performance with just 12.5 percent of its experts appeared fir",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/",
+    "id": "news-1819"
+  },
+  {
+    "title": "AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother",
+    "summary": "According to Menlo Ventures partner Deedy Das, about 10,000 people in Silicon Valley have amassed fortunes of over $20 million thanks to the AI boom at Anthropic, OpenAI, xAI, Meta, and Nvidia. Everyo",
+    "content": "According to Menlo Ventures partner Deedy Das, about 10,000 people in Silicon Valley have amassed fortunes of over $20 million thanks to the AI boom at Anthropic, OpenAI, xAI, Meta, and Nvidia. Everyone else feels left behind. Middle management feels hollowed out. Even the winners struggle with a \"profound lack of purpose.\" The article AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/",
+    "id": "news-1818"
+  },
+  {
+    "title": "Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop",
+    "summary": "Almost a year ago I started building A Dark Cave, a dark text-based browser game.The game intentionally avoids visuals and embraces minimalism.I use only text, symbols, and sounds to create atmosphere",
+    "content": "Almost a year ago I started building A Dark Cave, a dark text-based browser game.The game intentionally avoids visuals and embraces minimalism.I use only text, symbols, and sounds to create atmosphere and spark the player's imagination.From time to time, I think about adding graphics to my game, since it is one of the most common requests I get from players.I even made a post about what I call the AI Slop Temptation: https://www.reddit.com/r/incremental_games/comments/1tcs8ou/...From the comment",
+    "author": "julez_",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://a-dark-cave.com/",
+    "id": "news-1817"
+  },
+  {
+    "title": "N8n-MCP: AI assistants can now search and build n8n workflows",
+    "summary": "Article URL: https://github.com/czlonkowski/n8n-mcp Comments URL: https://news.ycombinator.com/item?id=48158368 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/czlonkowski/n8n-mcp Comments URL: https://news.ycombinator.com/item?id=48158368 Points: 1 # Comments: 0",
+    "author": "steveharing1",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/czlonkowski/n8n-mcp",
+    "id": "news-1816"
+  },
+  {
+    "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+    "summary": "Article URL: https://www.bbc.com/news/articles/clypr8p2lewo Comments URL: https://news.ycombinator.com/item?id=48158418 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/clypr8p2lewo Comments URL: https://news.ycombinator.com/item?id=48158418 Points: 2 # Comments: 0",
+    "author": "theanonymousone",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/clypr8p2lewo",
+    "id": "news-1815"
+  },
+  {
+    "title": "We Built SynapseKit: The Truth About Production LLM Frameworks",
+    "summary": "Article URL: https://medium.com/@engineersofai/why-we-built-synapsekit-the-truth-about-production-llm-frameworks-94214cc3a172 Comments URL: https://news.ycombinator.com/item?id=48158434 Points: 1 # Co",
+    "content": "Article URL: https://medium.com/@engineersofai/why-we-built-synapsekit-the-truth-about-production-llm-frameworks-94214cc3a172 Comments URL: https://news.ycombinator.com/item?id=48158434 Points: 1 # Comments: 0",
+    "author": "aminau",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@engineersofai/why-we-built-synapsekit-the-truth-about-production-llm-frameworks-94214cc3a172",
+    "id": "news-1814"
+  },
+  {
+    "title": "The Japanese companies minting money from AI",
+    "summary": "Article URL: https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai Comments URL: https://news.ycombinator.com/item?id=48158466 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai Comments URL: https://news.ycombinator.com/item?id=48158466 Points: 1 # Comments: 0",
+    "author": "sohkamyung",
+    "date": "2026-05-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai",
+    "id": "news-1813"
+  },
+  {
     "title": "Ask HN: Share concrete examples of benefits from AI usage",
     "summary": "Would like to here from people who have used it to good effect, and in building or creating something that is useful or even better, used by others as well.What did AI make possible? Time reduction? E",
     "content": "Would like to here from people who have used it to good effect, and in building or creating something that is useful or even better, used by others as well.What did AI make possible? Time reduction? Entirely new capabilities?Yes there are many times it doesn't work, but we have many examples of that. Genuinely looking for true positives here. Thanks! Comments URL: https://news.ycombinator.com/item?id=48156955 Points: 1 # Comments: 0",
