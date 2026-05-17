@@ -1,5 +1,44 @@
 [
   {
+    "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
+    "summary": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser.",
+    "content": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser. Co-founder Greg Brockman officially takes over product strategy. The article Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/greg-brockman-consolidates-openais-product-teams-to-build-an-agentic-future/",
+    "id": "news-1870"
+  },
+  {
+    "title": "My Thoughts on AI, Part 1: Fears, Opinions, and Mental Journey",
+    "summary": "Article URL: https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/ Comments URL: https://news.ycombinator.com/item?id=48167453 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/ Comments URL: https://news.ycombinator.com/item?id=48167453 Points: 1 # Comments: 0",
+    "author": "mavelikara",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/",
+    "id": "news-1869"
+  },
+  {
+    "title": "Why our AI agent needed a causal graph, not just a RAG database",
+    "summary": "Article URL: https://openyf.dev/blogs/world-model Comments URL: https://news.ycombinator.com/item?id=48167623 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openyf.dev/blogs/world-model Comments URL: https://news.ycombinator.com/item?id=48167623 Points: 1 # Comments: 0",
+    "author": "youelfedr",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openyf.dev/blogs/world-model",
+    "id": "news-1868"
+  },
+  {
     "title": "Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone",
     "summary": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps. Instead of relying on cloud cop",
     "content": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps. Instead of relying on cloud copies of the phone, the system uses local sensors; cloud compute only kicks in for reasoning. Tap paths get cloned as reusable skills, so the agent can jump straight to deeply nested app pages via deeplink next time around. The article Oppo open-sources Android AI agent X-OmniClaw that uses your camer",
