@@ -1,5 +1,57 @@
 [
   {
+    "title": "The AI water issue is fake",
+    "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 54 # Comments: 34",
+    "content": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 54 # Comments: 34",
+    "author": "shepherdjerred",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+    "id": "news-1888"
+  },
+  {
+    "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement Comments URL: https://news.ycombinator.com/item?id=48171852 Poin",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement Comments URL: https://news.ycombinator.com/item?id=48171852 Points: 2 # Comments: 0",
+    "author": "latexr",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+    "id": "news-1887"
+  },
+  {
+    "title": "Ask HN: How are you maintaining codebases and managing AI context for them?",
+    "summary": "I’m curious about the specific practices and tools that can be used to treat AI as a long-term maintainer. Repo links much appreciated Comments URL: https://news.ycombinator.com/item?id=48171885 Point",
+    "content": "I’m curious about the specific practices and tools that can be used to treat AI as a long-term maintainer. Repo links much appreciated Comments URL: https://news.ycombinator.com/item?id=48171885 Points: 1 # Comments: 0",
+    "author": "shambu2k",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48171885",
+    "id": "news-1886"
+  },
+  {
+    "title": "AI Needs Better Metaphors",
+    "summary": "Article URL: https://metedata.substack.com/p/011-ai-needs-better-metaphors Comments URL: https://news.ycombinator.com/item?id=48171947 Points: 2 # Comments: 0",
+    "content": "Article URL: https://metedata.substack.com/p/011-ai-needs-better-metaphors Comments URL: https://news.ycombinator.com/item?id=48171947 Points: 2 # Comments: 0",
+    "author": "young_mete",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://metedata.substack.com/p/011-ai-needs-better-metaphors",
+    "id": "news-1885"
+  },
+  {
     "title": "AI can fix the fragmented online public transport space",
     "summary": "Article URL: https://simianwords.bearblog.dev/ai-can-fix-the-fragmented-online-public-transport-space/ Comments URL: https://news.ycombinator.com/item?id=48170187 Points: 1 # Comments: 0",
     "content": "Article URL: https://simianwords.bearblog.dev/ai-can-fix-the-fragmented-online-public-transport-space/ Comments URL: https://news.ycombinator.com/item?id=48170187 Points: 1 # Comments: 0",
