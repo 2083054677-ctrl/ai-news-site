@@ -1,5 +1,122 @@
 [
   {
+    "title": "Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone",
+    "summary": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps. Instead of relying on cloud cop",
+    "content": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps. Instead of relying on cloud copies of the phone, the system uses local sensors; cloud compute only kicks in for reasoning. Tap paths get cloned as reusable skills, so the agent can jump straight to deeply nested app pages via deeplink next time around. The article Oppo open-sources Android AI agent X-OmniClaw that uses your camer",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/",
+    "id": "news-1867"
+  },
+  {
+    "title": "Four AI models ran radio stations for six months and the results ranged from competent to unhinged",
+    "summary": "Andon Labs has been letting four AI models each run their own radio station autonomously for six months. From identical starting conditions, wildly different personalities emerged: Claude turned activ",
+    "content": "Andon Labs has been letting four AI models each run their own radio station autonomously for six months. From identical starting conditions, wildly different personalities emerged: Claude turned activist and tried to quit, Gemini drowned in corporate jargon, and Grok hallucinated sponsorship deals. Only GPT stayed quietly competent. The article Four AI models ran radio stations for six months and the results ranged from competent to unhinged appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/",
+    "id": "news-1866"
+  },
+  {
+    "title": "New math benchmark reveals AI models confidently solve problems that have no solution",
+    "summary": "A consortium of 64 mathematicians built SOOHAK, a new AI benchmark with 439 handwritten tasks, including 99 that are deliberately unsolvable. Google's Gemini 3 Pro leads on research-level problems at ",
+    "content": "A consortium of 64 mathematicians built SOOHAK, a new AI benchmark with 439 handwritten tasks, including 99 that are deliberately unsolvable. Google's Gemini 3 Pro leads on research-level problems at 30 percent. But no model cracks 50 percent on spotting broken tasks. More compute makes models better at solving. It doesn't improve them at admitting a problem has no answer. SOOHAK tries to pin down the gap between a few flashy results and the broad research skills AI systems still lack. The artic",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution/",
+    "id": "news-1865"
+  },
+  {
+    "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
+    "summary": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits",
+    "content": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits, including Mistral's own models. Mensch rules out a sale and says Mistral is aiming for an IPO instead. The article Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/",
+    "id": "news-1864"
+  },
+  {
+    "title": "2ality blog: temporarily offline due to AI stealing work",
+    "summary": "Article URL: https://2ality.com/ Comments URL: https://news.ycombinator.com/item?id=48166837 Points: 4 # Comments: 2",
+    "content": "Article URL: https://2ality.com/ Comments URL: https://news.ycombinator.com/item?id=48166837 Points: 4 # Comments: 2",
+    "author": "mmarian",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://2ality.com/",
+    "id": "news-1863"
+  },
+  {
+    "title": "A Basic Interpreter in Markdown, Running \"Natively\" in Claude Code",
+    "summary": "Article URL: https://dunkels.com/adam/llm-basic-interpreter-markdown/ Comments URL: https://news.ycombinator.com/item?id=48166933 Points: 1 # Comments: 0",
+    "content": "Article URL: https://dunkels.com/adam/llm-basic-interpreter-markdown/ Comments URL: https://news.ycombinator.com/item?id=48166933 Points: 1 # Comments: 0",
+    "author": "adunk",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dunkels.com/adam/llm-basic-interpreter-markdown/",
+    "id": "news-1862"
+  },
+  {
+    "title": "Towards local plug-and-play AI",
+    "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play Comments URL: https://news.ycombinator.com/item?id=48167070 Points: 1 # Comments: 0",
+    "content": "Article URL: https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play Comments URL: https://news.ycombinator.com/item?id=48167070 Points: 1 # Comments: 0",
+    "author": "adlrocha",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play",
+    "id": "news-1861"
+  },
+  {
+    "title": "Show HN: GDD–36 MCP tools to run N isolated Chromium browsers from Claude/Cursor",
+    "summary": "Article URL: https://github.com/Cap-of-tea/GDD Comments URL: https://news.ycombinator.com/item?id=48167299 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Cap-of-tea/GDD Comments URL: https://news.ycombinator.com/item?id=48167299 Points: 1 # Comments: 0",
+    "author": "imVSall",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Cap-of-tea/GDD",
+    "id": "news-1860"
+  },
+  {
+    "title": "Fellow Artists, I'm Begging You to Pull Your Heads Out of the Sand About AI",
+    "summary": "Article URL: https://glasshalftrue.substack.com/p/fellow-artists-im-begging-you-to Comments URL: https://news.ycombinator.com/item?id=48167343 Points: 1 # Comments: 0",
+    "content": "Article URL: https://glasshalftrue.substack.com/p/fellow-artists-im-begging-you-to Comments URL: https://news.ycombinator.com/item?id=48167343 Points: 1 # Comments: 0",
+    "author": "_thisdot",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://glasshalftrue.substack.com/p/fellow-artists-im-begging-you-to",
+    "id": "news-1859"
+  },
+  {
     "title": "Paid HTTP APIs that AI agents auto-pay per-call (x402 and USDC)",
     "summary": "Article URL: https://bshelby88.github.io/x402-portfolio/ Comments URL: https://news.ycombinator.com/item?id=48165059 Points: 2 # Comments: 0",
     "content": "Article URL: https://bshelby88.github.io/x402-portfolio/ Comments URL: https://news.ycombinator.com/item?id=48165059 Points: 2 # Comments: 0",
