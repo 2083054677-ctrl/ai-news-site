@@ -1,5 +1,57 @@
 [
   {
+    "title": "AI can fix the fragmented online public transport space",
+    "summary": "Article URL: https://simianwords.bearblog.dev/ai-can-fix-the-fragmented-online-public-transport-space/ Comments URL: https://news.ycombinator.com/item?id=48170187 Points: 1 # Comments: 0",
+    "content": "Article URL: https://simianwords.bearblog.dev/ai-can-fix-the-fragmented-online-public-transport-space/ Comments URL: https://news.ycombinator.com/item?id=48170187 Points: 1 # Comments: 0",
+    "author": "simianwords",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simianwords.bearblog.dev/ai-can-fix-the-fragmented-online-public-transport-space/",
+    "id": "news-1884"
+  },
+  {
+    "title": "Show HN: Kami Subs – Live AI subtitles overlay for any browser video",
+    "summary": "Article URL: https://github.com/MohammdKopa/kami-subs Comments URL: https://news.ycombinator.com/item?id=48170348 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/MohammdKopa/kami-subs Comments URL: https://news.ycombinator.com/item?id=48170348 Points: 2 # Comments: 1",
+    "author": "mohamedkeba",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MohammdKopa/kami-subs",
+    "id": "news-1883"
+  },
+  {
+    "title": "Show HN: Due Diligence Agents – 13 AI agents for M&A contract analysis",
+    "summary": "Article URL: https://github.com/zoharbabin/due-diligence-agents Comments URL: https://news.ycombinator.com/item?id=48170393 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/zoharbabin/due-diligence-agents Comments URL: https://news.ycombinator.com/item?id=48170393 Points: 1 # Comments: 0",
+    "author": "zoharbabin",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zoharbabin/due-diligence-agents",
+    "id": "news-1882"
+  },
+  {
+    "title": "Show HN: Agnt – Free open-source CLI to run any public or MIT-licensed AI agent",
+    "summary": "https://github.com/meajsinghk/agnt Comments URL: https://news.ycombinator.com/item?id=48170395 Points: 1 # Comments: 0",
+    "content": "https://github.com/meajsinghk/agnt Comments URL: https://news.ycombinator.com/item?id=48170395 Points: 1 # Comments: 0",
+    "author": "meajsinghk22",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48170395",
+    "id": "news-1881"
+  },
+  {
     "title": "World Action Models give robots the ability to simulate consequences before they move",
     "summary": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result",
     "content": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result. A new survey organizes about a hundred papers into two architectural lines and shows a key edge: these models can learn from everyday videos that contain no robot action labels. That kind of data was nearly useless for traditional robotics AI. The article World Action Models give robots the abilit",
