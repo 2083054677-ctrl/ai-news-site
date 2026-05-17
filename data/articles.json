@@ -1,5 +1,70 @@
 [
   {
+    "title": "World Action Models give robots the ability to simulate consequences before they move",
+    "summary": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result",
+    "content": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result. A new survey organizes about a hundred papers into two architectural lines and shows a key edge: these models can learn from everyday videos that contain no robot action labels. That kind of data was nearly useless for traditional robotics AI. The article World Action Models give robots the abilit",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/",
+    "id": "news-1880"
+  },
+  {
+    "title": "Pace Layers and AI Integration",
+    "summary": "Article URL: https://aicoding.leaflet.pub/3maob46kbz22v Comments URL: https://news.ycombinator.com/item?id=48168726 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aicoding.leaflet.pub/3maob46kbz22v Comments URL: https://news.ycombinator.com/item?id=48168726 Points: 1 # Comments: 0",
+    "author": "jt2190",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aicoding.leaflet.pub/3maob46kbz22v",
+    "id": "news-1879"
+  },
+  {
+    "title": "Show HN: A Claude Code skill that tells Claude when not to use Claude",
+    "summary": "Article URL: https://github.com/metravod/llm-buster-skill Comments URL: https://news.ycombinator.com/item?id=48168772 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/metravod/llm-buster-skill Comments URL: https://news.ycombinator.com/item?id=48168772 Points: 1 # Comments: 0",
+    "author": "metravod",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/metravod/llm-buster-skill",
+    "id": "news-1878"
+  },
+  {
+    "title": "Show HN: Gonfire – analyze Claude Code session logs to see how candidates think",
+    "summary": "When I graduated from a CS program in 2020, leetcode was basically a SWE entrance exam. Your ability to solve a coding puzzle thrown at you on the spot determined your fate.Recently, I’ve interviewed ",
+    "content": "When I graduated from a CS program in 2020, leetcode was basically a SWE entrance exam. Your ability to solve a coding puzzle thrown at you on the spot determined your fate.Recently, I’ve interviewed for a handful of “AI Engineer” positions at several startups and I noticed a shift in the format of technical assessments. Timed OAs and live leetcoding have been replaced with a “case study” format where AI use is encouraged. These were the two main patterns I saw:1. Take home: Candidate clones a g",
+    "author": "abr0ahm",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48169029",
+    "id": "news-1877"
+  },
+  {
+    "title": "Microsoft AI chief gives 18 months for whitecollar work to be automated by AI",
+    "summary": "Article URL: https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/ Comments URL: https://news.ycombinator.com/item?id=48169032 Points: 3 # Comments: 3",
+    "content": "Article URL: https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/ Comments URL: https://news.ycombinator.com/item?id=48169032 Points: 3 # Comments: 3",
+    "author": "RyeCombinator",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+    "id": "news-1876"
+  },
+  {
     "title": "Kaiden: Workstation AI Sandbox Desktop Application",
     "summary": "Article URL: https://openkaiden.ai/ Comments URL: https://news.ycombinator.com/item?id=48168046 Points: 1 # Comments: 1",
     "content": "Article URL: https://openkaiden.ai/ Comments URL: https://news.ycombinator.com/item?id=48168046 Points: 1 # Comments: 1",
