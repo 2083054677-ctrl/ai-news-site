@@ -1,5 +1,70 @@
 [
   {
+    "title": "LeakyLM: AI Assistants Are Leaking Your Conversations",
+    "summary": "Article URL: https://leakylm.github.io/ Comments URL: https://news.ycombinator.com/item?id=48173635 Points: 1 # Comments: 0",
+    "content": "Article URL: https://leakylm.github.io/ Comments URL: https://news.ycombinator.com/item?id=48173635 Points: 1 # Comments: 0",
+    "author": "lucasluitjes",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://leakylm.github.io/",
+    "id": "news-1893"
+  },
+  {
+    "title": "Grounding AI shopping agents using personas learned from raw clickstream data",
+    "summary": "Article URL: https://arxiv.org/abs/2605.14205 Comments URL: https://news.ycombinator.com/item?id=48173669 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2605.14205 Comments URL: https://news.ycombinator.com/item?id=48173669 Points: 1 # Comments: 0",
+    "author": "memoriesdotzip",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2605.14205",
+    "id": "news-1892"
+  },
+  {
+    "title": "Court grants Musk's bid to add Craig Federighi to Apple/OpenAI lawsuit",
+    "summary": "Article URL: https://9to5mac.com/2026/05/15/court-grants-musks-bid-to-add-craig-federighi-to-apple-openai-lawsuit-spares-cook/ Comments URL: https://news.ycombinator.com/item?id=48173712 Points: 2 # C",
+    "content": "Article URL: https://9to5mac.com/2026/05/15/court-grants-musks-bid-to-add-craig-federighi-to-apple-openai-lawsuit-spares-cook/ Comments URL: https://news.ycombinator.com/item?id=48173712 Points: 2 # Comments: 0",
+    "author": "hdjY28",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://9to5mac.com/2026/05/15/court-grants-musks-bid-to-add-craig-federighi-to-apple-openai-lawsuit-spares-cook/",
+    "id": "news-1891"
+  },
+  {
+    "title": "EPI – forensic evidence containers for AI agentSCITT-compatible, EU AI Act-ready",
+    "summary": "Article URL: https://github.com/mohdibrahimaiml/epi-recorder Comments URL: https://news.ycombinator.com/item?id=48173736 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/mohdibrahimaiml/epi-recorder Comments URL: https://news.ycombinator.com/item?id=48173736 Points: 1 # Comments: 0",
+    "author": "afridi_epilabs",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mohdibrahimaiml/epi-recorder",
+    "id": "news-1890"
+  },
+  {
+    "title": "Meta AI Incognito Mode Chats",
+    "summary": "Article URL: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/ Comments URL: https://news.ycombinator.com/item?id=48173820 Points: 1 # Comments: 0",
+    "content": "Article URL: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/ Comments URL: https://news.ycombinator.com/item?id=48173820 Points: 1 # Comments: 0",
+    "author": "hdjY28",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
+    "id": "news-1889"
+  },
+  {
     "title": "The AI water issue is fake",
     "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 54 # Comments: 34",
     "content": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 54 # Comments: 34",
