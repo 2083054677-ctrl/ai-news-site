@@ -1,5 +1,70 @@
 [
   {
+    "title": "Kaiden: Workstation AI Sandbox Desktop Application",
+    "summary": "Article URL: https://openkaiden.ai/ Comments URL: https://news.ycombinator.com/item?id=48168046 Points: 1 # Comments: 1",
+    "content": "Article URL: https://openkaiden.ai/ Comments URL: https://news.ycombinator.com/item?id=48168046 Points: 1 # Comments: 1",
+    "author": "illusive4080",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openkaiden.ai/",
+    "id": "news-1875"
+  },
+  {
+    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 18 # Comments: 9",
+    "content": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 18 # Comments: 9",
+    "author": "mooreds",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "id": "news-1874"
+  },
+  {
+    "title": "I don't think AI will make your processes go faster",
+    "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 37 # Comments: 14",
+    "content": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 37 # Comments: 14",
+    "author": "TheEdonian",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "id": "news-1873"
+  },
+  {
+    "title": "WorkClarity – Free AI tools fo freelancers",
+    "summary": "Article URL: https://workclarity.co Comments URL: https://news.ycombinator.com/item?id=48168314 Points: 1 # Comments: 0",
+    "content": "Article URL: https://workclarity.co Comments URL: https://news.ycombinator.com/item?id=48168314 Points: 1 # Comments: 0",
+    "author": "bmackler",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://workclarity.co",
+    "id": "news-1872"
+  },
+  {
+    "title": "Stochastic Flocks and the Critical Problem of 'Useful' AI",
+    "summary": "Article URL: https://www.techpolicy.press/stochastic-flocks-and-the-critical-problem-of-useful-ai/ Comments URL: https://news.ycombinator.com/item?id=48168516 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.techpolicy.press/stochastic-flocks-and-the-critical-problem-of-useful-ai/ Comments URL: https://news.ycombinator.com/item?id=48168516 Points: 1 # Comments: 0",
+    "author": "bryanrasmussen",
+    "date": "2026-05-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.techpolicy.press/stochastic-flocks-and-the-critical-problem-of-useful-ai/",
+    "id": "news-1871"
+  },
+  {
     "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
     "summary": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser.",
     "content": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser. Co-founder Greg Brockman officially takes over product strategy. The article Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\" appeared first on The Decoder.",
