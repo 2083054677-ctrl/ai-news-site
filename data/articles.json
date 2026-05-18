@@ -1,5 +1,70 @@
 [
   {
+    "title": "ArXiv will ban authors for a year if they let AI do all the work",
+    "summary": "Article URL: https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/ Comments URL: https://news.ycombinator.com/item?id=48174730 Points:",
+    "content": "Article URL: https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/ Comments URL: https://news.ycombinator.com/item?id=48174730 Points: 1 # Comments: 0",
+    "author": "0in",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "id": "news-1898"
+  },
+  {
+    "title": "Most Americans don't trust AI – or the people in charge of it",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 1 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+    "id": "news-1897"
+  },
+  {
+    "title": "I went inside OpenAI's secretive San Francisco headquarters",
+    "summary": "Article URL: https://www.sfgate.com/tech/article/openai-san-francisco-headquarters-22259754.php Comments URL: https://news.ycombinator.com/item?id=48174831 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.sfgate.com/tech/article/openai-san-francisco-headquarters-22259754.php Comments URL: https://news.ycombinator.com/item?id=48174831 Points: 2 # Comments: 0",
+    "author": "bryan0",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sfgate.com/tech/article/openai-san-francisco-headquarters-22259754.php",
+    "id": "news-1896"
+  },
+  {
+    "title": "Slop Bucket Idea – a dataset of AI slop (train AI what not to do)",
+    "summary": "I just had this idea, you read it all the time AI slop is so prevalent people are getting banned for a year for submitting science papers to arXiv with it, moans of angst from developers, even Microso",
+    "content": "I just had this idea, you read it all the time AI slop is so prevalent people are getting banned for a year for submitting science papers to arXiv with it, moans of angst from developers, even Microsoft doing its own study where AI degrades the quality of simple documents, and the beloved em-dash.I don't really have the know-how or the time but it occurred to me, if we created a public data set that could be submitted to publicly, we could catalog and organize all the AI slop, the different type",
+    "author": "IAmNeo",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48174947",
+    "id": "news-1895"
+  },
+  {
+    "title": "AI Leak Watch: 435,608 potential AI API key matches in public GitHub code",
+    "summary": "Article URL: https://ai-keys-leaks.begimher.com/ Comments URL: https://news.ycombinator.com/item?id=48175054 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-keys-leaks.begimher.com/ Comments URL: https://news.ycombinator.com/item?id=48175054 Points: 1 # Comments: 0",
+    "author": "dan_l2",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-keys-leaks.begimher.com/",
+    "id": "news-1894"
+  },
+  {
     "title": "LeakyLM: AI Assistants Are Leaking Your Conversations",
     "summary": "Article URL: https://leakylm.github.io/ Comments URL: https://news.ycombinator.com/item?id=48173635 Points: 1 # Comments: 0",
     "content": "Article URL: https://leakylm.github.io/ Comments URL: https://news.ycombinator.com/item?id=48173635 Points: 1 # Comments: 0",
