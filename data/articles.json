@@ -1,5 +1,123 @@
 [
   {
+    "title": "The Open Agent Leaderboard",
+    "summary": "The Open Agent Leaderboard",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "id": "news-1913"
+  },
+  {
+    "title": "Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos",
+    "summary": "Anthropic will brief leading finance ministries and central banks on vulnerabilities in the global financial system's cyber defenses that its new AI model Claude Mythos Preview has uncovered. The arti",
+    "content": "Anthropic will brief leading finance ministries and central banks on vulnerabilities in the global financial system's cyber defenses that its new AI model Claude Mythos Preview has uncovered. The article Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/",
+    "id": "news-1912"
+  },
+  {
+    "title": "MAGA-aligned groups want government oversight of frontier AI models",
+    "summary": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI mode",
+    "content": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship. The article MAGA-aligned groups want government oversight of frontier AI models appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/",
+    "id": "news-1911"
+  },
+  {
+    "title": "A Stanford student reflects on his ChatGPT class and a culture of \"just a little bit of fraud\"",
+    "summary": "Stanford student Theo Baker describes in a guest essay for the New York Times how ChatGPT shaped his entire graduating class. His conclusion: AI turned an already existing culture of dishonesty at the",
+    "content": "Stanford student Theo Baker describes in a guest essay for the New York Times how ChatGPT shaped his entire graduating class. His conclusion: AI turned an already existing culture of dishonesty at the elite university into the default. The article A Stanford student reflects on his ChatGPT class and a culture of \"just a little bit of fraud\" appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/a-stanford-student-reflects-on-his-chatgpt-class-and-a-culture-of-just-a-little-bit-of-fraud/",
+    "id": "news-1910"
+  },
+  {
+    "title": "Reese Witherspoon encouraging moms to try AI",
+    "summary": "Article URL: https://twitter.com/garrytan/status/2056368178251596157 Comments URL: https://news.ycombinator.com/item?id=48180528 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/garrytan/status/2056368178251596157 Comments URL: https://news.ycombinator.com/item?id=48180528 Points: 1 # Comments: 0",
+    "author": "delichon",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/garrytan/status/2056368178251596157",
+    "id": "news-1909"
+  },
+  {
+    "title": "AI Passed the Turing Test but Failed the Watch Test",
+    "summary": "Article URL: https://blog.elmerdata.ai/analog-watch/ Comments URL: https://news.ycombinator.com/item?id=48180621 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.elmerdata.ai/analog-watch/ Comments URL: https://news.ycombinator.com/item?id=48180621 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.elmerdata.ai/analog-watch/",
+    "id": "news-1908"
+  },
+  {
+    "title": "Developments in LLM Architectures: KV Sharing, MHC, and Compressed Attention",
+    "summary": "Article URL: https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures Comments URL: https://news.ycombinator.com/item?id=48180627 Points: 4 # Comments: 0",
+    "content": "Article URL: https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures Comments URL: https://news.ycombinator.com/item?id=48180627 Points: 4 # Comments: 0",
+    "author": "ibobev",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "id": "news-1907"
+  },
+  {
+    "title": "A Reality Check on 2026's Most-Hyped \"AI Game Maker\" Tools",
+    "summary": "Article URL: https://medium.com/@chuanweipeng5/a-reality-check-on-2026s-most-hyped-ai-game-maker-tools-489a41730e2b Comments URL: https://news.ycombinator.com/item?id=48180662 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/@chuanweipeng5/a-reality-check-on-2026s-most-hyped-ai-game-maker-tools-489a41730e2b Comments URL: https://news.ycombinator.com/item?id=48180662 Points: 1 # Comments: 0",
+    "author": "WavyPeng",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@chuanweipeng5/a-reality-check-on-2026s-most-hyped-ai-game-maker-tools-489a41730e2b",
+    "id": "news-1906"
+  },
+  {
+    "title": "The Playbook for Building an AI Native Company [pdf]",
+    "summary": "Article URL: https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/69fe2a55b93bb0732b1fe33c_The-Founders-Playbook-05062026_v3%20(1).pdf Comments URL: https://news.ycombinator.com/item?id=4818067",
+    "content": "Article URL: https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/69fe2a55b93bb0732b1fe33c_The-Founders-Playbook-05062026_v3%20(1).pdf Comments URL: https://news.ycombinator.com/item?id=48180675 Points: 1 # Comments: 1",
+    "author": "xddx",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/69fe2a55b93bb0732b1fe33c_The-Founders-Playbook-05062026_v3%20(1).pdf",
+    "id": "news-1905"
+  },
+  {
     "title": "The Trouble with AI Investment Writing",
     "summary": "Article URL: https://behaviouralinvestment.com/2026/05/12/the-trouble-with-ai-investment-writing/ Comments URL: https://news.ycombinator.com/item?id=48177689 Points: 2 # Comments: 1",
     "content": "Article URL: https://behaviouralinvestment.com/2026/05/12/the-trouble-with-ai-investment-writing/ Comments URL: https://news.ycombinator.com/item?id=48177689 Points: 2 # Comments: 1",
