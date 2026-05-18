@@ -1,5 +1,83 @@
 [
   {
+    "title": "Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours",
+    "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would ",
+    "content": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\" Musk's attorney reserved the right to appeal. The article Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours/",
+    "id": "news-1923"
+  },
+  {
+    "title": "Distribution Fine Tuning (DFT): A post training step that fixes LLM writing",
+    "summary": "Article URL: https://twitter.com/rosmine/status/2056406211369541947 Comments URL: https://news.ycombinator.com/item?id=48184164 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/rosmine/status/2056406211369541947 Comments URL: https://news.ycombinator.com/item?id=48184164 Points: 1 # Comments: 0",
+    "author": "miohtama",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/rosmine/status/2056406211369541947",
+    "id": "news-1922"
+  },
+  {
+    "title": "Optimizing Code with AI",
+    "summary": "Article URL: https://www.spectralcore.com/blog/optimizing-code-with-ai Comments URL: https://news.ycombinator.com/item?id=48184170 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.spectralcore.com/blog/optimizing-code-with-ai Comments URL: https://news.ycombinator.com/item?id=48184170 Points: 1 # Comments: 1",
+    "author": "metadata",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.spectralcore.com/blog/optimizing-code-with-ai",
+    "id": "news-1921"
+  },
+  {
+    "title": "I-have-ADHD – Claude Code plugin for ADHD-friendly output",
+    "summary": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=48184192 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=48184192 Points: 1 # Comments: 0",
+    "author": "ashitlerferad",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ayghri/i-have-adhd",
+    "id": "news-1920"
+  },
+  {
+    "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome",
+    "summary": "Article URL: https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome Comments URL: https://news.ycombinator.com/item?id=48184193 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome Comments URL: https://news.ycombinator.com/item?id=48184193 Points: 1 # Comments: 0",
+    "author": "gampleman",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
+    "id": "news-1919"
+  },
+  {
+    "title": "Session Amnesia: The Hidden Cost of Stateless AI Coding Assistants",
+    "summary": "Article URL: https://www.aisterna.com/post/session-amnesia-the-hidden-cost-of-stateless-ai-coding-assistants Comments URL: https://news.ycombinator.com/item?id=48184278 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.aisterna.com/post/session-amnesia-the-hidden-cost-of-stateless-ai-coding-assistants Comments URL: https://news.ycombinator.com/item?id=48184278 Points: 1 # Comments: 0",
+    "author": "yanbing",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aisterna.com/post/session-amnesia-the-hidden-cost-of-stateless-ai-coding-assistants",
+    "id": "news-1918"
+  },
+  {
     "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
     "summary": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
     "content": "",
