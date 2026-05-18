@@ -1,5 +1,59 @@
 [
   {
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "summary": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "id": "news-1917"
+  },
+  {
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "summary": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "id": "news-1916"
+  },
+  {
+    "title": "Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker",
+    "summary": "Pope Leo XIV will present his first encyclical on artificial intelligence on May 25. Anthropic co-founder Christopher Olah has been invited as a guest speaker. The article Pope Leo XIV presents first ",
+    "content": "Pope Leo XIV will present his first encyclical on artificial intelligence on May 25. Anthropic co-founder Christopher Olah has been invited as a guest speaker. The article Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/pope-leo-xiv-presents-first-ai-encyclical-anthropic-co-founder-invited-as-guest-speaker/",
+    "id": "news-1915"
+  },
+  {
+    "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
+    "summary": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.",
+    "content": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price. The article Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+    "id": "news-1914"
+  },
+  {
     "title": "The Open Agent Leaderboard",
     "summary": "The Open Agent Leaderboard",
     "content": "",
