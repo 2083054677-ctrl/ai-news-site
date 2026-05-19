@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI and the Practical Scientist",
+    "summary": "Article URL: https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist Comments URL: https://news.ycombinator.com/item?id=48200362 Points: 1 # Comments: 0",
+    "content": "Article URL: https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist Comments URL: https://news.ycombinator.com/item?id=48200362 Points: 1 # Comments: 0",
+    "author": "JohnHammersley",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist",
+    "id": "news-1974"
+  },
+  {
+    "title": "Show HN: AgentWing – make AI agents complete tasks faster",
+    "summary": "Hi HN, I’m building AgentWing.The idea is simple: AI agents usually execute work as one long sequence:plan → act → wait → observe → act again → verify → finishThat makes agent workflows feel slow, esp",
+    "content": "Hi HN, I’m building AgentWing.The idea is simple: AI agents usually execute work as one long sequence:plan → act → wait → observe → act again → verify → finishThat makes agent workflows feel slow, especially when parts of the task do not actually depend on each other.AgentWing adds a director layer that turns one agent task into multiple isolated worker runs. The director decides which parts can run at the same time, assigns each worker its own scoped job, runs them in parallel, then verifies an",
+    "author": "12ziyad",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48200511",
+    "id": "news-1973"
+  },
+  {
+    "title": "Remove AI Watermarks",
+    "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 18 # Comments: 4",
+    "content": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 18 # Comments: 4",
+    "author": "janalsncm",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "id": "news-1972"
+  },
+  {
+    "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia",
+    "summary": "Article URL: https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/ Comments URL: https://news.ycombinator.com/item?id=48200615 Points:",
+    "content": "Article URL: https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/ Comments URL: https://news.ycombinator.com/item?id=48200615 Points: 3 # Comments: 0",
+    "author": "jonbaer",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+    "id": "news-1971"
+  },
+  {
+    "title": "Yet Another AI Teammate",
+    "summary": "Article URL: https://yaat.sh/ Comments URL: https://news.ycombinator.com/item?id=48200782 Points: 1 # Comments: 0",
+    "content": "Article URL: https://yaat.sh/ Comments URL: https://news.ycombinator.com/item?id=48200782 Points: 1 # Comments: 0",
+    "author": "e7h4nz",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://yaat.sh/",
+    "id": "news-1970"
+  },
+  {
     "title": "OlmoEarth v1.1: A more efficient family of models",
     "summary": "OlmoEarth v1.1: A more efficient family of models",
     "content": "",
