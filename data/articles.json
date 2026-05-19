@@ -1,5 +1,96 @@
 [
   {
+    "title": "Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research",
+    "summary": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic. The former OpenAI core team member and Tesla Autopilot architect says he wants to get back into R&D, calling the next few years a",
+    "content": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic. The former OpenAI core team member and Tesla Autopilot architect says he wants to get back into R&D, calling the next few years at the frontier of LLMs \"especially formative.\" That he chose Anthropic over a return to OpenAI is a clear loss for his former employer. The article Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research/",
+    "id": "news-1961"
+  },
+  {
+    "title": "Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app",
+    "summary": "Google used its I/O developer conference to unveil a wave of new AI products. The highlights: a new model called Gemini 3.5 Flash, a multimodal model called Gemini Omni, and a personal agent named Gem",
+    "content": "Google used its I/O developer conference to unveil a wave of new AI products. The highlights: a new model called Gemini 3.5 Flash, a multimodal model called Gemini Omni, and a personal agent named Gemini Spark that runs around the clock in the cloud. The Gemini app also gets a major refresh. The article Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-i-o-announcements-new-models-a-cloud-agent-that-never-sleeps-and-a-redesigned-gemini-app/",
+    "id": "news-1960"
+  },
+  {
+    "title": "IBM Brings Its Most Advanced AI-Powered Security Portfolio to Clients",
+    "summary": "Article URL: https://newsroom.ibm.com/2026-05-19-IBM-Brings-Its-Most-Advanced-AI-Powered-Security-Portfolio-to-Clients,-and-is-Strengthened-by-Ongoing-Project-Glasswing-Work Comments URL: https://news",
+    "content": "Article URL: https://newsroom.ibm.com/2026-05-19-IBM-Brings-Its-Most-Advanced-AI-Powered-Security-Portfolio-to-Clients,-and-is-Strengthened-by-Ongoing-Project-Glasswing-Work Comments URL: https://news.ycombinator.com/item?id=48196702 Points: 1 # Comments: 0",
+    "author": "SVI",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newsroom.ibm.com/2026-05-19-IBM-Brings-Its-Most-Advanced-AI-Powered-Security-Portfolio-to-Clients,-and-is-Strengthened-by-Ongoing-Project-Glasswing-Work",
+    "id": "news-1959"
+  },
+  {
+    "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+    "summary": "Article URL: https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/ Comments URL: https://news.ycombinator.com/item?id=48196703 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/ Comments URL: https://news.ycombinator.com/item?id=48196703 Points: 1 # Comments: 0",
+    "author": "ent101",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+    "id": "news-1958"
+  },
+  {
+    "title": "Show HN: Local LLM code-generation with Gemma 4 e2B via JSON AST to Clojure",
+    "summary": "Article URL: https://github.com/quadracollision/llmisp Comments URL: https://news.ycombinator.com/item?id=48196707 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/quadracollision/llmisp Comments URL: https://news.ycombinator.com/item?id=48196707 Points: 1 # Comments: 0",
+    "author": "vegnus",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/quadracollision/llmisp",
+    "id": "news-1957"
+  },
+  {
+    "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+    "summary": "Article URL: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/ Comments URL: https://news.ycombinator.com/item?id=48196728 Points: 1 # Comments: 0",
+    "content": "Article URL: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/ Comments URL: https://news.ycombinator.com/item?id=48196728 Points: 1 # Comments: 0",
+    "author": "ryanhn",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+    "id": "news-1956"
+  },
+  {
+    "title": "New AI Tools for the Future of Science",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/ Comments URL: https://news.ycombinator.com/item?id=48196789 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/ Comments URL: https://news.ycombinator.com/item?id=48196789 Points: 1 # Comments: 0",
+    "author": "berlianta",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
+    "id": "news-1955"
+  },
+  {
     "title": "Introducing the Ettin Reranker Family",
     "summary": "Introducing the Ettin Reranker Family",
     "content": "",
