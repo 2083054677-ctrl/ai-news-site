@@ -1,5 +1,110 @@
 [
   {
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "summary": "OlmoEarth v1.1: A more efficient family of models",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "id": "news-1969"
+  },
+  {
+    "title": "Sorry for the outages: Bot spam is pushing our servers to the limit",
+    "summary": "Since May 17, our site has been hard to reach, and we want to say sorry for the trouble, especially to our subscribers. The article Sorry for the outages: Bot spam is pushing our servers to the limit ",
+    "content": "Since May 17, our site has been hard to reach, and we want to say sorry for the trouble, especially to our subscribers. The article Sorry for the outages: Bot spam is pushing our servers to the limit appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sorry-for-the-outages-bot-spam-is-pushing-our-servers-to-the-limit/",
+    "id": "news-1968"
+  },
+  {
+    "title": "Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month",
+    "summary": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark. Instead of",
+    "content": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark. Instead of daily prompt limits, Google is moving to a consumption-based compute model, a trend that's gaining traction across the industry. The article Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/",
+    "id": "news-1967"
+  },
+  {
+    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 3 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 3 # Comments: 0",
+    "author": "smooke",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/advancing-content-provenance/",
+    "id": "news-1966"
+  },
+  {
+    "title": "A brief investigation into the GPT-5.5 regression claims",
+    "summary": "Article URL: https://www.stet.sh/blog/gpt-55-high-regression-check-graphql-go-tools Comments URL: https://news.ycombinator.com/item?id=48198356 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.stet.sh/blog/gpt-55-high-regression-check-graphql-go-tools Comments URL: https://news.ycombinator.com/item?id=48198356 Points: 1 # Comments: 0",
+    "author": "bisonbear",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.stet.sh/blog/gpt-55-high-regression-check-graphql-go-tools",
+    "id": "news-1965"
+  },
+  {
+    "title": "The tool that made our AI agent better at using its tools",
+    "summary": "Article URL: https://www.kapa.ai/blog/the-tool-that-made-our-ai-agent-better-at-using-its-tools Comments URL: https://news.ycombinator.com/item?id=48198509 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.kapa.ai/blog/the-tool-that-made-our-ai-agent-better-at-using-its-tools Comments URL: https://news.ycombinator.com/item?id=48198509 Points: 1 # Comments: 0",
+    "author": "emil_sorensen",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kapa.ai/blog/the-tool-that-made-our-ai-agent-better-at-using-its-tools",
+    "id": "news-1964"
+  },
+  {
+    "title": "OpenAI Guaranteed Capacity",
+    "summary": "Article URL: https://openai.com/business/guaranteed-capacity/ Comments URL: https://news.ycombinator.com/item?id=48198563 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openai.com/business/guaranteed-capacity/ Comments URL: https://news.ycombinator.com/item?id=48198563 Points: 1 # Comments: 0",
+    "author": "louiereederson",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/business/guaranteed-capacity/",
+    "id": "news-1963"
+  },
+  {
+    "title": "'Obvious markers of AI': doubts raised over winner of short story prize",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=48198580 Points: 2",
+    "content": "Article URL: https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=48198580 Points: 2 # Comments: 1",
+    "author": "n1b0m",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
+    "id": "news-1962"
+  },
+  {
     "title": "Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research",
     "summary": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic. The former OpenAI core team member and Tesla Autopilot architect says he wants to get back into R&D, calling the next few years a",
     "content": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic. The former OpenAI core team member and Tesla Autopilot architect says he wants to get back into R&D, calling the next few years at the frontier of LLMs \"especially formative.\" That he chose Anthropic over a return to OpenAI is a clear loss for his former employer. The article Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research appeared first on The Decoder.",
