@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI Cold War Is a Marketing Gimmick",
+    "summary": "Article URL: https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick Comments URL: https://news.ycombinator.com/item?id=48190173 Points: 1 # Comments: 0",
+    "content": "Article URL: https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick Comments URL: https://news.ycombinator.com/item?id=48190173 Points: 1 # Comments: 0",
+    "author": "dlcmh",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick",
+    "id": "news-1938"
+  },
+  {
+    "title": "Linus Torvalds on the continued flood of AI bug reports",
+    "summary": "Article URL: https://lkml.org/lkml/2026/5/17/896 Comments URL: https://news.ycombinator.com/item?id=48190184 Points: 2 # Comments: 0",
+    "content": "Article URL: https://lkml.org/lkml/2026/5/17/896 Comments URL: https://news.ycombinator.com/item?id=48190184 Points: 2 # Comments: 0",
+    "author": "tzury",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lkml.org/lkml/2026/5/17/896",
+    "id": "news-1937"
+  },
+  {
+    "title": "Why Elon Musk lost his suit against OpenAI",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/ Comments URL: https://news.ycombinator.com/item?id=48190333 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/ Comments URL: https://news.ycombinator.com/item?id=48190333 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "id": "news-1936"
+  },
+  {
+    "title": "A new EDIT tool for LLM agents",
+    "summary": "Article URL: https://antirez.com/news/166 Comments URL: https://news.ycombinator.com/item?id=48190359 Points: 2 # Comments: 0",
+    "content": "Article URL: https://antirez.com/news/166 Comments URL: https://news.ycombinator.com/item?id=48190359 Points: 2 # Comments: 0",
+    "author": "surprisetalk",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://antirez.com/news/166",
+    "id": "news-1935"
+  },
+  {
+    "title": "Korean bill seeks strict watermark mandate on AI-generated content",
+    "summary": "Article URL: https://www.koreatimes.co.kr/business/tech-science/20260517/korean-bill-seeks-strict-watermark-mandate-on-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=48190364 ",
+    "content": "Article URL: https://www.koreatimes.co.kr/business/tech-science/20260517/korean-bill-seeks-strict-watermark-mandate-on-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=48190364 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.koreatimes.co.kr/business/tech-science/20260517/korean-bill-seeks-strict-watermark-mandate-on-ai-generated-content",
+    "id": "news-1934"
+  },
+  {
     "title": "AI-generated code that works – and proves it",
     "summary": "Article URL: https://www.codemetal.ai/research/ai-generated-code-that-works-and-proves-it Comments URL: https://news.ycombinator.com/item?id=48186334 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.codemetal.ai/research/ai-generated-code-that-works-and-proves-it Comments URL: https://news.ycombinator.com/item?id=48186334 Points: 2 # Comments: 0",
