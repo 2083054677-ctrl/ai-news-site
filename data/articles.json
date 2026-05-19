@@ -1,5 +1,96 @@
 [
   {
+    "title": "Elon Musk appeals $134 billion OpenAI loss, calls verdict a \"calendar technicality\"",
+    "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would ",
+    "content": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\" Musk's attorney reserved the right to appeal. The article Elon Musk appeals $134 billion OpenAI loss, calls verdict a \"calendar technicality\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/elon-musk-appeals-134-billion-openai-loss-calls-verdict-a-calendar-technicality/",
+    "id": "news-1945"
+  },
+  {
+    "title": "Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents",
+    "summary": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure. But Anthropic isn't handi",
+    "content": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure. But Anthropic isn't handing over full control of the agent itself. The article Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/",
+    "id": "news-1944"
+  },
+  {
+    "title": "AI is likely to widen the gap between corporate giants and everyone else",
+    "summary": "Article URL: https://finance.yahoo.com/markets/article/history-says-ai-is-likely-to-widen-the-gap-between-corporate-giants-and-everyone-else-goldman-sachs-161724815.html Comments URL: https://news.yco",
+    "content": "Article URL: https://finance.yahoo.com/markets/article/history-says-ai-is-likely-to-widen-the-gap-between-corporate-giants-and-everyone-else-goldman-sachs-161724815.html Comments URL: https://news.ycombinator.com/item?id=48191639 Points: 1 # Comments: 0",
+    "author": "wslh",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://finance.yahoo.com/markets/article/history-says-ai-is-likely-to-widen-the-gap-between-corporate-giants-and-everyone-else-goldman-sachs-161724815.html",
+    "id": "news-1943"
+  },
+  {
+    "title": "Legal fail: Don't use AI to sue Facebook users for calling you a bad date",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/ Comments URL: https://news.ycombinator.com/item?id=48191641 Points: 1 ",
+    "content": "Article URL: https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/ Comments URL: https://news.ycombinator.com/item?id=48191641 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+    "id": "news-1942"
+  },
+  {
+    "title": "The big AI companies are going to see their margins disappear",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227 Comments URL: https://news.ycombinator.com/item?id=48191647 Points: 1 # ",
+    "content": "Article URL: https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227 Comments URL: https://news.ycombinator.com/item?id=48191647 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227",
+    "id": "news-1941"
+  },
+  {
+    "title": "Jury Hands Victory to Sam Altman and OpenAI in Battle with Elon Musk",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai Comments URL: https://news.ycombinator.com/item?id=48191653 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai Comments URL: https://news.ycombinator.com/item?id=48191653 Points: 1 # Comments: 0",
+    "author": "beardyw",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+    "id": "news-1940"
+  },
+  {
+    "title": "Tokoro – open, signed event protocol with LLM crawler",
+    "summary": "Article URL: https://github.com/robertoranon/tokoro Comments URL: https://news.ycombinator.com/item?id=48191657 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/robertoranon/tokoro Comments URL: https://news.ycombinator.com/item?id=48191657 Points: 1 # Comments: 0",
+    "author": "robran",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/robertoranon/tokoro",
+    "id": "news-1939"
+  },
+  {
     "title": "AI Cold War Is a Marketing Gimmick",
     "summary": "Article URL: https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick Comments URL: https://news.ycombinator.com/item?id=48190173 Points: 1 # Comments: 0",
     "content": "Article URL: https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick Comments URL: https://news.ycombinator.com/item?id=48190173 Points: 1 # Comments: 0",
