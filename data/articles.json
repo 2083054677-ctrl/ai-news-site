@@ -1,5 +1,123 @@
 [
   {
+    "title": "Introducing the Ettin Reranker Family",
+    "summary": "Introducing the Ettin Reranker Family",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ettin-reranker",
+    "id": "news-1954"
+  },
+  {
+    "title": "Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed",
+    "summary": "Cloudflare tested Anthropic's security-focused AI model Mythos Preview across more than 50 of its own code repositories as part of Project Glasswing. The article Cloudflare says Anthropic's Mythos Pre",
+    "content": "Cloudflare tested Anthropic's security-focused AI model Mythos Preview across more than 50 of its own code repositories as part of Project Glasswing. The article Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/",
+    "id": "news-1953"
+  },
+  {
+    "title": "Mistral AI acquires Viennese physical AI startup Emmi AI",
+    "summary": "French AI company Mistral AI has acquired Vienna-based startup Emmi AI to expand its offering for industrial clients across Europe. The article Mistral AI acquires Viennese physical AI startup Emmi AI",
+    "content": "French AI company Mistral AI has acquired Vienna-based startup Emmi AI to expand its offering for industrial clients across Europe. The article Mistral AI acquires Viennese physical AI startup Emmi AI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/",
+    "id": "news-1952"
+  },
+  {
+    "title": "Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players",
+    "summary": "Odyssey has released Agora-1, a world model that lets up to four players act simultaneously in an AI-generated world—tested on the N64 classic GoldenEye. Two separate models handle game state simulati",
+    "content": "Odyssey has released Agora-1, a world model that lets up to four players act simultaneously in an AI-generated world—tested on the N64 classic GoldenEye. Two separate models handle game state simulation and rendering in real time. The team sees potential in collaborative robotics and AI agent training. The article Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/agora-1-turns-the-n64-classic-goldeneye-into-a-playable-ai-simulation-for-four-players/",
+    "id": "news-1951"
+  },
+  {
+    "title": "Forward-Looking Laziness: What Changes When AI Writes 95% of the Code",
+    "summary": "Article URL: https://www.szia.ai/post/forward-looking-laziness-what-changes-when-ai-writes-95-of-the-code Comments URL: https://news.ycombinator.com/item?id=48193784 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.szia.ai/post/forward-looking-laziness-what-changes-when-ai-writes-95-of-the-code Comments URL: https://news.ycombinator.com/item?id=48193784 Points: 1 # Comments: 0",
+    "author": "mszel",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.szia.ai/post/forward-looking-laziness-what-changes-when-ai-writes-95-of-the-code",
+    "id": "news-1950"
+  },
+  {
+    "title": "Powertracker, 29 GW of announced AI capacity mapped to host counties",
+    "summary": "Article URL: https://powertracker.io/ Comments URL: https://news.ycombinator.com/item?id=48193787 Points: 1 # Comments: 0",
+    "content": "Article URL: https://powertracker.io/ Comments URL: https://news.ycombinator.com/item?id=48193787 Points: 1 # Comments: 0",
+    "author": "twistedwabbit",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://powertracker.io/",
+    "id": "news-1949"
+  },
+  {
+    "title": "Show HN: RoBrain – Shared memory for AI agents, with rejected alternatives",
+    "summary": "Article URL: https://github.com/adelinamart/robrain Comments URL: https://news.ycombinator.com/item?id=48193835 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/adelinamart/robrain Comments URL: https://news.ycombinator.com/item?id=48193835 Points: 1 # Comments: 0",
+    "author": "mart1adelina",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/adelinamart/robrain",
+    "id": "news-1948"
+  },
+  {
+    "title": "Ask HN: What are your plans for the AI future?",
+    "summary": "With AI ever increasing in ability I have been thinking about not only my future but the future for all of us involved in the tech sector and beyond. So I have to ask: what are your plans for the futu",
+    "content": "With AI ever increasing in ability I have been thinking about not only my future but the future for all of us involved in the tech sector and beyond. So I have to ask: what are your plans for the future when your job is obsoleted or devalued by AI?I work in manufacturing and do a lot of physical work and troubleshooting. At first I felt confident that AI would not displace me any time soon. However, that changed after the former president walked around confidently asking AI every technical quest",
+    "author": "MisterTea",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48193860",
+    "id": "news-1947"
+  },
+  {
+    "title": "New Surface devices built for business and AI acceleration",
+    "summary": "Article URL: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/ Comments URL: https://news.ycombinator.com/item?id=48193903 Points: 1 ",
+    "content": "Article URL: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/ Comments URL: https://news.ycombinator.com/item?id=48193903 Points: 1 # Comments: 0",
+    "author": "ericsaf",
+    "date": "2026-05-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/",
+    "id": "news-1946"
+  },
+  {
     "title": "Elon Musk appeals $134 billion OpenAI loss, calls verdict a \"calendar technicality\"",
     "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would ",
     "content": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\" Musk's attorney reserved the right to appeal. The article Elon Musk appeals $134 billion OpenAI loss, calls verdict a \"calendar technicality\" appeared first on The Decoder.",
