@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google pairs its Genie world model with Street View to create explorable AI worlds based on real places",
+    "summary": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place. Google's Street View data, collected ov",
+    "content": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place. Google's Street View data, collected over many years, becomes a strategic training resource for creative demos, but above all for AI agents and robots. The article Google pairs its Genie world model with Street View to create explorable AI worlds based on real places appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/",
+    "id": "news-1996"
+  },
+  {
+    "title": "TokenScale – AI API pricing in words you know (The Hobbit = $0.06)",
+    "summary": "Article URL: https://tokenscale.dev Comments URL: https://news.ycombinator.com/item?id=48208113 Points: 2 # Comments: 0",
+    "content": "Article URL: https://tokenscale.dev Comments URL: https://news.ycombinator.com/item?id=48208113 Points: 2 # Comments: 0",
+    "author": "willbilton",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tokenscale.dev",
+    "id": "news-1995"
+  },
+  {
+    "title": "Reconciling Enterprise AI Revenue",
+    "summary": "Article URL: https://philippdubach.com/posts/reconciling-enterprise-ai-revenue/ Comments URL: https://news.ycombinator.com/item?id=48208134 Points: 1 # Comments: 0",
+    "content": "Article URL: https://philippdubach.com/posts/reconciling-enterprise-ai-revenue/ Comments URL: https://news.ycombinator.com/item?id=48208134 Points: 1 # Comments: 0",
+    "author": "7777777phil",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://philippdubach.com/posts/reconciling-enterprise-ai-revenue/",
+    "id": "news-1994"
+  },
+  {
+    "title": "Show HN: Free AI headshots from one selfie, no signup",
+    "summary": "Article URL: https://freeheadshot.org Comments URL: https://news.ycombinator.com/item?id=48208415 Points: 1 # Comments: 0",
+    "content": "Article URL: https://freeheadshot.org Comments URL: https://news.ycombinator.com/item?id=48208415 Points: 1 # Comments: 0",
+    "author": "alshanty",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://freeheadshot.org",
+    "id": "news-1993"
+  },
+  {
+    "title": "Kickstarting \"The Reverse Centaur's Guide to Life After AI\"",
+    "summary": "Article URL: https://pluralistic.net/2026/05/14/who-it-does-it-for/ Comments URL: https://news.ycombinator.com/item?id=48208549 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pluralistic.net/2026/05/14/who-it-does-it-for/ Comments URL: https://news.ycombinator.com/item?id=48208549 Points: 1 # Comments: 0",
+    "author": "hn_acker",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pluralistic.net/2026/05/14/who-it-does-it-for/",
+    "id": "news-1992"
+  },
+  {
+    "title": "Testing distributed systems with AI agents",
+    "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 1 # Comments: 0",
+    "author": "shenli3514",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/shenli/distributed-system-testing",
+    "id": "news-1991"
+  },
+  {
     "title": "Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly pricier",
     "summary": "Google's Gemini 3.5 Flash is a big step up from its predecessor, but in benchmark testing, it costs 5.5 times as much to run. On agent tasks, total costs even exceed the pricier Gemini 3.1 Pro by 75 p",
     "content": "Google's Gemini 3.5 Flash is a big step up from its predecessor, but in benchmark testing, it costs 5.5 times as much to run. On agent tasks, total costs even exceed the pricier Gemini 3.1 Pro by 75 percent because the model needs more interaction steps than any rival tested. Google isn't alone here: AI is getting more expensive across the board as the massive investments need to pay off. The article Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly p",
