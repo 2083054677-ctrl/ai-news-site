@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Developer's Guide to AI",
+    "summary": "Article URL: https://nostarch.com/developers-guide-to-ai Comments URL: https://news.ycombinator.com/item?id=48215152 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nostarch.com/developers-guide-to-ai Comments URL: https://news.ycombinator.com/item?id=48215152 Points: 1 # Comments: 0",
+    "author": "teleforce",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nostarch.com/developers-guide-to-ai",
+    "id": "news-2015"
+  },
+  {
+    "title": "Open AI solves a 1946 Erdős problem",
+    "summary": "Article URL: https://twitter.com/openai/status/2057176201782075690 Comments URL: https://news.ycombinator.com/item?id=48215185 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/openai/status/2057176201782075690 Comments URL: https://news.ycombinator.com/item?id=48215185 Points: 2 # Comments: 0",
+    "author": "bcapchickadee",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/openai/status/2057176201782075690",
+    "id": "news-2014"
+  },
+  {
+    "title": "The AI economy is rewriting the American Dream",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html Comments URL: https://news.ycombinator.com/item?id=48215271 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html Comments URL: https://news.ycombinator.com/item?id=48215271 Points: 3 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
+    "id": "news-2013"
+  },
+  {
+    "title": "Can one run AI on source code with the prompt \"Find below-avg swear rate files\"?",
+    "summary": "Because “code with more swear words is higher quality”, meaning lots of humans looked at that code and the more humans look at that code, the more swear words could be found on average.If this is true",
+    "content": "Because “code with more swear words is higher quality”, meaning lots of humans looked at that code and the more humans look at that code, the more swear words could be found on average.If this is true, then why not put it to the test by running an A.I. on open source code and giving it the prompt of “Find below-avg swear rate files” (This prompt was shortened to save on tokens.)Also, someone could make a program add patches that would distribute random swear words into open source code with the ",
+    "author": "pcwir",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48215340",
+    "id": "news-2012"
+  },
+  {
+    "title": "Show HN: A fast, free AI rewriter",
+    "summary": "Article URL: https://revise.io/ai-rewriter Comments URL: https://news.ycombinator.com/item?id=48215515 Points: 2 # Comments: 0",
+    "content": "Article URL: https://revise.io/ai-rewriter Comments URL: https://news.ycombinator.com/item?id=48215515 Points: 2 # Comments: 0",
+    "author": "artursapek",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://revise.io/ai-rewriter",
+    "id": "news-2011"
+  },
+  {
     "title": "LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed",
     "summary": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of the time. The irony: parent company Micros",
     "content": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of the time. The irony: parent company Microsoft has been actively pushing AI use on LinkedIn itself. The article LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed appeared first on The Decoder.",
