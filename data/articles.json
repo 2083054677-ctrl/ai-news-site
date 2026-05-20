@@ -1,5 +1,96 @@
 [
   {
+    "title": "Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights",
+    "summary": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely ",
+    "content": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely on licensed data, according to the company. The article Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/stability-ai-launches-stable-audio-3-0-with-up-to-six-minute-tracks-and-open-weights/",
+    "id": "news-2003"
+  },
+  {
+    "title": "Google tests the app market version of the SaaSpocalypse",
+    "summary": "Google AI Studio can now generate native Android apps from a prompt - built in Kotlin with Jetpack Compose and testable in a browser emulator. For simple utility apps like trackers or checklists, the ",
+    "content": "Google AI Studio can now generate native Android apps from a prompt - built in Kotlin with Jetpack Compose and testable in a browser emulator. For simple utility apps like trackers or checklists, the Play Store could become less and less relevant. Apple is taking the opposite approach, consistently blocking vibe-coding apps. The article Google tests the app market version of the SaaSpocalypse appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-tests-the-app-version-of-the-saaspocalypse/",
+    "id": "news-2002"
+  },
+  {
+    "title": "An AI announcer mispronounced and skipped names during a graduation",
+    "summary": "Article URL: https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college Comments URL: https://news.ycombinator.com/item?id=48211281 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college Comments URL: https://news.ycombinator.com/item?id=48211281 Points: 2 # Comments: 0",
+    "author": "ripe",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
+    "id": "news-2001"
+  },
+  {
+    "title": "The AI people have been right a lot",
+    "summary": "Article URL: https://dylanmatthews.substack.com/p/the-ai-people-have-been-right-a-lot Comments URL: https://news.ycombinator.com/item?id=48211361 Points: 2 # Comments: 0",
+    "content": "Article URL: https://dylanmatthews.substack.com/p/the-ai-people-have-been-right-a-lot Comments URL: https://news.ycombinator.com/item?id=48211361 Points: 2 # Comments: 0",
+    "author": "akkartik",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dylanmatthews.substack.com/p/the-ai-people-have-been-right-a-lot",
+    "id": "news-2000"
+  },
+  {
+    "title": "AI Inference Costs: The Wake-Up Call for 2026 and 2027",
+    "summary": "Article URL: https://blog.herlein.com/post/ai-inference-costs-reality-check/ Comments URL: https://news.ycombinator.com/item?id=48211362 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.herlein.com/post/ai-inference-costs-reality-check/ Comments URL: https://news.ycombinator.com/item?id=48211362 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.herlein.com/post/ai-inference-costs-reality-check/",
+    "id": "news-1999"
+  },
+  {
+    "title": "Toolkit of custom commands, hooks, and utilities for Claude Code",
+    "summary": "Article URL: https://github.com/carlrannaberg/claudekit Comments URL: https://news.ycombinator.com/item?id=48211487 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/carlrannaberg/claudekit Comments URL: https://news.ycombinator.com/item?id=48211487 Points: 1 # Comments: 0",
+    "author": "ankitg12",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/carlrannaberg/claudekit",
+    "id": "news-1998"
+  },
+  {
+    "title": "Why Compiled AI Makes AI Enterprise Ready",
+    "summary": "Article URL: https://blog.inxm.ai/p/why-compiled-ai-makes-ai-enterprise Comments URL: https://news.ycombinator.com/item?id=48211609 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.inxm.ai/p/why-compiled-ai-makes-ai-enterprise Comments URL: https://news.ycombinator.com/item?id=48211609 Points: 1 # Comments: 0",
+    "author": "raelmiu",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.inxm.ai/p/why-compiled-ai-makes-ai-enterprise",
+    "id": "news-1997"
+  },
+  {
     "title": "Google pairs its Genie world model with Street View to create explorable AI worlds based on real places",
     "summary": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place. Google's Street View data, collected ov",
     "content": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place. Google's Street View data, collected over many years, becomes a strategic training resource for creative demos, but above all for AI agents and robots. The article Google pairs its Genie world model with Street View to create explorable AI worlds based on real places appeared first on The Decoder.",
