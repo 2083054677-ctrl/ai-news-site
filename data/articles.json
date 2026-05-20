@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly pricier",
+    "summary": "Google's Gemini 3.5 Flash is a big step up from its predecessor, but in benchmark testing, it costs 5.5 times as much to run. On agent tasks, total costs even exceed the pricier Gemini 3.1 Pro by 75 p",
+    "content": "Google's Gemini 3.5 Flash is a big step up from its predecessor, but in benchmark testing, it costs 5.5 times as much to run. On agent tasks, total costs even exceed the pricier Gemini 3.1 Pro by 75 percent because the model needs more interaction steps than any rival tested. Google isn't alone here: AI is getting more expensive across the board as the massive investments need to pay off. The article Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly p",
+    "author": "Matthias Bastian",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-gemini-3-5-flash-follows-anthropic-and-openai-in-making-newer-ai-models-significantly-pricier/",
+    "id": "news-1990"
+  },
+  {
+    "title": "Ask HN: How to make a mono-repo AI-Ready?",
+    "summary": "The org is pushing for AI-readiness! We run a fairly large monorepo, part of that is a shared web-platform.Our team is struggling with the inbound contributions to said web-platform from other teams s",
+    "content": "The org is pushing for AI-readiness! We run a fairly large monorepo, part of that is a shared web-platform.Our team is struggling with the inbound contributions to said web-platform from other teams seeing it as the perfect code to try out their new AI-tools on.Our idea so far is that AI-Ready in this case is the same as Human-Ready. I.e. make the codebase understandable, structured, clean up any old patterns still lying around etc. With the additional of adding ClAUDE.md files describing correc",
+    "author": "kasnaka",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48205190",
+    "id": "news-1989"
+  },
+  {
+    "title": "Learnings from 100K lines of Rust with AI (2025)",
+    "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 1",
+    "content": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 13 # Comments: 6",
+    "author": "pramodbiligiri",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+    "id": "news-1988"
+  },
+  {
+    "title": "Infrawise – Give Claude Code real infrastructure context via MCP",
+    "summary": "Article URL: https://www.npmjs.com/package/infrawise Comments URL: https://news.ycombinator.com/item?id=48205497 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.npmjs.com/package/infrawise Comments URL: https://news.ycombinator.com/item?id=48205497 Points: 1 # Comments: 0",
+    "author": "sidd-2704",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npmjs.com/package/infrawise",
+    "id": "news-1987"
+  },
+  {
+    "title": "Show HN: I fixed my AI goose tutor to stop punishing understanding",
+    "summary": "a few weeks ago, I built professor goose, a socratic ai tutor built around the feynman idea that if you can’t explain it, you don’t understand it. the way professor goose works specifically is you pic",
+    "content": "a few weeks ago, I built professor goose, a socratic ai tutor built around the feynman idea that if you can’t explain it, you don’t understand it. the way professor goose works specifically is you pick a topic, rubber duck at a 3d goose, and instead of answering it asks follow up questions until it understands.that begs the question, how does the goose know it has understood?that’s when I thought of an understanding bar - always available to the user to help visualize how much the goose understa",
+    "author": "zapseo",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://professorgoose.com/?version=2.0",
+    "id": "news-1986"
+  },
+  {
+    "title": "Chronify – extension+webapp that turns AI chats and files into dated timeline",
+    "summary": "Article URL: https://chronify.life Comments URL: https://news.ycombinator.com/item?id=48205601 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chronify.life Comments URL: https://news.ycombinator.com/item?id=48205601 Points: 1 # Comments: 0",
+    "author": "bulyaki",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chronify.life",
+    "id": "news-1985"
+  },
+  {
     "title": "SRM: Detecting slow-burn risk in AI-agent sessions before execution",
     "summary": "Article URL: https://arxiv.org/abs/2603.22350 Comments URL: https://news.ycombinator.com/item?id=48204007 Points: 1 # Comments: 0",
     "content": "Article URL: https://arxiv.org/abs/2603.22350 Comments URL: https://news.ycombinator.com/item?id=48204007 Points: 1 # Comments: 0",
