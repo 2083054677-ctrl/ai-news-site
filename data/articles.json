@@ -1,5 +1,96 @@
 [
   {
+    "title": "LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed",
+    "summary": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of the time. The irony: parent company Micros",
+    "content": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of the time. The irony: parent company Microsoft has been actively pushing AI use on LinkedIn itself. The article LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/",
+    "id": "news-2010"
+  },
+  {
+    "title": "Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\"",
+    "summary": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Cursor. Applicants should know agent loops, M",
+    "content": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Cursor. Applicants should know agent loops, MCP, and context engineering and be heavy users of existing coding tools. The article Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/",
+    "id": "news-2009"
+  },
+  {
+    "title": "Claude.ai Pro plan quotas too small for deep research",
+    "summary": "Article URL: https://www.williamangel.net/blog/2026/05/20/ClaudeAI-Pro-Plan-Gives-Single-Deep-Research.html Comments URL: https://news.ycombinator.com/item?id=48214236 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.williamangel.net/blog/2026/05/20/ClaudeAI-Pro-Plan-Gives-Single-Deep-Research.html Comments URL: https://news.ycombinator.com/item?id=48214236 Points: 2 # Comments: 0",
+    "author": "datadrivenangel",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.williamangel.net/blog/2026/05/20/ClaudeAI-Pro-Plan-Gives-Single-Deep-Research.html",
+    "id": "news-2008"
+  },
+  {
+    "title": "K3_AI: Run command on SpacemiT K3's AI cores",
+    "summary": "Article URL: https://github.com/brucehoult/k3_ai/tree/main Comments URL: https://news.ycombinator.com/item?id=48214323 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/brucehoult/k3_ai/tree/main Comments URL: https://news.ycombinator.com/item?id=48214323 Points: 2 # Comments: 0",
+    "author": "hasheddan",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/brucehoult/k3_ai/tree/main",
+    "id": "news-2007"
+  },
+  {
+    "title": "America Turned Against AI According to the Poll Data: A Very Big Compilation",
+    "summary": "Article URL: https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according Comments URL: https://news.ycombinator.com/item?id=48214348 Points: 7 # Comments: 0",
+    "content": "Article URL: https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according Comments URL: https://news.ycombinator.com/item?id=48214348 Points: 7 # Comments: 0",
+    "author": "gHeadphone",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according",
+    "id": "news-2006"
+  },
+  {
+    "title": "Replacing NZ public servants with AI could come with hidden costs, critics warn",
+    "summary": "Article URL: https://www.rnz.co.nz/news/political/595847/replacing-public-servants-with-ai-could-come-with-hidden-costs-critics-warn Comments URL: https://news.ycombinator.com/item?id=48214440 Points:",
+    "content": "Article URL: https://www.rnz.co.nz/news/political/595847/replacing-public-servants-with-ai-could-come-with-hidden-costs-critics-warn Comments URL: https://news.ycombinator.com/item?id=48214440 Points: 3 # Comments: 0",
+    "author": "billybuckwheat",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.rnz.co.nz/news/political/595847/replacing-public-servants-with-ai-could-come-with-hidden-costs-critics-warn",
+    "id": "news-2005"
+  },
+  {
+    "title": "Bye-bye, Gemini CLI; Google's gone and swapped you for a closed-source AI",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/20/bye-bye-gemini-cli-google-nudges-devs-toward-antigravity/5243605 Comments URL: https://news.ycombinator.com/item?id=48214531 Points: 1 # Comme",
+    "content": "Article URL: https://www.theregister.com/ai-ml/2026/05/20/bye-bye-gemini-cli-google-nudges-devs-toward-antigravity/5243605 Comments URL: https://news.ycombinator.com/item?id=48214531 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-ml/2026/05/20/bye-bye-gemini-cli-google-nudges-devs-toward-antigravity/5243605",
+    "id": "news-2004"
+  },
+  {
     "title": "Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights",
     "summary": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely ",
     "content": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely on licensed data, according to the company. The article Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights appeared first on The Decoder.",
