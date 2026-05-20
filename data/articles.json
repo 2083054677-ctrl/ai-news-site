@@ -1,5 +1,70 @@
 [
   {
+    "title": "StartupStarter – we built a company brain so AI can do your work",
+    "summary": "Article URL: https://startupstarter.co/ Comments URL: https://news.ycombinator.com/item?id=48201612 Points: 1 # Comments: 3",
+    "content": "Article URL: https://startupstarter.co/ Comments URL: https://news.ycombinator.com/item?id=48201612 Points: 1 # Comments: 3",
+    "author": "SCJB",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://startupstarter.co/",
+    "id": "news-1979"
+  },
+  {
+    "title": "Anthropic hires OpenAI cofounder Andrej Karpathy",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html Comments URL: https://news.ycombinator.com/item?id=48202179 Points: 1 # Comments",
+    "content": "Article URL: https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html Comments URL: https://news.ycombinator.com/item?id=48202179 Points: 1 # Comments: 1",
+    "author": "doppp",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
+    "id": "news-1978"
+  },
+  {
+    "title": "AI video editing is blowing my mind",
+    "summary": "Article URL: https://aivideoediting.io/ Comments URL: https://news.ycombinator.com/item?id=48202307 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aivideoediting.io/ Comments URL: https://news.ycombinator.com/item?id=48202307 Points: 1 # Comments: 0",
+    "author": "pekingzcc",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aivideoediting.io/",
+    "id": "news-1977"
+  },
+  {
+    "title": "Ember: 365-day audited record of AI models vs. Polymarket, scored by Brier",
+    "summary": "Article URL: https://emberfyi.com/ Comments URL: https://news.ycombinator.com/item?id=48202344 Points: 1 # Comments: 0",
+    "content": "Article URL: https://emberfyi.com/ Comments URL: https://news.ycombinator.com/item?id=48202344 Points: 1 # Comments: 0",
+    "author": "emberfyi",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://emberfyi.com/",
+    "id": "news-1976"
+  },
+  {
+    "title": "Show HN: SafeRun – Replay debugging and inline prevention for AI agents",
+    "summary": "Background on why we built Replay first instead of validation: [ https://dev.to/saferunai/why-we-built-replay-before-everythi... ]Working SDK in Python and TypeScript. Sub-50ms p95 on the check-action",
+    "content": "Background on why we built Replay first instead of validation: [ https://dev.to/saferunai/why-we-built-replay-before-everythi... ]Working SDK in Python and TypeScript. Sub-50ms p95 on the check-action API. Currently onboarding the first design partners.Happy to answer questions in the comments. Comments URL: https://news.ycombinator.com/item?id=48202415 Points: 1 # Comments: 0",
+    "author": "Tidianez",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48202415",
+    "id": "news-1975"
+  },
+  {
     "title": "AI and the Practical Scientist",
     "summary": "Article URL: https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist Comments URL: https://news.ycombinator.com/item?id=48200362 Points: 1 # Comments: 0",
     "content": "Article URL: https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist Comments URL: https://news.ycombinator.com/item?id=48200362 Points: 1 # Comments: 0",
