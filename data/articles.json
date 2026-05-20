@@ -1,5 +1,70 @@
 [
   {
+    "title": "SRM: Detecting slow-burn risk in AI-agent sessions before execution",
+    "summary": "Article URL: https://arxiv.org/abs/2603.22350 Comments URL: https://news.ycombinator.com/item?id=48204007 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2603.22350 Comments URL: https://news.ycombinator.com/item?id=48204007 Points: 1 # Comments: 0",
+    "author": "ilion_identity",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2603.22350",
+    "id": "news-1984"
+  },
+  {
+    "title": "Slax Reader CLI: a read-later library your AI agents can use",
+    "summary": "Article URL: https://slax.com/blog/slax-reader-cli-a-read-later-library-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48204032 Points: 1 # Comments: 0",
+    "content": "Article URL: https://slax.com/blog/slax-reader-cli-a-read-later-library-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48204032 Points: 1 # Comments: 0",
+    "author": "wulujia",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://slax.com/blog/slax-reader-cli-a-read-later-library-for-ai-agents/",
+    "id": "news-1983"
+  },
+  {
+    "title": "AI Could Help the Climate",
+    "summary": "Article URL: https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate Comments URL: https://news.ycombinator.com/item?id=48204138 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate Comments URL: https://news.ycombinator.com/item?id=48204138 Points: 1 # Comments: 0",
+    "author": "andsoitis",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate",
+    "id": "news-1982"
+  },
+  {
+    "title": "You cannot sell AI written software",
+    "summary": "Article URL: https://blog.habets.se/2026/05/You-cannot-sell-AI-written-software.html Comments URL: https://news.ycombinator.com/item?id=48204280 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.habets.se/2026/05/You-cannot-sell-AI-written-software.html Comments URL: https://news.ycombinator.com/item?id=48204280 Points: 1 # Comments: 0",
+    "author": "marcofloriano",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.habets.se/2026/05/You-cannot-sell-AI-written-software.html",
+    "id": "news-1981"
+  },
+  {
+    "title": "How to use Claude Code like you've used it for a year",
+    "summary": "Article URL: https://codeaholicguy.com/2026/05/20/claude-code-guide-how-to-use-claude-code-like-youve-used-it-for-a-year/ Comments URL: https://news.ycombinator.com/item?id=48204340 Points: 1 # Commen",
+    "content": "Article URL: https://codeaholicguy.com/2026/05/20/claude-code-guide-how-to-use-claude-code-like-youve-used-it-for-a-year/ Comments URL: https://news.ycombinator.com/item?id=48204340 Points: 1 # Comments: 0",
+    "author": "hoangnnguyen",
+    "date": "2026-05-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codeaholicguy.com/2026/05/20/claude-code-guide-how-to-use-claude-code-like-youve-used-it-for-a-year/",
+    "id": "news-1980"
+  },
+  {
     "title": "StartupStarter – we built a company brain so AI can do your work",
     "summary": "Article URL: https://startupstarter.co/ Comments URL: https://news.ycombinator.com/item?id=48201612 Points: 1 # Comments: 3",
     "content": "Article URL: https://startupstarter.co/ Comments URL: https://news.ycombinator.com/item?id=48201612 Points: 1 # Comments: 3",
