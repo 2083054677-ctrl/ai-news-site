@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI and 1Password Bring Agentic Security to Codex",
+    "summary": "Article URL: https://www.forbes.com/sites/timkeary/2026/05/19/openai-and-1password-bring-password-security-to-codex/ Comments URL: https://news.ycombinator.com/item?id=48228789 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.forbes.com/sites/timkeary/2026/05/19/openai-and-1password-bring-password-security-to-codex/ Comments URL: https://news.ycombinator.com/item?id=48228789 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/timkeary/2026/05/19/openai-and-1password-bring-password-security-to-codex/",
+    "id": "news-2049"
+  },
+  {
+    "title": "Agent CRM: Headless CRM for Claude and Codex",
+    "summary": "Article URL: https://github.com/cluster-software/agent-crm Comments URL: https://news.ycombinator.com/item?id=48228792 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/cluster-software/agent-crm Comments URL: https://news.ycombinator.com/item?id=48228792 Points: 2 # Comments: 0",
+    "author": "enrique_goudet",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/cluster-software/agent-crm",
+    "id": "news-2048"
+  },
+  {
+    "title": "When Dawkins met Claude. Could this AI be conscious?",
+    "summary": "Article URL: https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/ Comments URL: https://news.ycombinator.com/item?id=48228807 Points: 1 # Comments: 0",
+    "content": "Article URL: https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/ Comments URL: https://news.ycombinator.com/item?id=48228807 Points: 1 # Comments: 0",
+    "author": "tzury",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/",
+    "id": "news-2047"
+  },
+  {
+    "title": "What are the biggest challenges of building solo in the AI era?",
+    "summary": "Article URL: https://partiful.com/e/SvBNyriEGJkIT0Wgzc9v Comments URL: https://news.ycombinator.com/item?id=48228809 Points: 1 # Comments: 1",
+    "content": "Article URL: https://partiful.com/e/SvBNyriEGJkIT0Wgzc9v Comments URL: https://news.ycombinator.com/item?id=48228809 Points: 1 # Comments: 1",
+    "author": "patrickliu007",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://partiful.com/e/SvBNyriEGJkIT0Wgzc9v",
+    "id": "news-2046"
+  },
+  {
+    "title": "New Talk: From LLM Wikis to LLM Artifacts",
+    "summary": "Article URL: https://academy.dair.ai/events/cmovobp97000904l5h0n9a2yz Comments URL: https://news.ycombinator.com/item?id=48228899 Points: 1 # Comments: 0",
+    "content": "Article URL: https://academy.dair.ai/events/cmovobp97000904l5h0n9a2yz Comments URL: https://news.ycombinator.com/item?id=48228899 Points: 1 # Comments: 0",
+    "author": "omarsar",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://academy.dair.ai/events/cmovobp97000904l5h0n9a2yz",
+    "id": "news-2045"
+  },
+  {
     "title": "Google checks websites for llms.txt in new agentic browsing audit",
     "summary": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article Google checks websites for llms.txt in n",
     "content": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article Google checks websites for llms.txt in new agentic browsing audit appeared first on The Decoder.",
