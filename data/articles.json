@@ -1,5 +1,57 @@
 [
   {
+    "title": "Smart Earbuds with built-in camera and AI",
+    "summary": "Article URL: https://heyordo.com Comments URL: https://news.ycombinator.com/item?id=48216900 Points: 4 # Comments: 3",
+    "content": "Article URL: https://heyordo.com Comments URL: https://news.ycombinator.com/item?id=48216900 Points: 4 # Comments: 3",
+    "author": "im_ishika",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://heyordo.com",
+    "id": "news-2019"
+  },
+  {
+    "title": "Building DeepSeek's Answer to Claude Code",
+    "summary": "Article URL: https://dlcmh.github.io/deepseek-harness Comments URL: https://news.ycombinator.com/item?id=48216937 Points: 3 # Comments: 0",
+    "content": "Article URL: https://dlcmh.github.io/deepseek-harness Comments URL: https://news.ycombinator.com/item?id=48216937 Points: 3 # Comments: 0",
+    "author": "dlcmh",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dlcmh.github.io/deepseek-harness",
+    "id": "news-2018"
+  },
+  {
+    "title": "OpenAI to confidentially file for IPO as soon as Friday",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html Comments URL: https://news.ycombinator.com/item?id=48217052 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html Comments URL: https://news.ycombinator.com/item?id=48217052 Points: 3 # Comments: 0",
+    "author": "doppp",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+    "id": "news-2017"
+  },
+  {
+    "title": "Google is dethroning OpenAI as the king of consumer AI",
+    "summary": "Article URL: https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai Comments URL: https://news.ycombinator.com/item?id=48217087 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai Comments URL: https://news.ycombinator.com/item?id=48217087 Points: 1 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai",
+    "id": "news-2016"
+  },
+  {
     "title": "The Developer's Guide to AI",
     "summary": "Article URL: https://nostarch.com/developers-guide-to-ai Comments URL: https://news.ycombinator.com/item?id=48215152 Points: 1 # Comments: 0",
     "content": "Article URL: https://nostarch.com/developers-guide-to-ai Comments URL: https://news.ycombinator.com/item?id=48215152 Points: 1 # Comments: 0",
