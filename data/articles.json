@@ -1,5 +1,70 @@
 [
   {
+    "title": "Bezos defends billionaires, hypes AI, talks taxes, praises DJT in CNBC interview",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html Comments URL: https://news.ycombinator.com/item?id=48219057 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html Comments URL: https://news.ycombinator.com/item?id=48219057 Points: 1 # Comments: 0",
+    "author": "jacquesm",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
+    "id": "news-2024"
+  },
+  {
+    "title": "WebMCP: I Made My Website AI Agent Ready",
+    "summary": "Article URL: https://suganthan.com/blog/webmcp-implementation-guide/ Comments URL: https://news.ycombinator.com/item?id=48219069 Points: 1 # Comments: 0",
+    "content": "Article URL: https://suganthan.com/blog/webmcp-implementation-guide/ Comments URL: https://news.ycombinator.com/item?id=48219069 Points: 1 # Comments: 0",
+    "author": "aashu_bel",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://suganthan.com/blog/webmcp-implementation-guide/",
+    "id": "news-2023"
+  },
+  {
+    "title": "China has named, defined and started governing agentic AI",
+    "summary": "Article URL: https://thewire.in/tech/chinas-landmark-framework-for-agentic-ai-and-why-it-matters Comments URL: https://news.ycombinator.com/item?id=48219099 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thewire.in/tech/chinas-landmark-framework-for-agentic-ai-and-why-it-matters Comments URL: https://news.ycombinator.com/item?id=48219099 Points: 1 # Comments: 0",
+    "author": "BaudouinVH",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thewire.in/tech/chinas-landmark-framework-for-agentic-ai-and-why-it-matters",
+    "id": "news-2022"
+  },
+  {
+    "title": "LLM: Documentation driven exploration for big codebase",
+    "summary": "Article URL: https://github.com/Anhydrite/doc-torn Comments URL: https://news.ycombinator.com/item?id=48219106 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Anhydrite/doc-torn Comments URL: https://news.ycombinator.com/item?id=48219106 Points: 1 # Comments: 1",
+    "author": "anhydrite",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Anhydrite/doc-torn",
+    "id": "news-2021"
+  },
+  {
+    "title": "Show HN: A SQLite graph that captures why AI-generated code exists",
+    "summary": "I'm experimenting with a way to make AI-assisted development easier to review later. I built a small Python/SQLite prototype and would like feedback. Comments URL: https://news.ycombinator.com/item?id",
+    "content": "I'm experimenting with a way to make AI-assisted development easier to review later. I built a small Python/SQLite prototype and would like feedback. Comments URL: https://news.ycombinator.com/item?id=48219109 Points: 1 # Comments: 0",
+    "author": "enzo_ferrari",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/enzoferraripapa-arch/ai-vprocess-ops",
+    "id": "news-2020"
+  },
+  {
     "title": "Smart Earbuds with built-in camera and AI",
     "summary": "Article URL: https://heyordo.com Comments URL: https://news.ycombinator.com/item?id=48216900 Points: 4 # Comments: 3",
     "content": "Article URL: https://heyordo.com Comments URL: https://news.ycombinator.com/item?id=48216900 Points: 4 # Comments: 3",
