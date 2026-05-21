@@ -1,5 +1,70 @@
 [
   {
+    "title": "Google checks websites for llms.txt in new agentic browsing audit",
+    "summary": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article Google checks websites for llms.txt in n",
+    "content": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article Google checks websites for llms.txt in new agentic browsing audit appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
+    "id": "news-2044"
+  },
+  {
+    "title": "Show HN: Coherence – drift detector for AI-driven repos",
+    "summary": "I’d be interested in feedback on the model, false positives, and whether the examples match drift people are seeing in larger repos. Comments URL: https://news.ycombinator.com/item?id=48227602 Points:",
+    "content": "I’d be interested in feedback on the model, false positives, and whether the examples match drift people are seeing in larger repos. Comments URL: https://news.ycombinator.com/item?id=48227602 Points: 1 # Comments: 1",
+    "author": "fireharp",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fireharp/coherence",
+    "id": "news-2043"
+  },
+  {
+    "title": "What will better AI mean?",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html Comments URL: https://news.ycombinator.com/item?id=48227674 Points: 2 # Comments: 0",
+    "content": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html Comments URL: https://news.ycombinator.com/item?id=48227674 Points: 2 # Comments: 0",
+    "author": "andy99",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html",
+    "id": "news-2042"
+  },
+  {
+    "title": "Show HN: Dhrive – Prompt to a native iOS app, built locally with your own AI CLI",
+    "summary": "Article URL: https://www.dhrive.app/ Comments URL: https://news.ycombinator.com/item?id=48227784 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.dhrive.app/ Comments URL: https://news.ycombinator.com/item?id=48227784 Points: 1 # Comments: 0",
+    "author": "hsnrique",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.dhrive.app/",
+    "id": "news-2041"
+  },
+  {
+    "title": "Show HN: AI Audiobook Narrator",
+    "summary": "Article URL: https://warblize.com/ Comments URL: https://news.ycombinator.com/item?id=48227955 Points: 1 # Comments: 0",
+    "content": "Article URL: https://warblize.com/ Comments URL: https://news.ycombinator.com/item?id=48227955 Points: 1 # Comments: 0",
+    "author": "onhacker",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://warblize.com/",
+    "id": "news-2040"
+  },
+  {
     "title": "OpenAI could file confidential IPO paperwork within days",
     "summary": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could file confidential IPO paperwork within d",
     "content": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could file confidential IPO paperwork within days appeared first on The Decoder.",
