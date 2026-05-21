@@ -1,5 +1,70 @@
 [
   {
+    "title": "A field guide for engineering teams making AI agent work compound",
+    "summary": "Article URL: https://www.memco.ai/field-guide Comments URL: https://news.ycombinator.com/item?id=48229602 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.memco.ai/field-guide Comments URL: https://news.ycombinator.com/item?id=48229602 Points: 2 # Comments: 0",
+    "author": "scotttaylor",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.memco.ai/field-guide",
+    "id": "news-2054"
+  },
+  {
+    "title": "We built an agent for CI despite using Claude Code for everything else",
+    "summary": "Article URL: https://www.mendral.com/blog/how-we-built-our-ai-agent Comments URL: https://news.ycombinator.com/item?id=48229614 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.mendral.com/blog/how-we-built-our-ai-agent Comments URL: https://news.ycombinator.com/item?id=48229614 Points: 2 # Comments: 0",
+    "author": "shad42",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mendral.com/blog/how-we-built-our-ai-agent",
+    "id": "news-2053"
+  },
+  {
+    "title": "Outlier AI is paying cardiologists to review ECGs and train AI models (referral)",
+    "summary": "Article URL: https://app.outlier.ai/en/expert/referrals/link/2REalwVscvVRImDKiXksxm7YpZg Comments URL: https://news.ycombinator.com/item?id=48229632 Points: 1 # Comments: 0",
+    "content": "Article URL: https://app.outlier.ai/en/expert/referrals/link/2REalwVscvVRImDKiXksxm7YpZg Comments URL: https://news.ycombinator.com/item?id=48229632 Points: 1 # Comments: 0",
+    "author": "elsadek",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://app.outlier.ai/en/expert/referrals/link/2REalwVscvVRImDKiXksxm7YpZg",
+    "id": "news-2052"
+  },
+  {
+    "title": "Erlang_Python – Combine Python's ML/AI Ecosystem with Erlang's Concurrency",
+    "summary": "Article URL: https://hexdocs.pm/erlang_python/readme.html Comments URL: https://news.ycombinator.com/item?id=48229798 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hexdocs.pm/erlang_python/readme.html Comments URL: https://news.ycombinator.com/item?id=48229798 Points: 1 # Comments: 0",
+    "author": "rzk",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hexdocs.pm/erlang_python/readme.html",
+    "id": "news-2051"
+  },
+  {
+    "title": "LLM for automating scientific discovery [pdf]",
+    "summary": "Article URL: https://www.nature.com/articles/s41586-026-10652-y_reference.pdf Comments URL: https://news.ycombinator.com/item?id=48229834 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nature.com/articles/s41586-026-10652-y_reference.pdf Comments URL: https://news.ycombinator.com/item?id=48229834 Points: 1 # Comments: 0",
+    "author": "ninesnines",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nature.com/articles/s41586-026-10652-y_reference.pdf",
+    "id": "news-2050"
+  },
+  {
     "title": "OpenAI and 1Password Bring Agentic Security to Codex",
     "summary": "Article URL: https://www.forbes.com/sites/timkeary/2026/05/19/openai-and-1password-bring-password-security-to-codex/ Comments URL: https://news.ycombinator.com/item?id=48228789 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.forbes.com/sites/timkeary/2026/05/19/openai-and-1password-bring-password-security-to-codex/ Comments URL: https://news.ycombinator.com/item?id=48228789 Points: 1 # Comments: 0",
