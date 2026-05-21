@@ -1,5 +1,135 @@
 [
   {
+    "title": "OpenAI could file confidential IPO paperwork within days",
+    "summary": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could file confidential IPO paperwork within d",
+    "content": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could file confidential IPO paperwork within days appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-could-file-confidential-ipo-paperwork-within-days/",
+    "id": "news-2039"
+  },
+  {
+    "title": "Anthropic is about to become the first profitable AI lab",
+    "summary": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q2 revenue. Just last summer, the company",
+    "content": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q2 revenue. Just last summer, the company didn't expect to turn a profit before 2028. The main drivers are coding tools and agentic Claude usage, which at times pushed demand beyond available compute capacity. The article Anthropic is about to become the first profitable AI lab appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/",
+    "id": "news-2038"
+  },
+  {
+    "title": "Cohere open-sources its strongest model yet",
+    "summary": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere open-sources its strongest model yet ap",
+    "content": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere open-sources its strongest model yet appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/",
+    "id": "news-2037"
+  },
+  {
+    "title": "US Cyber Command races to deploy AI on top-secret networks",
+    "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI systems like Anthropic's Claude Mythos can",
+    "content": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI systems like Anthropic's Claude Mythos can find security vulnerabilities faster than the best human hackers - and according to Anthropic, comparable tools could be widely available within six to 24 months. The article US Cyber Command races to deploy AI on top-secret networks appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/",
+    "id": "news-2036"
+  },
+  {
+    "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking",
+    "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never ",
+    "content": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context. Fields Medalist Tim Gowers calls the result \"a milestone in AI mathematics\" and warns: \"We have still probably entered an era where it will become very difficult for humans to compete with AI at solving mathematical problems.\" The article OpenAI shifts the boundary of autom",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
+    "id": "news-2035"
+  },
+  {
+    "title": "Show HN: From one Claude agent to a fleet – in five small steps",
+    "summary": "I was intrigued by an AMD issue on GitHub where Stella Laurenzo shared how the AMD team runs a fleet of 50 or so agents: https://lnkd.in/drueskiV. I wanted to get there myself, and I think I managed t",
+    "content": "I was intrigued by an AMD issue on GitHub where Stella Laurenzo shared how the AMD team runs a fleet of 50 or so agents: https://lnkd.in/drueskiV. I wanted to get there myself, and I think I managed to. I can now run a fleet of coding agents while I'm away, burning through every token across my three Claude subscriptions. I can run data science experiments overnight in loops: analyze misclassifications, form a hypothesis, implement, run, analyze again. Agents pull tasks from a queue, add new tas",
+    "author": "sermakarevich",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48226033",
+    "id": "news-2034"
+  },
+  {
+    "title": "I created an extension for Claude that shares context on how you work",
+    "summary": "Article URL: https://github.com/stubbleapp/Stubble Comments URL: https://news.ycombinator.com/item?id=48226072 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/stubbleapp/Stubble Comments URL: https://news.ycombinator.com/item?id=48226072 Points: 1 # Comments: 0",
+    "author": "satay_chicken31",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/stubbleapp/Stubble",
+    "id": "news-2033"
+  },
+  {
+    "title": "White House postpones AI executive order signing ceremony",
+    "summary": "Article URL: https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing Comments URL: https://news.ycombinator.com/item?id=48226127 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing Comments URL: https://news.ycombinator.com/item?id=48226127 Points: 2 # Comments: 0",
+    "author": "anigbrowl",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing",
+    "id": "news-2032"
+  },
+  {
+    "title": "Ask HN: What AI prompts have you found most reliable for actual work?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48226384 Points: 2 # Comments: 2",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=48226384 Points: 2 # Comments: 2",
+    "author": "HrachShah",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48226384",
+    "id": "news-2031"
+  },
+  {
+    "title": "Ask HN: What is an optimal game theoretic response to AI adoption?",
+    "summary": "Apologies for the claude dump, but this was too tempting to resist and partly also my context window is too small to generate a long thesis (a.k.a lazy). I wanted to share it with people as a conversa",
+    "content": "Apologies for the claude dump, but this was too tempting to resist and partly also my context window is too small to generate a long thesis (a.k.a lazy). I wanted to share it with people as a conversation starter since many of us are grappling with this phenomenon.I had a realization that everybody using AI makes things worse off for everybody because a) more of inferior things and b) they are inferior since we would be using it in areas we are not good at i.e. experts in their fields collaborat",
+    "author": "sifar",
+    "date": "2026-05-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48226484",
+    "id": "news-2030"
+  },
+  {
     "title": "QuickSilver Pro – OpenAI-Compatible Platform for DeepSeek V4 and Qwen",
     "summary": "Article URL: https://quicksilverpro.io/ Comments URL: https://news.ycombinator.com/item?id=48220371 Points: 2 # Comments: 1",
     "content": "Article URL: https://quicksilverpro.io/ Comments URL: https://news.ycombinator.com/item?id=48220371 Points: 2 # Comments: 1",
