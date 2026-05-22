@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
+    "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. ",
+    "content": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
+    "id": "news-2091"
+  },
+  {
+    "title": "Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers",
+    "summary": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance roles. But the company offers no hard evi",
+    "content": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance roles. But the company offers no hard evidence for that. Falling margins and a headcount that surged 40 percent in two years point to a classic efficiency program wrapped in AI branding. The article Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
+    "id": "news-2090"
+  },
+  {
+    "title": "Show HN: Neuz, a self-hosted news dashboard curated by Claude",
+    "summary": "Article URL: https://github.com/vshvedov/neuz Comments URL: https://news.ycombinator.com/item?id=48240092 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/vshvedov/neuz Comments URL: https://news.ycombinator.com/item?id=48240092 Points: 2 # Comments: 1",
+    "author": "vladcodes",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vshvedov/neuz",
+    "id": "news-2089"
+  },
+  {
+    "title": "AI #169: New Knowledge",
+    "summary": "Article URL: https://thezvi.substack.com/p/ai-169-new-knowledge Comments URL: https://news.ycombinator.com/item?id=48240197 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thezvi.substack.com/p/ai-169-new-knowledge Comments URL: https://news.ycombinator.com/item?id=48240197 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thezvi.substack.com/p/ai-169-new-knowledge",
+    "id": "news-2088"
+  },
+  {
+    "title": "Gen Z is not booing AI. It is booing its own job market",
+    "summary": "Article URL: https://thenextweb.com/news/gen-z-commencement-boos-ai-redundancy-cohort Comments URL: https://news.ycombinator.com/item?id=48240211 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thenextweb.com/news/gen-z-commencement-boos-ai-redundancy-cohort Comments URL: https://news.ycombinator.com/item?id=48240211 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenextweb.com/news/gen-z-commencement-boos-ai-redundancy-cohort",
+    "id": "news-2087"
+  },
+  {
+    "title": "TranscendPlexity: 540/540 ARC-AGI-1/2/3, 13 tasks with 0% AI solve rate, solved",
+    "summary": "Article URL: https://github.com/GitMonsters/13-Impossible-ARC-Tasks-SOLVED Comments URL: https://news.ycombinator.com/item?id=48240243 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/GitMonsters/13-Impossible-ARC-Tasks-SOLVED Comments URL: https://news.ycombinator.com/item?id=48240243 Points: 1 # Comments: 0",
+    "author": "wormsWorld",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/GitMonsters/13-Impossible-ARC-Tasks-SOLVED",
+    "id": "news-2086"
+  },
+  {
+    "title": "Canonry tracks how AI cites you – agent-first, open source",
+    "summary": "Article URL: https://github.com/AINYC/canonry Comments URL: https://news.ycombinator.com/item?id=48240313 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/AINYC/canonry Comments URL: https://news.ycombinator.com/item?id=48240313 Points: 1 # Comments: 1",
+    "author": "arberx",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AINYC/canonry",
+    "id": "news-2085"
+  },
+  {
     "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
     "summary": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
     "content": "",
