@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI is minting new billionaires, and workers want their share",
+    "summary": "Article URL: https://restofworld.org/2026/samsung-south-korea-union-ai-profits/ Comments URL: https://news.ycombinator.com/item?id=48241247 Points: 7 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/samsung-south-korea-union-ai-profits/ Comments URL: https://news.ycombinator.com/item?id=48241247 Points: 7 # Comments: 0",
+    "author": "billybuckwheat",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/samsung-south-korea-union-ai-profits/",
+    "id": "news-2096"
+  },
+  {
+    "title": "AI-native-founder-playbook-skills",
+    "summary": "Article URL: https://github.com/Hades-HY-LI/ai-native-founder-playbook-skills Comments URL: https://news.ycombinator.com/item?id=48241254 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Hades-HY-LI/ai-native-founder-playbook-skills Comments URL: https://news.ycombinator.com/item?id=48241254 Points: 1 # Comments: 1",
+    "author": "hades_sixy",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Hades-HY-LI/ai-native-founder-playbook-skills",
+    "id": "news-2095"
+  },
+  {
+    "title": "OpenAI intentionally removed Codex's visible context usage indicator",
+    "summary": "Article URL: https://github.com/openai/codex/issues/23794 Comments URL: https://news.ycombinator.com/item?id=48241479 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/openai/codex/issues/23794 Comments URL: https://news.ycombinator.com/item?id=48241479 Points: 1 # Comments: 1",
+    "author": "gobdovan",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/openai/codex/issues/23794",
+    "id": "news-2094"
+  },
+  {
+    "title": "NTSB pulls docket after AI recreates dead pilots' voices",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/ Comments URL: https://news.ycombinator.com/item?id=48241501 Points: 4 # Comments: 0",
+    "content": "Article URL: https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/ Comments URL: https://news.ycombinator.com/item?id=48241501 Points: 4 # Comments: 0",
+    "author": "Lihh27",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+    "id": "news-2093"
+  },
+  {
+    "title": "Show HN: Mneme – Open-protocol AI memory that lives on your device",
+    "summary": "Hey guys, so I use AI a lot, and I mean a lot, specially for my job and just as a hobby, I've got ADHD so creating is somethign I love, but I always got annoyed that every AI memory product wants to h",
+    "content": "Hey guys, so I use AI a lot, and I mean a lot, specially for my job and just as a hobby, I've got ADHD so creating is somethign I love, but I always got annoyed that every AI memory product wants to host my data on their servers, in their schema, locked to their product. Sooooo I built mneme memory that lives on your device, encrypted with keys only you hold, with an open protocol that works across Claude,Cursor, ChatGPT, Gemini.Apache 2.0, on npm.https://github.com/ppserapiao/mneme · https://mn",
+    "author": "ptengelmann",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ppserapiao/mneme",
+    "id": "news-2092"
+  },
+  {
     "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
     "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. ",
     "content": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content appeared first on The Decoder.",
