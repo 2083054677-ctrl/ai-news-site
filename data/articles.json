@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI Slop and the Vulnerability Treadmill",
+    "summary": "Article URL: https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/ Comments URL: https://news.ycombinator.com/item?id=48230975 Points: 1 # Comments: 0",
+    "content": "Article URL: https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/ Comments URL: https://news.ycombinator.com/item?id=48230975 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/",
+    "id": "news-2059"
+  },
+  {
+    "title": "Best Practices to Produce Maintainable Code with AI [video]",
+    "summary": "Article URL: https://vimeo.com/1194574163 Comments URL: https://news.ycombinator.com/item?id=48231108 Points: 1 # Comments: 0",
+    "content": "Article URL: https://vimeo.com/1194574163 Comments URL: https://news.ycombinator.com/item?id=48231108 Points: 1 # Comments: 0",
+    "author": "Austin_Conlon",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vimeo.com/1194574163",
+    "id": "news-2058"
+  },
+  {
+    "title": "White House yanked AI order after David Sacks raised industry concerns",
+    "summary": "Article URL: https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295 Comments URL: https://news.ycombinator.com/item?id=48231124 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295 Comments URL: https://news.ycombinator.com/item?id=48231124 Points: 1 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295",
+    "id": "news-2057"
+  },
+  {
+    "title": "ReCardEx – AI product photos, infographics and videos for e-commerce sellers",
+    "summary": "Article URL: https://recardex.com/en Comments URL: https://news.ycombinator.com/item?id=48231173 Points: 1 # Comments: 0",
+    "content": "Article URL: https://recardex.com/en Comments URL: https://news.ycombinator.com/item?id=48231173 Points: 1 # Comments: 0",
+    "author": "masteriza",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://recardex.com/en",
+    "id": "news-2056"
+  },
+  {
+    "title": "FreeLLMAPI – One key. One billion free LLM tokens. Every month",
+    "summary": "Article URL: https://tashfeenahmed.github.io/freellmapi/ Comments URL: https://news.ycombinator.com/item?id=48231237 Points: 2 # Comments: 0",
+    "content": "Article URL: https://tashfeenahmed.github.io/freellmapi/ Comments URL: https://news.ycombinator.com/item?id=48231237 Points: 2 # Comments: 0",
+    "author": "hamid914",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tashfeenahmed.github.io/freellmapi/",
+    "id": "news-2055"
+  },
+  {
     "title": "A field guide for engineering teams making AI agent work compound",
     "summary": "Article URL: https://www.memco.ai/field-guide Comments URL: https://news.ycombinator.com/item?id=48229602 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.memco.ai/field-guide Comments URL: https://news.ycombinator.com/item?id=48229602 Points: 2 # Comments: 0",
