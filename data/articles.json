@@ -1,5 +1,110 @@
 [
   {
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "summary": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "id": "news-2084"
+  },
+  {
+    "title": "OpenAI Appshots turn any Mac window into context for Codex",
+    "summary": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task. The artic",
+    "content": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task. The article OpenAI Appshots turn any Mac window into context for Codex appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
+    "id": "news-2083"
+  },
+  {
+    "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
+    "summary": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term",
+    "content": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits. The article Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
+    "id": "news-2082"
+  },
+  {
+    "title": "The Invisible Cliff: AI Development and Architectural Debt",
+    "summary": "Article URL: https://mynock.substack.com/p/the-invisible-cliff-ai-development Comments URL: https://news.ycombinator.com/item?id=48238611 Points: 3 # Comments: 0",
+    "content": "Article URL: https://mynock.substack.com/p/the-invisible-cliff-ai-development Comments URL: https://news.ycombinator.com/item?id=48238611 Points: 3 # Comments: 0",
+    "author": "mynock",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mynock.substack.com/p/the-invisible-cliff-ai-development",
+    "id": "news-2081"
+  },
+  {
+    "title": "AI's Plummeting Prices Are a Software Story, Not a Hardware One",
+    "summary": "Article URL: https://weightythoughts.com/p/ais-plummeting-prices-are-a-software Comments URL: https://news.ycombinator.com/item?id=48238639 Points: 2 # Comments: 1",
+    "content": "Article URL: https://weightythoughts.com/p/ais-plummeting-prices-are-a-software Comments URL: https://news.ycombinator.com/item?id=48238639 Points: 2 # Comments: 1",
+    "author": "gmays",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://weightythoughts.com/p/ais-plummeting-prices-are-a-software",
+    "id": "news-2080"
+  },
+  {
+    "title": "Politico agrees to shut down both AI tools at center of landmark arbitration",
+    "summary": "Article URL: https://wbng.org/2026/05/22/politico-ai-arbitration-victory/ Comments URL: https://news.ycombinator.com/item?id=48238731 Points: 1 # Comments: 0",
+    "content": "Article URL: https://wbng.org/2026/05/22/politico-ai-arbitration-victory/ Comments URL: https://news.ycombinator.com/item?id=48238731 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wbng.org/2026/05/22/politico-ai-arbitration-victory/",
+    "id": "news-2079"
+  },
+  {
+    "title": "Microsoft Drops Claude Code After Budget Overrun",
+    "summary": "Article URL: https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun Comments URL: https://news.ycombinator.com/item?id=48238896 Points: 18 # Comments: 1",
+    "content": "Article URL: https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun Comments URL: https://news.ycombinator.com/item?id=48238896 Points: 18 # Comments: 1",
+    "author": "robertkarl",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun",
+    "id": "news-2078"
+  },
+  {
+    "title": "Sundar Pichai discusses AI search",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html Comments URL: https://news.ycombinator.com/item?id=48239011 Points: 2 # Comments",
+    "content": "Article URL: https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html Comments URL: https://news.ycombinator.com/item?id=48239011 Points: 2 # Comments: 0",
+    "author": "garyrob",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html",
+    "id": "news-2077"
+  },
+  {
     "title": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
     "summary": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for ",
     "content": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for frontier models with a 90-day window before release. The article Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks appeared first on The Decoder.",
