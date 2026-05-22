@@ -1,5 +1,109 @@
 [
   {
+    "title": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
+    "summary": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for ",
+    "content": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for frontier models with a 90-day window before release. The article Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/",
+    "id": "news-2076"
+  },
+  {
+    "title": "California governor signs first US executive order to protect workers from AI job loss",
+    "summary": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governor signs first US executive order to prot",
+    "content": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governor signs first US executive order to protect workers from AI job loss appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
+    "id": "news-2075"
+  },
+  {
+    "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
+    "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent. The article OpenAI burned through $1.22",
+    "content": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent. The article OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
+    "id": "news-2074"
+  },
+  {
+    "title": "Building Context-Aware Search in Python with LLM Embeddings and Metadata",
+    "summary": "Article URL: https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/ Comments URL: https://news.ycombinator.com/item?id=48235888 Points: 1 # Comments: ",
+    "content": "Article URL: https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/ Comments URL: https://news.ycombinator.com/item?id=48235888 Points: 1 # Comments: 0",
+    "author": "eigenBasis",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/",
+    "id": "news-2073"
+  },
+  {
+    "title": "Ask HN: What is the least sycophantic frontier LLM?",
+    "summary": "My daily driver is Gemini, and 3.5 Flash seems more sycophantic and malleable than Gemini Pro 3.1, which is a pretty big deal for me -- I really need as much objectivity and impartiality from the LLM ",
+    "content": "My daily driver is Gemini, and 3.5 Flash seems more sycophantic and malleable than Gemini Pro 3.1, which is a pretty big deal for me -- I really need as much objectivity and impartiality from the LLM as I can get. So I'm contemplating switching to Claude or ChatGPT, and I wanted to ask about your experiences -- does any frontier model really stand out here? Comments URL: https://news.ycombinator.com/item?id=48235912 Points: 1 # Comments: 0",
+    "author": "Michelangelo11",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48235912",
+    "id": "news-2072"
+  },
+  {
+    "title": "Anthropic Code with Claude showed off coding's future–whether you like it or not",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/ Comments URL: https://news.ycombinator.com/item?id=48",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/ Comments URL: https://news.ycombinator.com/item?id=48235920 Points: 1 # Comments: 0",
+    "author": "bookofjoe",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "id": "news-2071"
+  },
+  {
+    "title": "Literary AI Scandal Changes Everything",
+    "summary": "Article URL: https://www.theatlantic.com/books/2026/05/granta-ai-fiction-book-scandal-changes-everything/687243/ Comments URL: https://news.ycombinator.com/item?id=48235947 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/books/2026/05/granta-ai-fiction-book-scandal-changes-everything/687243/ Comments URL: https://news.ycombinator.com/item?id=48235947 Points: 1 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/books/2026/05/granta-ai-fiction-book-scandal-changes-everything/687243/",
+    "id": "news-2070"
+  },
+  {
+    "title": "An AI system to help scientists write expert-level empirical software",
+    "summary": "Article URL: https://arxiv.org/abs/2509.06503 Comments URL: https://news.ycombinator.com/item?id=48236239 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2509.06503 Comments URL: https://news.ycombinator.com/item?id=48236239 Points: 1 # Comments: 0",
+    "author": "cyco130",
+    "date": "2026-05-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2509.06503",
+    "id": "news-2069"
+  },
+  {
     "title": "Proton Pass for AI Agents",
     "summary": "Article URL: https://proton.me/blog/pass-access-tokens Comments URL: https://news.ycombinator.com/item?id=48233997 Points: 1 # Comments: 1",
     "content": "Article URL: https://proton.me/blog/pass-access-tokens Comments URL: https://news.ycombinator.com/item?id=48233997 Points: 1 # Comments: 1",
