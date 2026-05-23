@@ -1,5 +1,83 @@
 [
   {
+    "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
+    "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and ",
+    "content": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering a four-legged robot. The article Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+    "id": "news-2125"
+  },
+  {
+    "title": "One of the world's top law schools draws a hard line against AI in legal education",
+    "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers ",
+    "content": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers must first learn to think for themselves before they can use AI meaningfully. The article One of the world's top law schools draws a hard line against AI in legal education appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
+    "id": "news-2124"
+  },
+  {
+    "title": "Cool New AI Meetup",
+    "summary": "Article URL: https://greenvilleAI.coffee/ Comments URL: https://news.ycombinator.com/item?id=48246443 Points: 1 # Comments: 0",
+    "content": "Article URL: https://greenvilleAI.coffee/ Comments URL: https://news.ycombinator.com/item?id=48246443 Points: 1 # Comments: 0",
+    "author": "andytratt",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://greenvilleAI.coffee/",
+    "id": "news-2123"
+  },
+  {
+    "title": "AI doesn't divide developers – it just reveals them",
+    "summary": "Article URL: https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/ Comments URL: https://news.ycombinator.com/item?id=48246539 Points: 1 # Comments: 0",
+    "content": "Article URL: https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/ Comments URL: https://news.ycombinator.com/item?id=48246539 Points: 1 # Comments: 0",
+    "author": "fred1268",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/",
+    "id": "news-2122"
+  },
+  {
+    "title": "Claude Mythos Preview Uncovers 10k High-Risk Software Vulnerabilities",
+    "summary": "Article URL: https://www.ibtimes.sg/anthropics-claude-mythos-preview-uncovers-10000-high-risk-software-vulnerabilities-50-partners-86807 Comments URL: https://news.ycombinator.com/item?id=48246576 Poi",
+    "content": "Article URL: https://www.ibtimes.sg/anthropics-claude-mythos-preview-uncovers-10000-high-risk-software-vulnerabilities-50-partners-86807 Comments URL: https://news.ycombinator.com/item?id=48246576 Points: 1 # Comments: 0",
+    "author": "bhartipoddar",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ibtimes.sg/anthropics-claude-mythos-preview-uncovers-10000-high-risk-software-vulnerabilities-50-partners-86807",
+    "id": "news-2121"
+  },
+  {
+    "title": "The Download: coding's future, the 'Steroid Olympics,' and AI-driven science",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/ Comments URL: https://news.ycombinator.com/item?id=48246633 Points: 1 # Comment",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/ Comments URL: https://news.ycombinator.com/item?id=48246633 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "id": "news-2120"
+  },
+  {
     "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
     "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling",
     "content": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safeguards strong enough to prevent misuse of these models. The article Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch ",
