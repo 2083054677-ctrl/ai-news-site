@@ -1,5 +1,70 @@
 [
   {
+    "title": "Agentic Compilation: Reducing LLM Rerun Costs",
+    "summary": "Article URL: https://arxiv.org/abs/2604.09718 Comments URL: https://news.ycombinator.com/item?id=48251826 Points: 3 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2604.09718 Comments URL: https://news.ycombinator.com/item?id=48251826 Points: 3 # Comments: 0",
+    "author": "rebekkamikkoa",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2604.09718",
+    "id": "news-2146"
+  },
+  {
+    "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/ Comments URL: https://news.ycombinator.com/item?id=48251864 Points: 5 # Comments: ",
+    "content": "Article URL: https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/ Comments URL: https://news.ycombinator.com/item?id=48251864 Points: 5 # Comments: 5",
+    "author": "rbanffy",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+    "id": "news-2145"
+  },
+  {
+    "title": "CodeShot – Web screenshots,scraping, and link previews for AI agents",
+    "summary": "Article URL: https://drmadmeow.up.railway.app/ Comments URL: https://news.ycombinator.com/item?id=48251888 Points: 3 # Comments: 0",
+    "content": "Article URL: https://drmadmeow.up.railway.app/ Comments URL: https://news.ycombinator.com/item?id=48251888 Points: 3 # Comments: 0",
+    "author": "edowamba",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://drmadmeow.up.railway.app/",
+    "id": "news-2144"
+  },
+  {
+    "title": "The Polyglot Protocol – senior-engineer guardrails for AI coding agents",
+    "summary": "Article URL: https://github.com/sabir-gbs/the-polyglot-protocol Comments URL: https://news.ycombinator.com/item?id=48252073 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/sabir-gbs/the-polyglot-protocol Comments URL: https://news.ycombinator.com/item?id=48252073 Points: 2 # Comments: 0",
+    "author": "sabirsemerkant",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sabir-gbs/the-polyglot-protocol",
+    "id": "news-2143"
+  },
+  {
+    "title": "Customizing an LLM for Enterprise Software Engineering",
+    "summary": "Article URL: https://arxiv.org/abs/2605.16517 Comments URL: https://news.ycombinator.com/item?id=48252173 Points: 3 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2605.16517 Comments URL: https://news.ycombinator.com/item?id=48252173 Points: 3 # Comments: 0",
+    "author": "daureg",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2605.16517",
+    "id": "news-2142"
+  },
+  {
     "title": "Claude doesn't know what time it is",
     "summary": "Article URL: https://blog.danielyj.com/blog/please-give-it-a-clock Comments URL: https://news.ycombinator.com/item?id=48250913 Points: 4 # Comments: 1",
     "content": "Article URL: https://blog.danielyj.com/blog/please-give-it-a-clock Comments URL: https://news.ycombinator.com/item?id=48250913 Points: 4 # Comments: 1",
