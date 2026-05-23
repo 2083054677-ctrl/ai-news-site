@@ -1,5 +1,70 @@
 [
   {
+    "title": "Scaling Creativity in the Age of AI",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48246723 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48246723 Points: 2 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "id": "news-2130"
+  },
+  {
+    "title": "Ccost – a Rust TUI to browse Claude Code logs and track API costs",
+    "summary": "Article URL: https://github.com/peterxcli/ccost Comments URL: https://news.ycombinator.com/item?id=48246725 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/peterxcli/ccost Comments URL: https://news.ycombinator.com/item?id=48246725 Points: 2 # Comments: 0",
+    "author": "peterxcli",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/peterxcli/ccost",
+    "id": "news-2129"
+  },
+  {
+    "title": "OpenClaw: Own Personal AI Assistant. Any OS. Any Platform",
+    "summary": "Article URL: https://github.com/openclaw/openclaw Comments URL: https://news.ycombinator.com/item?id=48247104 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/openclaw/openclaw Comments URL: https://news.ycombinator.com/item?id=48247104 Points: 1 # Comments: 0",
+    "author": "danborn26",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/openclaw/openclaw",
+    "id": "news-2128"
+  },
+  {
+    "title": "MediaUse Makes FIFA 2026 Programmable for AI Agents (No Vision)",
+    "summary": "Article URL: https://mediause.dev/skills/fifa2026 Comments URL: https://news.ycombinator.com/item?id=48247131 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mediause.dev/skills/fifa2026 Comments URL: https://news.ycombinator.com/item?id=48247131 Points: 1 # Comments: 0",
+    "author": "yooibox",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mediause.dev/skills/fifa2026",
+    "id": "news-2127"
+  },
+  {
+    "title": "Herdr: A tmux-like terminal multiplexer for AI coding agents",
+    "summary": "Article URL: https://github.com/ogulcancelik/herdr Comments URL: https://news.ycombinator.com/item?id=48247248 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ogulcancelik/herdr Comments URL: https://news.ycombinator.com/item?id=48247248 Points: 2 # Comments: 0",
+    "author": "yigitkonur35",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ogulcancelik/herdr",
+    "id": "news-2126"
+  },
+  {
     "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
     "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and ",
     "content": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering a four-legged robot. The article Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip appeared first on The Decoder.",
