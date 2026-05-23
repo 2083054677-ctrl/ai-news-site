@@ -1,5 +1,84 @@
 [
   {
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "summary": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "id": "news-2107"
+  },
+  {
+    "title": "94% companies will keep spending on AI even when it fails",
+    "summary": "Article URL: https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/ Comments URL: https://news.ycombinator.com/item?id=48243523 Points: 3 # Comments: 0",
+    "content": "Article URL: https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/ Comments URL: https://news.ycombinator.com/item?id=48243523 Points: 3 # Comments: 0",
+    "author": "jslat",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/",
+    "id": "news-2106"
+  },
+  {
+    "title": "What it takes to run an AI coworker on iMessage",
+    "summary": "Article URL: https://opencomputer.dev/blog/what-it-takes-to-run-an-ai-coworker-on-imessage/ Comments URL: https://news.ycombinator.com/item?id=48243799 Points: 1 # Comments: 0",
+    "content": "Article URL: https://opencomputer.dev/blog/what-it-takes-to-run-an-ai-coworker-on-imessage/ Comments URL: https://news.ycombinator.com/item?id=48243799 Points: 1 # Comments: 0",
+    "author": "iacguy",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://opencomputer.dev/blog/what-it-takes-to-run-an-ai-coworker-on-imessage/",
+    "id": "news-2105"
+  },
+  {
+    "title": "Sci-Hub has created a new AI chatbot. Is it any good?",
+    "summary": "Article URL: https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04 Comments URL: https://news.ycombinator.com/item?id=48243836 Points: 2 # Comments: 0",
+    "content": "Article URL: https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04 Comments URL: https://news.ycombinator.com/item?id=48243836 Points: 2 # Comments: 0",
+    "author": "scubscub",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04",
+    "id": "news-2104"
+  },
+  {
+    "title": "Is AI Profitable Yet?",
+    "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 2 # Comments: 0",
+    "content": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 2 # Comments: 0",
+    "author": "poyu",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://isaiprofitable.com/",
+    "id": "news-2103"
+  },
+  {
+    "title": "Cognitive architecture AI weighted memory, and a falsifiable continuity metric",
+    "summary": "Article URL: https://zenodo.org/records/20350249 Comments URL: https://news.ycombinator.com/item?id=48243926 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/20350249 Comments URL: https://news.ycombinator.com/item?id=48243926 Points: 1 # Comments: 0",
+    "author": "timeless-hayoka",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/20350249",
+    "id": "news-2102"
+  },
+  {
     "title": "Battle over WiseTech AI job cuts intensifies amid China staff accusations",
     "summary": "Article URL: https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8 Comments URL: https://news.ycombinator.com/item?id=48242158 Points: 2 # Comments",
     "content": "Article URL: https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8 Comments URL: https://news.ycombinator.com/item?id=48242158 Points: 2 # Comments: 0",
