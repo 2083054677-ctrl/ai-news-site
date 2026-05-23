@@ -1,5 +1,96 @@
 [
   {
+    "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+    "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling",
+    "content": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safeguards strong enough to prevent misuse of these models. The article Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch ",
+    "author": "Matthias Bastian",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
+    "id": "news-2119"
+  },
+  {
+    "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
+    "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and th",
+    "content": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and the company is shifting from traffic distributor to AI publisher whose source selection is becoming a question of editorial power. The article Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
+    "id": "news-2118"
+  },
+  {
+    "title": "ChatGPT as the AOL of AI",
+    "summary": "Article URL: https://rebecca-powell.com/posts/return-on-intelligence-02-moats/ Comments URL: https://news.ycombinator.com/item?id=48245748 Points: 4 # Comments: 1",
+    "content": "Article URL: https://rebecca-powell.com/posts/return-on-intelligence-02-moats/ Comments URL: https://news.ycombinator.com/item?id=48245748 Points: 4 # Comments: 1",
+    "author": "maille",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/",
+    "id": "news-2117"
+  },
+  {
+    "title": "Does anyone in your organisation own \"correctness\" in your AI products?",
+    "summary": "Article URL: https://alokit.substack.com/p/nobody-in-your-organization-owns Comments URL: https://news.ycombinator.com/item?id=48245767 Points: 4 # Comments: 0",
+    "content": "Article URL: https://alokit.substack.com/p/nobody-in-your-organization-owns Comments URL: https://news.ycombinator.com/item?id=48245767 Points: 4 # Comments: 0",
+    "author": "avikalp",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alokit.substack.com/p/nobody-in-your-organization-owns",
+    "id": "news-2116"
+  },
+  {
+    "title": "Embedded acoustic AI with <16ms latency running on 8MB RAM",
+    "summary": "Article URL: https://www.voisace.com/blog Comments URL: https://news.ycombinator.com/item?id=48245869 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.voisace.com/blog Comments URL: https://news.ycombinator.com/item?id=48245869 Points: 3 # Comments: 0",
+    "author": "shermanliu",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.voisace.com/blog",
+    "id": "news-2115"
+  },
+  {
+    "title": "AMD's Lemonade SDK for AI Promotes macOS to GA Status, ROCm 7.13 Integrated",
+    "summary": "Article URL: https://www.phoronix.com/news/Lemonade-SDK-10.5-Released Comments URL: https://news.ycombinator.com/item?id=48245944 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.phoronix.com/news/Lemonade-SDK-10.5-Released Comments URL: https://news.ycombinator.com/item?id=48245944 Points: 2 # Comments: 0",
+    "author": "breve",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.phoronix.com/news/Lemonade-SDK-10.5-Released",
+    "id": "news-2114"
+  },
+  {
+    "title": "The AI Great Leap Forward (A Warning)",
+    "summary": "Article URL: https://mamund.substack.com/p/the-ai-great-leap-forward-a-warning Comments URL: https://news.ycombinator.com/item?id=48246235 Points: 2 # Comments: 0",
+    "content": "Article URL: https://mamund.substack.com/p/the-ai-great-leap-forward-a-warning Comments URL: https://news.ycombinator.com/item?id=48246235 Points: 2 # Comments: 0",
+    "author": "fagnerbrack",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mamund.substack.com/p/the-ai-great-leap-forward-a-warning",
+    "id": "news-2113"
+  },
+  {
     "title": "Cannes Film Cost $500k to Make. $400k Was AI Compute Costs",
     "summary": "Article URL: https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d Comments URL: https://news.ycombinator.com/item?id=48244942 Points: 5 # Comment",
     "content": "Article URL: https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d Comments URL: https://news.ycombinator.com/item?id=48244942 Points: 5 # Comments: 1",
