@@ -1,5 +1,70 @@
 [
   {
+    "title": "Cannes Film Cost $500k to Make. $400k Was AI Compute Costs",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d Comments URL: https://news.ycombinator.com/item?id=48244942 Points: 5 # Comment",
+    "content": "Article URL: https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d Comments URL: https://news.ycombinator.com/item?id=48244942 Points: 5 # Comments: 1",
+    "author": "JumpCrisscross",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d",
+    "id": "news-2112"
+  },
+  {
+    "title": "Starbucks scraps AI inventory tool after nine months",
+    "summary": "Article URL: https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226 Comments URL: https://news.ycombinator.com/item?id=48244956 Points: 2 # Comments: 0",
+    "content": "Article URL: https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226 Comments URL: https://news.ycombinator.com/item?id=48244956 Points: 2 # Comments: 0",
+    "author": "thunderbong",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226",
+    "id": "news-2111"
+  },
+  {
+    "title": "Strengthening Singapore's AI Future",
+    "summary": "Article URL: https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/ Comments URL: https://news.ycombinator.com/item?id=48244995 Points: 2 # Comments: 0",
+    "content": "Article URL: https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/ Comments URL: https://news.ycombinator.com/item?id=48244995 Points: 2 # Comments: 0",
+    "author": "pretext",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "id": "news-2110"
+  },
+  {
+    "title": "AI Prompt Examples and Techniques for Better AI Outputs",
+    "summary": "Article URL: https://promptessor.com/blog/10-ai-prompt-examples-and-techniques Comments URL: https://news.ycombinator.com/item?id=48245100 Points: 1 # Comments: 0",
+    "content": "Article URL: https://promptessor.com/blog/10-ai-prompt-examples-and-techniques Comments URL: https://news.ycombinator.com/item?id=48245100 Points: 1 # Comments: 0",
+    "author": "rizkimurtadha",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://promptessor.com/blog/10-ai-prompt-examples-and-techniques",
+    "id": "news-2109"
+  },
+  {
+    "title": "AI-Declaration.md",
+    "summary": "Article URL: https://github.com/DimwitLabs/AI-DECLARATION.md Comments URL: https://news.ycombinator.com/item?id=48245101 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/DimwitLabs/AI-DECLARATION.md Comments URL: https://news.ycombinator.com/item?id=48245101 Points: 1 # Comments: 0",
+    "author": "rapiz",
+    "date": "2026-05-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/DimwitLabs/AI-DECLARATION.md",
+    "id": "news-2108"
+  },
+  {
     "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
     "summary": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
     "content": "",
