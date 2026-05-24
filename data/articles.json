@@ -1,5 +1,57 @@
 [
   {
+    "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools",
+    "summary": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered d",
+    "content": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered detailed stereotypes instead of accurate results. Thinking models catch the trick, but only if users know when to reach for them. The article Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+    "id": "news-2162"
+  },
+  {
+    "title": "Physicists create hybrid light-matter particles to replace electrons in AI cmpt",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/05/260518041341.htm Comments URL: https://news.ycombinator.com/item?id=48256161 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.sciencedaily.com/releases/2026/05/260518041341.htm Comments URL: https://news.ycombinator.com/item?id=48256161 Points: 1 # Comments: 0",
+    "author": "Ember_Wipe",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+    "id": "news-2161"
+  },
+  {
+    "title": "South Korea's deputy PM says AI wealth must benefit the public",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html Comments URL: https://news.ycombinator.com/item?id=48256265 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html Comments URL: https://news.ycombinator.com/item?id=48256265 Points: 1 # Comments: 0",
+    "author": "geox",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+    "id": "news-2160"
+  },
+  {
+    "title": "AI Stock Is the Ultimate Set-It-and-Forget-It Buy for Long-Term Investors",
+    "summary": "Article URL: https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/ Comments URL: https://news.ycombinator.com/item?id=48256282 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/ Comments URL: https://news.ycombinator.com/item?id=48256282 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/",
+    "id": "news-2159"
+  },
+  {
     "title": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed",
     "summary": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70",
     "content": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70 percent compared to standard self-consistency while matching its accuracy. The whole search cost $40 and took 160 minutes. The article Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed appeared first on The Decoder.",
