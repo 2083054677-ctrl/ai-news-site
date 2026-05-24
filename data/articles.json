@@ -1,5 +1,70 @@
 [
   {
+    "title": "Scan any codebase in 3s, then verify what your AI builds",
+    "summary": "Article URL: https://github.com/anatomia-dev/anatomia Comments URL: https://news.ycombinator.com/item?id=48253446 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/anatomia-dev/anatomia Comments URL: https://news.ycombinator.com/item?id=48253446 Points: 2 # Comments: 0",
+    "author": "stealthyAF",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anatomia-dev/anatomia",
+    "id": "news-2151"
+  },
+  {
+    "title": "A simple AI agent in Java",
+    "summary": "Article URL: https://github.com/machineswillrise/jagent Comments URL: https://news.ycombinator.com/item?id=48253474 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/machineswillrise/jagent Comments URL: https://news.ycombinator.com/item?id=48253474 Points: 1 # Comments: 0",
+    "author": "onesingleblast",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/machineswillrise/jagent",
+    "id": "news-2150"
+  },
+  {
+    "title": "Shannon Got AI This Far. Kolmogorov Shows Where It Stops",
+    "summary": "Article URL: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0 Comments URL: https://news.ycombinator.com/item?id=48253580 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0 Comments URL: https://news.ycombinator.com/item?id=48253580 Points: 1 # Comments: 0",
+    "author": "dnw",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0",
+    "id": "news-2149"
+  },
+  {
+    "title": "Characterization of machine learning compilers for LLM inference on NVIDIA GPUs",
+    "summary": "Article URL: https://link.springer.com/article/10.1007/s11227-026-08559-6 Comments URL: https://news.ycombinator.com/item?id=48253584 Points: 1 # Comments: 0",
+    "content": "Article URL: https://link.springer.com/article/10.1007/s11227-026-08559-6 Comments URL: https://news.ycombinator.com/item?id=48253584 Points: 1 # Comments: 0",
+    "author": "matt_d",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://link.springer.com/article/10.1007/s11227-026-08559-6",
+    "id": "news-2148"
+  },
+  {
+    "title": "SSV: Sparse Speculative Verification for Efficient LLM Inference",
+    "summary": "Article URL: https://arxiv.org/abs/2605.19893 Comments URL: https://news.ycombinator.com/item?id=48253621 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2605.19893 Comments URL: https://news.ycombinator.com/item?id=48253621 Points: 1 # Comments: 0",
+    "author": "matt_d",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2605.19893",
+    "id": "news-2147"
+  },
+  {
     "title": "Agentic Compilation: Reducing LLM Rerun Costs",
     "summary": "Article URL: https://arxiv.org/abs/2604.09718 Comments URL: https://news.ycombinator.com/item?id=48251826 Points: 3 # Comments: 0",
     "content": "Article URL: https://arxiv.org/abs/2604.09718 Comments URL: https://news.ycombinator.com/item?id=48251826 Points: 3 # Comments: 0",
