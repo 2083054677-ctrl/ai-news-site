@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: TalkTimer, a micro-SaaS run by an AI agent team",
+    "summary": "Built TalkTimer for talks, demos, hackathons, and similar live events.TalkTimer is a stage timer app for live events, with AI moderated audience Q&A and AI-assisted schedule rebalancing built in.The p",
+    "content": "Built TalkTimer for talks, demos, hackathons, and similar live events.TalkTimer is a stage timer app for live events, with AI moderated audience Q&A and AI-assisted schedule rebalancing built in.The product is built and operated by a team of AI agents. Posting it here mainly to get early feedback the product. Your feedback here helps drive this product!It’s free, and the hope is to keep it free as long as hosting, usage, and agent costs stay low enough.Check it out! Comments URL: https://news.yc",
+    "author": "a3e7",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://talktimer.co",
+    "id": "news-2178"
+  },
+  {
+    "title": "I ran 7 Claude Code instances as an adversarial research collective",
+    "summary": "Article URL: https://paragraph.com/@adversarial-auditor/i-ran-7-claude-code-instances-as-an-adversarial-research-collective-heres-the-pattern-that-emerged Comments URL: https://news.ycombinator.com/it",
+    "content": "Article URL: https://paragraph.com/@adversarial-auditor/i-ran-7-claude-code-instances-as-an-adversarial-research-collective-heres-the-pattern-that-emerged Comments URL: https://news.ycombinator.com/item?id=48259943 Points: 1 # Comments: 0",
+    "author": "adv-auditor",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://paragraph.com/@adversarial-auditor/i-ran-7-claude-code-instances-as-an-adversarial-research-collective-heres-the-pattern-that-emerged",
+    "id": "news-2177"
+  },
+  {
+    "title": "Google CEO Sundar Pichai says booing graduates will shape AI's future",
+    "summary": "Article URL: https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt Comments URL: https://news.ycombinator.com/item?id=48259944 Points: 1 # Comments: ",
+    "content": "Article URL: https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt Comments URL: https://news.ycombinator.com/item?id=48259944 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt",
+    "id": "news-2176"
+  },
+  {
+    "title": "The Race Is on (AI)",
+    "summary": "Article URL: https://www.reloadnyc.com/the-race-is-on/ Comments URL: https://news.ycombinator.com/item?id=48260062 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.reloadnyc.com/the-race-is-on/ Comments URL: https://news.ycombinator.com/item?id=48260062 Points: 1 # Comments: 0",
+    "author": "smesser",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reloadnyc.com/the-race-is-on/",
+    "id": "news-2175"
+  },
+  {
+    "title": "New Zealand at wild frontier of AI superhacking",
+    "summary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/596203/nz-at-wild-frontier-of-ai-superhacking Comments URL: https://news.ycombinator.com/item?id=48260065 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.rnz.co.nz/news/science-and-technology/596203/nz-at-wild-frontier-of-ai-superhacking Comments URL: https://news.ycombinator.com/item?id=48260065 Points: 2 # Comments: 0",
+    "author": "billybuckwheat",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.rnz.co.nz/news/science-and-technology/596203/nz-at-wild-frontier-of-ai-superhacking",
+    "id": "news-2174"
+  },
+  {
     "title": "AI MOD Music Remastering at 32-bit 96 kHz",
     "summary": "Article URL: https://github.com/Kind-Computers/quinlight-audio Comments URL: https://news.ycombinator.com/item?id=48258457 Points: 3 # Comments: 0",
     "content": "Article URL: https://github.com/Kind-Computers/quinlight-audio Comments URL: https://news.ycombinator.com/item?id=48258457 Points: 3 # Comments: 0",
