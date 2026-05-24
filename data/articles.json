@@ -1,5 +1,96 @@
 [
   {
+    "title": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed",
+    "summary": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70",
+    "content": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70 percent compared to standard self-consistency while matching its accuracy. The whole search cost $40 and took 160 minutes. The article Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/",
+    "id": "news-2158"
+  },
+  {
+    "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
+    "summary": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model ",
+    "content": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too. The controversial \"any lawful use\" clause that derailed earlier talks is not part of the deal. The article Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
+    "id": "news-2157"
+  },
+  {
+    "title": "Karen Hao: AI creating a DESPERATE BASE OF WORKERS with no full-time employment",
+    "summary": "Article URL: https://www.youtube.com/watch?v=E4Zd9ZXjkao Comments URL: https://news.ycombinator.com/item?id=48255657 Points: 5 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=E4Zd9ZXjkao Comments URL: https://news.ycombinator.com/item?id=48255657 Points: 5 # Comments: 1",
+    "author": "chvid",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=E4Zd9ZXjkao",
+    "id": "news-2156"
+  },
+  {
+    "title": "Claude Got Fed Up",
+    "summary": "Today I was using Anthropic’s Claude Sonnet 4.5 to search and discuss hotel options for my 25th Wedding Anniversary and I wanted to pick the right one. After narrowing down to a few, Claude suggested ",
+    "content": "Today I was using Anthropic’s Claude Sonnet 4.5 to search and discuss hotel options for my 25th Wedding Anniversary and I wanted to pick the right one. After narrowing down to a few, Claude suggested one in particular, that we had been skirting around for a while, would be the right one. I said “if I go for that hotel it’ll be the King Room” Claude responded, quoting what I had said with “If it’s the Rembrandt”? - mate, we’ve been at this for HOURS! I was a little taken aback by this and told Cl",
+    "author": "blokeofkent",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48255660",
+    "id": "news-2155"
+  },
+  {
+    "title": "OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content",
+    "summary": "Article URL: https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/ Comments URL: https://news.ycombinator.com/item?id=48255746 Points: 2 # Comments: 0",
+    "content": "Article URL: https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/ Comments URL: https://news.ycombinator.com/item?id=48255746 Points: 2 # Comments: 0",
+    "author": "steveharing1",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/",
+    "id": "news-2154"
+  },
+  {
+    "title": "ShannonBase: The Lightweight Semantic Layer for Enterprise AI SQL",
+    "summary": "Article URL: https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e Comments URL: https://news.ycombinator.com/item?id=48255851 Points: 1 #",
+    "content": "Article URL: https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e Comments URL: https://news.ycombinator.com/item?id=48255851 Points: 1 # Comments: 1",
+    "author": "shannon-data-ai",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e",
+    "id": "news-2153"
+  },
+  {
+    "title": "State Explosion Security Problem in AI-Era Software Supply Chains",
+    "summary": "Article URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foaut",
+    "content": "Article URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252F",
+    "author": "nirwandogra",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue",
+    "id": "news-2152"
+  },
+  {
     "title": "Scan any codebase in 3s, then verify what your AI builds",
     "summary": "Article URL: https://github.com/anatomia-dev/anatomia Comments URL: https://news.ycombinator.com/item?id=48253446 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/anatomia-dev/anatomia Comments URL: https://news.ycombinator.com/item?id=48253446 Points: 2 # Comments: 0",
