@@ -1,5 +1,70 @@
 [
   {
+    "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
+    "summary": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during tr",
+    "content": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model learns by answering questions and finding the right passages on its own. The article ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+    "id": "news-2168"
+  },
+  {
+    "title": "Salesforce Touts AI Promise over Reality in SaaSpocalypse Fight",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-22/salesforce-touts-ai-promise-over-reality-in-saaspocalypse-fight Comments URL: https://news.ycombinator.com/item?id=48257522 Points: 1 # ",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-05-22/salesforce-touts-ai-promise-over-reality-in-saaspocalypse-fight Comments URL: https://news.ycombinator.com/item?id=48257522 Points: 1 # Comments: 0",
+    "author": "kjhughes",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-05-22/salesforce-touts-ai-promise-over-reality-in-saaspocalypse-fight",
+    "id": "news-2167"
+  },
+  {
+    "title": "AI and the Rise of Just-in-Time Knowledge Work",
+    "summary": "Article URL: https://operatingnotes.bearblog.dev/ai-and-the-rise-of-just-in-time-knowledge-work/ Comments URL: https://news.ycombinator.com/item?id=48257530 Points: 1 # Comments: 0",
+    "content": "Article URL: https://operatingnotes.bearblog.dev/ai-and-the-rise-of-just-in-time-knowledge-work/ Comments URL: https://news.ycombinator.com/item?id=48257530 Points: 1 # Comments: 0",
+    "author": "ninja-z",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://operatingnotes.bearblog.dev/ai-and-the-rise-of-just-in-time-knowledge-work/",
+    "id": "news-2166"
+  },
+  {
+    "title": "How to Tame AI's Voracious Appetite for Energy",
+    "summary": "Article URL: https://nautil.us/how-to-tame-ais-voracious-appetite-for-energy-1281212 Comments URL: https://news.ycombinator.com/item?id=48257616 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nautil.us/how-to-tame-ais-voracious-appetite-for-energy-1281212 Comments URL: https://news.ycombinator.com/item?id=48257616 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nautil.us/how-to-tame-ais-voracious-appetite-for-energy-1281212",
+    "id": "news-2165"
+  },
+  {
+    "title": "The Case Against the AI Job Apocalypse",
+    "summary": "Article URL: https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/05/12/the-case-against-the-ai-job-apocalypse Comments URL: https://news.ycombinator.com/item?id=48257669 Points: ",
+    "content": "Article URL: https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/05/12/the-case-against-the-ai-job-apocalypse Comments URL: https://news.ycombinator.com/item?id=48257669 Points: 1 # Comments: 1",
+    "author": "mooreds",
+    "date": "2026-05-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/05/12/the-case-against-the-ai-job-apocalypse",
+    "id": "news-2164"
+  },
+  {
     "title": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent",
     "summary": "Yann LeCun says current AI systems aren't genuinely intelligent. Demis Hassabis thinks humanity is already \"standing in the foothills of the singularity.\" And Gemini co-lead Oriol Vinyals splits the d",
     "content": "Yann LeCun says current AI systems aren't genuinely intelligent. Demis Hassabis thinks humanity is already \"standing in the foothills of the singularity.\" And Gemini co-lead Oriol Vinyals splits the difference: today's models would've looked like AGI seven years ago, but they still can't learn from experience or produce real breakthroughs. The article Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent appeared first on The Decode",
