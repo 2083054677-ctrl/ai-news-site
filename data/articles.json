@@ -1,5 +1,32 @@
 [
   {
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "summary": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/agent-glossary",
+    "id": "news-2203"
+  },
+  {
+    "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection",
+    "summary": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI models show evidence of introspection and emo",
+    "content": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI models show evidence of introspection and emotion-like states. The Pope's own document struck a different tone: \"These systems merely imitate certain functions of human intelligence.\" The article At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
+    "id": "news-2202"
+  },
+  {
     "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
     "summary": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the ",
     "content": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot. His stance is one example of how deeply split the AI community is over the role of LLMs. The article George Hotz says coding agents will be \"one of the most costly mistakes\" in software development appeared first on The Decoder.",
