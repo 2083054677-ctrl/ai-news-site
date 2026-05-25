@@ -1,5 +1,83 @@
 [
   {
+    "title": "AI models often give the right answers but point to the wrong sources",
+    "summary": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong. Res",
+    "content": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong. Researchers at Peking University call this \"attribution hallucination,\" a risk for regulated fields like law and medicine. Their new CiteVQA benchmark is the first to test for it systematically. The article AI models often give the right answers but point to the wrong sources appeared first on The Deco",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+    "id": "news-2194"
+  },
+  {
+    "title": "AI is not making software worse, people are",
+    "summary": "Article URL: https://rapha.land/no-ai-is-not-making-software-worse-people-are/ Comments URL: https://news.ycombinator.com/item?id=48264348 Points: 3 # Comments: 2",
+    "content": "Article URL: https://rapha.land/no-ai-is-not-making-software-worse-people-are/ Comments URL: https://news.ycombinator.com/item?id=48264348 Points: 3 # Comments: 2",
+    "author": "purpleberry",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rapha.land/no-ai-is-not-making-software-worse-people-are/",
+    "id": "news-2193"
+  },
+  {
+    "title": "Supercharging Claude Code with the Right (CLI) Tools",
+    "summary": "Article URL: https://batsov.com/articles/2026/02/17/supercharging-claude-code-with-the-right-tools/ Comments URL: https://news.ycombinator.com/item?id=48264376 Points: 2 # Comments: 0",
+    "content": "Article URL: https://batsov.com/articles/2026/02/17/supercharging-claude-code-with-the-right-tools/ Comments URL: https://news.ycombinator.com/item?id=48264376 Points: 2 # Comments: 0",
+    "author": "fagnerbrack",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://batsov.com/articles/2026/02/17/supercharging-claude-code-with-the-right-tools/",
+    "id": "news-2192"
+  },
+  {
+    "title": "Show HN: IA-SQL – Postgres compiles your documents into a wiki with an LLM",
+    "summary": "Article URL: https://github.com/feers77/iasql Comments URL: https://news.ycombinator.com/item?id=48264474 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/feers77/iasql Comments URL: https://news.ycombinator.com/item?id=48264474 Points: 1 # Comments: 0",
+    "author": "feers77",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/feers77/iasql",
+    "id": "news-2191"
+  },
+  {
+    "title": "The Essential Cloud for AI: Why Purpose-Built Defines the Future of Intelligence",
+    "summary": "Article URL: https://www.coreweave.com/blog/the-essential-cloud-for-ai-why-purpose-built-defines-the-future-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48264478 Points: 1 # Comm",
+    "content": "Article URL: https://www.coreweave.com/blog/the-essential-cloud-for-ai-why-purpose-built-defines-the-future-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48264478 Points: 1 # Comments: 0",
+    "author": "janandonly",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.coreweave.com/blog/the-essential-cloud-for-ai-why-purpose-built-defines-the-future-of-intelligence",
+    "id": "news-2190"
+  },
+  {
+    "title": "Using design patterns to encode expert judgement for LLM workflows",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6723919 Comments URL: https://news.ycombinator.com/item?id=48264553 Points: 1 # Comments: 0",
+    "content": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6723919 Comments URL: https://news.ycombinator.com/item?id=48264553 Points: 1 # Comments: 0",
+    "author": "Jackal08",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6723919",
+    "id": "news-2189"
+  },
+  {
     "title": "How AI Talks People Out of Conspiracy Theories–and What We Can Learn from That",
     "summary": "Article URL: https://www.wsj.com/tech/ai/ai-debunks-conspiracy-theories-92eff2c5 Comments URL: https://news.ycombinator.com/item?id=48262460 Points: 3 # Comments: 2",
     "content": "Article URL: https://www.wsj.com/tech/ai/ai-debunks-conspiracy-theories-92eff2c5 Comments URL: https://news.ycombinator.com/item?id=48262460 Points: 3 # Comments: 2",
