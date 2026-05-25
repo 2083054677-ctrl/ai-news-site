@@ -1,5 +1,70 @@
 [
   {
+    "title": "An AI safety safe harbor [pdf]",
+    "summary": "Article URL: https://www.williamrinehart.com/data/An_AI_Safety_Safety_Harbor.pdf Comments URL: https://news.ycombinator.com/item?id=48271332 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.williamrinehart.com/data/An_AI_Safety_Safety_Harbor.pdf Comments URL: https://news.ycombinator.com/item?id=48271332 Points: 1 # Comments: 0",
+    "author": "wrineha2",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.williamrinehart.com/data/An_AI_Safety_Safety_Harbor.pdf",
+    "id": "news-2213"
+  },
+  {
+    "title": "Show HN: Bae – AI companion built around persistent memory architecture",
+    "summary": "Article URL: https://bae.ppl.studio Comments URL: https://news.ycombinator.com/item?id=48271424 Points: 1 # Comments: 0",
+    "content": "Article URL: https://bae.ppl.studio Comments URL: https://news.ycombinator.com/item?id=48271424 Points: 1 # Comments: 0",
+    "author": "zeshutmax",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bae.ppl.studio",
+    "id": "news-2212"
+  },
+  {
+    "title": "The AI Bubble",
+    "summary": "Article URL: https://nooneshappy.com/article/the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=48271537 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nooneshappy.com/article/the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=48271537 Points: 1 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nooneshappy.com/article/the-ai-bubble/",
+    "id": "news-2211"
+  },
+  {
+    "title": "Starbucks Drops AI as Meta and Intuit Cut 11,000 Jobs",
+    "summary": "Article URL: https://www.forbes.com/sites/sandycarter/2026/05/22/starbucks-drops-ai-as-meta-and-intuit-cut-11000-jobs/ Comments URL: https://news.ycombinator.com/item?id=48271543 Points: 1 # Comments:",
+    "content": "Article URL: https://www.forbes.com/sites/sandycarter/2026/05/22/starbucks-drops-ai-as-meta-and-intuit-cut-11000-jobs/ Comments URL: https://news.ycombinator.com/item?id=48271543 Points: 1 # Comments: 0",
+    "author": "e2e4",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/sandycarter/2026/05/22/starbucks-drops-ai-as-meta-and-intuit-cut-11000-jobs/",
+    "id": "news-2210"
+  },
+  {
+    "title": "Show HN: Built a tool to create brand-consistent images using AI",
+    "summary": "Hello folks,Over the past months I found it extremely hard to find photos for my blog that looked like MY brand.I was tired of using stock photos and also did not want to spend time on canva creating ",
+    "content": "Hello folks,Over the past months I found it extremely hard to find photos for my blog that looked like MY brand.I was tired of using stock photos and also did not want to spend time on canva creating graphics. The AI images also looked very off-brand and I always had to copy paste my brand instructions to create graphics for my blog.It led me to create [InkTag.io](http://inktag.io/) - it let's users add color palette, brand style, negative words, logo for watermark etc and get consistent looking",
+    "author": "gsharma1",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://inktag.io",
+    "id": "news-2209"
+  },
+  {
     "title": "Advancing mathematics research with AI-driven formal proof search",
     "summary": "Article URL: https://arxiv.org/abs/2605.22763 Comments URL: https://news.ycombinator.com/item?id=48270206 Points: 2 # Comments: 0",
     "content": "Article URL: https://arxiv.org/abs/2605.22763 Comments URL: https://news.ycombinator.com/item?id=48270206 Points: 2 # Comments: 0",
