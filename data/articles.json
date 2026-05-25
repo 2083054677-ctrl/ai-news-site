@@ -1,5 +1,96 @@
 [
   {
+    "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+    "summary": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the ",
+    "content": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot. His stance is one example of how deeply split the AI community is over the role of LLMs. The article George Hotz says coding agents will be \"one of the most costly mistakes\" in software development appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
+    "id": "news-2201"
+  },
+  {
+    "title": "Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars",
+    "summary": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hundred dollars per problem in inference cos",
+    "content": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hundred dollars per problem in inference costs. Unlike OpenAI's natural-language approach, the system uses the Lean compiler to verify every proof step automatically. Still, the overall success rate sits at just 2.5 percent. The article Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars appeared firs",
+    "author": "Matthias Bastian",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+    "id": "news-2200"
+  },
+  {
+    "title": "Google has seriously leaned into AI enshittification lately",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365 Comments URL: https://news.ycombinator.com/item?id=48266162 Points: 2 # Co",
+    "content": "Article URL: https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365 Comments URL: https://news.ycombinator.com/item?id=48266162 Points: 2 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
+    "id": "news-2199"
+  },
+  {
+    "title": "Control Bilibili with CLI Commands for AI Agents (0 Token Cost)",
+    "summary": "Article URL: https://mediause.dev/skills/bilibili Comments URL: https://news.ycombinator.com/item?id=48266165 Points: 2 # Comments: 0",
+    "content": "Article URL: https://mediause.dev/skills/bilibili Comments URL: https://news.ycombinator.com/item?id=48266165 Points: 2 # Comments: 0",
+    "author": "yooibox",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mediause.dev/skills/bilibili",
+    "id": "news-2198"
+  },
+  {
+    "title": "Amazon launches new AI Wearable \"Bee\"",
+    "summary": "Article URL: https://bee.computer/ Comments URL: https://news.ycombinator.com/item?id=48266214 Points: 1 # Comments: 0",
+    "content": "Article URL: https://bee.computer/ Comments URL: https://news.ycombinator.com/item?id=48266214 Points: 1 # Comments: 0",
+    "author": "mdrzn",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bee.computer/",
+    "id": "news-2197"
+  },
+  {
+    "title": "The AI Boom Is Reshuffling the Global Stock Market Hierarchy [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=48ffHKbQpbE Comments URL: https://news.ycombinator.com/item?id=48266244 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=48ffHKbQpbE Comments URL: https://news.ycombinator.com/item?id=48266244 Points: 1 # Comments: 0",
+    "author": "mgh2",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=48ffHKbQpbE",
+    "id": "news-2196"
+  },
+  {
+    "title": "Do you review AI generated code differently based on where it is in your code?",
+    "summary": "Do you have any systems in place to differentiate between ai generated code and human generated code? do both get the same level of code review? or do some parts of the code get heavier code review th",
+    "content": "Do you have any systems in place to differentiate between ai generated code and human generated code? do both get the same level of code review? or do some parts of the code get heavier code review than others? Comments URL: https://news.ycombinator.com/item?id=48266275 Points: 1 # Comments: 0",
+    "author": "thillel",
+    "date": "2026-05-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48266275",
+    "id": "news-2195"
+  },
+  {
     "title": "AI models often give the right answers but point to the wrong sources",
     "summary": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong. Res",
     "content": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong. Researchers at Peking University call this \"attribution hallucination,\" a risk for regulated fields like law and medicine. Their new CiteVQA benchmark is the first to test for it systematically. The article AI models often give the right answers but point to the wrong sources appeared first on The Deco",
