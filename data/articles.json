@@ -1,5 +1,70 @@
 [
   {
+    "title": "New faith-based university coalition find systematic religious bias in AI models",
+    "summary": "Article URL: https://www.deseret.com/faith/2026/05/26/studies-find-religious-bias-in-ai-models/ Comments URL: https://news.ycombinator.com/item?id=48286961 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.deseret.com/faith/2026/05/26/studies-find-religious-bias-in-ai-models/ Comments URL: https://news.ycombinator.com/item?id=48286961 Points: 3 # Comments: 1",
+    "author": "TruffleLabs",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.deseret.com/faith/2026/05/26/studies-find-religious-bias-in-ai-models/",
+    "id": "news-2244"
+  },
+  {
+    "title": "Uber blows through its AI budget in 1 quarter",
+    "summary": "Article URL: https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/ Comments URL: https://news.ycombinator.com/item?id=48287025 Points: 21 # Comments: 17",
+    "content": "Article URL: https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/ Comments URL: https://news.ycombinator.com/item?id=48287025 Points: 21 # Comments: 17",
+    "author": "ChuckMcM",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
+    "id": "news-2243"
+  },
+  {
+    "title": "Keyblind – encrypted secrets vault that hides API keys from AI agents",
+    "summary": "Article URL: https://github.com/aarifmms/keyblind Comments URL: https://news.ycombinator.com/item?id=48287055 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/aarifmms/keyblind Comments URL: https://news.ycombinator.com/item?id=48287055 Points: 1 # Comments: 0",
+    "author": "aarifshaikhs",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aarifmms/keyblind",
+    "id": "news-2242"
+  },
+  {
+    "title": "When AI Writes the Software, Who Verifies It?",
+    "summary": "Article URL: https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/ Comments URL: https://news.ycombinator.com/item?id=48287150 Points: 1 # Comments: 0",
+    "content": "Article URL: https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/ Comments URL: https://news.ycombinator.com/item?id=48287150 Points: 1 # Comments: 0",
+    "author": "fagnerbrack",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/",
+    "id": "news-2241"
+  },
+  {
+    "title": "Altman and Amodei both walking back on AI jobs apocalypse prophecies before IPOs",
+    "summary": "Article URL: https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Comments URL: https://news.ycombinator.com/item?id=48287203 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Comments URL: https://news.ycombinator.com/item?id=48287203 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+    "id": "news-2240"
+  },
+  {
     "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
     "summary": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conje",
     "content": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conjecture with a \"cute, simple proof,\" a sign of \"serious overhang\" in AI-driven math discoveries. The article Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\" appeared first on The Decoder.",
