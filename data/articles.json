@@ -1,5 +1,83 @@
 [
   {
+    "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
+    "summary": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conje",
+    "content": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conjecture with a \"cute, simple proof,\" a sign of \"serious overhang\" in AI-driven math discoveries. The article Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+    "id": "news-2239"
+  },
+  {
+    "title": "OpenAI admits AI hallucinations are mathematically inevitable (Sept. 2025)",
+    "summary": "Article URL: https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html Comments URL: https://news.ycombinator.com/item",
+    "content": "Article URL: https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html Comments URL: https://news.ycombinator.com/item?id=48285723 Points: 4 # Comments: 1",
+    "author": "hansmayer",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html",
+    "id": "news-2238"
+  },
+  {
+    "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
+    "summary": "So, you know how bigtech gives nearly unlimited credits for coding tools and in the same time put a huge admin whitelist of what commands are allowed?So, instead of becoming a 100x engineers, you (inc",
+    "content": "So, you know how bigtech gives nearly unlimited credits for coding tools and in the same time put a huge admin whitelist of what commands are allowed?So, instead of becoming a 100x engineers, you (including me) simply become a multi-window-enter-clickerI build a tool to solve this. It works locally, using OCR finds the \"run\" (or any other label you put e.g. accept, allow, fetch etc. ) and just clicks this button.Originally this was a tool for me and my team, but people seamed to love it so much,",
+    "author": "alcray",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Alcray/SlopeAutoAcceptor",
+    "id": "news-2237"
+  },
+  {
+    "title": "Ask HN: Has AI affected negatively the job market for devs?",
+    "summary": "So, not trying to \"flex\" but in the past I've worked on projects even for Microsoft/darpa, won awards, now been developing alternatives to transformers for generative models in C and can't even get an",
+    "content": "So, not trying to \"flex\" but in the past I've worked on projects even for Microsoft/darpa, won awards, now been developing alternatives to transformers for generative models in C and can't even get an interview after tens of applications? even $10/hour seems like a stretch...looks like it's all about connections now and any buzzword or \"complex code\" is immediately considered an ai-slop or far less impressive than it used to be? I'm considering a career change, I'm not greedy at all and frankly ",
+    "author": "adinhitlore",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48285923",
+    "id": "news-2236"
+  },
+  {
+    "title": "AI agents are scrambling power users' brains",
+    "summary": "Article URL: https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw Comments URL: https://news.ycombinator.com/item?id=48286123 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw Comments URL: https://news.ycombinator.com/item?id=48286123 Points: 1 # Comments: 0",
+    "author": "jjtang1",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw",
+    "id": "news-2235"
+  },
+  {
+    "title": "Turning You into a Power User with Hybrid Memory and Claude",
+    "summary": "Article URL: https://medium.com/@vektormemory/turning-you-into-a-power-user-hybrid-memory-ssh-cloak-and-password-vaulting-with-vektor-00f689861798 Comments URL: https://news.ycombinator.com/item?id=48",
+    "content": "Article URL: https://medium.com/@vektormemory/turning-you-into-a-power-user-hybrid-memory-ssh-cloak-and-password-vaulting-with-vektor-00f689861798 Comments URL: https://news.ycombinator.com/item?id=48286182 Points: 1 # Comments: 0",
+    "author": "vektormemory",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@vektormemory/turning-you-into-a-power-user-hybrid-memory-ssh-cloak-and-password-vaulting-with-vektor-00f689861798",
+    "id": "news-2234"
+  },
+  {
     "title": "AI-Related Issues in Securities Cases: Privilege Pitfalls, 'AI Washing' Claims",
     "summary": "Article URL: https://www.law.com/thelegalintelligencer/2026/05/26/ai-related-issues-in-securities-cases-privilege-pitfalls-and-ai-washing-claims/ Comments URL: https://news.ycombinator.com/item?id=482",
     "content": "Article URL: https://www.law.com/thelegalintelligencer/2026/05/26/ai-related-issues-in-securities-cases-privilege-pitfalls-and-ai-washing-claims/ Comments URL: https://news.ycombinator.com/item?id=48283197 Points: 1 # Comments: 0",
