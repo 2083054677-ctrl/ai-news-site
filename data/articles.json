@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI-Related Issues in Securities Cases: Privilege Pitfalls, 'AI Washing' Claims",
+    "summary": "Article URL: https://www.law.com/thelegalintelligencer/2026/05/26/ai-related-issues-in-securities-cases-privilege-pitfalls-and-ai-washing-claims/ Comments URL: https://news.ycombinator.com/item?id=482",
+    "content": "Article URL: https://www.law.com/thelegalintelligencer/2026/05/26/ai-related-issues-in-securities-cases-privilege-pitfalls-and-ai-washing-claims/ Comments URL: https://news.ycombinator.com/item?id=48283197 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.law.com/thelegalintelligencer/2026/05/26/ai-related-issues-in-securities-cases-privilege-pitfalls-and-ai-washing-claims/",
+    "id": "news-2233"
+  },
+  {
+    "title": "Blitzy AI charges by LOC generated",
+    "summary": "Article URL: https://blitzy.com/#pricing Comments URL: https://news.ycombinator.com/item?id=48283294 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blitzy.com/#pricing Comments URL: https://news.ycombinator.com/item?id=48283294 Points: 1 # Comments: 0",
+    "author": "_doctor_love",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blitzy.com/#pricing",
+    "id": "news-2232"
+  },
+  {
+    "title": "FlowLink: MCP proxy blocking destructive AI agent commands",
+    "summary": "We built FlowLink because AI agents (Claude Code, Cursor, Copilot) keep executing destructive commands on production servers with no guardrails.The recent \"AI agent deleted production database\" post (",
+    "content": "We built FlowLink because AI agents (Claude Code, Cursor, Copilot) keep executing destructive commands on production servers with no guardrails.The recent \"AI agent deleted production database\" post (860 pts here) is exactly what this prevents.FlowLink is an MCP proxy that sits between your AI agent and your tools. No code changes required. Point your agent config to FlowLink and it starts intercepting destructive commands.What it does:Shield Engine intercepts rm -rf, DROP TABLE, git push --forc",
+    "author": "braincoder",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48283348",
+    "id": "news-2231"
+  },
+  {
+    "title": "Spotify boss defends move to AI music, saying it is better than 'slop'",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop Comments URL: https://news.ycombinator.com/item?id=48283457 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop Comments URL: https://news.ycombinator.com/item?id=48283457 Points: 1 # Comments: 0",
+    "author": "HelloMcFly",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
+    "id": "news-2230"
+  },
+  {
+    "title": "Show HN: InterviewSignal – open-source AI-native technical interviews",
+    "summary": "Article URL: https://github.com/NikhilSKashyap/interviewsignal Comments URL: https://news.ycombinator.com/item?id=48283540 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/NikhilSKashyap/interviewsignal Comments URL: https://news.ycombinator.com/item?id=48283540 Points: 1 # Comments: 0",
+    "author": "NikhilKashyap",
+    "date": "2026-05-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/NikhilSKashyap/interviewsignal",
+    "id": "news-2229"
+  },
+  {
     "title": "The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts",
     "summary": "A new study from MIT and the University of Southern California shows that lawsuits filed without a lawyer at US federal courts have nearly doubled since ChatGPT went mainstream. One in five complaints",
     "content": "A new study from MIT and the University of Southern California shows that lawsuits filed without a lawyer at US federal courts have nearly doubled since ChatGPT went mainstream. One in five complaints now contains AI-generated text. Judges are resorting to drastic measures to cope with the flood of filings. The article The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts appeared first on The Decoder.",
