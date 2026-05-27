@@ -1,5 +1,123 @@
 [
   {
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "summary": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/delta-weight-sync",
+    "id": "news-2258"
+  },
+  {
+    "title": "Sam Altman and Dario Amodei walk back their AI job apocalypse predictions",
+    "summary": "Sam Altman and Dario Amodei row back on their prophecies of the AI job apocalypse, just in time for billion-dollar IPOs. The article Sam Altman and Dario Amodei walk back their AI job apocalypse predi",
+    "content": "Sam Altman and Dario Amodei row back on their prophecies of the AI job apocalypse, just in time for billion-dollar IPOs. The article Sam Altman and Dario Amodei walk back their AI job apocalypse predictions appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sam-altman-and-dario-amodei-walk-back-their-ai-job-apocalypse-predictions/",
+    "id": "news-2257"
+  },
+  {
+    "title": "China turns its aging camera network into an AI-powered mass surveillance apparatus",
+    "summary": "China's police are upgrading millions of old surveillance cameras with AI. Manufacturers like Hikvision and Huawei now ship cameras with built-in computer vision and language models that automatically",
+    "content": "China's police are upgrading millions of old surveillance cameras with AI. Manufacturers like Hikvision and Huawei now ship cameras with built-in computer vision and language models that automatically detect crowds, suspicious behavior, or unauthorized access. Instead of reviewing footage manually, officers just type a text query. Human Rights Watch warns this creates unprecedented behavioral surveillance at scale. The article China turns its aging camera network into an AI-powered mass surveill",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-turns-its-aging-camera-network-into-an-ai-powered-mass-surveillance-apparatus/",
+    "id": "news-2256"
+  },
+  {
+    "title": "The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion",
+    "summary": "Nvidia now spends up to $150 billion a year on suppliers like TSMC in Taiwan. The article The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion appeared first on The Decod",
+    "content": "Nvidia now spends up to $150 billion a year on suppliers like TSMC in Taiwan. The article The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-ai-boom-drove-nvidias-yearly-taiwan-spending-from-15-billion-to-150-billion/",
+    "id": "news-2255"
+  },
+  {
+    "title": "The future of AI is an AI futures market",
+    "summary": "Article URL: https://www.semafor.com/article/05/26/2026/the-future-of-ai-is-an-ai-futures-market Comments URL: https://news.ycombinator.com/item?id=48295149 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.semafor.com/article/05/26/2026/the-future-of-ai-is-an-ai-futures-market Comments URL: https://news.ycombinator.com/item?id=48295149 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.semafor.com/article/05/26/2026/the-future-of-ai-is-an-ai-futures-market",
+    "id": "news-2254"
+  },
+  {
+    "title": "Amazon starts selling its AI shopping technology to other retailers",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html Comments URL: https://news.ycombinator.com/item?id=48295196 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html Comments URL: https://news.ycombinator.com/item?id=48295196 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html",
+    "id": "news-2253"
+  },
+  {
+    "title": "Peers – Multi-agent AI coding with measurable convergence",
+    "summary": "Article URL: https://github.com/c0decave/peers Comments URL: https://news.ycombinator.com/item?id=48295266 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/c0decave/peers Comments URL: https://news.ycombinator.com/item?id=48295266 Points: 1 # Comments: 0",
+    "author": "dash0r",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/c0decave/peers",
+    "id": "news-2252"
+  },
+  {
+    "title": "Tyler Cowen: Seven Ways to Avoid Losing Your Job to AI",
+    "summary": "Article URL: https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing Comments URL: https://news.ycombinator.com/item?id=48295287 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing Comments URL: https://news.ycombinator.com/item?id=48295287 Points: 1 # Comments: 0",
+    "author": "FigurativeVoid",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing",
+    "id": "news-2251"
+  },
+  {
+    "title": "Most Teachers Receive No Formal Guidance on AI Use",
+    "summary": "Article URL: https://news.gallup.com/poll/710534/teachers-receive-no-formal-guidance.aspx Comments URL: https://news.ycombinator.com/item?id=48295353 Points: 1 # Comments: 0",
+    "content": "Article URL: https://news.gallup.com/poll/710534/teachers-receive-no-formal-guidance.aspx Comments URL: https://news.ycombinator.com/item?id=48295353 Points: 1 # Comments: 0",
+    "author": "giuliomagnifico",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.gallup.com/poll/710534/teachers-receive-no-formal-guidance.aspx",
+    "id": "news-2250"
+  },
+  {
     "title": "Woman Bilked Out of Thousands After Scammers Clone Daughter's Voice with AI",
     "summary": "Article URL: https://sfist.com/2026/05/26/local-woman-bilked-out-of-thousands-after-scammers-clone-daughters-voice-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48287881 Points: 1 # Comm",
     "content": "Article URL: https://sfist.com/2026/05/26/local-woman-bilked-out-of-thousands-after-scammers-clone-daughters-voice-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48287881 Points: 1 # Comments: 0",
