@@ -1,5 +1,18 @@
 [
   {
+    "title": "Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks",
+    "summary": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, espe",
+    "content": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, especially in rendering text inside images and commercial visuals. The article Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/",
+    "id": "news-2269"
+  },
+  {
     "title": "Reachy Mini goes fully local",
     "summary": "Reachy Mini goes fully local",
     "content": "",
