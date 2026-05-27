@@ -1,5 +1,137 @@
 [
   {
+    "title": "Reachy Mini goes fully local",
+    "summary": "Reachy Mini goes fully local",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "id": "news-2268"
+  },
+  {
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "summary": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "id": "news-2267"
+  },
+  {
+    "title": "YouTube will try to automatically flag AI videos starting this month",
+    "summary": "YouTube is tightening its AI labeling rules. Labels for photorealistic or heavily AI-altered content will now show up in more visible spots, below the player for long videos and as an overlay on Short",
+    "content": "YouTube is tightening its AI labeling rules. Labels for photorealistic or heavily AI-altered content will now show up in more visible spots, below the player for long videos and as an overlay on Shorts. Starting May 2026, an automatic detection system will flag AI-generated content even if creators don't disclose it. Recommendations and monetization won't be affected. The article YouTube will try to automatically flag AI videos starting this month appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/youtube-will-try-to-automatically-flag-ai-videos-starting-this-month/",
+    "id": "news-2266"
+  },
+  {
+    "title": "Robinhood lets AI agents trade shares and make credit card purchases for customers",
+    "summary": "Robinhood now lets customers connect AI agents like Anthropic's Claude to a separate investment account via MCP. The agents can trade stocks on their own. US brokerage regulator FINRA already flags su",
+    "content": "Robinhood now lets customers connect AI agents like Anthropic's Claude to a separate investment account via MCP. The agents can trade stocks on their own. US brokerage regulator FINRA already flags such agents as a new risk area, warning about unchecked decisions. Robinhood itself admits the product isn't for everyone. The article Robinhood lets AI agents trade shares and make credit card purchases for customers appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/robinhood-lets-ai-agents-trade-shares-and-make-credit-card-purchases-for-customers/",
+    "id": "news-2265"
+  },
+  {
+    "title": "AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months",
+    "summary": "Cognition, the company behind AI software developer Devin, has raised over $1 billion at a valuation north of $26 billion. The massive round shows just how much investor money is flowing into AI codin",
+    "content": "Cognition, the company behind AI software developer Devin, has raised over $1 billion at a valuation north of $26 billion. The massive round shows just how much investor money is flowing into AI coding agents, even as their real-world value remains hotly debated. The article AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-coding-agent-devin-maker-cognition-more-than-doubles-its-valuation-to-26-billion-in-under-nine-months/",
+    "id": "news-2264"
+  },
+  {
+    "title": "The State of AI and Automation Tools in 2026",
+    "summary": "Article URL: https://deepresearch.ninja/2026/05/The-State-of-AI-and-Automation-Tools-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48298146 Points: 1 # Comments: 0",
+    "content": "Article URL: https://deepresearch.ninja/2026/05/The-State-of-AI-and-Automation-Tools-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48298146 Points: 1 # Comments: 0",
+    "author": "jackalxyz",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deepresearch.ninja/2026/05/The-State-of-AI-and-Automation-Tools-in-2026/",
+    "id": "news-2263"
+  },
+  {
+    "title": "Why AI Pipeline Needs Kafka and How Zilla Makes Kafka AI-Ready",
+    "summary": "Article URL: https://www.aklivity.io/post/why-ai-pipeline-needs-kafka-how-zilla-makes-kafka-ai-ready Comments URL: https://news.ycombinator.com/item?id=48298164 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.aklivity.io/post/why-ai-pipeline-needs-kafka-how-zilla-makes-kafka-ai-ready Comments URL: https://news.ycombinator.com/item?id=48298164 Points: 1 # Comments: 0",
+    "author": "luk212",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aklivity.io/post/why-ai-pipeline-needs-kafka-how-zilla-makes-kafka-ai-ready",
+    "id": "news-2262"
+  },
+  {
+    "title": "OpenAI Foundation commits $250M to help navigate AI disruption",
+    "summary": "Article URL: https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/ Comments URL: https://news.ycombinator.com/item?id=48298186 Points: 1",
+    "content": "Article URL: https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/ Comments URL: https://news.ycombinator.com/item?id=48298186 Points: 1 # Comments: 1",
+    "author": "geox",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/",
+    "id": "news-2261"
+  },
+  {
+    "title": "Ask HN: How should universities teach coding now that every student uses AI?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48298199 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=48298199 Points: 1 # Comments: 0",
+    "author": "devanshranjan",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48298199",
+    "id": "news-2260"
+  },
+  {
+    "title": "Why Good Engineers Become Worse with AI",
+    "summary": "Article URL: https://nidhish.dev/writing/good-engineers-worse-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48298237 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nidhish.dev/writing/good-engineers-worse-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48298237 Points: 1 # Comments: 0",
+    "author": "sneruz",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nidhish.dev/writing/good-engineers-worse-with-ai/",
+    "id": "news-2259"
+  },
+  {
     "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
     "summary": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
     "content": "",
