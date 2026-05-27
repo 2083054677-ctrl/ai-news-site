@@ -1,5 +1,70 @@
 [
   {
+    "title": "What Emerges When You Don't Break Sustained Coherent Human-AI Interaction",
+    "summary": "Article URL: https://zenodo.org/records/20332884 Comments URL: https://news.ycombinator.com/item?id=48301745 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/20332884 Comments URL: https://news.ycombinator.com/item?id=48301745 Points: 1 # Comments: 0",
+    "author": "Depiphany_Reb",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/20332884",
+    "id": "news-2274"
+  },
+  {
+    "title": "I built three Wikipedia-based search tools as alternatives to Google AI",
+    "summary": "Article URL: https://www.calishat.com/2026/05/21/three-search-alternatives-to-googles-brave-new-ai-world/ Comments URL: https://news.ycombinator.com/item?id=48301779 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.calishat.com/2026/05/21/three-search-alternatives-to-googles-brave-new-ai-world/ Comments URL: https://news.ycombinator.com/item?id=48301779 Points: 1 # Comments: 1",
+    "author": "Calishat",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.calishat.com/2026/05/21/three-search-alternatives-to-googles-brave-new-ai-world/",
+    "id": "news-2273"
+  },
+  {
+    "title": "AGH is the First open-network protocol for AI Agents",
+    "summary": "Article URL: https://www.agh.network/ Comments URL: https://news.ycombinator.com/item?id=48301844 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.agh.network/ Comments URL: https://news.ycombinator.com/item?id=48301844 Points: 1 # Comments: 1",
+    "author": "pedronauck21",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.agh.network/",
+    "id": "news-2272"
+  },
+  {
+    "title": "New method for testing AI using real work-flows",
+    "summary": "Article URL: https://github.com/AssimilatedHuman/LLM-Inquisitor Comments URL: https://news.ycombinator.com/item?id=48301968 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/AssimilatedHuman/LLM-Inquisitor Comments URL: https://news.ycombinator.com/item?id=48301968 Points: 1 # Comments: 0",
+    "author": "ballista2026",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AssimilatedHuman/LLM-Inquisitor",
+    "id": "news-2271"
+  },
+  {
+    "title": "AgingBench: AI Agents Age Too",
+    "summary": "Article URL: https://agingbench.github.io Comments URL: https://news.ycombinator.com/item?id=48302022 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agingbench.github.io Comments URL: https://news.ycombinator.com/item?id=48302022 Points: 1 # Comments: 0",
+    "author": "zfancy",
+    "date": "2026-05-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agingbench.github.io",
+    "id": "news-2270"
+  },
+  {
     "title": "Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks",
     "summary": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, espe",
     "content": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, especially in rendering text inside images and commercial visuals. The article Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks appeared first on The Decoder.",
