@@ -1,5 +1,96 @@
 [
   {
+    "title": "Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks",
+    "summary": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more often than its predecessor. Alongside the la",
+    "content": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more often than its predecessor. Alongside the launch, Anthropic is rolling out dynamic workflows that can spin up hundreds of parallel sub-agents to handle tasks like codebase-wide migrations. The article Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-ships-claude-opus-4-8-as-a-modest-but-tangible-improvement-that-tops-gpt-5-5-in-most-benchmarks/",
+    "id": "news-2297"
+  },
+  {
+    "title": "Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H",
+    "summary": "Anthropic raises $65 billion in a Series H round at a $965 billion valuation. Annualized revenue tops $47 billion, according to CFO Krishna Rao. The company plans to invest in safety research, computi",
+    "content": "Anthropic raises $65 billion in a Series H round at a $965 billion valuation. Annualized revenue tops $47 billion, according to CFO Krishna Rao. The company plans to invest in safety research, computing capacity, and expanding its Claude product lineup. The article Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-company-anthropic-nears-a-trillion-dollar-valuation-after-raising-65-billion-in-series-h/",
+    "id": "news-2296"
+  },
+  {
+    "title": "Anthropic Rockets to $965B Valuation, Topping OpenAI in AI Showdown",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-valuation-openai-80bf2c0a Comments URL: https://news.ycombinator.com/item?id=48315537 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/anthropic-valuation-openai-80bf2c0a Comments URL: https://news.ycombinator.com/item?id=48315537 Points: 2 # Comments: 0",
+    "author": "doener",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/anthropic-valuation-openai-80bf2c0a",
+    "id": "news-2295"
+  },
+  {
+    "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
+    "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 6 # Comments: 2",
+    "content": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 6 # Comments: 2",
+    "author": "mmarian",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+    "id": "news-2294"
+  },
+  {
+    "title": "Show HN: Pubflow, Backend trust layer for build faster AI based apps",
+    "summary": "Article URL: https://www.pubflow.com/ Comments URL: https://news.ycombinator.com/item?id=48315634 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.pubflow.com/ Comments URL: https://news.ycombinator.com/item?id=48315634 Points: 2 # Comments: 0",
+    "author": "SamuelRecio",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pubflow.com/",
+    "id": "news-2293"
+  },
+  {
+    "title": "Ask HN: Does Claude Code remove the need for so many front-end frameworks?",
+    "summary": "Does using claude code make you more/less likely to use front end frameworks?I've been using it for a while to develop internal tools and I've been really impressed at how you can build complex applic",
+    "content": "Does using claude code make you more/less likely to use front end frameworks?I've been using it for a while to develop internal tools and I've been really impressed at how you can build complex applications with just pure HTML/CSS/JSPreviously I'd use React but now its not as clear to me the reason I would do that since either way I would just be developing through Claude.It feels almost like the framework is just an implementation detail.I find myself using a lot less libraries in general as we",
+    "author": "ex-aws-dude",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48315680",
+    "id": "news-2292"
+  },
+  {
+    "title": "AI is changing this job so fast the interview process can't keep up",
+    "summary": "Article URL: https://www.cnn.com/2026/05/28/tech/ai-software-engineering-job-interview Comments URL: https://news.ycombinator.com/item?id=48315687 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.cnn.com/2026/05/28/tech/ai-software-engineering-job-interview Comments URL: https://news.ycombinator.com/item?id=48315687 Points: 2 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnn.com/2026/05/28/tech/ai-software-engineering-job-interview",
+    "id": "news-2291"
+  },
+  {
     "title": "Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes",
     "summary": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bundles technologies it partly acquired th",
     "content": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bundles technologies it partly acquired through acquisitions. The article Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes appeared first on The Decoder.",
