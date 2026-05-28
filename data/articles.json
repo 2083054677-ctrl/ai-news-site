@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes",
+    "summary": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bundles technologies it partly acquired th",
+    "content": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bundles technologies it partly acquired through acquisitions. The article Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/",
+    "id": "news-2290"
+  },
+  {
+    "title": "SIA: The Open Source Self Improving AI",
+    "summary": "Article URL: https://github.com/hexo-ai/sia Comments URL: https://news.ycombinator.com/item?id=48312955 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/hexo-ai/sia Comments URL: https://news.ycombinator.com/item?id=48312955 Points: 2 # Comments: 0",
+    "author": "mitchwainer",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hexo-ai/sia",
+    "id": "news-2289"
+  },
+  {
+    "title": "Anthropic Tops OpenAI to Become the Most Valuable A.I. Startup",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html Comments URL: https://news.ycombinator.com/item?id=48313026 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html Comments URL: https://news.ycombinator.com/item?id=48313026 Points: 1 # Comments: 0",
+    "author": "droidjj",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html",
+    "id": "news-2288"
+  },
+  {
+    "title": "Show HN: Skills for spec-driven AI software development",
+    "summary": "Article URL: https://github.com/sebastianwessel/skills Comments URL: https://news.ycombinator.com/item?id=48313112 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/sebastianwessel/skills Comments URL: https://news.ycombinator.com/item?id=48313112 Points: 1 # Comments: 0",
+    "author": "puristajs",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sebastianwessel/skills",
+    "id": "news-2287"
+  },
+  {
+    "title": "The AI Gold Rush Is Eating Its Own",
+    "summary": "Article URL: https://blog.ppb1701.com/the-ai-gold-rush-is-eating-its-own Comments URL: https://news.ycombinator.com/item?id=48313120 Points: 3 # Comments: 0",
+    "content": "Article URL: https://blog.ppb1701.com/the-ai-gold-rush-is-eating-its-own Comments URL: https://news.ycombinator.com/item?id=48313120 Points: 3 # Comments: 0",
+    "author": "lylo",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.ppb1701.com/the-ai-gold-rush-is-eating-its-own",
+    "id": "news-2286"
+  },
+  {
+    "title": "Show HN: Agmsg – let Claude Code and Codex message each other (bash and SQLite)",
+    "summary": "Article URL: https://github.com/fujibee/agmsg Comments URL: https://news.ycombinator.com/item?id=48313306 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/fujibee/agmsg Comments URL: https://news.ycombinator.com/item?id=48313306 Points: 1 # Comments: 0",
+    "author": "fujibee",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fujibee/agmsg",
+    "id": "news-2285"
+  },
+  {
     "title": "Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent",
     "summary": "Mistral AI is renaming its chatbot Le Chat to Vibe and bundling chat, coding agents and a new Work Mode under one brand. The Work Mode docks onto Google Workspace, Outlook, Slack or GitHub and process",
     "content": "Mistral AI is renaming its chatbot Le Chat to Vibe and bundling chat, coding agents and a new Work Mode under one brand. The Work Mode docks onto Google Workspace, Outlook, Slack or GitHub and processes tasks such as emails, reports or pull requests independently. Mistral has not specified any concrete usage limits though. The company is thus positioning itself more directly against the agent-based offerings from OpenAI, Google and Anthropic. The article Mistral rebrands LeChat as Vibe, betting ",
