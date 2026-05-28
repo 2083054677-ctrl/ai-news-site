@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Opus 4.8 + AI medical diagnosis examples",
+    "summary": "Article URL: https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples Comments URL: https://news.ycombinator.com/item?id=48316470 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples Comments URL: https://news.ycombinator.com/item?id=48316470 Points: 2 # Comments: 0",
+    "author": "jph",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples",
+    "id": "news-2302"
+  },
+  {
+    "title": "Clawd-on-Desk: a pixel desktop pet watching your AI coding agents",
+    "summary": "Article URL: https://github.com/rullerzhou-afk/clawd-on-desk Comments URL: https://news.ycombinator.com/item?id=48316607 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/rullerzhou-afk/clawd-on-desk Comments URL: https://news.ycombinator.com/item?id=48316607 Points: 1 # Comments: 0",
+    "author": "aanet",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rullerzhou-afk/clawd-on-desk",
+    "id": "news-2301"
+  },
+  {
+    "title": "Ask HN: Is Claude Opus 4.8 broken?",
+    "summary": "In my first hour with it, it's like we're back to the GPT-2 era.It can't even read a file anymore.Randomly uses 'sed' with no explanation in hallucinated file paths. Errors out 15 times in a row with ",
+    "content": "In my first hour with it, it's like we're back to the GPT-2 era.It can't even read a file anymore.Randomly uses 'sed' with no explanation in hallucinated file paths. Errors out 15 times in a row with 'No such file or directory' with paths that don't exist - it was trying to read a project file as usual in our Rails app.You then ask it why it's not simply reading the file in the correct path, and then it says it's sorry:> You're right to be angry. Two things went wrong and both are on me: > > 1. ",
+    "author": "pqdbr",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48316636",
+    "id": "news-2300"
+  },
+  {
+    "title": "Apple to Overhaul iOS 27 Siri, AI Features: First Peek",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features Comments URL: https://news.ycombinator.com/item?id=48316657",
+    "content": "Article URL: https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features Comments URL: https://news.ycombinator.com/item?id=48316657 Points: 1 # Comments: 0",
+    "author": "mfiguiere",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features",
+    "id": "news-2299"
+  },
+  {
+    "title": "code2prompt: Convert any folder into a single LLM prompt",
+    "summary": "Article URL: https://github.com/mufeedvh/code2prompt Comments URL: https://news.ycombinator.com/item?id=48316665 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/mufeedvh/code2prompt Comments URL: https://news.ycombinator.com/item?id=48316665 Points: 1 # Comments: 0",
+    "author": "SweetSoftPillow",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mufeedvh/code2prompt",
+    "id": "news-2298"
+  },
+  {
     "title": "Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks",
     "summary": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more often than its predecessor. Alongside the la",
     "content": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more often than its predecessor. Alongside the launch, Anthropic is rolling out dynamic workflows that can spin up hundreds of parallel sub-agents to handle tasks like codebase-wide migrations. The article Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks appeared first on The Decoder.",
