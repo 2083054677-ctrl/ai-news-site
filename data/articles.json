@@ -1,5 +1,83 @@
 [
   {
+    "title": "ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence",
+    "summary": "ElevenLabs has released Music v2, an upgraded AI music generation model that works across genres: a single song can shift between opera, heavy metal, and rap. New inpainting lets users regenerate spec",
+    "content": "ElevenLabs has released Music v2, an upgraded AI music generation model that works across genres: a single song can shift between opera, heavy metal, and rap. New inpainting lets users regenerate specific sections without touching the rest. The article ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/elevenlabs-music-v2-promises-opera-to-metal-transitions-without-losing-musical-coherence/",
+    "id": "news-2280"
+  },
+  {
+    "title": "Rust Will Save Linux from AI, Says Greg Kroah-Hartman",
+    "summary": "Article URL: https://linux.slashdot.org/story/26/05/27/208203/rust-will-save-linux-from-ai-says-greg-kroah-hartman Comments URL: https://news.ycombinator.com/item?id=48305543 Points: 2 # Comments: 0",
+    "content": "Article URL: https://linux.slashdot.org/story/26/05/27/208203/rust-will-save-linux-from-ai-says-greg-kroah-hartman Comments URL: https://news.ycombinator.com/item?id=48305543 Points: 2 # Comments: 0",
+    "author": "fork-bomber",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://linux.slashdot.org/story/26/05/27/208203/rust-will-save-linux-from-ai-says-greg-kroah-hartman",
+    "id": "news-2279"
+  },
+  {
+    "title": "Former Google and Apple Researchers Launch a Startup to Build AI's Missing Feed",
+    "summary": "Article URL: https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/ Comments URL: https://news.ycombinator.com/item?id=48305638 Points: 1 # Comment",
+    "content": "Article URL: https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/ Comments URL: https://news.ycombinator.com/item?id=48305638 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+    "id": "news-2278"
+  },
+  {
+    "title": "The Pope Grasps the Limits of AI",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-catholic-church/687298/ Comments URL: https://news.ycombinator.com/item?id=48305643 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-catholic-church/687298/ Comments URL: https://news.ycombinator.com/item?id=48305643 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-catholic-church/687298/",
+    "id": "news-2277"
+  },
+  {
+    "title": "Show HN: AI agents for UK GDAD PCF roles and their skills",
+    "summary": "https://github.com/ai-agents-for-uk-gdad-pcf-roles/ai-agents...AI agents, provided as markdown files, that implement United Kingdom (UK) Government Digital and Data (GDAD) Profession Capability Framew",
+    "content": "https://github.com/ai-agents-for-uk-gdad-pcf-roles/ai-agents...AI agents, provided as markdown files, that implement United Kingdom (UK) Government Digital and Data (GDAD) Profession Capability Framework (PCF) roles and their skills.Purpose: The United Kingdom is implementing a jobs classification system for digital technology work, such as \"Software developer\", \"Test analyst\", \"Incident manager\", etc. The UK provides extensive documentation about the roles and the skills, along with naming conv",
+    "author": "jph",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48305822",
+    "id": "news-2276"
+  },
+  {
+    "title": "Train 1T parameter LLM with 8 GPUs?",
+    "summary": "See this project https://github.com/Sphere-AI-Lab/orbit. Comments URL: https://news.ycombinator.com/item?id=48305896 Points: 1 # Comments: 0",
+    "content": "See this project https://github.com/Sphere-AI-Lab/orbit. Comments URL: https://news.ycombinator.com/item?id=48305896 Points: 1 # Comments: 0",
+    "author": "kendy1992",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48305896",
+    "id": "news-2275"
+  },
+  {
     "title": "What Emerges When You Don't Break Sustained Coherent Human-AI Interaction",
     "summary": "Article URL: https://zenodo.org/records/20332884 Comments URL: https://news.ycombinator.com/item?id=48301745 Points: 1 # Comments: 0",
     "content": "Article URL: https://zenodo.org/records/20332884 Comments URL: https://news.ycombinator.com/item?id=48301745 Points: 1 # Comments: 0",
