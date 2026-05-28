@@ -1,5 +1,31 @@
 [
   {
+    "title": "Amazon builds its own AI production platform and greenlights three AI animated series for Prime Video",
+    "summary": "Amazon MGM Studios and AWS are launching a \"GenAI Creators' Fund\" that gives filmmakers money and access to the in-house AI platform \"Project Nara.\" Three animated series are already in production - t",
+    "content": "Amazon MGM Studios and AWS are launching a \"GenAI Creators' Fund\" that gives filmmakers money and access to the in-house AI platform \"Project Nara.\" Three animated series are already in production - the teams had five weeks for their pilots. Amazon says it now has the \"only end-to-end AI content ecosystem in the industry.\" The article Amazon builds its own AI production platform and greenlights three AI animated series for Prime Video appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-builds-its-own-ai-production-platform-and-greenlights-three-ai-animated-series-for-prime-video/",
+    "id": "news-2282"
+  },
+  {
+    "title": "Meta One: Zuckerberg finally puts a price tag on all that AI spending",
+    "summary": "Meta is rolling out paid add-ons for Instagram, Facebook, and WhatsApp worldwide while building a separate paid AI offering. The article Meta One: Zuckerberg finally puts a price tag on all that AI sp",
+    "content": "Meta is rolling out paid add-ons for Instagram, Facebook, and WhatsApp worldwide while building a separate paid AI offering. The article Meta One: Zuckerberg finally puts a price tag on all that AI spending appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/",
+    "id": "news-2281"
+  },
+  {
     "title": "ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence",
     "summary": "ElevenLabs has released Music v2, an upgraded AI music generation model that works across genres: a single song can shift between opera, heavy metal, and rap. New inpainting lets users regenerate spec",
     "content": "ElevenLabs has released Music v2, an upgraded AI music generation model that works across genres: a single song can shift between opera, heavy metal, and rap. New inpainting lets users regenerate specific sections without touching the rest. The article ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence appeared first on The Decoder.",
