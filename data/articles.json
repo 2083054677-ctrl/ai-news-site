@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent",
+    "summary": "Mistral AI is renaming its chatbot Le Chat to Vibe and bundling chat, coding agents and a new Work Mode under one brand. The Work Mode docks onto Google Workspace, Outlook, Slack or GitHub and process",
+    "content": "Mistral AI is renaming its chatbot Le Chat to Vibe and bundling chat, coding agents and a new Work Mode under one brand. The Work Mode docks onto Google Workspace, Outlook, Slack or GitHub and processes tasks such as emails, reports or pull requests independently. Mistral has not specified any concrete usage limits though. The company is thus positioning itself more directly against the agent-based offerings from OpenAI, Google and Anthropic. The article Mistral rebrands LeChat as Vibe, betting ",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/",
+    "id": "news-2284"
+  },
+  {
+    "title": "Google launches a tiny board that runs Gemma 3 locally",
+    "summary": "Google unveiled the new Coral Board at Google I/O - a compact single-board computer for on-device AI. The article Google launches a tiny board that runs Gemma 3 locally appeared first on The Decoder.",
+    "content": "Google unveiled the new Coral Board at Google I/O - a compact single-board computer for on-device AI. The article Google launches a tiny board that runs Gemma 3 locally appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/",
+    "id": "news-2283"
+  },
+  {
     "title": "Amazon builds its own AI production platform and greenlights three AI animated series for Prime Video",
     "summary": "Amazon MGM Studios and AWS are launching a \"GenAI Creators' Fund\" that gives filmmakers money and access to the in-house AI platform \"Project Nara.\" Three animated series are already in production - t",
     "content": "Amazon MGM Studios and AWS are launching a \"GenAI Creators' Fund\" that gives filmmakers money and access to the in-house AI platform \"Project Nara.\" Three animated series are already in production - the teams had five weeks for their pilots. Amazon says it now has the \"only end-to-end AI content ecosystem in the industry.\" The article Amazon builds its own AI production platform and greenlights three AI animated series for Prime Video appeared first on The Decoder.",
