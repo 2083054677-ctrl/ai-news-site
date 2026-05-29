@@ -1,5 +1,70 @@
 [
   {
+    "title": "You don't know how to use AI",
+    "summary": "Article URL: https://www.anitakirkovska.com/blog/you-dont-know-how-to-use-ai/ Comments URL: https://news.ycombinator.com/item?id=48329286 Points: 5 # Comments: 0",
+    "content": "Article URL: https://www.anitakirkovska.com/blog/you-dont-know-how-to-use-ai/ Comments URL: https://news.ycombinator.com/item?id=48329286 Points: 5 # Comments: 0",
+    "author": "anitakirkovska",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anitakirkovska.com/blog/you-dont-know-how-to-use-ai/",
+    "id": "news-2339"
+  },
+  {
+    "title": "Local AI Hardware: Break Even in 2.6 Years?",
+    "summary": "Article URL: https://skepticcto.com/news/updates/2026/05/29/LocalAI.html Comments URL: https://news.ycombinator.com/item?id=48329356 Points: 3 # Comments: 1",
+    "content": "Article URL: https://skepticcto.com/news/updates/2026/05/29/LocalAI.html Comments URL: https://news.ycombinator.com/item?id=48329356 Points: 3 # Comments: 1",
+    "author": "rbuccigrossi",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://skepticcto.com/news/updates/2026/05/29/LocalAI.html",
+    "id": "news-2338"
+  },
+  {
+    "title": "Ask HN: How is your org managing PR review load as AI multiplies code output?",
+    "summary": "We are facing flooding and surge in PRs across the teams. AI reviewer tools are good, but not exactly helping in efficiency. Almost all developers are experiencing velocity gains in programming but it",
+    "content": "We are facing flooding and surge in PRs across the teams. AI reviewer tools are good, but not exactly helping in efficiency. Almost all developers are experiencing velocity gains in programming but it's not resulting into eventual productivity or velocity in roadmap. How are you or your org dealing with all this? Comments URL: https://news.ycombinator.com/item?id=48329446 Points: 2 # Comments: 0",
+    "author": "meteor333",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48329446",
+    "id": "news-2337"
+  },
+  {
+    "title": "Why AI can't match human creative work",
+    "summary": "Article URL: https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html Comments URL: https://news.ycombinator.com/item?id=48329569 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html Comments URL: https://news.ycombinator.com/item?id=48329569 Points: 2 # Comments: 1",
+    "author": "mikelgan",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html",
+    "id": "news-2336"
+  },
+  {
+    "title": "Where AI coding spend goes: 48% code, 40% thinking",
+    "summary": "Article URL: https://codeburn.app/blog/where-ai-coding-spend-goes Comments URL: https://news.ycombinator.com/item?id=48329652 Points: 2 # Comments: 0",
+    "content": "Article URL: https://codeburn.app/blog/where-ai-coding-spend-goes Comments URL: https://news.ycombinator.com/item?id=48329652 Points: 2 # Comments: 0",
+    "author": "agentseal",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codeburn.app/blog/where-ai-coding-spend-goes",
+    "id": "news-2335"
+  },
+  {
     "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
     "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore N",
     "content": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI. Applications are open worldwide. The article OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic appeared first on The Decoder.",
