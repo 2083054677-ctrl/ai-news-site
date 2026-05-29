@@ -1,5 +1,122 @@
 [
   {
+    "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
+    "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore N",
+    "content": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI. Applications are open worldwide. The article OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
+    "id": "news-2334"
+  },
+  {
+    "title": "One company reportedly spent $500 million on Claude in one month after failing to cap AI usage",
+    "summary": "An unnamed company allegedly blew half a billion dollars on Claude licenses in a single month because nobody set usage limits. Cases like this show that without real AI expertise in model selection an",
+    "content": "An unnamed company allegedly blew half a billion dollars on Claude licenses in a single month because nobody set usage limits. Cases like this show that without real AI expertise in model selection and context engineering, productivity promises just turn into runaway costs. The article One company reportedly spent $500 million on Claude in one month after failing to cap AI usage appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/",
+    "id": "news-2333"
+  },
+  {
+    "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
+    "summary": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests a",
+    "content": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests are no longer charged. Google also plans to add more transparency around other usage. The article Google fixes several bugs in Gemini usage limits that burned through quotas too fast appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/",
+    "id": "news-2332"
+  },
+  {
+    "title": "OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models",
+    "summary": "OpenAI is updating GPT-5.5 Instant for more natural responses and dropping the Canvas feature from its latest models. Writing and coding tasks will run directly in the chat instead. The company is als",
+    "content": "OpenAI is updating GPT-5.5 Instant for more natural responses and dropping the Canvas feature from its latest models. Writing and coding tasks will run directly in the chat instead. The company is also retiring the older o3 and GPT-4.5 models from ChatGPT, with both shutting down by August 2026 at the latest. The article OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/",
+    "id": "news-2331"
+  },
+  {
+    "title": "Teaching tmux to babysit my Claude Code agents",
+    "summary": "Article URL: https://blog.angeloff.name/post/2026/05/29/teaching-tmux-to-babysit-my-claude-code-agents/ Comments URL: https://news.ycombinator.com/item?id=48327021 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.angeloff.name/post/2026/05/29/teaching-tmux-to-babysit-my-claude-code-agents/ Comments URL: https://news.ycombinator.com/item?id=48327021 Points: 1 # Comments: 0",
+    "author": "StanAngeloff",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.angeloff.name/post/2026/05/29/teaching-tmux-to-babysit-my-claude-code-agents/",
+    "id": "news-2330"
+  },
+  {
+    "title": "// The hope is that Claude Code will be unusable on this repository",
+    "summary": "Article URL: https://codeberg.org/forgejo-contrib/forgejo-cli/src/branch/main/src/main.rs#L88-L91 Comments URL: https://news.ycombinator.com/item?id=48327024 Points: 1 # Comments: 0",
+    "content": "Article URL: https://codeberg.org/forgejo-contrib/forgejo-cli/src/branch/main/src/main.rs#L88-L91 Comments URL: https://news.ycombinator.com/item?id=48327024 Points: 1 # Comments: 0",
+    "author": "themgt",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codeberg.org/forgejo-contrib/forgejo-cli/src/branch/main/src/main.rs#L88-L91",
+    "id": "news-2329"
+  },
+  {
+    "title": "Claude Talk Small. Code Still Big",
+    "summary": "Article URL: https://spatie.be/blog/claude-talk-small-code-still-big Comments URL: https://news.ycombinator.com/item?id=48327064 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spatie.be/blog/claude-talk-small-code-still-big Comments URL: https://news.ycombinator.com/item?id=48327064 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spatie.be/blog/claude-talk-small-code-still-big",
+    "id": "news-2328"
+  },
+  {
+    "title": "Hybrid local and cloud LLM stack for regulated financial document processing?",
+    "summary": "I'm scoping a hybrid AI pipeline for a consulting client in a regulated industry (GLBA-covered, NPI involved). Trying to validate the architecture before bringing on an engineer to build it.The workfl",
+    "content": "I'm scoping a hybrid AI pipeline for a consulting client in a regulated industry (GLBA-covered, NPI involved). Trying to validate the architecture before bringing on an engineer to build it.The workflow: ingest financial PDFs (bank, brokerage, retirement statements, tax returns), classify by asset type, extract data, apply domain-specific business logic, populate Excel templates and fillable PDF forms. Compliance constraint: no NPI can hit a cloud API without ZDR-style controls.Current architect",
+    "author": "rem_cam",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48327218",
+    "id": "news-2327"
+  },
+  {
+    "title": "AI will be used to estimate age of asylum seekers from next year",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/ce3pe36qe7ro Comments URL: https://news.ycombinator.com/item?id=48327222 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bbc.co.uk/news/articles/ce3pe36qe7ro Comments URL: https://news.ycombinator.com/item?id=48327222 Points: 2 # Comments: 0",
+    "author": "vylorn",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
+    "id": "news-2326"
+  },
+  {
     "title": "New review paper argues code is how AI agents think and act, not just what they produce",
     "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries ",
     "content": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent. Deepseek is already building a dedicated \"Harness\" team in Beijing with a core formula that confirms the thesis: model plus harness equals AI agent. The article New review paper argues code is how AI agents think and act, not just what they produce appear",
