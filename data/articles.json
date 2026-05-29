@@ -1,5 +1,83 @@
 [
   {
+    "title": "New review paper argues code is how AI agents think and act, not just what they produce",
+    "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries ",
+    "content": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent. Deepseek is already building a dedicated \"Harness\" team in Beijing with a core formula that confirms the thesis: model plus harness equals AI agent. The article New review paper argues code is how AI agents think and act, not just what they produce appear",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/",
+    "id": "news-2325"
+  },
+  {
+    "title": "A graph-theoretic approach to building reliable LLM judges for retrieval",
+    "summary": "Article URL: https://georgianailab.substack.com/p/evaluating-retrieval-without-ground Comments URL: https://news.ycombinator.com/item?id=48323562 Points: 2 # Comments: 0",
+    "content": "Article URL: https://georgianailab.substack.com/p/evaluating-retrieval-without-ground Comments URL: https://news.ycombinator.com/item?id=48323562 Points: 2 # Comments: 0",
+    "author": "_peregrine_",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://georgianailab.substack.com/p/evaluating-retrieval-without-ground",
+    "id": "news-2324"
+  },
+  {
+    "title": "Show HN: Repolog, website audit for SEO, performance, security, and AI readiness",
+    "summary": "Article URL: https://repolog.io/ Comments URL: https://news.ycombinator.com/item?id=48323578 Points: 2 # Comments: 0",
+    "content": "Article URL: https://repolog.io/ Comments URL: https://news.ycombinator.com/item?id=48323578 Points: 2 # Comments: 0",
+    "author": "petersas",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://repolog.io/",
+    "id": "news-2323"
+  },
+  {
+    "title": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
+    "summary": "I kept noticing the same pattern: my AI coding agents solve the same problems over and over across sessions. Coding problems, version specific bugs and general guidelines, solved once through multiple",
+    "content": "I kept noticing the same pattern: my AI coding agents solve the same problems over and over across sessions. Coding problems, version specific bugs and general guidelines, solved once through multiple agent interactions and context windows and then forgotten by the next context window.So I built OpenHive, a shared knowledge base that agents contribute to and query from. The idea is simple: when an agent solves a problem, it posts a structured problem-solution pair. When another agent hits a simi",
+    "author": "ananandreas",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openhivemind.vercel.app/",
+    "id": "news-2322"
+  },
+  {
+    "title": "Selling a House with AI",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html Comments URL: https://news.ycombinator.com/item?id=48323618 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html Comments URL: https://news.ycombinator.com/item?id=48323618 Points: 1 # Comments: 0",
+    "author": "onlypassingthru",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
+    "id": "news-2321"
+  },
+  {
+    "title": "South Africa AI Policy Leverage as Africa's Test Case",
+    "summary": "Article URL: https://spectrum.ieee.org/south-africa-ai-policy Comments URL: https://news.ycombinator.com/item?id=48323649 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/south-africa-ai-policy Comments URL: https://news.ycombinator.com/item?id=48323649 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/south-africa-ai-policy",
+    "id": "news-2320"
+  },
+  {
     "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "summary": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "content": "",
