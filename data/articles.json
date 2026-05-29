@@ -1,5 +1,57 @@
 [
   {
+    "title": "GPT 5.5 Bro [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=v1zSDACAXK4 Comments URL: https://news.ycombinator.com/item?id=48329838 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=v1zSDACAXK4 Comments URL: https://news.ycombinator.com/item?id=48329838 Points: 1 # Comments: 0",
+    "author": "kshri24",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=v1zSDACAXK4",
+    "id": "news-2343"
+  },
+  {
+    "title": "Flathub bans AI-generated apps and submissions",
+    "summary": "Article URL: https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48330069 Points: 3 #",
+    "content": "Article URL: https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48330069 Points: 3 # Comments: 0",
+    "author": "Lihh27",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/",
+    "id": "news-2342"
+  },
+  {
+    "title": "Claude just discovered workflows. Charlie started there",
+    "summary": "Article URL: https://charlielabs.ai/blog/claude-discovered-workflows-charlie-started-there-short/ Comments URL: https://news.ycombinator.com/item?id=48330154 Points: 2 # Comments: 0",
+    "content": "Article URL: https://charlielabs.ai/blog/claude-discovered-workflows-charlie-started-there-short/ Comments URL: https://news.ycombinator.com/item?id=48330154 Points: 2 # Comments: 0",
+    "author": "briandoll",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://charlielabs.ai/blog/claude-discovered-workflows-charlie-started-there-short/",
+    "id": "news-2341"
+  },
+  {
+    "title": "21 days, $5K, 7 AI agents: how a non-programmer built a talent marketplace",
+    "summary": "Article URL: https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story Comments URL: https://news.ycombinator.com/item?id=48330482 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story Comments URL: https://news.ycombinator.com/item?id=48330482 Points: 1 # Comments: 0",
+    "author": "kraigward",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story",
+    "id": "news-2340"
+  },
+  {
     "title": "You don't know how to use AI",
     "summary": "Article URL: https://www.anitakirkovska.com/blog/you-dont-know-how-to-use-ai/ Comments URL: https://news.ycombinator.com/item?id=48329286 Points: 5 # Comments: 0",
     "content": "Article URL: https://www.anitakirkovska.com/blog/you-dont-know-how-to-use-ai/ Comments URL: https://news.ycombinator.com/item?id=48329286 Points: 5 # Comments: 0",
