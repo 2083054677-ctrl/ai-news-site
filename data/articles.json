@@ -1,5 +1,70 @@
 [
   {
+    "title": "How Anthropic Is Building Guardrails for Autonomous Claude Agents",
+    "summary": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude Comments URL: https://news.ycombinator.com/item?id=48320191 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude Comments URL: https://news.ycombinator.com/item?id=48320191 Points: 1 # Comments: 0",
+    "author": "v-mdev",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "id": "news-2312"
+  },
+  {
+    "title": "Rsync: Commits co-authored by Claude break –compare-dest in security update",
+    "summary": "Article URL: https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390 Comments URL: https://news.ycombinator.com/item?id=48320203 Points: 2 # Comments: 0",
+    "content": "Article URL: https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390 Comments URL: https://news.ycombinator.com/item?id=48320203 Points: 2 # Comments: 0",
+    "author": "throw_await",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
+    "id": "news-2311"
+  },
+  {
+    "title": "Why Uber Has Burned Through Its AI Budget",
+    "summary": "Article URL: https://aimagazine.com/news/why-uber-has-already-burned-through-its-ai-budget Comments URL: https://news.ycombinator.com/item?id=48320214 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aimagazine.com/news/why-uber-has-already-burned-through-its-ai-budget Comments URL: https://news.ycombinator.com/item?id=48320214 Points: 1 # Comments: 0",
+    "author": "doener",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aimagazine.com/news/why-uber-has-already-burned-through-its-ai-budget",
+    "id": "news-2310"
+  },
+  {
+    "title": "Show HN: Claude Code AskUserQuestion which works for subagents/teams/workflows",
+    "summary": "Claude Code does not support AskUserQuestion in spawned sessions - subagents, agent teams, and workflows — which makes a swarm of agents less efficient in the original implementation. This can be easi",
+    "content": "Claude Code does not support AskUserQuestion in spawned sessions - subagents, agent teams, and workflows — which makes a swarm of agents less efficient in the original implementation. This can be easily fixed with an additional MCP.Built on a SQLite DB and MCP, blocking until the question is answered, supporting all possible question types, with a CLI or web interface for answers, `ask_human_question` fills the gap in efficient subagent management.Repo: https://github.com/sermakarevich/claude/tr",
+    "author": "sermakarevich",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48320233",
+    "id": "news-2309"
+  },
+  {
+    "title": "Show HN: OSSentinel.live – AI-powered open source security monitoring",
+    "summary": "Built OSSentinel.live to help developers monitor open-source dependencies, security vulnerabilities, package health, and repository risks from a single dashboard. Looking for feedback on the product, ",
+    "content": "Built OSSentinel.live to help developers monitor open-source dependencies, security vulnerabilities, package health, and repository risks from a single dashboard. Looking for feedback on the product, integrations, and whether AI-generated security insights are actually useful in practice. Comments URL: https://news.ycombinator.com/item?id=48320262 Points: 2 # Comments: 0",
+    "author": "FortivSolutions",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48320262",
+    "id": "news-2308"
+  },
+  {
     "title": "GPT-5.5 Instant Update; ChatGPT Canvas Discontinued; o3 and GPT 4.5 Retiring",
     "summary": "Article URL: https://help.openai.com/en/articles/9624314-model-release-notes?hn_dupe_filter Comments URL: https://news.ycombinator.com/item?id=48317948 Points: 1 # Comments: 1",
     "content": "Article URL: https://help.openai.com/en/articles/9624314-model-release-notes?hn_dupe_filter Comments URL: https://news.ycombinator.com/item?id=48317948 Points: 1 # Comments: 1",
