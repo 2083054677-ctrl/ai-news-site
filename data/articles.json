@@ -1,5 +1,97 @@
 [
   {
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "summary": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/torch-profiler",
+    "id": "news-2319"
+  },
+  {
+    "title": "Amazon kills internal AI leaderboard after employees gamed it with pointless tasks",
+    "summary": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up the company's cloud costs in the process",
+    "content": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up the company's cloud costs in the process. The article Amazon kills internal AI leaderboard after employees gamed it with pointless tasks appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/",
+    "id": "news-2318"
+  },
+  {
+    "title": "Study: AI responses to healthcare queries are nearly 76% accurate",
+    "summary": "Article URL: https://www.psu.edu/news/research/story/calling-doctor-gpt-ai-responses-healthcare-queries-are-nearly-76-accurate Comments URL: https://news.ycombinator.com/item?id=48321571 Points: 1 # C",
+    "content": "Article URL: https://www.psu.edu/news/research/story/calling-doctor-gpt-ai-responses-healthcare-queries-are-nearly-76-accurate Comments URL: https://news.ycombinator.com/item?id=48321571 Points: 1 # Comments: 2",
+    "author": "giuliomagnifico",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.psu.edu/news/research/story/calling-doctor-gpt-ai-responses-healthcare-queries-are-nearly-76-accurate",
+    "id": "news-2317"
+  },
+  {
+    "title": "The Age of Ungovernable AI Bureaucracy",
+    "summary": "Article URL: https://attention.substack.com/p/the-age-of-ungovernable-ai-bureaucracy Comments URL: https://news.ycombinator.com/item?id=48321576 Points: 1 # Comments: 1",
+    "content": "Article URL: https://attention.substack.com/p/the-age-of-ungovernable-ai-bureaucracy Comments URL: https://news.ycombinator.com/item?id=48321576 Points: 1 # Comments: 1",
+    "author": "epsteingpt",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://attention.substack.com/p/the-age-of-ungovernable-ai-bureaucracy",
+    "id": "news-2316"
+  },
+  {
+    "title": "Understant AI generated code Fast",
+    "summary": "Article URL: https://archtocode.com/ Comments URL: https://news.ycombinator.com/item?id=48321606 Points: 1 # Comments: 0",
+    "content": "Article URL: https://archtocode.com/ Comments URL: https://news.ycombinator.com/item?id=48321606 Points: 1 # Comments: 0",
+    "author": "grzelazny",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://archtocode.com/",
+    "id": "news-2315"
+  },
+  {
+    "title": "Is AI causing a repeat of Front end's Lost Decade?",
+    "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 3 # Comments: 0",
+    "content": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 3 # Comments: 0",
+    "author": "xyzal",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "id": "news-2314"
+  },
+  {
+    "title": "Claude Cowork Private Version: What It Is, Cost Breakdown and ROI Guide (2026)",
+    "summary": "Article URL: https://www.kellton.com/kellton-tech-blog/claude-cowork-private-version-budget-and-roi Comments URL: https://news.ycombinator.com/item?id=48321638 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.kellton.com/kellton-tech-blog/claude-cowork-private-version-budget-and-roi Comments URL: https://news.ycombinator.com/item?id=48321638 Points: 1 # Comments: 0",
+    "author": "johnjosephkt",
+    "date": "2026-05-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kellton.com/kellton-tech-blog/claude-cowork-private-version-budget-and-roi",
+    "id": "news-2313"
+  },
+  {
     "title": "How Anthropic Is Building Guardrails for Autonomous Claude Agents",
     "summary": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude Comments URL: https://news.ycombinator.com/item?id=48320191 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude Comments URL: https://news.ycombinator.com/item?id=48320191 Points: 1 # Comments: 0",
