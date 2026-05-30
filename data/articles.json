@@ -1,5 +1,70 @@
 [
   {
+    "title": "Coders are refusing to work without AI – and that could come back to bite them",
+    "summary": "Article URL: https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/ Comments URL: https://news.ycombinator.com/item?id=48336646 Points: 3 # Com",
+    "content": "Article URL: https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/ Comments URL: https://news.ycombinator.com/item?id=48336646 Points: 3 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "id": "news-2368"
+  },
+  {
+    "title": "AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers",
+    "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 3 # Comments: 1",
+    "content": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 3 # Comments: 1",
+    "author": "LilBytes",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jackmaguire.org/blog/ai-job-grief/",
+    "id": "news-2367"
+  },
+  {
+    "title": "Semantic knowledge (TF-IDF and tool-IDF and clustering) from Claude sessions",
+    "summary": "Article URL: https://github.com/chigichan24/crune Comments URL: https://news.ycombinator.com/item?id=48336809 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/chigichan24/crune Comments URL: https://news.ycombinator.com/item?id=48336809 Points: 1 # Comments: 0",
+    "author": "ankitg12",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/chigichan24/crune",
+    "id": "news-2366"
+  },
+  {
+    "title": "Collection of Claude Code Skills",
+    "summary": "Article URL: https://github.com/glebis/claude-skills Comments URL: https://news.ycombinator.com/item?id=48336893 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/glebis/claude-skills Comments URL: https://news.ycombinator.com/item?id=48336893 Points: 1 # Comments: 0",
+    "author": "ankitg12",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/glebis/claude-skills",
+    "id": "news-2365"
+  },
+  {
+    "title": "Show HN: Extend AI turns a voice note into posts that sound like you",
+    "summary": "Article URL: https://extend.redsystem.dev Comments URL: https://news.ycombinator.com/item?id=48336903 Points: 1 # Comments: 0",
+    "content": "Article URL: https://extend.redsystem.dev Comments URL: https://news.ycombinator.com/item?id=48336903 Points: 1 # Comments: 0",
+    "author": "crlapples",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://extend.redsystem.dev",
+    "id": "news-2364"
+  },
+  {
     "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
     "summary": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing proble",
     "content": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing problems to verifying results. Tao sees \"industrial mathematics\" emerging: large AI-supported teams instead of lone geniuses, with humans staying indispensable for \"inspired guesses.\" The article Terence Tao argues AI could bring division of labor to math for the first time in history appeared first on Th",
