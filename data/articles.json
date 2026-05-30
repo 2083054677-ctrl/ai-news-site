@@ -1,5 +1,31 @@
 [
   {
+    "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+    "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start",
+    "content": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone. The article OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+    "id": "news-2361"
+  },
+  {
+    "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+    "summary": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools u",
+    "content": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools undetected because they're hosted on trusted domains. The article Attackers abuse shared ChatGPT and Claude chats to spread malware appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
+    "id": "news-2360"
+  },
+  {
     "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
     "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products. Now the company is ",
     "content": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products. Now the company is betting on AI hardware. The article Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy appeared first on The Decoder.",
