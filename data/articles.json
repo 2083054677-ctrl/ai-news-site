@@ -1,5 +1,70 @@
 [
   {
+    "title": "Tokens or Humans? The New AI Cost Trade-Off Reshaping Corporate Budgets [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=niBP4qhNSWw Comments URL: https://news.ycombinator.com/item?id=48331066 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=niBP4qhNSWw Comments URL: https://news.ycombinator.com/item?id=48331066 Points: 2 # Comments: 0",
+    "author": "mgh2",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=niBP4qhNSWw",
+    "id": "news-2348"
+  },
+  {
+    "title": "What a 98-Year Old Children's Book Teaches Us About AI",
+    "summary": "Article URL: https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48331320 Points: 2 # Comments: 0",
+    "content": "Article URL: https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48331320 Points: 2 # Comments: 0",
+    "author": "caycep",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/",
+    "id": "news-2347"
+  },
+  {
+    "title": "Aedis – An open-source macroeconomic framework for the AI transition Body",
+    "summary": "Article URL: https://github.com/rand55/project-aedis-framework/tree/main Comments URL: https://news.ycombinator.com/item?id=48331506 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/rand55/project-aedis-framework/tree/main Comments URL: https://news.ycombinator.com/item?id=48331506 Points: 1 # Comments: 0",
+    "author": "Randal1964",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rand55/project-aedis-framework/tree/main",
+    "id": "news-2346"
+  },
+  {
+    "title": "Show HN: A Claude Code skill that scopes problems like Peter Naur",
+    "summary": "Based on Naur's \"Programming as Theory Building\" (1985) Asks agent to create a problem-theory artifact before writing code. Comments URL: https://news.ycombinator.com/item?id=48331670 Points: 1 # Comm",
+    "content": "Based on Naur's \"Programming as Theory Building\" (1985) Asks agent to create a problem-theory artifact before writing code. Comments URL: https://news.ycombinator.com/item?id=48331670 Points: 1 # Comments: 0",
+    "author": "spinchange",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/spinchange/cartographer-skill/blob/main/skills/cartographer/SKILL.md",
+    "id": "news-2345"
+  },
+  {
+    "title": "Avai – your first AI antivirus",
+    "summary": "Article URL: https://github.com/iklobato/avai Comments URL: https://news.ycombinator.com/item?id=48331726 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/iklobato/avai Comments URL: https://news.ycombinator.com/item?id=48331726 Points: 1 # Comments: 0",
+    "author": "iklobato1",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/iklobato/avai",
+    "id": "news-2344"
+  },
+  {
     "title": "GPT 5.5 Bro [video]",
     "summary": "Article URL: https://www.youtube.com/watch?v=v1zSDACAXK4 Comments URL: https://news.ycombinator.com/item?id=48329838 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.youtube.com/watch?v=v1zSDACAXK4 Comments URL: https://news.ycombinator.com/item?id=48329838 Points: 1 # Comments: 0",
