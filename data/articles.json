@@ -1,5 +1,83 @@
 [
   {
+    "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
+    "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products. Now the company is ",
+    "content": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products. Now the company is betting on AI hardware. The article Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/",
+    "id": "news-2359"
+  },
+  {
+    "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+    "summary": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent more pull requests per developer, five per",
+    "content": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent more pull requests per developer, five percent fewer incidents. The numbers can't be independently verified. The case shows just how divided the coding world is over the agentic shift: real revolution or the biggest build-up of tech debt ever? The article Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents ap",
+    "author": "Matthias Bastian",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+    "id": "news-2358"
+  },
+  {
+    "title": "Show HN: AI-org – org-mode powered by AI",
+    "summary": "Hey guys. I made an attempt at using AI agents to help organize your tasks and life.I liked orgmode before AI. But just wondered how it could look with AI.So I created ai-org, a non-taken name it seem",
+    "content": "Hey guys. I made an attempt at using AI agents to help organize your tasks and life.I liked orgmode before AI. But just wondered how it could look with AI.So I created ai-org, a non-taken name it seems.It's an opencode fork with a custom org agenda task view. (and a simple file browser). (wouldn't be possible without opencode team, truly what a great MIT licensed product)The template includes an AGENTS.md and accompany file structure to the effect of:matt@mbp:~/doc/dev/pro/ai-org/template $ tree",
+    "author": "mannders",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-org.net/",
+    "id": "news-2357"
+  },
+  {
+    "title": "Three flavors of coding with AI agents",
+    "summary": "Article URL: https://nocodefunctions.com/blog/three-flavors-agentic-coding/ Comments URL: https://news.ycombinator.com/item?id=48334332 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nocodefunctions.com/blog/three-flavors-agentic-coding/ Comments URL: https://news.ycombinator.com/item?id=48334332 Points: 1 # Comments: 0",
+    "author": "seinecle",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nocodefunctions.com/blog/three-flavors-agentic-coding/",
+    "id": "news-2356"
+  },
+  {
+    "title": "AI coding agents ships at the cost of intuition and taste",
+    "summary": "Article URL: https://shivekkhurana.com/blog/coding-agent-dopamine/ Comments URL: https://news.ycombinator.com/item?id=48334363 Points: 1 # Comments: 0",
+    "content": "Article URL: https://shivekkhurana.com/blog/coding-agent-dopamine/ Comments URL: https://news.ycombinator.com/item?id=48334363 Points: 1 # Comments: 0",
+    "author": "shivekkhurana",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://shivekkhurana.com/blog/coding-agent-dopamine/",
+    "id": "news-2355"
+  },
+  {
+    "title": "Slow Journal app, with AI integration",
+    "summary": "Article URL: https://nemejournal.app/ Comments URL: https://news.ycombinator.com/item?id=48334405 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nemejournal.app/ Comments URL: https://news.ycombinator.com/item?id=48334405 Points: 1 # Comments: 0",
+    "author": "djampodev",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nemejournal.app/",
+    "id": "news-2354"
+  },
+  {
     "title": "The Biggest Tell That Something Was Written by AI",
     "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48332936 Points: 6 # Comments: 3",
     "content": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48332936 Points: 6 # Comments: 3",
