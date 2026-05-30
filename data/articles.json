@@ -1,5 +1,31 @@
 [
   {
+    "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
+    "summary": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing proble",
+    "content": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing problems to verifying results. Tao sees \"industrial mathematics\" emerging: large AI-supported teams instead of lone geniuses, with humans staying indispensable for \"inspired guesses.\" The article Terence Tao argues AI could bring division of labor to math for the first time in history appeared first on Th",
+    "author": "Matthias Bastian",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/",
+    "id": "news-2363"
+  },
+  {
+    "title": "Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds",
+    "summary": "A large-scale study covering 208,000 participants and 26 million responses shows that the very training that turns language models into helpful chatbots weakens their ability to replicate human behavi",
+    "content": "A large-scale study covering 208,000 participants and 26 million responses shows that the very training that turns language models into helpful chatbots weakens their ability to replicate human behavior. The effect gets worse with each new model generation. Even the popular persona trick, feeding models demographic profiles, brings practically no benefit for individual predictions. The article Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds ap",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds/",
+    "id": "news-2362"
+  },
+  {
     "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
     "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start",
     "content": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone. The article OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own appeared first on The Decoder.",
