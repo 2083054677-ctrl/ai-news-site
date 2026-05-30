@@ -1,5 +1,70 @@
 [
   {
+    "title": "768GB Intel Optane DIMMs to run 1T-parameter LLM with single GPU at 4tps",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second Comments URL: https://news.ycombinator.com/item?id=48340216 Points: 2 # Comments: 0",
+    "author": "walterbell",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+    "id": "news-2374"
+  },
+  {
+    "title": "Everything We Know About OpenAI's Planned iPhone Rival",
+    "summary": "Article URL: https://www.macrumors.com/2026/05/29/everything-we-know-about-openai-iphone-rival/ Comments URL: https://news.ycombinator.com/item?id=48340266 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.macrumors.com/2026/05/29/everything-we-know-about-openai-iphone-rival/ Comments URL: https://news.ycombinator.com/item?id=48340266 Points: 2 # Comments: 0",
+    "author": "andsoitis",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.macrumors.com/2026/05/29/everything-we-know-about-openai-iphone-rival/",
+    "id": "news-2373"
+  },
+  {
+    "title": "Testing products on AI-generated buyers",
+    "summary": "Article URL: https://www.bain.com/insights/synthetic-customers-earn-their-stripes/ Comments URL: https://news.ycombinator.com/item?id=48340300 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bain.com/insights/synthetic-customers-earn-their-stripes/ Comments URL: https://news.ycombinator.com/item?id=48340300 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bain.com/insights/synthetic-customers-earn-their-stripes/",
+    "id": "news-2372"
+  },
+  {
+    "title": "Google's AI Is Confused About Fish and the Days of the Week",
+    "summary": "Article URL: https://opus.ing/p/google-ai-really-confused-about-fish-days-week Comments URL: https://news.ycombinator.com/item?id=48340306 Points: 1 # Comments: 1",
+    "content": "Article URL: https://opus.ing/p/google-ai-really-confused-about-fish-days-week Comments URL: https://news.ycombinator.com/item?id=48340306 Points: 1 # Comments: 1",
+    "author": "_____k",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://opus.ing/p/google-ai-really-confused-about-fish-days-week",
+    "id": "news-2371"
+  },
+  {
+    "title": "Mystery company accidentally blew $500M on Claude AI in a single month",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-e",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees Comments URL: https://news.ycombinator.com/item?id=48340367 Points: 3 # Comments: 1",
+    "author": "timpera",
+    "date": "2026-05-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
+    "id": "news-2370"
+  },
+  {
     "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot",
     "summary": "Nvidia is pushing into the PC market with its own chips as the main processor. The first Windows computers from Dell and Microsoft's Surface line are set to be unveiled next week at Computex and Build",
     "content": "Nvidia is pushing into the PC market with its own chips as the main processor. The first Windows computers from Dell and Microsoft's Surface line are set to be unveiled next week at Computex and Build. Microsoft is also planning new software likely based on the OpenClaw framework that lets AI agents handle tasks locally on Windows PCs, a second shot after the Copilot+ PC concept largely flopped. The article Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copil",
