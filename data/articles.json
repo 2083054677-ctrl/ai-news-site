@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: FuguUX – science-backed, AI user testing to identify key web UX issues",
+    "summary": "Article URL: https://www.fuguux.com Comments URL: https://news.ycombinator.com/item?id=48346037 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.fuguux.com Comments URL: https://news.ycombinator.com/item?id=48346037 Points: 2 # Comments: 0",
+    "author": "sdas7",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fuguux.com",
+    "id": "news-2393"
+  },
+  {
+    "title": "We contain Claude across products",
+    "summary": "Article URL: https://simonwillison.net/2026/May/30/how-we-contain-claude/ Comments URL: https://news.ycombinator.com/item?id=48346040 Points: 3 # Comments: 0",
+    "content": "Article URL: https://simonwillison.net/2026/May/30/how-we-contain-claude/ Comments URL: https://news.ycombinator.com/item?id=48346040 Points: 3 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/May/30/how-we-contain-claude/",
+    "id": "news-2392"
+  },
+  {
+    "title": "Our tech overlords are planning for conscious AI to conquer the cosmos",
+    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48346229 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48346229 Points: 4 # Comments: 1",
+    "author": "rawgabbit",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+    "id": "news-2391"
+  },
+  {
+    "title": "The hidden copyright risk inside AI-generated content",
+    "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/19gjuao9c Comments URL: https://news.ycombinator.com/item?id=48346282 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.calcalistech.com/ctechnews/article/19gjuao9c Comments URL: https://news.ycombinator.com/item?id=48346282 Points: 2 # Comments: 0",
+    "author": "berlianta",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.calcalistech.com/ctechnews/article/19gjuao9c",
+    "id": "news-2390"
+  },
+  {
     "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
     "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep ",
     "content": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company employees. The article Anthropic bans AI tools during job interviews to see how candidates actually think appeared first on The Decoder.",
