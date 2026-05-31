@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI grifters are creating fake Black people to sell Shein junk",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping Comments URL: https://news.ycombinator.com/item?id=48341921 Points: 18 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping Comments URL: https://news.ycombinator.com/item?id=48341921 Points: 18 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+    "id": "news-2379"
+  },
+  {
+    "title": "Classrooms lean into analog learning in the AI era",
+    "summary": "Article URL: https://www.axios.com/2026/05/30/no-screen-school-technology-parents-ai Comments URL: https://news.ycombinator.com/item?id=48342052 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/05/30/no-screen-school-technology-parents-ai Comments URL: https://news.ycombinator.com/item?id=48342052 Points: 3 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/05/30/no-screen-school-technology-parents-ai",
+    "id": "news-2378"
+  },
+  {
+    "title": "How to protect your AI endpoints with Vercel BotID",
+    "summary": "Article URL: https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid Comments URL: https://news.ycombinator.com/item?id=48342146 Points: 2 # Comments: 0",
+    "content": "Article URL: https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid Comments URL: https://news.ycombinator.com/item?id=48342146 Points: 2 # Comments: 0",
+    "author": "flashbrew",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid",
+    "id": "news-2377"
+  },
+  {
+    "title": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
+    "summary": "I made my first macOS utility app that ships with a bundled Gemma 4 model, specifically the Gemma E4B one. It made my app DMG have 5.3 GB in size, but I think it is a small size for the power that thi",
+    "content": "I made my first macOS utility app that ships with a bundled Gemma 4 model, specifically the Gemma E4B one. It made my app DMG have 5.3 GB in size, but I think it is a small size for the power that this free local model can provide.It runs fine on CPU, but can also run on Apple Silicon GPU, although I did not notice any performance improvements with GPU (tested on a M5 chip).I think these local lightweight and multimodal models will open multiple possibilities for new software tools where privacy",
+    "author": "joas_coder",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://snapname.app",
+    "id": "news-2376"
+  },
+  {
+    "title": "The AI Boom Is Coming to Your Backyard [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=bA2rUkm7J9k Comments URL: https://news.ycombinator.com/item?id=48342345 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=bA2rUkm7J9k Comments URL: https://news.ycombinator.com/item?id=48342345 Points: 2 # Comments: 0",
+    "author": "mgh2",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=bA2rUkm7J9k",
+    "id": "news-2375"
+  },
+  {
     "title": "768GB Intel Optane DIMMs to run 1T-parameter LLM with single GPU at 4tps",
     "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-",
     "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second Comments URL: https://news.ycombinator.com/item?id=48340216 Points: 2 # Comments: 0",
