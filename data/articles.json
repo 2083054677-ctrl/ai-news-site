@@ -1,5 +1,70 @@
 [
   {
+    "title": "China's AI Heist",
+    "summary": "Article URL: https://www.foreignaffairs.com/china/chinas-ai-heist Comments URL: https://news.ycombinator.com/item?id=48349179 Points: 6 # Comments: 1",
+    "content": "Article URL: https://www.foreignaffairs.com/china/chinas-ai-heist Comments URL: https://news.ycombinator.com/item?id=48349179 Points: 6 # Comments: 1",
+    "author": "chvid",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.foreignaffairs.com/china/chinas-ai-heist",
+    "id": "news-2407"
+  },
+  {
+    "title": "Web-AI-SDK 0.5: Writer, Rewriter, Proofreader and Prompt API improvements",
+    "summary": "Article URL: https://web-ai-sdk.dev/ Comments URL: https://news.ycombinator.com/item?id=48349217 Points: 2 # Comments: 1",
+    "content": "Article URL: https://web-ai-sdk.dev/ Comments URL: https://news.ycombinator.com/item?id=48349217 Points: 2 # Comments: 1",
+    "author": "obetomuniz",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://web-ai-sdk.dev/",
+    "id": "news-2406"
+  },
+  {
+    "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
+    "summary": "Article URL: https://pypi.org/project/headroom-ai/ Comments URL: https://news.ycombinator.com/item?id=48349275 Points: 2 # Comments: 1",
+    "content": "Article URL: https://pypi.org/project/headroom-ai/ Comments URL: https://news.ycombinator.com/item?id=48349275 Points: 2 # Comments: 1",
+    "author": "mooreds",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pypi.org/project/headroom-ai/",
+    "id": "news-2405"
+  },
+  {
+    "title": "Researchers let AI models run a simulated society",
+    "summary": "Article URL: https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/ Comments URL: https://news.ycombinator.com/item?id=48349353 Points: 3 # Comments: 0",
+    "content": "Article URL: https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/ Comments URL: https://news.ycombinator.com/item?id=48349353 Points: 3 # Comments: 0",
+    "author": "ilkkao",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
+    "id": "news-2404"
+  },
+  {
+    "title": "Show HN: GEDD – Find what your AI agent gets wrong (before your users do)",
+    "summary": "Article URL: https://github.com/aws-samples/sample-GEDD Comments URL: https://news.ycombinator.com/item?id=48349448 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/aws-samples/sample-GEDD Comments URL: https://news.ycombinator.com/item?id=48349448 Points: 1 # Comments: 0",
+    "author": "balasvce19855",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aws-samples/sample-GEDD",
+    "id": "news-2403"
+  },
+  {
     "title": "The math world is losing its mind over the new AI solution to an Erdős problem",
     "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48348225 Points: 2 # Comments: 2",
     "content": "Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48348225 Points: 2 # Comments: 2",
