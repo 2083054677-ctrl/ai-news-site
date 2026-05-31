@@ -1,5 +1,70 @@
 [
   {
+    "title": "CT gov signs AI law to notify employees",
+    "summary": "Article URL: https://news.bloomberglaw.com/daily-labor-report/connecticuts-lamont-signs-ai-law-with-employer-notice-mandate Comments URL: https://news.ycombinator.com/item?id=48347137 Points: 2 # Comm",
+    "content": "Article URL: https://news.bloomberglaw.com/daily-labor-report/connecticuts-lamont-signs-ai-law-with-employer-notice-mandate Comments URL: https://news.ycombinator.com/item?id=48347137 Points: 2 # Comments: 0",
+    "author": "moneil971",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.bloomberglaw.com/daily-labor-report/connecticuts-lamont-signs-ai-law-with-employer-notice-mandate",
+    "id": "news-2398"
+  },
+  {
+    "title": "The Speed of Prototyping in the Age of AI",
+    "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 7 # Comments: 0",
+    "content": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 7 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "id": "news-2397"
+  },
+  {
+    "title": "Talk Is Cheap: The Operational Impact of LLM Use",
+    "summary": "Article URL: https://unessays.substack.com/p/talk-is-cheap Comments URL: https://news.ycombinator.com/item?id=48347155 Points: 5 # Comments: 0",
+    "content": "Article URL: https://unessays.substack.com/p/talk-is-cheap Comments URL: https://news.ycombinator.com/item?id=48347155 Points: 5 # Comments: 0",
+    "author": "oudlys",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://unessays.substack.com/p/talk-is-cheap",
+    "id": "news-2396"
+  },
+  {
+    "title": "PewDiePie's AI Workspace",
+    "summary": "Article URL: https://pewdiepie-archdaemon.github.io/odysseus/ Comments URL: https://news.ycombinator.com/item?id=48347265 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pewdiepie-archdaemon.github.io/odysseus/ Comments URL: https://news.ycombinator.com/item?id=48347265 Points: 1 # Comments: 0",
+    "author": "r0xsh",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pewdiepie-archdaemon.github.io/odysseus/",
+    "id": "news-2395"
+  },
+  {
+    "title": "Turning AI chatbot pages into malware delivery platforms",
+    "summary": "Article URL: https://pushsecurity.com/blog/llmshare-malvertising-campaign Comments URL: https://news.ycombinator.com/item?id=48347281 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pushsecurity.com/blog/llmshare-malvertising-campaign Comments URL: https://news.ycombinator.com/item?id=48347281 Points: 1 # Comments: 0",
+    "author": "redbell",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pushsecurity.com/blog/llmshare-malvertising-campaign",
+    "id": "news-2394"
+  },
+  {
     "title": "Show HN: FuguUX – science-backed, AI user testing to identify key web UX issues",
     "summary": "Article URL: https://www.fuguux.com Comments URL: https://news.ycombinator.com/item?id=48346037 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.fuguux.com Comments URL: https://news.ycombinator.com/item?id=48346037 Points: 2 # Comments: 0",
