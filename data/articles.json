@@ -1,5 +1,31 @@
 [
   {
+    "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
+    "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep ",
+    "content": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company employees. The article Anthropic bans AI tools during job interviews to see how candidates actually think appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/",
+    "id": "news-2389"
+  },
+  {
+    "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
+    "summary": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemically related. Trained on 4.14 million re",
+    "content": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemically related. Trained on 4.14 million recipes in seven languages and the FlavorDB flavor database, each variant returns different recommendations. The purely chemistry-based model even classifies taste and nutritional values better than the recipe-based alternatives, despite never seeing that information directly. The article Ask AI what ",
+    "author": "Jonathan Kemper",
+    "date": "2026-05-31",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/",
+    "id": "news-2388"
+  },
+  {
     "title": "AI search agents often confirm what they already know instead of actually researching the web",
     "summary": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm what they already learned during training",
     "content": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm what they already learned during training. Researchers at the Harbin Institute of Technology found this using a new time-based benchmark called LiveBrowseComp, which only asks about events from the last 90 days. Once the models can't fall back on memory, performance falls apart and the existing rankings get reshuffled. The article AI searc",
