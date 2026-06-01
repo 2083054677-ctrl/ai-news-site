@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI Docs –> 403: Forbidden",
+    "summary": "Article URL: https://developers.openai.com/ Comments URL: https://news.ycombinator.com/item?id=48351834 Points: 1 # Comments: 0",
+    "content": "Article URL: https://developers.openai.com/ Comments URL: https://news.ycombinator.com/item?id=48351834 Points: 1 # Comments: 0",
+    "author": "g42gregory",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://developers.openai.com/",
+    "id": "news-2412"
+  },
+  {
+    "title": "Use Codex, Grok, Kiro, and Cursor OAuth with Claude Code",
+    "summary": "Article URL: https://github.com/RyanKung/rotom Comments URL: https://news.ycombinator.com/item?id=48351839 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/RyanKung/rotom Comments URL: https://news.ycombinator.com/item?id=48351839 Points: 1 # Comments: 1",
+    "author": "ryankung",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/RyanKung/rotom",
+    "id": "news-2411"
+  },
+  {
+    "title": "My client is replacing me with Claude for all DevOps/infra and most feature dev",
+    "summary": "The last straw was showing up on Monday to a new vibe coded kubernetes cluster and migration plan for all cloud run services. One week after his vibe coded feature and vibe hotfixes kept the sites up ",
+    "content": "The last straw was showing up on Monday to a new vibe coded kubernetes cluster and migration plan for all cloud run services. One week after his vibe coded feature and vibe hotfixes kept the sites up and down for over a week before I stepped in and simply reverted the Claude junk.I chose not to support the new direction so he's moving forward without me. Comments URL: https://news.ycombinator.com/item?id=48352045 Points: 3 # Comments: 1",
+    "author": "goatwrangler",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48352045",
+    "id": "news-2410"
+  },
+  {
+    "title": "PewDiePie launches AI workspace built on top of OpenCode [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=rAzT5lcezPs Comments URL: https://news.ycombinator.com/item?id=48352048 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=rAzT5lcezPs Comments URL: https://news.ycombinator.com/item?id=48352048 Points: 2 # Comments: 0",
+    "author": "shrikaranhanda",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=rAzT5lcezPs",
+    "id": "news-2409"
+  },
+  {
+    "title": "Smart Rename – renames image file downloads in real time using local AI",
+    "summary": "Article URL: https://github.com/chudweiser/smart-rename Comments URL: https://news.ycombinator.com/item?id=48352070 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/chudweiser/smart-rename Comments URL: https://news.ycombinator.com/item?id=48352070 Points: 1 # Comments: 0",
+    "author": "chudweiser",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/chudweiser/smart-rename",
+    "id": "news-2408"
+  },
+  {
     "title": "China's AI Heist",
     "summary": "Article URL: https://www.foreignaffairs.com/china/chinas-ai-heist Comments URL: https://news.ycombinator.com/item?id=48349179 Points: 6 # Comments: 1",
     "content": "Article URL: https://www.foreignaffairs.com/china/chinas-ai-heist Comments URL: https://news.ycombinator.com/item?id=48349179 Points: 6 # Comments: 1",
