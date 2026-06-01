@@ -1,5 +1,85 @@
 [
   {
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "summary": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "id": "news-2423"
+  },
+  {
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "summary": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "id": "news-2422"
+  },
+  {
+    "title": "Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices",
+    "summary": "Nvidia is attacking Apple Silicon and Qualcomm on Windows laptops with the RTX Spark. The chip combines a Blackwell GPU with an Arm-based Grace CPU and up to 128 GB of shared memory, with a calculated",
+    "content": "Nvidia is attacking Apple Silicon and Qualcomm on Windows laptops with the RTX Spark. The chip combines a Blackwell GPU with an Arm-based Grace CPU and up to 128 GB of shared memory, with a calculated 1,000 TOPS in FP4. ASUS, Dell, HP, Lenovo, Microsoft Surface, and MSI are set to deliver the first devices from fall 2026. The article Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-pitches-rtx-spark-as-the-chip-that-finally-makes-local-ai-agents-practical-on-windows-devices/",
+    "id": "news-2421"
+  },
+  {
+    "title": "Nvidia bets big on physical AI at GTC Taipei with a new world model, driving brain, and open humanoid robot",
+    "summary": "Nvidia used GTC Taipei to launch a series of models for robots, autonomous vehicles, and video systems. The centerpieces are the new world model Cosmos 3, a significantly scaled-up driving model calle",
+    "content": "Nvidia used GTC Taipei to launch a series of models for robots, autonomous vehicles, and video systems. The centerpieces are the new world model Cosmos 3, a significantly scaled-up driving model called Alpamayo 2 Super, and an open reference platform for humanoid robots. The article Nvidia bets big on physical AI at GTC Taipei with a new world model, driving brain, and open humanoid robot appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-bets-big-on-physical-ai-at-gtc-taipei-with-a-new-world-model-driving-brain-and-open-humanoid-robot/",
+    "id": "news-2420"
+  },
+  {
+    "title": "Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads",
+    "summary": "According to benchmark platform Artificial Analysis, Nvidia's new Nemotron 3 Ultra is the most capable open AI model from the US to date. The article Nvidia's Nemotron 3 Ultra becomes the smartest ope",
+    "content": "According to benchmark platform Artificial Analysis, Nvidia's new Nemotron 3 Ultra is the most capable open AI model from the US to date. The article Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
+    "id": "news-2419"
+  },
+  {
+    "title": "MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders",
+    "summary": "Chinese AI company MiniMax has released its new model M3. It's billed as the first open-weight model to combine top-tier coding performance, a one-million-token context window, and native multimodalit",
+    "content": "Chinese AI company MiniMax has released its new model M3. It's billed as the first open-weight model to combine top-tier coding performance, a one-million-token context window, and native multimodality. The article MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/",
+    "id": "news-2418"
+  },
+  {
     "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
     "summary": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
     "content": "",
