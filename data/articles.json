@@ -1,5 +1,70 @@
 [
   {
+    "title": "Alphabet plans to raise $80B from stock sales to fund AI buildout",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=48363499 Points: 5 # Comments: 1",
+    "content": "Article URL: https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=48363499 Points: 5 # Comments: 1",
+    "author": "Indian_in_US",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
+    "id": "news-2430"
+  },
+  {
+    "title": "As The Pentagon pushes for battlefield AI, some military leaders urge caution",
+    "summary": "Article URL: https://apnews.com/article/artificial-intelligence-military-hegseth-anthropic-d5fbaee17ee0bdb9738dbb808ea2d047 Comments URL: https://news.ycombinator.com/item?id=48363528 Points: 5 # Comm",
+    "content": "Article URL: https://apnews.com/article/artificial-intelligence-military-hegseth-anthropic-d5fbaee17ee0bdb9738dbb808ea2d047 Comments URL: https://news.ycombinator.com/item?id=48363528 Points: 5 # Comments: 0",
+    "author": "devonnull",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apnews.com/article/artificial-intelligence-military-hegseth-anthropic-d5fbaee17ee0bdb9738dbb808ea2d047",
+    "id": "news-2429"
+  },
+  {
+    "title": "Canada's AI strategy is set to fail before it even launches",
+    "summary": "Article URL: https://www.theglobeandmail.com/opinion/article-canadas-ai-strategy-is-set-to-fail-before-it-even-launches/ Comments URL: https://news.ycombinator.com/item?id=48363662 Points: 1 # Comment",
+    "content": "Article URL: https://www.theglobeandmail.com/opinion/article-canadas-ai-strategy-is-set-to-fail-before-it-even-launches/ Comments URL: https://news.ycombinator.com/item?id=48363662 Points: 1 # Comments: 0",
+    "author": "fidotron",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theglobeandmail.com/opinion/article-canadas-ai-strategy-is-set-to-fail-before-it-even-launches/",
+    "id": "news-2428"
+  },
+  {
+    "title": "agentgateway – One high-performance gateway for service, LLM, and MCP traffic",
+    "summary": "Article URL: https://agentgateway.dev/ Comments URL: https://news.ycombinator.com/item?id=48363702 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agentgateway.dev/ Comments URL: https://news.ycombinator.com/item?id=48363702 Points: 1 # Comments: 0",
+    "author": "wicket",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentgateway.dev/",
+    "id": "news-2427"
+  },
+  {
+    "title": "What's Easy Now? What's Hard Now? How AI Is Changing Software Development",
+    "summary": "Article URL: https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html Comments URL: https://news.ycombinator.com/item?id=48363750 Points: 2 # Comments: 1",
+    "content": "Article URL: https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html Comments URL: https://news.ycombinator.com/item?id=48363750 Points: 2 # Comments: 1",
+    "author": "pgedge_postgres",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html",
+    "id": "news-2426"
+  },
+  {
     "title": "Turing Award winner Richard Sutton says pure generative AI can't do real science",
     "summary": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientific discovery remains impossible: novelty",
     "content": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientific discovery remains impossible: novelty flickers briefly and is lost again. Systems like AlphaGo or AlphaProof show that only built-in evaluation loops let AI be genuinely creative, Sutton argues. The article Turing Award winner Richard Sutton says pure generative AI can't do real science appeared first on The Decoder.",
