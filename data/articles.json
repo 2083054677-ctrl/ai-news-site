@@ -1,5 +1,71 @@
 [
   {
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "summary": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "id": "news-2417"
+  },
+  {
+    "title": "OpenAI starts with infrastructure robots but aims for \"everyone having a personal robot doing anything they need\"",
+    "summary": "OpenAI is building a robotics team again, five years after shutting the division down. The team grew out of the world simulation research program. CEO Sam Altman's long-term goal: a personal robot for",
+    "content": "OpenAI is building a robotics team again, five years after shutting the division down. The team grew out of the world simulation research program. CEO Sam Altman's long-term goal: a personal robot for everyone. In the near term, robots will help build infrastructure. The article OpenAI starts with infrastructure robots but aims for \"everyone having a personal robot doing anything they need\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-starts-with-infrastructure-robots-but-aims-for-everyone-having-a-personal-robot-doing-anything-they-need/",
+    "id": "news-2416"
+  },
+  {
+    "title": "AI driven analysis of brokerage account fees in the UK",
+    "summary": "Article URL: https://feesorted.com/ Comments URL: https://news.ycombinator.com/item?id=48354051 Points: 1 # Comments: 1",
+    "content": "Article URL: https://feesorted.com/ Comments URL: https://news.ycombinator.com/item?id=48354051 Points: 1 # Comments: 1",
+    "author": "m101",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://feesorted.com/",
+    "id": "news-2415"
+  },
+  {
+    "title": "Concrete Ways I Use AI During a Normal Engineering Workday (Week 4 Roundup)",
+    "summary": "Article URL: https://theaileverageweekly.com/posts/8-concrete-ways-i-use-ai-during-a-normal-engineering-workday-week-4-ro.html Comments URL: https://news.ycombinator.com/item?id=48354296 Points: 1 # C",
+    "content": "Article URL: https://theaileverageweekly.com/posts/8-concrete-ways-i-use-ai-during-a-normal-engineering-workday-week-4-ro.html Comments URL: https://news.ycombinator.com/item?id=48354296 Points: 1 # Comments: 0",
+    "author": "talvardi7",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theaileverageweekly.com/posts/8-concrete-ways-i-use-ai-during-a-normal-engineering-workday-week-4-ro.html",
+    "id": "news-2414"
+  },
+  {
+    "title": "Meta Fixes Instagram AI Flaw Used in Account Takeovers",
+    "summary": "Article URL: https://sqmagazine.co.uk/meta-fixes-instagram-ai-flaw-account-takeovers/ Comments URL: https://news.ycombinator.com/item?id=48354400 Points: 1 # Comments: 0",
+    "content": "Article URL: https://sqmagazine.co.uk/meta-fixes-instagram-ai-flaw-account-takeovers/ Comments URL: https://news.ycombinator.com/item?id=48354400 Points: 1 # Comments: 0",
+    "author": "mmsc",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sqmagazine.co.uk/meta-fixes-instagram-ai-flaw-account-takeovers/",
+    "id": "news-2413"
+  },
+  {
     "title": "OpenAI Docs –> 403: Forbidden",
     "summary": "Article URL: https://developers.openai.com/ Comments URL: https://news.ycombinator.com/item?id=48351834 Points: 1 # Comments: 0",
     "content": "Article URL: https://developers.openai.com/ Comments URL: https://news.ycombinator.com/item?id=48351834 Points: 1 # Comments: 0",
