@@ -1,5 +1,31 @@
 [
   {
+    "title": "Turing Award winner Richard Sutton says pure generative AI can't do real science",
+    "summary": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientific discovery remains impossible: novelty",
+    "content": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientific discovery remains impossible: novelty flickers briefly and is lost again. Systems like AlphaGo or AlphaProof show that only built-in evaluation loops let AI be genuinely creative, Sutton argues. The article Turing Award winner Richard Sutton says pure generative AI can't do real science appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/",
+    "id": "news-2425"
+  },
+  {
+    "title": "Claude maker Anthropic files for IPO with the SEC",
+    "summary": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is valued at just under $1 trillion after its la",
+    "content": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is valued at just under $1 trillion after its latest funding round. Competitor OpenAI is also gearing up for an IPO. The race for investor dollars in the AI sector is heating up. The article Claude maker Anthropic files for IPO with the SEC appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-maker-anthropic-files-for-ipo-with-the-sec/",
+    "id": "news-2424"
+  },
+  {
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "summary": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "content": "",
