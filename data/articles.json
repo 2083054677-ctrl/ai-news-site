@@ -1,5 +1,32 @@
 [
   {
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "summary": "Holo3.1: Fast & Local Computer Use Agents",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Hcompany/holo31",
+    "id": "news-2446"
+  },
+  {
+    "title": "Anthropic scales Project Glasswing to 150 partners across 15 countries to hunt critical software flaws",
+    "summary": "Anthropic is scaling up Project Glasswing with 150 new partners across more than 15 countries, all using Claude Mythos Preview to scan critical infrastructure for security flaws. Partners already on b",
+    "content": "Anthropic is scaling up Project Glasswing with 150 new partners across more than 15 countries, all using Claude Mythos Preview to scan critical infrastructure for security flaws. Partners already on board have found over 10,000 serious vulnerabilities. At the same time, Anthropic is selling a commercial fix with Claude Security, profiting from both sides of the problem. The article Anthropic scales Project Glasswing to 150 partners across 15 countries to hunt critical software flaws appeared fir",
+    "author": "Matthias Bastian",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-scales-project-glasswing-to-150-partners-across-15-countries-to-hunt-critical-software-flaws/",
+    "id": "news-2445"
+  },
+  {
     "title": "Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout",
     "summary": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spending to hit $190 billion in 2026. That n",
     "content": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spending to hit $190 billion in 2026. That number will only go up. The article Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout appeared first on The Decoder.",
