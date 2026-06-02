@@ -1,5 +1,44 @@
 [
   {
+    "title": "Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout",
+    "summary": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spending to hit $190 billion in 2026. That n",
+    "content": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spending to hit $190 billion in 2026. That number will only go up. The article Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/warren-buffetts-berkshire-hathaway-bets-10-billion-on-alphabets-ai-infrastructure-buildout/",
+    "id": "news-2444"
+  },
+  {
+    "title": "OpenAI turns ChatGPT into a career platform with job search and CV editor",
+    "summary": "OpenAI turns ChatGPT into a career tool: A new job search feature surfaces personalized listings from Indeed, Upwork, and Appcast, initially US-only. Resumes can also be created directly in ChatGPT an",
+    "content": "OpenAI turns ChatGPT into a career tool: A new job search feature surfaces personalized listings from Indeed, Upwork, and Appcast, initially US-only. Resumes can also be created directly in ChatGPT and tailored to specific roles. The article OpenAI turns ChatGPT into a career platform with job search and CV editor appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-turns-chatgpt-into-a-career-platform-with-job-search-and-cv-editor/",
+    "id": "news-2443"
+  },
+  {
+    "title": "Hackers hijacked high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email",
+    "summary": "Hackers took over prominent Instagram accounts, including the Obama White House page, by simply asking Meta's AI support chatbot to change the email address on file. Two-factor authentication was bypa",
+    "content": "Hackers took over prominent Instagram accounts, including the Obama White House page, by simply asking Meta's AI support chatbot to change the email address on file. Two-factor authentication was bypassed entirely. Meta has patched the flaw, but security researchers say another exploit is already circulating on Telegram. The article Hackers hijacked high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/hackers-hijacked-high-profile-instagram-accounts-by-simply-asking-metas-ai-chatbot-to-change-the-email/",
+    "id": "news-2442"
+  },
+  {
     "title": "OpenAI models now available on Amazon Web Services",
     "summary": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and government AWS regions but are limited to th",
     "content": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and government AWS regions but are limited to the US for now. Usage counts toward existing AWS contracts. The article OpenAI models now available on Amazon Web Services appeared first on The Decoder.",
