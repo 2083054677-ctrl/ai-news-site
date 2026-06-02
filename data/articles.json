@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI models now available on Amazon Web Services",
+    "summary": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and government AWS regions but are limited to th",
+    "content": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and government AWS regions but are limited to the US for now. Usage counts toward existing AWS contracts. The article OpenAI models now available on Amazon Web Services appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-models-now-available-on-amazon-web-services/",
+    "id": "news-2441"
+  },
+  {
+    "title": "Remote work – not AI – has sidelined recent college graduates, research finds",
+    "summary": "Article URL: https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai Comments URL: https://news.ycombinator.com/item?id=48367147 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai Comments URL: https://news.ycombinator.com/item?id=48367147 Points: 1 # Comments: 0",
+    "author": "benkan",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
+    "id": "news-2440"
+  },
+  {
+    "title": "Version 2.0 of AI laser mosquito defense system is here",
+    "summary": "Article URL: https://twitter.com/stevencheng/status/2059950811954692451 Comments URL: https://news.ycombinator.com/item?id=48367260 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/stevencheng/status/2059950811954692451 Comments URL: https://news.ycombinator.com/item?id=48367260 Points: 3 # Comments: 0",
+    "author": "throwaway2037",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/stevencheng/status/2059950811954692451",
+    "id": "news-2439"
+  },
+  {
+    "title": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram Comments URL: https://news.ycombinator.com/item?id=48367292 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram Comments URL: https://news.ycombinator.com/item?id=48367292 Points: 2 # Comments: 0",
+    "author": "beardyw",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+    "id": "news-2438"
+  },
+  {
+    "title": "OpenAIRE AI Hackathon",
+    "summary": "Article URL: https://www.openaire.eu/announcement-openaire-ai-hackathon Comments URL: https://news.ycombinator.com/item?id=48367388 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.openaire.eu/announcement-openaire-ai-hackathon Comments URL: https://news.ycombinator.com/item?id=48367388 Points: 1 # Comments: 0",
+    "author": "T-A",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.openaire.eu/announcement-openaire-ai-hackathon",
+    "id": "news-2437"
+  },
+  {
+    "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
+    "summary": "Article URL: https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt Comments URL: https://news.ycombinator.com/item?id=48367405 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt Comments URL: https://news.ycombinator.com/item?id=48367405 Points: 2 # Comments: 0",
+    "author": "isaacfrond",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
+    "id": "news-2436"
+  },
+  {
     "title": "Starbucks retired its AI agent just months after deployment",
     "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html Comments URL: https://news.ycombinator.com/item?id=48364899 Points: 1 # Comments: 2",
     "content": "Article URL: https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html Comments URL: https://news.ycombinator.com/item?id=48364899 Points: 1 # Comments: 2",
