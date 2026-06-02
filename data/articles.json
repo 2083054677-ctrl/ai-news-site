@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
+    "summary": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in five isn't a developer, the company says. ",
+    "content": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in five isn't a developer, the company says. That non-developer group is growing three times faster than the developer base, a sign that OpenAI is positioning Codex as an all-purpose work app. The article OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-expands-codex-with-role-specific-plugins-to-build-a-general-purpose-app-for-non-developers/",
+    "id": "news-2452"
+  },
+  {
+    "title": "Skillhound: Give your AI access to every public SKILL.md",
+    "summary": "Article URL: https://www.skillhound.ai/ Comments URL: https://news.ycombinator.com/item?id=48376569 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.skillhound.ai/ Comments URL: https://news.ycombinator.com/item?id=48376569 Points: 4 # Comments: 0",
+    "author": "mfkhalil",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.skillhound.ai/",
+    "id": "news-2451"
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "summary": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comme",
+    "content": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared. Comments URL: https://news.ycombinator.com/item?id=48376612 Points: 3 # Comments: 2",
+    "author": "bookofjoe",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48376612",
+    "id": "news-2450"
+  },
+  {
+    "title": "AI Coding Tips for 2026",
+    "summary": "Article URL: https://raheelyawar.medium.com/ai-coding-tips-may-2026-43a12e68067a Comments URL: https://news.ycombinator.com/item?id=48376923 Points: 1 # Comments: 1",
+    "content": "Article URL: https://raheelyawar.medium.com/ai-coding-tips-may-2026-43a12e68067a Comments URL: https://news.ycombinator.com/item?id=48376923 Points: 1 # Comments: 1",
+    "author": "dbgrman",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://raheelyawar.medium.com/ai-coding-tips-may-2026-43a12e68067a",
+    "id": "news-2449"
+  },
+  {
+    "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
+    "summary": "Article URL: https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era Comments URL: https://news.ycombinator.com/item?id=48377",
+    "content": "Article URL: https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era Comments URL: https://news.ycombinator.com/item?id=48377037 Points: 1 # Comments: 0",
+    "author": "littlexsparkee",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
+    "id": "news-2448"
+  },
+  {
+    "title": "Firefox AI Coding Policy",
+    "summary": "Article URL: https://firefox-source-docs.mozilla.org/contributing/ai-coding.html#firefox-ai-coding-policy Comments URL: https://news.ycombinator.com/item?id=48377056 Points: 1 # Comments: 0",
+    "content": "Article URL: https://firefox-source-docs.mozilla.org/contributing/ai-coding.html#firefox-ai-coding-policy Comments URL: https://news.ycombinator.com/item?id=48377056 Points: 1 # Comments: 0",
+    "author": "Topfi",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://firefox-source-docs.mozilla.org/contributing/ai-coding.html#firefox-ai-coding-policy",
+    "id": "news-2447"
+  },
+  {
     "title": "Holo3.1: Fast & Local Computer Use Agents",
     "summary": "Holo3.1: Fast & Local Computer Use Agents",
     "content": "",
