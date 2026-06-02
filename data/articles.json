@@ -1,5 +1,70 @@
 [
   {
+    "title": "Starbucks retired its AI agent just months after deployment",
+    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html Comments URL: https://news.ycombinator.com/item?id=48364899 Points: 1 # Comments: 2",
+    "content": "Article URL: https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html Comments URL: https://news.ycombinator.com/item?id=48364899 Points: 1 # Comments: 2",
+    "author": "cdrnsf",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html",
+    "id": "news-2435"
+  },
+  {
+    "title": "Why Study CS? Thoughts on LLM-assisted software engineering",
+    "summary": "Article URL: https://kmicinski.com/claude-code-and-why-study-cs Comments URL: https://news.ycombinator.com/item?id=48365109 Points: 3 # Comments: 0",
+    "content": "Article URL: https://kmicinski.com/claude-code-and-why-study-cs Comments URL: https://news.ycombinator.com/item?id=48365109 Points: 3 # Comments: 0",
+    "author": "jruohonen",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kmicinski.com/claude-code-and-why-study-cs",
+    "id": "news-2434"
+  },
+  {
+    "title": "X.org Server Starts June Nine New Security Vulnerabilities Discovered via AI",
+    "summary": "Article URL: https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI Comments URL: https://news.ycombinator.com/item?id=48365188 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI Comments URL: https://news.ycombinator.com/item?id=48365188 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI",
+    "id": "news-2433"
+  },
+  {
+    "title": "Show HN: Memex – A local-first AI journal that keeps everything as Markdown",
+    "summary": "Article URL: https://github.com/memex-lab/memex Comments URL: https://news.ycombinator.com/item?id=48365371 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/memex-lab/memex Comments URL: https://news.ycombinator.com/item?id=48365371 Points: 1 # Comments: 0",
+    "author": "sparkleMing",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/memex-lab/memex",
+    "id": "news-2432"
+  },
+  {
+    "title": "SpaceX Vow to Loft 1M AI Satellites Could Spark Doomsday Dive",
+    "summary": "Article URL: https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/ Comments URL: https://news.ycombinator.com/item?id=48365378 ",
+    "content": "Article URL: https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/ Comments URL: https://news.ycombinator.com/item?id=48365378 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-06-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/",
+    "id": "news-2431"
+  },
+  {
     "title": "Alphabet plans to raise $80B from stock sales to fund AI buildout",
     "summary": "Article URL: https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=48363499 Points: 5 # Comments: 1",
     "content": "Article URL: https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=48363499 Points: 5 # Comments: 1",
