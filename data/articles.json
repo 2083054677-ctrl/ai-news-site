@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI Corporate Governance and Ben & Jerry's Risk",
+    "summary": "Article URL: https://corpgov.law.harvard.edu/2026/05/11/ai-corporate-governance-and-ben-jerrys-risk/ Comments URL: https://news.ycombinator.com/item?id=48379349 Points: 1 # Comments: 1",
+    "content": "Article URL: https://corpgov.law.harvard.edu/2026/05/11/ai-corporate-governance-and-ben-jerrys-risk/ Comments URL: https://news.ycombinator.com/item?id=48379349 Points: 1 # Comments: 1",
+    "author": "ChrisArchitect",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://corpgov.law.harvard.edu/2026/05/11/ai-corporate-governance-and-ben-jerrys-risk/",
+    "id": "news-2457"
+  },
+  {
+    "title": "Google's $80B equity raise adds to that giant AI sucking sound",
+    "summary": "Article URL: https://www.ft.com/content/2fe1fff9-f619-4a25-9b30-05bdc3bdea70 Comments URL: https://news.ycombinator.com/item?id=48379367 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/2fe1fff9-f619-4a25-9b30-05bdc3bdea70 Comments URL: https://news.ycombinator.com/item?id=48379367 Points: 2 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/2fe1fff9-f619-4a25-9b30-05bdc3bdea70",
+    "id": "news-2456"
+  },
+  {
+    "title": "Show HN: AI-Powered PDF to Markdown Converter",
+    "summary": "Turn complex PDFs into clean Markdown that people can review and AI tools can use. Comments URL: https://news.ycombinator.com/item?id=48379368 Points: 1 # Comments: 2",
+    "content": "Turn complex PDFs into clean Markdown that people can review and AI tools can use. Comments URL: https://news.ycombinator.com/item?id=48379368 Points: 1 # Comments: 2",
+    "author": "QingWu",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pdftomdconverter.com",
+    "id": "news-2455"
+  },
+  {
+    "title": "Florida sues OpenAI and CEO Altman, claiming company concealed serious risks",
+    "summary": "Article URL: https://apnews.com/article/sam-altman-openai-lawsuit-florida-396d70c5a2d9bae7e95a8ee9adaef836 Comments URL: https://news.ycombinator.com/item?id=48379424 Points: 2 # Comments: 0",
+    "content": "Article URL: https://apnews.com/article/sam-altman-openai-lawsuit-florida-396d70c5a2d9bae7e95a8ee9adaef836 Comments URL: https://news.ycombinator.com/item?id=48379424 Points: 2 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apnews.com/article/sam-altman-openai-lawsuit-florida-396d70c5a2d9bae7e95a8ee9adaef836",
+    "id": "news-2454"
+  },
+  {
+    "title": "The Four Signals of AI Observability",
+    "summary": "Article URL: https://thoughtbot.com/blog/the-four-signals-of-ai-observability Comments URL: https://news.ycombinator.com/item?id=48379461 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thoughtbot.com/blog/the-four-signals-of-ai-observability Comments URL: https://news.ycombinator.com/item?id=48379461 Points: 1 # Comments: 0",
+    "author": "iroha1203",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thoughtbot.com/blog/the-four-signals-of-ai-observability",
+    "id": "news-2453"
+  },
+  {
     "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
     "summary": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in five isn't a developer, the company says. ",
     "content": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in five isn't a developer, the company says. That non-developer group is growing three times faster than the developer base, a sign that OpenAI is positioning Codex as an all-purpose work app. The article OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers appeared first on The Decoder.",
