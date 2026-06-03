@@ -1,5 +1,109 @@
 [
   {
+    "title": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
+    "summary": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for se",
+    "content": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for security testing, but the order explicitly rules out mandatory approval. Given recent government pressure on AI companies, how voluntary this cooperation really is remains an open question. The article Trump's new executive order wants AI companies to voluntarily submit models for government safety re",
+    "author": "Matthias Bastian",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/",
+    "id": "news-2481"
+  },
+  {
+    "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
+    "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks ",
+    "content": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks first among all open models; only closed systems from OpenAI and Google score higher. Commercial use requires a paid license. The article Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+    "id": "news-2480"
+  },
+  {
+    "title": "Google lets sites opt out of AI search results, knowing most have nowhere else to go",
+    "summary": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together already reach more than 3.5 billion mont",
+    "content": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together already reach more than 3.5 billion monthly users. New performance reports break out impressions separately. The move was prompted by the UK's Competition and Markets Authority (CMA), which sees website operators at a severe disadvantage. The article Google lets sites opt out of AI search results, knowing most have nowhere else to go appe",
+    "author": "Matthias Bastian",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/",
+    "id": "news-2479"
+  },
+  {
+    "title": "AI Is Computation",
+    "summary": "Article URL: https://www.gabrielpickard.com/posts/ai-is-computation/ Comments URL: https://news.ycombinator.com/item?id=48388219 Points: 2 # Comments: 2",
+    "content": "Article URL: https://www.gabrielpickard.com/posts/ai-is-computation/ Comments URL: https://news.ycombinator.com/item?id=48388219 Points: 2 # Comments: 2",
+    "author": "snoren",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.gabrielpickard.com/posts/ai-is-computation/",
+    "id": "news-2478"
+  },
+  {
+    "title": "How much AI should my team use? A framework for managers",
+    "summary": "Article URL: https://assistedeverything.substack.com/p/ai-bowtie Comments URL: https://news.ycombinator.com/item?id=48388279 Points: 1 # Comments: 0",
+    "content": "Article URL: https://assistedeverything.substack.com/p/ai-bowtie Comments URL: https://news.ycombinator.com/item?id=48388279 Points: 1 # Comments: 0",
+    "author": "gimili",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://assistedeverything.substack.com/p/ai-bowtie",
+    "id": "news-2477"
+  },
+  {
+    "title": "Claude please rack me a datacenter, make no mistakes",
+    "summary": "Article URL: https://blog.railway.com/p/datacenter-no-mistakes Comments URL: https://news.ycombinator.com/item?id=48388523 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blog.railway.com/p/datacenter-no-mistakes Comments URL: https://news.ycombinator.com/item?id=48388523 Points: 2 # Comments: 0",
+    "author": "ndneighbor",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.railway.com/p/datacenter-no-mistakes",
+    "id": "news-2476"
+  },
+  {
+    "title": "What we learned mapping a year's worth of AI-enabled cyber threats",
+    "summary": "Article URL: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack Comments URL: https://news.ycombinator.com/item?id=48388526 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack Comments URL: https://news.ycombinator.com/item?id=48388526 Points: 1 # Comments: 0",
+    "author": "pretext",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "id": "news-2475"
+  },
+  {
+    "title": "Claude Code vs. Codex",
+    "summary": "I have been a long time user of Claude Code. I never felt the need to try other coding tools, and the times I did, I always came back. Across many projects, personal and professional, Claude has been ",
+    "content": "I have been a long time user of Claude Code. I never felt the need to try other coding tools, and the times I did, I always came back. Across many projects, personal and professional, Claude has been my pair programmer. I have enough experience across generations of Claude models that, just by looking at the output, I can tell when a model switch has happened, strictly in the context of coding tasks. I have noticed models lean on some aspects heavily like bullet points or emojis or markdown tabl",
+    "author": "bicepjai",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48388550",
+    "id": "news-2474"
+  },
+  {
     "title": "Adding MCP Tools to Reachy Mini",
     "summary": "Adding MCP Tools to Reachy Mini",
     "content": "",
