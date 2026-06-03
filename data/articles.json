@@ -1,5 +1,150 @@
 [
   {
+    "title": "Adding MCP Tools to Reachy Mini",
+    "summary": "Adding MCP Tools to Reachy Mini",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "id": "news-2473"
+  },
+  {
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "summary": "Direct Preference Optimization Beyond Chatbots",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "id": "news-2472"
+  },
+  {
+    "title": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning",
+    "summary": "At Build 2026, Microsoft announced seven new AI models developed in-house, including its first reasoning model. The company also introduced a new tuning method and an autonomous background agent. The ",
+    "content": "At Build 2026, Microsoft announced seven new AI models developed in-house, including its first reasoning model. The company also introduced a new tuning method and an autonomous background agent. The article Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/build-2026-microsoft-tops-google-in-image-generation-while-playing-catch-up-on-reasoning/",
+    "id": "news-2471"
+  },
+  {
+    "title": "Nous Research releases Hermes Desktop, an open-source AI agent for every platform",
+    "summary": "Nous Research has released Hermes Desktop, an open-source AI agent app under the MIT license. The article Nous Research releases Hermes Desktop, an open-source AI agent for every platform appeared fir",
+    "content": "Nous Research has released Hermes Desktop, an open-source AI agent app under the MIT license. The article Nous Research releases Hermes Desktop, an open-source AI agent for every platform appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nous-research-releases-hermes-desktop-an-open-source-ai-agent-for-every-platform/",
+    "id": "news-2470"
+  },
+  {
+    "title": "AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court",
+    "summary": "AI music startup Suno has raised $400 million at a $5.4 billion valuation. The article AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court appeared ",
+    "content": "AI music startup Suno has raised $400 million at a $5.4 billion valuation. The article AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-music-startup-suno-doubles-its-valuation-to-5-4-billion-while-fighting-major-record-labels-in-court/",
+    "id": "news-2469"
+  },
+  {
+    "title": "Perplexity announces hybrid AI system that decides what runs locally or in the cloud",
+    "summary": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task gets processed where. The article Perplexi",
+    "content": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task gets processed where. The article Perplexity announces hybrid AI system that decides what runs locally or in the cloud appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/",
+    "id": "news-2468"
+  },
+  {
+    "title": "Majorana 2, made more reliable with Microsoft Discovery agentic AI",
+    "summary": "Article URL: https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=48384500 Points: 1 # Comments: 0",
+    "content": "Article URL: https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=48384500 Points: 1 # Comments: 0",
+    "author": "EvgeniyZh",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
+    "id": "news-2467"
+  },
+  {
+    "title": "AI to double data centre power and water consumption by 2030, UN researchers say",
+    "summary": "Article URL: https://www.reuters.com/business/energy/ai-double-data-centre-power-water-consumption-by-2030-un-researchers-say-2026-06-03/ Comments URL: https://news.ycombinator.com/item?id=48384516 Po",
+    "content": "Article URL: https://www.reuters.com/business/energy/ai-double-data-centre-power-water-consumption-by-2030-un-researchers-say-2026-06-03/ Comments URL: https://news.ycombinator.com/item?id=48384516 Points: 1 # Comments: 0",
+    "author": "tartoran",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/energy/ai-double-data-centre-power-water-consumption-by-2030-un-researchers-say-2026-06-03/",
+    "id": "news-2466"
+  },
+  {
+    "title": "AI Has Ruined the Job Market",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-job-market-hiring/687403/ Comments URL: https://news.ycombinator.com/item?id=48384518 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-job-market-hiring/687403/ Comments URL: https://news.ycombinator.com/item?id=48384518 Points: 1 # Comments: 0",
+    "author": "FinnLobsien",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/ideas/2026/06/ai-job-market-hiring/687403/",
+    "id": "news-2465"
+  },
+  {
+    "title": "Meta enters enterprise AI race with new business agent",
+    "summary": "Article URL: https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/ Comments URL: https://news.ycombinator.com/item?id=48384524 Point",
+    "content": "Article URL: https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/ Comments URL: https://news.ycombinator.com/item?id=48384524 Points: 1 # Comments: 0",
+    "author": "tartoran",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/",
+    "id": "news-2464"
+  },
+  {
+    "title": "(PewDiePie) any LOCAL AI model close to Claude Code?",
+    "summary": "I have been working on my website using claude codeBut the damnn tokens always leave me frustrated.I saw Odysseus being launched by PewDiePie.But the models aren't as good as claude code.Please help m",
+    "content": "I have been working on my website using claude codeBut the damnn tokens always leave me frustrated.I saw Odysseus being launched by PewDiePie.But the models aren't as good as claude code.Please help me out Comments URL: https://news.ycombinator.com/item?id=48384536 Points: 1 # Comments: 0",
+    "author": "knowmygpa",
+    "date": "2026-06-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48384536",
+    "id": "news-2463"
+  },
+  {
     "title": "Publishers in UK can opt out of Google AI search results",
     "summary": "Article URL: https://www.bbc.co.uk/news/articles/c775pp26yz5o Comments URL: https://news.ycombinator.com/item?id=48381299 Points: 4 # Comments: 2",
     "content": "Article URL: https://www.bbc.co.uk/news/articles/c775pp26yz5o Comments URL: https://news.ycombinator.com/item?id=48381299 Points: 4 # Comments: 2",
