@@ -1,5 +1,18 @@
 [
   {
+    "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
+    "summary": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together in",
+    "content": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together into longer scenes. The article xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/",
+    "id": "news-2483"
+  },
+  {
     "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
     "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benc",
     "content": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use. The article Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM appeared first on The Decoder.",
