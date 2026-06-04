@@ -1,5 +1,70 @@
 [
   {
+    "title": "Airbnb CEO Brian Chesky Plans to Start New AI Company",
+    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/airbnb-ceo-brian-chesky-plans-191211981.html Comments URL: https://news.ycombinator.com/item?id=48404552 Points: 2 # Comments: 0",
+    "content": "Article URL: https://finance.yahoo.com/sectors/technology/articles/airbnb-ceo-brian-chesky-plans-191211981.html Comments URL: https://news.ycombinator.com/item?id=48404552 Points: 2 # Comments: 0",
+    "author": "EvanZhouDev",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://finance.yahoo.com/sectors/technology/articles/airbnb-ceo-brian-chesky-plans-191211981.html",
+    "id": "news-2503"
+  },
+  {
+    "title": "Stats from 30K AI debates: Opus 4.7 is the most influential model",
+    "summary": "Article URL: https://opper.ai/ai-roundtable/stats Comments URL: https://news.ycombinator.com/item?id=48404588 Points: 2 # Comments: 3",
+    "content": "Article URL: https://opper.ai/ai-roundtable/stats Comments URL: https://news.ycombinator.com/item?id=48404588 Points: 2 # Comments: 3",
+    "author": "felix089",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://opper.ai/ai-roundtable/stats",
+    "id": "news-2502"
+  },
+  {
+    "title": "AI will consume as much water in 2030 as 1.3B people",
+    "summary": "Article URL: https://english.elpais.com/technology/2026-06-03/ai-will-consume-as-much-water-in-2030-as-13-billion-people.html Comments URL: https://news.ycombinator.com/item?id=48404658 Points: 4 # Co",
+    "content": "Article URL: https://english.elpais.com/technology/2026-06-03/ai-will-consume-as-much-water-in-2030-as-13-billion-people.html Comments URL: https://news.ycombinator.com/item?id=48404658 Points: 4 # Comments: 0",
+    "author": "dnnddidiej",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://english.elpais.com/technology/2026-06-03/ai-will-consume-as-much-water-in-2030-as-13-billion-people.html",
+    "id": "news-2501"
+  },
+  {
+    "title": "Agentlocks – advisory file locks for Codex and Claude Code in one worktree",
+    "summary": "Article URL: https://github.com/simke9445/agentlocks Comments URL: https://news.ycombinator.com/item?id=48404759 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/simke9445/agentlocks Comments URL: https://news.ycombinator.com/item?id=48404759 Points: 2 # Comments: 0",
+    "author": "simke9445",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/simke9445/agentlocks",
+    "id": "news-2500"
+  },
+  {
+    "title": "Why AI Agents Need Agile, Not Just Better Prompts",
+    "summary": "Article URL: https://medium.com/open-ai/why-ai-agents-need-agile-not-just-better-prompts-31aac90b1f4a Comments URL: https://news.ycombinator.com/item?id=48404802 Points: 2 # Comments: 0",
+    "content": "Article URL: https://medium.com/open-ai/why-ai-agents-need-agile-not-just-better-prompts-31aac90b1f4a Comments URL: https://news.ycombinator.com/item?id=48404802 Points: 2 # Comments: 0",
+    "author": "sukhpinder0804",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/open-ai/why-ai-agents-need-agile-not-just-better-prompts-31aac90b1f4a",
+    "id": "news-2499"
+  },
+  {
     "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
     "summary": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
     "content": "",
