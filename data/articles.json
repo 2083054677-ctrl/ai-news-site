@@ -1,5 +1,59 @@
 [
   {
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "summary": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/hf-cli-for-agents",
+    "id": "news-2490"
+  },
+  {
+    "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+    "summary": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+    "id": "news-2489"
+  },
+  {
+    "title": "OpenAI CEO Sam Altman sees \"proactive AI\" as the next big phase after chatbots and agents",
+    "summary": "OpenAI CEO Sam Altman outlines the next phase of AI products: a \"proactive AI\" that runs constantly in the background and acts on its own instead of waiting for user prompts. Companies are also wrestl",
+    "content": "OpenAI CEO Sam Altman outlines the next phase of AI products: a \"proactive AI\" that runs constantly in the background and acts on its own instead of waiting for user prompts. Companies are also wrestling with spiraling AI costs and a basic problem: most employees simply don't know what to ask AI. Altman's promise: \"We can help people get more value for less spend.\" The article OpenAI CEO Sam Altman sees \"proactive AI\" as the next big phase after chatbots and agents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-ceo-sam-altman-sees-proactive-ai-as-the-next-big-phase-after-chatbots-and-agents/",
+    "id": "news-2488"
+  },
+  {
+    "title": "Bain study finds companies miss AI savings targets because humans keep getting in the way",
+    "summary": "According to a Bain survey of 951 companies, almost 40 percent achieved less than 10 percent in AI cost savings, even though most had targeted 11 to 20 percent. One alleged reason is that only 7 perce",
+    "content": "According to a Bain survey of 951 companies, almost 40 percent achieved less than 10 percent in AI cost savings, even though most had targeted 11 to 20 percent. One alleged reason is that only 7 percent actually run fully autonomous AI agents, even though their business cases assume exactly that. The article Bain study finds companies miss AI savings targets because humans keep getting in the way appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bain-study-finds-companies-miss-ai-savings-targets-because-humans-keep-getting-in-the-way/",
+    "id": "news-2487"
+  },
+  {
     "title": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
     "summary": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
     "content": "",
