@@ -1,5 +1,70 @@
 [
   {
+    "title": "How to Build Long-Running AI Agents Without Timeouts",
+    "summary": "Article URL: https://medium.com/inside-the-if/how-to-build-long-running-ai-agents-without-timeouts-21ecf9d09b99 Comments URL: https://news.ycombinator.com/item?id=48405373 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/inside-the-if/how-to-build-long-running-ai-agents-without-timeouts-21ecf9d09b99 Comments URL: https://news.ycombinator.com/item?id=48405373 Points: 1 # Comments: 0",
+    "author": "sukhpinder0804",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/inside-the-if/how-to-build-long-running-ai-agents-without-timeouts-21ecf9d09b99",
+    "id": "news-2508"
+  },
+  {
+    "title": "EFF Testifies to Congress on Protecting Americans' Rights from Government AI",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/eff-testifies-congress-protecting-americans-rights-government-ai Comments URL: https://news.ycombinator.com/item?id=48405416 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.eff.org/deeplinks/2026/06/eff-testifies-congress-protecting-americans-rights-government-ai Comments URL: https://news.ycombinator.com/item?id=48405416 Points: 3 # Comments: 0",
+    "author": "hn_acker",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.eff.org/deeplinks/2026/06/eff-testifies-congress-protecting-americans-rights-government-ai",
+    "id": "news-2507"
+  },
+  {
+    "title": "Show HN: Patina, an AI that learns your judgment, not just your tasks",
+    "summary": "Article URL: https://github.com/Sanctum-Origo-Systems/patina Comments URL: https://news.ycombinator.com/item?id=48405624 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Sanctum-Origo-Systems/patina Comments URL: https://news.ycombinator.com/item?id=48405624 Points: 1 # Comments: 1",
+    "author": "andywidjaja",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Sanctum-Origo-Systems/patina",
+    "id": "news-2506"
+  },
+  {
+    "title": "AI model predicts building fire spread, redirecting evacuees to safer exits",
+    "summary": "Article URL: https://techxplore.com/news/2026-06-ai-redirecting-evacuees-safer-exits.html Comments URL: https://news.ycombinator.com/item?id=48405715 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techxplore.com/news/2026-06-ai-redirecting-evacuees-safer-exits.html Comments URL: https://news.ycombinator.com/item?id=48405715 Points: 1 # Comments: 0",
+    "author": "lschueller",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techxplore.com/news/2026-06-ai-redirecting-evacuees-safer-exits.html",
+    "id": "news-2505"
+  },
+  {
+    "title": "1ShotGen – Turn rough ideas into one-shot prompts for AI coding agents",
+    "summary": "Article URL: https://1shotgen.com/ Comments URL: https://news.ycombinator.com/item?id=48405784 Points: 1 # Comments: 0",
+    "content": "Article URL: https://1shotgen.com/ Comments URL: https://news.ycombinator.com/item?id=48405784 Points: 1 # Comments: 0",
+    "author": "zachisparanoid",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://1shotgen.com/",
+    "id": "news-2504"
+  },
+  {
     "title": "Airbnb CEO Brian Chesky Plans to Start New AI Company",
     "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/airbnb-ceo-brian-chesky-plans-191211981.html Comments URL: https://news.ycombinator.com/item?id=48404552 Points: 2 # Comments: 0",
     "content": "Article URL: https://finance.yahoo.com/sectors/technology/articles/airbnb-ceo-brian-chesky-plans-191211981.html Comments URL: https://news.ycombinator.com/item?id=48404552 Points: 2 # Comments: 0",
