@@ -1,5 +1,46 @@
 [
   {
+    "title": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
+    "summary": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
+    "id": "news-2486"
+  },
+  {
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "summary": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "id": "news-2485"
+  },
+  {
+    "title": "AI can now coach amateur virologists, and top tech leaders want Congress to act on DNA security",
+    "summary": "Sam Altman, Dario Amodei, Demis Hassabis, and other tech leaders are urging the US government to make screening of synthetic DNA orders a legal requirement. AI systems already outperform PhD-level vir",
+    "content": "Sam Altman, Dario Amodei, Demis Hassabis, and other tech leaders are urging the US government to make screening of synthetic DNA orders a legal requirement. AI systems already outperform PhD-level virologists on lab procedures, the signatories warn, raising the risk of misuse for biological weapons. The article AI can now coach amateur virologists, and top tech leaders want Congress to act on DNA security appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-can-now-coach-amateur-virologists-and-top-tech-leaders-want-congress-to-act-on-dna-security/",
+    "id": "news-2484"
+  },
+  {
     "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
     "summary": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together in",
     "content": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together into longer scenes. The article xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution appeared first on The Decoder.",
