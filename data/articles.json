@@ -1,5 +1,18 @@
 [
   {
+    "title": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
+    "summary": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is writing and leaking this nonsense,\" Nadella",
+    "content": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is writing and leaking this nonsense,\" Nadella wrote to about 50 top engineers. AI should empower people, and Scout should actually lead to less screen time. The article Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/",
+    "id": "news-2517"
+  },
+  {
     "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
     "summary": "Anthropic is sharing internal data showing how much Claude is speeding up its own AI development: more than 80 percent of production code now comes from Claude, and engineers are shipping eight times ",
     "content": "Anthropic is sharing internal data showing how much Claude is speeding up its own AI development: more than 80 percent of production code now comes from Claude, and engineers are shipping eight times as much code per day as in 2024. The goal is AI that improves itself, which would trigger a massive acceleration. This is why Anthropic is now pushing for the option of a verifiable, global development pause. The company says it would stop if other frontier labs demonstrably do the same. The article",
