@@ -1,5 +1,84 @@
 [
   {
+    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "summary": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+    "id": "news-2529"
+  },
+  {
+    "title": "Understand how you build with AI",
+    "summary": "Article URL: https://paxel.ycombinator.com/ Comments URL: https://news.ycombinator.com/item?id=48419288 Points: 2 # Comments: 0",
+    "content": "Article URL: https://paxel.ycombinator.com/ Comments URL: https://news.ycombinator.com/item?id=48419288 Points: 2 # Comments: 0",
+    "author": "simonpure",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://paxel.ycombinator.com/",
+    "id": "news-2528"
+  },
+  {
+    "title": "Anthropic warns Claude AI is building itself faster than expected",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code Comments URL: https://news.ycombinator.com/item",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code Comments URL: https://news.ycombinator.com/item?id=48419307 Points: 1 # Comments: 0",
+    "author": "corvettez0606",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code",
+    "id": "news-2527"
+  },
+  {
+    "title": "Model alleges retailer used AI to generate likeness under 'minor edits' clause",
+    "summary": "Article URL: https://medium.com/human-offset/minor-edits-09ad99aad0f4 Comments URL: https://news.ycombinator.com/item?id=48419347 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/human-offset/minor-edits-09ad99aad0f4 Comments URL: https://news.ycombinator.com/item?id=48419347 Points: 1 # Comments: 0",
+    "author": "gdessau",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/human-offset/minor-edits-09ad99aad0f4",
+    "id": "news-2526"
+  },
+  {
+    "title": "Will OpenAI and Anthropic Service?",
+    "summary": "Article URL: https://medium.com/@paul.bernard_80815/beyond-inference-why-the-future-of-ai-may-belong-to-millions-of-specialized-models-159ec54d9da1 Comments URL: https://news.ycombinator.com/item?id=4",
+    "content": "Article URL: https://medium.com/@paul.bernard_80815/beyond-inference-why-the-future-of-ai-may-belong-to-millions-of-specialized-models-159ec54d9da1 Comments URL: https://news.ycombinator.com/item?id=48419420 Points: 1 # Comments: 0",
+    "author": "paulbernard",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@paul.bernard_80815/beyond-inference-why-the-future-of-ai-may-belong-to-millions-of-specialized-models-159ec54d9da1",
+    "id": "news-2525"
+  },
+  {
+    "title": "AI is the major driver of innovation in Canada and around the world",
+    "summary": "Article URL: https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all Comments URL: https://news.ycombinator.com/item?id=48419440 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all Comments URL: https://news.ycombinator.com/item?id=48419440 Points: 1 # Comments: 0",
+    "author": "megamike",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all",
+    "id": "news-2524"
+  },
+  {
     "title": "OpenAI wrote a guide on how to use /goal mode. I made that guide into a skill",
     "summary": "Article URL: https://github.com/Infinite-Labs-OS/infinite-skills Comments URL: https://news.ycombinator.com/item?id=48417952 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/Infinite-Labs-OS/infinite-skills Comments URL: https://news.ycombinator.com/item?id=48417952 Points: 1 # Comments: 0",
