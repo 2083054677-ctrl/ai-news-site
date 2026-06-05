@@ -1,5 +1,70 @@
 [
   {
+    "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/ Comments URL: https://news.ycombinator.com/item?id=48407048 Points: 1 #",
+    "content": "Article URL: https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/ Comments URL: https://news.ycombinator.com/item?id=48407048 Points: 1 # Comments: 1",
+    "author": "SegfaultSeagull",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+    "id": "news-2513"
+  },
+  {
+    "title": "Dirk and Linus discuss AI and kernel development",
+    "summary": "Article URL: https://lwn.net/Articles/1073761/ Comments URL: https://news.ycombinator.com/item?id=48407061 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lwn.net/Articles/1073761/ Comments URL: https://news.ycombinator.com/item?id=48407061 Points: 1 # Comments: 0",
+    "author": "signa11",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lwn.net/Articles/1073761/",
+    "id": "news-2512"
+  },
+  {
+    "title": "A Vector Lakebase is all you need for all AI workloads",
+    "summary": "Article URL: https://zilliz.com/blog/from-vector-database-to-vector-lakebase Comments URL: https://news.ycombinator.com/item?id=48407201 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zilliz.com/blog/from-vector-database-to-vector-lakebase Comments URL: https://news.ycombinator.com/item?id=48407201 Points: 1 # Comments: 0",
+    "author": "Fendy",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zilliz.com/blog/from-vector-database-to-vector-lakebase",
+    "id": "news-2511"
+  },
+  {
+    "title": "Aisop – Define AI agent workflows as Mermaid or JSON flow graphs",
+    "summary": "Article URL: https://github.com/AIXP-Labs/AISOP Comments URL: https://news.ycombinator.com/item?id=48407235 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/AIXP-Labs/AISOP Comments URL: https://news.ycombinator.com/item?id=48407235 Points: 1 # Comments: 0",
+    "author": "aisop",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AIXP-Labs/AISOP",
+    "id": "news-2510"
+  },
+  {
+    "title": "OpenAI's Codex chained decade-old DoS attacks to crash web servers",
+    "summary": "Article URL: https://www.theregister.com/security/2026/06/04/openais-codex-chains-decade-old-dos-techniques-into-http/2-bomb/5251377 Comments URL: https://news.ycombinator.com/item?id=48407277 Points:",
+    "content": "Article URL: https://www.theregister.com/security/2026/06/04/openais-codex-chains-decade-old-dos-techniques-into-http/2-bomb/5251377 Comments URL: https://news.ycombinator.com/item?id=48407277 Points: 1 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-06-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/security/2026/06/04/openais-codex-chains-decade-old-dos-techniques-into-http/2-bomb/5251377",
+    "id": "news-2509"
+  },
+  {
     "title": "How to Build Long-Running AI Agents Without Timeouts",
     "summary": "Article URL: https://medium.com/inside-the-if/how-to-build-long-running-ai-agents-without-timeouts-21ecf9d09b99 Comments URL: https://news.ycombinator.com/item?id=48405373 Points: 1 # Comments: 0",
     "content": "Article URL: https://medium.com/inside-the-if/how-to-build-long-running-ai-agents-without-timeouts-21ecf9d09b99 Comments URL: https://news.ycombinator.com/item?id=48405373 Points: 1 # Comments: 0",
