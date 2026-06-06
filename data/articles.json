@@ -1,5 +1,83 @@
 [
   {
+    "title": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs",
+    "summary": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as ",
+    "content": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as an alternative to the raw compute arms race among big US labs. Anthropic, meanwhile, warns about the control risks of this very technology. The article Sakana AI bets AI that improves itself can break the compute arms race of frontier labs appeared first on The Decoder.",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/",
+    "id": "news-2561"
+  },
+  {
+    "title": "Show HN: Minimal native macOS sandbox for Claude and Codex",
+    "summary": "Article URL: https://github.com/sheremetyev/sandfence Comments URL: https://news.ycombinator.com/item?id=48425674 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/sheremetyev/sandfence Comments URL: https://news.ycombinator.com/item?id=48425674 Points: 1 # Comments: 0",
+    "author": "sheremetyev",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sheremetyev/sandfence",
+    "id": "news-2560"
+  },
+  {
+    "title": "Sudo Report – Drudge clone for tech / AI / product",
+    "summary": "Article URL: https://www.sudoreport.com Comments URL: https://news.ycombinator.com/item?id=48425693 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.sudoreport.com Comments URL: https://news.ycombinator.com/item?id=48425693 Points: 2 # Comments: 1",
+    "author": "ataturkle",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sudoreport.com",
+    "id": "news-2559"
+  },
+  {
+    "title": "GGUF vs. GPTQ vs. AWQ: The Plain-English Guide to LLM Quantization",
+    "summary": "Article URL: https://vettedconsumer.com/gguf-vs-gptq-vs-awq-the-plain-english-guide-to-llm-quantization-and-which-one-to-pick/ Comments URL: https://news.ycombinator.com/item?id=48425712 Points: 1 # C",
+    "content": "Article URL: https://vettedconsumer.com/gguf-vs-gptq-vs-awq-the-plain-english-guide-to-llm-quantization-and-which-one-to-pick/ Comments URL: https://news.ycombinator.com/item?id=48425712 Points: 1 # Comments: 0",
+    "author": "ermantrout",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vettedconsumer.com/gguf-vs-gptq-vs-awq-the-plain-english-guide-to-llm-quantization-and-which-one-to-pick/",
+    "id": "news-2558"
+  },
+  {
+    "title": "China wants to use AI to promote Xi Jinping's thinking",
+    "summary": "Article URL: https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/ Comments URL: https://news.ycombinator.com/item?id=48425726 Points: 1 # Com",
+    "content": "Article URL: https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/ Comments URL: https://news.ycombinator.com/item?id=48425726 Points: 1 # Comments: 0",
+    "author": "m-hodges",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/",
+    "id": "news-2557"
+  },
+  {
+    "title": "Agentic AI spurred a boom in mobile apps, but they aren't gaining traction",
+    "summary": "Article URL: https://twitter.com/jenzhuscott/status/2063032701087883647 Comments URL: https://news.ycombinator.com/item?id=48425761 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/jenzhuscott/status/2063032701087883647 Comments URL: https://news.ycombinator.com/item?id=48425761 Points: 1 # Comments: 0",
+    "author": "rzk",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/jenzhuscott/status/2063032701087883647",
+    "id": "news-2556"
+  },
+  {
     "title": "Persona Atlas: Mapping How Famous Minds Think",
     "summary": "Persona Atlas: Mapping How Famous Minds Think",
     "content": "",
