@@ -1,5 +1,83 @@
 [
   {
+    "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
+    "summary": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weig",
+    "content": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weights, and download instructions are available on GitHub under the Apache 2.0 open-source license, with the training data to follow. The article New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/",
+    "id": "news-2547"
+  },
+  {
+    "title": "Actual sensible and funny commentary on where AI is ATM",
+    "summary": "Article URL: https://www.youtube.com/watch?v=lwjVjD3oQJg Comments URL: https://news.ycombinator.com/item?id=48423597 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=lwjVjD3oQJg Comments URL: https://news.ycombinator.com/item?id=48423597 Points: 1 # Comments: 0",
+    "author": "lifeisstillgood",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=lwjVjD3oQJg",
+    "id": "news-2546"
+  },
+  {
+    "title": "How much AI is too much?",
+    "summary": "Article URL: https://www.irishtimes.com/technology/2026/06/04/how-much-ai-is-too-much/ Comments URL: https://news.ycombinator.com/item?id=48423609 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.irishtimes.com/technology/2026/06/04/how-much-ai-is-too-much/ Comments URL: https://news.ycombinator.com/item?id=48423609 Points: 2 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.irishtimes.com/technology/2026/06/04/how-much-ai-is-too-much/",
+    "id": "news-2545"
+  },
+  {
+    "title": "Show HN: Sub-Agent MCP: LLM delegation and sub-agent orchestration via MCP",
+    "summary": "Article URL: https://github.com/stormaref/Sub-Agent-MCP Comments URL: https://news.ycombinator.com/item?id=48423744 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/stormaref/Sub-Agent-MCP Comments URL: https://news.ycombinator.com/item?id=48423744 Points: 1 # Comments: 0",
+    "author": "avestura",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/stormaref/Sub-Agent-MCP",
+    "id": "news-2544"
+  },
+  {
+    "title": "Using AI for what it should be used for",
+    "summary": "Article URL: https://blog.bozso.dev/posts/using-ai Comments URL: https://news.ycombinator.com/item?id=48423767 Points: 1 # Comments: 1",
+    "content": "Article URL: https://blog.bozso.dev/posts/using-ai Comments URL: https://news.ycombinator.com/item?id=48423767 Points: 1 # Comments: 1",
+    "author": "peterbozso",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.bozso.dev/posts/using-ai",
+    "id": "news-2543"
+  },
+  {
+    "title": "Claude Code, the conversational window, and what happens to the human \"I\"",
+    "summary": "Article URL: https://theconversationdaemon.com/p/what-you-made-as-real Comments URL: https://news.ycombinator.com/item?id=48423810 Points: 1 # Comments: 0",
+    "content": "Article URL: https://theconversationdaemon.com/p/what-you-made-as-real Comments URL: https://news.ycombinator.com/item?id=48423810 Points: 1 # Comments: 0",
+    "author": "chaiharan",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theconversationdaemon.com/p/what-you-made-as-real",
+    "id": "news-2542"
+  },
+  {
     "title": "Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent",
     "summary": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop. In a demo, an agent built on the model autono",
     "content": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop. In a demo, an agent built on the model autonomously developed a vocabulary learning app, producing over 10,000 lines of code across 1,000 agent calls over eleven hours. The model leads on-screen understanding in Qwen's own benchmarks, but overall performance is mixed. Qwen3.7-Plus is a proprietary offering with no open weights, priced well bel",
