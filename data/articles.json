@@ -1,5 +1,19 @@
 [
   {
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "summary": "Five labs, five minds: building a multi-model finance drama on small models",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "id": "news-2568"
+  },
+  {
     "title": "Job Searcher",
     "summary": "Job Searcher",
     "content": "",
