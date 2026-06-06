@@ -1,5 +1,96 @@
 [
   {
+    "title": "Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent",
+    "summary": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop. In a demo, an agent built on the model autono",
+    "content": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop. In a demo, an agent built on the model autonomously developed a vocabulary learning app, producing over 10,000 lines of code across 1,000 agent calls over eleven hours. The model leads on-screen understanding in Qwen's own benchmarks, but overall performance is mixed. Qwen3.7-Plus is a proprietary offering with no open weights, priced well bel",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/",
+    "id": "news-2541"
+  },
+  {
+    "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup",
+    "summary": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly to American citizens. Senator Bernie San",
+    "content": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly to American citizens. Senator Bernie Sanders wants to push through a 50 percent tax on AI shares by law. Critics fear the arrangement could create a \"too big to fail\" dynamic similar to the 2008 financial crisis. The article OpenAI and the Trump administration are negotiating a government stake in the AI startup appeared first on The Deco",
+    "author": "Matthias Bastian",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/",
+    "id": "news-2540"
+  },
+  {
+    "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
+    "summary": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enter",
+    "content": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enterprise platform. That one of the world's largest cloud providers needs to rent capacity externally shows how scarce AI infrastructure has become, and how tightly big tech companies' businesses are now intertwined. The article SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI ",
+    "author": "Matthias Bastian",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/",
+    "id": "news-2539"
+  },
+  {
+    "title": "OpenAI Whisper in 150 lines of NumPy",
+    "summary": "Article URL: https://github.com/timothygao8710/minWhisper Comments URL: https://news.ycombinator.com/item?id=48423017 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/timothygao8710/minWhisper Comments URL: https://news.ycombinator.com/item?id=48423017 Points: 2 # Comments: 0",
+    "author": "timothygao",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/timothygao8710/minWhisper",
+    "id": "news-2538"
+  },
+  {
+    "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cm2p3j6lvn7o Comments URL: https://news.ycombinator.com/item?id=48423114 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/cm2p3j6lvn7o Comments URL: https://news.ycombinator.com/item?id=48423114 Points: 1 # Comments: 0",
+    "author": "vintagedave",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/cm2p3j6lvn7o",
+    "id": "news-2537"
+  },
+  {
+    "title": "The AI Layoff Trap and its UBI economic model",
+    "summary": "Article URL: https://briefing.forwardfuture.ai/p/economists-just-proved-ubi-can-t-stop-ai-layoffs-here-s-what-they-actually-proved Comments URL: https://news.ycombinator.com/item?id=48423195 Points: 1",
+    "content": "Article URL: https://briefing.forwardfuture.ai/p/economists-just-proved-ubi-can-t-stop-ai-layoffs-here-s-what-they-actually-proved Comments URL: https://news.ycombinator.com/item?id=48423195 Points: 1 # Comments: 0",
+    "author": "Matumio",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://briefing.forwardfuture.ai/p/economists-just-proved-ubi-can-t-stop-ai-layoffs-here-s-what-they-actually-proved",
+    "id": "news-2536"
+  },
+  {
+    "title": "Claumon – Forecasting Claude Code usage limits with a Gamma process",
+    "summary": "Article URL: https://github.com/fabioconcina/claumon Comments URL: https://news.ycombinator.com/item?id=48423227 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/fabioconcina/claumon Comments URL: https://news.ycombinator.com/item?id=48423227 Points: 1 # Comments: 1",
+    "author": "fabioconcina",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fabioconcina/claumon",
+    "id": "news-2535"
+  },
+  {
     "title": "Show HN: Lite Agent redefines what an AI agent is",
     "summary": "Article URL: https://liteagent.cloud Comments URL: https://news.ycombinator.com/item?id=48420642 Points: 2 # Comments: 0",
     "content": "Article URL: https://liteagent.cloud Comments URL: https://news.ycombinator.com/item?id=48420642 Points: 2 # Comments: 0",
