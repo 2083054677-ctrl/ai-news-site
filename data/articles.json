@@ -1,5 +1,110 @@
 [
   {
+    "title": "Persona Atlas: Mapping How Famous Minds Think",
+    "summary": "Persona Atlas: Mapping How Famous Minds Think",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+    "id": "news-2555"
+  },
+  {
+    "title": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+    "summary": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service. Meanwhile, xAI",
+    "content": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service. Meanwhile, xAI's pretraining team shrank to fewer than five people, and several leads walked out. The compute Musk bought up is now being rented to Anthropic and Google instead of powering his own models. The article Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting ",
+    "author": "Matthias Bastian",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+    "id": "news-2554"
+  },
+  {
+    "title": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
+    "summary": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments",
+    "content": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments, or sends emails. CEO Mark Zuckerberg sees the product as a way to open up new revenue streams beyond advertising and refinance the company's massive AI investments. The article Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+    "id": "news-2553"
+  },
+  {
+    "title": "AI Can't Care",
+    "summary": "Article URL: https://www.mooreds.com/wordpress/archives/3737 Comments URL: https://news.ycombinator.com/item?id=48423995 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.mooreds.com/wordpress/archives/3737 Comments URL: https://news.ycombinator.com/item?id=48423995 Points: 2 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mooreds.com/wordpress/archives/3737",
+    "id": "news-2552"
+  },
+  {
+    "title": "Best AI Agent Library",
+    "summary": "Do you have any particular place to browse for AI agents for your specific need or just whats available in the given LLM? Comments URL: https://news.ycombinator.com/item?id=48424069 Points: 1 # Commen",
+    "content": "Do you have any particular place to browse for AI agents for your specific need or just whats available in the given LLM? Comments URL: https://news.ycombinator.com/item?id=48424069 Points: 1 # Comments: 0",
+    "author": "Pearlapp",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48424069",
+    "id": "news-2551"
+  },
+  {
+    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 5 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 5 # Comments: 0",
+    "author": "mekpro",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "id": "news-2550"
+  },
+  {
+    "title": "Trump says his team will 'look into' US taking stake in AI companies",
+    "summary": "Article URL: https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/ Comments URL: https://news.ycombinator.com/item?id=48424449 Points: 5 # Commen",
+    "content": "Article URL: https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/ Comments URL: https://news.ycombinator.com/item?id=48424449 Points: 5 # Comments: 1",
+    "author": "YeGoblynQueenne",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/",
+    "id": "news-2549"
+  },
+  {
+    "title": "Free LLM inference handbook: 100 engineers cloned it in week 1",
+    "summary": "Article URL: https://github.com/harshuljain13/llm-inference-at-scale Comments URL: https://news.ycombinator.com/item?id=48424467 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/harshuljain13/llm-inference-at-scale Comments URL: https://news.ycombinator.com/item?id=48424467 Points: 1 # Comments: 0",
+    "author": "harshuljain13",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/harshuljain13/llm-inference-at-scale",
+    "id": "news-2548"
+  },
+  {
     "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
     "summary": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weig",
     "content": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weights, and download instructions are available on GitHub under the Apache 2.0 open-source license, with the training data to follow. The article New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent appeared first on The Decoder.",
