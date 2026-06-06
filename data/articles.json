@@ -1,5 +1,84 @@
 [
   {
+    "title": "Job Searcher",
+    "summary": "Job Searcher",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
+    "id": "news-2567"
+  },
+  {
+    "title": "Show HN: Ccgs – Collaborative Claude Code sessions, stored in Git branches",
+    "summary": "My team uses Claude Code daily, and the sessions have become some of the most useful artifacts we produce. But they're trapped in ~/.claude/projects/ on whichever laptop they happened on. There's no g",
+    "content": "My team uses Claude Code daily, and the sessions have become some of the most useful artifacts we produce. But they're trapped in ~/.claude/projects/ on whichever laptop they happened on. There's no good way to hand a colleague \"the session where I untangled the migration\" so they can claude --resume it and keep going from where I left off. Enter ccgs: Share Claude Code sessions through an orphan branch (@ccgs/) in your existing repo's remote- Session files carry the author's absolute paths. On ",
+    "author": "scrollaway",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ingram-technologies/claude-git-sessions",
+    "id": "news-2566"
+  },
+  {
+    "title": "OpenCV 5.0 Released with Rewritten DNN Engine, Built-In LLM and VLM Support",
+    "summary": "Article URL: https://www.phoronix.com/news/OpenCV-5.0-Released Comments URL: https://news.ycombinator.com/item?id=48426514 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.phoronix.com/news/OpenCV-5.0-Released Comments URL: https://news.ycombinator.com/item?id=48426514 Points: 2 # Comments: 0",
+    "author": "daesorin",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.phoronix.com/news/OpenCV-5.0-Released",
+    "id": "news-2565"
+  },
+  {
+    "title": "How much value is AI creating?",
+    "summary": "Article URL: https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f Comments URL: https://news.ycombinator.com/item?id=48426647 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f Comments URL: https://news.ycombinator.com/item?id=48426647 Points: 3 # Comments: 0",
+    "author": "thm",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f",
+    "id": "news-2564"
+  },
+  {
+    "title": "I'm waiting for Claude to rm rf my computer",
+    "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-local-coding-agents-are Comments URL: https://news.ycombinator.com/item?id=48426730 Points: 2 # Comments: 0",
+    "content": "Article URL: https://12gramsofcarbon.com/p/agentics-local-coding-agents-are Comments URL: https://news.ycombinator.com/item?id=48426730 Points: 2 # Comments: 0",
+    "author": "theahura",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://12gramsofcarbon.com/p/agentics-local-coding-agents-are",
+    "id": "news-2563"
+  },
+  {
+    "title": "'More Harmful Than Helpful': Young People Sour on AI",
+    "summary": "Article URL: https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10 Comments URL: https://news.ycombinator.com/item?id=48426771 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10 Comments URL: https://news.ycombinator.com/item?id=48426771 Points: 3 # Comments: 1",
+    "author": "karakoram",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10",
+    "id": "news-2562"
+  },
+  {
     "title": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs",
     "summary": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as ",
     "content": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as an alternative to the raw compute arms race among big US labs. Anthropic, meanwhile, warns about the control risks of this very technology. The article Sakana AI bets AI that improves itself can break the compute arms race of frontier labs appeared first on The Decoder.",
