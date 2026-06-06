@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Lite Agent redefines what an AI agent is",
+    "summary": "Article URL: https://liteagent.cloud Comments URL: https://news.ycombinator.com/item?id=48420642 Points: 2 # Comments: 0",
+    "content": "Article URL: https://liteagent.cloud Comments URL: https://news.ycombinator.com/item?id=48420642 Points: 2 # Comments: 0",
+    "author": "cheikhshift",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://liteagent.cloud",
+    "id": "news-2534"
+  },
+  {
+    "title": "Show HN: The Deterministic Core Architecture for AI-Augmented Applications",
+    "summary": "Article URL: https://brandonbellsystems.com/deterministic-core/ Comments URL: https://news.ycombinator.com/item?id=48420691 Points: 1 # Comments: 0",
+    "content": "Article URL: https://brandonbellsystems.com/deterministic-core/ Comments URL: https://news.ycombinator.com/item?id=48420691 Points: 1 # Comments: 0",
+    "author": "Brandon_Bell",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://brandonbellsystems.com/deterministic-core/",
+    "id": "news-2533"
+  },
+  {
+    "title": "Trump Signals Interest in US Owning Stakes in Top AI Labs",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says Comments URL: https://news.ycombinator.com/item?id=48420738 Points: 2 # Co",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says Comments URL: https://news.ycombinator.com/item?id=48420738 Points: 2 # Comments: 2",
+    "author": "grassfedgeek",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says",
+    "id": "news-2532"
+  },
+  {
+    "title": "Show HN: Apple Contacts MCP – Local AI Access to macOS Contacts",
+    "summary": "Article URL: https://github.com/lu-wo/apple-contacts-mcp Comments URL: https://news.ycombinator.com/item?id=48420790 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/lu-wo/apple-contacts-mcp Comments URL: https://news.ycombinator.com/item?id=48420790 Points: 1 # Comments: 0",
+    "author": "luwo",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lu-wo/apple-contacts-mcp",
+    "id": "news-2531"
+  },
+  {
+    "title": "Agent-ML-skills – Teach Codex/Claude/Cursor to stop making ML mistakes",
+    "summary": "Article URL: https://github.com/param087/agent-ml-skills Comments URL: https://news.ycombinator.com/item?id=48420791 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/param087/agent-ml-skills Comments URL: https://news.ycombinator.com/item?id=48420791 Points: 1 # Comments: 0",
+    "author": "param087",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/param087/agent-ml-skills",
+    "id": "news-2530"
+  },
+  {
     "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
     "summary": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
     "content": "",
