@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude, Teach Me Something",
+    "summary": "Article URL: https://hugotunius.se/2025/10/26/claude-teach-me-something.html Comments URL: https://news.ycombinator.com/item?id=48428097 Points: 1 # Comments: 1",
+    "content": "Article URL: https://hugotunius.se/2025/10/26/claude-teach-me-something.html Comments URL: https://news.ycombinator.com/item?id=48428097 Points: 1 # Comments: 1",
+    "author": "dannyboland",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hugotunius.se/2025/10/26/claude-teach-me-something.html",
+    "id": "news-2573"
+  },
+  {
+    "title": "Mass Layoffs Caused by AI",
+    "summary": "Article URL: https://olegdubovoi.com/thoughts/2026-06-04-mass-layoffs-caused-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48428169 Points: 3 # Comments: 0",
+    "content": "Article URL: https://olegdubovoi.com/thoughts/2026-06-04-mass-layoffs-caused-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48428169 Points: 3 # Comments: 0",
+    "author": "empiree",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://olegdubovoi.com/thoughts/2026-06-04-mass-layoffs-caused-by-ai/",
+    "id": "news-2572"
+  },
+  {
+    "title": "Recent Thoughts on AI Use",
+    "summary": "Article URL: https://blog.jsweeting.me/recent-thoughts-on-ai-use Comments URL: https://news.ycombinator.com/item?id=48428249 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.jsweeting.me/recent-thoughts-on-ai-use Comments URL: https://news.ycombinator.com/item?id=48428249 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.jsweeting.me/recent-thoughts-on-ai-use",
+    "id": "news-2571"
+  },
+  {
+    "title": "AI Enthusiasts Race Against Time, Skeptics Race Against Entropy",
+    "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=48428330 Points: 4 # Comments: 0",
+    "content": "Article URL: https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=48428330 Points: 4 # Comments: 0",
+    "author": "birdculture",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
+    "id": "news-2570"
+  },
+  {
+    "title": "OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection",
+    "summary": "Article URL: https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/ Comments URL: https://news.ycombinator.com/item?id=48428738 Points:",
+    "content": "Article URL: https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/ Comments URL: https://news.ycombinator.com/item?id=48428738 Points: 4 # Comments: 0",
+    "author": "odig",
+    "date": "2026-06-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "id": "news-2569"
+  },
+  {
     "title": "Five labs, five minds: building a multi-model finance drama on small models",
     "summary": "Five labs, five minds: building a multi-model finance drama on small models",
     "content": "",
