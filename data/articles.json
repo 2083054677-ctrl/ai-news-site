@@ -1,5 +1,110 @@
 [
   {
+    "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+    "summary": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+    "id": "news-2600"
+  },
+  {
+    "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs",
+    "summary": "Perplexity's new \"Search as Code\" architecture dumps rigid search APIs and lets AI models write their own search routines in Python. By letting the agent handle its own filtering and deduplication ins",
+    "content": "Perplexity's new \"Search as Code\" architecture dumps rigid search APIs and lets AI models write their own search routines in Python. By letting the agent handle its own filtering and deduplication inside a sandbox, the system beats OpenAI and Anthropic on key benchmarks, while cutting token costs by up to 85 percent. The article Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/perplexitys-search-as-code-lets-ai-models-write-their-own-search-pipelines-instead-of-calling-fixed-apis/",
+    "id": "news-2599"
+  },
+  {
+    "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app",
+    "summary": "OpenAI is planning the biggest overhaul of ChatGPT since its launch. The chatbot will become a \"superapp\" bundling coding tools, AI agents, and partner apps like Canva and Booking.com. \"Chat is dead,\"",
+    "content": "OpenAI is planning the biggest overhaul of ChatGPT since its launch. The chatbot will become a \"superapp\" bundling coding tools, AI agents, and partner apps like Canva and Booking.com. \"Chat is dead,\" the company says internally. The future supposedly belongs to agents that handle tasks on their own. The article OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/",
+    "id": "news-2598"
+  },
+  {
+    "title": "Discover Your Destiny with AI Palm Reading",
+    "summary": "Article URL: https://aipalmreading.net/ Comments URL: https://news.ycombinator.com/item?id=48433906 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aipalmreading.net/ Comments URL: https://news.ycombinator.com/item?id=48433906 Points: 1 # Comments: 0",
+    "author": "tunzhang",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aipalmreading.net/",
+    "id": "news-2597"
+  },
+  {
+    "title": "Government to buy AI chips to stop tech companies fleeing Britain",
+    "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/07/government-buy-ai-chips-stop-tech-companies-fleeing/ Comments URL: https://news.ycombinator.com/item?id=48434017 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.telegraph.co.uk/business/2026/06/07/government-buy-ai-chips-stop-tech-companies-fleeing/ Comments URL: https://news.ycombinator.com/item?id=48434017 Points: 3 # Comments: 0",
+    "author": "graemep",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.telegraph.co.uk/business/2026/06/07/government-buy-ai-chips-stop-tech-companies-fleeing/",
+    "id": "news-2596"
+  },
+  {
+    "title": "AI and the Pitfalls of Innovation",
+    "summary": "Article URL: https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation Comments URL: https://news.ycombinator.com/item?id=48434298 Points: 2 # Comments: 0",
+    "content": "Article URL: https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation Comments URL: https://news.ycombinator.com/item?id=48434298 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation",
+    "id": "news-2595"
+  },
+  {
+    "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
+    "summary": "Article URL: https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/ Comments URL: https://news.ycombinator.com/item?id=48434342 Points: 6 # Comments: ",
+    "content": "Article URL: https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/ Comments URL: https://news.ycombinator.com/item?id=48434342 Points: 6 # Comments: 2",
+    "author": "gctwnl",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
+    "id": "news-2594"
+  },
+  {
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/65697 Comments URL: https://news.ycombinator.com/item?id=48434436 Points: 4 # Comments: 2",
+    "content": "Article URL: https://github.com/anthropics/claude-code/issues/65697 Comments URL: https://news.ycombinator.com/item?id=48434436 Points: 4 # Comments: 2",
+    "author": "predkambrij",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/claude-code/issues/65697",
+    "id": "news-2593"
+  },
+  {
     "title": "Her · हेर — a detective for your Claude Code sessions",
     "summary": "Her · हेर — a detective for your Claude Code sessions",
     "content": "",
