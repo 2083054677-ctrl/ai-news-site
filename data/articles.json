@@ -1,5 +1,70 @@
 [
   {
+    "title": "When Can Amazon Block an Agentic AI Service?–Amazon vs. Perplexity",
+    "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm Comments URL: https://news.ycombinator.com/item?id=484308",
+    "content": "Article URL: https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm Comments URL: https://news.ycombinator.com/item?id=48430822 Points: 3 # Comments: 0",
+    "author": "HotGarbage",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm",
+    "id": "news-2578"
+  },
+  {
+    "title": "Ask HN: Where do you get the latest updates about AI?",
+    "summary": "Besides hacker news, of course. Comments URL: https://news.ycombinator.com/item?id=48430864 Points: 2 # Comments: 1",
+    "content": "Besides hacker news, of course. Comments URL: https://news.ycombinator.com/item?id=48430864 Points: 2 # Comments: 1",
+    "author": "d0able",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48430864",
+    "id": "news-2577"
+  },
+  {
+    "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+    "summary": "Article URL: https://arxiv.org/abs/2602.11964 Comments URL: https://news.ycombinator.com/item?id=48430918 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2602.11964 Comments URL: https://news.ycombinator.com/item?id=48430918 Points: 2 # Comments: 0",
+    "author": "Anon84",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2602.11964",
+    "id": "news-2576"
+  },
+  {
+    "title": "Show HN: Ext-Infer – Native LLM Inference and Embeddings for PHP",
+    "summary": "Article URL: https://infer.displace.tech Comments URL: https://news.ycombinator.com/item?id=48431237 Points: 1 # Comments: 0",
+    "content": "Article URL: https://infer.displace.tech Comments URL: https://news.ycombinator.com/item?id=48431237 Points: 1 # Comments: 0",
+    "author": "eamann",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://infer.displace.tech",
+    "id": "news-2575"
+  },
+  {
+    "title": "Show HN: LLM for Dummies",
+    "summary": "Article URL: https://ronreiter.github.io/llm-for-dummies/ Comments URL: https://news.ycombinator.com/item?id=48431261 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ronreiter.github.io/llm-for-dummies/ Comments URL: https://news.ycombinator.com/item?id=48431261 Points: 1 # Comments: 0",
+    "author": "ronreiter",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ronreiter.github.io/llm-for-dummies/",
+    "id": "news-2574"
+  },
+  {
     "title": "Claude, Teach Me Something",
     "summary": "Article URL: https://hugotunius.se/2025/10/26/claude-teach-me-something.html Comments URL: https://news.ycombinator.com/item?id=48428097 Points: 1 # Comments: 1",
     "content": "Article URL: https://hugotunius.se/2025/10/26/claude-teach-me-something.html Comments URL: https://news.ycombinator.com/item?id=48428097 Points: 1 # Comments: 1",
