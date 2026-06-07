@@ -1,5 +1,110 @@
 [
   {
+    "title": "Her · हेर — a detective for your Claude Code sessions",
+    "summary": "Her · हेर — a detective for your Claude Code sessions",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+    "id": "news-2592"
+  },
+  {
+    "title": "Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs",
+    "summary": "Clive Chan, by his own account the second hardware employee in OpenAI's custom chip program, is moving to Anthropic. He brings experience from Tesla's Autopilot ASIC and the OpenAI-Broadcom partnershi",
+    "content": "Clive Chan, by his own account the second hardware employee in OpenAI's custom chip program, is moving to Anthropic. He brings experience from Tesla's Autopilot ASIC and the OpenAI-Broadcom partnership. The move comes as both companies prepare for their IPOs, and Anthropic is reportedly considering developing its own AI chips. The article Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/",
+    "id": "news-2591"
+  },
+  {
+    "title": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection",
+    "summary": "OpenAI's new Lockdown Mode for ChatGPT disables web access, Deep Research, and Agent Mode to make data theft through prompt injection attacks harder. The mode doesn't fully prevent such attacks, it on",
+    "content": "OpenAI's new Lockdown Mode for ChatGPT disables web access, Deep Research, and Agent Mode to make data theft through prompt injection attacks harder. The mode doesn't fully prevent such attacks, it only blocks the final step in an exfiltration chain. Prompt injection remains an unsolved problem. The article ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/",
+    "id": "news-2590"
+  },
+  {
+    "title": "What we know about the plan to give Americans an equity stake in AI",
+    "summary": "Article URL: https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00 Comments URL: https://news.ycombinator.com/item?id=48433260 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00 Comments URL: https://news.ycombinator.com/item?id=48433260 Points: 3 # Comments: 0",
+    "author": "Timofeibu",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
+    "id": "news-2589"
+  },
+  {
+    "title": "Show HN: Best setup local LLM found for a 5090 (llama.cpp fork + turboquant)",
+    "summary": "Hi folks, I found this setup on consummer hardware that seems to have great results on local hardware. - qwen 3.6 q6 - 450 K context using turboquant turbo3 mode llama.cpp fork - multimodal supportThi",
+    "content": "Hi folks, I found this setup on consummer hardware that seems to have great results on local hardware. - qwen 3.6 q6 - 450 K context using turboquant turbo3 mode llama.cpp fork - multimodal supportThis AI generated blog article is a kind of \"report\" of what and how I did and result exemples.I hope this can be usefull to some peopole.Note : I am not much intersted in having success with this article, I mainly want to share what I think is an interesting use of a 5090. I generated the blog page te",
+    "author": "utopman",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://local-llm.utop.workers.dev/",
+    "id": "news-2588"
+  },
+  {
+    "title": "Klarna CMO created an AI \"venting machine\" of himself",
+    "summary": "Article URL: https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5 Comments URL: https://news.ycombinator.com/item?id=48433292 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5 Comments URL: https://news.ycombinator.com/item?id=48433292 Points: 1 # Comments: 0",
+    "author": "navs",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5",
+    "id": "news-2587"
+  },
+  {
+    "title": "An AI Story Just Won the Commonwealth Short Story Prize",
+    "summary": "Article URL: https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html Comments URL: https://news.ycombinator.com/item?id=48433318 Points: 2 # Comments: 0",
+    "content": "Article URL: https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html Comments URL: https://news.ycombinator.com/item?id=48433318 Points: 2 # Comments: 0",
+    "author": "tumbleweedwords",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html",
+    "id": "news-2586"
+  },
+  {
+    "title": "Automated QA and Testing with AI",
+    "summary": "Article URL: https://antirez.com/news/168 Comments URL: https://news.ycombinator.com/item?id=48433351 Points: 2 # Comments: 0",
+    "content": "Article URL: https://antirez.com/news/168 Comments URL: https://news.ycombinator.com/item?id=48433351 Points: 2 # Comments: 0",
+    "author": "Chrisszz",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://antirez.com/news/168",
+    "id": "news-2585"
+  },
+  {
     "title": "Researchers pinpoint why larger language models pick up skills that small ones miss",
     "summary": "Small language models fail at rare tasks because frequent ones constantly overwrite what they've learned. A new study with models ranging from 4 million to 4 billion parameters shows this mechanism in",
     "content": "Small language models fail at rare tasks because frequent ones constantly overwrite what they've learned. A new study with models ranging from 4 million to 4 billion parameters shows this mechanism in detail and offers a practical fix: instead of scaling up models, it may be enough to increase how often the target task appears in the training data. The article Researchers pinpoint why larger language models pick up skills that small ones miss appeared first on The Decoder.",
