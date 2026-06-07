@@ -1,5 +1,83 @@
 [
   {
+    "title": "Researchers pinpoint why larger language models pick up skills that small ones miss",
+    "summary": "Small language models fail at rare tasks because frequent ones constantly overwrite what they've learned. A new study with models ranging from 4 million to 4 billion parameters shows this mechanism in",
+    "content": "Small language models fail at rare tasks because frequent ones constantly overwrite what they've learned. A new study with models ranging from 4 million to 4 billion parameters shows this mechanism in detail and offers a practical fix: instead of scaling up models, it may be enough to increase how often the target task appears in the training data. The article Researchers pinpoint why larger language models pick up skills that small ones miss appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/",
+    "id": "news-2584"
+  },
+  {
+    "title": "GitHub's CPO on AI Coding Agents, Macro-Delegation, and the Future of Developers",
+    "summary": "Article URL: https://www.turingpost.com/p/mario-rodriguez-github-ai-coding-agents-copilot Comments URL: https://news.ycombinator.com/item?id=48432586 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.turingpost.com/p/mario-rodriguez-github-ai-coding-agents-copilot Comments URL: https://news.ycombinator.com/item?id=48432586 Points: 1 # Comments: 0",
+    "author": "olgava",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.turingpost.com/p/mario-rodriguez-github-ai-coding-agents-copilot",
+    "id": "news-2583"
+  },
+  {
+    "title": "Show HN: AI pre-screening CIS counterparties before onboarding",
+    "summary": "Article URL: https://agenstry.com/agents/cis-secondary-sanctions-a2a.vassiliy-lakhonin.workers.dev Comments URL: https://news.ycombinator.com/item?id=48432644 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agenstry.com/agents/cis-secondary-sanctions-a2a.vassiliy-lakhonin.workers.dev Comments URL: https://news.ycombinator.com/item?id=48432644 Points: 1 # Comments: 0",
+    "author": "vassilbek",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agenstry.com/agents/cis-secondary-sanctions-a2a.vassiliy-lakhonin.workers.dev",
+    "id": "news-2582"
+  },
+  {
+    "title": "Thoughts on starting new projects with LLM agents",
+    "summary": "Article URL: https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/ Comments URL: https://news.ycombinator.com/item?id=48432647 Points: 2 # Comments: 0",
+    "content": "Article URL: https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/ Comments URL: https://news.ycombinator.com/item?id=48432647 Points: 2 # Comments: 0",
+    "author": "wrxd",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
+    "id": "news-2581"
+  },
+  {
+    "title": "Are we approaching a new AI winter?",
+    "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-are-we-approaching-a-new Comments URL: https://news.ycombinator.com/item?id=48432659 Points: 1 # Comments: 0",
+    "content": "Article URL: https://adlrocha.substack.com/p/adlrocha-are-we-approaching-a-new Comments URL: https://news.ycombinator.com/item?id=48432659 Points: 1 # Comments: 0",
+    "author": "adlrocha",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://adlrocha.substack.com/p/adlrocha-are-we-approaching-a-new",
+    "id": "news-2580"
+  },
+  {
+    "title": "Show HN: WinkTerm – AI that shares the same PTY as you in the terminal",
+    "summary": "Article URL: https://github.com/Cznorth/winkterm Comments URL: https://news.ycombinator.com/item?id=48432710 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Cznorth/winkterm Comments URL: https://news.ycombinator.com/item?id=48432710 Points: 1 # Comments: 0",
+    "author": "Cznorth",
+    "date": "2026-06-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Cznorth/winkterm",
+    "id": "news-2579"
+  },
+  {
     "title": "When Can Amazon Block an Agentic AI Service?–Amazon vs. Perplexity",
     "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm Comments URL: https://news.ycombinator.com/item?id=484308",
     "content": "Article URL: https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm Comments URL: https://news.ycombinator.com/item?id=48430822 Points: 3 # Comments: 0",
