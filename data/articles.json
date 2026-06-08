@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Dense NYT style crossword puzzle generation with Rust and Claude",
+    "summary": "I’m a daily New York Times crossword player and I’ve built xword-pipeline with the goal of creating my own dense New York Times style crossword puzzles.The pipeline consists of a Rust grid fill-engine",
+    "content": "I’m a daily New York Times crossword player and I’ve built xword-pipeline with the goal of creating my own dense New York Times style crossword puzzles.The pipeline consists of a Rust grid fill-engine and a Claude based clue-writer. The fill-engine generates candidate grid skeletons (default is 200) and fills them with words from the Crossword Nexus Collaborative Word List. The clue-writer uses Claude to generate multi-tiered clues (easy, medium, hard), explanations, and QA review the generated ",
+    "author": "ekorbia",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ekorbia/xword-pipeline",
+    "id": "news-2617"
+  },
+  {
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 73 # Comments: 7",
+    "content": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 73 # Comments: 7",
+    "author": "yogthos",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "id": "news-2616"
+  },
+  {
+    "title": "Show HN: Preseason.ai – Open-source benchmark of devtool choices, ranked by LLM",
+    "summary": "Article URL: https://www.preseason.ai Comments URL: https://news.ycombinator.com/item?id=48440455 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.preseason.ai Comments URL: https://news.ycombinator.com/item?id=48440455 Points: 2 # Comments: 0",
+    "author": "widenrun",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.preseason.ai",
+    "id": "news-2615"
+  },
+  {
+    "title": "Show HN: ARouter – drop-in OpenAI/Anthropic proxy that cuts cost and fails over",
+    "summary": "Article URL: https://github.com/sricola/arouter Comments URL: https://news.ycombinator.com/item?id=48440512 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/sricola/arouter Comments URL: https://news.ycombinator.com/item?id=48440512 Points: 1 # Comments: 1",
+    "author": "sricola",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sricola/arouter",
+    "id": "news-2614"
+  },
+  {
+    "title": "The coming rise of anti-AI populism",
+    "summary": "Article URL: https://www.ft.com/content/b4429ea0-4a0a-4a28-96f5-debf4f3eb339 Comments URL: https://news.ycombinator.com/item?id=48440654 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/b4429ea0-4a0a-4a28-96f5-debf4f3eb339 Comments URL: https://news.ycombinator.com/item?id=48440654 Points: 1 # Comments: 1",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/b4429ea0-4a0a-4a28-96f5-debf4f3eb339",
+    "id": "news-2613"
+  },
+  {
     "title": "Amazing Digital Dentures (a failed project)",
     "summary": "Amazing Digital Dentures (a failed project)",
     "content": "",
