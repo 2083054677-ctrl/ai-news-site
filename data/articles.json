@@ -1,5 +1,137 @@
 [
   {
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "summary": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/openenv-agentic-rl",
+    "id": "news-2632"
+  },
+  {
+    "title": "The crash that vanished: control and emergence in a five-model economy",
+    "summary": "The crash that vanished: control and emergence in a five-model economy",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+    "id": "news-2631"
+  },
+  {
+    "title": "Moonshot AI targets a $30 billion valuation, more than six times its late-2025 worth",
+    "summary": "Moonshot AI, the Chinese company behind the Kimi chatbot, is looking for a valuation of up to $30 billion in a new funding round. The article Moonshot AI targets a $30 billion valuation, more than six",
+    "content": "Moonshot AI, the Chinese company behind the Kimi chatbot, is looking for a valuation of up to $30 billion in a new funding round. The article Moonshot AI targets a $30 billion valuation, more than six times its late-2025 worth appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/moonshot-ai-targets-a-30-billion-valuation-more-than-six-times-its-late-2025-worth/",
+    "id": "news-2630"
+  },
+  {
+    "title": "Microsoft tightens rules for conflict zones after investigation into Israel's military use of Azure",
+    "summary": "Microsoft has wrapped up its investigation into Israel's military use of its Azure cloud and is rolling out new human rights checks. But the report leaves key questions unanswered: the actual contents",
+    "content": "Microsoft has wrapped up its investigation into Israel's military use of its Azure cloud and is rolling out new human rights checks. But the report leaves key questions unanswered: the actual contents of the military data were never examined, and staff departures at Microsoft Israel go unmentioned. At the core of the story: cloud infrastructure, mass surveillance, and AI-powered target selection in Gaza. The article Microsoft tightens rules for conflict zones after investigation into Israel's mi",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-tightens-rules-for-conflict-zones-after-investigation-into-israels-military-use-of-azure/",
+    "id": "news-2629"
+  },
+  {
+    "title": "Instagram AI chatbot breach may have affected over to 20,000 accounts, Meta discloses",
+    "summary": "Meta has put a number on the security breach in its AI support chatbot for Instagram for the first time: at least 20,225 accounts were compromised. For nearly seven weeks, the system sent password res",
+    "content": "Meta has put a number on the security breach in its AI support chatbot for Instagram for the first time: at least 20,225 accounts were compromised. For nearly seven weeks, the system sent password reset links to arbitrary email addresses without verifying they belonged to the account. The chatbot had previously been marketed as a win for account security. The article Instagram AI chatbot breach may have affected over to 20,000 accounts, Meta discloses appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/instagram-ai-chatbot-breach-may-have-affected-over-to-20000-accounts-meta-discloses/",
+    "id": "news-2628"
+  },
+  {
+    "title": "Frontier Radar #3: How agentic AI is turning tokens into a business metric",
+    "summary": "Monthly subscription, open chat, ask question: This is how generative AI used to work. Agentic workflows go beyond this model. They consume many times more tokens, run autonomously for hours and make ",
+    "content": "Monthly subscription, open chat, ask question: This is how generative AI used to work. Agentic workflows go beyond this model. They consume many times more tokens, run autonomously for hours and make flat rates unaffordable for providers. At the same time, token prices vary according to speed, specialization and the economic value of the result. The third edition of the AI radar categorizes the emerging token economy: How is billing shifting from subscription to consumption? Why does a favorable",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/frontier-radar-3-how-agentic-ai-is-turning-tokens-into-a-business-metric/",
+    "id": "news-2627"
+  },
+  {
+    "title": "Anthropic enables self-service data analytics with Claude",
+    "summary": "Article URL: https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude Comments URL: https://news.ycombinator.com/item?id=48444896 Points: 1 # Comments: 0",
+    "content": "Article URL: https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude Comments URL: https://news.ycombinator.com/item?id=48444896 Points: 1 # Comments: 0",
+    "author": "shrikant",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+    "id": "news-2626"
+  },
+  {
+    "title": "The lawsuits that could give AI its 'Big Tobacco' moment",
+    "summary": "Article URL: https://www.politico.com/news/2026/06/06/the-lawsuits-that-could-give-ai-its-big-tobacco-moment-00951764 Comments URL: https://news.ycombinator.com/item?id=48445012 Points: 1 # Comments: ",
+    "content": "Article URL: https://www.politico.com/news/2026/06/06/the-lawsuits-that-could-give-ai-its-big-tobacco-moment-00951764 Comments URL: https://news.ycombinator.com/item?id=48445012 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.politico.com/news/2026/06/06/the-lawsuits-that-could-give-ai-its-big-tobacco-moment-00951764",
+    "id": "news-2625"
+  },
+  {
+    "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
+    "summary": "I have been working as a software developer for more than 20 years now. Been around the block a few times. Thanks to generous allowances in my current place, I've dipped my toes into LLM world and am ",
+    "content": "I have been working as a software developer for more than 20 years now. Been around the block a few times. Thanks to generous allowances in my current place, I've dipped my toes into LLM world and am quite impressed with it. However, we are on a legacy code base, LLM impact is limited in a sense. If I was to start a new project (let's say a web app with backend) - what is the state of the art for the setup? From Issue tracking, CI, automated deployments, agents, documentation etc - is there some",
+    "author": "postexitus",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48445024",
+    "id": "news-2624"
+  },
+  {
+    "title": "AgentTrust ID – Runtime authorization for AI agents (open-source SDKs)",
+    "summary": "Article URL: https://agenttrust.id/blog/agenttrust-id-is-live Comments URL: https://news.ycombinator.com/item?id=48445181 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agenttrust.id/blog/agenttrust-id-is-live Comments URL: https://news.ycombinator.com/item?id=48445181 Points: 1 # Comments: 0",
+    "author": "yaimavaldivia",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agenttrust.id/blog/agenttrust-id-is-live",
+    "id": "news-2623"
+  },
+  {
     "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
     "summary": "Article URL: https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387 Comments URL: https://news.ycombinator.com/item?id=48442048 Points: 5 # Comments: 0",
     "content": "Article URL: https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387 Comments URL: https://news.ycombinator.com/item?id=48442048 Points: 5 # Comments: 0",
