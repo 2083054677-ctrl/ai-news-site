@@ -1,5 +1,70 @@
 [
   {
+    "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
+    "summary": "Article URL: https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387 Comments URL: https://news.ycombinator.com/item?id=48442048 Points: 5 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387 Comments URL: https://news.ycombinator.com/item?id=48442048 Points: 5 # Comments: 0",
+    "author": "thm",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387",
+    "id": "news-2622"
+  },
+  {
+    "title": "Training an LLM in Swift, Part 2: macOS built-in frameworks",
+    "summary": "Article URL: https://www.cocoawithlove.com/blog/macos-ml-frameworks.html Comments URL: https://news.ycombinator.com/item?id=48442089 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.cocoawithlove.com/blog/macos-ml-frameworks.html Comments URL: https://news.ycombinator.com/item?id=48442089 Points: 2 # Comments: 0",
+    "author": "cl3m",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cocoawithlove.com/blog/macos-ml-frameworks.html",
+    "id": "news-2621"
+  },
+  {
+    "title": "Show HN: AI Boost – an MCP for accessing your everyday patterns",
+    "summary": "Hi HN,My number one frustration with LLM agents is that every session starts blank and I have to re-explain my patterns and conventions every time.I often find myself doing things like \"look at X repo",
+    "content": "Hi HN,My number one frustration with LLM agents is that every session starts blank and I have to re-explain my patterns and conventions every time.I often find myself doing things like \"look at X repo and copy the patterns used for Y\", which requires the repo to be on the local machine.A couple big ones for me personally: - Auth flows - Terraform patterns for AWSRules and skills help to some extent, but they are difficult to synchronize across multiple agents, projects, and machines. Memory is i",
+    "author": "npiano",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ai-boost.io/",
+    "id": "news-2620"
+  },
+  {
+    "title": "AI Has a Measurement Problem – And it's everyone's problem",
+    "summary": "Article URL: https://luisgardea.substack.com/p/ai-has-a-measurement-problem Comments URL: https://news.ycombinator.com/item?id=48442412 Points: 2 # Comments: 1",
+    "content": "Article URL: https://luisgardea.substack.com/p/ai-has-a-measurement-problem Comments URL: https://news.ycombinator.com/item?id=48442412 Points: 2 # Comments: 1",
+    "author": "gallardo147",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://luisgardea.substack.com/p/ai-has-a-measurement-problem",
+    "id": "news-2619"
+  },
+  {
+    "title": "Dao Heart 3.13 a symbolic safety layer for value drift and AI alignment research",
+    "summary": "Article URL: https://github.com/Mankirat47/Dao-Heart-3.13 Comments URL: https://news.ycombinator.com/item?id=48442582 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Mankirat47/Dao-Heart-3.13 Comments URL: https://news.ycombinator.com/item?id=48442582 Points: 1 # Comments: 0",
+    "author": "Mankirat47",
+    "date": "2026-06-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Mankirat47/Dao-Heart-3.13",
+    "id": "news-2618"
+  },
+  {
     "title": "Show HN: Dense NYT style crossword puzzle generation with Rust and Claude",
     "summary": "I’m a daily New York Times crossword player and I’ve built xword-pipeline with the goal of creating my own dense New York Times style crossword puzzles.The pipeline consists of a Rust grid fill-engine",
     "content": "I’m a daily New York Times crossword player and I’ve built xword-pipeline with the goal of creating my own dense New York Times style crossword puzzles.The pipeline consists of a Rust grid fill-engine and a Claude based clue-writer. The fill-engine generates candidate grid skeletons (default is 200) and fills them with words from the Crossword Nexus Collaborative Word List. The clue-writer uses Claude to generate multi-tiered clues (easy, medium, hard), explanations, and QA review the generated ",
