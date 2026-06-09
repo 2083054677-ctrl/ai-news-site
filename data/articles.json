@@ -1,5 +1,97 @@
 [
   {
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "summary": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "id": "news-2676"
+  },
+  {
+    "title": "Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science",
+    "summary": "Anthropic ships two new models, Claude Fable 5 and Mythos 5, that claim to blow past the current Opus generation, especially in coding and research. Fable 5 finished a code migration for Stripe in one",
+    "content": "Anthropic ships two new models, Claude Fable 5 and Mythos 5, that claim to blow past the current Opus generation, especially in coding and research. Fable 5 finished a code migration for Stripe in one day that would have taken a team two months. Mythos 5 designed drug candidates on its own but stays locked down for now due to its offensive cyber capabilities. The article Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/",
+    "id": "news-2675"
+  },
+  {
+    "title": "Advanced AI Safety Addendum",
+    "summary": "Article URL: https://cloud.google.com/terms/advanced-ai-safety-addendum Comments URL: https://news.ycombinator.com/item?id=48466344 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cloud.google.com/terms/advanced-ai-safety-addendum Comments URL: https://news.ycombinator.com/item?id=48466344 Points: 1 # Comments: 0",
+    "author": "hmokiguess",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cloud.google.com/terms/advanced-ai-safety-addendum",
+    "id": "news-2674"
+  },
+  {
+    "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
+    "summary": "Article URL: https://github.com/vishal-dehurdle/state-harness Comments URL: https://news.ycombinator.com/item?id=48466381 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/vishal-dehurdle/state-harness Comments URL: https://news.ycombinator.com/item?id=48466381 Points: 1 # Comments: 0",
+    "author": "visha1v",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vishal-dehurdle/state-harness",
+    "id": "news-2673"
+  },
+  {
+    "title": "Devs know AI code is riddled with holes, but ship it anyway",
+    "summary": "Article URL: https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824 Comments URL: https://news.ycombinator.com/item?id=48466519 Points: 7 # Co",
+    "content": "Article URL: https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824 Comments URL: https://news.ycombinator.com/item?id=48466519 Points: 7 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824",
+    "id": "news-2672"
+  },
+  {
+    "title": "Runtime Guards for AI Agents",
+    "summary": "Article URL: https://guard-sdk.js.org/ Comments URL: https://news.ycombinator.com/item?id=48466595 Points: 1 # Comments: 0",
+    "content": "Article URL: https://guard-sdk.js.org/ Comments URL: https://news.ycombinator.com/item?id=48466595 Points: 1 # Comments: 0",
+    "author": "apvarun",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://guard-sdk.js.org/",
+    "id": "news-2671"
+  },
+  {
+    "title": "Show HN: AI News Aggregator",
+    "summary": "I decided to build my own AI feeds reader since I wanted features I couldn't find, or at least not in the way I wanted to, for instance:- Filter news by interest/category - Cluster same story from dif",
+    "content": "I decided to build my own AI feeds reader since I wanted features I couldn't find, or at least not in the way I wanted to, for instance:- Filter news by interest/category - Cluster same story from different sources into one - Show short summary of each new so you can skip if it's not really that interesting to you - Track relevant AI figures, but not only their tweets and posts but also their appearences in articles and interviewsI'm still tuning it and improving it everyday. Comments URL: https",
+    "author": "michelmi",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aibriefs.news",
+    "id": "news-2670"
+  },
+  {
     "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
     "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators ",
     "content": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide. The article Landmark German ruling declares Google's AI Ov",
