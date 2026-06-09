@@ -1,5 +1,44 @@
 [
   {
+    "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+    "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators ",
+    "content": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide. The article Landmark German ruling declares Google's AI Ov",
+    "author": "Matthias Bastian",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "id": "news-2669"
+  },
+  {
+    "title": "SpaceX wants to put data centers in orbit, and Musk says it's no big deal",
+    "summary": "SpaceX wants to launch data centers into space, and Elon Musk is pitching it as a near-trivial engineering problem ahead of the company's IPO. A first AI satellite would match the output of a single N",
+    "content": "SpaceX wants to launch data centers into space, and Elon Musk is pitching it as a near-trivial engineering problem ahead of the company's IPO. A first AI satellite would match the output of a single Nvidia GB300 rack. But Google's own research suggests real AI training would require about 10,000 tightly coupled satellites. The article SpaceX wants to put data centers in orbit, and Musk says it's no big deal appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/spacex-wants-to-put-data-centers-in-orbit-and-musk-says-its-no-big-deal/",
+    "id": "news-2668"
+  },
+  {
+    "title": "Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages",
+    "summary": "Google releases Gemini 3.5 Live Translate, an audio model for real-time translation across more than 70 languages. The system translates continuously without waiting for a sentence to end and claims t",
+    "content": "Google releases Gemini 3.5 Live Translate, an audio model for real-time translation across more than 70 languages. The system translates continuously without waiting for a sentence to end and claims to preserve the speaker's tone, pace, and pitch. In Google Meet, language support jumps from five to over 70 languages. The article Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-gemini-3-5-live-translate-delivers-real-time-voice-translation-across-70-languages/",
+    "id": "news-2667"
+  },
+  {
     "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
     "summary": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
     "content": "",
