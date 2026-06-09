@@ -1,5 +1,33 @@
 [
   {
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "summary": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "id": "news-2678"
+  },
+  {
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "summary": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "id": "news-2677"
+  },
+  {
     "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
     "summary": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
     "content": "",
