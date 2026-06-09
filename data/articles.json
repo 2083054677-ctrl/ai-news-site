@@ -1,5 +1,110 @@
 [
   {
+    "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+    "summary": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+    "id": "news-2658"
+  },
+  {
+    "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing",
+    "summary": "OpenAI has confidentially filed an S-1 registration with the SEC, taking the first formal step toward an IPO. There's no set timeline, and the company calls it \"a complicated set of tradeoffs.\" Rival ",
+    "content": "OpenAI has confidentially filed an S-1 registration with the SEC, taking the first formal step toward an IPO. There's no set timeline, and the company calls it \"a complicated set of tradeoffs.\" Rival Anthropic recently filed its own IPO paperwork, which likely adds to the pressure. The article OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing/",
+    "id": "news-2657"
+  },
+  {
+    "title": "OpenAI now says \"entirely automating everything is not the future we want\"",
+    "summary": "OpenAI is backing away from fully autonomous AI research by 2028, now talking about a \"tandem\" between humans and machines. Altman and Pachocki also call for an international body that could slow fron",
+    "content": "OpenAI is backing away from fully autonomous AI research by 2028, now talking about a \"tandem\" between humans and machines. Altman and Pachocki also call for an international body that could slow frontier development if needed. The article OpenAI now says \"entirely automating everything is not the future we want\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-entirely-automating-everything-is-not-the-future-we-want/",
+    "id": "news-2656"
+  },
+  {
+    "title": "CoAnalyst360 Multi-Agent AI Platform for Investigative Questions",
+    "summary": "Article URL: https://www.penlink.com/press-release/coanalyst360-launch/ Comments URL: https://news.ycombinator.com/item?id=48459026 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.penlink.com/press-release/coanalyst360-launch/ Comments URL: https://news.ycombinator.com/item?id=48459026 Points: 1 # Comments: 0",
+    "author": "sharpshadow",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.penlink.com/press-release/coanalyst360-launch/",
+    "id": "news-2655"
+  },
+  {
+    "title": "The emerging AI x TechBio stack (120 companies mapped)",
+    "summary": "Article URL: https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/ Comments URL: https://news.ycombinator.com/item?id=48459145 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/ Comments URL: https://news.ycombinator.com/item?id=48459145 Points: 1 # Comments: 0",
+    "author": "advikipedia",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/",
+    "id": "news-2654"
+  },
+  {
+    "title": "How We Built Automatic Invoice Reconciliation Without AI",
+    "summary": "Article URL: https://usecycle.co/blog/zero-reconcilation-for-invoices Comments URL: https://news.ycombinator.com/item?id=48459165 Points: 1 # Comments: 0",
+    "content": "Article URL: https://usecycle.co/blog/zero-reconcilation-for-invoices Comments URL: https://news.ycombinator.com/item?id=48459165 Points: 1 # Comments: 0",
+    "author": "aswinmohanme",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://usecycle.co/blog/zero-reconcilation-for-invoices",
+    "id": "news-2653"
+  },
+  {
+    "title": "Record Conflicts Drive Peace to Historic Low as AI Warfare Surges",
+    "summary": "Article URL: https://www.visionofhumanity.org/record-conflicts-drive-peace-to-historic-low-as-ai-warfare-surges/ Comments URL: https://news.ycombinator.com/item?id=48459215 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.visionofhumanity.org/record-conflicts-drive-peace-to-historic-low-as-ai-warfare-surges/ Comments URL: https://news.ycombinator.com/item?id=48459215 Points: 1 # Comments: 0",
+    "author": "geox",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.visionofhumanity.org/record-conflicts-drive-peace-to-historic-low-as-ai-warfare-surges/",
+    "id": "news-2652"
+  },
+  {
+    "title": "Hades: The malware that lies to AI security agents",
+    "summary": "Article URL: https://www.infoworld.com/article/4182692/meet-hades-the-malware-that-lies-to-ai-security-agents.html Comments URL: https://news.ycombinator.com/item?id=48459256 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.infoworld.com/article/4182692/meet-hades-the-malware-that-lies-to-ai-security-agents.html Comments URL: https://news.ycombinator.com/item?id=48459256 Points: 1 # Comments: 0",
+    "author": "chmaynard",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.infoworld.com/article/4182692/meet-hades-the-malware-that-lies-to-ai-security-agents.html",
+    "id": "news-2651"
+  },
+  {
     "title": "AI Model Predicts 10-Year Stroke Risk Based on Routine Cardiology Test",
     "summary": "Article URL: https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/ai-model-predicts-10-year-stroke-risk Comments URL: https://news.ycombinator.com/item?id=48455128 Points: 1 # Comments:",
     "content": "Article URL: https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/ai-model-predicts-10-year-stroke-risk Comments URL: https://news.ycombinator.com/item?id=48455128 Points: 1 # Comments: 0",
