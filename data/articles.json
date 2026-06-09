@@ -1,5 +1,110 @@
 [
   {
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "summary": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "id": "news-2666"
+  },
+  {
+    "title": "Apple Intelligence gets a second shot with help from Google and Nvidia",
+    "summary": "At WWDC 2026, Apple showed off a rebuilt version of Siri. The assistant runs on foundation models developed with Google. For complex queries, it taps Nvidia GPUs. The article Apple Intelligence gets a",
+    "content": "At WWDC 2026, Apple showed off a rebuilt version of Siri. The assistant runs on foundation models developed with Google. For complex queries, it taps Nvidia GPUs. The article Apple Intelligence gets a second shot with help from Google and Nvidia appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/apple-intelligence-gets-a-second-go-with-the-help-of-google-and-nvidia/",
+    "id": "news-2665"
+  },
+  {
+    "title": "Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers",
+    "summary": "China plans to invest roughly $295 billion in a nationwide AI data center network over the next five years, Bloomberg reports. At least 80 percent of the technology would come from domestic suppliers ",
+    "content": "China plans to invest roughly $295 billion in a nationwide AI data center network over the next five years, Bloomberg reports. At least 80 percent of the technology would come from domestic suppliers like Huawei. Meanwhile, Taiwan is considering making AI chip smuggling to China a criminal offense for the first time. The article Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/",
+    "id": "news-2664"
+  },
+  {
+    "title": "AI takes people at their word",
+    "summary": "Article URL: https://futuresearch.ai/ai-takes-people-at-their-word/ Comments URL: https://news.ycombinator.com/item?id=48461396 Points: 4 # Comments: 1",
+    "content": "Article URL: https://futuresearch.ai/ai-takes-people-at-their-word/ Comments URL: https://news.ycombinator.com/item?id=48461396 Points: 4 # Comments: 1",
+    "author": "mckennameyer",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://futuresearch.ai/ai-takes-people-at-their-word/",
+    "id": "news-2663"
+  },
+  {
+    "title": "$250M iPhone Settlement Proposed in Apple Lawsuit over Misrepresented AI",
+    "summary": "Article URL: https://www.classaction.org/news/250m-iphone-16-settlement-resolves-apple-lawsuit-over-allegedly-misrepresented-ai-features Comments URL: https://news.ycombinator.com/item?id=48461407 Poi",
+    "content": "Article URL: https://www.classaction.org/news/250m-iphone-16-settlement-resolves-apple-lawsuit-over-allegedly-misrepresented-ai-features Comments URL: https://news.ycombinator.com/item?id=48461407 Points: 2 # Comments: 0",
+    "author": "Topfi",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.classaction.org/news/250m-iphone-16-settlement-resolves-apple-lawsuit-over-allegedly-misrepresented-ai-features",
+    "id": "news-2662"
+  },
+  {
+    "title": "EU Says Decision Not to Launch Siri AI in Europe Is Apple's Alone",
+    "summary": "Article URL: https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/ Comments URL: https://news.ycombinator.com/item?id=48461466 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/ Comments URL: https://news.ycombinator.com/item?id=48461466 Points: 3 # Comments: 0",
+    "author": "bushwart",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
+    "id": "news-2661"
+  },
+  {
+    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+    "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 1 # Comments: 0",
+    "author": "ruxudev",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+    "id": "news-2660"
+  },
+  {
+    "title": "A system programmer's guide to LLM inference",
+    "summary": "Article URL: https://blog.xiangpeng.systems/posts/how-to-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=48461660 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.xiangpeng.systems/posts/how-to-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=48461660 Points: 1 # Comments: 0",
+    "author": "aoli-al",
+    "date": "2026-06-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.xiangpeng.systems/posts/how-to-llm-inference/",
+    "id": "news-2659"
+  },
+  {
     "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
     "summary": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
     "content": "",
