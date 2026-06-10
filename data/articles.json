@@ -1,5 +1,31 @@
 [
   {
+    "title": "Google's NotebookLM now runs its own cloud computer with code execution and agent-based research",
+    "summary": "Google is giving NotebookLM a major upgrade. The research tool now runs on Gemini 3.5 Flash, has its own cloud computer for code execution, and can find sources on its own via Google Search. In intern",
+    "content": "Google is giving NotebookLM a major upgrade. The research tool now runs on Gemini 3.5 Flash, has its own cloud computer for code execution, and can find sources on its own via Google Search. In internal tests, the new system beat the previous version up to 78.2 percent of the time. The article Google's NotebookLM now runs its own cloud computer with code execution and agent-based research appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-notebooklm-now-runs-its-own-cloud-computer-with-code-execution-and-agent-based-research/",
+    "id": "news-2685"
+  },
+  {
+    "title": "Germany's National Security Council greenights an AI Safety Institute modeled after the UK's AISI",
+    "summary": "Germany's National Security Council has decided to establish an AI security institute. The \"DE-AISI\" will test frontier models from Anthropic or OpenAI for security risks, following the British model.",
+    "content": "Germany's National Security Council has decided to establish an AI security institute. The \"DE-AISI\" will test frontier models from Anthropic or OpenAI for security risks, following the British model. But as long as the EU doesn't have its own frontier models, it remains dependent on US and Chinese AI technology, and those providers are tightly linked to their home governments. The article Germany's National Security Council greenights an AI Safety Institute modeled after the UK's AISI appeared ",
+    "author": "Matthias Bastian",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/germanys-national-security-council-greenights-an-ai-safety-institute-modeled-after-the-uks-aisi/",
+    "id": "news-2684"
+  },
+  {
     "title": "Agentic Engineering Handbook – 115 official OpenAI/Anthropic articles",
     "summary": "Article URL: https://github.com/keyuchen21/agentic-engineering-handbook Comments URL: https://news.ycombinator.com/item?id=48470361 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/keyuchen21/agentic-engineering-handbook Comments URL: https://news.ycombinator.com/item?id=48470361 Points: 1 # Comments: 0",
