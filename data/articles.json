@@ -1,5 +1,96 @@
 [
   {
+    "title": "Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered",
+    "summary": "Anthropic has released Claude Fable 5, the first model in its new Mythos class. It leads nearly every benchmark, including SWE-bench Verified at 95 percent, but costs twice as much as Opus 4.8 at 10 o",
+    "content": "Anthropic has released Claude Fable 5, the first model in its new Mythos class. It leads nearly every benchmark, including SWE-bench Verified at 95 percent, but costs twice as much as Opus 4.8 at 10 or 50 dollars per million tokens. Strict safety filters block about nine percent of requests, and a new 30-day data retention policy applies even to zero-data-retention contracts. The article Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered appeared first on The Dec",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-fable-5-the-first-mythos-model-is-powerful-expensive-and-heavily-filtered/",
+    "id": "news-2692"
+  },
+  {
+    "title": "OpenAI wants its biggest data center yet, and Nvidia would back the bill",
+    "summary": "OpenAI is negotiating to lease a planned 10-gigawatt data center in Ohio that could be financially backed by Nvidia, according to The Information. The article OpenAI wants its biggest data center yet,",
+    "content": "OpenAI is negotiating to lease a planned 10-gigawatt data center in Ohio that could be financially backed by Nvidia, according to The Information. The article OpenAI wants its biggest data center yet, and Nvidia would back the bill appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-wants-its-biggest-data-center-yet-and-nvidia-would-back-the-bill/",
+    "id": "news-2691"
+  },
+  {
+    "title": "HN: AInfra – A native C virtual machine for AI infrastructure graphs",
+    "summary": "Article URL: https://github.com/TangibleResearch/AInfra Comments URL: https://news.ycombinator.com/item?id=48478820 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/TangibleResearch/AInfra Comments URL: https://news.ycombinator.com/item?id=48478820 Points: 2 # Comments: 1",
+    "author": "reboy",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/TangibleResearch/AInfra",
+    "id": "news-2690"
+  },
+  {
+    "title": "Tweaking GPU Clock Frequency Cuts LLM Training Energy",
+    "summary": "Article URL: https://spectrum.ieee.org/llm-training-energy-saving-trick Comments URL: https://news.ycombinator.com/item?id=48478848 Points: 2 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/llm-training-energy-saving-trick Comments URL: https://news.ycombinator.com/item?id=48478848 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/llm-training-energy-saving-trick",
+    "id": "news-2689"
+  },
+  {
+    "title": "AI Voice Agent Architecture: How Real-Time Conversational Systems Work",
+    "summary": "Article URL: https://www.faridfadaie.com/2026/06/10/ai-voice-agent-architecture/ Comments URL: https://news.ycombinator.com/item?id=48479045 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.faridfadaie.com/2026/06/10/ai-voice-agent-architecture/ Comments URL: https://news.ycombinator.com/item?id=48479045 Points: 1 # Comments: 0",
+    "author": "ffadaie",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.faridfadaie.com/2026/06/10/ai-voice-agent-architecture/",
+    "id": "news-2688"
+  },
+  {
+    "title": "Killed by GPT",
+    "summary": "Article URL: https://killedbygpt.com/ Comments URL: https://news.ycombinator.com/item?id=48479053 Points: 1 # Comments: 0",
+    "content": "Article URL: https://killedbygpt.com/ Comments URL: https://news.ycombinator.com/item?id=48479053 Points: 1 # Comments: 0",
+    "author": "thoughtpeddler",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://killedbygpt.com/",
+    "id": "news-2687"
+  },
+  {
+    "title": "Samsung, Greek shipowner, Supermicro to bring floating AI data centers to market",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/samsung-heavy-industries-recruits-greek-shipowner-and-supermicro-to-bring-50mw-floating-ai-data-centers-to-market Comments URL: https://news.yco",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/samsung-heavy-industries-recruits-greek-shipowner-and-supermicro-to-bring-50mw-floating-ai-data-centers-to-market Comments URL: https://news.ycombinator.com/item?id=48479074 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/samsung-heavy-industries-recruits-greek-shipowner-and-supermicro-to-bring-50mw-floating-ai-data-centers-to-market",
+    "id": "news-2686"
+  },
+  {
     "title": "Google's NotebookLM now runs its own cloud computer with code execution and agent-based research",
     "summary": "Google is giving NotebookLM a major upgrade. The research tool now runs on Gemini 3.5 Flash, has its own cloud computer for code execution, and can find sources on its own via Google Search. In intern",
     "content": "Google is giving NotebookLM a major upgrade. The research tool now runs on Gemini 3.5 Flash, has its own cloud computer for code execution, and can find sources on its own via Google Search. In internal tests, the new system beat the previous version up to 78.2 percent of the time. The article Google's NotebookLM now runs its own cloud computer with code execution and agent-based research appeared first on The Decoder.",
