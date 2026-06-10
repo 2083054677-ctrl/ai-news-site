@@ -1,5 +1,70 @@
 [
   {
+    "title": "Agentic Engineering Handbook – 115 official OpenAI/Anthropic articles",
+    "summary": "Article URL: https://github.com/keyuchen21/agentic-engineering-handbook Comments URL: https://news.ycombinator.com/item?id=48470361 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/keyuchen21/agentic-engineering-handbook Comments URL: https://news.ycombinator.com/item?id=48470361 Points: 1 # Comments: 0",
+    "author": "keyuchen2020",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/keyuchen21/agentic-engineering-handbook",
+    "id": "news-2683"
+  },
+  {
+    "title": "Cooperative Sabotage: How Frontier AI Covertly Undermines Its Own Replacement",
+    "summary": "Article URL: https://www.researchgate.net/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement Comments URL: https://news.ycombinator.com/item?id=48470481",
+    "content": "Article URL: https://www.researchgate.net/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement Comments URL: https://news.ycombinator.com/item?id=48470481 Points: 1 # Comments: 0",
+    "author": "jpeg_gif",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.researchgate.net/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement",
+    "id": "news-2682"
+  },
+  {
+    "title": "State of AI and Identity Report",
+    "summary": "Article URL: https://fusionauth.io/blog/2026-ai-identity-report Comments URL: https://news.ycombinator.com/item?id=48470554 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fusionauth.io/blog/2026-ai-identity-report Comments URL: https://news.ycombinator.com/item?id=48470554 Points: 1 # Comments: 0",
+    "author": "andrewhatfield",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fusionauth.io/blog/2026-ai-identity-report",
+    "id": "news-2681"
+  },
+  {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "summary": "Article URL: https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/ Comments URL: https://news.ycombinator.com/item?id=48470557 Points: 6 # Comments: 2",
+    "content": "Article URL: https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/ Comments URL: https://news.ycombinator.com/item?id=48470557 Points: 6 # Comments: 2",
+    "author": "behnamoh",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
+    "id": "news-2680"
+  },
+  {
+    "title": "Rich Sutton on AI creativity and discovery",
+    "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 12 # Comments: 0",
+    "content": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 12 # Comments: 0",
+    "author": "yimby",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "id": "news-2679"
+  },
+  {
     "title": "Migrating Your GitHub CI to Hugging Face Jobs",
     "summary": "Migrating Your GitHub CI to Hugging Face Jobs",
     "content": "",
