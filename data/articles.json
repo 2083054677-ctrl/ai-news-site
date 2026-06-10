@@ -1,5 +1,109 @@
 [
   {
+    "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches",
+    "summary": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no spec",
+    "content": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no specialized knowledge. Eight complete attack chains were finished before Microsoft's auto-updates had reached a single device. The old patch rhythm is obsolete, Anthropic argues. The article Anthropic study shows AI needs hours, not weeks, to build exploits from security patches appeared first on The De",
+    "author": "Matthias Bastian",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/",
+    "id": "news-2700"
+  },
+  {
+    "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\"",
+    "summary": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers",
+    "content": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers and imminent IPO may be the real reason to wait. The article OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/",
+    "id": "news-2699"
+  },
+  {
+    "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word",
+    "summary": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture. According to Nvidia, it h",
+    "content": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture. According to Nvidia, it hits about 1,000 tokens per second on a single H100 GPU, roughly four times faster than comparable autoregressive models. The speed comes at a cost, though. Output quality is lower, so Google is positioning it as an experimental tool for developers for now. The article Google's new open model Diffusi",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/",
+    "id": "news-2698"
+  },
+  {
+    "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
+    "summary": "Article URL: https://www.thrindex.com/ Comments URL: https://news.ycombinator.com/item?id=48481780 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.thrindex.com/ Comments URL: https://news.ycombinator.com/item?id=48481780 Points: 1 # Comments: 0",
+    "author": "teo-nomikos",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thrindex.com/",
+    "id": "news-2697"
+  },
+  {
+    "title": "AI is eating the AI Engineering Loop",
+    "summary": "Article URL: https://twitter.com/lotte_verheyden/status/2064415370761646410 Comments URL: https://news.ycombinator.com/item?id=48481789 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/lotte_verheyden/status/2064415370761646410 Comments URL: https://news.ycombinator.com/item?id=48481789 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/lotte_verheyden/status/2064415370761646410",
+    "id": "news-2696"
+  },
+  {
+    "title": "What Investment Data Implies about the AI Transition",
+    "summary": "Article URL: https://www.nber.org/papers/w35290 Comments URL: https://news.ycombinator.com/item?id=48481791 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nber.org/papers/w35290 Comments URL: https://news.ycombinator.com/item?id=48481791 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nber.org/papers/w35290",
+    "id": "news-2695"
+  },
+  {
+    "title": "Why would someone want to learn code when AI does it better and faster?",
+    "summary": "I know it sounds like I'm some sort of self-taught \"prompt engineer\" but actually I spent some time learning to code, and a mistake I made was focusing too much on learning different frameworks and sy",
+    "content": "I know it sounds like I'm some sort of self-taught \"prompt engineer\" but actually I spent some time learning to code, and a mistake I made was focusing too much on learning different frameworks and syntax etc etc. But it's impossible to consistently program and only learn syntax and no problem solving. So I learned a bit that too. But it hurt me very bad when I found out, not only AI is better than me in syntax, so it is in problem solving (however I sometimes catch their mistakes, but they're g",
+    "author": "manimonji",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48481802",
+    "id": "news-2694"
+  },
+  {
+    "title": "An Overview of Modern AI Robotics from First Principles",
+    "summary": "Article URL: https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles Comments URL: https://news.ycombinator.com/item?id=48481909 Points: 1 # Comments: 0",
+    "content": "Article URL: https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles Comments URL: https://news.ycombinator.com/item?id=48481909 Points: 1 # Comments: 0",
+    "author": "jdkee",
+    "date": "2026-06-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
+    "id": "news-2693"
+  },
+  {
     "title": "Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered",
     "summary": "Anthropic has released Claude Fable 5, the first model in its new Mythos class. It leads nearly every benchmark, including SWE-bench Verified at 95 percent, but costs twice as much as Opus 4.8 at 10 o",
     "content": "Anthropic has released Claude Fable 5, the first model in its new Mythos class. It leads nearly every benchmark, including SWE-bench Verified at 95 percent, but costs twice as much as Opus 4.8 at 10 or 50 dollars per million tokens. Strict safety filters block about nine percent of requests, and a new 30-day data retention policy applies even to zero-data-retention contracts. The article Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered appeared first on The Dec",
