@@ -1,5 +1,83 @@
 [
   {
+    "title": "Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers",
+    "summary": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits \"wrong tradeoff\" after ",
+    "content": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-fable-5-anthropic-admits-wrong-tradeoff-after-invisibly-throttling-rival-ai-researchers/",
+    "id": "news-2711"
+  },
+  {
+    "title": "Accusations of 'AI Slop' Don't Screen for AI Text",
+    "summary": "Article URL: https://arxiv.org/abs/2606.12073 Comments URL: https://news.ycombinator.com/item?id=48487424 Points: 4 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2606.12073 Comments URL: https://news.ycombinator.com/item?id=48487424 Points: 4 # Comments: 0",
+    "author": "igortru",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2606.12073",
+    "id": "news-2710"
+  },
+  {
+    "title": "Why AI hasn't replaced software engineers, and won't",
+    "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 2 # Comments: 0",
+    "author": "trueduke",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "id": "news-2709"
+  },
+  {
+    "title": "Ask HN: Temporal Awareness in LLM?",
+    "summary": "I have just sent a sort of \"feature request\" to ChatGPT (but my question is generally applicable to most LLMs).Here is the text, written by ChatGPT itself:Feature request: Optional temporal awareness ",
+    "content": "I have just sent a sort of \"feature request\" to ChatGPT (but my question is generally applicable to most LLMs).Here is the text, written by ChatGPT itself:Feature request: Optional temporal awareness per conversation/project. Allow the model to receive relative elapsed time between messages (e.g. +5 min, +4 h, +2 days). This is particularly useful for long-running narrative, journaling, project-tracking, and relationship-oriented conversations where elapsed time itself carries semantic meaning.I",
+    "author": "Pamar",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48487573",
+    "id": "news-2708"
+  },
+  {
+    "title": "Evaluating LLM-generated code for domain-specific languages",
+    "summary": "Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0927025626003587 Comments URL: https://news.ycombinator.com/item?id=48487639 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0927025626003587 Comments URL: https://news.ycombinator.com/item?id=48487639 Points: 1 # Comments: 1",
+    "author": "librasteve",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sciencedirect.com/science/article/abs/pii/S0927025626003587",
+    "id": "news-2707"
+  },
+  {
+    "title": "What if the AI boom goes into reverse?",
+    "summary": "Article URL: https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48487716 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48487716 Points: 1 # Comments: 0",
+    "author": "mapleoin",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/",
+    "id": "news-2706"
+  },
+  {
     "title": "We Used Agentic AI to Fix Kong Gateway's Flakiest Tests",
     "summary": "Article URL: https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests Comments URL: https://news.ycombinator.com/item?id=48485434 Points: 3 # Comments: 0",
     "content": "Article URL: https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests Comments URL: https://news.ycombinator.com/item?id=48485434 Points: 3 # Comments: 0",
