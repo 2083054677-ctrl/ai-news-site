@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI Prepping for On-Prem Product?",
+    "summary": "Article URL: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/ Comments URL: https://news.ycombinator.com/item?id=48497260 Points: 9 # Comments: 4",
+    "content": "Article URL: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/ Comments URL: https://news.ycombinator.com/item?id=48497260 Points: 9 # Comments: 4",
+    "author": "bdroopy",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
+    "id": "news-2726"
+  },
+  {
+    "title": "What Would It Look Like If the AI Bubble Popped?",
+    "summary": "Article URL: https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai Comments URL: https://news.ycombinator.com/item?id=48497288 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai Comments URL: https://news.ycombinator.com/item?id=48497288 Points: 2 # Comments: 1",
+    "author": "chmaynard",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai",
+    "id": "news-2725"
+  },
+  {
+    "title": "How recent employment changes vary with work experience and exposure to AI",
+    "summary": "Article URL: https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/ Comments URL: https://news.ycombinator.com/item?id=48497571 Points: 2 # Comments: 0",
+    "content": "Article URL: https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/ Comments URL: https://news.ycombinator.com/item?id=48497571 Points: 2 # Comments: 0",
+    "author": "jay_kyburz",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/",
+    "id": "news-2724"
+  },
+  {
+    "title": "Show HN: OpenDream – local-first memory with dreaming for AI agents",
+    "summary": "Article URL: https://github.com/pylit-ai/opendream Comments URL: https://news.ycombinator.com/item?id=48497602 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/pylit-ai/opendream Comments URL: https://news.ycombinator.com/item?id=48497602 Points: 1 # Comments: 0",
+    "author": "planetceres",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/pylit-ai/opendream",
+    "id": "news-2723"
+  },
+  {
+    "title": "HN: Claudectl – A workspace manager for Claude Code",
+    "summary": "Article URL: https://github.com/babarmuhammad/claudectl Comments URL: https://news.ycombinator.com/item?id=48497618 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/babarmuhammad/claudectl Comments URL: https://news.ycombinator.com/item?id=48497618 Points: 1 # Comments: 0",
+    "author": "babarmuhammad1",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/babarmuhammad/claudectl",
+    "id": "news-2722"
+  },
+  {
     "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing",
     "summary": "OpenAI is weighing token price cuts to win customers from Anthropic, the Wall Street Journal reports. The article OpenAI vs. Anthropic: A price war over API tokens is brewing appeared first on The Dec",
     "content": "OpenAI is weighing token price cuts to win customers from Anthropic, the Wall Street Journal reports. The article OpenAI vs. Anthropic: A price war over API tokens is brewing appeared first on The Decoder.",
