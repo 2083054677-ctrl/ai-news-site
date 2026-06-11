@@ -1,5 +1,70 @@
 [
   {
+    "title": "We Used Agentic AI to Fix Kong Gateway's Flakiest Tests",
+    "summary": "Article URL: https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests Comments URL: https://news.ycombinator.com/item?id=48485434 Points: 3 # Comments: 0",
+    "content": "Article URL: https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests Comments URL: https://news.ycombinator.com/item?id=48485434 Points: 3 # Comments: 0",
+    "author": "dndx",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests",
+    "id": "news-2705"
+  },
+  {
+    "title": "Scarcity is driving AI innovation outside Silicon Valley",
+    "summary": "Article URL: https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=48485558 Points: 1 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=48485558 Points: 1 # Comments: 0",
+    "author": "colinprince",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/",
+    "id": "news-2704"
+  },
+  {
+    "title": "Initial impressions of Claude Fable 5",
+    "summary": "Article URL: https://simonwillison.net/2026/Jun/9/claude-fable-5/ Comments URL: https://news.ycombinator.com/item?id=48485598 Points: 1 # Comments: 0",
+    "content": "Article URL: https://simonwillison.net/2026/Jun/9/claude-fable-5/ Comments URL: https://news.ycombinator.com/item?id=48485598 Points: 1 # Comments: 0",
+    "author": "gillytech",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+    "id": "news-2703"
+  },
+  {
+    "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic",
+    "summary": "Article URL: https://www.reuters.com/technology/openai-considers-drastic-price-cuts-anticipating-war-users-with-anthropic-wsj-2026-06-11/ Comments URL: https://news.ycombinator.com/item?id=48485673 Po",
+    "content": "Article URL: https://www.reuters.com/technology/openai-considers-drastic-price-cuts-anticipating-war-users-with-anthropic-wsj-2026-06-11/ Comments URL: https://news.ycombinator.com/item?id=48485673 Points: 3 # Comments: 0",
+    "author": "theanonymousone",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/technology/openai-considers-drastic-price-cuts-anticipating-war-users-with-anthropic-wsj-2026-06-11/",
+    "id": "news-2702"
+  },
+  {
+    "title": "How to build a landing page with AI, no code [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=06azxD5FOo8 Comments URL: https://news.ycombinator.com/item?id=48485688 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=06azxD5FOo8 Comments URL: https://news.ycombinator.com/item?id=48485688 Points: 1 # Comments: 0",
+    "author": "nongquy",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=06azxD5FOo8",
+    "id": "news-2701"
+  },
+  {
     "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches",
     "summary": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no spec",
     "content": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no specialized knowledge. Eight complete attack chains were finished before Microsoft's auto-updates had reached a single device. The old patch rhythm is obsolete, Anthropic argues. The article Anthropic study shows AI needs hours, not weeks, to build exploits from security patches appeared first on The De",
