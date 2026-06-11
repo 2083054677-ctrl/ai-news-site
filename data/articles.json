@@ -1,5 +1,97 @@
 [
   {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "summary": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/torch-mlp-fusion",
+    "id": "news-2718"
+  },
+  {
+    "title": "Dario Amodei's new essay reads like a Cold War playbook for the AI age",
+    "summary": "Anthropic publishes a sweeping essay and two policy frameworks. The company calls for binding audits of frontier models and paints a picture of AI as a strategic weapon wielded by nation-states. The a",
+    "content": "Anthropic publishes a sweeping essay and two policy frameworks. The company calls for binding audits of frontier models and paints a picture of AI as a strategic weapon wielded by nation-states. The article Dario Amodei's new essay reads like a Cold War playbook for the AI age appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/",
+    "id": "news-2717"
+  },
+  {
+    "title": "Show HN: Lumen–free Real-time LLM token and cost monitor",
+    "summary": "Article URL: https://github.com/DataGrout/lumen Comments URL: https://news.ycombinator.com/item?id=48490139 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/DataGrout/lumen Comments URL: https://news.ycombinator.com/item?id=48490139 Points: 1 # Comments: 0",
+    "author": "Datagrout",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/DataGrout/lumen",
+    "id": "news-2716"
+  },
+  {
+    "title": "Show HN: Flightdeck – self-hosted observability and control for AI agents",
+    "summary": "Article URL: https://github.com/flightdeckhq/flightdeck Comments URL: https://news.ycombinator.com/item?id=48490231 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/flightdeckhq/flightdeck Comments URL: https://news.ycombinator.com/item?id=48490231 Points: 1 # Comments: 0",
+    "author": "pykul",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/flightdeckhq/flightdeck",
+    "id": "news-2715"
+  },
+  {
+    "title": "AI Must Embrace Specialization via Superhuman Adaptable Intelligence",
+    "summary": "Article URL: https://arxiv.org/abs/2602.23643 Comments URL: https://news.ycombinator.com/item?id=48490272 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2602.23643 Comments URL: https://news.ycombinator.com/item?id=48490272 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2602.23643",
+    "id": "news-2714"
+  },
+  {
+    "title": "Hacking Salesforce Sites with an LLM Agent",
+    "summary": "Article URL: https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent Comments URL: https://news.ycombinator.com/item?id=48490289 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent Comments URL: https://news.ycombinator.com/item?id=48490289 Points: 1 # Comments: 0",
+    "author": "llmacpu",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reco.ai/blog/hacking-salesforce-sites-with-an-llm-agent",
+    "id": "news-2713"
+  },
+  {
+    "title": "Lovable's AI built a 100% accessible site – or did it?",
+    "summary": "Article URL: https://axesslab.com/lovable/ Comments URL: https://news.ycombinator.com/item?id=48490304 Points: 1 # Comments: 0",
+    "content": "Article URL: https://axesslab.com/lovable/ Comments URL: https://news.ycombinator.com/item?id=48490304 Points: 1 # Comments: 0",
+    "author": "robin_reala",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://axesslab.com/lovable/",
+    "id": "news-2712"
+  },
+  {
     "title": "Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers",
     "summary": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits \"wrong tradeoff\" after ",
     "content": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers appeared first on The Decoder.",
