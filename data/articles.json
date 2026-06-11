@@ -1,5 +1,44 @@
 [
   {
+    "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing",
+    "summary": "OpenAI is weighing token price cuts to win customers from Anthropic, the Wall Street Journal reports. The article OpenAI vs. Anthropic: A price war over API tokens is brewing appeared first on The Dec",
+    "content": "OpenAI is weighing token price cuts to win customers from Anthropic, the Wall Street Journal reports. The article OpenAI vs. Anthropic: A price war over API tokens is brewing appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-vs-anthropic-a-price-war-over-api-tokens-is-brewing/",
+    "id": "news-2721"
+  },
+  {
+    "title": "Free Deezer tool lets users on any streaming service check their playlists for AI music",
+    "summary": "Deezer now offers a free AI music detector that lets users on any major streaming platform check whether AI-generated songs are hiding in their playlists. The article Free Deezer tool lets users on an",
+    "content": "Deezer now offers a free AI music detector that lets users on any major streaming platform check whether AI-generated songs are hiding in their playlists. The article Free Deezer tool lets users on any streaming service check their playlists for AI music appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/free-deezer-tool-lets-users-on-any-streaming-service-check-their-playlists-for-ai-music/",
+    "id": "news-2720"
+  },
+  {
+    "title": "Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation",
+    "summary": "Jeff Bezos' AI startup Prometheus has closed a $12 billion funding round at a $41 billion valuation. The company launched just last November with $6.2 billion in seed funding. No products yet, because",
+    "content": "Jeff Bezos' AI startup Prometheus has closed a $12 billion funding round at a $41 billion valuation. The company launched just last November with $6.2 billion in seed funding. No products yet, because Bezos says sharing details would be \"premature.\" The article Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/jeff-bezos-ai-startup-prometheus-closes-12-billion-round-at-a-41-billion-valuation/",
+    "id": "news-2719"
+  },
+  {
     "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
     "summary": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
     "content": "",
