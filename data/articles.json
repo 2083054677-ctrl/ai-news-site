@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks",
+    "summary": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development environments for software development. The ar",
+    "content": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development environments for software development. The article OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks/",
+    "id": "news-2743"
+  },
+  {
+    "title": "The AI industry's platform trap is starting to look a lot like Microsoft's",
+    "summary": "Anthropic is throttling its new Mythos model for certain tasks while building apps that directly compete with its largest customers. Customers, partners, and investors are pushing back. The article Th",
+    "content": "Anthropic is throttling its new Mythos model for certain tasks while building apps that directly compete with its largest customers. Customers, partners, and investors are pushing back. The article The AI industry's platform trap is starting to look a lot like Microsoft's appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts/",
+    "id": "news-2742"
+  },
+  {
+    "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/ Comments URL: https://news.ycombinator.com/item?id=48503214 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/ Comments URL: https://news.ycombinator.com/item?id=48503214 Points: 2 # Comments: 0",
+    "author": "prawn",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+    "id": "news-2741"
+  },
+  {
+    "title": "The last line of defense must not be AI",
+    "summary": "Article URL: https://worklifenotes.com/2026/06/12/the-last-line-of-defense-must-not-be-ai/ Comments URL: https://news.ycombinator.com/item?id=48503245 Points: 2 # Comments: 1",
+    "content": "Article URL: https://worklifenotes.com/2026/06/12/the-last-line-of-defense-must-not-be-ai/ Comments URL: https://news.ycombinator.com/item?id=48503245 Points: 2 # Comments: 1",
+    "author": "taleodor",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://worklifenotes.com/2026/06/12/the-last-line-of-defense-must-not-be-ai/",
+    "id": "news-2740"
+  },
+  {
+    "title": "If you use Claude to harm Anthropic's reputation, you will be sued",
+    "summary": "Article URL: https://twitter.com/RnaudBertrand/status/2064892380701237647 Comments URL: https://news.ycombinator.com/item?id=48503306 Points: 4 # Comments: 0",
+    "content": "Article URL: https://twitter.com/RnaudBertrand/status/2064892380701237647 Comments URL: https://news.ycombinator.com/item?id=48503306 Points: 4 # Comments: 0",
+    "author": "jimjin",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/RnaudBertrand/status/2064892380701237647",
+    "id": "news-2739"
+  },
+  {
+    "title": "The rise of 'AI slop ' accusations is becoming a new form of gatekeeping",
+    "summary": "Article URL: https://www.unite.ai/the-rise-of-ai-slop-accusations-is-becoming-a-new-form-of-gatekeeping/ Comments URL: https://news.ycombinator.com/item?id=48503344 Points: 1 # Comments: 3",
+    "content": "Article URL: https://www.unite.ai/the-rise-of-ai-slop-accusations-is-becoming-a-new-form-of-gatekeeping/ Comments URL: https://news.ycombinator.com/item?id=48503344 Points: 1 # Comments: 3",
+    "author": "50kIters",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.unite.ai/the-rise-of-ai-slop-accusations-is-becoming-a-new-form-of-gatekeeping/",
+    "id": "news-2738"
+  },
+  {
+    "title": "The Future of Work and AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9 Comments URL: https://news.ycombinator.com/item?id=48503443 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9 Comments URL: https://news.ycombinator.com/item?id=48503443 Points: 1 # Comments: 0",
+    "author": "RickJWagner",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9",
+    "id": "news-2737"
+  },
+  {
     "title": "Europe 2031 – What getting AI wrong means for us",
     "summary": "Article URL: https://europe2031.ai/ Comments URL: https://news.ycombinator.com/item?id=48501175 Points: 2 # Comments: 0",
     "content": "Article URL: https://europe2031.ai/ Comments URL: https://news.ycombinator.com/item?id=48501175 Points: 2 # Comments: 0",
