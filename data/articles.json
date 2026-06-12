@@ -1,5 +1,70 @@
 [
   {
+    "title": "Chaining LLM and web bugs to Admin",
+    "summary": "Article URL: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html Comments URL: https://news.ycombinator.com/item?id=48498943 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html Comments URL: https://news.ycombinator.com/item?id=48498943 Points: 1 # Comments: 0",
+    "author": "ChicknNuggt",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html",
+    "id": "news-2731"
+  },
+  {
+    "title": "Show HN: Approve an AI agent's wire with Face ID,then watch a forged one fail",
+    "summary": "Article URL: https://www.emiliaprotocol.ai/try Comments URL: https://news.ycombinator.com/item?id=48498958 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.emiliaprotocol.ai/try Comments URL: https://news.ycombinator.com/item?id=48498958 Points: 2 # Comments: 0",
+    "author": "EmiliaStar",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.emiliaprotocol.ai/try",
+    "id": "news-2730"
+  },
+  {
+    "title": "Show HN: A Claude Code statusline that shows live World Cup scores",
+    "summary": "Hey HN, I built this a side project because I'm a soccer fan that has been vibing and tokenmaxxing with Claude Code maybe too much. So, the World Cup is here and it was the perfect excuse to build and",
+    "content": "Hey HN, I built this a side project because I'm a soccer fan that has been vibing and tokenmaxxing with Claude Code maybe too much. So, the World Cup is here and it was the perfect excuse to build and ship something from 0 to 1. Enter Claudinho, a CLI and MCP that puts World Cup scores on your terminal. No signup, no account, no data collection.The components are: - status line in Claude Code with live scores rendered always from cache, no polling. - userPromptSubmit hook so Claude gets score up",
+    "author": "arturogarrido",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/arturogarrido/claudinho",
+    "id": "news-2729"
+  },
+  {
+    "title": "Gravy: Get paid for your Claude's idle time",
+    "summary": "Article URL: https://gravycli.xyz Comments URL: https://news.ycombinator.com/item?id=48499212 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gravycli.xyz Comments URL: https://news.ycombinator.com/item?id=48499212 Points: 1 # Comments: 0",
+    "author": "dvptp",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gravycli.xyz",
+    "id": "news-2728"
+  },
+  {
+    "title": "AI isn't making developers more productive – it's making them busier",
+    "summary": "Article URL: https://leaddev.com/ai/ai-isnt-making-developers-more-productive-its-making-them-busier Comments URL: https://news.ycombinator.com/item?id=48499272 Points: 1 # Comments: 0",
+    "content": "Article URL: https://leaddev.com/ai/ai-isnt-making-developers-more-productive-its-making-them-busier Comments URL: https://news.ycombinator.com/item?id=48499272 Points: 1 # Comments: 0",
+    "author": "nreece",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://leaddev.com/ai/ai-isnt-making-developers-more-productive-its-making-them-busier",
+    "id": "news-2727"
+  },
+  {
     "title": "OpenAI Prepping for On-Prem Product?",
     "summary": "Article URL: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/ Comments URL: https://news.ycombinator.com/item?id=48497260 Points: 9 # Comments: 4",
     "content": "Article URL: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/ Comments URL: https://news.ycombinator.com/item?id=48497260 Points: 9 # Comments: 4",
