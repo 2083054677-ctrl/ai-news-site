@@ -1,5 +1,70 @@
 [
   {
+    "title": "Europe 2031 – What getting AI wrong means for us",
+    "summary": "Article URL: https://europe2031.ai/ Comments URL: https://news.ycombinator.com/item?id=48501175 Points: 2 # Comments: 0",
+    "content": "Article URL: https://europe2031.ai/ Comments URL: https://news.ycombinator.com/item?id=48501175 Points: 2 # Comments: 0",
+    "author": "sarusso",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://europe2031.ai/",
+    "id": "news-2736"
+  },
+  {
+    "title": "Pokémon Go data trained AI that could assist military drones in war zones",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones Comments URL: https://news.ycombinator.com/item?id=48501179 Po",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones Comments URL: https://news.ycombinator.com/item?id=48501179 Points: 2 # Comments: 0",
+    "author": "beardyw",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
+    "id": "news-2735"
+  },
+  {
+    "title": "When the Watcher Became the Confidant – How AI Befriends and Infers Our Children",
+    "summary": "Article URL: https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant Comments URL: https://news.ycombinator.com/item?id=48501187 Points: 1 # Comments: 0",
+    "content": "Article URL: https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant Comments URL: https://news.ycombinator.com/item?id=48501187 Points: 1 # Comments: 0",
+    "author": "BlinkyPT",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant",
+    "id": "news-2734"
+  },
+  {
+    "title": "Auto mode for pi.dev. An LLM reviews your coding agent's commands",
+    "summary": "Article URL: https://github.com/vinzenzu/pi-auto-reviewer Comments URL: https://news.ycombinator.com/item?id=48501272 Points: 1 # Comments: 2",
+    "content": "Article URL: https://github.com/vinzenzu/pi-auto-reviewer Comments URL: https://news.ycombinator.com/item?id=48501272 Points: 1 # Comments: 2",
+    "author": "vinzenzu",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vinzenzu/pi-auto-reviewer",
+    "id": "news-2733"
+  },
+  {
+    "title": "KPMG report on benefits of AI contained AI hallucinations",
+    "summary": "Article URL: https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f Comments URL: https://news.ycombinator.com/item?id=48501330 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f Comments URL: https://news.ycombinator.com/item?id=48501330 Points: 1 # Comments: 1",
+    "author": "calcifer",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f",
+    "id": "news-2732"
+  },
+  {
     "title": "Chaining LLM and web bugs to Admin",
     "summary": "Article URL: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html Comments URL: https://news.ycombinator.com/item?id=48498943 Points: 1 # Comments: 0",
     "content": "Article URL: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html Comments URL: https://news.ycombinator.com/item?id=48498943 Points: 1 # Comments: 0",
