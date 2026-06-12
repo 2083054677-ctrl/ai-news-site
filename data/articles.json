@@ -1,5 +1,70 @@
 [
   {
+    "title": "I created an AI agent that finds investors that and does reachouts to investors",
+    "summary": "I created a CLI tool that does understands the app i'm building, finds investors with public facing emails and reaches out to them. tested this week. 43 emails sent, 6 replies. hopefully that's a good",
+    "content": "I created a CLI tool that does understands the app i'm building, finds investors with public facing emails and reaches out to them. tested this week. 43 emails sent, 6 replies. hopefully that's a good reply ratio of replies. idk the open rate tho. didn't track that.I'm trying to bring it to market. anyone interseted in trying it out? be my beta tester Comments URL: https://news.ycombinator.com/item?id=48509761 Points: 1 # Comments: 0",
+    "author": "west_subject",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48509761",
+    "id": "news-2764"
+  },
+  {
+    "title": "AI Will Save Prediction Markets",
+    "summary": "Article URL: https://twitter.com/0xjaniak/status/2058907417161646186 Comments URL: https://news.ycombinator.com/item?id=48510068 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/0xjaniak/status/2058907417161646186 Comments URL: https://news.ycombinator.com/item?id=48510068 Points: 2 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/0xjaniak/status/2058907417161646186",
+    "id": "news-2763"
+  },
+  {
+    "title": "Why Does AI Love Writing About Lighthouse Keepers?",
+    "summary": "Article URL: https://www.unite.ai/why-does-ai-love-writing-about-lighthouse-keepers/ Comments URL: https://news.ycombinator.com/item?id=48510318 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.unite.ai/why-does-ai-love-writing-about-lighthouse-keepers/ Comments URL: https://news.ycombinator.com/item?id=48510318 Points: 2 # Comments: 0",
+    "author": "foliveira",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.unite.ai/why-does-ai-love-writing-about-lighthouse-keepers/",
+    "id": "news-2762"
+  },
+  {
+    "title": "AI Doesn't Just Save Time. It Removes the Pauses",
+    "summary": "Article URL: https://medium.com/@barhaim/ai-doesnt-just-save-time-it-removes-the-pauses-41c1bdd7e0a1 Comments URL: https://news.ycombinator.com/item?id=48510354 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/@barhaim/ai-doesnt-just-save-time-it-removes-the-pauses-41c1bdd7e0a1 Comments URL: https://news.ycombinator.com/item?id=48510354 Points: 1 # Comments: 0",
+    "author": "bignet",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@barhaim/ai-doesnt-just-save-time-it-removes-the-pauses-41c1bdd7e0a1",
+    "id": "news-2761"
+  },
+  {
+    "title": "Ask HN: How are you designing human review for production AI agents?",
+    "summary": "For people running agents in real workflows: what do you let the agent do automatically, what requires human approval, and how do you keep the review process auditable? Comments URL: https://news.ycom",
+    "content": "For people running agents in real workflows: what do you let the agent do automatically, what requires human approval, and how do you keep the review process auditable? Comments URL: https://news.ycombinator.com/item?id=48510369 Points: 2 # Comments: 1",
+    "author": "willXare",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48510369",
+    "id": "news-2760"
+  },
+  {
     "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance",
     "summary": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5.7 percent at double the token price. Sa",
     "content": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5.7 percent at double the token price. Safety filters with fallback routing push costs even higher. The article Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance appeared first on The Decoder.",
