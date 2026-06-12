@@ -1,5 +1,109 @@
 [
   {
+    "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance",
+    "summary": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5.7 percent at double the token price. Sa",
+    "content": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5.7 percent at double the token price. Safety filters with fallback routing push costs even higher. The article Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/",
+    "id": "news-2759"
+  },
+  {
+    "title": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent",
+    "summary": "OpenAI now lets Codex users bank their rate-limit resets and trigger them manually instead of watching them expire on a fixed schedule. If you hit your usage cap mid-session, you can cash in a saved r",
+    "content": "OpenAI now lets Codex users bank their rate-limit resets and trigger them manually instead of watching them expire on a fixed schedule. If you hit your usage cap mid-session, you can cash in a saved reset right away instead of waiting. Users on the Go, Plus, Pro, and Business plans each get one free reset to start. Plus and Pro users can also invite friends to unlock extra resets. The article OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent appeared f",
+    "author": "Matthias Bastian",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/",
+    "id": "news-2758"
+  },
+  {
+    "title": "Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds",
+    "summary": "Anthropic surveyed nearly 52,000 Americans about their hopes and fears around AI. Sixty-four percent fear job losses, and 56 percent worry about losing the ability to think for themselves. Daily AI us",
+    "content": "Anthropic surveyed nearly 52,000 Americans about their hopes and fears around AI. Sixty-four percent fear job losses, and 56 percent worry about losing the ability to think for themselves. Daily AI users are far less concerned. Still, most people reject AI in their own workplace, even for tasks they think it can handle. The article Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/",
+    "id": "news-2757"
+  },
+  {
+    "title": "Cortex – Agent-Native Knowledge OS on Markdown (Karpathy's LLM Wiki, via MCP)",
+    "summary": "Article URL: https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault Comments URL: https://news.ycombinator.com/item?id=48508143 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault Comments URL: https://news.ycombinator.com/item?id=48508143 Points: 2 # Comments: 0",
+    "author": "jiekepan",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
+    "id": "news-2756"
+  },
+  {
+    "title": "We Can Live with AI, but Not Like This",
+    "summary": "Article URL: https://atroxclarus499795.substack.com/p/we-can-live-with-ai-but-not-like Comments URL: https://news.ycombinator.com/item?id=48508398 Points: 3 # Comments: 0",
+    "content": "Article URL: https://atroxclarus499795.substack.com/p/we-can-live-with-ai-but-not-like Comments URL: https://news.ycombinator.com/item?id=48508398 Points: 3 # Comments: 0",
+    "author": "Poppytam",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://atroxclarus499795.substack.com/p/we-can-live-with-ai-but-not-like",
+    "id": "news-2755"
+  },
+  {
+    "title": "The 98% Problem: A Survey of Harness Engineering for AI Agents",
+    "summary": "Article URL: https://labs.beconfident.app/papers/harness-engineering-survey Comments URL: https://news.ycombinator.com/item?id=48508618 Points: 4 # Comments: 0",
+    "content": "Article URL: https://labs.beconfident.app/papers/harness-engineering-survey Comments URL: https://news.ycombinator.com/item?id=48508618 Points: 4 # Comments: 0",
+    "author": "gdss",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://labs.beconfident.app/papers/harness-engineering-survey",
+    "id": "news-2754"
+  },
+  {
+    "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
+    "summary": "Article URL: https://github.com/jacobthomasmichael/GatekeeperAI/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=48508622 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/jacobthomasmichael/GatekeeperAI/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=48508622 Points: 1 # Comments: 0",
+    "author": "jacob_thomas503",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/jacobthomasmichael/GatekeeperAI/blob/main/README.md",
+    "id": "news-2753"
+  },
+  {
+    "title": "General purpose LLMs outperform specialized clinical AI on medical benchmarks",
+    "summary": "Article URL: https://www.nature.com/articles/s41591-026-04431-5 Comments URL: https://news.ycombinator.com/item?id=48508736 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nature.com/articles/s41591-026-04431-5 Comments URL: https://news.ycombinator.com/item?id=48508736 Points: 1 # Comments: 0",
+    "author": "dnw",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nature.com/articles/s41591-026-04431-5",
+    "id": "news-2752"
+  },
+  {
     "title": "olmo-eval: An evaluation workbench for the model development loop",
     "summary": "olmo-eval: An evaluation workbench for the model development loop",
     "content": "",
