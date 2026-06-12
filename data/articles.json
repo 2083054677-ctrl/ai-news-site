@@ -1,5 +1,110 @@
 [
   {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "summary": "olmo-eval: An evaluation workbench for the model development loop",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/olmo-eval",
+    "id": "news-2751"
+  },
+  {
+    "title": "Mistral AI seeks 3 billion euros to fund its European AI push",
+    "summary": "French AI startup Mistral AI is negotiating a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros. The article Mistral AI seeks 3 billion euros to fund its Eur",
+    "content": "French AI startup Mistral AI is negotiating a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros. The article Mistral AI seeks 3 billion euros to fund its European AI push appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-ai-seeks-3-billion-euros-to-fund-its-european-ai-push/",
+    "id": "news-2750"
+  },
+  {
+    "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters",
+    "summary": "Within days of each other, Google and OpenAI separately exposed operations allegedly originating in China that use AI for fraud and covert influence campaigns. Both target US infrastructure and politi",
+    "content": "Within days of each other, Google and OpenAI separately exposed operations allegedly originating in China that use AI for fraud and covert influence campaigns. Both target US infrastructure and political debates. The article Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/",
+    "id": "news-2749"
+  },
+  {
+    "title": "White House negotiating preemption of state AI laws in exchange for KOSA & more",
+    "summary": "Article URL: https://thehill.com/policy/technology/5916062-artificial-intelligence-federal-preemption-negotiations/ Comments URL: https://news.ycombinator.com/item?id=48506024 Points: 4 # Comments: 1",
+    "content": "Article URL: https://thehill.com/policy/technology/5916062-artificial-intelligence-federal-preemption-negotiations/ Comments URL: https://news.ycombinator.com/item?id=48506024 Points: 4 # Comments: 1",
+    "author": "iamnothere",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thehill.com/policy/technology/5916062-artificial-intelligence-federal-preemption-negotiations/",
+    "id": "news-2748"
+  },
+  {
+    "title": "IdleAds – Ads in AI's \"thinking \" moment, devs keep 70%+",
+    "summary": "Article URL: https://IdleAds.dev Comments URL: https://news.ycombinator.com/item?id=48506060 Points: 1 # Comments: 1",
+    "content": "Article URL: https://IdleAds.dev Comments URL: https://news.ycombinator.com/item?id=48506060 Points: 1 # Comments: 1",
+    "author": "codepeekr",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://IdleAds.dev",
+    "id": "news-2747"
+  },
+  {
+    "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit Comments URL: https://news.ycombinator.com/item?id=48506155 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit Comments URL: https://news.ycombinator.com/item?id=48506155 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+    "id": "news-2746"
+  },
+  {
+    "title": "An AI agent that must produce evidence before it can say \"done\"",
+    "summary": "Article URL: https://github.com/Aspct3434/Distill-Agent Comments URL: https://news.ycombinator.com/item?id=48506215 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Aspct3434/Distill-Agent Comments URL: https://news.ycombinator.com/item?id=48506215 Points: 1 # Comments: 0",
+    "author": "aspctpro",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Aspct3434/Distill-Agent",
+    "id": "news-2745"
+  },
+  {
+    "title": "Stocks Face Rising Risk with Mega AI Deals Ready to Flood Market",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers Comments URL: https://news.ycombinator.com/item?id=48506268 Points: 1 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers Comments URL: https://news.ycombinator.com/item?id=48506268 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-06-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers",
+    "id": "news-2744"
+  },
+  {
     "title": "OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks",
     "summary": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development environments for software development. The ar",
     "content": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development environments for software development. The article OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks appeared first on The Decoder.",
