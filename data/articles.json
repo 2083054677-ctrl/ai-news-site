@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Fable 5 vs. GPT-5.5: Better Planning, Similar Execution",
+    "summary": "Article URL: https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5 Comments URL: https://news.ycombinator.com/item?id=48517973 Points: 5 # Comments: 0",
+    "content": "Article URL: https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5 Comments URL: https://news.ycombinator.com/item?id=48517973 Points: 5 # Comments: 0",
+    "author": "justiceforsaas",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5",
+    "id": "news-2790"
+  },
+  {
+    "title": "I audited 162 agent-written PRs – 27% were the AI fixing itself",
+    "summary": "Article URL: https://github.com/commensa-ai/commensa-audit Comments URL: https://news.ycombinator.com/item?id=48517988 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/commensa-ai/commensa-audit Comments URL: https://news.ycombinator.com/item?id=48517988 Points: 3 # Comments: 1",
+    "author": "aimattb",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/commensa-ai/commensa-audit",
+    "id": "news-2789"
+  },
+  {
+    "title": "Learning Infrastructure for AI Agents",
+    "summary": "Article URL: https://getagentloop.io/ Comments URL: https://news.ycombinator.com/item?id=48518018 Points: 4 # Comments: 0",
+    "content": "Article URL: https://getagentloop.io/ Comments URL: https://news.ycombinator.com/item?id=48518018 Points: 4 # Comments: 0",
+    "author": "martinembon",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://getagentloop.io/",
+    "id": "news-2788"
+  },
+  {
+    "title": "The Pulling of Mythos Offline: Why AI KYC Will Fail to Stop Cybercriminals",
+    "summary": "Article URL: https://www.encurtador.dev/redirecionamento/71b29bo Comments URL: https://news.ycombinator.com/item?id=48518168 Points: 6 # Comments: 0",
+    "content": "Article URL: https://www.encurtador.dev/redirecionamento/71b29bo Comments URL: https://news.ycombinator.com/item?id=48518168 Points: 6 # Comments: 0",
+    "author": "zbangrec",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.encurtador.dev/redirecionamento/71b29bo",
+    "id": "news-2787"
+  },
+  {
+    "title": "Mythos Proves AI Safety Can No Longer Live Inside the Model",
+    "summary": "Article URL: https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model Comments URL: https://news.ycombinator.com/item?id=48518185 Points: 2 # Comments: 0",
+    "content": "Article URL: https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model Comments URL: https://news.ycombinator.com/item?id=48518185 Points: 2 # Comments: 0",
+    "author": "edf13",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model",
+    "id": "news-2786"
+  },
+  {
     "title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file",
     "summary": "Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file i",
     "content": "Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file is enough to boost GPT-5.5 by about 23 points on procedural tasks, and the same file transfers across models and agent environments like Codex and Claude Code. The article Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file appeared first on The Decoder.",
