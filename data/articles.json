@@ -1,5 +1,109 @@
 [
   {
+    "title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file",
+    "summary": "Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file i",
+    "content": "Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file is enough to boost GPT-5.5 by about 23 points on procedural tasks, and the same file transfers across models and agent environments like Codex and Claude Code. The article Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
+    "id": "news-2785"
+  },
+  {
+    "title": "Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin",
+    "summary": "Google Research's Gemini-SQL2 turns natural language into executable SQL queries. Built on Gemini 3.1 Pro, it tops the BIRD benchmark at 80.04 percent accuracy, well ahead of OpenAI and Anthropic. Goo",
+    "content": "Google Research's Gemini-SQL2 turns natural language into executable SQL queries. Built on Gemini 3.1 Pro, it tops the BIRD benchmark at 80.04 percent accuracy, well ahead of OpenAI and Anthropic. Google says the technology could improve natural language features across its data services. The article Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
+    "id": "news-2784"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\"",
+    "summary": "Microsoft CEO Satya Nadella is warning against \"token-maxing,\" throwing the most powerful AI models at every problem. Frontier models shouldn't be wasted on everyday tasks, he says. The marginal cost ",
+    "content": "Microsoft CEO Satya Nadella is warning against \"token-maxing,\" throwing the most powerful AI models at every problem. Frontier models shouldn't be wasted on everyday tasks, he says. The marginal cost of productivity gains has to match the token cost. Still, Nadella admits, \"I'm like a token-maxer too. So it is addictive.\" The article Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
+    "id": "news-2783"
+  },
+  {
+    "title": "AI can control your Desktop",
+    "summary": "Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=48517079 Points: 2 # Comments: 0",
+    "content": "Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=48517079 Points: 2 # Comments: 0",
+    "author": "AmDab",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://clawdcursor.com",
+    "id": "news-2782"
+  },
+  {
+    "title": "Making our AI coding agent the only way we build our product",
+    "summary": "Article URL: https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle Comments URL: https://news.ycombinator.com/item?id=48517164 Points: 1 # Comments: 0",
+    "content": "Article URL: https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle Comments URL: https://news.ycombinator.com/item?id=48517164 Points: 1 # Comments: 0",
+    "author": "nurdtechie98",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle",
+    "id": "news-2781"
+  },
+  {
+    "title": "Has AI Killed How-To Nonfiction?",
+    "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48517169 Points: 2 # Comments: 0",
+    "content": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48517169 Points: 2 # Comments: 0",
+    "author": "Michelangelo11",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "id": "news-2780"
+  },
+  {
+    "title": "Pelican, or pelican't? A hint at Claude evals",
+    "summary": "Article URL: https://noperator.dev/posts/pelicant/ Comments URL: https://news.ycombinator.com/item?id=48517236 Points: 1 # Comments: 0",
+    "content": "Article URL: https://noperator.dev/posts/pelicant/ Comments URL: https://news.ycombinator.com/item?id=48517236 Points: 1 # Comments: 0",
+    "author": "noperator",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://noperator.dev/posts/pelicant/",
+    "id": "news-2779"
+  },
+  {
+    "title": "AI Breaks the Monopoly of Elegant Software",
+    "summary": "Article URL: https://tselai.com/ai-elegant-software-monopoly Comments URL: https://news.ycombinator.com/item?id=48517272 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tselai.com/ai-elegant-software-monopoly Comments URL: https://news.ycombinator.com/item?id=48517272 Points: 1 # Comments: 0",
+    "author": "fforflo",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tselai.com/ai-elegant-software-monopoly",
+    "id": "news-2778"
+  },
+  {
     "title": "US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide",
     "summary": "The US government has ordered Anthropic to shut down global access to Fable 5 and Mythos 5, citing alleged jailbreak risks. Anthropic is complying but pushing back publicly: the vulnerabilities are mi",
     "content": "The US government has ordered Anthropic to shut down global access to Fable 5 and Mythos 5, citing alleged jailbreak risks. Anthropic is complying but pushing back publicly: the vulnerabilities are minor and exist in competing models like GPT-5.5, the company says, an ironic turn after the company spent months hyping the cybersecurity risks of its own Mythos class. Anthropic warns the move could set a precedent that halts all frontier deployments. The article US government forces Anthropic to di",
