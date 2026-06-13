@@ -1,5 +1,57 @@
 [
   {
+    "title": "Engram: Offline MCP memory server for AI coding tools to share memory",
+    "summary": "Article URL: https://github.com/dgr8akki/engram Comments URL: https://news.ycombinator.com/item?id=48521226 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/dgr8akki/engram Comments URL: https://news.ycombinator.com/item?id=48521226 Points: 2 # Comments: 0",
+    "author": "dgr8akki",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dgr8akki/engram",
+    "id": "news-2800"
+  },
+  {
+    "title": "New Claude Opus 4.6, Stock Sell-Off and Super Bowl Ads",
+    "summary": "Article URL: https://cmpld.ai/issues/004/ Comments URL: https://news.ycombinator.com/item?id=48521244 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cmpld.ai/issues/004/ Comments URL: https://news.ycombinator.com/item?id=48521244 Points: 1 # Comments: 0",
+    "author": "mantcz",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cmpld.ai/issues/004/",
+    "id": "news-2799"
+  },
+  {
+    "title": "Andy's Laws of AI in Software Engineering",
+    "summary": "Article URL: https://andymaleh.blogspot.com/2026/06/andys-laws-of-ai-in-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=48521386 Points: 1 # Comments: 0",
+    "content": "Article URL: https://andymaleh.blogspot.com/2026/06/andys-laws-of-ai-in-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=48521386 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://andymaleh.blogspot.com/2026/06/andys-laws-of-ai-in-software-engineering.html",
+    "id": "news-2798"
+  },
+  {
+    "title": "The AI Bubble Monitor",
+    "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/ Comments URL: https://news.ycombinator.com/item?id=48521426 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cepr.net/publications/ai-bubble-monitor/ Comments URL: https://news.ycombinator.com/item?id=48521426 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cepr.net/publications/ai-bubble-monitor/",
+    "id": "news-2797"
+  },
+  {
     "title": "New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds",
     "summary": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope, using nothing more than a text prompt. In a comp",
     "content": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope, using nothing more than a text prompt. In a comparative test, it cuts the error rate in half compared to previous systems. However, the approach still struggles with extremely dense objects and ambiguous terms. The article New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds appeared first on The Decode",
