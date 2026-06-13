@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenDevOps – An open-source AI agent that investigates AWS/Azure incidents",
+    "summary": "Article URL: https://github.com/AhmadHammad21/OpenDevOps Comments URL: https://news.ycombinator.com/item?id=48521685 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/AhmadHammad21/OpenDevOps Comments URL: https://news.ycombinator.com/item?id=48521685 Points: 1 # Comments: 0",
+    "author": "ahmadhammad01",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AhmadHammad21/OpenDevOps",
+    "id": "news-2805"
+  },
+  {
+    "title": "Closed AI Risks being hostile to startups",
+    "summary": "Given the history of so-called \"Open-AI\", and Anthropic's recent mention of intentionally making the model perform worse in situations. I'm more and more worried that closed AI risks being hostile to ",
+    "content": "Given the history of so-called \"Open-AI\", and Anthropic's recent mention of intentionally making the model perform worse in situations. I'm more and more worried that closed AI risks being hostile to any domain where they can potentially capture market share over. If the model detects that you are working on an application in an area that is essentially a potential competitor for these companies, the model can perform and become hostile to your work. This includes but is not limited to:- injecti",
+    "author": "nyxtom",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48521779",
+    "id": "news-2804"
+  },
+  {
+    "title": "US orders Anthropic to disable AI models for all foreign nationals",
+    "summary": "Article URL: https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals Comments URL: https://news.ycombinator.com/item?id=48521932 Points: 3 # Comment",
+    "content": "Article URL: https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals Comments URL: https://news.ycombinator.com/item?id=48521932 Points: 3 # Comments: 1",
+    "author": "untitled-now",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals",
+    "id": "news-2803"
+  },
+  {
+    "title": "LLM Token Price Index",
+    "summary": "Article URL: https://tokenpriceindex.com Comments URL: https://news.ycombinator.com/item?id=48522130 Points: 1 # Comments: 1",
+    "content": "Article URL: https://tokenpriceindex.com Comments URL: https://news.ycombinator.com/item?id=48522130 Points: 1 # Comments: 1",
+    "author": "zurtri",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tokenpriceindex.com",
+    "id": "news-2802"
+  },
+  {
+    "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cy8wppwdxl6o Comments URL: https://news.ycombinator.com/item?id=48522237 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/cy8wppwdxl6o Comments URL: https://news.ycombinator.com/item?id=48522237 Points: 2 # Comments: 0",
+    "author": "healsdata",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/cy8wppwdxl6o",
+    "id": "news-2801"
+  },
+  {
     "title": "Engram: Offline MCP memory server for AI coding tools to share memory",
     "summary": "Article URL: https://github.com/dgr8akki/engram Comments URL: https://news.ycombinator.com/item?id=48521226 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/dgr8akki/engram Comments URL: https://news.ycombinator.com/item?id=48521226 Points: 2 # Comments: 0",
