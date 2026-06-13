@@ -1,5 +1,83 @@
 [
   {
+    "title": "New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds",
+    "summary": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope, using nothing more than a text prompt. In a comp",
+    "content": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope, using nothing more than a text prompt. In a comparative test, it cuts the error rate in half compared to previous systems. However, the approach still struggles with extremely dense objects and ambiguous terms. The article New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds appeared first on The Decode",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/",
+    "id": "news-2796"
+  },
+  {
+    "title": "Convoro - Forum software for the AI Age",
+    "summary": "Article URL: https://convoro.co Comments URL: https://news.ycombinator.com/item?id=48518809 Points: 2 # Comments: 0",
+    "content": "Article URL: https://convoro.co Comments URL: https://news.ycombinator.com/item?id=48518809 Points: 2 # Comments: 0",
+    "author": "ernestdefoe",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://convoro.co",
+    "id": "news-2795"
+  },
+  {
+    "title": "The Day the US Government Shut Down the Most Powerful AI",
+    "summary": "Article URL: https://www.pentesty.co/blog/fable5-mythos5-us-government-ban-cybersecurity Comments URL: https://news.ycombinator.com/item?id=48518859 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.pentesty.co/blog/fable5-mythos5-us-government-ban-cybersecurity Comments URL: https://news.ycombinator.com/item?id=48518859 Points: 2 # Comments: 0",
+    "author": "johnzoro107",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pentesty.co/blog/fable5-mythos5-us-government-ban-cybersecurity",
+    "id": "news-2794"
+  },
+  {
+    "title": "AI Coding at Home Without Going Broke",
+    "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 19 # Comments: 6",
+    "content": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 19 # Comments: 6",
+    "author": "sbochins",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "id": "news-2793"
+  },
+  {
+    "title": "TensorSharp: Open Source Local LLM Inference Engine",
+    "summary": "Article URL: https://github.com/zhongkaifu/TensorSharp Comments URL: https://news.ycombinator.com/item?id=48519136 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/zhongkaifu/TensorSharp Comments URL: https://news.ycombinator.com/item?id=48519136 Points: 1 # Comments: 1",
+    "author": "zhongkaifu",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zhongkaifu/TensorSharp",
+    "id": "news-2792"
+  },
+  {
+    "title": "A case for AI-pragmatism – leverage cheap compute while it's here",
+    "summary": "Article URL: https://quickthoughts.ca/posts/a-case-for-pragmatism-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48519181 Points: 1 # Comments: 0",
+    "content": "Article URL: https://quickthoughts.ca/posts/a-case-for-pragmatism-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48519181 Points: 1 # Comments: 0",
+    "author": "quickthoughts",
+    "date": "2026-06-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://quickthoughts.ca/posts/a-case-for-pragmatism-in-ai/",
+    "id": "news-2791"
+  },
+  {
     "title": "Claude Fable 5 vs. GPT-5.5: Better Planning, Similar Execution",
     "summary": "Article URL: https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5 Comments URL: https://news.ycombinator.com/item?id=48517973 Points: 5 # Comments: 0",
     "content": "Article URL: https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5 Comments URL: https://news.ycombinator.com/item?id=48517973 Points: 5 # Comments: 0",
