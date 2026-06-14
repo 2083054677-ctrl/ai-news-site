@@ -1,5 +1,83 @@
 [
   {
+    "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
+    "summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graph",
+    "content": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatially consistent through long camera moves. It still can't reliably track moving objects across segments. The article Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner appeared first on The ",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+    "id": "news-2831"
+  },
+  {
+    "title": "No, everyone is not using AI for everything",
+    "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 57 # Comments: 19",
+    "content": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 57 # Comments: 19",
+    "author": "yegg",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "id": "news-2830"
+  },
+  {
+    "title": "Cloud-based LLM gold rush is ending",
+    "summary": "Article URL: https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo Comments URL: https://news.ycombinator.com/item?id=48527817 Points: 18 # Comments: 2",
+    "content": "Article URL: https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo Comments URL: https://news.ycombinator.com/item?id=48527817 Points: 18 # Comments: 2",
+    "author": "andrewstetsenko",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo",
+    "id": "news-2829"
+  },
+  {
+    "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+    "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 3 # Comments: 0",
+    "author": "mellosouls",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/DietrichGebert/ponytail",
+    "id": "news-2828"
+  },
+  {
+    "title": "'AI will free us': Javier Milei's plan for Argentina",
+    "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/13/javier-mileis-plan-let-ai-led-companies-run-riot-argentina/ Comments URL: https://news.ycombinator.com/item?id=48528215 Points: 3 # Comment",
+    "content": "Article URL: https://www.telegraph.co.uk/business/2026/06/13/javier-mileis-plan-let-ai-led-companies-run-riot-argentina/ Comments URL: https://news.ycombinator.com/item?id=48528215 Points: 3 # Comments: 0",
+    "author": "gjkood",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.telegraph.co.uk/business/2026/06/13/javier-mileis-plan-let-ai-led-companies-run-riot-argentina/",
+    "id": "news-2827"
+  },
+  {
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 1 # Comments: 1",
+    "author": "unrvl22",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "id": "news-2826"
+  },
+  {
     "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
     "summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec",
     "content": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec formalizes a pattern Andrej Karpathy recently popularized as the \"LLM Wiki.\" The article Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents appeared first on The Decoder.",
