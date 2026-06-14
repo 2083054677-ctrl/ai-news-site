@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Missing Infrastructure Between AI Agents and the EVM",
+    "summary": "Article URL: https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm Comments URL: https://news.ycombinator.com/item?id=48523305 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm Comments URL: https://news.ycombinator.com/item?id=48523305 Points: 1 # Comments: 0",
+    "author": "Bridgexapi",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm",
+    "id": "news-2810"
+  },
+  {
+    "title": "Lime 2.0 – Zero Human Auth for AI Agents",
+    "summary": "Article URL: https://lime.pics Comments URL: https://news.ycombinator.com/item?id=48523394 Points: 1 # Comments: 1",
+    "content": "Article URL: https://lime.pics Comments URL: https://news.ycombinator.com/item?id=48523394 Points: 1 # Comments: 1",
+    "author": "MawyxxY",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lime.pics",
+    "id": "news-2809"
+  },
+  {
+    "title": "Ask HN: Which cheap Chinese LLM are you using?",
+    "summary": "In the last one or two months, starting from DeepSeek V4 Pro, there are quite many low-price Chinese models coming out. Their performance looks more or less similar to me: Mimo V2.5 Pro, MiniMax M3, a",
+    "content": "In the last one or two months, starting from DeepSeek V4 Pro, there are quite many low-price Chinese models coming out. Their performance looks more or less similar to me: Mimo V2.5 Pro, MiniMax M3, and the just released GLM 5.2, etc.Which model are you using now? Why? What are the good and bad parts? Comments URL: https://news.ycombinator.com/item?id=48523455 Points: 4 # Comments: 0",
+    "author": "linzhangrun",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48523455",
+    "id": "news-2808"
+  },
+  {
+    "title": "ClawMoat, runtime containment for AI agents after Fable 5",
+    "summary": "Article URL: https://clawmoat.com/ Comments URL: https://news.ycombinator.com/item?id=48523469 Points: 1 # Comments: 0",
+    "content": "Article URL: https://clawmoat.com/ Comments URL: https://news.ycombinator.com/item?id=48523469 Points: 1 # Comments: 0",
+    "author": "ildar",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://clawmoat.com/",
+    "id": "news-2807"
+  },
+  {
+    "title": "Open-Cowork: open-source alternative to Claude Cowork with BYOK",
+    "summary": "Article URL: https://github.com/coasty-ai/open-cowork Comments URL: https://news.ycombinator.com/item?id=48523556 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/coasty-ai/open-cowork Comments URL: https://news.ycombinator.com/item?id=48523556 Points: 1 # Comments: 0",
+    "author": "PrateekJ1703",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/coasty-ai/open-cowork",
+    "id": "news-2806"
+  },
+  {
     "title": "OpenDevOps – An open-source AI agent that investigates AWS/Azure incidents",
     "summary": "Article URL: https://github.com/AhmadHammad21/OpenDevOps Comments URL: https://news.ycombinator.com/item?id=48521685 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/AhmadHammad21/OpenDevOps Comments URL: https://news.ycombinator.com/item?id=48521685 Points: 1 # Comments: 0",
