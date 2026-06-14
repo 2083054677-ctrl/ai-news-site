@@ -1,5 +1,70 @@
 [
   {
+    "title": "How to Share AI Riches",
+    "summary": "Article URL: https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches Comments URL: https://news.ycombinator.com/item?id=48531099 Points: 1 # Comments: 0",
+    "content": "Article URL: https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches Comments URL: https://news.ycombinator.com/item?id=48531099 Points: 1 # Comments: 0",
+    "author": "andsoitis",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches",
+    "id": "news-2841"
+  },
+  {
+    "title": "Nudge – a collaborative memory layer for Claude Code and Codex CLI hooks",
+    "summary": "Article URL: https://github.com/attunehq/nudge Comments URL: https://news.ycombinator.com/item?id=48531108 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/attunehq/nudge Comments URL: https://news.ycombinator.com/item?id=48531108 Points: 1 # Comments: 0",
+    "author": "mpgirro",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/attunehq/nudge",
+    "id": "news-2840"
+  },
+  {
+    "title": "Nobody Is Measuring What Your AI Agents Are Worth",
+    "summary": "Article URL: https://github.com/Idank96/agent-panorama Comments URL: https://news.ycombinator.com/item?id=48531114 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Idank96/agent-panorama Comments URL: https://news.ycombinator.com/item?id=48531114 Points: 1 # Comments: 1",
+    "author": "Idankogan",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Idank96/agent-panorama",
+    "id": "news-2839"
+  },
+  {
+    "title": "The Millions of Songs Mashed into AI-Generated Music",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/ Comments URL: https://news.ycombinator.com/item?id=48531137 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/ Comments URL: https://news.ycombinator.com/item?id=48531137 Points: 1 # Comments: 0",
+    "author": "fortran77",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/",
+    "id": "news-2838"
+  },
+  {
+    "title": "Audit checklists for AI coding agents – 30 invariants, any language",
+    "summary": "Article URL: https://github.com/danygiguere/audit-skills Comments URL: https://news.ycombinator.com/item?id=48531259 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/danygiguere/audit-skills Comments URL: https://news.ycombinator.com/item?id=48531259 Points: 1 # Comments: 0",
+    "author": "danygiguere",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/danygiguere/audit-skills",
+    "id": "news-2837"
+  },
+  {
     "title": "Mlx-optiq: per-layer mixed-precision LLM quantization for Apple Silicon",
     "summary": "Article URL: https://mlx-optiq.com/ Comments URL: https://news.ycombinator.com/item?id=48529008 Points: 2 # Comments: 0",
     "content": "Article URL: https://mlx-optiq.com/ Comments URL: https://news.ycombinator.com/item?id=48529008 Points: 2 # Comments: 0",
