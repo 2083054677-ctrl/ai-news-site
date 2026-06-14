@@ -1,5 +1,57 @@
 [
   {
+    "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
+    "summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec",
+    "content": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec formalizes a pattern Andrej Karpathy recently popularized as the \"LLM Wiki.\" The article Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+    "id": "news-2825"
+  },
+  {
+    "title": "AI enables 1000 people to hold a thoughtful conversation",
+    "summary": "Article URL: https://bigthink.com/science-tech/collective-superintelligence/ Comments URL: https://news.ycombinator.com/item?id=48527009 Points: 1 # Comments: 1",
+    "content": "Article URL: https://bigthink.com/science-tech/collective-superintelligence/ Comments URL: https://news.ycombinator.com/item?id=48527009 Points: 1 # Comments: 1",
+    "author": "bonkerbits",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bigthink.com/science-tech/collective-superintelligence/",
+    "id": "news-2824"
+  },
+  {
+    "title": "The AI Delegation Lifecycle: Your Team Has AI Outputs. Where Are the Decisions?",
+    "summary": "Article URL: https://age-of-product.com/delegation-lifecycle/ Comments URL: https://news.ycombinator.com/item?id=48527083 Points: 1 # Comments: 0",
+    "content": "Article URL: https://age-of-product.com/delegation-lifecycle/ Comments URL: https://news.ycombinator.com/item?id=48527083 Points: 1 # Comments: 0",
+    "author": "swolpers",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://age-of-product.com/delegation-lifecycle/",
+    "id": "news-2823"
+  },
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "summary": "Article URL: https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/ Comments URL: https://news.ycombinator.com/item?id=48527108 Points: 1 # Comments:",
+    "content": "Article URL: https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/ Comments URL: https://news.ycombinator.com/item?id=48527108 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "id": "news-2822"
+  },
+  {
     "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
     "summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthro",
     "content": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthropic's largest investors. Within hours, the White House forced the model offline through an export control order. The move may well be a legitimate security policy decision, but it also reads as a show of force against an inconvenient company. The article Amazon and five other companies reportedly tr",
