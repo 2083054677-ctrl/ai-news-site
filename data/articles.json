@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: AI Cell Enrichment Workflow API",
+    "summary": "Hi HackerNews! I've recently added an API + Docs to ampledata - my AI enrichment platform. Idea is simple. Given a set of rows in a table you can hit ampledata via an api and a workflow will run to en",
+    "content": "Hi HackerNews! I've recently added an API + Docs to ampledata - my AI enrichment platform. Idea is simple. Given a set of rows in a table you can hit ampledata via an api and a workflow will run to enrich the table with columns of your choosing by searching the web and giving you citations + exact sources. You can think of it as a cited bulk enrichment platform.Ampledata is also OSS so feel free to self host it and use your own api keys. Or if you are just interested in the tech. Comments URL: h",
+    "author": "blagoysimandoff",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ampledata.io",
+    "id": "news-2846"
+  },
+  {
+    "title": "Changing Careers, Cutting Expenses: Software Engineers Contend with AI",
+    "summary": "Article URL: https://www.wsj.com/lifestyle/careers/changing-careers-cutting-expenses-software-engineers-contend-with-ai-3889ce73 Comments URL: https://news.ycombinator.com/item?id=48532576 Points: 2 #",
+    "content": "Article URL: https://www.wsj.com/lifestyle/careers/changing-careers-cutting-expenses-software-engineers-contend-with-ai-3889ce73 Comments URL: https://news.ycombinator.com/item?id=48532576 Points: 2 # Comments: 1",
+    "author": "variety8675",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/lifestyle/careers/changing-careers-cutting-expenses-software-engineers-contend-with-ai-3889ce73",
+    "id": "news-2845"
+  },
+  {
+    "title": "SillyTavern provides a single unified interface for many LLM APIs",
+    "summary": "Article URL: https://github.com/SillyTavern/SillyTavern Comments URL: https://news.ycombinator.com/item?id=48532610 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/SillyTavern/SillyTavern Comments URL: https://news.ycombinator.com/item?id=48532610 Points: 1 # Comments: 0",
+    "author": "doener",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/SillyTavern/SillyTavern",
+    "id": "news-2844"
+  },
+  {
+    "title": "Show HN: Buildtopia1 – A sandbox game where an AI builds for you with chat",
+    "summary": "Article URL: https://buildtopia1.com Comments URL: https://news.ycombinator.com/item?id=48532626 Points: 1 # Comments: 0",
+    "content": "Article URL: https://buildtopia1.com Comments URL: https://news.ycombinator.com/item?id=48532626 Points: 1 # Comments: 0",
+    "author": "dtran24",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://buildtopia1.com",
+    "id": "news-2843"
+  },
+  {
+    "title": "Hillock – Local, brain-inspired AI memory using SQLite and HDC",
+    "summary": "Article URL: https://github.com/roandejager/Hillock Comments URL: https://news.ycombinator.com/item?id=48532640 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/roandejager/Hillock Comments URL: https://news.ycombinator.com/item?id=48532640 Points: 1 # Comments: 0",
+    "author": "roandejager",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/roandejager/Hillock",
+    "id": "news-2842"
+  },
+  {
     "title": "How to Share AI Riches",
     "summary": "Article URL: https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches Comments URL: https://news.ycombinator.com/item?id=48531099 Points: 1 # Comments: 0",
     "content": "Article URL: https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches Comments URL: https://news.ycombinator.com/item?id=48531099 Points: 1 # Comments: 0",
