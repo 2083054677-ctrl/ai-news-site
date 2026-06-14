@@ -1,5 +1,70 @@
 [
   {
+    "title": "Mlx-optiq: per-layer mixed-precision LLM quantization for Apple Silicon",
+    "summary": "Article URL: https://mlx-optiq.com/ Comments URL: https://news.ycombinator.com/item?id=48529008 Points: 2 # Comments: 0",
+    "content": "Article URL: https://mlx-optiq.com/ Comments URL: https://news.ycombinator.com/item?id=48529008 Points: 2 # Comments: 0",
+    "author": "codelion",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mlx-optiq.com/",
+    "id": "news-2836"
+  },
+  {
+    "title": "AI is code and can't be prompted into being smarter",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/ Comments URL: https://news.ycombinator.com/item?id=48529112 Points: 6 # Comments: 2",
+    "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/ Comments URL: https://news.ycombinator.com/item?id=48529112 Points: 6 # Comments: 2",
+    "author": "adam_rida",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/",
+    "id": "news-2835"
+  },
+  {
+    "title": "Structured Subagents for Claude Code",
+    "summary": "Article URL: https://github.com/wastedcode/truecast Comments URL: https://news.ycombinator.com/item?id=48529304 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/wastedcode/truecast Comments URL: https://news.ycombinator.com/item?id=48529304 Points: 1 # Comments: 0",
+    "author": "zeppelin_7",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wastedcode/truecast",
+    "id": "news-2834"
+  },
+  {
+    "title": "Local .NET multi-agent LLM pipeline AI therapist using a compact wire format",
+    "summary": "Article URL: https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai Comments URL: https://news.ycombinator.com/item?id=48529348 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai Comments URL: https://news.ycombinator.com/item?id=48529348 Points: 1 # Comments: 0",
+    "author": "paulomac1000",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai",
+    "id": "news-2833"
+  },
+  {
+    "title": "Fifteen short films about AI-era threats, made with Conan",
+    "summary": "Article URL: https://www.adaptivesecurity.com/conan Comments URL: https://news.ycombinator.com/item?id=48529448 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.adaptivesecurity.com/conan Comments URL: https://news.ycombinator.com/item?id=48529448 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-06-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.adaptivesecurity.com/conan",
+    "id": "news-2832"
+  },
+  {
     "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
     "summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graph",
     "content": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatially consistent through long camera moves. It still can't reliably track moving objects across segments. The article Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner appeared first on The ",
