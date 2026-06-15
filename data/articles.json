@@ -1,5 +1,70 @@
 [
   {
+    "title": "Argentina Wants to Let AI Own Companies. Here's What That Means",
+    "summary": "Article URL: https://www.forbes.com/sites/anishasircar/2026/06/10/ai-owned-companies-argentina/ Comments URL: https://news.ycombinator.com/item?id=48535586 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.forbes.com/sites/anishasircar/2026/06/10/ai-owned-companies-argentina/ Comments URL: https://news.ycombinator.com/item?id=48535586 Points: 4 # Comments: 1",
+    "author": "pseudolus",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/anishasircar/2026/06/10/ai-owned-companies-argentina/",
+    "id": "news-2851"
+  },
+  {
+    "title": "AI Has Amnesia. Here's Every System Built to Fix It",
+    "summary": "Article URL: https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75 Comments URL: https://news.ycombinator.com/item?id=48535797 Points: 3 # Comments: 0",
+    "content": "Article URL: https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75 Comments URL: https://news.ycombinator.com/item?id=48535797 Points: 3 # Comments: 0",
+    "author": "AlanAAG",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
+    "id": "news-2850"
+  },
+  {
+    "title": "Monitoring LLM Inference with Prometheus and Grafana (vLLM, TGI, Llama.cpp)",
+    "summary": "Article URL: https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/ Comments URL: https://news.ycombinator.com/item?id=48535910 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/ Comments URL: https://news.ycombinator.com/item?id=48535910 Points: 1 # Comments: 0",
+    "author": "nryoo",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/",
+    "id": "news-2849"
+  },
+  {
+    "title": "Surge in scams as fraudsters use AI to target people",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cwykp9ygxlvo Comments URL: https://news.ycombinator.com/item?id=48535934 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/cwykp9ygxlvo Comments URL: https://news.ycombinator.com/item?id=48535934 Points: 1 # Comments: 0",
+    "author": "1659447091",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/cwykp9ygxlvo",
+    "id": "news-2848"
+  },
+  {
+    "title": "Enterprise AI Agents Are Leaving the Server",
+    "summary": "Article URL: https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server Comments URL: https://news.ycombinator.com/item?id=48536050 Points: 1 # Comments: 0",
+    "content": "Article URL: https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server Comments URL: https://news.ycombinator.com/item?id=48536050 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server",
+    "id": "news-2847"
+  },
+  {
     "title": "Show HN: AI Cell Enrichment Workflow API",
     "summary": "Hi HackerNews! I've recently added an API + Docs to ampledata - my AI enrichment platform. Idea is simple. Given a set of rows in a table you can hit ampledata via an api and a workflow will run to en",
     "content": "Hi HackerNews! I've recently added an API + Docs to ampledata - my AI enrichment platform. Idea is simple. Given a set of rows in a table you can hit ampledata via an api and a workflow will run to enrich the table with columns of your choosing by searching the web and giving you citations + exact sources. You can think of it as a cited bulk enrichment platform.Ampledata is also OSS so feel free to self host it and use your own api keys. Or if you are just interested in the tech. Comments URL: h",
