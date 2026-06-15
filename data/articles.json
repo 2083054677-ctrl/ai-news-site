@@ -1,5 +1,31 @@
 [
   {
+    "title": "Anthropic shutdown sparks sovereignty debate across Europe",
+    "summary": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building ",
+    "content": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building their own foundation models or securing access through contracts. But building out homegrown infrastructure would require computing capacity, energy, and competitive providers that Europe currently lacks, experts warn. The article Anthropic shutdown sparks sovereignty debate across Europe appeared f",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/",
+    "id": "news-2854"
+  },
+  {
+    "title": "Pokémon Go data helped train AI now linked to military drones",
+    "summary": "Volunteer AR scans from Pokémon Go players fed into Niantic's spatial AI models. That technology is now being combined with a US defense contractor's software for GPS-free navigation. The article Poké",
+    "content": "Volunteer AR scans from Pokémon Go players fed into Niantic's spatial AI models. That technology is now being combined with a US defense contractor's software for GPS-free navigation. The article Pokémon Go data helped train AI now linked to military drones appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/pokemon-go-data-helped-train-ai-now-linked-to-military-drones/",
+    "id": "news-2853"
+  },
+  {
     "title": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\"",
     "summary": "Microsoft CEO Satya Nadella wants companies to build \"token capital\" alongside human capital, meaning their own AI capabilities built on internal data and proprietary learning loops. Without it, he wa",
     "content": "Microsoft CEO Satya Nadella wants companies to build \"token capital\" alongside human capital, meaning their own AI capabilities built on internal data and proprietary learning loops. Without it, he warns, a few large models could absorb the value of entire industries. The argument also happens to line up with the business logic of his own Azure platform. The article Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\" appeared first on The Decode",
