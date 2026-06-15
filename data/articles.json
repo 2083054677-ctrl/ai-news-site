@@ -1,5 +1,31 @@
 [
   {
+    "title": "Nvidia joins AI debt boom with $20 billion bond sale",
+    "summary": "Nvidia wants to raise at least $20 billion through its first bond sale since 2021, Bloomberg reports, citing people with direct knowledge of the deal. The article Nvidia joins AI debt boom with $20 bi",
+    "content": "Nvidia wants to raise at least $20 billion through its first bond sale since 2021, Bloomberg reports, citing people with direct knowledge of the deal. The article Nvidia joins AI debt boom with $20 billion bond sale appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale/",
+    "id": "news-2856"
+  },
+  {
+    "title": "The US government may be asking Anthropic the impossible by demanding unhackable LLMs",
+    "summary": "Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. \"They screwed us,\" one administration official said. Talks are underway with the D",
+    "content": "Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. \"They screwed us,\" one administration official said. Talks are underway with the Department of Commerce, the CIA, and science advisor Michael Kratsios. The article The US government may be asking Anthropic the impossible by demanding unhackable LLMs appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/",
+    "id": "news-2855"
+  },
+  {
     "title": "Anthropic shutdown sparks sovereignty debate across Europe",
     "summary": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building ",
     "content": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building their own foundation models or securing access through contracts. But building out homegrown infrastructure would require computing capacity, energy, and competitive providers that Europe currently lacks, experts warn. The article Anthropic shutdown sparks sovereignty debate across Europe appeared f",
