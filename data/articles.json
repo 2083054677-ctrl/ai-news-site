@@ -1,5 +1,70 @@
 [
   {
+    "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
+    "summary": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says fl",
+    "content": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable. The move fits a broader pattern in the industry. The article Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+    "id": "news-2882"
+  },
+  {
+    "title": "Qode – The first AI agent that can generate 50k line codebases in one prompt",
+    "summary": "Article URL: https://github.com/akshaylakkur/Q Comments URL: https://news.ycombinator.com/item?id=48562253 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/akshaylakkur/Q Comments URL: https://news.ycombinator.com/item?id=48562253 Points: 1 # Comments: 1",
+    "author": "akshayl284",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/akshaylakkur/Q",
+    "id": "news-2881"
+  },
+  {
+    "title": "I built a fail-closed execution gate for AI agents",
+    "summary": "Article URL: https://kronyqldemo.netlify.app/demo/ase-proof Comments URL: https://news.ycombinator.com/item?id=48562293 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kronyqldemo.netlify.app/demo/ase-proof Comments URL: https://news.ycombinator.com/item?id=48562293 Points: 1 # Comments: 0",
+    "author": "Auditome",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kronyqldemo.netlify.app/demo/ase-proof",
+    "id": "news-2880"
+  },
+  {
+    "title": "OpenAI's leaked financials reveal soaring losses as it prepares to go public",
+    "summary": "Article URL: https://groups.google.com/a/netflix.com/g/ios-ui-kickoffs/c/772e4-hycBE Comments URL: https://news.ycombinator.com/item?id=48562586 Points: 1 # Comments: 2",
+    "content": "Article URL: https://groups.google.com/a/netflix.com/g/ios-ui-kickoffs/c/772e4-hycBE Comments URL: https://news.ycombinator.com/item?id=48562586 Points: 1 # Comments: 2",
+    "author": "andsoitis",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://groups.google.com/a/netflix.com/g/ios-ui-kickoffs/c/772e4-hycBE",
+    "id": "news-2879"
+  },
+  {
+    "title": "Show HN: PromptShark – MitM proxy, C++ loop detector and replay for AI agents",
+    "summary": "Article URL: https://github.com/apvcode/PromptShark Comments URL: https://news.ycombinator.com/item?id=48562707 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/apvcode/PromptShark Comments URL: https://news.ycombinator.com/item?id=48562707 Points: 1 # Comments: 0",
+    "author": "apvcode",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/apvcode/PromptShark",
+    "id": "news-2878"
+  },
+  {
     "title": "SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic",
     "summary": "Just two trading days after its IPO, Elon Musk's SpaceX is buying AI coding startup Anysphere. The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI. The article Spa",
     "content": "Just two trading days after its IPO, Elon Musk's SpaceX is buying AI coding startup Anysphere. The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI. The article SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic appeared first on The Decoder.",
