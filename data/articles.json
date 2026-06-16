@@ -1,5 +1,135 @@
 [
   {
+    "title": "OpenAI burned through $34 billion last year",
+    "summary": "OpenAI spent $34 billion in the past year, far more than the year before. The article OpenAI burned through $34 billion last year appeared first on The Decoder.",
+    "content": "OpenAI spent $34 billion in the past year, far more than the year before. The article OpenAI burned through $34 billion last year appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-burned-through-34-billion-last-year/",
+    "id": "news-2871"
+  },
+  {
+    "title": "DeepSeek takes outside money for the first time at a $50 billion valuation",
+    "summary": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion - in its first external funding round. The article DeepSeek takes outside money for the first time at a $50 billio",
+    "content": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion - in its first external funding round. The article DeepSeek takes outside money for the first time at a $50 billion valuation appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
+    "id": "news-2870"
+  },
+  {
+    "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms",
+    "summary": "Anthropic has pulled back its planned billing change for the Claude Agent SDK just before launch. Instead of separate credits, the SDK and third-party apps will keep drawing from regular subscription ",
+    "content": "Anthropic has pulled back its planned billing change for the Claude Agent SDK just before launch. Instead of separate credits, the SDK and third-party apps will keep drawing from regular subscription limits. The article Anthropic backs off unpopular billing overhaul as price war with OpenAI looms appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-backs-off-unpopular-billing-overhaul-as-price-war-with-openai-looms/",
+    "id": "news-2869"
+  },
+  {
+    "title": "How easily can Russian propaganda fool AI models? A new benchmark finds out",
+    "summary": "The Institute of the Estonian Language has released a benchmark measuring how susceptible AI language models are to Russian propaganda. The article How easily can Russian propaganda fool AI models? A ",
+    "content": "The Institute of the Estonian Language has released a benchmark measuring how susceptible AI language models are to Russian propaganda. The article How easily can Russian propaganda fool AI models? A new benchmark finds out appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/",
+    "id": "news-2868"
+  },
+  {
+    "title": "DOJ invokes national security to defend xAI's unpermitted gas turbines in NAACP lawsuit",
+    "summary": "US Justice Department calls xAI's chatbot Grok essential to military operations, defending its controversial gas turbines. The article DOJ invokes national security to defend xAI's unpermitted gas tur",
+    "content": "US Justice Department calls xAI's chatbot Grok essential to military operations, defending its controversial gas turbines. The article DOJ invokes national security to defend xAI's unpermitted gas turbines in NAACP lawsuit appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit/",
+    "id": "news-2867"
+  },
+  {
+    "title": "Four Practices for Building Better with AI Agents",
+    "summary": "Article URL: https://twitter.com/christinetyip/status/2066890379375374474 Comments URL: https://news.ycombinator.com/item?id=48555866 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/christinetyip/status/2066890379375374474 Comments URL: https://news.ycombinator.com/item?id=48555866 Points: 2 # Comments: 0",
+    "author": "christinetyip",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/christinetyip/status/2066890379375374474",
+    "id": "news-2866"
+  },
+  {
+    "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+    "summary": "Article URL: https://www.reuters.com/business/microsoft-sued-by-shareholders-over-expenses-cloud-business-ai-2026-06-15/ Comments URL: https://news.ycombinator.com/item?id=48555932 Points: 4 # Comment",
+    "content": "Article URL: https://www.reuters.com/business/microsoft-sued-by-shareholders-over-expenses-cloud-business-ai-2026-06-15/ Comments URL: https://news.ycombinator.com/item?id=48555932 Points: 4 # Comments: 0",
+    "author": "laphony",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/microsoft-sued-by-shareholders-over-expenses-cloud-business-ai-2026-06-15/",
+    "id": "news-2865"
+  },
+  {
+    "title": "Tiny GPT in Go. Optimised for Understanding. Trained on Jules Verne Books",
+    "summary": "Article URL: https://github.com/zakirullin/gpt-go Comments URL: https://news.ycombinator.com/item?id=48555970 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/zakirullin/gpt-go Comments URL: https://news.ycombinator.com/item?id=48555970 Points: 1 # Comments: 0",
+    "author": "idontlikellm",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zakirullin/gpt-go",
+    "id": "news-2864"
+  },
+  {
+    "title": "Clayem is an LLM-assisted tool that helps fight property insurance claims",
+    "summary": "Article URL: https://clayem.com Comments URL: https://news.ycombinator.com/item?id=48555985 Points: 1 # Comments: 0",
+    "content": "Article URL: https://clayem.com Comments URL: https://news.ycombinator.com/item?id=48555985 Points: 1 # Comments: 0",
+    "author": "briannezhad",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://clayem.com",
+    "id": "news-2863"
+  },
+  {
+    "title": "Show HN: Wattfare – LLM API that's paid by users, not dev",
+    "summary": "Hey HN!I recently built halupedia - a funny site that hit 300k+ users in few weeks and #1 on hacker news. It was amazing project, which costed me $300+. Since halupedia uses a lot of AI I paid a lot f",
+    "content": "Hey HN!I recently built halupedia - a funny site that hit 300k+ users in few weeks and #1 on hacker news. It was amazing project, which costed me $300+. Since halupedia uses a lot of AI I paid a lot for the bill, fortunately I'm fine thanks to donations and resigning from many planned features.It inspired me to built wattfare - just like BYOK it let's user bring their own AI budget to the site.It works like OAuth, user just clicks a single button, has ability to limit or revoke access for a webs",
+    "author": "bstrama",
+    "date": "2026-06-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wattfare.com/",
+    "id": "news-2862"
+  },
+  {
     "title": "How to get empowered, not overpowered, by AI (2018) [video]",
     "summary": "Article URL: https://www.ted.com/talks/max_tegmark_how_to_get_empowered_not_overpowered_by_ai Comments URL: https://news.ycombinator.com/item?id=48549716 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.ted.com/talks/max_tegmark_how_to_get_empowered_not_overpowered_by_ai Comments URL: https://news.ycombinator.com/item?id=48549716 Points: 2 # Comments: 0",
