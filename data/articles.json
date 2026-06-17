@@ -1,5 +1,46 @@
 [
   {
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "summary": "GLM-5.2: Built for Long-Horizon Tasks",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "id": "news-2890"
+  },
+  {
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "summary": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "id": "news-2889"
+  },
+  {
+    "title": "Hyperscalers may soon be unable to fund their AI buildout from cash flow alone",
+    "summary": "According to an Epoch AI analysis, Microsoft, Amazon, Alphabet, Meta, and Oracle are growing their AI infrastructure spending by about 70 percent a year, while operating cash flow is only rising at 23",
+    "content": "According to an Epoch AI analysis, Microsoft, Amazon, Alphabet, Meta, and Oracle are growing their AI infrastructure spending by about 70 percent a year, while operating cash flow is only rising at 23 percent. If the trend holds, spending could overtake cash flow as early as Q3 2026. Several of these companies are already tapping outside funding. The article Hyperscalers may soon be unable to fund their AI buildout from cash flow alone appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/hyperscalers-may-soon-be-unable-to-fund-their-ai-buildout-from-cash-flow-alone/",
+    "id": "news-2888"
+  },
+  {
     "title": "The Hacker Sent by Anthropic to Calm the Government's Nerves About AI Safety",
     "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3 Comments URL: https://news.ycombinator.com/item?id=48567357 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3 Comments URL: https://news.ycombinator.com/item?id=48567357 Points: 2 # Comments: 0",
