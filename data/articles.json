@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Hacker Sent by Anthropic to Calm the Government's Nerves About AI Safety",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3 Comments URL: https://news.ycombinator.com/item?id=48567357 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3 Comments URL: https://news.ycombinator.com/item?id=48567357 Points: 2 # Comments: 0",
+    "author": "dkobia",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+    "id": "news-2887"
+  },
+  {
+    "title": "AI holds the key to faster battery tech development",
+    "summary": "Article URL: https://www.ft.com/content/2dbdf635-7bbc-430d-96ef-ea893e754b6e Comments URL: https://news.ycombinator.com/item?id=48567400 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/2dbdf635-7bbc-430d-96ef-ea893e754b6e Comments URL: https://news.ycombinator.com/item?id=48567400 Points: 1 # Comments: 0",
+    "author": "khutorni",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/2dbdf635-7bbc-430d-96ef-ea893e754b6e",
+    "id": "news-2886"
+  },
+  {
+    "title": "Firefox suggests tab groups with local AI (2025)",
+    "summary": "Article URL: https://blog.mozilla.org/en/firefox/ai-tab-groups/ Comments URL: https://news.ycombinator.com/item?id=48567405 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blog.mozilla.org/en/firefox/ai-tab-groups/ Comments URL: https://news.ycombinator.com/item?id=48567405 Points: 2 # Comments: 0",
+    "author": "Topfi",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.mozilla.org/en/firefox/ai-tab-groups/",
+    "id": "news-2885"
+  },
+  {
+    "title": "DShow HN: AI Bible reader with multiple denominational views on contested topics",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48567486 Points: 1 # Comments: 1",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=48567486 Points: 1 # Comments: 1",
+    "author": "getlumina",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48567486",
+    "id": "news-2884"
+  },
+  {
+    "title": "Building an AI Agent in 6 Weeks (and Understanding How They Work)",
+    "summary": "Article URL: https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/ Comments URL: https://news.ycombinator.com/item?id=48567620 Points: 1 # Comments: 0",
+    "content": "Article URL: https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/ Comments URL: https://news.ycombinator.com/item?id=48567620 Points: 1 # Comments: 0",
+    "author": "lumpa",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/",
+    "id": "news-2883"
+  },
+  {
     "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
     "summary": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says fl",
     "content": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable. The move fits a broader pattern in the industry. The article Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek appeared first on The Decoder.",
