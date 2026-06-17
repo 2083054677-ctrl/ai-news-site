@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Righthand – Autonomous AI assistants with skills, goals, and a CLI",
+    "summary": "Hey HN — I'm Julius, cofounder of Righthand. We've been building AI employees (we call them \"Righthands\") that actually live inside your workflow instead of waiting for prompts. Each one has a name, e",
+    "content": "Hey HN — I'm Julius, cofounder of Righthand. We've been building AI employees (we call them \"Righthands\") that actually live inside your workflow instead of waiting for prompts. Each one has a name, email address and phone number + unified memory across all communication channels. They run in their own E2B sandboxes, with a filesystem and custom CLI.We built this because of anxiety. Everyone is anxious about something, especially at work, and we realized that a lot of the tasks people are anxiou",
+    "author": "notanaiagent",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.rigthhand.ai",
+    "id": "news-2902"
+  },
+  {
+    "title": "Salvager, Undo for AI agents that edit your files",
+    "summary": "Article URL: https://www.salvager.sh/ Comments URL: https://news.ycombinator.com/item?id=48578204 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.salvager.sh/ Comments URL: https://news.ycombinator.com/item?id=48578204 Points: 1 # Comments: 0",
+    "author": "gorkamb",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.salvager.sh/",
+    "id": "news-2901"
+  },
+  {
+    "title": "Tensordyne is making AI compute more efficient using logarithms",
+    "summary": "Article URL: https://www.zach.be/p/tensordyne-is-making-ai-compute-more Comments URL: https://news.ycombinator.com/item?id=48578295 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.zach.be/p/tensordyne-is-making-ai-compute-more Comments URL: https://news.ycombinator.com/item?id=48578295 Points: 1 # Comments: 0",
+    "author": "hasheddan",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.zach.be/p/tensordyne-is-making-ai-compute-more",
+    "id": "news-2900"
+  },
+  {
+    "title": "Build in Lovable, from Claude",
+    "summary": "Article URL: https://xcancel.com/Lovable/status/2067326328110494129 Comments URL: https://news.ycombinator.com/item?id=48578312 Points: 1 # Comments: 0",
+    "content": "Article URL: https://xcancel.com/Lovable/status/2067326328110494129 Comments URL: https://news.ycombinator.com/item?id=48578312 Points: 1 # Comments: 0",
+    "author": "doener",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xcancel.com/Lovable/status/2067326328110494129",
+    "id": "news-2899"
+  },
+  {
+    "title": "Show HN: ML condenses billions of logs into a tiny snapshot your LLM can debug",
+    "summary": "Hi HN, I'm Kaushik, and I built Rocketgraph. I believe that while other spaces have caught up to the AI wave, the observability space is still lagging behind, using the same tools and dashboards that ",
+    "content": "Hi HN, I'm Kaushik, and I built Rocketgraph. I believe that while other spaces have caught up to the AI wave, the observability space is still lagging behind, using the same tools and dashboards that we use to analyse logs from human-written code. But now the code is written and debugged by AI, so we need to rethink how we do observability where the observer itself is an AI.The problem that I run into is when an alert fires, I have to manually check the Grafana dashboards and write LogQL queries",
+    "author": "kvaranasi_",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Rocketgraph/rocketgraph",
+    "id": "news-2898"
+  },
+  {
     "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons",
     "summary": "Chinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's ",
     "content": "Chinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's Claude Opus 4.8 by just one percentage point. On reasoning, it still falls well behind closed-source rivals. The article Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons appeared first on The Decoder.",
