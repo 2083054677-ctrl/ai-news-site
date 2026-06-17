@@ -1,5 +1,44 @@
 [
   {
+    "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons",
+    "summary": "Chinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's ",
+    "content": "Chinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's Claude Opus 4.8 by just one percentage point. On reasoning, it still falls well behind closed-source rivals. The article Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/",
+    "id": "news-2897"
+  },
+  {
+    "title": "Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models",
+    "summary": "Amazon, Nvidia, and AMD are putting $310 million into world model startup Odyssey ML, now valued at $1.45 billion. CIA-linked fund IQT and Google chief scientist Jeff Dean are also backing the round. ",
+    "content": "Amazon, Nvidia, and AMD are putting $310 million into world model startup Odyssey ML, now valued at $1.45 billion. CIA-linked fund IQT and Google chief scientist Jeff Dean are also backing the round. World models are shaping up to be the next big AI bet after pure language models. The article Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-nvidia-and-amd-bet-310-million-on-ai-startup-building-3d-world-models/",
+    "id": "news-2896"
+  },
+  {
+    "title": "Microsoft researcher builds a working neural network out of goats in Age of Empires II to critique AI science",
+    "summary": "A Microsoft researcher built a working neural network out of goats, bridges, and ice ramps in the Age of Empires II map editor. What looks like a joke is a pointed critique of AI research methods. His",
+    "content": "A Microsoft researcher built a working neural network out of goats, bridges, and ice ramps in the Age of Empires II map editor. What looks like a joke is a pointed critique of AI research methods. His analysis of 315 papers found that more than half already assume language models have human-like traits before the experiment even starts. Replace the chat interface with wandering goats, and the math doesn't change, but the feeling that you're talking to someone does. The article Microsoft research",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-researcher-builds-a-working-neural-network-out-of-goats-in-age-of-empires-ii-to-critique-ai-science/",
+    "id": "news-2895"
+  },
+  {
     "title": "Agentic Resource Discovery: Let agents search",
     "summary": "Agentic Resource Discovery: Let agents search",
     "content": "",
