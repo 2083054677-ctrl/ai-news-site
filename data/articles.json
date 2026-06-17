@@ -1,5 +1,59 @@
 [
   {
+    "title": "Agentic Resource Discovery: Let agents search",
+    "summary": "Agentic Resource Discovery: Let agents search",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "id": "news-2894"
+  },
+  {
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "summary": "MolmoMotion: Language-guided 3D motion forecasting",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/molmomotion",
+    "id": "news-2893"
+  },
+  {
+    "title": "OpenAI researchers want to predict how often AI models will fail before launch",
+    "summary": "OpenAI researchers propose a method for predicting how often a new AI model will make mistakes after release. It could fill gaps left by standard safety testing. The article OpenAI researchers want to",
+    "content": "OpenAI researchers propose a method for predicting how often a new AI model will make mistakes after release. It could fill gaps left by standard safety testing. The article OpenAI researchers want to predict how often AI models will fail before launch appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-researchers-want-to-predict-how-often-ai-models-will-fail-before-launch/",
+    "id": "news-2892"
+  },
+  {
+    "title": "Nvidia research shows robots that train themselves through AI coding agents",
+    "summary": "Researchers from Nvidia, Carnegie Mellon University, and UC Berkeley are using AI coding agents to teach robots dexterous grasping in the real world. A fleet of eight robots hits up to 99 percent succ",
+    "content": "Researchers from Nvidia, Carnegie Mellon University, and UC Berkeley are using AI coding agents to teach robots dexterous grasping in the real world. A fleet of eight robots hits up to 99 percent success on tricky tasks. The article Nvidia research shows robots that train themselves through AI coding agents appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents/",
+    "id": "news-2891"
+  },
+  {
     "title": "GLM-5.2: Built for Long-Horizon Tasks",
     "summary": "GLM-5.2: Built for Long-Horizon Tasks",
     "content": "",
