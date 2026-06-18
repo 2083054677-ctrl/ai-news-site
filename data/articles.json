@@ -1,5 +1,70 @@
 [
   {
+    "title": "Correlated LLM Name Priors and Their Haunting of the Web and Academic Publishing",
+    "summary": "Article URL: https://arxiv.org/abs/2606.02184 Comments URL: https://news.ycombinator.com/item?id=48592652 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2606.02184 Comments URL: https://news.ycombinator.com/item?id=48592652 Points: 2 # Comments: 0",
+    "author": "sebg",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2606.02184",
+    "id": "news-2928"
+  },
+  {
+    "title": "New benchmark evaluates AI for everyday patient care",
+    "summary": "Article URL: https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/evaluating-ai-performance-for-everyday-patient-care Comments URL: https://news.ycombinator.com/item?id=48592716 Points:",
+    "content": "Article URL: https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/evaluating-ai-performance-for-everyday-patient-care Comments URL: https://news.ycombinator.com/item?id=48592716 Points: 1 # Comments: 0",
+    "author": "hhs",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/evaluating-ai-performance-for-everyday-patient-care",
+    "id": "news-2927"
+  },
+  {
+    "title": "OpenAI joins the Rust foundation as a Platinum member",
+    "summary": "Article URL: https://rustfoundation.org/media/on-openais-support-for-rust/ Comments URL: https://news.ycombinator.com/item?id=48592758 Points: 2 # Comments: 0",
+    "content": "Article URL: https://rustfoundation.org/media/on-openais-support-for-rust/ Comments URL: https://news.ycombinator.com/item?id=48592758 Points: 2 # Comments: 0",
+    "author": "wofo",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rustfoundation.org/media/on-openais-support-for-rust/",
+    "id": "news-2926"
+  },
+  {
+    "title": "Intelica – competitive intelligence API that charges AI agents $0.05 via x402",
+    "summary": "Article URL: https://api.intelica.dev Comments URL: https://news.ycombinator.com/item?id=48592817 Points: 1 # Comments: 0",
+    "content": "Article URL: https://api.intelica.dev Comments URL: https://news.ycombinator.com/item?id=48592817 Points: 1 # Comments: 0",
+    "author": "Teocrispin",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://api.intelica.dev",
+    "id": "news-2925"
+  },
+  {
+    "title": "How to Build the Future of AI in the Free World (Carnegie Endowment)",
+    "summary": "Article URL: https://carnegieendowment.org/research/2026/06/the-compute-coalition-how-to-build-the-future-of-ai-in-the-free-world Comments URL: https://news.ycombinator.com/item?id=48592899 Points: 1 ",
+    "content": "Article URL: https://carnegieendowment.org/research/2026/06/the-compute-coalition-how-to-build-the-future-of-ai-in-the-free-world Comments URL: https://news.ycombinator.com/item?id=48592899 Points: 1 # Comments: 0",
+    "author": "indynz",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://carnegieendowment.org/research/2026/06/the-compute-coalition-how-to-build-the-future-of-ai-in-the-free-world",
+    "id": "news-2924"
+  },
+  {
     "title": "MosaicLeaks: Can your research agent keep a secret?",
     "summary": "MosaicLeaks: Can your research agent keep a secret?",
     "content": "",
