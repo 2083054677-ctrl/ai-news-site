@@ -1,5 +1,137 @@
 [
   {
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "summary": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/is-it-agentic-enough",
+    "id": "news-2918"
+  },
+  {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "summary": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/peft-beyond-lora",
+    "id": "news-2917"
+  },
+  {
+    "title": "Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps",
+    "summary": "Adobe is rolling out its \"creative agent\" across its main Creative Cloud apps and third-party AI platforms like ChatGPT and Claude. Users describe what they want, and the software handles the multi-st",
+    "content": "Adobe is rolling out its \"creative agent\" across its main Creative Cloud apps and third-party AI platforms like ChatGPT and Claude. Users describe what they want, and the software handles the multi-step work. The article Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps/",
+    "id": "news-2916"
+  },
+  {
+    "title": "Midjourney, known for AI image generation, unveils a full-body ultrasound scanner and its own spa",
+    "summary": "Rumors about Midjourney hardware have circulated for years, but nobody saw this coming. The AI image startup is building a full-body ultrasound scanner and opening its own spa in San Francisco to hous",
+    "content": "Rumors about Midjourney hardware have circulated for years, but nobody saw this coming. The AI image startup is building a full-body ultrasound scanner and opening its own spa in San Francisco to house it. The article Midjourney, known for AI image generation, unveils a full-body ultrasound scanner and its own spa appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/midjourney-known-for-ai-image-generation-unveils-a-full-body-ultrasound-scanner-and-its-own-spa/",
+    "id": "news-2915"
+  },
+  {
+    "title": "Yann LeCun warns AI labs like OpenAI and Anthropic face a \"big bubble explosion\"",
+    "summary": "According to Yann LeCun, AI labs like OpenAI and Anthropic are heading for a \"big bubble explosion\": Their operations are effectively subsidized by investors, and operating costs aren't dropping fast ",
+    "content": "According to Yann LeCun, AI labs like OpenAI and Anthropic are heading for a \"big bubble explosion\": Their operations are effectively subsidized by investors, and operating costs aren't dropping fast enough, he says. LeCun's criticism isn't entirely selfless: his own startup, AMI Labs, raised $1 billion for an alternative approach to AI. The article Yann LeCun warns AI labs like OpenAI and Anthropic face a \"big bubble explosion\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/",
+    "id": "news-2914"
+  },
+  {
+    "title": "AI systems rival doctors in new Nature studies, but one result suggests the tech won't age well",
+    "summary": "Two new studies published in Nature show that specialized AI systems diagnose diseases and make treatment decisions as well as physicians in simulated patient cases, sometimes even better. Both system",
+    "content": "Two new studies published in Nature show that specialized AI systems diagnose diseases and make treatment decisions as well as physicians in simulated patient cases, sometimes even better. Both systems run on base models that are already outdated. The article AI systems rival doctors in new Nature studies, but one result suggests the tech won't age well appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well/",
+    "id": "news-2913"
+  },
+  {
+    "title": "RaptorX AI, incubated by Moonpay and backed by Solana",
+    "summary": "We're RaptorX AI, the AI Quant for Digital Investors on the retail front. Incubated by Moonpay and backed by Solana Foundation, RaptorX powers traders and investors with real-time research & trade acr",
+    "content": "We're RaptorX AI, the AI Quant for Digital Investors on the retail front. Incubated by Moonpay and backed by Solana Foundation, RaptorX powers traders and investors with real-time research & trade across Internet Markets: from thousands of Prediction Markets to millions of Cryptocurrencies, Tokenized Stocks and Yield. Comments URL: https://news.ycombinator.com/item?id=48588054 Points: 2 # Comments: 0",
+    "author": "uponlytech",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48588054",
+    "id": "news-2912"
+  },
+  {
+    "title": "Apollo Makes Debt Concessions on Shutterfly as AI Competition Pressures Mount",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-18/apollo-s-shutterfly-debt-concessions-expose-ai-competition-risk Comments URL: https://news.ycombinator.com/item?id=48588067 Points: 2 # ",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-06-18/apollo-s-shutterfly-debt-concessions-expose-ai-competition-risk Comments URL: https://news.ycombinator.com/item?id=48588067 Points: 2 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-06-18/apollo-s-shutterfly-debt-concessions-expose-ai-competition-risk",
+    "id": "news-2911"
+  },
+  {
+    "title": "Securing the Future of AI Agents",
+    "summary": "Article URL: https://deepmind.google/blog/securing-the-future-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48588072 Points: 3 # Comments: 1",
+    "content": "Article URL: https://deepmind.google/blog/securing-the-future-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48588072 Points: 3 # Comments: 1",
+    "author": "falcor84",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "id": "news-2910"
+  },
+  {
+    "title": "AI data centre would be 'one of Scotland's top polluters' if plans greenlit",
+    "summary": "Article URL: https://www.thenational.scot/news/26205897.larbert-ai-data-centre-become-top-10-polluter/ Comments URL: https://news.ycombinator.com/item?id=48588147 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.thenational.scot/news/26205897.larbert-ai-data-centre-become-top-10-polluter/ Comments URL: https://news.ycombinator.com/item?id=48588147 Points: 3 # Comments: 0",
+    "author": "pera",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thenational.scot/news/26205897.larbert-ai-data-centre-become-top-10-polluter/",
+    "id": "news-2909"
+  },
+  {
     "title": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint",
     "summary": "Noam Shazeer, co-author of the landmark \"Attention Is All You Need\" paper and former co-lead of Google's Gemini models, is joining OpenAI. He only returned to Google from Character.AI in 2024 as part ",
     "content": "Noam Shazeer, co-author of the landmark \"Attention Is All You Need\" paper and former co-lead of Google's Gemini models, is joining OpenAI. He only returned to Google from Character.AI in 2024 as part of a $2.7 billion deal. After Karpathy's move to Anthropic, it's the second major AI hiring shake-up this year. The article Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint appeared first on The Decoder.",
