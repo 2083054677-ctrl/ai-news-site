@@ -1,5 +1,71 @@
 [
   {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "summary": "MosaicLeaks: Can your research agent keep a secret?",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "id": "news-2923"
+  },
+  {
+    "title": "Google Deepmind treats its own AI agents like rogue employees with office keys",
+    "summary": "Google Deepmind treats its own AI agents as potential insider threats. The company's new \"AI Control Roadmap\" ties security measures to measurable AI capabilities, and an analysis of one million codin",
+    "content": "Google Deepmind treats its own AI agents as potential insider threats. The company's new \"AI Control Roadmap\" ties security measures to measurable AI capabilities, and an analysis of one million coding tasks shows most problems stem from overzealous agents, not malicious intent. Deepmind warns the window for global security standards is closing fast. The article Google Deepmind treats its own AI agents like rogue employees with office keys appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/",
+    "id": "news-2922"
+  },
+  {
+    "title": "Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis",
+    "summary": "SK Telecom had access to Anthropic's AI model Claude Mythos through the company's partner program Project Glasswing until the White House stepped in. US officials saw ties between the South Korean con",
+    "content": "SK Telecom had access to Anthropic's AI model Claude Mythos through the company's partner program Project Glasswing until the White House stepped in. US officials saw ties between the South Korean conglomerate and China. The article Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/",
+    "id": "news-2921"
+  },
+  {
+    "title": "Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions",
+    "summary": "Claude Code can now turn work results into interactive web pages called \"artifacts\" and share them with your team. The pages pull from the full session context, update automatically when something cha",
+    "content": "Claude Code can now turn work results into interactive web pages called \"artifacts\" and share them with your team. The pages pull from the full session context, update automatically when something changes, and keep a version history. The article Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/",
+    "id": "news-2920"
+  },
+  {
+    "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says",
+    "summary": "OpenAI has upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant. In the company's own comparative tests, the model now outscores answers written by doctors in accuracy, clarity, and complet",
+    "content": "OpenAI has upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant. In the company's own comparative tests, the model now outscores answers written by doctors in accuracy, clarity, and completeness. The error rate for health-related statements has dropped by 71 percent, according to OpenAI. The article ChatGPT's new health upgrade beats doctor-written answers, OpenAI says appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/",
+    "id": "news-2919"
+  },
+  {
     "title": "Is it agentic enough? Benchmarking open models on your own tooling",
     "summary": "Is it agentic enough? Benchmarking open models on your own tooling",
     "content": "",
