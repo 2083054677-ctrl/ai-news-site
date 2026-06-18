@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint",
+    "summary": "Noam Shazeer, co-author of the landmark \"Attention Is All You Need\" paper and former co-lead of Google's Gemini models, is joining OpenAI. He only returned to Google from Character.AI in 2024 as part ",
+    "content": "Noam Shazeer, co-author of the landmark \"Attention Is All You Need\" paper and former co-lead of Google's Gemini models, is joining OpenAI. He only returned to Google from Character.AI in 2024 as part of a $2.7 billion deal. After Karpathy's move to Anthropic, it's the second major AI hiring shake-up this year. The article Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-gemini-co-lead-noam-shazeer-joins-openai-after-two-year-return-stint/",
+    "id": "news-2908"
+  },
+  {
+    "title": "OpenAI to open office in Stockholm (Swedish)",
+    "summary": "Article URL: https://efn.se/open-ai-oppnar-kontor-i-stockholm-forsta-i-norden Comments URL: https://news.ycombinator.com/item?id=48582307 Points: 3 # Comments: 0",
+    "content": "Article URL: https://efn.se/open-ai-oppnar-kontor-i-stockholm-forsta-i-norden Comments URL: https://news.ycombinator.com/item?id=48582307 Points: 3 # Comments: 0",
+    "author": "armcat",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://efn.se/open-ai-oppnar-kontor-i-stockholm-forsta-i-norden",
+    "id": "news-2907"
+  },
+  {
+    "title": "Noam Shazeer Left Google for OpenAI",
+    "summary": "Article URL: https://www.businessinsider.com/google-veteran-founded-characterai-is-jumping-to-openai-talent-war-2026-6 Comments URL: https://news.ycombinator.com/item?id=48582358 Points: 2 # Comments:",
+    "content": "Article URL: https://www.businessinsider.com/google-veteran-founded-characterai-is-jumping-to-openai-talent-war-2026-6 Comments URL: https://news.ycombinator.com/item?id=48582358 Points: 2 # Comments: 0",
+    "author": "m4r1k",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/google-veteran-founded-characterai-is-jumping-to-openai-talent-war-2026-6",
+    "id": "news-2906"
+  },
+  {
+    "title": "Ask HN: How do you find out if the LLM API is giving degraded responses",
+    "summary": "If you are building on top of multiple LLM APIs or even a single one amongst OpenAI, Claude, Gemini, etc. what do you do when the API starts degrading (slow TTFT, elevated error rates, timeouts). Or e",
+    "content": "If you are building on top of multiple LLM APIs or even a single one amongst OpenAI, Claude, Gemini, etc. what do you do when the API starts degrading (slow TTFT, elevated error rates, timeouts). Or even worse, when there are responses but the model is drifting. How do you find this out? I'm trying to understand if this is a widespread pain or just something I've been unlucky with.Four specific questions:1. When an LLM API starts silently degrading, how do you currently find out? (Your own monit",
+    "author": "imviky",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48582429",
+    "id": "news-2905"
+  },
+  {
+    "title": "A 7-person team stopped screenshotting their AI-generated HTML",
+    "summary": "Article URL: https://display.dev/customers/indigo-engineering Comments URL: https://news.ycombinator.com/item?id=48582440 Points: 1 # Comments: 1",
+    "content": "Article URL: https://display.dev/customers/indigo-engineering Comments URL: https://news.ycombinator.com/item?id=48582440 Points: 1 # Comments: 1",
+    "author": "ottilves",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://display.dev/customers/indigo-engineering",
+    "id": "news-2904"
+  },
+  {
+    "title": "Show HN: Meeting Notes Sync – import transcripts and AI summaries into Obsidian",
+    "summary": "Article URL: https://community.obsidian.md/plugins/meeting-notes-sync Comments URL: https://news.ycombinator.com/item?id=48582509 Points: 1 # Comments: 0",
+    "content": "Article URL: https://community.obsidian.md/plugins/meeting-notes-sync Comments URL: https://news.ycombinator.com/item?id=48582509 Points: 1 # Comments: 0",
+    "author": "andreagrandi",
+    "date": "2026-06-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://community.obsidian.md/plugins/meeting-notes-sync",
+    "id": "news-2903"
+  },
+  {
     "title": "Show HN: Righthand – Autonomous AI assistants with skills, goals, and a CLI",
     "summary": "Hey HN — I'm Julius, cofounder of Righthand. We've been building AI employees (we call them \"Righthands\") that actually live inside your workflow instead of waiting for prompts. Each one has a name, e",
     "content": "Hey HN — I'm Julius, cofounder of Righthand. We've been building AI employees (we call them \"Righthands\") that actually live inside your workflow instead of waiting for prompts. Each one has a name, email address and phone number + unified memory across all communication channels. They run in their own E2B sandboxes, with a filesystem and custom CLI.We built this because of anxiety. Everyone is anxious about something, especially at work, and we realized that a lot of the tasks people are anxiou",
