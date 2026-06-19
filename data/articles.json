@@ -1,5 +1,70 @@
 [
   {
+    "title": "How the US vs. Anthropic Standoff on Claude Fable Will End",
+    "summary": "Article URL: https://futuresearch.ai/claude-fable-ban-forecast/ Comments URL: https://news.ycombinator.com/item?id=48594075 Points: 1 # Comments: 0",
+    "content": "Article URL: https://futuresearch.ai/claude-fable-ban-forecast/ Comments URL: https://news.ycombinator.com/item?id=48594075 Points: 1 # Comments: 0",
+    "author": "ddp26",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://futuresearch.ai/claude-fable-ban-forecast/",
+    "id": "news-2933"
+  },
+  {
+    "title": "Tutorial: Python MCP Internal API > LLM",
+    "summary": "Article URL: https://www.devclubhouse.com/a/ship-an-mcp-server-in-python-that-exposes-your-internal-api-to-llms Comments URL: https://news.ycombinator.com/item?id=48594116 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.devclubhouse.com/a/ship-an-mcp-server-in-python-that-exposes-your-internal-api-to-llms Comments URL: https://news.ycombinator.com/item?id=48594116 Points: 1 # Comments: 0",
+    "author": "marcpope1",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.devclubhouse.com/a/ship-an-mcp-server-in-python-that-exposes-your-internal-api-to-llms",
+    "id": "news-2932"
+  },
+  {
+    "title": "AI coding: loop engineering a translator",
+    "summary": "Article URL: https://jeena.net/loop-engineering Comments URL: https://news.ycombinator.com/item?id=48594371 Points: 1 # Comments: 0",
+    "content": "Article URL: https://jeena.net/loop-engineering Comments URL: https://news.ycombinator.com/item?id=48594371 Points: 1 # Comments: 0",
+    "author": "jeena",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jeena.net/loop-engineering",
+    "id": "news-2931"
+  },
+  {
+    "title": "Ask HN: Has AI made digital distribution more powerful than code?",
+    "summary": "I believe Distribution has an edge Comments URL: https://news.ycombinator.com/item?id=48594425 Points: 1 # Comments: 1",
+    "content": "I believe Distribution has an edge Comments URL: https://news.ycombinator.com/item?id=48594425 Points: 1 # Comments: 1",
+    "author": "akashwadhwani35",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48594425",
+    "id": "news-2930"
+  },
+  {
+    "title": "Applied AI Engineer/ Product Builder/ Data Science",
+    "summary": "Location: Santa Cruz, CA Remote: YesWilling to relocate: Remote Preferred. SF/Socal Hybrid okApplied AI / product builder (Full Stack). I’m strongest at turning messy ideas, workflows, datasets, and A",
+    "content": "Location: Santa Cruz, CA Remote: YesWilling to relocate: Remote Preferred. SF/Socal Hybrid okApplied AI / product builder (Full Stack). I’m strongest at turning messy ideas, workflows, datasets, and APIs into useful AI-assisted products and prototypes; especially where product judgment, user understanding, automation, and modern LLM/agent tooling matter.In a world where AI is become exponentially more intelligent in general, a recurring challenge has become harnessing that intelligence for speci",
+    "author": "ahorton",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48594452",
+    "id": "news-2929"
+  },
+  {
     "title": "Correlated LLM Name Priors and Their Haunting of the Web and Academic Publishing",
     "summary": "Article URL: https://arxiv.org/abs/2606.02184 Comments URL: https://news.ycombinator.com/item?id=48592652 Points: 2 # Comments: 0",
     "content": "Article URL: https://arxiv.org/abs/2606.02184 Comments URL: https://news.ycombinator.com/item?id=48592652 Points: 2 # Comments: 0",
