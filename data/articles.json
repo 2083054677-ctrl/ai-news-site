@@ -1,5 +1,96 @@
 [
   {
+    "title": "New benchmark exposes how badly AI struggles with real knowledge work",
+    "summary": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The",
+    "content": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
+    "id": "news-2948"
+  },
+  {
+    "title": "More people get news from AI chatbots, but trust remains low",
+    "summary": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click thro",
+    "content": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original source. The article More people get news from AI chatbots, but trust remains low appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/",
+    "id": "news-2947"
+  },
+  {
+    "title": "Show HN: ComplianceLint – The linter for EU AI Act compliance",
+    "summary": "Article URL: https://compliancelint.dev/ Comments URL: https://news.ycombinator.com/item?id=48600132 Points: 1 # Comments: 0",
+    "content": "Article URL: https://compliancelint.dev/ Comments URL: https://news.ycombinator.com/item?id=48600132 Points: 1 # Comments: 0",
+    "author": "ki_sum_ai",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://compliancelint.dev/",
+    "id": "news-2946"
+  },
+  {
+    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 3 # Comments: 0",
+    "content": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 3 # Comments: 0",
+    "author": "oshrimpton",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arrowtsx.dev/bigger-models/",
+    "id": "news-2945"
+  },
+  {
+    "title": "I had an AI run my \"revolutionary\" idea overnight, then tell me it wasn't novel",
+    "summary": "Article URL: https://medium.com/@jmafonsomoreira/i-let-an-ai-run-a-revolutionary-idea-on-my-macbook-overnight-d764909f8e4a Comments URL: https://news.ycombinator.com/item?id=48600181 Points: 1 # Comme",
+    "content": "Article URL: https://medium.com/@jmafonsomoreira/i-let-an-ai-run-a-revolutionary-idea-on-my-macbook-overnight-d764909f8e4a Comments URL: https://news.ycombinator.com/item?id=48600181 Points: 1 # Comments: 1",
+    "author": "jmam",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@jmafonsomoreira/i-let-an-ai-run-a-revolutionary-idea-on-my-macbook-overnight-d764909f8e4a",
+    "id": "news-2944"
+  },
+  {
+    "title": "AI-assisted off-site backup guide take ~25 minutes",
+    "summary": "Article URL: https://guides.endusergeek.com/never-lose-your-stuff/ Comments URL: https://news.ycombinator.com/item?id=48600205 Points: 1 # Comments: 0",
+    "content": "Article URL: https://guides.endusergeek.com/never-lose-your-stuff/ Comments URL: https://news.ycombinator.com/item?id=48600205 Points: 1 # Comments: 0",
+    "author": "responsiblparty",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://guides.endusergeek.com/never-lose-your-stuff/",
+    "id": "news-2943"
+  },
+  {
+    "title": "Do you think we have got to the top of the rapid AI breakthroughs?",
+    "summary": "2024-2025, we saw lots of massive releases with tangible quality changes. To me experience, that hockey stick is no longer there for releases since the beginning of this year. Is AI hitting a bottlene",
+    "content": "2024-2025, we saw lots of massive releases with tangible quality changes. To me experience, that hockey stick is no longer there for releases since the beginning of this year. Is AI hitting a bottleneck now? Comments URL: https://news.ycombinator.com/item?id=48600224 Points: 1 # Comments: 1",
+    "author": "meligoli",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48600224",
+    "id": "news-2942"
+  },
+  {
     "title": "Google appeals ruling that made it directly liable for AI-generated search overview content",
     "summary": "Google is appealing the ruling by Germany's Munich Regional Court, which held the company directly liable for inaccurate AI search results. The AI had falsely linked two Munich-based publishers to fra",
     "content": "Google is appealing the ruling by Germany's Munich Regional Court, which held the company directly liable for inaccurate AI search results. The AI had falsely linked two Munich-based publishers to fraud schemes. Google calls them \"minor errors,\" but the court saw it differently. The article Google appeals ruling that made it directly liable for AI-generated search overview content appeared first on The Decoder.",
