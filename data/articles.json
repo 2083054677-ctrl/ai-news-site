@@ -1,5 +1,96 @@
 [
   {
+    "title": "Google appeals ruling that made it directly liable for AI-generated search overview content",
+    "summary": "Google is appealing the ruling by Germany's Munich Regional Court, which held the company directly liable for inaccurate AI search results. The AI had falsely linked two Munich-based publishers to fra",
+    "content": "Google is appealing the ruling by Germany's Munich Regional Court, which held the company directly liable for inaccurate AI search results. The AI had falsely linked two Munich-based publishers to fraud schemes. Google calls them \"minor errors,\" but the court saw it differently. The article Google appeals ruling that made it directly liable for AI-generated search overview content appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/",
+    "id": "news-2941"
+  },
+  {
+    "title": "OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate",
+    "summary": "OpenAI researchers show that reinforcement learning on desired behavioral traits like truthfulness and corrigibility works across domains. Training on health data also improved deception detection, an",
+    "content": "OpenAI researchers show that reinforcement learning on desired behavioral traits like truthfulness and corrigibility works across domains. Training on health data also improved deception detection, and the model scored better on 44 out of 53 benchmarks. The approach differs from Anthropic's constitution-based method. The article OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/",
+    "id": "news-2940"
+  },
+  {
+    "title": "Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs",
+    "summary": "Article URL: https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256 Comments URL: https://news.ycombinator.com/item?id=48598086 Points: 3 # Co",
+    "content": "Article URL: https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256 Comments URL: https://news.ycombinator.com/item?id=48598086 Points: 3 # Comments: 1",
+    "author": "root-parent",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256",
+    "id": "news-2939"
+  },
+  {
+    "title": "Does your mom use AI?",
+    "summary": "Article URL: https://handyai.substack.com/p/does-your-mom-use-ai Comments URL: https://news.ycombinator.com/item?id=48598203 Points: 1 # Comments: 0",
+    "content": "Article URL: https://handyai.substack.com/p/does-your-mom-use-ai Comments URL: https://news.ycombinator.com/item?id=48598203 Points: 1 # Comments: 0",
+    "author": "surprisetalk",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://handyai.substack.com/p/does-your-mom-use-ai",
+    "id": "news-2938"
+  },
+  {
+    "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/ Comments URL: https://news.ycombinator.com/item?id=48598282 Point",
+    "content": "Article URL: https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/ Comments URL: https://news.ycombinator.com/item?id=48598282 Points: 1 # Comments: 0",
+    "author": "ilreb",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+    "id": "news-2937"
+  },
+  {
+    "title": "Matrix Scroll – sign AI-generated code changes with Ed25519, verify offline",
+    "summary": "Article URL: https://github.com/SSX360/matrixscroll Comments URL: https://news.ycombinator.com/item?id=48598284 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/SSX360/matrixscroll Comments URL: https://news.ycombinator.com/item?id=48598284 Points: 1 # Comments: 1",
+    "author": "ssx360",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/SSX360/matrixscroll",
+    "id": "news-2936"
+  },
+  {
+    "title": "I had an AI grade five real pitch decks as they stood the day they were sent",
+    "summary": "Article URL: https://www.coworkers.global/blog/five-pitch-decks-before-anyone-knew Comments URL: https://news.ycombinator.com/item?id=48598326 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.coworkers.global/blog/five-pitch-decks-before-anyone-knew Comments URL: https://news.ycombinator.com/item?id=48598326 Points: 1 # Comments: 0",
+    "author": "c_stack",
+    "date": "2026-06-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.coworkers.global/blog/five-pitch-decks-before-anyone-knew",
+    "id": "news-2935"
+  },
+  {
     "title": "Website \"In the Weights\" shows whether AI models know who you are",
     "summary": "Two former OpenAI employees have built a website called \"In the Weights\" that reveals which people AI models can recall purely from their training data. A strength score of up to 996 shows how deeply ",
     "content": "Two former OpenAI employees have built a website called \"In the Weights\" that reveals which people AI models can recall purely from their training data. A strength score of up to 996 shows how deeply a person is embedded, with Mozart, Shakespeare, and Taylor Swift topping the list. The article Website \"In the Weights\" shows whether AI models know who you are appeared first on The Decoder.",
