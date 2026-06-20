@@ -1,5 +1,109 @@
 [
   {
+    "title": "OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there",
+    "summary": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billi",
+    "content": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billion. With $73 billion in reserves, OpenAI doesn't need fresh capital right now, but a price war with Anthropic could change that fast. The article OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/",
+    "id": "news-2969"
+  },
+  {
+    "title": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
+    "summary": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the w",
+    "content": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected apps, sending alerts only when something actually changes. The previous \"Pulse\" feature is being retired. The article ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
+    "id": "news-2968"
+  },
+  {
+    "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
+    "summary": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable sou",
+    "content": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statements. In a reader study, 74 percent preferred the agent's output over the human original. But against elaborately crafted long-form reports, the agent managed a tie. The article Data2Story turns a CSV file into a verified interactive news article using seven AI ",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
+    "id": "news-2967"
+  },
+  {
+    "title": "Getting Back to Basics by Abusing AI",
+    "summary": "Article URL: https://blog.unitedheroes.net/5752 Comments URL: https://news.ycombinator.com/item?id=48607442 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blog.unitedheroes.net/5752 Comments URL: https://news.ycombinator.com/item?id=48607442 Points: 2 # Comments: 0",
+    "author": "simonebrunozzi",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.unitedheroes.net/5752",
+    "id": "news-2966"
+  },
+  {
+    "title": "Data Center Warfare: Defending AI Infrastructure",
+    "summary": "Article URL: https://mwi.westpoint.edu/data-center-warfare-defending-the-key-terrain-of-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=48607647 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mwi.westpoint.edu/data-center-warfare-defending-the-key-terrain-of-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=48607647 Points: 1 # Comments: 0",
+    "author": "Alien1Being",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mwi.westpoint.edu/data-center-warfare-defending-the-key-terrain-of-ai-infrastructure/",
+    "id": "news-2965"
+  },
+  {
+    "title": "Show HN: Local automation runner with built-in LLM steps – YAML pipelines",
+    "summary": "Article URL: https://rorlikowski.github.io/stepyard/ Comments URL: https://news.ycombinator.com/item?id=48607721 Points: 2 # Comments: 0",
+    "content": "Article URL: https://rorlikowski.github.io/stepyard/ Comments URL: https://news.ycombinator.com/item?id=48607721 Points: 2 # Comments: 0",
+    "author": "rorlikowski",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rorlikowski.github.io/stepyard/",
+    "id": "news-2964"
+  },
+  {
+    "title": "Show HN: Created On-Page SEO Tool – AI Action Plans for Search Console Data",
+    "summary": "Article URL: https://blogr.ai Comments URL: https://news.ycombinator.com/item?id=48607782 Points: 2 # Comments: 1",
+    "content": "Article URL: https://blogr.ai Comments URL: https://news.ycombinator.com/item?id=48607782 Points: 2 # Comments: 1",
+    "author": "karakhanyans",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blogr.ai",
+    "id": "news-2963"
+  },
+  {
+    "title": "Rethinking vulnerability management in the age of AI and CI/CD",
+    "summary": "Article URL: https://blog.apnic.net/2026/06/19/rethinking-vulnerability-management-in-the-age-of-ai-and-ci-cd/ Comments URL: https://news.ycombinator.com/item?id=48608085 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.apnic.net/2026/06/19/rethinking-vulnerability-management-in-the-age-of-ai-and-ci-cd/ Comments URL: https://news.ycombinator.com/item?id=48608085 Points: 1 # Comments: 0",
+    "author": "jruohonen",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.apnic.net/2026/06/19/rethinking-vulnerability-management-in-the-age-of-ai-and-ci-cd/",
+    "id": "news-2962"
+  },
+  {
     "title": "Show HN: Autonomy – Self-Harness/Self-Directed AI Agent Core Under Development",
     "summary": "Article URL: https://autonomy-landing-page.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48606882 Points: 2 # Comments: 0",
     "content": "Article URL: https://autonomy-landing-page.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48606882 Points: 2 # Comments: 0",
