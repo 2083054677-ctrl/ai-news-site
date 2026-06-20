@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Autonomy – Self-Harness/Self-Directed AI Agent Core Under Development",
+    "summary": "Article URL: https://autonomy-landing-page.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48606882 Points: 2 # Comments: 0",
+    "content": "Article URL: https://autonomy-landing-page.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48606882 Points: 2 # Comments: 0",
+    "author": "agentic_vector",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://autonomy-landing-page.vercel.app/",
+    "id": "news-2961"
+  },
+  {
+    "title": "Show HN: A Context Brain for You (and Your AI Agent)",
+    "summary": "Article URL: https://gcontext.ai Comments URL: https://news.ycombinator.com/item?id=48606940 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gcontext.ai Comments URL: https://news.ycombinator.com/item?id=48606940 Points: 1 # Comments: 0",
+    "author": "bsampera",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gcontext.ai",
+    "id": "news-2960"
+  },
+  {
+    "title": "Federal regulators order grid operators speed power2energy-hungry AI datacenters",
+    "summary": "Article URL: https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5 Comments URL: https://news.ycombinator.com/item?id=48606969 Points: 1 # Comments:",
+    "content": "Article URL: https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5 Comments URL: https://news.ycombinator.com/item?id=48606969 Points: 1 # Comments: 0",
+    "author": "latentframe",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+    "id": "news-2959"
+  },
+  {
+    "title": "Ask HN: Will we start seeing tools for LLM use?",
+    "summary": "Many projects and addons exists to reduce the verbosity on standard bash / git /npm etc. Commands that agents pass regularly as tools to LLMs. (eg. rtk, headroom, lean-ctx). Tool output compression do",
+    "content": "Many projects and addons exists to reduce the verbosity on standard bash / git /npm etc. Commands that agents pass regularly as tools to LLMs. (eg. rtk, headroom, lean-ctx). Tool output compression does yield good token savings. Though it can lead to increased turns - effectively nullifying the per turn token savings. This is the current topology. Are we going to see a class of products and libraries that structure o/p to what models want to see? Comments URL: https://news.ycombinator.com/item?i",
+    "author": "bonigv",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48606997",
+    "id": "news-2958"
+  },
+  {
+    "title": "Show HN: StayUp – keep a Mac awake (lid closed) while AI agents are working",
+    "summary": "Article URL: https://getstayup.app Comments URL: https://news.ycombinator.com/item?id=48607172 Points: 1 # Comments: 0",
+    "content": "Article URL: https://getstayup.app Comments URL: https://news.ycombinator.com/item?id=48607172 Points: 1 # Comments: 0",
+    "author": "nongknot",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://getstayup.app",
+    "id": "news-2957"
+  },
+  {
     "title": "I am dreading our LLM-written incident report future",
     "summary": "Article URL: https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/ Comments URL: https://news.ycombinator.com/item?id=48605136 Points: 3 # Comments: 0",
     "content": "Article URL: https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/ Comments URL: https://news.ycombinator.com/item?id=48605136 Points: 3 # Comments: 0",
