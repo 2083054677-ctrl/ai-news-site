@@ -1,5 +1,83 @@
 [
   {
+    "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
+    "summary": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a ",
+    "content": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone says 90 percent of the marketing content on its platform is already AI-generated. The article The EU doesn't really know what a deepfake is, and that's becoming a problem for retail appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+    "id": "news-2987"
+  },
+  {
+    "title": "The reason enterprise AI is stuck",
+    "summary": "Article URL: https://www.fastcompany.com/91555415/real-reason-enterprise-ai-stuck Comments URL: https://news.ycombinator.com/item?id=48611895 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.fastcompany.com/91555415/real-reason-enterprise-ai-stuck Comments URL: https://news.ycombinator.com/item?id=48611895 Points: 1 # Comments: 0",
+    "author": "harperlee",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fastcompany.com/91555415/real-reason-enterprise-ai-stuck",
+    "id": "news-2986"
+  },
+  {
+    "title": "Claude Code Issue management extension for VS Code",
+    "summary": "Article URL: https://www.forq.ink/ Comments URL: https://news.ycombinator.com/item?id=48611912 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.forq.ink/ Comments URL: https://news.ycombinator.com/item?id=48611912 Points: 2 # Comments: 1",
+    "author": "barakolshe",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forq.ink/",
+    "id": "news-2985"
+  },
+  {
+    "title": "Russia Wants AI Sovereignty. It Has a Chip Problem",
+    "summary": "Article URL: https://time.com/article/2026/06/18/russia-ai-putin-chip-us-china/ Comments URL: https://news.ycombinator.com/item?id=48611975 Points: 1 # Comments: 0",
+    "content": "Article URL: https://time.com/article/2026/06/18/russia-ai-putin-chip-us-china/ Comments URL: https://news.ycombinator.com/item?id=48611975 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://time.com/article/2026/06/18/russia-ai-putin-chip-us-china/",
+    "id": "news-2984"
+  },
+  {
+    "title": "AI in Games: The Impact on Sales",
+    "summary": "Article URL: https://www.game-oracle.com/blog/ai-part2 Comments URL: https://news.ycombinator.com/item?id=48611989 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.game-oracle.com/blog/ai-part2 Comments URL: https://news.ycombinator.com/item?id=48611989 Points: 1 # Comments: 0",
+    "author": "Macha",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.game-oracle.com/blog/ai-part2",
+    "id": "news-2983"
+  },
+  {
+    "title": "The Market's AI Fanfare Is Running into a Harsh Political Reality",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b Comments URL: https://news.ycombinator.com/item?id=48612005 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b Comments URL: https://news.ycombinator.com/item?id=48612005 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b",
+    "id": "news-2982"
+  },
+  {
     "title": "AI coding: faster MVP, slower review, and the security bill nobody mentions",
     "summary": "Article URL: https://okaneland.com/study/does-ai-coding-make-you-faster/ Comments URL: https://news.ycombinator.com/item?id=48609711 Points: 2 # Comments: 0",
     "content": "Article URL: https://okaneland.com/study/does-ai-coding-make-you-faster/ Comments URL: https://news.ycombinator.com/item?id=48609711 Points: 2 # Comments: 0",
