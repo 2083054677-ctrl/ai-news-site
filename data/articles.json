@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: Do you use Claude Code, Codex, or something else?",
+    "summary": "Do you use Claude Code, Codex, or a different vibe coding/agentic engineering tool for most of your work? Why? Comments URL: https://news.ycombinator.com/item?id=48612758 Points: 3 # Comments: 2",
+    "content": "Do you use Claude Code, Codex, or a different vibe coding/agentic engineering tool for most of your work? Why? Comments URL: https://news.ycombinator.com/item?id=48612758 Points: 3 # Comments: 2",
+    "author": "JohnDSDev",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48612758",
+    "id": "news-2992"
+  },
+  {
+    "title": "GPUs and RAM Are in Short Supply, but the Real Bottleneck for AI Is Electricians",
+    "summary": "Article URL: https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566 Comments URL: https://news.ycombinator.com/item?id=",
+    "content": "Article URL: https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566 Comments URL: https://news.ycombinator.com/item?id=48612761 Points: 1 # Comments: 0",
+    "author": "Gooblebrai",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566",
+    "id": "news-2991"
+  },
+  {
+    "title": "Why the EU rewrote its landmark AI law",
+    "summary": "Article URL: https://www.theparliamentmagazine.eu/news/article/why-the-eu-rewroteits-landmark-ai-law Comments URL: https://news.ycombinator.com/item?id=48612810 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theparliamentmagazine.eu/news/article/why-the-eu-rewroteits-landmark-ai-law Comments URL: https://news.ycombinator.com/item?id=48612810 Points: 1 # Comments: 0",
+    "author": "thinkingemote",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theparliamentmagazine.eu/news/article/why-the-eu-rewroteits-landmark-ai-law",
+    "id": "news-2990"
+  },
+  {
+    "title": "Pulse – a local dashboard for Claude Code, approve tool calls from your phone",
+    "summary": "Article URL: https://github.com/nikitadoudikov/claude-pulse Comments URL: https://news.ycombinator.com/item?id=48612844 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/nikitadoudikov/claude-pulse Comments URL: https://news.ycombinator.com/item?id=48612844 Points: 1 # Comments: 0",
+    "author": "nikitadvd",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/nikitadoudikov/claude-pulse",
+    "id": "news-2989"
+  },
+  {
+    "title": "Show HN: LoopFlow – loop engineering for Claude Code",
+    "summary": "Article URL: https://github.com/faisalishfaq2005/loopflow Comments URL: https://news.ycombinator.com/item?id=48612954 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/faisalishfaq2005/loopflow Comments URL: https://news.ycombinator.com/item?id=48612954 Points: 1 # Comments: 0",
+    "author": "faisalishfaq",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/faisalishfaq2005/loopflow",
+    "id": "news-2988"
+  },
+  {
     "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
     "summary": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a ",
     "content": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone says 90 percent of the marketing content on its platform is already AI-generated. The article The EU doesn't really know what a deepfake is, and that's becoming a problem for retail appeared first on The Decoder.",
