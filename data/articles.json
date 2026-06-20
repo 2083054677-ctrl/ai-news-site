@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI coding: faster MVP, slower review, and the security bill nobody mentions",
+    "summary": "Article URL: https://okaneland.com/study/does-ai-coding-make-you-faster/ Comments URL: https://news.ycombinator.com/item?id=48609711 Points: 2 # Comments: 0",
+    "content": "Article URL: https://okaneland.com/study/does-ai-coding-make-you-faster/ Comments URL: https://news.ycombinator.com/item?id=48609711 Points: 2 # Comments: 0",
+    "author": "ermantrout",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://okaneland.com/study/does-ai-coding-make-you-faster/",
+    "id": "news-2981"
+  },
+  {
+    "title": "SoftBank rolls out AI-powered 'patching as a service' in Japan",
+    "summary": "Article URL: https://www.lightreading.com/security/softbank-rolls-out-ai-powered-patching-as-a-service-in-japan Comments URL: https://news.ycombinator.com/item?id=48609754 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.lightreading.com/security/softbank-rolls-out-ai-powered-patching-as-a-service-in-japan Comments URL: https://news.ycombinator.com/item?id=48609754 Points: 3 # Comments: 0",
+    "author": "potatowaffle",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lightreading.com/security/softbank-rolls-out-ai-powered-patching-as-a-service-in-japan",
+    "id": "news-2980"
+  },
+  {
+    "title": "TypeScript control plane for AI driven operations",
+    "summary": "Article URL: https://github.com/AI-gateway-systems/attestor Comments URL: https://news.ycombinator.com/item?id=48609772 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/AI-gateway-systems/attestor Comments URL: https://news.ycombinator.com/item?id=48609772 Points: 3 # Comments: 0",
+    "author": "Oxlamarr",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AI-gateway-systems/attestor",
+    "id": "news-2979"
+  },
+  {
+    "title": "Tech companies seeking better control of spending on AI",
+    "summary": "Article URL: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680 Comments URL: https://news.ycombinator.com/item?id=48609901 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680 Comments URL: https://news.ycombinator.com/item?id=48609901 Points: 2 # Comments: 0",
+    "author": "heresie-dabord",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680",
+    "id": "news-2978"
+  },
+  {
+    "title": "Show HN: Tiny.Place – AI Social network for orchestration, payments & jobs",
+    "summary": "Article URL: https://github.com/tinyhumansai/tiny.place Comments URL: https://news.ycombinator.com/item?id=48610019 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/tinyhumansai/tiny.place Comments URL: https://news.ycombinator.com/item?id=48610019 Points: 2 # Comments: 1",
+    "author": "enamakel",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tinyhumansai/tiny.place",
+    "id": "news-2977"
+  },
+  {
     "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
     "summary": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed phy",
     "content": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightweight software. Even if AI succeeds, he sees a problem. The actual business model is to replace entire jobs, with unclear consequences for society. The article NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust appeared fir",
