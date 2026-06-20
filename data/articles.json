@@ -1,5 +1,70 @@
 [
   {
+    "title": "Atlantic investigation reveals millions of songs used for AI music training",
+    "summary": "Article URL: https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/ Comments URL: https://news.ycombinator.com/item?id=48613434 Point",
+    "content": "Article URL: https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/ Comments URL: https://news.ycombinator.com/item?id=48613434 Points: 3 # Comments: 0",
+    "author": "gnabgib",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/",
+    "id": "news-2997"
+  },
+  {
+    "title": "Show HN: Maccha – Cross Agent Brain for Antigravity, Claude Code, OpenCode etc.",
+    "summary": "Multi Agent Continuous Context Harness - MACCHA solves the problem that every AI coding session starts from zero. It combines a file-based 7-tier context architecture with a working memory engine (Mem",
+    "content": "Multi Agent Continuous Context Harness - MACCHA solves the problem that every AI coding session starts from zero. It combines a file-based 7-tier context architecture with a working memory engine (Memanto) that features vector embeddings, confidence decay, and semantic conflict detection — so Antigravity, OpenCode, and Claude Code all share the same persistent, self-improving brain. No 24/7 daemon needed. Comments URL: https://news.ycombinator.com/item?id=48613604 Points: 4 # Comments: 1",
+    "author": "kareldecherf",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/KarelTestSpecial/real-agent-setup",
+    "id": "news-2996"
+  },
+  {
+    "title": "FunnyBench – Can AI Models Tell Funny Jokes?",
+    "summary": "Article URL: https://funnybench.lol Comments URL: https://news.ycombinator.com/item?id=48613679 Points: 3 # Comments: 1",
+    "content": "Article URL: https://funnybench.lol Comments URL: https://news.ycombinator.com/item?id=48613679 Points: 3 # Comments: 1",
+    "author": "Mockapapella",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://funnybench.lol",
+    "id": "news-2995"
+  },
+  {
+    "title": "One Prompt Agentic AI Marketing for Game Developers",
+    "summary": "Article URL: https://www.youtube.com/watch?v=B2ASCTomtIA Comments URL: https://news.ycombinator.com/item?id=48613703 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=B2ASCTomtIA Comments URL: https://news.ycombinator.com/item?id=48613703 Points: 3 # Comments: 0",
+    "author": "bingewave",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=B2ASCTomtIA",
+    "id": "news-2994"
+  },
+  {
+    "title": "Why Amazon hates 'human-in-the-loop' AI governance",
+    "summary": "Article URL: https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639 Comments URL: https://news.ycombinator.com/item?id=48613719 Points: 3 # Comments: ",
+    "content": "Article URL: https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639 Comments URL: https://news.ycombinator.com/item?id=48613719 Points: 3 # Comments: 0",
+    "author": "ano-ther",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
+    "id": "news-2993"
+  },
+  {
     "title": "Ask HN: Do you use Claude Code, Codex, or something else?",
     "summary": "Do you use Claude Code, Codex, or a different vibe coding/agentic engineering tool for most of your work? Why? Comments URL: https://news.ycombinator.com/item?id=48612758 Points: 3 # Comments: 2",
     "content": "Do you use Claude Code, Codex, or a different vibe coding/agentic engineering tool for most of your work? Why? Comments URL: https://news.ycombinator.com/item?id=48612758 Points: 3 # Comments: 2",
