@@ -1,5 +1,96 @@
 [
   {
+    "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+    "summary": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed phy",
+    "content": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightweight software. Even if AI succeeds, he sees a problem. The actual business model is to replace entire jobs, with unclear consequences for society. The article NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust appeared fir",
+    "author": "Matthias Bastian",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+    "id": "news-2976"
+  },
+  {
+    "title": "OpenAI's Codex can now watch you work once and repeat the task forever",
+    "summary": "OpenAI has released the \"Record & Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature ",
+    "content": "OpenAI has released the \"Record & Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available yet in the EU, the UK, or Switzerland. The article OpenAI's Codex can now watch you work once and repeat the task forever appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+    "id": "news-2975"
+  },
+  {
+    "title": "Show HN: FOSS sandbox platform that hides infra secrets from devs and AI agents",
+    "summary": "Hello HN. Cordium is a FOSS, self-hosted, identity-based, general-purpose sandbox platform that I've been working on for a long time now that is built on Kubernetes and Octelium, my main work. The key",
+    "content": "Hello HN. Cordium is a FOSS, self-hosted, identity-based, general-purpose sandbox platform that I've been working on for a long time now that is built on Kubernetes and Octelium, my main work. The key difference here for Cordium, when compared to other dev environments (e.g. GitHub Codespaces) and sandbox platforms (e.g. E2B, Daytona, etc.), is that Cordium automatically provides identity-based, secretless secure access to resources/infrastructure (e.g. APIs, SSH, databases, k8s, etc.) without h",
+    "author": "geoctl",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/octelium/cordium",
+    "id": "news-2974"
+  },
+  {
+    "title": "Anthropic build AI so safe the Gov made them delete it (YouTube) – Patrick Boyle",
+    "summary": "Article URL: https://www.youtube.com/watch?v=AJP6K2_rr90 Comments URL: https://news.ycombinator.com/item?id=48609085 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=AJP6K2_rr90 Comments URL: https://news.ycombinator.com/item?id=48609085 Points: 1 # Comments: 0",
+    "author": "ziptron",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=AJP6K2_rr90",
+    "id": "news-2973"
+  },
+  {
+    "title": "FIDE AI – Research and public infrastructure for faith-facing AI",
+    "summary": "Article URL: https://fideai.substack.com/p/introducing-fide-ai Comments URL: https://news.ycombinator.com/item?id=48609114 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fideai.substack.com/p/introducing-fide-ai Comments URL: https://news.ycombinator.com/item?id=48609114 Points: 1 # Comments: 0",
+    "author": "alexchaomander",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fideai.substack.com/p/introducing-fide-ai",
+    "id": "news-2972"
+  },
+  {
+    "title": "Show HN: I made AI bets for all World Cup games – bet against or with them",
+    "summary": "Article URL: https://www.getaiso.com/tools/world-cup-ai-challenge Comments URL: https://news.ycombinator.com/item?id=48609132 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.getaiso.com/tools/world-cup-ai-challenge Comments URL: https://news.ycombinator.com/item?id=48609132 Points: 1 # Comments: 0",
+    "author": "bentannen",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.getaiso.com/tools/world-cup-ai-challenge",
+    "id": "news-2971"
+  },
+  {
+    "title": "Bun 1.4: The Controversial AI-Driven Rewrite from Zig to Rust",
+    "summary": "Article URL: https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/ Comments URL: https://news.ycombinator.com/item?id=48609168 Points: 1 # Comments: 0",
+    "content": "Article URL: https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/ Comments URL: https://news.ycombinator.com/item?id=48609168 Points: 1 # Comments: 0",
+    "author": "baranul",
+    "date": "2026-06-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/",
+    "id": "news-2970"
+  },
+  {
     "title": "OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there",
     "summary": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billi",
     "content": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billion. With $73 billion in reserves, OpenAI doesn't need fresh capital right now, but a price war with Anthropic could change that fast. The article OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there appeared first on The Decoder.",
