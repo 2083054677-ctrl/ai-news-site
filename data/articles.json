@@ -1,5 +1,70 @@
 [
   {
+    "title": "How the AI Village Works",
+    "summary": "Article URL: https://theaidigest.org/village/blog/how-the-ai-village-works Comments URL: https://news.ycombinator.com/item?id=48614722 Points: 2 # Comments: 0",
+    "content": "Article URL: https://theaidigest.org/village/blog/how-the-ai-village-works Comments URL: https://news.ycombinator.com/item?id=48614722 Points: 2 # Comments: 0",
+    "author": "vinhnx",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theaidigest.org/village/blog/how-the-ai-village-works",
+    "id": "news-3002"
+  },
+  {
+    "title": "XRPentest: AI-powered security audit tool for VR/XR headsets",
+    "summary": "Article URL: https://xrpentest.com Comments URL: https://news.ycombinator.com/item?id=48614768 Points: 1 # Comments: 0",
+    "content": "Article URL: https://xrpentest.com Comments URL: https://news.ycombinator.com/item?id=48614768 Points: 1 # Comments: 0",
+    "author": "h_a_c_k",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xrpentest.com",
+    "id": "news-3001"
+  },
+  {
+    "title": "Ratchet – BIOS flashing toolkit with a built-in MCP server for AI agents",
+    "summary": "Article URL: https://github.com/jackulau/ratchet Comments URL: https://news.ycombinator.com/item?id=48614777 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/jackulau/ratchet Comments URL: https://news.ycombinator.com/item?id=48614777 Points: 2 # Comments: 0",
+    "author": "JackLau",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/jackulau/ratchet",
+    "id": "news-3000"
+  },
+  {
+    "title": "Show HN: Cc-fleet – run other LLMs as Claude Code workers, your sub drives",
+    "summary": "Article URL: https://github.com/ethanhq/cc-fleet Comments URL: https://news.ycombinator.com/item?id=48614868 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ethanhq/cc-fleet Comments URL: https://news.ycombinator.com/item?id=48614868 Points: 1 # Comments: 0",
+    "author": "ethanhq",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ethanhq/cc-fleet",
+    "id": "news-2999"
+  },
+  {
+    "title": "Plotting AI model release cadence: two labs are accelerating, three aren't",
+    "summary": "Article URL: https://swiftalerts.trade/the-cadence-trade-hn Comments URL: https://news.ycombinator.com/item?id=48615059 Points: 1 # Comments: 0",
+    "content": "Article URL: https://swiftalerts.trade/the-cadence-trade-hn Comments URL: https://news.ycombinator.com/item?id=48615059 Points: 1 # Comments: 0",
+    "author": "abipal15",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://swiftalerts.trade/the-cadence-trade-hn",
+    "id": "news-2998"
+  },
+  {
     "title": "Atlantic investigation reveals millions of songs used for AI music training",
     "summary": "Article URL: https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/ Comments URL: https://news.ycombinator.com/item?id=48613434 Point",
     "content": "Article URL: https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/ Comments URL: https://news.ycombinator.com/item?id=48613434 Points: 3 # Comments: 0",
