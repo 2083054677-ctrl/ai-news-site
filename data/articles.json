@@ -1,5 +1,70 @@
 [
   {
+    "title": "Compass – guardrails and a hard budget cap for AI coding agents",
+    "summary": "Article URL: https://github.com/dshakes/compass Comments URL: https://news.ycombinator.com/item?id=48623314 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/dshakes/compass Comments URL: https://news.ycombinator.com/item?id=48623314 Points: 1 # Comments: 0",
+    "author": "chandu1221",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dshakes/compass",
+    "id": "news-3025"
+  },
+  {
+    "title": "Migrating from Claude to DeepSeek without breaking everything",
+    "summary": "Article URL: https://blog.firetiger.com/migrating-from-claude-to-deepseek-without-breaking-everything/ Comments URL: https://news.ycombinator.com/item?id=48623335 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.firetiger.com/migrating-from-claude-to-deepseek-without-breaking-everything/ Comments URL: https://news.ycombinator.com/item?id=48623335 Points: 1 # Comments: 0",
+    "author": "eric_khun",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.firetiger.com/migrating-from-claude-to-deepseek-without-breaking-everything/",
+    "id": "news-3024"
+  },
+  {
+    "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+    "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 2 # Comments: 0",
+    "content": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 2 # Comments: 0",
+    "author": "Anon84",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+    "id": "news-3023"
+  },
+  {
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 1 # Comments: 0",
+    "author": "dev-experiments",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "id": "news-3022"
+  },
+  {
+    "title": "Bill that would mandate AI chip location tracking gains industry support",
+    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/chips-security-act-gains-industry-support-letter-rcna350500 Comments URL: https://news.ycombinator.com/item?id=48623494 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nbcnews.com/tech/tech-news/chips-security-act-gains-industry-support-letter-rcna350500 Comments URL: https://news.ycombinator.com/item?id=48623494 Points: 1 # Comments: 0",
+    "author": "elliotbnvl",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nbcnews.com/tech/tech-news/chips-security-act-gains-industry-support-letter-rcna350500",
+    "id": "news-3021"
+  },
+  {
     "title": "You're probably paying GPT prices for tasks that don't need GPT",
     "summary": "Article URL: https://ourtoken.ai/ Comments URL: https://news.ycombinator.com/item?id=48622224 Points: 2 # Comments: 0",
     "content": "Article URL: https://ourtoken.ai/ Comments URL: https://news.ycombinator.com/item?id=48622224 Points: 2 # Comments: 0",
