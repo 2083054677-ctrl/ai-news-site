@@ -1,5 +1,70 @@
 [
   {
+    "title": "You're probably paying GPT prices for tasks that don't need GPT",
+    "summary": "Article URL: https://ourtoken.ai/ Comments URL: https://news.ycombinator.com/item?id=48622224 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ourtoken.ai/ Comments URL: https://news.ycombinator.com/item?id=48622224 Points: 2 # Comments: 0",
+    "author": "AislinnYang",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ourtoken.ai/",
+    "id": "news-3020"
+  },
+  {
+    "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
+    "summary": "If you trace the timeline of how LLMs went from a technologist's dream to early text-generation toys, to the world-shifting launch of ChatGPT, and finally to the daily drivers of modern programming (S",
+    "content": "If you trace the timeline of how LLMs went from a technologist's dream to early text-generation toys, to the world-shifting launch of ChatGPT, and finally to the daily drivers of modern programming (Sonnet, Opus), it has taken less than a decade. It’s a thrilling, almost unbelievable tale.Let's look at how we got here, and the wall the industry is currently hitting.- The Dream Phase (2010-2016). By the dawn of the last decade (2011), an interesting thing was happening. The two platforms, Wikiped",
+    "author": "pyeri",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48622280",
+    "id": "news-3019"
+  },
+  {
+    "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
+    "summary": "Article URL: https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/ Comments URL: https://news.ycombinator.com/item?id=48622323 Points: 3 # C",
+    "content": "Article URL: https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/ Comments URL: https://news.ycombinator.com/item?id=48622323 Points: 3 # Comments: 0",
+    "author": "javaeeeee",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
+    "id": "news-3018"
+  },
+  {
+    "title": "AuraText – a Windows overlay that brings AI into any text field URL",
+    "summary": "Article URL: https://auratxt.com/ Comments URL: https://news.ycombinator.com/item?id=48622449 Points: 1 # Comments: 0",
+    "content": "Article URL: https://auratxt.com/ Comments URL: https://news.ycombinator.com/item?id=48622449 Points: 1 # Comments: 0",
+    "author": "yashra4j",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://auratxt.com/",
+    "id": "news-3017"
+  },
+  {
+    "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+    "summary": "Article URL: https://github.com/Jake1848/conduit Comments URL: https://news.ycombinator.com/item?id=48622458 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Jake1848/conduit Comments URL: https://news.ycombinator.com/item?id=48622458 Points: 1 # Comments: 0",
+    "author": "conduitbtc",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Jake1848/conduit",
+    "id": "news-3016"
+  },
+  {
     "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
     "summary": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowledge graph from corporate data to give AI ",
     "content": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowledge graph from corporate data to give AI agents the business context they need. Both tackle the same problem: agents that write code fast but get things wrong too often. The article AWS says AI agents lack business context and security, launches two services to patch the gaps appeared first on The Decoder.",
