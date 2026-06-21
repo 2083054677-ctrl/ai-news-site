@@ -1,5 +1,70 @@
 [
   {
+    "title": "LBE – open-source execution control layer for AI agents",
+    "summary": "Article URL: https://github.com/Letterblack0306/LetterBlack-Sentinel Comments URL: https://news.ycombinator.com/item?id=48616412 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/Letterblack0306/LetterBlack-Sentinel Comments URL: https://news.ycombinator.com/item?id=48616412 Points: 2 # Comments: 0",
+    "author": "letterblack0306",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Letterblack0306/LetterBlack-Sentinel",
+    "id": "news-3007"
+  },
+  {
+    "title": "AI didn't kill our bootstrapped software company, it doubled our revenue",
+    "summary": "Article URL: https://www.nocobase.com/en/blog/future-of-software-programmers-revenue-doubled Comments URL: https://news.ycombinator.com/item?id=48616446 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nocobase.com/en/blog/future-of-software-programmers-revenue-doubled Comments URL: https://news.ycombinator.com/item?id=48616446 Points: 1 # Comments: 0",
+    "author": "mountainview",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nocobase.com/en/blog/future-of-software-programmers-revenue-doubled",
+    "id": "news-3006"
+  },
+  {
+    "title": "I made an Time-Based AI coding agent",
+    "summary": "Domain: https://hourly.krl.kr Github: https://github.com/3289david/hourlyFeatures: Time based web IDE Unlimited AI for that session A secure terminal with 0.5vcpu and 512MB ram Github integration Code",
+    "content": "Domain: https://hourly.krl.kr Github: https://github.com/3289david/hourlyFeatures: Time based web IDE Unlimited AI for that session A secure terminal with 0.5vcpu and 512MB ram Github integration Code EditorAccess your workspace on other devices too!hourly.krl.kr Comments URL: https://news.ycombinator.com/item?id=48616596 Points: 1 # Comments: 1",
+    "author": "david3289",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48616596",
+    "id": "news-3005"
+  },
+  {
+    "title": "Agent-trace: A standard format for tracing AI-generated code",
+    "summary": "Article URL: https://github.com/cursor/agent-trace Comments URL: https://news.ycombinator.com/item?id=48616614 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/cursor/agent-trace Comments URL: https://news.ycombinator.com/item?id=48616614 Points: 1 # Comments: 0",
+    "author": "Garbage",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/cursor/agent-trace",
+    "id": "news-3004"
+  },
+  {
+    "title": "Governing AI-agent actions via a network intent layer (NILScript)",
+    "summary": "Article URL: https://zenodo.org/records/20774491 Comments URL: https://news.ycombinator.com/item?id=48616674 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/20774491 Comments URL: https://news.ycombinator.com/item?id=48616674 Points: 1 # Comments: 0",
+    "author": "bashierkh",
+    "date": "2026-06-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/20774491",
+    "id": "news-3003"
+  },
+  {
     "title": "How the AI Village Works",
     "summary": "Article URL: https://theaidigest.org/village/blog/how-the-ai-village-works Comments URL: https://news.ycombinator.com/item?id=48614722 Points: 2 # Comments: 0",
     "content": "Article URL: https://theaidigest.org/village/blog/how-the-ai-village-works Comments URL: https://news.ycombinator.com/item?id=48614722 Points: 2 # Comments: 0",
