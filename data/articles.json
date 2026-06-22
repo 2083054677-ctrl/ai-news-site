@@ -1,5 +1,71 @@
 [
   {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "id": "news-3041"
+  },
+  {
+    "title": "Samsung rolls out ChatGPT Enterprise and Codex to employees in South Korea",
+    "summary": "Samsung Electronics is deploying ChatGPT Enterprise and Codex to all employees in South Korea and everyone in its Device eXperience (DX) division worldwide. The article Samsung rolls out ChatGPT Enter",
+    "content": "Samsung Electronics is deploying ChatGPT Enterprise and Codex to all employees in South Korea and everyone in its Device eXperience (DX) division worldwide. The article Samsung rolls out ChatGPT Enterprise and Codex to employees in South Korea appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/samsung-rolls-out-chatgpt-enterprise-and-codex-to-employees-in-south-korea/",
+    "id": "news-3040"
+  },
+  {
+    "title": "Vibecoding is becoming a deal-breaker test for software acquisitions",
+    "summary": "To assess the competitive advantage of potential acquisition targets, Bain & Company uses Vibecoding to replicate their software. These AI replicas are already influencing specific purchasing decision",
+    "content": "To assess the competitive advantage of potential acquisition targets, Bain & Company uses Vibecoding to replicate their software. These AI replicas are already influencing specific purchasing decisions. The article Vibecoding is becoming a deal-breaker test for software acquisitions appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/vibecoding-is-becoming-a-deal-breaker-test-for-software-acquisitions/",
+    "id": "news-3039"
+  },
+  {
+    "title": "Five Eyes intelligence alliance says frontier AI models could reshape offensive cyber ops in months",
+    "summary": "The Five Eyes intelligence agencies warn: AI models capable of taking down governments and businesses are only months away. That's according to the Guardian. The article Five Eyes intelligence allianc",
+    "content": "The Five Eyes intelligence agencies warn: AI models capable of taking down governments and businesses are only months away. That's according to the Guardian. The article Five Eyes intelligence alliance says frontier AI models could reshape offensive cyber ops in months appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/",
+    "id": "news-3038"
+  },
+  {
+    "title": "Google Deepmind and A24 team up on AI filmmaking research",
+    "summary": "Google Deepmind and film studio A24 are entering a long-term research partnership. Google is also investing roughly $75 million in A24, according to the Wall Street Journal. The article Google Deepmin",
+    "content": "Google Deepmind and film studio A24 are entering a long-term research partnership. Google is also investing roughly $75 million in A24, according to the Wall Street Journal. The article Google Deepmind and A24 team up on AI filmmaking research appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepmind-and-a24-team-up-on-ai-filmmaking-research/",
+    "id": "news-3037"
+  },
+  {
     "title": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks",
     "summary": "Japanese AI startup Sakana AI is launching Fugu, a system that coordinates multiple AI models on the fly to compete with leaders like Anthropic's Fable 5. The approach also aims to cut dependence on a",
     "content": "Japanese AI startup Sakana AI is launching Fugu, a system that coordinates multiple AI models on the fly to compete with leaders like Anthropic's Fable 5. The approach also aims to cut dependence on any single AI provider. The article Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks appeared first on The Decoder.",
