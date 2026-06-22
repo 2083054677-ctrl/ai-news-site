@@ -1,5 +1,57 @@
 [
   {
+    "title": "Five Eyes joint statement on AI models taking down governments and businesses",
+    "summary": "Article URL: https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement Comments URL: https://news.ycombinator.com/item?id=48636626 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement Comments URL: https://news.ycombinator.com/item?id=48636626 Points: 1 # Comments: 0",
+    "author": "thoughtpeddler",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement",
+    "id": "news-3054"
+  },
+  {
+    "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+    "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 4 # Comments",
+    "content": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 4 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+    "id": "news-3053"
+  },
+  {
+    "title": "Why most AI evals would miss the Linear sales email failure",
+    "summary": "Article URL: https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/ Comments URL: https://news.ycombinator.com/item?id=48636731 Points: 2 # Comments: 0",
+    "content": "Article URL: https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/ Comments URL: https://news.ycombinator.com/item?id=48636731 Points: 2 # Comments: 0",
+    "author": "jflynt76",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/",
+    "id": "news-3052"
+  },
+  {
+    "title": "Software Engineers Face an AI 'Identity Crisis,' VC Partner Says",
+    "summary": "Article URL: https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636741 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636741 Points: 1 # Comments: 0",
+    "author": "simonpure",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6",
+    "id": "news-3051"
+  },
+  {
     "title": "Getty Images strikes multi-year deal to put licensed photos in ChatGPT search",
     "summary": "Getty Images has entered into a multi-year licensing agreement with OpenAI. The article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
     "content": "Getty Images has entered into a multi-year licensing agreement with OpenAI. The article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
