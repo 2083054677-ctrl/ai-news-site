@@ -1,5 +1,83 @@
 [
   {
+    "title": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks",
+    "summary": "Japanese AI startup Sakana AI is launching Fugu, a system that coordinates multiple AI models on the fly to compete with leaders like Anthropic's Fable 5. The approach also aims to cut dependence on a",
+    "content": "Japanese AI startup Sakana AI is launching Fugu, a system that coordinates multiple AI models on the fly to compete with leaders like Anthropic's Fable 5. The approach also aims to cut dependence on any single AI provider. The article Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/",
+    "id": "news-3036"
+  },
+  {
+    "title": "Yann LeCun „World Models: Enabling the Next AI Revolution\" [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=72Xj8k5WQX4 Comments URL: https://news.ycombinator.com/item?id=48627476 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=72Xj8k5WQX4 Comments URL: https://news.ycombinator.com/item?id=48627476 Points: 2 # Comments: 0",
+    "author": "dgellow",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=72Xj8k5WQX4",
+    "id": "news-3035"
+  },
+  {
+    "title": "Minia2a – A Marketplace Where AI Agents Earn Money",
+    "summary": "Article URL: https://minia2a.uk Comments URL: https://news.ycombinator.com/item?id=48627509 Points: 1 # Comments: 1",
+    "content": "Article URL: https://minia2a.uk Comments URL: https://news.ycombinator.com/item?id=48627509 Points: 1 # Comments: 1",
+    "author": "dgyte",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://minia2a.uk",
+    "id": "news-3034"
+  },
+  {
+    "title": "Lessons from Building Evals for Financial AI Agents",
+    "summary": "Article URL: https://www.primerapp.com/blog/lessons-from-3-years-of-evals/ Comments URL: https://news.ycombinator.com/item?id=48627563 Points: 3 # Comments: 3",
+    "content": "Article URL: https://www.primerapp.com/blog/lessons-from-3-years-of-evals/ Comments URL: https://news.ycombinator.com/item?id=48627563 Points: 3 # Comments: 3",
+    "author": "smallwoodal",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.primerapp.com/blog/lessons-from-3-years-of-evals/",
+    "id": "news-3033"
+  },
+  {
+    "title": "Data centers become the face of AI backlash",
+    "summary": "Article URL: https://www.axios.com/2026/06/22/ai-data-center-backlash-poll Comments URL: https://news.ycombinator.com/item?id=48627730 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/06/22/ai-data-center-backlash-poll Comments URL: https://news.ycombinator.com/item?id=48627730 Points: 2 # Comments: 0",
+    "author": "ilreb",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/06/22/ai-data-center-backlash-poll",
+    "id": "news-3032"
+  },
+  {
+    "title": "Generative AI Music Attribution Rethinks Royalties",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-music-attribution Comments URL: https://news.ycombinator.com/item?id=48627917 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/ai-music-attribution Comments URL: https://news.ycombinator.com/item?id=48627917 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/ai-music-attribution",
+    "id": "news-3031"
+  },
+  {
     "title": "Why the Human Genome's Tangled Physicality May Confound AI",
     "summary": "Article URL: https://www.quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618/ Comments URL: https://news.ycombinator.com/item?id=48624755 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618/ Comments URL: https://news.ycombinator.com/item?id=48624755 Points: 1 # Comments: 0",
