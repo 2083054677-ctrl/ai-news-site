@@ -1,5 +1,122 @@
 [
   {
+    "title": "Getty Images strikes multi-year deal to put licensed photos in ChatGPT search",
+    "summary": "Getty Images has entered into a multi-year licensing agreement with OpenAI. The article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
+    "content": "Getty Images has entered into a multi-year licensing agreement with OpenAI. The article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/getty-images-strikes-multi-year-deal-to-put-licensed-photos-in-chatgpt-search/",
+    "id": "news-3050"
+  },
+  {
+    "title": "Microsoft is building a 2-gigawatt data center in Texas with its own gas plant to dodge the grid",
+    "summary": "Microsoft is building a roughly 2-gigawatt data center campus in Pecos, Texas, one of the biggest single capacity adds in its history. In an open letter, the company promises stable power prices and m",
+    "content": "Microsoft is building a roughly 2-gigawatt data center campus in Pecos, Texas, one of the biggest single capacity adds in its history. In an open letter, the company promises stable power prices and minimal water use, directly addressing the local backlash that has killed dozens of data center projects across the US. The article Microsoft is building a 2-gigawatt data center in Texas with its own gas plant to dodge the grid appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/",
+    "id": "news-3049"
+  },
+  {
+    "title": "Anthropic and Micron want to co-design AI memory architecture",
+    "summary": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure. Anthropic co-founder Tom Brown calls memory critical to training and runni",
+    "content": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure. Anthropic co-founder Tom Brown calls memory critical to training and running Claude. Critics say circular deals like this are inflating a bubble. Micron's stock has surged more than tenfold in a single year. The article Anthropic and Micron want to co-design AI memory architecture appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/",
+    "id": "news-3048"
+  },
+  {
+    "title": "Google makes Interactions API the default interface for Gemini models and agents",
+    "summary": "Google Deepmind has made the Interactions API the default interface for Gemini models and agents. It replaces the old generateContent API and uses a simplified schema with typed steps instead of role-",
+    "content": "Google Deepmind has made the Interactions API the default interface for Gemini models and agents. It replaces the old generateContent API and uses a simplified schema with typed steps instead of role-based structures. New agent features will only ship through this API going forward. The article Google makes Interactions API the default interface for Gemini models and agents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/",
+    "id": "news-3047"
+  },
+  {
+    "title": "Offrrd – Your AI job-search coach",
+    "summary": "Article URL: https://offrrd.com Comments URL: https://news.ycombinator.com/item?id=48634352 Points: 1 # Comments: 0",
+    "content": "Article URL: https://offrrd.com Comments URL: https://news.ycombinator.com/item?id=48634352 Points: 1 # Comments: 0",
+    "author": "mbjjr",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://offrrd.com",
+    "id": "news-3046"
+  },
+  {
+    "title": "Ask HN: How to manage AI spam in inbox?",
+    "summary": "My inbox is getting flooded in clearly AI written emails. Have you found a solution for removing these automatically? Comments URL: https://news.ycombinator.com/item?id=48634437 Points: 1 # Comments: ",
+    "content": "My inbox is getting flooded in clearly AI written emails. Have you found a solution for removing these automatically? Comments URL: https://news.ycombinator.com/item?id=48634437 Points: 1 # Comments: 0",
+    "author": "bmau5",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48634437",
+    "id": "news-3045"
+  },
+  {
+    "title": "OpenAI Codex has a bug that could kill your SSD in under a year",
+    "summary": "Article URL: https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html Comments URL: https://news.ycombinator.com/item?id=48634658 Points: 3 # Commen",
+    "content": "Article URL: https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html Comments URL: https://news.ycombinator.com/item?id=48634658 Points: 3 # Comments: 0",
+    "author": "abixb",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html",
+    "id": "news-3044"
+  },
+  {
+    "title": "Sovereign AI: Why Owning the Full Stack Is the New Strategic Imperative",
+    "summary": "Article URL: https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/ Comments URL: https://news.ycombinator.com/item?id=48634678 Poi",
+    "content": "Article URL: https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/ Comments URL: https://news.ycombinator.com/item?id=48634678 Points: 1 # Comments: 0",
+    "author": "zzzeek",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/",
+    "id": "news-3043"
+  },
+  {
+    "title": "Claude: Elevated errors across many models",
+    "summary": "Article URL: https://status.claude.com/incidents/bbcpk0t2cj4p Comments URL: https://news.ycombinator.com/item?id=48634720 Points: 1 # Comments: 0",
+    "content": "Article URL: https://status.claude.com/incidents/bbcpk0t2cj4p Comments URL: https://news.ycombinator.com/item?id=48634720 Points: 1 # Comments: 0",
+    "author": "forks",
+    "date": "2026-06-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://status.claude.com/incidents/bbcpk0t2cj4p",
+    "id": "news-3042"
+  },
+  {
     "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
     "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
     "content": "",
