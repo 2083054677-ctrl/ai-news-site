@@ -1,5 +1,45 @@
 [
   {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "summary": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "id": "news-3069"
+  },
+  {
+    "title": "Cursor announces its own AI model, a new Git platform, and a mobile app",
+    "summary": "Cursor has revealed new details about its first AI model trained entirely in-house and announced two new products. The article Cursor announces its own AI model, a new Git platform, and a mobile app a",
+    "content": "Cursor has revealed new details about its first AI model trained entirely in-house and announced two new products. The article Cursor announces its own AI model, a new Git platform, and a mobile app appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/",
+    "id": "news-3068"
+  },
+  {
+    "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation",
+    "summary": "ByteDance introduced five new AI models at Volcano Engine's FORCE conference. The centerpiece is Seedance 2.5, a video model set to launch in early July. The article ByteDance's Seedance 2.5 breaks th",
+    "content": "ByteDance introduced five new AI models at Volcano Engine's FORCE conference. The centerpiece is Seedance 2.5, a video model set to launch in early July. The article ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/",
+    "id": "news-3067"
+  },
+  {
     "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
     "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
     "content": "",
