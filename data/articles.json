@@ -1,5 +1,84 @@
 [
   {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "id": "news-3066"
+  },
+  {
+    "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
+    "summary": "OpenAI is expanding its Daybreak cybersecurity initiative with an updated Codex Security plugin, the full GPT-5.5-Cyber model, and a partner network with more than 25 security firms and several govern",
+    "content": "OpenAI is expanding its Daybreak cybersecurity initiative with an updated Codex Security plugin, the full GPT-5.5-Cyber model, and a partner network with more than 25 security firms and several governments. The focus shifts from finding vulnerabilities to patching them automatically. The article OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/",
+    "id": "news-3065"
+  },
+  {
+    "title": "Car Hacking with Claude Code",
+    "summary": "Article URL: https://www.csselectronics.com/pages/can-bus-reverse-engineering-ai-llm-claude Comments URL: https://news.ycombinator.com/item?id=48642917 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.csselectronics.com/pages/can-bus-reverse-engineering-ai-llm-claude Comments URL: https://news.ycombinator.com/item?id=48642917 Points: 1 # Comments: 0",
+    "author": "martinfalch",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.csselectronics.com/pages/can-bus-reverse-engineering-ai-llm-claude",
+    "id": "news-3064"
+  },
+  {
+    "title": "Ask HN: How are pro-LLM projects doing compared to anti-LLM ones?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48642987 Points: 1 # Comments: 1",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=48642987 Points: 1 # Comments: 1",
+    "author": "pullshark91",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48642987",
+    "id": "news-3063"
+  },
+  {
+    "title": "Chatting with an AI Won't Make You a Top Programmer",
+    "summary": "Article URL: https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/ Comments URL: https://news.ycombinator.com/item?id=48643016 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/ Comments URL: https://news.ycombinator.com/item?id=48643016 Points: 1 # Comments: 0",
+    "author": "ibobev",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/",
+    "id": "news-3062"
+  },
+  {
+    "title": "Recommendations for Using LLM-Backed Generative AI in FOSS Contributions",
+    "summary": "Article URL: https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html Comments URL: https://news.ycombinator.com/item?id=48643066 Points: 1 # Comments: 0",
+    "content": "Article URL: https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html Comments URL: https://news.ycombinator.com/item?id=48643066 Points: 1 # Comments: 0",
+    "author": "pella",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html",
+    "id": "news-3061"
+  },
+  {
     "title": "OpenAI DayBreak – GPT-5.5-Cyber",
     "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 3 # Comments: 0",
     "content": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 3 # Comments: 0",
