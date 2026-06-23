@@ -1,5 +1,70 @@
 [
   {
+    "title": "Anthropic gives Claude a permanent seat in your Slack channels",
+    "summary": "Article URL: https://thenewstack.io/anthropic-claude-tag-slack/ Comments URL: https://news.ycombinator.com/item?id=48651337 Points: 1 # Comments: 1",
+    "content": "Article URL: https://thenewstack.io/anthropic-claude-tag-slack/ Comments URL: https://news.ycombinator.com/item?id=48651337 Points: 1 # Comments: 1",
+    "author": "r_singh",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/anthropic-claude-tag-slack/",
+    "id": "news-3080"
+  },
+  {
+    "title": "When is an AI agent's approval prompt a security boundary?",
+    "summary": "Article URL: https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795 Comments URL: https://news.ycombinator.com/item?id=48651375 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795 Comments URL: https://news.ycombinator.com/item?id=48651375 Points: 1 # Comments: 0",
+    "author": "nrig",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
+    "id": "news-3079"
+  },
+  {
+    "title": "4 years as a content writer working with AI",
+    "summary": "Article URL: https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai Comments URL: https://news.ycombinator.com/item?id=48651380 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai Comments URL: https://news.ycombinator.com/item?id=48651380 Points: 1 # Comments: 1",
+    "author": "f3b5",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai",
+    "id": "news-3078"
+  },
+  {
+    "title": "No AI Co-Authors. A Manifesto",
+    "summary": "Article URL: https://no-ai-coauthors.dev Comments URL: https://news.ycombinator.com/item?id=48651494 Points: 5 # Comments: 2",
+    "content": "Article URL: https://no-ai-coauthors.dev Comments URL: https://news.ycombinator.com/item?id=48651494 Points: 5 # Comments: 2",
+    "author": "zethraeus",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://no-ai-coauthors.dev",
+    "id": "news-3077"
+  },
+  {
+    "title": "Lobu: Build AI teammates that watch and act",
+    "summary": "Article URL: https://lobu.ai/ Comments URL: https://news.ycombinator.com/item?id=48651524 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lobu.ai/ Comments URL: https://news.ycombinator.com/item?id=48651524 Points: 1 # Comments: 0",
+    "author": "handfuloflight",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lobu.ai/",
+    "id": "news-3076"
+  },
+  {
     "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
     "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
     "content": "",
