@@ -1,5 +1,84 @@
 [
   {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/cross-origin-storage",
+    "id": "news-3075"
+  },
+  {
+    "title": "Why smarter models won't lead to AI co-workers",
+    "summary": "Article URL: https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html Comments URL: https://news.ycombinator.com/item?id=48650166 Points: 1 # Comments: 0",
+    "content": "Article URL: https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html Comments URL: https://news.ycombinator.com/item?id=48650166 Points: 1 # Comments: 0",
+    "author": "plaidthunder",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html",
+    "id": "news-3074"
+  },
+  {
+    "title": "Show HN: Optimal model routing directly in Claude, Codex and Cursor",
+    "summary": "Article URL: https://github.com/workweave/router Comments URL: https://news.ycombinator.com/item?id=48650230 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/workweave/router Comments URL: https://news.ycombinator.com/item?id=48650230 Points: 1 # Comments: 0",
+    "author": "adchurch",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/workweave/router",
+    "id": "news-3073"
+  },
+  {
+    "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+    "summary": "Article URL: https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409 Comments URL: https://news.ycombinator.com/item?id=48650242 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409 Comments URL: https://news.ycombinator.com/item?id=48650242 Points: 1 # Comments: 0",
+    "author": "b-man",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409",
+    "id": "news-3072"
+  },
+  {
+    "title": "Show HN: Persist OS – Durable decisions for AI code",
+    "summary": "In the past few months, I’ve been building and shipping things extremely fast. Some of the MVPs that I built for my friends were completely vibe-coded and shipped within a day to show a demo.While it ",
+    "content": "In the past few months, I’ve been building and shipping things extremely fast. Some of the MVPs that I built for my friends were completely vibe-coded and shipped within a day to show a demo.While it was a great experience working with AI tools, I wanted to make sure some basics were followed, decisions of what and why written down, obvious things not skipped and that it could scale.That’s why I built persist-os. It’s a CLI that runs locally. No network required. It records the architecture deci",
+    "author": "karthickrmchn",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Karthick-Ramachandran/persist-os",
+    "id": "news-3071"
+  },
+  {
+    "title": "Show HN: Proctor – signed isolation bundles for AI coding-agent benchmarks",
+    "summary": "Article URL: https://github.com/dylanp12/proctor Comments URL: https://news.ycombinator.com/item?id=48650355 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/dylanp12/proctor Comments URL: https://news.ycombinator.com/item?id=48650355 Points: 2 # Comments: 0",
+    "author": "dp12",
+    "date": "2026-06-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dylanp12/proctor",
+    "id": "news-3070"
+  },
+  {
     "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
     "summary": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
     "content": "",
