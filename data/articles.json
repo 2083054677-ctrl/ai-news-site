@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI says ChatGPT Instant now better understands what users actually want",
+    "summary": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable hand",
+    "content": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable handling of complex, multi-condition prompts. The article OpenAI says ChatGPT Instant now better understands what users actually want appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
+    "id": "news-3120"
+  },
+  {
+    "title": "Taiwan Chip Firm ASE Expands for AI Boom",
+    "summary": "Article URL: https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand Comments URL: https://news.ycombinator.com/item?id=48665585 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand Comments URL: https://news.ycombinator.com/item?id=48665585 Points: 1 # Comments: 0",
+    "author": "mmeirovich",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
+    "id": "news-3119"
+  },
+  {
+    "title": "Show HN: Dspyer – self-correcting, optimizable LLM steps for DSPy and LangGraph",
+    "summary": "Article URL: https://github.com/theramkm/dspyer Comments URL: https://news.ycombinator.com/item?id=48665660 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/theramkm/dspyer Comments URL: https://news.ycombinator.com/item?id=48665660 Points: 1 # Comments: 0",
+    "author": "ramkm",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/theramkm/dspyer",
+    "id": "news-3118"
+  },
+  {
+    "title": "Straw: Compress big infra into one md file – 99.5% LLM token reduction",
+    "summary": "Article URL: https://github.com/ilyesarf/straw/ Comments URL: https://news.ycombinator.com/item?id=48665689 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ilyesarf/straw/ Comments URL: https://news.ycombinator.com/item?id=48665689 Points: 1 # Comments: 0",
+    "author": "ilyesarf",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ilyesarf/straw/",
+    "id": "news-3117"
+  },
+  {
+    "title": "An LLM agent that emits typed intent",
+    "summary": "Article URL: https://github.com/gabert/ontocortex Comments URL: https://news.ycombinator.com/item?id=48665700 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/gabert/ontocortex Comments URL: https://news.ycombinator.com/item?id=48665700 Points: 1 # Comments: 0",
+    "author": "gabert",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/gabert/ontocortex",
+    "id": "news-3116"
+  },
+  {
+    "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
+    "summary": "Article URL: https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/ Comments URL: https://news.ycombinator.com/item?id=48665719 Points: 1 # Comments: 0",
+    "content": "Article URL: https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/ Comments URL: https://news.ycombinator.com/item?id=48665719 Points: 1 # Comments: 0",
+    "author": "The_Fox",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+    "id": "news-3115"
+  },
+  {
     "title": "Ask HN: Why don't LLM harnesses enable/expose custom middleware hooks?",
     "summary": "I want to be able to execute a prompt derived from a piece of structured data (JSON) by transforming it into markdown and decorating it at prompt-time, without building my own infrastructure around or",
     "content": "I want to be able to execute a prompt derived from a piece of structured data (JSON) by transforming it into markdown and decorating it at prompt-time, without building my own infrastructure around or alongside the harness... Comments URL: https://news.ycombinator.com/item?id=48664360 Points: 3 # Comments: 0",
