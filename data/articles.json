@@ -1,5 +1,96 @@
 [
   {
+    "title": "Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says",
+    "summary": "Mistral AI has released OCR 4, a new model that reads text from documents like PDFs, Word files, and PowerPoint presentations. The article Mistral's new OCR model beats competitors in 72 percent of bl",
+    "content": "Mistral AI has released OCR 4, a new model that reads text from documents like PDFs, Word files, and PowerPoint presentations. The article Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistrals-new-ocr-model-beats-competitors-in-72-percent-of-blind-test-cases-company-says/",
+    "id": "news-3092"
+  },
+  {
+    "title": "Claude Tag embeds Anthropic's AI in Slack, already writes 65 percent of internal code, company says",
+    "summary": "Claude Tag lets teams bring Anthropic's AI into Slack by tagging @Claude in any channel and assigning it tasks. Internally, the tool already generates 65 percent of the code on Anthropic's product tea",
+    "content": "Claude Tag lets teams bring Anthropic's AI into Slack by tagging @Claude in any channel and assigning it tasks. Internally, the tool already generates 65 percent of the code on Anthropic's product team, the company says. The article Claude Tag embeds Anthropic's AI in Slack, already writes 65 percent of internal code, company says appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/",
+    "id": "news-3091"
+  },
+  {
+    "title": "What Is an AI Agent Management Platform (AMP)?",
+    "summary": "Article URL: https://www.execlave.com/blog/what-is-an-ai-agent-management-platform Comments URL: https://news.ycombinator.com/item?id=48657599 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.execlave.com/blog/what-is-an-ai-agent-management-platform Comments URL: https://news.ycombinator.com/item?id=48657599 Points: 1 # Comments: 0",
+    "author": "brl1313",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.execlave.com/blog/what-is-an-ai-agent-management-platform",
+    "id": "news-3090"
+  },
+  {
+    "title": "AI is learning to read the room",
+    "summary": "Article URL: https://spectrum.ieee.org/emotion-ai-context Comments URL: https://news.ycombinator.com/item?id=48657600 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/emotion-ai-context Comments URL: https://news.ycombinator.com/item?id=48657600 Points: 1 # Comments: 0",
+    "author": "pseudolus",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/emotion-ai-context",
+    "id": "news-3089"
+  },
+  {
+    "title": "Execlave vs. Credo AI: honest technical comparison",
+    "summary": "Article URL: https://www.execlave.com/blog/execlave-vs-credo-ai Comments URL: https://news.ycombinator.com/item?id=48657603 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.execlave.com/blog/execlave-vs-credo-ai Comments URL: https://news.ycombinator.com/item?id=48657603 Points: 1 # Comments: 0",
+    "author": "brl1313",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.execlave.com/blog/execlave-vs-credo-ai",
+    "id": "news-3088"
+  },
+  {
+    "title": "Giving AI human-like memory limits (3–7 words) could improve language learning",
+    "summary": "Article URL: https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning Comments URL: https://news.ycombinator.com/item?id=48657607 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning Comments URL: https://news.ycombinator.com/item?id=48657607 Points: 2 # Comments: 1",
+    "author": "giuliomagnifico",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning",
+    "id": "news-3087"
+  },
+  {
+    "title": "Show HN: Execlave – AI Agent Management Platform for Governance and Enforcement",
+    "summary": "Article URL: https://www.execlave.com Comments URL: https://news.ycombinator.com/item?id=48657787 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.execlave.com Comments URL: https://news.ycombinator.com/item?id=48657787 Points: 1 # Comments: 0",
+    "author": "rishitmavani",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.execlave.com",
+    "id": "news-3086"
+  },
+  {
     "title": "UN chief urges AI companies to 'come clean' about the pollution they generate",
     "summary": "Article URL: https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create Comments URL: https://news.ycombinator.com/item?id=48653894 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create Comments URL: https://news.ycombinator.com/item?id=48653894 Points: 2 # Comments: 0",
