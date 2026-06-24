@@ -1,5 +1,70 @@
 [
   {
+    "title": "My 75-Year-Old Dad Just Replaced Me with AI",
+    "summary": "Article URL: https://suyuen.medium.com/my-75-year-old-dad-just-replaced-me-with-ai-bfd716157516 Comments URL: https://news.ycombinator.com/item?id=48666130 Points: 3 # Comments: 3",
+    "content": "Article URL: https://suyuen.medium.com/my-75-year-old-dad-just-replaced-me-with-ai-bfd716157516 Comments URL: https://news.ycombinator.com/item?id=48666130 Points: 3 # Comments: 3",
+    "author": "su_yuen",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://suyuen.medium.com/my-75-year-old-dad-just-replaced-me-with-ai-bfd716157516",
+    "id": "news-3125"
+  },
+  {
+    "title": "AI Browser Game Jam 3 submissions closed with 85 AI-assisted browser games",
+    "summary": "Article URL: https://itch.io/jam/ai-game-jam-3/entries Comments URL: https://news.ycombinator.com/item?id=48666150 Points: 1 # Comments: 1",
+    "content": "Article URL: https://itch.io/jam/ai-game-jam-3/entries Comments URL: https://news.ycombinator.com/item?id=48666150 Points: 1 # Comments: 1",
+    "author": "KilledByAPixel",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://itch.io/jam/ai-game-jam-3/entries",
+    "id": "news-3124"
+  },
+  {
+    "title": "A24 Knows You're Mad About the Google AI Collab",
+    "summary": "Article URL: https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/ Comments URL: https://news.ycombinator.com/item?id=48666178 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/ Comments URL: https://news.ycombinator.com/item?id=48666178 Points: 4 # Comments: 1",
+    "author": "nate",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+    "id": "news-3123"
+  },
+  {
+    "title": "I Built a Zero-Trust Resume Pipeline to Stop AI from Hallucinating",
+    "summary": "Article URL: https://github.com/Gotili/EigenCV Comments URL: https://news.ycombinator.com/item?id=48666185 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Gotili/EigenCV Comments URL: https://news.ycombinator.com/item?id=48666185 Points: 1 # Comments: 0",
+    "author": "g0tili",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Gotili/EigenCV",
+    "id": "news-3122"
+  },
+  {
+    "title": "Show HN: RealTube – Watch YouTube with filters for AI-generated content",
+    "summary": "Article URL: https://realtube.io Comments URL: https://news.ycombinator.com/item?id=48666398 Points: 1 # Comments: 0",
+    "content": "Article URL: https://realtube.io Comments URL: https://news.ycombinator.com/item?id=48666398 Points: 1 # Comments: 0",
+    "author": "danielpop",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://realtube.io",
+    "id": "news-3121"
+  },
+  {
     "title": "OpenAI says ChatGPT Instant now better understands what users actually want",
     "summary": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable hand",
     "content": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable handling of complex, multi-condition prompts. The article OpenAI says ChatGPT Instant now better understands what users actually want appeared first on The Decoder.",
