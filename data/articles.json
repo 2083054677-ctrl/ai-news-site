@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: Why don't LLM harnesses enable/expose custom middleware hooks?",
+    "summary": "I want to be able to execute a prompt derived from a piece of structured data (JSON) by transforming it into markdown and decorating it at prompt-time, without building my own infrastructure around or",
+    "content": "I want to be able to execute a prompt derived from a piece of structured data (JSON) by transforming it into markdown and decorating it at prompt-time, without building my own infrastructure around or alongside the harness... Comments URL: https://news.ycombinator.com/item?id=48664360 Points: 3 # Comments: 0",
+    "author": "fur-tea-laser",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48664360",
+    "id": "news-3114"
+  },
+  {
+    "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+    "summary": "Article URL: https://arxiv.org/abs/2602.21548 Comments URL: https://news.ycombinator.com/item?id=48664361 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2602.21548 Comments URL: https://news.ycombinator.com/item?id=48664361 Points: 1 # Comments: 0",
+    "author": "yogthos",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2602.21548",
+    "id": "news-3113"
+  },
+  {
+    "title": "The skills I think we might gain (AI)",
+    "summary": "Article URL: https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace Comments URL: https://news.ycombinator.com/item?id=48664505 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace Comments URL: https://news.ycombinator.com/item?id=48664505 Points: 1 # Comments: 0",
+    "author": "gb2d_hn",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
+    "id": "news-3112"
+  },
+  {
+    "title": "Are AI chatbots politically biased?",
+    "summary": "Article URL: https://twitter.com/ianbremmer/status/2069744192230764723 Comments URL: https://news.ycombinator.com/item?id=48664533 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/ianbremmer/status/2069744192230764723 Comments URL: https://news.ycombinator.com/item?id=48664533 Points: 1 # Comments: 0",
+    "author": "MrBuddyCasino",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/ianbremmer/status/2069744192230764723",
+    "id": "news-3111"
+  },
+  {
+    "title": "Every AI Memory Benchmark Has an Asterisk",
+    "summary": "Article URL: https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/ Comments URL: https://news.ycombinator.com/item?id=48664538 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/ Comments URL: https://news.ycombinator.com/item?id=48664538 Points: 1 # Comments: 0",
+    "author": "freewilly25",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
+    "id": "news-3110"
+  },
+  {
     "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
     "summary": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
     "content": "",
