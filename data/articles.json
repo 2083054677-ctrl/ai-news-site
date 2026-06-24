@@ -1,5 +1,109 @@
 [
   {
+    "title": "Pangram CEO says language models give themselves away by making the same arguments",
+    "summary": "Language models may write cleaner prose than most humans, but ask one for 100 arguments on a topic and they'll all cluster together. Human reasoning is far more diverse, says Pangram CEO Max Spero, an",
+    "content": "Language models may write cleaner prose than most humans, but ask one for 100 arguments on a topic and they'll all cluster together. Human reasoning is far more diverse, says Pangram CEO Max Spero, and that's what might give AI away. The article Pangram CEO says language models give themselves away by making the same arguments appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/pangram-ceo-says-language-models-give-themselves-away-by-making-the-same-arguments/",
+    "id": "news-3100"
+  },
+  {
+    "title": "OpenAI's deployment chief on Codex growth, falling AI prices, and the ROI question",
+    "summary": "OpenAI deployment chief Arnaud Fournier explains in an interview how DeployCo wants to embed AI deep inside large corporations using its own engineers. He talks about explosive Codex growth, the feedb",
+    "content": "OpenAI deployment chief Arnaud Fournier explains in an interview how DeployCo wants to embed AI deep inside large corporations using its own engineers. He talks about explosive Codex growth, the feedback loop from customers back into model development, and why he thinks the price of AI intelligence has dropped sharply. The article OpenAI's deployment chief on Codex growth, falling AI prices, and the ROI question appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-deployment-chief-on-codex-growth-falling-ai-prices-and-the-roi-question/",
+    "id": "news-3099"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
+    "summary": "OpenAI is adding custom hardware to its tech stack. The \"Jalapeño\" chip, developed with Broadcom, is tailored for large language model inference and is set to run at scale by late 2026. The article Op",
+    "content": "OpenAI is adding custom hardware to its tech stack. The \"Jalapeño\" chip, developed with Broadcom, is tailored for large language model inference and is set to run at scale by late 2026. The article OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/",
+    "id": "news-3098"
+  },
+  {
+    "title": "Giskard: LLM esting platform for preventing hallucinations and security issues",
+    "summary": "Article URL: https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions Comments URL: https://news.ycombinator.com/item?id=48659901 Points:",
+    "content": "Article URL: https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions Comments URL: https://news.ycombinator.com/item?id=48659901 Points: 2 # Comments: 0",
+    "author": "doener",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.giskard.ai/knowledge/best-ai-agent-red-teaming-tools-in-2026-understanding-features-functions-and-solutions",
+    "id": "news-3097"
+  },
+  {
+    "title": "The Age Of Bunker Capitalism: How AI Will Free Aristocrats From The Mob",
+    "summary": "Article URL: https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism Comments URL: https://news.ycombinator.com/item?id=48659941 Points: 1 # Comments: 0",
+    "content": "Article URL: https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism Comments URL: https://news.ycombinator.com/item?id=48659941 Points: 1 # Comments: 0",
+    "author": "optimalsolver",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism",
+    "id": "news-3096"
+  },
+  {
+    "title": "I don't care if web content is AI-generated",
+    "summary": "Article URL: https://kevinboone.me/ai.html Comments URL: https://news.ycombinator.com/item?id=48659960 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kevinboone.me/ai.html Comments URL: https://news.ycombinator.com/item?id=48659960 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kevinboone.me/ai.html",
+    "id": "news-3095"
+  },
+  {
+    "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-radio-chip-design Comments URL: https://news.ycombinator.com/item?id=48660021 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/ai-radio-chip-design Comments URL: https://news.ycombinator.com/item?id=48660021 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "id": "news-3094"
+  },
+  {
+    "title": "Flower Labs: AI Is Evolving from Isolated Silos to Collaborative Networks",
+    "summary": "Article URL: https://flower.ai/ Comments URL: https://news.ycombinator.com/item?id=48660082 Points: 1 # Comments: 0",
+    "content": "Article URL: https://flower.ai/ Comments URL: https://news.ycombinator.com/item?id=48660082 Points: 1 # Comments: 0",
+    "author": "doener",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://flower.ai/",
+    "id": "news-3093"
+  },
+  {
     "title": "Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says",
     "summary": "Mistral AI has released OCR 4, a new model that reads text from documents like PDFs, Word files, and PowerPoint presentations. The article Mistral's new OCR model beats competitors in 72 percent of bl",
     "content": "Mistral AI has released OCR 4, a new model that reads text from documents like PDFs, Word files, and PowerPoint presentations. The article Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says appeared first on The Decoder.",
