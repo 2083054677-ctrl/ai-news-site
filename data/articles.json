@@ -1,5 +1,124 @@
 [
   {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "summary": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ffasr-leaderboard",
+    "id": "news-3109"
+  },
+  {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "id": "news-3108"
+  },
+  {
+    "title": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
+    "summary": "At Config 2026, Figma turned its canvas into a full workspace with code, animation, shaders, and AI agents. But the intelligence powering all of it is rented from API providers, squeezing margins. And",
+    "content": "At Config 2026, Figma turned its canvas into a full workspace with code, animation, shaders, and AI agents. But the intelligence powering all of it is rented from API providers, squeezing margins. And one of those providers is now building competing design tools. The article Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else/",
+    "id": "news-3107"
+  },
+  {
+    "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost",
+    "summary": "Zhipu AI's GLM-5.2 nearly matches Claude Opus 4.7 in a Snowflake benchmark with 103 coding tasks at one-fifth the cost per output token. But the Chinese model burns through nearly twice as many tokens",
+    "content": "Zhipu AI's GLM-5.2 nearly matches Claude Opus 4.7 in a Snowflake benchmark with 103 coding tasks at one-fifth the cost per output token. But the Chinese model burns through nearly twice as many tokens per task. Still, that pricing gap is putting real pressure on Anthropic and OpenAI, and could rattle the valuations of Western AI labs. The article Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/",
+    "id": "news-3106"
+  },
+  {
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "summary": "Article URL: https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48663000 Points: 1 # Comm",
+    "content": "Article URL: https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48663000 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "id": "news-3105"
+  },
+  {
+    "title": "Show HN: ccMarvin – Just Email with AI",
+    "summary": "Backstory: My name is Michael Stoppelman, I'm a super angel (300+ investments, I've invested in YC companies like Vanta, Flexport, Biorender, Permitflow and Canary Technologies). Prior to that I built",
+    "content": "Backstory: My name is Michael Stoppelman, I'm a super angel (300+ investments, I've invested in YC companies like Vanta, Flexport, Biorender, Permitflow and Canary Technologies). Prior to that I built and ran the engineering team at Yelp. I thought there was a missing piece to the LLMs where they couldn't talk via email which is where as an investor I work all day. So I built ccMarvin so I could forward emails for summaries, I could get legal feedback on SAFEs or other transactional emails, I co",
+    "author": "stopman",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ccmarvin.com",
+    "id": "news-3104"
+  },
+  {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "summary": "Article URL: https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/ Comments URL: https://news.ycombinator.com/item?id=48663166 Points: 2 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/ Comments URL: https://news.ycombinator.com/item?id=48663166 Points: 2 # Comments: 0",
+    "author": "wslh",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "id": "news-3103"
+  },
+  {
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "summary": "Article URL: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/ Comments URL: https://news.ycombinator.com/item?id=48663324 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/ Comments URL: https://news.ycombinator.com/item?id=48663324 Points: 1 # Comments: 0",
+    "author": "jamdesk",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "id": "news-3102"
+  },
+  {
+    "title": "Show HN: Get AI to recommend your product or service",
+    "summary": "Hi guys,Noticed recently that one of my products had started getting a huge amount of traffic coming from ChatGPT and Perplexity, while another one had been getting zero.Went down a very deep rabbit h",
+    "content": "Hi guys,Noticed recently that one of my products had started getting a huge amount of traffic coming from ChatGPT and Perplexity, while another one had been getting zero.Went down a very deep rabbit hole trying to work out why the second wasn't being recommended, and found a bunch of things you can do to increase your chances (with some decent results after a week or two).So this website does a free scan of your website (no signup), creates a bunch of questions buyers could ask if looking for a ",
+    "author": "cwbuilds",
+    "date": "2026-06-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://plauditlabs.com",
+    "id": "news-3101"
+  },
+  {
     "title": "Pangram CEO says language models give themselves away by making the same arguments",
     "summary": "Language models may write cleaner prose than most humans, but ask one for 100 arguments on a topic and they'll all cluster together. Human reasoning is far more diverse, says Pangram CEO Max Spero, an",
     "content": "Language models may write cleaner prose than most humans, but ask one for 100 arguments on a topic and they'll all cluster together. Human reasoning is far more diverse, says Pangram CEO Max Spero, and that's what might give AI away. The article Pangram CEO says language models give themselves away by making the same arguments appeared first on The Decoder.",
