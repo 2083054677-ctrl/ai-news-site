@@ -1,5 +1,122 @@
 [
   {
+    "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen",
+    "summary": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorld benchmark, it scores 78.4, putting it ",
+    "content": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorld benchmark, it scores 78.4, putting it on par with GPT-5.5. Developers can use the Gemini API to build agents for software testing or office automation. The article Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/",
+    "id": "news-3139"
+  },
+  {
+    "title": "Qualcomm enters the data center market with its own processor",
+    "summary": "Qualcomm is pushing further into the data center market with a new processor called the Dragonfly C1000. The article Qualcomm enters the data center market with its own processor appeared first on The",
+    "content": "Qualcomm is pushing further into the data center market with a new processor called the Dragonfly C1000. The article Qualcomm enters the data center market with its own processor appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/",
+    "id": "news-3138"
+  },
+  {
+    "title": "Google keeps losing top AI researchers to rivals",
+    "summary": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
+    "content": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/",
+    "id": "news-3137"
+  },
+  {
+    "title": "Meta employees warn AI moderation rollout is too fast",
+    "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by ",
+    "content": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year. The article Meta employees warn AI moderation rollout is too fast appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/",
+    "id": "news-3136"
+  },
+  {
+    "title": "Show HN: Cc-preview – Browse images pasted into Claude Code sessions",
+    "summary": "Claude Code displays pasted images as [Image #1], [Image #2], etc. — but there's no way to see what those images actually are once they're in the conversation.cc-preview is a small macOS tool (Go CLI ",
+    "content": "Claude Code displays pasted images as [Image #1], [Image #2], etc. — but there's no way to see what those images actually are once they're in the conversation.cc-preview is a small macOS tool (Go CLI + Hammerspoon) that reads Claude Code's JSONL transcripts, extracts the base64-encoded images, and shows them in a keyboard-driven native UI. Numbers match Claude's [Image #N] exactly.Install: brew install Watari995/tap/cc-preview Comments URL: https://news.ycombinator.com/item?id=48671141 Points: 2",
+    "author": "Watari995",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Watari995/cc-preview",
+    "id": "news-3135"
+  },
+  {
+    "title": "Anthropic Claims Alibaba Ran 'Brazen' Campaign to Access Its Claude AI Model",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392 Comments URL: https://news.ycombinator.com/item?id=48671221 Points: 1 # Com",
+    "content": "Article URL: https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392 Comments URL: https://news.ycombinator.com/item?id=48671221 Points: 1 # Comments: 0",
+    "author": "flowerlad",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392",
+    "id": "news-3134"
+  },
+  {
+    "title": "SoftBank's Son calls AI bubble talk an 'insult,' delays retiring",
+    "summary": "Article URL: https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859680 Comments URL: https://news.ycombinator.com/item?id=48671366 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859680 Comments URL: https://news.ycombinator.com/item?id=48671366 Points: 3 # Comments: 1",
+    "author": "01-_-",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859680",
+    "id": "news-3133"
+  },
+  {
+    "title": "Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks",
+    "summary": "Article URL: https://www.pbs.org/newshour/nation/florida-sues-openai-and-ceo-sam-altman-claiming-company-hid-chatgpt-risks-from-users Comments URL: https://news.ycombinator.com/item?id=48671376 Points",
+    "content": "Article URL: https://www.pbs.org/newshour/nation/florida-sues-openai-and-ceo-sam-altman-claiming-company-hid-chatgpt-risks-from-users Comments URL: https://news.ycombinator.com/item?id=48671376 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pbs.org/newshour/nation/florida-sues-openai-and-ceo-sam-altman-claiming-company-hid-chatgpt-risks-from-users",
+    "id": "news-3132"
+  },
+  {
+    "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+    "summary": "Article URL: https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48671391 Points: 1 # Comments: 0",
+    "content": "Article URL: https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48671391 Points: 1 # Comments: 0",
+    "author": "swolpers",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+    "id": "news-3131"
+  },
+  {
     "title": "Show HN: Promptctl – Git for your AI prompts",
     "summary": "Article URL: https://github.com/naya-ai/promptctl Comments URL: https://news.ycombinator.com/item?id=48667544 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/naya-ai/promptctl Comments URL: https://news.ycombinator.com/item?id=48667544 Points: 2 # Comments: 0",
