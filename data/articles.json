@@ -1,5 +1,84 @@
 [
   {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "summary": "Run a vLLM Server on HF Jobs in One Command",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/vllm-jobs",
+    "id": "news-3155"
+  },
+  {
+    "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
+    "summary": "Article URL: https://github.com/challenga-org/openlanguage Comments URL: https://news.ycombinator.com/item?id=48679138 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/challenga-org/openlanguage Comments URL: https://news.ycombinator.com/item?id=48679138 Points: 1 # Comments: 0",
+    "author": "willks",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/challenga-org/openlanguage",
+    "id": "news-3154"
+  },
+  {
+    "title": "My Approach to Using AI with Programming",
+    "summary": "Article URL: https://davidjwalz.com/my-approach-to-using-ai-with-programming/ Comments URL: https://news.ycombinator.com/item?id=48679207 Points: 2 # Comments: 1",
+    "content": "Article URL: https://davidjwalz.com/my-approach-to-using-ai-with-programming/ Comments URL: https://news.ycombinator.com/item?id=48679207 Points: 2 # Comments: 1",
+    "author": "Davesjoshin",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
+    "id": "news-3153"
+  },
+  {
+    "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
+    "summary": "Article URL: https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai Comments URL: https://news.ycombinator.com/item?id=48679322 Points: 3 # Comment",
+    "content": "Article URL: https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai Comments URL: https://news.ycombinator.com/item?id=48679322 Points: 3 # Comments: 0",
+    "author": "billybuckwheat",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+    "id": "news-3152"
+  },
+  {
+    "title": "The Coming Divide: AI-Native or Left Behind",
+    "summary": "Article URL: https://danielmiessler.com/blog/ai-native-divide Comments URL: https://news.ycombinator.com/item?id=48679393 Points: 1 # Comments: 0",
+    "content": "Article URL: https://danielmiessler.com/blog/ai-native-divide Comments URL: https://news.ycombinator.com/item?id=48679393 Points: 1 # Comments: 0",
+    "author": "skeledrew",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://danielmiessler.com/blog/ai-native-divide",
+    "id": "news-3151"
+  },
+  {
+    "title": "Why AI agents need three types of memory",
+    "summary": "Article URL: https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/ Comments URL: https://news.ycombinator.com/item?id=48679398 Points: 1 # Comments: 0",
+    "content": "Article URL: https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/ Comments URL: https://news.ycombinator.com/item?id=48679398 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/",
+    "id": "news-3150"
+  },
+  {
     "title": "Which tokens does a hybrid model predict better?",
     "summary": "Which tokens does a hybrid model predict better?",
     "content": "",
