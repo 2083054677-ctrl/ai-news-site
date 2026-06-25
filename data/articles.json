@@ -1,5 +1,96 @@
 [
   {
+    "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
+    "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. ",
+    "content": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professionally written texts look statistically similar to AI output because language models were trained on exactly that kind of writing. The article Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single ",
+    "author": "Matthias Bastian",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/",
+    "id": "news-3146"
+  },
+  {
+    "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
+    "summary": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content. The article Grok AI ",
+    "content": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content. The article Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/",
+    "id": "news-3145"
+  },
+  {
+    "title": "Tell HN: OpenAI has started putting ads on paid programs",
+    "summary": "I was on the £6.99/month program-- mainly because I didnt use it much. Last few days I've started seeing ads:1. Ad for Financial Times 2. Add for Shein 3. Add for Amazon prime dayAll 3 were on a chat ",
+    "content": "I was on the £6.99/month program-- mainly because I didnt use it much. Last few days I've started seeing ads:1. Ad for Financial Times 2. Add for Shein 3. Add for Amazon prime dayAll 3 were on a chat where I was asking about tips on a mobile game.Needless to say, I cancelled my plan. Im not paying money to see ads Comments URL: https://news.ycombinator.com/item?id=48673194 Points: 4 # Comments: 0",
+    "author": "shantnutiwari",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48673194",
+    "id": "news-3144"
+  },
+  {
+    "title": "Tokenmaxxing is dead, and the real AI cost reckoning hasn't started yet",
+    "summary": "Article URL: https://mimetiq.substack.com/p/the-tokenmaxxing-hangover Comments URL: https://news.ycombinator.com/item?id=48673294 Points: 3 # Comments: 0",
+    "content": "Article URL: https://mimetiq.substack.com/p/the-tokenmaxxing-hangover Comments URL: https://news.ycombinator.com/item?id=48673294 Points: 3 # Comments: 0",
+    "author": "greg_V",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mimetiq.substack.com/p/the-tokenmaxxing-hangover",
+    "id": "news-3143"
+  },
+  {
+    "title": "Good clarity on AI observability and in simple terms",
+    "summary": "Article URL: https://posthog.com/blog/what-is-ai-observability Comments URL: https://news.ycombinator.com/item?id=48673299 Points: 4 # Comments: 1",
+    "content": "Article URL: https://posthog.com/blog/what-is-ai-observability Comments URL: https://news.ycombinator.com/item?id=48673299 Points: 4 # Comments: 1",
+    "author": "pineapple_opus",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://posthog.com/blog/what-is-ai-observability",
+    "id": "news-3142"
+  },
+  {
+    "title": "UN hypocrisy in AI Environmental demands",
+    "summary": "Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 2 # Comments: 1",
+    "author": "AlexanderHanff",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
+    "id": "news-3141"
+  },
+  {
+    "title": "How We'll fight the platform war against Big AI",
+    "summary": "Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48673397 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48673397 Points: 3 # Comments: 0",
+    "author": "eustoria",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anildash.com/2026/06/23/fight-ai-platform-war/",
+    "id": "news-3140"
+  },
+  {
     "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen",
     "summary": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorld benchmark, it scores 78.4, putting it ",
     "content": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorld benchmark, it scores 78.4, putting it on par with GPT-5.5. Developers can use the Gemini API to build agents for software testing or office automation. The article Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen appeared first on The Decoder.",
