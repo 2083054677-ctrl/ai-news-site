@@ -1,5 +1,45 @@
 [
   {
+    "title": "Which tokens does a hybrid model predict better?",
+    "summary": "Which tokens does a hybrid model predict better?",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "id": "news-3149"
+  },
+  {
+    "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
+    "summary": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucination",
+    "content": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucinations. The article Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
+    "id": "news-3148"
+  },
+  {
+    "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
+    "summary": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk",
+    "content": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not. The one outlier: Google's Gemini 3.1 Pro presented both sides 93 percent of the time. The article Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
+    "id": "news-3147"
+  },
+  {
     "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
     "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. ",
     "content": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professionally written texts look statistically similar to AI output because language models were trained on exactly that kind of writing. The article Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single ",
