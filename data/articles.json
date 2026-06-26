@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: All-in-one memory for AI Agents",
+    "summary": "Article URL: https://parcle.ai/second-brain Comments URL: https://news.ycombinator.com/item?id=48692740 Points: 1 # Comments: 0",
+    "content": "Article URL: https://parcle.ai/second-brain Comments URL: https://news.ycombinator.com/item?id=48692740 Points: 1 # Comments: 0",
+    "author": "longtermop",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://parcle.ai/second-brain",
+    "id": "news-3201"
+  },
+  {
+    "title": "AI in Mathematics Is Forcing Big Questions",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 2 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/ai-in-mathematics",
+    "id": "news-3200"
+  },
+  {
+    "title": "Assessing GPT-5.6 Sol Against Cybersecurity Benchmarks",
+    "summary": "Article URL: https://www.irregular.com/research/assessing-gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=48692886 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.irregular.com/research/assessing-gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=48692886 Points: 1 # Comments: 0",
+    "author": "edanm",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.irregular.com/research/assessing-gpt-5.6-sol",
+    "id": "news-3199"
+  },
+  {
+    "title": "Ask HN: Any OSS models as good as GPT-4o-mini?",
+    "summary": "Exactly what the title says. I've recently realized I rarely need something as powerful as GPT5 (or as expensive!). GPT-4o-mini has been doing the job well. Curious to see if OSS has caught up to this",
+    "content": "Exactly what the title says. I've recently realized I rarely need something as powerful as GPT5 (or as expensive!). GPT-4o-mini has been doing the job well. Curious to see if OSS has caught up to this model in anyone's experience. Comments URL: https://news.ycombinator.com/item?id=48692961 Points: 2 # Comments: 0",
+    "author": "ra0x3",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48692961",
+    "id": "news-3198"
+  },
+  {
+    "title": "Due to the AI memory crisis, Apple is bringing back the original Apple I",
+    "summary": "Article URL: https://old.reddit.com/r/MacStudio/comments/1ugkygr/due_to_the_ai_memory_crisis_apple_is_bringing/ Comments URL: https://news.ycombinator.com/item?id=48693024 Points: 1 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/MacStudio/comments/1ugkygr/due_to_the_ai_memory_crisis_apple_is_bringing/ Comments URL: https://news.ycombinator.com/item?id=48693024 Points: 1 # Comments: 0",
+    "author": "akirahittoxyz",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/MacStudio/comments/1ugkygr/due_to_the_ai_memory_crisis_apple_is_bringing/",
+    "id": "news-3197"
+  },
+  {
     "title": "$5k in compute and LLM credits on JackHamr for the first 30 qualified startups",
     "summary": "Article URL: https://www.jackhamr.ai/startup-grant Comments URL: https://news.ycombinator.com/item?id=48691808 Points: 2 # Comments: 1",
     "content": "Article URL: https://www.jackhamr.ai/startup-grant Comments URL: https://news.ycombinator.com/item?id=48691808 Points: 2 # Comments: 1",
