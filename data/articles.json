@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+    "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI's GPT-5",
+    "content": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
+    "id": "news-3191"
+  },
+  {
+    "title": "AI Models Directory (To Compare)",
+    "summary": "Article URL: https://aimodels.directory/ Comments URL: https://news.ycombinator.com/item?id=48690533 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aimodels.directory/ Comments URL: https://news.ycombinator.com/item?id=48690533 Points: 1 # Comments: 0",
+    "author": "entempsllc",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aimodels.directory/",
+    "id": "news-3190"
+  },
+  {
+    "title": "Akrites: The Latest Attempt to Protect Open-Source from AI Attacks Has Arrived",
+    "summary": "Article URL: https://devops.com/akrites-the-latest-attempt-to-protect-open-source-from-ai-attacks-has-arrived/ Comments URL: https://news.ycombinator.com/item?id=48690692 Points: 1 # Comments: 0",
+    "content": "Article URL: https://devops.com/akrites-the-latest-attempt-to-protect-open-source-from-ai-attacks-has-arrived/ Comments URL: https://news.ycombinator.com/item?id=48690692 Points: 1 # Comments: 0",
+    "author": "CrankyBear",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://devops.com/akrites-the-latest-attempt-to-protect-open-source-from-ai-attacks-has-arrived/",
+    "id": "news-3189"
+  },
+  {
+    "title": "Summary of METR's predeployment evaluation of GPT-5.6 Sol",
+    "summary": "Article URL: https://metr.org/blog/2026-06-26-gpt-5-6-sol/ Comments URL: https://news.ycombinator.com/item?id=48690710 Points: 1 # Comments: 1",
+    "content": "Article URL: https://metr.org/blog/2026-06-26-gpt-5-6-sol/ Comments URL: https://news.ycombinator.com/item?id=48690710 Points: 1 # Comments: 1",
+    "author": "pongogogo",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
+    "id": "news-3188"
+  },
+  {
+    "title": "Building Voice AI Workflows with Branches Instead of One Giant Prompt",
+    "summary": "Article URL: https://github.com/team-telnyx/telnyx-code-examples/tree/main/build-conversational-workflow-nodejs Comments URL: https://news.ycombinator.com/item?id=48690730 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/team-telnyx/telnyx-code-examples/tree/main/build-conversational-workflow-nodejs Comments URL: https://news.ycombinator.com/item?id=48690730 Points: 2 # Comments: 0",
+    "author": "anushathukral",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/build-conversational-workflow-nodejs",
+    "id": "news-3187"
+  },
+  {
+    "title": "Show HN: Mantis, A self-hosted LLM gateway",
+    "summary": "Hey HNers - Riz here.I got together with a few guys and we built an LLM gateway.It's designed for small teams working on early-stage products, and can be deployed to AWS using a single command (i.e. `",
+    "content": "Hey HNers - Riz here.I got together with a few guys and we built an LLM gateway.It's designed for small teams working on early-stage products, and can be deployed to AWS using a single command (i.e. `mantis deploy`).It's self-hosted, and is designed to belong to you. Comments URL: https://news.ycombinator.com/item?id=48690749 Points: 2 # Comments: 0",
+    "author": "rizsyed1",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mantis-llm-gateway",
+    "id": "news-3186"
+  },
+  {
     "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
     "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\" The article AI startup Lindy ditched C",
     "content": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\" The article AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic appeared first on The Decoder.",
