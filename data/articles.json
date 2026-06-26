@@ -1,5 +1,70 @@
 [
   {
+    "title": "Guardrails for offensive AI agents and why instructions are never enough",
+    "summary": "Article URL: https://dest.host/b/guardrails-for-offensive-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48681546 Points: 1 # Comments: 0",
+    "content": "Article URL: https://dest.host/b/guardrails-for-offensive-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48681546 Points: 1 # Comments: 0",
+    "author": "snorbleck",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dest.host/b/guardrails-for-offensive-ai-agents/",
+    "id": "news-3165"
+  },
+  {
+    "title": "White House asks OpenAI to limit its next model release",
+    "summary": "Article URL: https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house Comments URL: https://news.ycombinator.com/item?id=48681569 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house Comments URL: https://news.ycombinator.com/item?id=48681569 Points: 3 # Comments: 1",
+    "author": "AaronO",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house",
+    "id": "news-3164"
+  },
+  {
+    "title": "Competition intensifies for Anthropic and OpenAI ahead of IPOs",
+    "summary": "Article URL: https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8 Comments URL: https://news.ycombinator.com/item?id=48681642 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8 Comments URL: https://news.ycombinator.com/item?id=48681642 Points: 1 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8",
+    "id": "news-3163"
+  },
+  {
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 1 # Comments: 0",
+    "author": "cuchoi",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "id": "news-3162"
+  },
+  {
+    "title": "LogiGate: A zero-trust middleware architecture for AI liability written in Rust",
+    "summary": "Article URL: https://github.com/Les-Senters/Logigate-architecture Comments URL: https://news.ycombinator.com/item?id=48681750 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Les-Senters/Logigate-architecture Comments URL: https://news.ycombinator.com/item?id=48681750 Points: 1 # Comments: 0",
+    "author": "zkpvault",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Les-Senters/Logigate-architecture",
+    "id": "news-3161"
+  },
+  {
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "summary": "Run a vLLM Server on HF Jobs in One Command",
     "content": "",
