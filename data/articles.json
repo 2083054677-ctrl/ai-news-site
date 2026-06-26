@@ -1,5 +1,70 @@
 [
   {
+    "title": "$5k in compute and LLM credits on JackHamr for the first 30 qualified startups",
+    "summary": "Article URL: https://www.jackhamr.ai/startup-grant Comments URL: https://news.ycombinator.com/item?id=48691808 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.jackhamr.ai/startup-grant Comments URL: https://news.ycombinator.com/item?id=48691808 Points: 2 # Comments: 1",
+    "author": "jrda",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.jackhamr.ai/startup-grant",
+    "id": "news-3196"
+  },
+  {
+    "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
+    "summary": "Article URL: https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/ Comments URL: https://news.ycombinator.com/item?id=48691862 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/ Comments URL: https://news.ycombinator.com/item?id=48691862 Points: 1 # Comments: 0",
+    "author": "kristianp",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
+    "id": "news-3195"
+  },
+  {
+    "title": "Linux Foundation and Others Launch Akrites Defend Open-Source from AI Exploits",
+    "summary": "Article URL: https://www.phoronix.com/news/Akrites Comments URL: https://news.ycombinator.com/item?id=48691908 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.phoronix.com/news/Akrites Comments URL: https://news.ycombinator.com/item?id=48691908 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.phoronix.com/news/Akrites",
+    "id": "news-3194"
+  },
+  {
+    "title": "Ask HN: Which AI concepts are here to stay, and which will churn?",
+    "summary": "There’s a multitude of concepts that have been created during this advent of AI. Which do you predict will be resilient and long-lasting, and which do you think will churn away as harnesses evolve? - ",
+    "content": "There’s a multitude of concepts that have been created during this advent of AI. Which do you predict will be resilient and long-lasting, and which do you think will churn away as harnesses evolve? - Model Context Protocol - Skills - Agentic workflows - Agents - Claude.md / Agents.md - etc. Bonus: Despite all of the above, what do you see as the unaddressed or “dark corners” of the AI ecosystem? Comments URL: https://news.ycombinator.com/item?id=48691972 Points: 2 # Comments: 1",
+    "author": "datsci_est_2015",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48691972",
+    "id": "news-3193"
+  },
+  {
+    "title": "Show HN: I build an app for you to take a break from AI. RainBreak",
+    "summary": "Article URL: https://rainbreak.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=48691992 Points: 1 # Comments: 0",
+    "content": "Article URL: https://rainbreak.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=48691992 Points: 1 # Comments: 0",
+    "author": "franze",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rainbreak.franzai.com/",
+    "id": "news-3192"
+  },
+  {
     "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
     "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI's GPT-5",
     "content": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable appeared first on The Decoder.",
