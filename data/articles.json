@@ -1,5 +1,31 @@
 [
   {
+    "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
+    "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\" The article AI startup Lindy ditched C",
+    "content": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\" The article AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
+    "id": "news-3185"
+  },
+  {
+    "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
+    "summary": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-",
+    "content": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours. But every model tested still fails on the most complex tasks. The article An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
+    "id": "news-3184"
+  },
+  {
     "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
     "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic",
     "content": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
