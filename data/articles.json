@@ -1,5 +1,96 @@
 [
   {
+    "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
+    "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic",
+    "content": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
+    "id": "news-3183"
+  },
+  {
+    "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
+    "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest",
+    "content": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest backers, lost 13 percent in a single day. The article Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027 appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
+    "id": "news-3182"
+  },
+  {
+    "title": "Show HN: Orchestrate Claude Code agents on a canvas",
+    "summary": "Article URL: https://rondoflow.app/ Comments URL: https://news.ycombinator.com/item?id=48686649 Points: 1 # Comments: 0",
+    "content": "Article URL: https://rondoflow.app/ Comments URL: https://news.ycombinator.com/item?id=48686649 Points: 1 # Comments: 0",
+    "author": "beledev",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rondoflow.app/",
+    "id": "news-3181"
+  },
+  {
+    "title": "Show HN: NexisSearch – Fast AI Search",
+    "summary": "Article URL: https://nexisearch.com Comments URL: https://news.ycombinator.com/item?id=48686676 Points: 1 # Comments: 1",
+    "content": "Article URL: https://nexisearch.com Comments URL: https://news.ycombinator.com/item?id=48686676 Points: 1 # Comments: 1",
+    "author": "annrap1d",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nexisearch.com",
+    "id": "news-3180"
+  },
+  {
+    "title": "Local AI detectors rated a 2013 Paul Graham essay as more AI than actual slop",
+    "summary": "Article URL: https://ninjasandrobots.com/paul-graham-flagged-for-ai-use Comments URL: https://news.ycombinator.com/item?id=48686737 Points: 3 # Comments: 0",
+    "content": "Article URL: https://ninjasandrobots.com/paul-graham-flagged-for-ai-use Comments URL: https://news.ycombinator.com/item?id=48686737 Points: 3 # Comments: 0",
+    "author": "nate",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ninjasandrobots.com/paul-graham-flagged-for-ai-use",
+    "id": "news-3179"
+  },
+  {
+    "title": "Show Casing Kohinoor AI, Kohinoorai.in",
+    "summary": "this is an ai I made, it is to try and lessen tuition fees by using the ai study. Comments URL: https://news.ycombinator.com/item?id=48686764 Points: 1 # Comments: 0",
+    "content": "this is an ai I made, it is to try and lessen tuition fees by using the ai study. Comments URL: https://news.ycombinator.com/item?id=48686764 Points: 1 # Comments: 0",
+    "author": "Arjun_Fernandes",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48686764",
+    "id": "news-3178"
+  },
+  {
+    "title": "History Lens – AI-powered historical artifact and monument identifier",
+    "summary": "Article URL: https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028 Comments URL: https://news.ycombinator.com/item?id=48686796 Points: 2 # Comments: 0",
+    "content": "Article URL: https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028 Comments URL: https://news.ycombinator.com/item?id=48686796 Points: 2 # Comments: 0",
+    "author": "erayy",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028",
+    "id": "news-3177"
+  },
+  {
     "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
     "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says t",
     "content": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says this isn't a \"preferred long term model.\" After the forced takedown of Anthropic's Fable, AI labs are afraid of a de facto licensing regime for AI models. The article OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\" appeared first on The Decoder.",
