@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
+    "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says t",
+    "content": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says this isn't a \"preferred long term model.\" After the forced takedown of Anthropic's Fable, AI labs are afraid of a de facto licensing regime for AI models. The article OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/",
+    "id": "news-3176"
+  },
+  {
+    "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
+    "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them. The article Linux Foundatio",
+    "content": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them. The article Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/",
+    "id": "news-3175"
+  },
+  {
+    "title": "Why AI in the classroom is a catastrophe – Sophie Winkleman [ARC 2026] [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=yFp5-i5fzyQ Comments URL: https://news.ycombinator.com/item?id=48684854 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=yFp5-i5fzyQ Comments URL: https://news.ycombinator.com/item?id=48684854 Points: 3 # Comments: 1",
+    "author": "yesbut",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=yFp5-i5fzyQ",
+    "id": "news-3174"
+  },
+  {
+    "title": "Analysed 3k+ AI thought leaders posts for Q2",
+    "summary": "Article URL: https://aiweekly.co/recap/q2-2026 Comments URL: https://news.ycombinator.com/item?id=48684878 Points: 2 # Comments: 1",
+    "content": "Article URL: https://aiweekly.co/recap/q2-2026 Comments URL: https://news.ycombinator.com/item?id=48684878 Points: 2 # Comments: 1",
+    "author": "adu_onemore",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aiweekly.co/recap/q2-2026",
+    "id": "news-3173"
+  },
+  {
+    "title": "Claude ends the chat – refuses conversation",
+    "summary": "Article URL: https://medium.com/@thesuperrepemail/claude-got-sentimental-couldnt-take-the-insults-anymore-56de74ccd9f9 Comments URL: https://news.ycombinator.com/item?id=48684970 Points: 2 # Comments:",
+    "content": "Article URL: https://medium.com/@thesuperrepemail/claude-got-sentimental-couldnt-take-the-insults-anymore-56de74ccd9f9 Comments URL: https://news.ycombinator.com/item?id=48684970 Points: 2 # Comments: 0",
+    "author": "rajsuper123",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@thesuperrepemail/claude-got-sentimental-couldnt-take-the-insults-anymore-56de74ccd9f9",
+    "id": "news-3172"
+  },
+  {
+    "title": "I Am Not an AI – The Tlbic Policy Proposal",
+    "summary": "Article URL: https://drive.google.com/file/d/1NJA8clb_wkotSnUkBPGZMw8Dywa5caiF/view?usp=drive_link Comments URL: https://news.ycombinator.com/item?id=48684975 Points: 2 # Comments: 2",
+    "content": "Article URL: https://drive.google.com/file/d/1NJA8clb_wkotSnUkBPGZMw8Dywa5caiF/view?usp=drive_link Comments URL: https://news.ycombinator.com/item?id=48684975 Points: 2 # Comments: 2",
+    "author": "michikawa59",
+    "date": "2026-06-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://drive.google.com/file/d/1NJA8clb_wkotSnUkBPGZMw8Dywa5caiF/view?usp=drive_link",
+    "id": "news-3171"
+  },
+  {
     "title": "PatentScore: Multi-Dimensional Evaluation of LLM-Generated Patent Claims",
     "summary": "Article URL: https://aclanthology.org/2025.emnlp-main.1564/ Comments URL: https://news.ycombinator.com/item?id=48683291 Points: 1 # Comments: 0",
     "content": "Article URL: https://aclanthology.org/2025.emnlp-main.1564/ Comments URL: https://news.ycombinator.com/item?id=48683291 Points: 1 # Comments: 0",
