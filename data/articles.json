@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ford execs say they made a mistake when they replaced human engineers with AI",
+    "summary": "Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48695489 Points: 1 # Comments",
+    "content": "Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48695489 Points: 1 # Comments: 0",
+    "author": "gscott",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/",
+    "id": "news-3206"
+  },
+  {
+    "title": "Democrats and Republicans agree: AI is scary",
+    "summary": "Article URL: https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary Comments URL: https://news.ycombinator.com/item?id=48695504 Points: 1 # Comments: 0",
+    "content": "Article URL: https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary Comments URL: https://news.ycombinator.com/item?id=48695504 Points: 1 # Comments: 0",
+    "author": "andsoitis",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary",
+    "id": "news-3205"
+  },
+  {
+    "title": "Why SpaceX Is the McDonald's of AI",
+    "summary": "Article URL: https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html Comments URL: https://news.ycombinator.com/item?id=48695727 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html Comments URL: https://news.ycombinator.com/item?id=48695727 Points: 2 # Comments: 1",
+    "author": "mikelgan",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html",
+    "id": "news-3204"
+  },
+  {
+    "title": "Tug: An IDE for AI Coding",
+    "summary": "Article URL: https://github.com/tugtool/tugtool Comments URL: https://news.ycombinator.com/item?id=48695730 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/tugtool/tugtool Comments URL: https://news.ycombinator.com/item?id=48695730 Points: 1 # Comments: 0",
+    "author": "azhenley",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tugtool/tugtool",
+    "id": "news-3203"
+  },
+  {
+    "title": "There's Been a Subtle Shift in the AI Zeitgeist",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist Comments URL: https://news.ycombinator.com/item?id=48695731 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist Comments URL: https://news.ycombinator.com/item?id=48695731 Points: 1 # Comments: 0",
+    "author": "Alien1Being",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist",
+    "id": "news-3202"
+  },
+  {
     "title": "Show HN: All-in-one memory for AI Agents",
     "summary": "Article URL: https://parcle.ai/second-brain Comments URL: https://news.ycombinator.com/item?id=48692740 Points: 1 # Comments: 0",
     "content": "Article URL: https://parcle.ai/second-brain Comments URL: https://news.ycombinator.com/item?id=48692740 Points: 1 # Comments: 0",
