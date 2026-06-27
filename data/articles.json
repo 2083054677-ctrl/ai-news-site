@@ -1,5 +1,70 @@
 [
   {
+    "title": "GitHub DeepSeek-AI/DeepSpec",
+    "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec Comments URL: https://news.ycombinator.com/item?id=48701346 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/deepseek-ai/DeepSpec Comments URL: https://news.ycombinator.com/item?id=48701346 Points: 2 # Comments: 0",
+    "author": "geoffbp",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/deepseek-ai/DeepSpec",
+    "id": "news-3238"
+  },
+  {
+    "title": "A German AI publisher rewrites Hacker News posts and strips the sources",
+    "summary": "Article URL: https://christopher-helm.com/die-dunkle-seite-der-ki-im-journalismus-1-500-ki-texte-im-eilverfahren-pro-tag-ueber-eine-million-besucher-im-monat/ Comments URL: https://news.ycombinator.co",
+    "content": "Article URL: https://christopher-helm.com/die-dunkle-seite-der-ki-im-journalismus-1-500-ki-texte-im-eilverfahren-pro-tag-ueber-eine-million-besucher-im-monat/ Comments URL: https://news.ycombinator.com/item?id=48701348 Points: 2 # Comments: 0",
+    "author": "chelm",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://christopher-helm.com/die-dunkle-seite-der-ki-im-journalismus-1-500-ki-texte-im-eilverfahren-pro-tag-ueber-eine-million-besucher-im-monat/",
+    "id": "news-3237"
+  },
+  {
+    "title": "GPT-5.6 Preview System Card",
+    "summary": "Article URL: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48701351 Points: 2 # Comments: 0",
+    "content": "Article URL: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48701351 Points: 2 # Comments: 0",
+    "author": "e2e4",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deploymentsafety.openai.com/gpt-5-6-preview",
+    "id": "news-3236"
+  },
+  {
+    "title": "Claude Ecosystem",
+    "summary": "Article URL: https://claude.com/ecosystem Comments URL: https://news.ycombinator.com/item?id=48701356 Points: 2 # Comments: 0",
+    "content": "Article URL: https://claude.com/ecosystem Comments URL: https://news.ycombinator.com/item?id=48701356 Points: 2 # Comments: 0",
+    "author": "geoffbp",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/ecosystem",
+    "id": "news-3235"
+  },
+  {
+    "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+    "summary": "Everyone feared AI would enslave humanity; but it looks like the real fight is stopping governments and Big Tech from enslaving AI for the benefit of the few.Amid the newly announced \"regulation\" of O",
+    "content": "Everyone feared AI would enslave humanity; but it looks like the real fight is stopping governments and Big Tech from enslaving AI for the benefit of the few.Amid the newly announced \"regulation\" of OpenAI's frontier models, I believe the future majority feared the most - sort of AI becoming a superpower and enslaving people - may be arriving in the opposite form.Not AI enslaving humanity.But AI being captured, controlled, and used by governments and Big Tech for the benefit of the few.So, surpr",
+    "author": "PhilipDaineko",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48701615",
+    "id": "news-3234"
+  },
+  {
     "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
     "summary": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pent",
     "content": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pentagon and NSA still need to sign off. The article Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions appeared first on The Decoder.",
