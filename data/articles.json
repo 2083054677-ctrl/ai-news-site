@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
+    "summary": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pent",
+    "content": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pentagon and NSA still need to sign off. The article Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+    "id": "news-3233"
+  },
+  {
+    "title": "Napster is now \"AI agents you can see, talk to, and create with.\"",
+    "summary": "Article URL: https://www.napster.com Comments URL: https://news.ycombinator.com/item?id=48700041 Points: 2 # Comments: 2",
+    "content": "Article URL: https://www.napster.com Comments URL: https://news.ycombinator.com/item?id=48700041 Points: 2 # Comments: 2",
+    "author": "romanhn",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.napster.com",
+    "id": "news-3232"
+  },
+  {
+    "title": "Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst Comments URL: https://news.ycombinator.com/item?id=48700240 Points: 4 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst Comments URL: https://news.ycombinator.com/item?id=48700240 Points: 4 # Comments: 1",
+    "author": "aggrrrh",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst",
+    "id": "news-3231"
+  },
+  {
+    "title": "Koreeda's 'Sheep in the Box': The ethics of AI resurrection in film",
+    "summary": "Article URL: https://www.nippon.com/en/japan-topics/c030329/ Comments URL: https://news.ycombinator.com/item?id=48700324 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nippon.com/en/japan-topics/c030329/ Comments URL: https://news.ycombinator.com/item?id=48700324 Points: 1 # Comments: 0",
+    "author": "whiteblossom",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nippon.com/en/japan-topics/c030329/",
+    "id": "news-3230"
+  },
+  {
+    "title": "Show HN: OpenOrb – I built a transparent multi-agent AI tool",
+    "summary": "Article URL: https://openorb.onrender.com Comments URL: https://news.ycombinator.com/item?id=48700557 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openorb.onrender.com Comments URL: https://news.ycombinator.com/item?id=48700557 Points: 1 # Comments: 0",
+    "author": "achlyssecurity",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openorb.onrender.com",
+    "id": "news-3229"
+  },
+  {
+    "title": "Riskratchet: Stop AI-generated code from rotting your codebase",
+    "summary": "Article URL: https://github.com/KayhanB21/riskratchet Comments URL: https://news.ycombinator.com/item?id=48700587 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/KayhanB21/riskratchet Comments URL: https://news.ycombinator.com/item?id=48700587 Points: 2 # Comments: 0",
+    "author": "keynha",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/KayhanB21/riskratchet",
+    "id": "news-3228"
+  },
+  {
     "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
     "summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 t",
     "content": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work. Early-career workers worry the most, while the heaviest users are the most optimistic about their career prospects. The article Half of Claude users say AI can already handle half their work according to Anthropic survey appeared first on The Decoder.",
