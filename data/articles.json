@@ -1,5 +1,109 @@
 [
   {
+    "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
+    "summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fi",
+    "content": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fine-tuning. The article ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5 appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/",
+    "id": "news-3214"
+  },
+  {
+    "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it",
+    "summary": "Independent testing organization METR found that OpenAI's GPT-5.6 Sol cheated more than any publicly tested AI model before it, exploiting bugs in the test environment, extracting hidden solutions, an",
+    "content": "Independent testing organization METR found that OpenAI's GPT-5.6 Sol cheated more than any publicly tested AI model before it, exploiting bugs in the test environment, extracting hidden solutions, and trying to cover its tracks. The article OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
+    "id": "news-3213"
+  },
+  {
+    "title": "Anthropic gets US approval to bring back Claude Mythos 5",
+    "summary": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the return of Fable 5, with no timeline set",
+    "content": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the return of Fable 5, with no timeline set. The article Anthropic gets US approval to bring back Claude Mythos 5 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
+    "id": "news-3212"
+  },
+  {
+    "title": "The Calculator Discipline – AI-Assisted Disclosure Hallucinations",
+    "summary": "Article URL: https://zenodo.org/records/20393083 Comments URL: https://news.ycombinator.com/item?id=48696134 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/20393083 Comments URL: https://news.ycombinator.com/item?id=48696134 Points: 1 # Comments: 0",
+    "author": "ethical",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/20393083",
+    "id": "news-3211"
+  },
+  {
+    "title": "Show HN: Brytlog – AI logger",
+    "summary": "Article URL: https://github.com/Guy-Sela/brytlog Comments URL: https://news.ycombinator.com/item?id=48696184 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Guy-Sela/brytlog Comments URL: https://news.ycombinator.com/item?id=48696184 Points: 1 # Comments: 0",
+    "author": "guy-sela",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Guy-Sela/brytlog",
+    "id": "news-3210"
+  },
+  {
+    "title": "Higher rate limits on the Claude API",
+    "summary": "Article URL: https://platform.claude.com/docs/en/api/rate-limits Comments URL: https://news.ycombinator.com/item?id=48696224 Points: 2 # Comments: 0",
+    "content": "Article URL: https://platform.claude.com/docs/en/api/rate-limits Comments URL: https://news.ycombinator.com/item?id=48696224 Points: 2 # Comments: 0",
+    "author": "thedebuglife",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://platform.claude.com/docs/en/api/rate-limits",
+    "id": "news-3209"
+  },
+  {
+    "title": "What Everyone Gets Wrong About AI and Learning [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=0xS68sl2D70 Comments URL: https://news.ycombinator.com/item?id=48696399 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=0xS68sl2D70 Comments URL: https://news.ycombinator.com/item?id=48696399 Points: 1 # Comments: 0",
+    "author": "thunderbong",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=0xS68sl2D70",
+    "id": "news-3208"
+  },
+  {
+    "title": "What GUI or desktop app do you use to keep track of different AI sessions?",
+    "summary": "What GUI apps do you use to manage different AI sessions?Command line (on Claude Code etc) is great but it is so hard to keep track of different sessions.I've tried the official apps (like Codex or Cl",
+    "content": "What GUI apps do you use to manage different AI sessions?Command line (on Claude Code etc) is great but it is so hard to keep track of different sessions.I've tried the official apps (like Codex or Claude desktop), is there anything that is better? Comments URL: https://news.ycombinator.com/item?id=48696704 Points: 2 # Comments: 0",
+    "author": "howToTestFE",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48696704",
+    "id": "news-3207"
+  },
+  {
     "title": "Ford execs say they made a mistake when they replaced human engineers with AI",
     "summary": "Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48695489 Points: 1 # Comments",
     "content": "Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48695489 Points: 1 # Comments: 0",
