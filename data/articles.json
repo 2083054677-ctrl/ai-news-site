@@ -1,5 +1,70 @@
 [
   {
+    "title": "Properties of AI",
+    "summary": "Article URL: https://claude.com/resources/tutorials/the-4-properties-of-ai Comments URL: https://news.ycombinator.com/item?id=48696977 Points: 2 # Comments: 0",
+    "content": "Article URL: https://claude.com/resources/tutorials/the-4-properties-of-ai Comments URL: https://news.ycombinator.com/item?id=48696977 Points: 2 # Comments: 0",
+    "author": "vinhnx",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/resources/tutorials/the-4-properties-of-ai",
+    "id": "news-3219"
+  },
+  {
+    "title": "Show HN: PreFlight – A local AST background daemon to catch AI code drift",
+    "summary": "Article URL: https://preflight-vibe.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48697052 Points: 1 # Comments: 0",
+    "content": "Article URL: https://preflight-vibe.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48697052 Points: 1 # Comments: 0",
+    "author": "Avenassh",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://preflight-vibe.vercel.app/",
+    "id": "news-3218"
+  },
+  {
+    "title": "U.S. government restricts access to OpenAI's new AI model",
+    "summary": "Article URL: https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa Comments URL: https://news.ycombinator.com/item?id=48697064 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa Comments URL: https://news.ycombinator.com/item?id=48697064 Points: 1 # Comments: 0",
+    "author": "chelm",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa",
+    "id": "news-3217"
+  },
+  {
+    "title": "How a New York race became the first front in the AI industry's midterm war",
+    "summary": "Article URL: https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/ Comments URL: https://news.ycombinator.com/item?id=48697173 Points: 1 # C",
+    "content": "Article URL: https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/ Comments URL: https://news.ycombinator.com/item?id=48697173 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/",
+    "id": "news-3216"
+  },
+  {
+    "title": "Everyone Will Have an AI Coding Agent",
+    "summary": "Article URL: https://github.com/HoratiuCode/Clawie Comments URL: https://news.ycombinator.com/item?id=48697174 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/HoratiuCode/Clawie Comments URL: https://news.ycombinator.com/item?id=48697174 Points: 1 # Comments: 0",
+    "author": "horatiucode",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/HoratiuCode/Clawie",
+    "id": "news-3215"
+  },
+  {
     "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
     "summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fi",
     "content": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fine-tuning. The article ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5 appeared first on The Decoder.",
