@@ -1,5 +1,83 @@
 [
   {
+    "title": "J.P. Morgan sees a pile of red flags in the AI market",
+    "summary": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets. Just 42 AI companies in the S&P 500 account for 65 to 80 percent of the index's total profits. The semiconductor rally is",
+    "content": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets. Just 42 AI companies in the S&P 500 account for 65 to 80 percent of the index's total profits. The semiconductor rally is flashing technical patterns last seen during the dotcom bubble, and leveraged chip ETFs have quintupled their market influence since early 2024. The bank sees multiple layers of concentration risk across markets, infrastructure, and the economy. The article J.P. Morgan sees a pile of red flags in t",
+    "author": "Matthias Bastian",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+    "id": "news-3226"
+  },
+  {
+    "title": "AI Anxiety Is Fueling Burnout Across Silicon Valley's Tech Workers",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48698657 Points: 4",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48698657 Points: 4 # Comments: 1",
+    "author": "littlexsparkee",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers",
+    "id": "news-3225"
+  },
+  {
+    "title": "Corv: An SSH client for AI agents (and humans)",
+    "summary": "Article URL: https://github.com/khalid-src/corv-client Comments URL: https://news.ycombinator.com/item?id=48698681 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/khalid-src/corv-client Comments URL: https://news.ycombinator.com/item?id=48698681 Points: 3 # Comments: 1",
+    "author": "khalid_0002",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/khalid-src/corv-client",
+    "id": "news-3224"
+  },
+  {
+    "title": "AI: The Falsity of Comparison",
+    "summary": "Article URL: https://syntheticauth.ai/posts/ai-the-falsity-of-comparison Comments URL: https://news.ycombinator.com/item?id=48698885 Points: 1 # Comments: 0",
+    "content": "Article URL: https://syntheticauth.ai/posts/ai-the-falsity-of-comparison Comments URL: https://news.ycombinator.com/item?id=48698885 Points: 1 # Comments: 0",
+    "author": "zerolayers",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://syntheticauth.ai/posts/ai-the-falsity-of-comparison",
+    "id": "news-3223"
+  },
+  {
+    "title": "Show HN: Apex-1-flash, 4B LLM finetuned on RTX 5070",
+    "summary": "The goal was to create a highly efficient, small-scale model that can perform reasoning tasks while remaining lightweight enough to run easily on consumer hardware. Technical Stack: Base: Qwen3:4B Tra",
+    "content": "The goal was to create a highly efficient, small-scale model that can perform reasoning tasks while remaining lightweight enough to run easily on consumer hardware. Technical Stack: Base: Qwen3:4B Training: Fine-tuned using Unsloth for memory efficiency, which allowed me to run the process smoothly on an RTX 5070. Stack: Built with cu128, PyTorch, and Hugging Face Transformers. Dataset: Trained on Raymond-dev-546730/Open-CoT-Reasoning-Mini to improve Chain-of-Thought (CoT) capabilities. Comments",
+    "author": "Qmay_Dev",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://huggingface.co/OrbitAIEU/Apex-1-flash",
+    "id": "news-3222"
+  },
+  {
+    "title": "Show HN: AI-whisper – Claude works better when Codex watches its back",
+    "summary": "Article URL: https://ai-creed.dev/projects/ai-whisper/ Comments URL: https://news.ycombinator.com/item?id=48698924 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-creed.dev/projects/ai-whisper/ Comments URL: https://news.ycombinator.com/item?id=48698924 Points: 1 # Comments: 0",
+    "author": "vuphanse",
+    "date": "2026-06-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-creed.dev/projects/ai-whisper/",
+    "id": "news-3221"
+  },
+  {
     "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
     "summary": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthropic, Microsoft, and the OpenAI Foundation",
     "content": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative—a first. That the very companies driving the disruption are bankrolling the response will likely raise questions about independence. The article The companies most likely to automate your job are now funding a $1 billion program to retrain you appeared first on Th",
