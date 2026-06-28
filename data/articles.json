@@ -1,5 +1,96 @@
 [
   {
+    "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+    "summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and bet",
+    "content": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent. Coinbase has cut its AI spending in half even as token usage keeps climbing. The article Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+    "id": "news-3263"
+  },
+  {
+    "title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
+    "summary": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the researchers argue, until they finish ent",
+    "content": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the researchers argue, until they finish entire tasks in persistent work environments instead of just generating answers. The key lies in combining persistent workspaces with reusable skills. The article AI won't become a real coworker until it stops answering and starts finishing tasks appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
+    "id": "news-3262"
+  },
+  {
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "summary": "Article URL: https://github.com/openai/codex/issues/2847 Comments URL: https://news.ycombinator.com/item?id=48706714 Points: 18 # Comments: 12",
+    "content": "Article URL: https://github.com/openai/codex/issues/2847 Comments URL: https://news.ycombinator.com/item?id=48706714 Points: 18 # Comments: 12",
+    "author": "pikseladam",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/openai/codex/issues/2847",
+    "id": "news-3261"
+  },
+  {
+    "title": "Academic-writing kit for Claude Code",
+    "summary": "Article URL: https://github.com/josefslerka/study-kit Comments URL: https://news.ycombinator.com/item?id=48706763 Points: 4 # Comments: 0",
+    "content": "Article URL: https://github.com/josefslerka/study-kit Comments URL: https://news.ycombinator.com/item?id=48706763 Points: 4 # Comments: 0",
+    "author": "josefslerka",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/josefslerka/study-kit",
+    "id": "news-3260"
+  },
+  {
+    "title": "After the AI Hype – What's Real, and What's Next – Richard Campbell – 2026",
+    "summary": "Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM Comments URL: https://news.ycombinator.com/item?id=48706777 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM Comments URL: https://news.ycombinator.com/item?id=48706777 Points: 1 # Comments: 0",
+    "author": "tcp_handshaker",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+    "id": "news-3259"
+  },
+  {
+    "title": "Revenue at Risk from AI Displacement",
+    "summary": "Article URL: https://zenodo.org/records/20999945 Comments URL: https://news.ycombinator.com/item?id=48706896 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/20999945 Comments URL: https://news.ycombinator.com/item?id=48706896 Points: 1 # Comments: 0",
+    "author": "tas101",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/20999945",
+    "id": "news-3258"
+  },
+  {
+    "title": "Ask HN: Impact on LLM development after the USA policy of preliminary vetting",
+    "summary": "Sorry, I just realized, and I ask for your opinion:if now the policy of the administration at the USA is to mandate a staggered, conditional, restricted (\"to trusted parties\") release of the forthcomi",
+    "content": "Sorry, I just realized, and I ask for your opinion:if now the policy of the administration at the USA is to mandate a staggered, conditional, restricted (\"to trusted parties\") release of the forthcoming SotA LLMs,could that mean that abating their market (users from a pool \"of 8 thousand or 8 million instead of 8 billion\") may cause an RnD slowdown, in fear that the fees to the customers will not be able to cover the expenses?This completely clashes with the \"race to AGI\", to the \"race to geopol",
+    "author": "mdp2021",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48707008",
+    "id": "news-3257"
+  },
+  {
     "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
     "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger. The secret isn",
     "content": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger. The secret isn't size but multi-stage post-training. The researchers propose a hypothesis based on their findings: logical reasoning compresses well into small models, but broad world knowledge does not. The article Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge does",
