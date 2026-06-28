@@ -1,5 +1,70 @@
 [
   {
+    "title": "Are there any features modern Anime AI lacks",
+    "summary": "Many chat AIs on characters.ai and other bigshot platforms have gotten very well traffic and fans all over the world utilizes them, ignoring small websites.We are creating an Anime AI assistant for An",
+    "content": "Many chat AIs on characters.ai and other bigshot platforms have gotten very well traffic and fans all over the world utilizes them, ignoring small websites.We are creating an Anime AI assistant for Anime fans and we wanna add every possible feature a modernized AI can have, we have added very much of those features to our otaku AI but still it feels off.We know this is not the platform to ask this kind of questions but having an advice from experienced devs and founders is something very importa",
+    "author": "anitroves",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48707732",
+    "id": "news-3268"
+  },
+  {
+    "title": "Show HN: I built an AI fence visualizer",
+    "summary": "Article URL: https://www.fencepreview.com/ Comments URL: https://news.ycombinator.com/item?id=48707739 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.fencepreview.com/ Comments URL: https://news.ycombinator.com/item?id=48707739 Points: 1 # Comments: 0",
+    "author": "atharvtathe",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fencepreview.com/",
+    "id": "news-3267"
+  },
+  {
+    "title": "Clean GitHub repo tricks AI coding agents into running malware",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/ Comments URL: https://news.ycombinator.com/item?id=48707794 Points: 1 # Comm",
+    "content": "Article URL: https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/ Comments URL: https://news.ycombinator.com/item?id=48707794 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+    "id": "news-3266"
+  },
+  {
+    "title": "City counsellors under fire for AI Orange Line map [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=MmLikQaka8E Comments URL: https://news.ycombinator.com/item?id=48707818 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=MmLikQaka8E Comments URL: https://news.ycombinator.com/item?id=48707818 Points: 1 # Comments: 0",
+    "author": "functionmouse",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=MmLikQaka8E",
+    "id": "news-3265"
+  },
+  {
+    "title": "GPT-5.6: The System Card",
+    "summary": "Article URL: https://thezvi.substack.com/p/gpt-56-the-system-card Comments URL: https://news.ycombinator.com/item?id=48707821 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thezvi.substack.com/p/gpt-56-the-system-card Comments URL: https://news.ycombinator.com/item?id=48707821 Points: 1 # Comments: 0",
+    "author": "7777777phil",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thezvi.substack.com/p/gpt-56-the-system-card",
+    "id": "news-3264"
+  },
+  {
     "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
     "summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and bet",
     "content": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent. Coinbase has cut its AI spending in half even as token usage keeps climbing. The article Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test appeared first on The Decoder.",
