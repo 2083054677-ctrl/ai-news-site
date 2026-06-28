@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It ",
+    "content": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be add",
+    "author": "kamaludu",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kamaludu/bash4llm/",
+    "id": "news-3273"
+  },
+  {
+    "title": "How to Use Claude Code: A Complete Beginner's Guide (2026)",
+    "summary": "Article URL: https://dest.host/b/how-to-use-claude-code/ Comments URL: https://news.ycombinator.com/item?id=48710860 Points: 3 # Comments: 0",
+    "content": "Article URL: https://dest.host/b/how-to-use-claude-code/ Comments URL: https://news.ycombinator.com/item?id=48710860 Points: 3 # Comments: 0",
+    "author": "snorbleck",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dest.host/b/how-to-use-claude-code/",
+    "id": "news-3272"
+  },
+  {
+    "title": "Ablo – The collaboration layer for AI agents",
+    "summary": "Article URL: https://github.com/Abloatai/ablo Comments URL: https://news.ycombinator.com/item?id=48711106 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Abloatai/ablo Comments URL: https://news.ycombinator.com/item?id=48711106 Points: 1 # Comments: 0",
+    "author": "luckymonkybaby",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Abloatai/ablo",
+    "id": "news-3271"
+  },
+  {
+    "title": "Evolving Thoughts on AI in 2026",
+    "summary": "Article URL: https://chriskiehl.com/article/evolving-thoughts-on-ai-2026 Comments URL: https://news.ycombinator.com/item?id=48711187 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chriskiehl.com/article/evolving-thoughts-on-ai-2026 Comments URL: https://news.ycombinator.com/item?id=48711187 Points: 1 # Comments: 0",
+    "author": "goostavos",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chriskiehl.com/article/evolving-thoughts-on-ai-2026",
+    "id": "news-3270"
+  },
+  {
+    "title": "Claude Code now uses dark UI patterns to gain Google account access via MCP",
+    "summary": "Article URL: https://claude.com/docs/connectors/google/gmail Comments URL: https://news.ycombinator.com/item?id=48711306 Points: 1 # Comments: 1",
+    "content": "Article URL: https://claude.com/docs/connectors/google/gmail Comments URL: https://news.ycombinator.com/item?id=48711306 Points: 1 # Comments: 1",
+    "author": "janpeuker",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/docs/connectors/google/gmail",
+    "id": "news-3269"
+  },
+  {
     "title": "Are there any features modern Anime AI lacks",
     "summary": "Many chat AIs on characters.ai and other bigshot platforms have gotten very well traffic and fans all over the world utilizes them, ignoring small websites.We are creating an Anime AI assistant for An",
     "content": "Many chat AIs on characters.ai and other bigshot platforms have gotten very well traffic and fans all over the world utilizes them, ignoring small websites.We are creating an Anime AI assistant for Anime fans and we wanna add every possible feature a modernized AI can have, we have added very much of those features to our otaku AI but still it feels off.We know this is not the platform to ask this kind of questions but having an advice from experienced devs and founders is something very importa",
