@@ -1,5 +1,109 @@
 [
   {
+    "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+    "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger. The secret isn",
+    "content": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger. The secret isn't size but multi-stage post-training. The researchers propose a hypothesis based on their findings: logical reasoning compresses well into small models, but broad world knowledge does not. The article Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge does",
+    "author": "Jonathan Kemper",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/",
+    "id": "news-3256"
+  },
+  {
+    "title": "Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence",
+    "summary": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities. Zhou admits Chinese models trail Western ones by 20 t",
+    "content": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities. Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cyber nuclear weapons\" and calls for China to build its own strategic deterrent. The article Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
+    "id": "news-3255"
+  },
+  {
+    "title": "Only three AI models finished above starting capital in a 500-day startup survival test",
+    "summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuri",
+    "content": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them. The article Only three AI models finished above starting capital in a 500-day startup survival test appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+    "id": "news-3254"
+  },
+  {
+    "title": "If You Can Facilitate a Retrospective, You Can Audit Your AI",
+    "summary": "Article URL: https://age-of-product.com/ai-delegation-audit/ Comments URL: https://news.ycombinator.com/item?id=48705737 Points: 2 # Comments: 0",
+    "content": "Article URL: https://age-of-product.com/ai-delegation-audit/ Comments URL: https://news.ycombinator.com/item?id=48705737 Points: 2 # Comments: 0",
+    "author": "swolpers",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://age-of-product.com/ai-delegation-audit/",
+    "id": "news-3253"
+  },
+  {
+    "title": "Tiny LLM Benchmark: Jetson Orin Nano Super 8GB",
+    "summary": "Article URL: https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/ Comments URL: https://news.ycombinator.com/item?id=48705815 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/ Comments URL: https://news.ycombinator.com/item?id=48705815 Points: 1 # Comments: 0",
+    "author": "orbanlevi",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/",
+    "id": "news-3252"
+  },
+  {
+    "title": "Show HN: Claudete – Command a legion of Claude Code instances and shells",
+    "summary": "This is a weekend project I created due to my frustration with the classic terminal applications that have the issue that if I restart my Mac, then my Claude Code instances or my shell instances—are s",
+    "content": "This is a weekend project I created due to my frustration with the classic terminal applications that have the issue that if I restart my Mac, then my Claude Code instances or my shell instances—are stopped, and I have to manually run them again.Plus, they are not quite optimized for running multiple Claude Code instances, so I created this project to address this issue. Comments URL: https://news.ycombinator.com/item?id=48705880 Points: 2 # Comments: 2",
+    "author": "morion4000",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claudete.co",
+    "id": "news-3251"
+  },
+  {
+    "title": "Software Taste vs. Slop in the Age of AI – TWSoftwareDev26",
+    "summary": "Article URL: https://blog.herlein.com/post/wisdom-in-specs/ Comments URL: https://news.ycombinator.com/item?id=48705898 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blog.herlein.com/post/wisdom-in-specs/ Comments URL: https://news.ycombinator.com/item?id=48705898 Points: 2 # Comments: 0",
+    "author": "gherlein",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.herlein.com/post/wisdom-in-specs/",
+    "id": "news-3250"
+  },
+  {
+    "title": "Why is Claude Code ending Converstaion",
+    "summary": "Article URL: https://medium.com/@thesuperrepemail/calude-code-got-sentimental-6fe965a3acc5 Comments URL: https://news.ycombinator.com/item?id=48706068 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/@thesuperrepemail/calude-code-got-sentimental-6fe965a3acc5 Comments URL: https://news.ycombinator.com/item?id=48706068 Points: 1 # Comments: 0",
+    "author": "rajkverma123",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@thesuperrepemail/calude-code-got-sentimental-6fe965a3acc5",
+    "id": "news-3249"
+  },
+  {
     "title": "Google caps Meta's Gemini use as AI demand strains capacity",
     "summary": "Article URL: https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378 Comments URL: https://news.ycombinator.com/item?id=48704836 Points: 3 # Comments: 0",
     "content": "Article URL: https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378 Comments URL: https://news.ycombinator.com/item?id=48704836 Points: 3 # Comments: 0",
