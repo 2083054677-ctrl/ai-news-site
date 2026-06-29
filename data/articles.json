@@ -1,5 +1,70 @@
 [
   {
+    "title": "The composable AI thesis",
+    "summary": "Article URL: https://openenvelope.org/writing/composable-ai-thesis/ Comments URL: https://news.ycombinator.com/item?id=48726012 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openenvelope.org/writing/composable-ai-thesis/ Comments URL: https://news.ycombinator.com/item?id=48726012 Points: 1 # Comments: 0",
+    "author": "ashconway",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openenvelope.org/writing/composable-ai-thesis/",
+    "id": "news-3301"
+  },
+  {
+    "title": "Zeus – a local AI agent orchestrator with web and phone UI (open source)",
+    "summary": "Article URL: https://github.com/shreyasks094/Zeus Comments URL: https://news.ycombinator.com/item?id=48726167 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/shreyasks094/Zeus Comments URL: https://news.ycombinator.com/item?id=48726167 Points: 1 # Comments: 0",
+    "author": "blackhawk094",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/shreyasks094/Zeus",
+    "id": "news-3300"
+  },
+  {
+    "title": "Open-source AI agent workflow for auditing Solidity smart contracts",
+    "summary": "Article URL: https://github.com/chain-shield/ai-agent-audit Comments URL: https://news.ycombinator.com/item?id=48726182 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/chain-shield/ai-agent-audit Comments URL: https://news.ycombinator.com/item?id=48726182 Points: 1 # Comments: 0",
+    "author": "chainshieldai",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/chain-shield/ai-agent-audit",
+    "id": "news-3299"
+  },
+  {
+    "title": "Ask HN: What's SOTA for AI Voice Narration",
+    "summary": "I need some character voice acting for an animation I'm making. The response from people when I used Elevenlabs was that it felt flat and characters were inconsistent.I was previously using the voice ",
+    "content": "I need some character voice acting for an animation I'm making. The response from people when I used Elevenlabs was that it felt flat and characters were inconsistent.I was previously using the voice reference on seedance 2.0, but obviously that's limited to 15 seconds, and I have 40 lines I have to go throughFinally I just spent $75 on a human voice actor for subpar work that I can't useAnyways, is there anything better than elevenlabs right now to carry emotional tone or is it still SOTA? Comm",
+    "author": "JimsonYang",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48726190",
+    "id": "news-3298"
+  },
+  {
+    "title": "Gemini's personalized AI image generation is now free for US users",
+    "summary": "Article URL: https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/ Comments URL: https://news.ycombinator.com/item?id=48726241 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/ Comments URL: https://news.ycombinator.com/item?id=48726241 Points: 1 # Comments: 0",
+    "author": "haritha1313",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "id": "news-3297"
+  },
+  {
     "title": "AEB: A Case Study Using Comma.ai Dataset (2019)",
     "summary": "Article URL: https://comma-ai.medium.com/aeb-a-case-study-using-comma-ai-dataset-2fc08a2397f4 Comments URL: https://news.ycombinator.com/item?id=48725111 Points: 1 # Comments: 0",
     "content": "Article URL: https://comma-ai.medium.com/aeb-a-case-study-using-comma-ai-dataset-2fc08a2397f4 Comments URL: https://news.ycombinator.com/item?id=48725111 Points: 1 # Comments: 0",
