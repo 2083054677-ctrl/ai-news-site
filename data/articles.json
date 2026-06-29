@@ -1,5 +1,96 @@
 [
   {
+    "title": "Deloitte tells its own consultants: AI is coming for the billable hour",
+    "summary": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is to",
+    "content": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is toast,\" one consultant summed up the message. McKinsey and BCG are already searching for alternative revenue models. The article Deloitte tells its own consultants: AI is coming for the billable hour appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/",
+    "id": "news-3288"
+  },
+  {
+    "title": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
+    "summary": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data. The article Meta restricts use",
+    "content": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data. The article Meta restricts use of Claude Code and Codex to keep rival AI out of its training data appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/",
+    "id": "news-3287"
+  },
+  {
+    "title": "Ford rehires human engineers after AI fails to match quality checks",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48721294 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.bbc.co.uk/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48721294 Points: 1 # Comments: 1",
+    "author": "_ua_",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o",
+    "id": "news-3286"
+  },
+  {
+    "title": "South Korea announces more than $1T AI, chip investment drive",
+    "summary": "Article URL: https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive Comments URL: https://news.ycombinator.com/item?id=48721373 Points: 3 # Commen",
+    "content": "Article URL: https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive Comments URL: https://news.ycombinator.com/item?id=48721373 Points: 3 # Comments: 0",
+    "author": "mgh2",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive",
+    "id": "news-3285"
+  },
+  {
+    "title": "AI loops: who pays for the tokens?",
+    "summary": "Article URL: https://www.jackfranklin.co.uk/blog/claude-code-ai-feedback-skill/ Comments URL: https://news.ycombinator.com/item?id=48721493 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.jackfranklin.co.uk/blog/claude-code-ai-feedback-skill/ Comments URL: https://news.ycombinator.com/item?id=48721493 Points: 1 # Comments: 0",
+    "author": "jackfranklin",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.jackfranklin.co.uk/blog/claude-code-ai-feedback-skill/",
+    "id": "news-3284"
+  },
+  {
+    "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
+    "summary": "Article URL: https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365 Comments URL: https://news.ycombinator.com/item?id=48721494 Points: 4 # Comments: 1",
+    "content": "Article URL: https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365 Comments URL: https://news.ycombinator.com/item?id=48721494 Points: 4 # Comments: 1",
+    "author": "logickkk1",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
+    "id": "news-3283"
+  },
+  {
+    "title": "China's Z.ai claims it can match Mythos on cybersecurity",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity Comments URL: https://news.ycombinator.com/item?id=48721540 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity Comments URL: https://news.ycombinator.com/item?id=48721540 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "id": "news-3282"
+  },
+  {
     "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
     "summary": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The ca",
     "content": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The catch: the malicious code only loads at runtime via a DNS query, invisible in the repo, to scanners, and to the AI agent itself. The article Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control appeared first on The Decoder.",
