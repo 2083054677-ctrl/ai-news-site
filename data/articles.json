@@ -1,5 +1,70 @@
 [
   {
+    "title": "AEB: A Case Study Using Comma.ai Dataset (2019)",
+    "summary": "Article URL: https://comma-ai.medium.com/aeb-a-case-study-using-comma-ai-dataset-2fc08a2397f4 Comments URL: https://news.ycombinator.com/item?id=48725111 Points: 1 # Comments: 0",
+    "content": "Article URL: https://comma-ai.medium.com/aeb-a-case-study-using-comma-ai-dataset-2fc08a2397f4 Comments URL: https://news.ycombinator.com/item?id=48725111 Points: 1 # Comments: 0",
+    "author": "LorenDB",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://comma-ai.medium.com/aeb-a-case-study-using-comma-ai-dataset-2fc08a2397f4",
+    "id": "news-3296"
+  },
+  {
+    "title": "Show HN: Xenoeye – analyze network without AI using netflow, PostgreSQL, Grafana",
+    "summary": "Sorry for the slightly truncated title. It should have been \"Network traffic analysis and monitoring without AI, using netflow-family protocols, PostgreSQL or ClickHouse, Grafana, and some scripts\".In",
+    "content": "Sorry for the slightly truncated title. It should have been \"Network traffic analysis and monitoring without AI, using netflow-family protocols, PostgreSQL or ClickHouse, Grafana, and some scripts\".In 2026, it might seem a bit presumptuous to announce AI-free software on HN. But building a netflow analyzer manually is no less presumptuous!There are quite a few xFlow analyzers out there these days, and I'm constantly reminded of this. But I think there's always room for an alternative approach. A",
+    "author": "vmxdev",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vmxdev/xenoeye",
+    "id": "news-3295"
+  },
+  {
+    "title": "Show HN: Khazad – Transparent Semantic Cache for LLM Calls on Redis Vector Sets",
+    "summary": "Article URL: https://github.com/GuglielmoCerri/khazad Comments URL: https://news.ycombinator.com/item?id=48725166 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/GuglielmoCerri/khazad Comments URL: https://news.ycombinator.com/item?id=48725166 Points: 2 # Comments: 0",
+    "author": "guglielmoce",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/GuglielmoCerri/khazad",
+    "id": "news-3294"
+  },
+  {
+    "title": "JetBrains' new AI-first IDE JetBrains Air is now on Windows",
+    "summary": "Article URL: https://www.neowin.net/news/jetbrains-new-ai-first-ide-jetbrains-air-is-now-on-windows/ Comments URL: https://news.ycombinator.com/item?id=48725329 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.neowin.net/news/jetbrains-new-ai-first-ide-jetbrains-air-is-now-on-windows/ Comments URL: https://news.ycombinator.com/item?id=48725329 Points: 1 # Comments: 0",
+    "author": "bundie",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.neowin.net/news/jetbrains-new-ai-first-ide-jetbrains-air-is-now-on-windows/",
+    "id": "news-3293"
+  },
+  {
+    "title": "You shouldn't copy-paste errors into Claude Code",
+    "summary": "Article URL: https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code Comments URL: https://news.ycombinator.com/item?id=48725359 Points: 1 # Comments: 0",
+    "content": "Article URL: https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code Comments URL: https://news.ycombinator.com/item?id=48725359 Points: 1 # Comments: 0",
+    "author": "nyellin",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code",
+    "id": "news-3292"
+  },
+  {
     "title": "DiScoFormer: One transformer for density and score, across distributions",
     "summary": "DiScoFormer: One transformer for density and score, across distributions",
     "content": "",
