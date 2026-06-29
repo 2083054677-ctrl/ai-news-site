@@ -1,5 +1,45 @@
 [
   {
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "summary": "DiScoFormer: One transformer for density and score, across distributions",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/discoformer",
+    "id": "news-3291"
+  },
+  {
+    "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe",
+    "summary": "Austria's State Secretary for Digitalization, Alexander Pröll, is calling on the European Commission to explore bringing Anthropic to Europe. He's responding to the U.S. ban on advanced AI models from",
+    "content": "Austria's State Secretary for Digitalization, Alexander Pröll, is calling on the European Commission to explore bringing Anthropic to Europe. He's responding to the U.S. ban on advanced AI models from OpenAI and Anthropic for foreign users. The initiative is likely unrealistic, though. And the alternative floating in the background, Chinese AI models, would just trade one dependency for another. The article EU seeks AI independence as Austria proposes luring Anthropic to Europe appeared first on",
+    "author": "Matthias Bastian",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/",
+    "id": "news-3290"
+  },
+  {
+    "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
+    "summary": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use. Starting next year, Amazon will pay by tokens processed rather than compute hours, which could",
+    "content": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use. Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply. The company is also exploring alternatives like OpenAI. The article Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
+    "id": "news-3289"
+  },
+  {
     "title": "Deloitte tells its own consultants: AI is coming for the billable hour",
     "summary": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is to",
     "content": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is toast,\" one consultant summed up the message. McKinsey and BCG are already searching for alternative revenue models. The article Deloitte tells its own consultants: AI is coming for the billable hour appeared first on The Decoder.",
