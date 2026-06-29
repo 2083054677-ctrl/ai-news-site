@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI boom risks global financial crash, warn central bankers",
+    "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 35 # Comment",
+    "content": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 35 # Comments: 17",
+    "author": "b-man",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+    "id": "news-3278"
+  },
+  {
+    "title": "AI-assisted binary patching to fix an abandoned router's DHCP bug",
+    "summary": "Article URL: https://gurulabs.com/blogs/edgeos-dhcrelay-binary-patch/ Comments URL: https://news.ycombinator.com/item?id=48713705 Points: 2 # Comments: 0",
+    "content": "Article URL: https://gurulabs.com/blogs/edgeos-dhcrelay-binary-patch/ Comments URL: https://news.ycombinator.com/item?id=48713705 Points: 2 # Comments: 0",
+    "author": "4onthefloor124",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gurulabs.com/blogs/edgeos-dhcrelay-binary-patch/",
+    "id": "news-3277"
+  },
+  {
+    "title": "AI and Liability",
+    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html Comments URL: https://news.ycombinator.com/item?id=48713752 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html Comments URL: https://news.ycombinator.com/item?id=48713752 Points: 3 # Comments: 1",
+    "author": "lwhsiao",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
+    "id": "news-3276"
+  },
+  {
+    "title": "Signed satellite images for AI agents",
+    "summary": "Hi, we have open-sourced a signed https://emem.dev [ https://github.com/Vortx-AI/emem ] to enable ai agents leverage the physical world in a repetitive, cite-able manner. Think of us as https for the ",
+    "content": "Hi, we have open-sourced a signed https://emem.dev [ https://github.com/Vortx-AI/emem ] to enable ai agents leverage the physical world in a repetitive, cite-able manner. Think of us as https for the real world intelligence. Do give it a try by adding https://emem.dev/mcp in your agentic workforce. Comments URL: https://news.ycombinator.com/item?id=48713981 Points: 1 # Comments: 0",
+    "author": "avijeetsingh16",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48713981",
+    "id": "news-3275"
+  },
+  {
+    "title": "Anthropic Claude Fable 5, on track to return soon (possibly this week)",
+    "summary": "Article URL: https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon Comments URL: https://news.ycombinator.com/item?id=48714050 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon Comments URL: https://news.ycombinator.com/item?id=48714050 Points: 3 # Comments: 0",
+    "author": "dlg",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+    "id": "news-3274"
+  },
+  {
     "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
     "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It ",
     "content": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be add",
