@@ -1,5 +1,31 @@
 [
   {
+    "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
+    "summary": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The ca",
+    "content": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The catch: the malicious code only loads at runtime via a DNS query, invisible in the repo, to scanners, and to the AI agent itself. The article Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/",
+    "id": "news-3281"
+  },
+  {
+    "title": "The US military used AI to pick thousands of targets but missed a note saying one was a school",
+    "summary": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them. The article The US military used AI to pick thous",
+    "content": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them. The article The US military used AI to pick thousands of targets but missed a note saying one was a school appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/",
+    "id": "news-3280"
+  },
+  {
     "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
     "summary": "Samsung and SK Hynix, backed by the South Korean government, are pouring $590 billion into new chip factories and packaging centers as AI data center demand surges. According to Jefferies, memory pric",
     "content": "Samsung and SK Hynix, backed by the South Korean government, are pouring $590 billion into new chip factories and packaging centers as AI data center demand surges. According to Jefferies, memory prices could climb to 50 percent per quarter through 2027. The two companies control nearly 80 percent of the global HBM market. The article Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring appeared first on The Decoder.",
