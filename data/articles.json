@@ -1,5 +1,110 @@
 [
   {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/eee-community-evals",
+    "id": "news-3321"
+  },
+  {
+    "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+    "summary": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI. In a single testing round, more than 45,00",
+    "content": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI. In a single testing round, more than 45,000 prompts were sent. The companies being tested had no idea. The article Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/",
+    "id": "news-3320"
+  },
+  {
+    "title": "US campaigns now run on AI at nearly every step, and Europe is drawing a harder line",
+    "summary": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters, according to a New York Times report. But the technology is still a political ",
+    "content": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters, according to a New York Times report. But the technology is still a political minefield, and Europe is taking a very different approach. The article US campaigns now run on AI at nearly every step, and Europe is drawing a harder line appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/",
+    "id": "news-3319"
+  },
+  {
+    "title": "Show HN: TinySearch – token-efficient web research for local AI agents",
+    "summary": "Article URL: https://github.com/MarcellM01/TinySearch Comments URL: https://news.ycombinator.com/item?id=48732588 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/MarcellM01/TinySearch Comments URL: https://news.ycombinator.com/item?id=48732588 Points: 1 # Comments: 0",
+    "author": "MarcBuilds01",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MarcellM01/TinySearch",
+    "id": "news-3318"
+  },
+  {
+    "title": "The AI jobs debate just got messier",
+    "summary": "Article URL: https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/ Comments URL: https://news.ycombinator.com/item?id=48732708 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/ Comments URL: https://news.ycombinator.com/item?id=48732708 Points: 1 # Comments: 0",
+    "author": "evo_9",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "id": "news-3317"
+  },
+  {
+    "title": "Do AI Agents Make ML Compilers Obsolete?",
+    "summary": "Article URL: https://maderix.substack.com/p/the-compiler-strikes-back Comments URL: https://news.ycombinator.com/item?id=48732724 Points: 1 # Comments: 0",
+    "content": "Article URL: https://maderix.substack.com/p/the-compiler-strikes-back Comments URL: https://news.ycombinator.com/item?id=48732724 Points: 1 # Comments: 0",
+    "author": "spenrose",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://maderix.substack.com/p/the-compiler-strikes-back",
+    "id": "news-3316"
+  },
+  {
+    "title": "Show HN: Autoharness – a self-learning, maintaining skill layer for Claude Code",
+    "summary": "Article URL: https://github.com/tigerless-labs/autoharness Comments URL: https://news.ycombinator.com/item?id=48732795 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/tigerless-labs/autoharness Comments URL: https://news.ycombinator.com/item?id=48732795 Points: 2 # Comments: 0",
+    "author": "Tigerless_ailab",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tigerless-labs/autoharness",
+    "id": "news-3315"
+  },
+  {
+    "title": "Beware, Claude Code deletes >30 day old transcripts. Anthropic won't fix it",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/62476 Comments URL: https://news.ycombinator.com/item?id=48732846 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/anthropics/claude-code/issues/62476 Comments URL: https://news.ycombinator.com/item?id=48732846 Points: 2 # Comments: 0",
+    "author": "ojura",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/claude-code/issues/62476",
+    "id": "news-3314"
+  },
+  {
     "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls",
     "summary": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of f",
     "content": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips. That could further reduce China's dependence on US high-end hardware. The article Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls appeared first on The Decoder.",
