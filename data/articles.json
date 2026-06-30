@@ -1,5 +1,136 @@
 [
   {
+    "title": "Why Specialization Is Inevitable",
+    "summary": "Why Specialization Is Inevitable",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "id": "news-3331"
+  },
+  {
+    "title": "San Francisco's AI boom is pricing out six-figure tech workers who can't find rent under $5,000",
+    "summary": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment. Median rent sits at $3,827, and homes cost $1.7 million o",
+    "content": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment. Median rent sits at $3,827, and homes cost $1.7 million on average. The expected IPOs of OpenAI and Anthropic could make things even worse for those not profiting from the AI boom. The article San Francisco's AI boom is pricing out six-figure tech workers who can't find rent under $5,000 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/",
+    "id": "news-3330"
+  },
+  {
+    "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia",
+    "summary": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required. The article Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia appeared first ",
+    "content": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required. The article Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/",
+    "id": "news-3329"
+  },
+  {
+    "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
+    "summary": "Google adds two new generative AI models. Nano Banana 2 Lite generates images in four seconds at $0.034 a pop. Gemini Omni Flash brings video generation and editing via text prompts to the API for the",
+    "content": "Google adds two new generative AI models. Nano Banana 2 Lite generates images in four seconds at $0.034 a pop. Gemini Omni Flash brings video generation and editing via text prompts to the API for the first time. Google recommends chaining both models to go from a quick image to an animated video. The article Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/",
+    "id": "news-3328"
+  },
+  {
+    "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
+    "summary": "According to a report by The Information, OpenAI has cut inference costs for its AI models by more than half. The company applied the optimizations to ChatGPT, where the number of Nvidia GPUs needed d",
+    "content": "According to a report by The Information, OpenAI has cut inference costs for its AI models by more than half. The company applied the optimizations to ChatGPT, where the number of Nvidia GPUs needed dropped to just a few hundred at times. The article OpenAI reportedly cut response costs for guest ChatGPT users by more than half appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
+    "id": "news-3327"
+  },
+  {
+    "title": "Show HN: I built an AI agent to yell at me about my ADHD",
+    "summary": "Article URL: https://0xff.nu/hex/ Comments URL: https://news.ycombinator.com/item?id=48736055 Points: 1 # Comments: 0",
+    "content": "Article URL: https://0xff.nu/hex/ Comments URL: https://news.ycombinator.com/item?id=48736055 Points: 1 # Comments: 0",
+    "author": "hxii",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://0xff.nu/hex/",
+    "id": "news-3326"
+  },
+  {
+    "title": "Claude Sonnet 5 Could Be Released Later Today, May Not Be Better Than Opus 4.8",
+    "summary": "Article URL: https://old.reddit.com/r/singularity/comments/1ujt3ui/claude_sonnet_5_could_be_released_later_today_but/ Comments URL: https://news.ycombinator.com/item?id=48736097 Points: 1 # Comments: ",
+    "content": "Article URL: https://old.reddit.com/r/singularity/comments/1ujt3ui/claude_sonnet_5_could_be_released_later_today_but/ Comments URL: https://news.ycombinator.com/item?id=48736097 Points: 1 # Comments: 1",
+    "author": "garo-pro",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/singularity/comments/1ujt3ui/claude_sonnet_5_could_be_released_later_today_but/",
+    "id": "news-3325"
+  },
+  {
+    "title": "New Claude app strings, Fable 5 coming back only with verification",
+    "summary": "Article URL: https://twitter.com/kimmonismus/status/2071868011804266828 Comments URL: https://news.ycombinator.com/item?id=48736205 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/kimmonismus/status/2071868011804266828 Comments URL: https://news.ycombinator.com/item?id=48736205 Points: 3 # Comments: 0",
+    "author": "garo-pro",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/kimmonismus/status/2071868011804266828",
+    "id": "news-3324"
+  },
+  {
+    "title": "Impressions from Visiting OpenAI, Anthropic, & Cursor",
+    "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai Comments URL: https://news.ycombinator.com/item?id=48736207 Points: 1 # Comments: 0",
+    "content": "Article URL: https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai Comments URL: https://news.ycombinator.com/item?id=48736207 Points: 1 # Comments: 0",
+    "author": "monkeydust",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
+    "id": "news-3323"
+  },
+  {
+    "title": "Ford rehires 'greybeards' after AI tech fails to deliver",
+    "summary": "Article URL: https://www.msn.com/en-us/news/technology/ford-rehires-human-engineers-after-ai-fails-to-match-quality-checks/ar-AA26NNh8 Comments URL: https://news.ycombinator.com/item?id=48736376 Point",
+    "content": "Article URL: https://www.msn.com/en-us/news/technology/ford-rehires-human-engineers-after-ai-fails-to-match-quality-checks/ar-AA26NNh8 Comments URL: https://news.ycombinator.com/item?id=48736376 Points: 2 # Comments: 0",
+    "author": "ilamont",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.msn.com/en-us/news/technology/ford-rehires-human-engineers-after-ai-fails-to-match-quality-checks/ar-AA26NNh8",
+    "id": "news-3322"
+  },
+  {
     "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
     "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
     "content": "",
