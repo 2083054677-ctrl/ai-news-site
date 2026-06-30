@@ -1,5 +1,70 @@
 [
   {
+    "title": "Labelling AI-Generated Content in China",
+    "summary": "Article URL: https://ocpl.substack.com/p/labelling-ai-generated-content-in Comments URL: https://news.ycombinator.com/item?id=48738906 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ocpl.substack.com/p/labelling-ai-generated-content-in Comments URL: https://news.ycombinator.com/item?id=48738906 Points: 1 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ocpl.substack.com/p/labelling-ai-generated-content-in",
+    "id": "news-3339"
+  },
+  {
+    "title": "Magicbookshelf.org – Using AI to create a spoiler-free companion to any book",
+    "summary": "Article URL: https://magicbookshelf.org/read/pride-and-prejudice/ Comments URL: https://news.ycombinator.com/item?id=48738909 Points: 1 # Comments: 0",
+    "content": "Article URL: https://magicbookshelf.org/read/pride-and-prejudice/ Comments URL: https://news.ycombinator.com/item?id=48738909 Points: 1 # Comments: 0",
+    "author": "philipfweiss",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://magicbookshelf.org/read/pride-and-prejudice/",
+    "id": "news-3338"
+  },
+  {
+    "title": "Gitpulse – AI-generated conventional commits from your terminal",
+    "summary": "Article URL: https://github.com/erico964-blip/gitpulse Comments URL: https://news.ycombinator.com/item?id=48739045 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/erico964-blip/gitpulse Comments URL: https://news.ycombinator.com/item?id=48739045 Points: 2 # Comments: 0",
+    "author": "erico964-blip",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/erico964-blip/gitpulse",
+    "id": "news-3337"
+  },
+  {
+    "title": "Claude Code Just Got 5x More Expensive",
+    "summary": "Article URL: https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/ Comments URL: https://news.ycombinator.com/item?id=48739168 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/ Comments URL: https://news.ycombinator.com/item?id=48739168 Points: 1 # Comments: 0",
+    "author": "vincent_s",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/",
+    "id": "news-3336"
+  },
+  {
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "summary": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-",
+    "content": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Comments URL: https://news.ycombinator.com/item?id=48739226 Points: 2 # Comments: 0",
+    "author": "evo_9",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "id": "news-3335"
+  },
+  {
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
     "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
     "content": "",
