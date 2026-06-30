@@ -1,5 +1,96 @@
 [
   {
+    "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls",
+    "summary": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of f",
+    "content": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips. That could further reduce China's dependence on US high-end hardware. The article Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/",
+    "id": "news-3313"
+  },
+  {
+    "title": "Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China",
+    "summary": "Taiwanese authorities have raided the offices of Super Micro Computer and several local partner companies. The article Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China app",
+    "content": "Taiwanese authorities have raided the offices of Super Micro Computer and several local partner companies. The article Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/",
+    "id": "news-3312"
+  },
+  {
+    "title": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
+    "summary": "Article URL: https://ai-policy-gen.pages.dev Comments URL: https://news.ycombinator.com/item?id=48730624 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ai-policy-gen.pages.dev Comments URL: https://news.ycombinator.com/item?id=48730624 Points: 2 # Comments: 0",
+    "author": "wyss0513",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-policy-gen.pages.dev",
+    "id": "news-3311"
+  },
+  {
+    "title": "Show HN: GPTHumanizer – Free, unlimited AI humanizer for ChatGPT drafts",
+    "summary": "Article URL: https://www.gpthumanizer.ai/ Comments URL: https://news.ycombinator.com/item?id=48730635 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.gpthumanizer.ai/ Comments URL: https://news.ycombinator.com/item?id=48730635 Points: 1 # Comments: 0",
+    "author": "gigisss",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.gpthumanizer.ai/",
+    "id": "news-3310"
+  },
+  {
+    "title": "Show HN: Turnitindetector.ai – Free AI checker for essays, no sign-up",
+    "summary": "Article URL: https://www.turnitindetector.ai/ Comments URL: https://news.ycombinator.com/item?id=48730639 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.turnitindetector.ai/ Comments URL: https://news.ycombinator.com/item?id=48730639 Points: 1 # Comments: 0",
+    "author": "gigisss",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.turnitindetector.ai/",
+    "id": "news-3309"
+  },
+  {
+    "title": "The missing context layer for AI-built apps",
+    "summary": "Article URL: https://github.com/ohad6k/VibeRaven Comments URL: https://news.ycombinator.com/item?id=48730693 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ohad6k/VibeRaven Comments URL: https://news.ycombinator.com/item?id=48730693 Points: 1 # Comments: 0",
+    "author": "ohadkr",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ohad6k/VibeRaven",
+    "id": "news-3308"
+  },
+  {
+    "title": "Mindcraft – Minecraft AI with LLMs+Mineflayer",
+    "summary": "Article URL: https://github.com/mindcraft-bots/mindcraft Comments URL: https://news.ycombinator.com/item?id=48730820 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/mindcraft-bots/mindcraft Comments URL: https://news.ycombinator.com/item?id=48730820 Points: 1 # Comments: 0",
+    "author": "modinfo",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mindcraft-bots/mindcraft",
+    "id": "news-3307"
+  },
+  {
     "title": "Elementor cuts 100 jobs, 30% of workforce, as AI reshapes website building",
     "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/sycgn6yxze Comments URL: https://news.ycombinator.com/item?id=48729496 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.calcalistech.com/ctechnews/article/sycgn6yxze Comments URL: https://news.ycombinator.com/item?id=48729496 Points: 1 # Comments: 0",
