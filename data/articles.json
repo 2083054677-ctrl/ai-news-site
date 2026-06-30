@@ -1,5 +1,45 @@
 [
   {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "id": "news-3334"
+  },
+  {
+    "title": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
+    "summary": "Anthropic released Claude Science, an AI workbench for researchers. More than 60 preconfigured skills cover fields like genomics and computational chemistry, and a verification agent automatically che",
+    "content": "Anthropic released Claude Science, an AI workbench for researchers. More than 60 preconfigured skills cover fields like genomics and computational chemistry, and a verification agent automatically checks citations and calculations. The app runs locally or on HPC clusters, so sensitive data never has to leave a lab's own infrastructure. The article Anthropic launches Claude Science, an AI workspace built specifically for researchers appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
+    "id": "news-3333"
+  },
+  {
+    "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
+    "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618. ",
+    "content": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618. Anthropic is also quick to point out that the model scores far below the models the US government currently has blocked when it comes to cybersecurity tasks, a likely deliberate signal given the ongoing debate. The article Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model seri",
+    "author": "Matthias Bastian",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/",
+    "id": "news-3332"
+  },
+  {
     "title": "Why Specialization Is Inevitable",
     "summary": "Why Specialization Is Inevitable",
     "content": "",
