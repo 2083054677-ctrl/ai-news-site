@@ -1,5 +1,70 @@
 [
   {
+    "title": "We Built a Tool to Predict Runaway LLM Costs (Before They Kill Your Margins)",
+    "summary": "Article URL: https://the746th.substack.com/p/before-you-scale Comments URL: https://news.ycombinator.com/item?id=48740136 Points: 1 # Comments: 0",
+    "content": "Article URL: https://the746th.substack.com/p/before-you-scale Comments URL: https://news.ycombinator.com/item?id=48740136 Points: 1 # Comments: 0",
+    "author": "dcriglerd",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://the746th.substack.com/p/before-you-scale",
+    "id": "news-3344"
+  },
+  {
+    "title": "Claude Code Skills: 98 AI architectures, Haiku at 93% of Fable 5 quality",
+    "summary": "Article URL: https://github.com/GPire/claude-skills-swarm Comments URL: https://news.ycombinator.com/item?id=48740141 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/GPire/claude-skills-swarm Comments URL: https://news.ycombinator.com/item?id=48740141 Points: 1 # Comments: 0",
+    "author": "GPrab",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/GPire/claude-skills-swarm",
+    "id": "news-3343"
+  },
+  {
+    "title": "Commonplace: Self-hosted, privacy-tiered memory for your AI agents",
+    "summary": "Article URL: https://github.com/itsmeduncan/commonplace Comments URL: https://news.ycombinator.com/item?id=48740235 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/itsmeduncan/commonplace Comments URL: https://news.ycombinator.com/item?id=48740235 Points: 1 # Comments: 0",
+    "author": "itsmeduncan",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/itsmeduncan/commonplace",
+    "id": "news-3342"
+  },
+  {
+    "title": "I like Claude Desktop, so I created my own",
+    "summary": "Article URL: https://www.zandrey.com/blog/i-like-claude-desktop-so-i-created-my-own Comments URL: https://news.ycombinator.com/item?id=48740294 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.zandrey.com/blog/i-like-claude-desktop-so-i-created-my-own Comments URL: https://news.ycombinator.com/item?id=48740294 Points: 1 # Comments: 0",
+    "author": "rats",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.zandrey.com/blog/i-like-claude-desktop-so-i-created-my-own",
+    "id": "news-3341"
+  },
+  {
+    "title": "Anthropic launches AI drug discovery program",
+    "summary": "Article URL: https://www.google.com/url?q=https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html Comments URL: https://news.ycombinator.com/item?id=48740363 P",
+    "content": "Article URL: https://www.google.com/url?q=https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html Comments URL: https://news.ycombinator.com/item?id=48740363 Points: 1 # Comments: 0",
+    "author": "benchtobedside",
+    "date": "2026-06-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.google.com/url?q=https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+    "id": "news-3340"
+  },
+  {
     "title": "Labelling AI-Generated Content in China",
     "summary": "Article URL: https://ocpl.substack.com/p/labelling-ai-generated-content-in Comments URL: https://news.ycombinator.com/item?id=48738906 Points: 1 # Comments: 0",
     "content": "Article URL: https://ocpl.substack.com/p/labelling-ai-generated-content-in Comments URL: https://news.ycombinator.com/item?id=48738906 Points: 1 # Comments: 0",
