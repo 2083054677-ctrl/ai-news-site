@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: GOAT 2.0 – AI orchestrator with proactive episodic memory",
+    "summary": "Article URL: https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology Comments URL: https://news.ycombinator.com/item?id=48751769 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology Comments URL: https://news.ycombinator.com/item?id=48751769 Points: 1 # Comments: 0",
+    "author": "takashikiari",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology",
+    "id": "news-3371"
+  },
+  {
+    "title": "0/6 major aerospace documentation portals are AI Agent-ready",
+    "summary": "I spent some time building AeroScore, a scoring engine that evaluates how well major documentation portals support AI agents. In short, none of the 6 that I evaluated in this first batch are sufficien",
+    "content": "I spent some time building AeroScore, a scoring engine that evaluates how well major documentation portals support AI agents. In short, none of the 6 that I evaluated in this first batch are sufficiently prepared.The methodology and criteria are based on the AFDocs Spec (an open-source checklist for agent-ready documentation) and one specific extension for PDF-heaviness since aerospace as a field places so much importance on PDFs. Each site gets scored 0-100 across criteria like llms.txt presenc",
+    "author": "priyanshu-j",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48751798",
+    "id": "news-3370"
+  },
+  {
+    "title": "CIA chief compares cutting-edge AI to nuclear weapons",
+    "summary": "Article URL: https://www.japantimes.co.jp/news/2026/07/01/world/cia-ai-nuclear-weapons/ Comments URL: https://news.ycombinator.com/item?id=48751805 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.japantimes.co.jp/news/2026/07/01/world/cia-ai-nuclear-weapons/ Comments URL: https://news.ycombinator.com/item?id=48751805 Points: 4 # Comments: 0",
+    "author": "billybuckwheat",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.japantimes.co.jp/news/2026/07/01/world/cia-ai-nuclear-weapons/",
+    "id": "news-3369"
+  },
+  {
+    "title": "OpenAI Gym (2016)",
+    "summary": "Article URL: https://arxiv.org/abs/1606.01540 Comments URL: https://news.ycombinator.com/item?id=48751902 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/1606.01540 Comments URL: https://news.ycombinator.com/item?id=48751902 Points: 1 # Comments: 0",
+    "author": "gregsadetsky",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/1606.01540",
+    "id": "news-3368"
+  },
+  {
+    "title": "Claude Fable 5 Promotional Access",
+    "summary": "Article URL: https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access Comments URL: https://news.ycombinator.com/item?id=48751978 Points: 7 # Comments: 3",
+    "content": "Article URL: https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access Comments URL: https://news.ycombinator.com/item?id=48751978 Points: 7 # Comments: 3",
+    "author": "zbikowski",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "id": "news-3367"
+  },
+  {
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "summary": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "content": "",
