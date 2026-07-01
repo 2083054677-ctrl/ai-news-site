@@ -1,5 +1,109 @@
 [
   {
+    "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+    "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenA",
+    "content": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/",
+    "id": "news-3358"
+  },
+  {
+    "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+    "summary": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent mor",
+    "content": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent more tokens per task than its predecessor, nearly doubling real costs despite identical list prices. Anthropic's hidden price hikes are becoming a pattern. The article Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+    "id": "news-3357"
+  },
+  {
+    "title": "Hidden code in Claude Code secretly flagged Chinese users",
+    "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese user",
+    "content": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+    "id": "news-3356"
+  },
+  {
+    "title": "The AI Fishing Guide: Every Bassfinity Tool, One Conversation",
+    "summary": "Article URL: https://www.bassfinity.com/blog/ai-fishing-guide-launch-every-tool-one-conversation Comments URL: https://news.ycombinator.com/item?id=48745102 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bassfinity.com/blog/ai-fishing-guide-launch-every-tool-one-conversation Comments URL: https://news.ycombinator.com/item?id=48745102 Points: 1 # Comments: 0",
+    "author": "jequals5",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bassfinity.com/blog/ai-fishing-guide-launch-every-tool-one-conversation",
+    "id": "news-3355"
+  },
+  {
+    "title": "On Generative AI and Software Engineering",
+    "summary": "Article URL: https://streanga.com/blog/on-generative-ai-and-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=48745139 Points: 1 # Comments: 0",
+    "content": "Article URL: https://streanga.com/blog/on-generative-ai-and-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=48745139 Points: 1 # Comments: 0",
+    "author": "preg_match",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://streanga.com/blog/on-generative-ai-and-software-engineering/",
+    "id": "news-3354"
+  },
+  {
+    "title": "Claude's writing style has me on edge",
+    "summary": "Article URL: https://jerodsanto.net/2026/06/claudes-writing-style-has-me-on-edge/ Comments URL: https://news.ycombinator.com/item?id=48745160 Points: 2 # Comments: 0",
+    "content": "Article URL: https://jerodsanto.net/2026/06/claudes-writing-style-has-me-on-edge/ Comments URL: https://news.ycombinator.com/item?id=48745160 Points: 2 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jerodsanto.net/2026/06/claudes-writing-style-has-me-on-edge/",
+    "id": "news-3353"
+  },
+  {
+    "title": "Show HN: Bookmarker is now a macOS app  On-device AI. Local. Private",
+    "summary": "And no subscription. Single payment. Yours forever. As it should be. Comments URL: https://news.ycombinator.com/item?id=48745429 Points: 2 # Comments: 0",
+    "content": "And no subscription. Single payment. Yours forever. As it should be. Comments URL: https://news.ycombinator.com/item?id=48745429 Points: 2 # Comments: 0",
+    "author": "kaizenb",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bookmarker.cc",
+    "id": "news-3352"
+  },
+  {
+    "title": "Apple's Tim Cook holds 'constructive' talks with EU tech chief over 'Siri AI'",
+    "summary": "Article URL: https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d Comments URL: https://news.ycombinator.com/item?id=48745574 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d Comments URL: https://news.ycombinator.com/item?id=48745574 Points: 1 # Comments: 1",
+    "author": "peterspath",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d",
+    "id": "news-3351"
+  },
+  {
     "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
     "summary": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 co",
     "content": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 could pull off the same exploit. A new safety classifier blocks the technique in over 99 percent of cases, though it also flags more harmless requests in the process. The article Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak appeared first on The Decoder.",
