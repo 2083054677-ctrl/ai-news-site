@@ -1,5 +1,110 @@
 [
   {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "summary": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "id": "news-3366"
+  },
+  {
+    "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
+    "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs wh",
+    "content": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing. Clinical use for paralyzed patients is still a long way off, but accuracy keeps improving with every additional recording. AI agents that wrote their own code helped with the optimization. The article Meta's non-invasive brain-to-text AI is closing the gap with surgical implan",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
+    "id": "news-3365"
+  },
+  {
+    "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
+    "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now ap",
+    "content": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its own models? The article Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
+    "id": "news-3364"
+  },
+  {
+    "title": "Stealing 50 Years of Database Ideas for AI Agents",
+    "summary": "Article URL: https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48748977 Points: 4 # Comments: 0",
+    "content": "Article URL: https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48748977 Points: 4 # Comments: 0",
+    "author": "lmwnshn",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/",
+    "id": "news-3363"
+  },
+  {
+    "title": "The Wealth of the Richest People in AI",
+    "summary": "Article URL: https://futuresearch.ai/ai-researcher-net-worth/ Comments URL: https://news.ycombinator.com/item?id=48749009 Points: 2 # Comments: 0",
+    "content": "Article URL: https://futuresearch.ai/ai-researcher-net-worth/ Comments URL: https://news.ycombinator.com/item?id=48749009 Points: 2 # Comments: 0",
+    "author": "ddp26",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://futuresearch.ai/ai-researcher-net-worth/",
+    "id": "news-3362"
+  },
+  {
+    "title": "CorvinOS – self-hosted agentic OS where EU AI Act and GDPR compliance by design",
+    "summary": "Article URL: https://github.com/CorvinLabs/CorvinOS Comments URL: https://news.ycombinator.com/item?id=48749035 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/CorvinLabs/CorvinOS Comments URL: https://news.ycombinator.com/item?id=48749035 Points: 2 # Comments: 0",
+    "author": "shumway",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/CorvinLabs/CorvinOS",
+    "id": "news-3361"
+  },
+  {
+    "title": "My Notes After Databricks Data and AI Summit 2026",
+    "summary": "Article URL: https://zilliz.com/blog/databricks-data-ai-summit-2026-data-layer Comments URL: https://news.ycombinator.com/item?id=48749195 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zilliz.com/blog/databricks-data-ai-summit-2026-data-layer Comments URL: https://news.ycombinator.com/item?id=48749195 Points: 1 # Comments: 0",
+    "author": "redskyluan",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zilliz.com/blog/databricks-data-ai-summit-2026-data-layer",
+    "id": "news-3360"
+  },
+  {
+    "title": "Uber Shakes Up AI Data Labeling Business, Dismissing Top Leaders",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-01/uber-shakes-up-ai-data-labeling-business-dismissing-top-leaders Comments URL: https://news.ycombinator.com/item?id=48749243 Points: 1 # ",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-07-01/uber-shakes-up-ai-data-labeling-business-dismissing-top-leaders Comments URL: https://news.ycombinator.com/item?id=48749243 Points: 1 # Comments: 1",
+    "author": "htrp",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-07-01/uber-shakes-up-ai-data-labeling-business-dismissing-top-leaders",
+    "id": "news-3359"
+  },
+  {
     "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
     "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenA",
     "content": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy appeared first on The Decoder.",
