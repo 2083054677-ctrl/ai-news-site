@@ -1,5 +1,70 @@
 [
   {
+    "title": "Weird Al declined 'a nice pile of money' to star in AI ad",
+    "summary": "Article URL: https://www.avclub.com/weird-al-yankovic-ai-commercial-exit Comments URL: https://news.ycombinator.com/item?id=48754099 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.avclub.com/weird-al-yankovic-ai-commercial-exit Comments URL: https://news.ycombinator.com/item?id=48754099 Points: 3 # Comments: 0",
+    "author": "jimt1234",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.avclub.com/weird-al-yankovic-ai-commercial-exit",
+    "id": "news-3382"
+  },
+  {
+    "title": "Finding a Needle in the Haystack: Querying Physical AI Data with Daft",
+    "summary": "Article URL: https://www.eventual.ai/blog/egodex-scenario-search Comments URL: https://news.ycombinator.com/item?id=48754121 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.eventual.ai/blog/egodex-scenario-search Comments URL: https://news.ycombinator.com/item?id=48754121 Points: 1 # Comments: 0",
+    "author": "sammysidhu",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.eventual.ai/blog/egodex-scenario-search",
+    "id": "news-3381"
+  },
+  {
+    "title": "Red teamers turned Claude Desktop into a double agent to do their evil bidding",
+    "summary": "Article URL: https://www.theregister.com/security/2026/07/01/red-teamers-turned-claude-desktop-into-a-double-agent-to-do-their-evil-bidding/5264692 Comments URL: https://news.ycombinator.com/item?id=4",
+    "content": "Article URL: https://www.theregister.com/security/2026/07/01/red-teamers-turned-claude-desktop-into-a-double-agent-to-do-their-evil-bidding/5264692 Comments URL: https://news.ycombinator.com/item?id=48754194 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/security/2026/07/01/red-teamers-turned-claude-desktop-into-a-double-agent-to-do-their-evil-bidding/5264692",
+    "id": "news-3380"
+  },
+  {
+    "title": "Oracle outlines all the ways it could lose the farm it bet on AI",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438 Comments URL: https://news.ycombinator.com/item?id=48754233 Point",
+    "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438 Comments URL: https://news.ycombinator.com/item?id=48754233 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438",
+    "id": "news-3379"
+  },
+  {
+    "title": "Show HN: Toolnexus for Python – MCP, agent skills,a2a for any LLM",
+    "summary": "Article URL: https://pypi.org/project/toolnexus/ Comments URL: https://news.ycombinator.com/item?id=48754258 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pypi.org/project/toolnexus/ Comments URL: https://news.ycombinator.com/item?id=48754258 Points: 1 # Comments: 0",
+    "author": "muthuishere",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pypi.org/project/toolnexus/",
+    "id": "news-3378"
+  },
+  {
     "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
     "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wa",
     "content": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeChat. The article SpaceX shows investors a slim AI smartphone prototype powered by xAI technology appeared first on The Decoder.",
