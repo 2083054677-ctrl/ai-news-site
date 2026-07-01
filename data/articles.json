@@ -1,5 +1,70 @@
 [
   {
+    "title": "US lifts curbs on Anthropic's Fable, Mythos AI models",
+    "summary": "Article URL: https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/ Comments URL: https://news.ycombinator.com/item?id=48741226 Points: 2 # ",
+    "content": "Article URL: https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/ Comments URL: https://news.ycombinator.com/item?id=48741226 Points: 2 # Comments: 1",
+    "author": "lossolo",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/",
+    "id": "news-3349"
+  },
+  {
+    "title": "Serving Local AI on My Jetson Through Durable Streams",
+    "summary": "Article URL: https://s2.dev/blog/local-ai Comments URL: https://news.ycombinator.com/item?id=48741231 Points: 1 # Comments: 0",
+    "content": "Article URL: https://s2.dev/blog/local-ai Comments URL: https://news.ycombinator.com/item?id=48741231 Points: 1 # Comments: 0",
+    "author": "shikhar",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://s2.dev/blog/local-ai",
+    "id": "news-3348"
+  },
+  {
+    "title": "Show HN: Agentic OS – the operating system for AI agents",
+    "summary": "Meet Agentic OS - your proactive AI assistant that seamlessly automates tasks, scheduling, and files Comments URL: https://news.ycombinator.com/item?id=48741277 Points: 1 # Comments: 0",
+    "content": "Meet Agentic OS - your proactive AI assistant that seamlessly automates tasks, scheduling, and files Comments URL: https://news.ycombinator.com/item?id=48741277 Points: 1 # Comments: 0",
+    "author": "nickpismenkov",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aos.injecting.ai/",
+    "id": "news-3347"
+  },
+  {
+    "title": "San Francisco supervisors balk at 362-page, AI-assisted city code rewrite",
+    "summary": "Article URL: https://missionlocal.org/2026/06/s-f-supervisors-balk-at-362-page-city-code-rewrite/ Comments URL: https://news.ycombinator.com/item?id=48741316 Points: 2 # Comments: 0",
+    "content": "Article URL: https://missionlocal.org/2026/06/s-f-supervisors-balk-at-362-page-city-code-rewrite/ Comments URL: https://news.ycombinator.com/item?id=48741316 Points: 2 # Comments: 0",
+    "author": "tastyface",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://missionlocal.org/2026/06/s-f-supervisors-balk-at-362-page-city-code-rewrite/",
+    "id": "news-3346"
+  },
+  {
+    "title": "AI Adoption Across the United States",
+    "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/us-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48741390 Points: 2 ",
+    "content": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/us-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48741390 Points: 2 # Comments: 1",
+    "author": "gmays",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/us-ai-adoption-2026-q1/",
+    "id": "news-3345"
+  },
+  {
     "title": "We Built a Tool to Predict Runaway LLM Costs (Before They Kill Your Margins)",
     "summary": "Article URL: https://the746th.substack.com/p/before-you-scale Comments URL: https://news.ycombinator.com/item?id=48740136 Points: 1 # Comments: 0",
     "content": "Article URL: https://the746th.substack.com/p/before-you-scale Comments URL: https://news.ycombinator.com/item?id=48740136 Points: 1 # Comments: 0",
