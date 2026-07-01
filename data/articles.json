@@ -1,5 +1,18 @@
 [
   {
+    "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
+    "summary": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 co",
+    "content": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 could pull off the same exploit. A new safety classifier blocks the technique in over 99 percent of cases, though it also flags more harmless requests in the process. The article Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/",
+    "id": "news-3350"
+  },
+  {
     "title": "US lifts curbs on Anthropic's Fable, Mythos AI models",
     "summary": "Article URL: https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/ Comments URL: https://news.ycombinator.com/item?id=48741226 Points: 2 # ",
     "content": "Article URL: https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/ Comments URL: https://news.ycombinator.com/item?id=48741226 Points: 2 # Comments: 1",
