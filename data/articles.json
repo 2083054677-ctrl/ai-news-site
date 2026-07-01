@@ -1,5 +1,83 @@
 [
   {
+    "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+    "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wa",
+    "content": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeChat. The article SpaceX shows investors a slim AI smartphone prototype powered by xAI technology appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+    "id": "news-3377"
+  },
+  {
+    "title": "An AI agent that applies to jobs for me (Playwright and LLM form filling)",
+    "summary": "Article URL: https://github.com/torontodeveloper/job-application-agent Comments URL: https://news.ycombinator.com/item?id=48752969 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/torontodeveloper/job-application-agent Comments URL: https://news.ycombinator.com/item?id=48752969 Points: 2 # Comments: 1",
+    "author": "torontodev007",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/torontodeveloper/job-application-agent",
+    "id": "news-3376"
+  },
+  {
+    "title": "LLM Colosseum – A zero-dependency browser RTS to test LLM tool calling",
+    "summary": "Article URL: https://github.com/asp67/llm-colosseum/tree/main Comments URL: https://news.ycombinator.com/item?id=48752981 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/asp67/llm-colosseum/tree/main Comments URL: https://news.ycombinator.com/item?id=48752981 Points: 1 # Comments: 0",
+    "author": "osti67",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/asp67/llm-colosseum/tree/main",
+    "id": "news-3375"
+  },
+  {
+    "title": "The New (and Slightly Smelly) Center of the AI Boom",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/06/hacker-houses-ai-boom-san-francisco/687737/ Comments URL: https://news.ycombinator.com/item?id=48753095 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/06/hacker-houses-ai-boom-san-francisco/687737/ Comments URL: https://news.ycombinator.com/item?id=48753095 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/06/hacker-houses-ai-boom-san-francisco/687737/",
+    "id": "news-3374"
+  },
+  {
+    "title": "Can an AI Become a Bodhisattva? Reviewing Deep Calls by Julia Kurnia",
+    "summary": "Article URL: https://buddhistfictionblog.wordpress.com/2026/06/30/can-an-ai-become-a-bodhisattva-reviewing-deep-calls-by-julia-kurnia/ Comments URL: https://news.ycombinator.com/item?id=48753096 Point",
+    "content": "Article URL: https://buddhistfictionblog.wordpress.com/2026/06/30/can-an-ai-become-a-bodhisattva-reviewing-deep-calls-by-julia-kurnia/ Comments URL: https://news.ycombinator.com/item?id=48753096 Points: 1 # Comments: 0",
+    "author": "jkurnia",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://buddhistfictionblog.wordpress.com/2026/06/30/can-an-ai-become-a-bodhisattva-reviewing-deep-calls-by-julia-kurnia/",
+    "id": "news-3373"
+  },
+  {
+    "title": "VeriCache: Turning Lossy KV Cache into Lossless LLM Inference",
+    "summary": "Article URL: https://arxiv.org/abs/2605.17613 Comments URL: https://news.ycombinator.com/item?id=48753225 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2605.17613 Comments URL: https://news.ycombinator.com/item?id=48753225 Points: 1 # Comments: 0",
+    "author": "matt_d",
+    "date": "2026-07-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2605.17613",
+    "id": "news-3372"
+  },
+  {
     "title": "Show HN: GOAT 2.0 – AI orchestrator with proactive episodic memory",
     "summary": "Article URL: https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology Comments URL: https://news.ycombinator.com/item?id=48751769 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology Comments URL: https://news.ycombinator.com/item?id=48751769 Points: 1 # Comments: 0",
