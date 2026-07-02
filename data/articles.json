@@ -1,5 +1,18 @@
 [
   {
+    "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
+    "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ",
+    "content": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positioning itself as a platform-neutral alternative to OpenAI and Anthropic, which push their own models through their own deployment companies. The article Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise c",
+    "author": "Matthias Bastian",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
+    "id": "news-3413"
+  },
+  {
     "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
     "summary": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models",
     "content": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models back because they're \"more imaginative\" than what they're given. Instead of strict rules, Anthropic now steers through context. The article Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\" appeared first on The Decoder.",
