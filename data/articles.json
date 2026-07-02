@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Scalable AI Management Platform",
+    "summary": "Synaplan is Apache2, comes with Open Source helm charts for K8s and has all major AI APIS integrated, including Ollama for local fun. Pretty powerful for hosters, who want to run their branded version",
+    "content": "Synaplan is Apache2, comes with Open Source helm charts for K8s and has all major AI APIS integrated, including Ollama for local fun. Pretty powerful for hosters, who want to run their branded version of it (explicitly wanted). Comments URL: https://news.ycombinator.com/item?id=48757444 Points: 1 # Comments: 0",
+    "author": "metaralf",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/metadist/synaplan/",
+    "id": "news-3392"
+  },
+  {
+    "title": "Text AI watermarks will always be trivial to remove",
+    "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=48757466 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=48757466 Points: 2 # Comments: 0",
+    "author": "ingve",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.seangoedecke.com/text-ai-watermarks/",
+    "id": "news-3391"
+  },
+  {
+    "title": "MarketFish – Simulate a market with 128 AI consumers before you launch",
+    "summary": "Article URL: https://github.com/Key-wxh/market-fish Comments URL: https://news.ycombinator.com/item?id=48757500 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/Key-wxh/market-fish Comments URL: https://news.ycombinator.com/item?id=48757500 Points: 3 # Comments: 0",
+    "author": "a280887763",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Key-wxh/market-fish",
+    "id": "news-3390"
+  },
+  {
+    "title": "The Download: Anthropic Launches Claude Science, and California's Carbon Manure",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/ Comments URL: https://news.ycombinator.com/item?id=48757578 Points: 2 #",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/ Comments URL: https://news.ycombinator.com/item?id=48757578 Points: 2 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "id": "news-3389"
+  },
+  {
+    "title": "Show HN: Noter – AI agent dashboard for monitoring coding harnesses locally",
+    "summary": "Article URL: https://noterai.tech Comments URL: https://news.ycombinator.com/item?id=48757613 Points: 1 # Comments: 0",
+    "content": "Article URL: https://noterai.tech Comments URL: https://news.ycombinator.com/item?id=48757613 Points: 1 # Comments: 0",
+    "author": "carlobizzaro",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://noterai.tech",
+    "id": "news-3388"
+  },
+  {
     "title": "I'm Begging You to Leave Your AI Note-Taker at Home",
     "summary": "Article URL: https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note Comments URL: https://news.ycombinator.com/item?id=48755439 Points: 8 # Comments: 5",
     "content": "Article URL: https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note Comments URL: https://news.ycombinator.com/item?id=48755439 Points: 8 # Comments: 5",
