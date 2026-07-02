@@ -1,5 +1,70 @@
 [
   {
+    "title": "'Weird Al' Yankovic Pulled Out of AI Ad",
+    "summary": "Article URL: https://variety.com/2026/music/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48767942 Points: 9 # Comments: 0",
+    "content": "Article URL: https://variety.com/2026/music/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48767942 Points: 9 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://variety.com/2026/music/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/",
+    "id": "news-3418"
+  },
+  {
+    "title": "Show HN: Mirrors – test AI agent changes by replaying real production traces",
+    "summary": "Article URL: https://www.runmirrors.com/ Comments URL: https://news.ycombinator.com/item?id=48768200 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.runmirrors.com/ Comments URL: https://news.ycombinator.com/item?id=48768200 Points: 3 # Comments: 0",
+    "author": "aisinghal",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.runmirrors.com/",
+    "id": "news-3417"
+  },
+  {
+    "title": "Consult-LLM – A second opinion from another model right in your existing agent",
+    "summary": "Article URL: https://github.com/raine/consult-llm Comments URL: https://news.ycombinator.com/item?id=48768213 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/raine/consult-llm Comments URL: https://news.ycombinator.com/item?id=48768213 Points: 1 # Comments: 0",
+    "author": "tiahura",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/raine/consult-llm",
+    "id": "news-3416"
+  },
+  {
+    "title": "Ask HN: What if we provided support for AI guidelines at the kernel level?",
+    "summary": "If the existing AI guideline approach is akin to giving a criminal (the AI) moral education (training) to encourage good behavior, how about creating a kernel-level switch that forcibly cuts off the e",
+    "content": "If the existing AI guideline approach is akin to giving a criminal (the AI) moral education (training) to encourage good behavior, how about creating a kernel-level switch that forcibly cuts off the electrical signals to its muscles the moment it grabs a weapon—that is, the moment it attempts a \"jailbreak\" via an adversarial method? Comments URL: https://news.ycombinator.com/item?id=48768344 Points: 1 # Comments: 1",
+    "author": "PJHkorea",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48768344",
+    "id": "news-3415"
+  },
+  {
+    "title": "Sous-Chef, a Claude Code plugin where Fable reviews, Codex implements",
+    "summary": "Article URL: https://github.com/tomascupr/sous-chef Comments URL: https://news.ycombinator.com/item?id=48768400 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/tomascupr/sous-chef Comments URL: https://news.ycombinator.com/item?id=48768400 Points: 1 # Comments: 0",
+    "author": "tomcupr",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tomascupr/sous-chef",
+    "id": "news-3414"
+  },
+  {
     "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
     "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ",
     "content": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positioning itself as a platform-neutral alternative to OpenAI and Anthropic, which push their own models through their own deployment companies. The article Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise c",
