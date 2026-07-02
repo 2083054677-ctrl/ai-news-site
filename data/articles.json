@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
+    "summary": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models",
+    "content": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models back because they're \"more imaginative\" than what they're given. Instead of strict rules, Anthropic now steers through context. The article Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
+    "id": "news-3412"
+  },
+  {
+    "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
+    "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers. After OpenAI's \"Jalapeño,\" y",
+    "content": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers. After OpenAI's \"Jalapeño,\" yet another major AI company is pushing into chip development to cut infrastructure costs. The article Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/",
+    "id": "news-3411"
+  },
+  {
+    "title": "Can AI Prevent Suicides?",
+    "summary": "Article URL: https://cacm.acm.org/news/can-ai-prevent-suicides/ Comments URL: https://news.ycombinator.com/item?id=48765825 Points: 2 # Comments: 1",
+    "content": "Article URL: https://cacm.acm.org/news/can-ai-prevent-suicides/ Comments URL: https://news.ycombinator.com/item?id=48765825 Points: 2 # Comments: 1",
+    "author": "visha1v",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cacm.acm.org/news/can-ai-prevent-suicides/",
+    "id": "news-3410"
+  },
+  {
+    "title": "Microsoft's unreleased lightweight Edge-based Windows 11 AI OS leaks",
+    "summary": "Article URL: https://www.neowin.net/news/microsofts-alleged-unreleased-lightweight-edge-based-windows-11-ai-os-leaks/ Comments URL: https://news.ycombinator.com/item?id=48765987 Points: 2 # Comments: ",
+    "content": "Article URL: https://www.neowin.net/news/microsofts-alleged-unreleased-lightweight-edge-based-windows-11-ai-os-leaks/ Comments URL: https://news.ycombinator.com/item?id=48765987 Points: 2 # Comments: 0",
+    "author": "bundie",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.neowin.net/news/microsofts-alleged-unreleased-lightweight-edge-based-windows-11-ai-os-leaks/",
+    "id": "news-3409"
+  },
+  {
+    "title": "Claude-real-video － any LLM can watch a video",
+    "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 1 # Comments: 0",
+    "author": "cortexosmain",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "id": "news-3408"
+  },
+  {
+    "title": "The Short Leash AI Coding Method for Beating Fable",
+    "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 1 # Comments: 0",
+    "author": "Riseed",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+    "id": "news-3407"
+  },
+  {
     "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
     "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear. The move shows how closely the AI c",
     "content": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear. The move shows how closely the AI company wants to tie itself to Washington. The article OpenAI reportedly offers the Trump administration a five percent stake in the company appeared first on The Decoder.",
