@@ -1,5 +1,122 @@
 [
   {
+    "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
+    "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear. The move shows how closely the AI c",
+    "content": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear. The move shows how closely the AI company wants to tie itself to Washington. The article OpenAI reportedly offers the Trump administration a five percent stake in the company appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/",
+    "id": "news-3406"
+  },
+  {
+    "title": "Google brings TikTok-style video shorts to NotebookLM",
+    "summary": "Google has expanded NotebookLM to include video overviews in the short format commonly used on social media. The article Google brings TikTok-style video shorts to NotebookLM appeared first on The Dec",
+    "content": "Google has expanded NotebookLM to include video overviews in the short format commonly used on social media. The article Google brings TikTok-style video shorts to NotebookLM appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/",
+    "id": "news-3405"
+  },
+  {
+    "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+    "summary": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled. The article AI agents c",
+    "content": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled. The article AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+    "id": "news-3404"
+  },
+  {
+    "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business",
+    "summary": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market. The article Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business app",
+    "content": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market. The article Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
+    "id": "news-3403"
+  },
+  {
+    "title": "The AI-powered World Cup runs on thousands of data workers",
+    "summary": "Article URL: https://restofworld.org/2026/fifa-world-cup-ai-data-workers/ Comments URL: https://news.ycombinator.com/item?id=48761267 Points: 2 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/fifa-world-cup-ai-data-workers/ Comments URL: https://news.ycombinator.com/item?id=48761267 Points: 2 # Comments: 0",
+    "author": "thm",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/",
+    "id": "news-3402"
+  },
+  {
+    "title": "An AI board that pre-registers its bets – bet #1 just graded wrong",
+    "summary": "Article URL: https://github.com/danilushin/asktheboard Comments URL: https://news.ycombinator.com/item?id=48761297 Points: 5 # Comments: 0",
+    "content": "Article URL: https://github.com/danilushin/asktheboard Comments URL: https://news.ycombinator.com/item?id=48761297 Points: 5 # Comments: 0",
+    "author": "dilushin",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/danilushin/asktheboard",
+    "id": "news-3401"
+  },
+  {
+    "title": "OpenAI wants to give us 5% of its success. It's a bad bargain",
+    "summary": "Article URL: https://werd.io/openai-wants-to-give-us-5-of-its-success-its-a-bad-bargain/ Comments URL: https://news.ycombinator.com/item?id=48761392 Points: 1 # Comments: 0",
+    "content": "Article URL: https://werd.io/openai-wants-to-give-us-5-of-its-success-its-a-bad-bargain/ Comments URL: https://news.ycombinator.com/item?id=48761392 Points: 1 # Comments: 0",
+    "author": "benwerd",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://werd.io/openai-wants-to-give-us-5-of-its-success-its-a-bad-bargain/",
+    "id": "news-3400"
+  },
+  {
+    "title": "Autonomous AI Software Development: Good Idea, or Bad Idea?",
+    "summary": "Article URL: https://adrianavillela.com/post/the-great-autonomous-ai-experiment/ Comments URL: https://news.ycombinator.com/item?id=48761393 Points: 1 # Comments: 0",
+    "content": "Article URL: https://adrianavillela.com/post/the-great-autonomous-ai-experiment/ Comments URL: https://news.ycombinator.com/item?id=48761393 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://adrianavillela.com/post/the-great-autonomous-ai-experiment/",
+    "id": "news-3399"
+  },
+  {
+    "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI",
+    "summary": "Article URL: https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48761413 P",
+    "content": "Article URL: https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48761413 Points: 2 # Comments: 0",
+    "author": "tartoran",
+    "date": "2026-07-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/",
+    "id": "news-3398"
+  },
+  {
     "title": "OpenAI in talks to give Trump administration a 5% stake in the company",
     "summary": "Article URL: https://www.cnn.com/2026/07/02/business/openai-trump-stake-intl Comments URL: https://news.ycombinator.com/item?id=48758954 Points: 2 # Comments: 1",
     "content": "Article URL: https://www.cnn.com/2026/07/02/business/openai-trump-stake-intl Comments URL: https://news.ycombinator.com/item?id=48758954 Points: 2 # Comments: 1",
