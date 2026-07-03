@@ -1,5 +1,83 @@
 [
   {
+    "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+    "summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilo",
+    "content": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee. The article Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+    "id": "news-3454"
+  },
+  {
+    "title": "Adapt: AI Native Work",
+    "summary": "Article URL: https://adapt.com Comments URL: https://news.ycombinator.com/item?id=48779563 Points: 2 # Comments: 0",
+    "content": "Article URL: https://adapt.com Comments URL: https://news.ycombinator.com/item?id=48779563 Points: 2 # Comments: 0",
+    "author": "handfuloflight",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://adapt.com",
+    "id": "news-3453"
+  },
+  {
+    "title": "Show HN: Sharing LLM Artifacts with your team",
+    "summary": "A common challenge we found as our non technical team began to work with Claude Cowork was the ability to share HTML/markdown files with the rest of the team.With LLMs building is easy but sharing art",
+    "content": "A common challenge we found as our non technical team began to work with Claude Cowork was the ability to share HTML/markdown files with the rest of the team.With LLMs building is easy but sharing artifacts is still difficult. Getting a prototype or report meant using a technical platform like Cloudflare or Vercel to host simple web pages. Setting up these pages was too complex for non-technical folks and a waste of engineering time. While Claude and ChatGPT have recently added the ability to sh",
+    "author": "d_pang",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/danielpang/dropway",
+    "id": "news-3452"
+  },
+  {
+    "title": "Deterministic Guardrails Against AI Code Duplication",
+    "summary": "Article URL: https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/ Comments URL: https://news.ycombinator.com/item?id=48779613 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/ Comments URL: https://news.ycombinator.com/item?id=48779613 Points: 1 # Comments: 0",
+    "author": "rafaepta",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/",
+    "id": "news-3451"
+  },
+  {
+    "title": "AI Is Boring",
+    "summary": "Everyone is building the same thing. Does anyone know of something genuinely exciting happening in AI? Comments URL: https://news.ycombinator.com/item?id=48779624 Points: 2 # Comments: 1",
+    "content": "Everyone is building the same thing. Does anyone know of something genuinely exciting happening in AI? Comments URL: https://news.ycombinator.com/item?id=48779624 Points: 2 # Comments: 1",
+    "author": "sverp",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48779624",
+    "id": "news-3450"
+  },
+  {
+    "title": "OpenCode, Pi, and Goose: Three Layers of the AI Agent Stack",
+    "summary": "Article URL: https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75 Comments URL: https://news.ycombinator.com/item?id=48779685 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75 Comments URL: https://news.ycombinator.com/item?id=48779685 Points: 1 # Comments: 0",
+    "author": "AIMOWAY",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75",
+    "id": "news-3449"
+  },
+  {
     "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
     "summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engin",
     "content": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engineering tasks, success rates jumped about 25 percent when the token budget was increased tenfold. Newer models benefit the most. Depending on the token budget, actual progress at the frontier is about 60 percent steeper than previous measurements suggested, according to AISI. The article UK's AI Secu",
