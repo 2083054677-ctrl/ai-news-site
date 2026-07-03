@@ -1,5 +1,44 @@
 [
   {
+    "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
+    "summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engin",
+    "content": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engineering tasks, success rates jumped about 25 percent when the token budget was increased tenfold. Newer models benefit the most. Depending on the token budget, actual progress at the frontier is about 60 percent steeper than previous measurements suggested, according to AISI. The article UK's AI Secu",
+    "author": "Matthias Bastian",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+    "id": "news-3448"
+  },
+  {
+    "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
+    "summary": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record. T",
+    "content": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record. The surge lines up with the launch of AI-powered bug-hunting programs. The article Security vulnerability reports have exploded since AI models started hunting for bugs appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+    "id": "news-3447"
+  },
+  {
+    "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
+    "summary": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries. Alibaba,",
+    "content": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries. Alibaba, meanwhile, has banned its own employees from using the tool after hidden code was found that could identify Chinese users. The article Claude Code's complicated China problem involves bans on both sides of the Pacific appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+    "id": "news-3446"
+  },
+  {
     "title": "Testing Claude Sonnet 5's agentic claims",
     "summary": "Article URL: https://developer.puter.com/blog/claude-sonnet-5-puter-js/ Comments URL: https://news.ycombinator.com/item?id=48776129 Points: 2 # Comments: 1",
     "content": "Article URL: https://developer.puter.com/blog/claude-sonnet-5-puter-js/ Comments URL: https://news.ycombinator.com/item?id=48776129 Points: 2 # Comments: 1",
