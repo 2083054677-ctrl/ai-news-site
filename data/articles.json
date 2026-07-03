@@ -1,5 +1,96 @@
 [
   {
+    "title": "Tesla caps employee AI spending at $200 per week",
+    "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
+    "content": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
+    "id": "news-3440"
+  },
+  {
+    "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
+    "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said. His AI c",
+    "content": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said. His AI chief, meanwhile, painted a rosier picture. The article Meta's AI agent push is moving slower than Zuckerberg planned appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
+    "id": "news-3439"
+  },
+  {
+    "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
+    "summary": "The hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents, at a fraction of the",
+    "content": "The hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents, at a fraction of the cost. The figures come from their own analysis. The article GPT and Claude failed Bridgewater's finance tests because the right answers were never public appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
+    "id": "news-3438"
+  },
+  {
+    "title": "Meta's Zuckerberg says AI agent tech progressing slower than expected",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html Comments URL: https://news.ycombinator.com/item?id=48774626 Points: 2 # Comments: 1",
+    "content": "Article URL: https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html Comments URL: https://news.ycombinator.com/item?id=48774626 Points: 2 # Comments: 1",
+    "author": "ssram",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
+    "id": "news-3437"
+  },
+  {
+    "title": "Simulating Tradeoffs in AI Organisation",
+    "summary": "Currently there doesn't seem to be anyone trying to simulate the tradeoffs between a singleton and a multipolar setup. Or looking at other tradeoffs like hidden and known agents, homogenous vs diverse",
+    "content": "Currently there doesn't seem to be anyone trying to simulate the tradeoffs between a singleton and a multipolar setup. Or looking at other tradeoffs like hidden and known agents, homogenous vs diverse agents and others.With LLMs it seems like we have a sandbox to test some of these things.Is this wrong? Comments URL: https://news.ycombinator.com/item?id=48774713 Points: 1 # Comments: 0",
+    "author": "rando77",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48774713",
+    "id": "news-3436"
+  },
+  {
+    "title": "Ask HN: Is it just me or does Claude / Sonnet 5 sound condescending recently?",
+    "summary": "I have noticed recently that Claude Code often sounds condescending, especially when explaining things. I feel being treated like child, gives me an impression of watching a Sesame Street episode, ins",
+    "content": "I have noticed recently that Claude Code often sounds condescending, especially when explaining things. I feel being treated like child, gives me an impression of watching a Sesame Street episode, instead of working with a tool.Just today I ran Claude Code with Sonnet 5 and, to compare, OpenCode with a local Qwen 3.6, and asked both to explain me a pull request, same prompt, same CLAUDE.md file. Here are some excerpts:Sonnet title: \"Teaching the program to speak JSON\"Qwen title: \"JSON deserializ",
+    "author": "alentred",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48774742",
+    "id": "news-3435"
+  },
+  {
+    "title": "Show HN: Handpicked AI jobs from 170 AI companies, sourced from career pages",
+    "summary": "no aggregator spam, direct employer links Comments URL: https://news.ycombinator.com/item?id=48774826 Points: 1 # Comments: 0",
+    "content": "no aggregator spam, direct employer links Comments URL: https://news.ycombinator.com/item?id=48774826 Points: 1 # Comments: 0",
+    "author": "lanmao",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://job.careers/",
+    "id": "news-3434"
+  },
+  {
     "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
     "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The ",
     "content": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
