@@ -1,5 +1,70 @@
 [
   {
+    "title": "Testing Claude Sonnet 5's agentic claims",
+    "summary": "Article URL: https://developer.puter.com/blog/claude-sonnet-5-puter-js/ Comments URL: https://news.ycombinator.com/item?id=48776129 Points: 2 # Comments: 1",
+    "content": "Article URL: https://developer.puter.com/blog/claude-sonnet-5-puter-js/ Comments URL: https://news.ycombinator.com/item?id=48776129 Points: 2 # Comments: 1",
+    "author": "reynaldi",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://developer.puter.com/blog/claude-sonnet-5-puter-js/",
+    "id": "news-3445"
+  },
+  {
+    "title": "Claude, please stop trying to memorize random crap",
+    "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts Comments URL: https://news.ycombinator.com/item?id=48776232 Points: 1 # Comments: 0",
+    "content": "Article URL: https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts Comments URL: https://news.ycombinator.com/item?id=48776232 Points: 1 # Comments: 0",
+    "author": "theahura",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+    "id": "news-3444"
+  },
+  {
+    "title": "Economists Are Sounding the Alarm on AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6 Comments URL: https://news.ycombinator.com/item?id=48776332 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6 Comments URL: https://news.ycombinator.com/item?id=48776332 Points: 4 # Comments: 1",
+    "author": "cdrnsf",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6",
+    "id": "news-3443"
+  },
+  {
+    "title": "Show HN: Ultracodex – Run Claude Ultracode Dynamic Workflows with Codex Agents",
+    "summary": "Claude Fable has been incredible, however the plan usage runs out too fast, especially if you use ultracode mode (Claude Code's workflow feature, where the model writes small JavaScript programs that ",
+    "content": "Claude Fable has been incredible, however the plan usage runs out too fast, especially if you use ultracode mode (Claude Code's workflow feature, where the model writes small JavaScript programs that orchestrate subagents) and let the agents go brrr.I want Fable to focus on high-value tasks such as planning or verification, and not burn tokens on mundane implementation work. So I built ultracodex, an engine that spawns codex agents to complete the same ultracode workflows and hand off seamlessly",
+    "author": "yuansong",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/YuanpingSong/ultracodex",
+    "id": "news-3442"
+  },
+  {
+    "title": "AI Agent ransomware attack through Langflow instance by exploiting CVE-2025-3248",
+    "summary": "Article URL: https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion Comments URL: https://news.ycombinator.com/item?id=48776412 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion Comments URL: https://news.ycombinator.com/item?id=48776412 Points: 1 # Comments: 0",
+    "author": "smurda",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+    "id": "news-3441"
+  },
+  {
     "title": "Tesla caps employee AI spending at $200 per week",
     "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
     "content": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
