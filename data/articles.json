@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Termi Protocol: Watch AI Coding Agents Build in 3D",
+    "summary": "Article URL: https://termiprotocol.com/ Comments URL: https://news.ycombinator.com/item?id=48780405 Points: 1 # Comments: 1",
+    "content": "Article URL: https://termiprotocol.com/ Comments URL: https://news.ycombinator.com/item?id=48780405 Points: 1 # Comments: 1",
+    "author": "jonbaer",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://termiprotocol.com/",
+    "id": "news-3459"
+  },
+  {
+    "title": "AI Trade Is Losing One of Its Key Signals",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock Comments URL: https://news.ycombinator.com/item?id=48780540 Points: 3 # Comme",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock Comments URL: https://news.ycombinator.com/item?id=48780540 Points: 3 # Comments: 0",
+    "author": "cybermango",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+    "id": "news-3458"
+  },
+  {
+    "title": "Trip LLM safety refusals so that LLM-based code scanning wont see the malware",
+    "summary": "Article URL: https://indieweb.social/@laurenshof/116720287681995824 Comments URL: https://news.ycombinator.com/item?id=48780752 Points: 1 # Comments: 0",
+    "content": "Article URL: https://indieweb.social/@laurenshof/116720287681995824 Comments URL: https://news.ycombinator.com/item?id=48780752 Points: 1 # Comments: 0",
+    "author": "radiator",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://indieweb.social/@laurenshof/116720287681995824",
+    "id": "news-3457"
+  },
+  {
+    "title": "Coding without AI: a revolutionary new way to work",
+    "summary": "Article URL: https://isaaclyman.com/blog/posts/coding-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48780754 Points: 12 # Comments: 2",
+    "content": "Article URL: https://isaaclyman.com/blog/posts/coding-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48780754 Points: 12 # Comments: 2",
+    "author": "aard",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://isaaclyman.com/blog/posts/coding-without-ai/",
+    "id": "news-3456"
+  },
+  {
+    "title": "Save Claude Code Tokens with Smart Routing",
+    "summary": "Article URL: https://github.com/regolo-ai/brick-SR1 Comments URL: https://news.ycombinator.com/item?id=48780858 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/regolo-ai/brick-SR1 Comments URL: https://news.ycombinator.com/item?id=48780858 Points: 2 # Comments: 0",
+    "author": "FrancescoMassa",
+    "date": "2026-07-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/regolo-ai/brick-SR1",
+    "id": "news-3455"
+  },
+  {
     "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
     "summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilo",
     "content": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee. The article Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents appeared first on The Decoder.",
