@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ramp data shows heavy AI adopters hire more",
+    "summary": "Article URL: https://econlab.substack.com/p/we-can-finally-say-ai-isnt-killing-jobs Comments URL: https://news.ycombinator.com/item?id=48789554 Points: 1 # Comments: 0",
+    "content": "Article URL: https://econlab.substack.com/p/we-can-finally-say-ai-isnt-killing-jobs Comments URL: https://news.ycombinator.com/item?id=48789554 Points: 1 # Comments: 0",
+    "author": "skybrian",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://econlab.substack.com/p/we-can-finally-say-ai-isnt-killing-jobs",
+    "id": "news-3495"
+  },
+  {
+    "title": "Show HN: WifeBench – My wife vibes LLM rankings",
+    "summary": "She watched me look at model rankings and asked what do the numbers mean...I literally had no good way of explaining it to her so I just came up with something that is approximately in the same ballpa",
+    "content": "She watched me look at model rankings and asked what do the numbers mean...I literally had no good way of explaining it to her so I just came up with something that is approximately in the same ballpark as some of the benchmarks out there lol Comments URL: https://news.ycombinator.com/item?id=48789647 Points: 1 # Comments: 0",
+    "author": "fristovic",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wifebench.com/",
+    "id": "news-3494"
+  },
+  {
+    "title": "RFC: Stopping runaway AI agent spend with atomic budget reservations",
+    "summary": "Article URL: https://github.com/iamapsrajput/agent-budget-protocol/blob/main/RFC.md Comments URL: https://news.ycombinator.com/item?id=48789750 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/iamapsrajput/agent-budget-protocol/blob/main/RFC.md Comments URL: https://news.ycombinator.com/item?id=48789750 Points: 1 # Comments: 0",
+    "author": "iamapsrajput",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/iamapsrajput/agent-budget-protocol/blob/main/RFC.md",
+    "id": "news-3493"
+  },
+  {
+    "title": "I just tired of killing AI slop",
+    "summary": "Article URL: https://www.surgeos.app/ Comments URL: https://news.ycombinator.com/item?id=48789760 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.surgeos.app/ Comments URL: https://news.ycombinator.com/item?id=48789760 Points: 1 # Comments: 1",
+    "author": "yernururu",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.surgeos.app/",
+    "id": "news-3492"
+  },
+  {
+    "title": "Out-of-core LLM inference engine written from scratch in Rust",
+    "summary": "Article URL: https://github.com/Vage91/Kortex Comments URL: https://news.ycombinator.com/item?id=48789790 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Vage91/Kortex Comments URL: https://news.ycombinator.com/item?id=48789790 Points: 1 # Comments: 0",
+    "author": "Vage91",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Vage91/Kortex",
+    "id": "news-3491"
+  },
+  {
     "title": "Speck – AI spec-driven agents, inspired by compilers and build tools",
     "summary": "Article URL: https://github.com/gi-dellav/speck/tree/main Comments URL: https://news.ycombinator.com/item?id=48788707 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/gi-dellav/speck/tree/main Comments URL: https://news.ycombinator.com/item?id=48788707 Points: 1 # Comments: 0",
