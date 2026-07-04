@@ -1,5 +1,70 @@
 [
   {
+    "title": "Understanding the Dynamics of the AI Ecosystem with Pace Layers",
+    "summary": "Article URL: https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html Comments URL: https://news.ycombinator.com/item?id=48786426 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html Comments URL: https://news.ycombinator.com/item?id=48786426 Points: 1 # Comments: 0",
+    "author": "dbreunig",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html",
+    "id": "news-3484"
+  },
+  {
+    "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=aE3gPh2CC9I Comments URL: https://news.ycombinator.com/item?id=48786614 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=aE3gPh2CC9I Comments URL: https://news.ycombinator.com/item?id=48786614 Points: 1 # Comments: 0",
+    "author": "ronfriedhaber",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=aE3gPh2CC9I",
+    "id": "news-3483"
+  },
+  {
+    "title": "Show HN: Routing24 – free route optimization agent for Claude Cowork/WebMCP",
+    "summary": "I've been building https://routing24.com for a while, a free route optimization and planning app for businesses.One of the things that bothered me for quite a time is inability of browser agents to wo",
+    "content": "I've been building https://routing24.com for a while, a free route optimization and planning app for businesses.One of the things that bothered me for quite a time is inability of browser agents to work with Routing24.We have tons of natural tasks for AI:- data ingestion, to figure out data coming from user's side (csv and Excel);- geocoding quality validation (to explain user what they need to correct and their addresses and how);- steep learning curve for business users (who have sense of what",
+    "author": "dennis16384",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/routing24/skill",
+    "id": "news-3482"
+  },
+  {
+    "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
+    "summary": "Article URL: https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright? Comments URL: https://news.ycombinator.com/item?id=48786773 Points: 2 # Comments: 0",
+    "content": "Article URL: https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright? Comments URL: https://news.ycombinator.com/item?id=48786773 Points: 2 # Comments: 0",
+    "author": "momentmaker",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright?",
+    "id": "news-3481"
+  },
+  {
+    "title": "Show HN: AI Interview Coach – practice with honest hiring-manager-grade feedback",
+    "summary": "Article URL: https://aiinterviewcoaches.com Comments URL: https://news.ycombinator.com/item?id=48786861 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aiinterviewcoaches.com Comments URL: https://news.ycombinator.com/item?id=48786861 Points: 1 # Comments: 0",
+    "author": "Aldasams",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aiinterviewcoaches.com",
+    "id": "news-3480"
+  },
+  {
     "title": "Show HN: VideoPicAI – Create Videos and Images with AI Magic",
     "summary": "Transform your ideas into stunning visual stories. VideoPicAI is the world's leading AI platform for generating professional images, videos, and short films using cutting-edge models. Comments URL: ht",
     "content": "Transform your ideas into stunning visual stories. VideoPicAI is the world's leading AI platform for generating professional images, videos, and short films using cutting-edge models. Comments URL: https://news.ycombinator.com/item?id=48785529 Points: 1 # Comments: 0",
