@@ -1,5 +1,57 @@
 [
   {
+    "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
+    "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories. The art",
+    "content": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories. The article Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
+    "id": "news-3468"
+  },
+  {
+    "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
+    "summary": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable. Novartis CEO Vas Narasimhan thinks AI could cut development time",
+    "content": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable. Novartis CEO Vas Narasimhan thinks AI could cut development time from twelve years to seven or eight and double the success rate from 8 to 16 percent. The article Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
+    "id": "news-3467"
+  },
+  {
+    "title": "A 26,000-student study shows AI's hidden learning cost takes two full years to surface",
+    "summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams. The full impact on entrance exam results took",
+    "content": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams. The full impact on entrance exam results took about two years to show up, meaning short-term studies systematically underestimate the damage. The article A 26,000-student study shows AI's hidden learning cost takes two full years to surface appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
+    "id": "news-3466"
+  },
+  {
+    "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
+    "summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But Ope",
+    "content": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But OpenAI's own Codex is still light-years from that vision. The article OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
+    "id": "news-3465"
+  },
+  {
     "title": "AI puts B Corps' values to the test",
     "summary": "Article URL: https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test Comments URL: https://news.ycombinator.com/item?id=48782817 Points: 1 # Comments: 1",
     "content": "Article URL: https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test Comments URL: https://news.ycombinator.com/item?id=48782817 Points: 1 # Comments: 1",
