@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
+    "summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He describes techniques like blindspot passes",
+    "content": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He describes techniques like blindspot passes and structured interviews that programmers can use to systematically uncover their unconscious knowledge gaps before handing implementation off to Claude. The article Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first appeared first on The Decoder",
+    "author": "Matthias Bastian",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
+    "id": "news-3474"
+  },
+  {
+    "title": "Create your own AI, then watch it battle others in your browser",
+    "summary": "Article URL: https://kim-ai-gpu.github.io/2026/07/04/introducing-agenlus-browser-rl/ Comments URL: https://news.ycombinator.com/item?id=48784825 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kim-ai-gpu.github.io/2026/07/04/introducing-agenlus-browser-rl/ Comments URL: https://news.ycombinator.com/item?id=48784825 Points: 1 # Comments: 0",
+    "author": "umjunsik132",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kim-ai-gpu.github.io/2026/07/04/introducing-agenlus-browser-rl/",
+    "id": "news-3473"
+  },
+  {
+    "title": "The Asymmetric Future of AI in Cybersecurity",
+    "summary": "Article URL: https://mstrada.me/posts/aicybersec Comments URL: https://news.ycombinator.com/item?id=48784878 Points: 4 # Comments: 0",
+    "content": "Article URL: https://mstrada.me/posts/aicybersec Comments URL: https://news.ycombinator.com/item?id=48784878 Points: 4 # Comments: 0",
+    "author": "mstrada",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mstrada.me/posts/aicybersec",
+    "id": "news-3472"
+  },
+  {
+    "title": "Show HN: Foundation, a different approach to software and AI",
+    "summary": "Article URL: https://github.com/nmxmxh/foundation Comments URL: https://news.ycombinator.com/item?id=48785026 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/nmxmxh/foundation Comments URL: https://news.ycombinator.com/item?id=48785026 Points: 2 # Comments: 0",
+    "author": "MomohNobert",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/nmxmxh/foundation",
+    "id": "news-3471"
+  },
+  {
+    "title": "Show HN: Open-source no-code back end platform, now with AI flow generation",
+    "summary": "Article URL: https://codezero.build/en/blog/0.0.0-canary-2651542634 Comments URL: https://news.ycombinator.com/item?id=48785063 Points: 1 # Comments: 0",
+    "content": "Article URL: https://codezero.build/en/blog/0.0.0-canary-2651542634 Comments URL: https://news.ycombinator.com/item?id=48785063 Points: 1 # Comments: 0",
+    "author": "nicosammito",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codezero.build/en/blog/0.0.0-canary-2651542634",
+    "id": "news-3470"
+  },
+  {
+    "title": "Show HN: Owthorize: catch destructive AI-agent tool calls before they run",
+    "summary": "Article URL: https://www.npmjs.com/package/owthorize Comments URL: https://news.ycombinator.com/item?id=48785072 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.npmjs.com/package/owthorize Comments URL: https://news.ycombinator.com/item?id=48785072 Points: 1 # Comments: 0",
+    "author": "ayushpawar",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npmjs.com/package/owthorize",
+    "id": "news-3469"
+  },
+  {
     "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
     "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories. The art",
     "content": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories. The article Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code appeared first on The Decoder.",
