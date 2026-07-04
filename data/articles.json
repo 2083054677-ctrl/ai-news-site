@@ -1,5 +1,18 @@
 [
   {
+    "title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
+    "summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong ",
+    "content": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed. The article Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+    "id": "news-3485"
+  },
+  {
     "title": "Understanding the Dynamics of the AI Ecosystem with Pace Layers",
     "summary": "Article URL: https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html Comments URL: https://news.ycombinator.com/item?id=48786426 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html Comments URL: https://news.ycombinator.com/item?id=48786426 Points: 1 # Comments: 0",
