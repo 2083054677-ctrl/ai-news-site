@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: VideoPicAI – Create Videos and Images with AI Magic",
+    "summary": "Transform your ideas into stunning visual stories. VideoPicAI is the world's leading AI platform for generating professional images, videos, and short films using cutting-edge models. Comments URL: ht",
+    "content": "Transform your ideas into stunning visual stories. VideoPicAI is the world's leading AI platform for generating professional images, videos, and short films using cutting-edge models. Comments URL: https://news.ycombinator.com/item?id=48785529 Points: 1 # Comments: 0",
+    "author": "struy",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://videopicai.com/",
+    "id": "news-3479"
+  },
+  {
+    "title": "CTOP – Terminal Pane for Monitoring AI Agents",
+    "summary": "Article URL: https://github.com/aakashadesara/ctop Comments URL: https://news.ycombinator.com/item?id=48785567 Points: 3 # Comments: 3",
+    "content": "Article URL: https://github.com/aakashadesara/ctop Comments URL: https://news.ycombinator.com/item?id=48785567 Points: 3 # Comments: 3",
+    "author": "aakashadesara",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aakashadesara/ctop",
+    "id": "news-3478"
+  },
+  {
+    "title": "Show HN: Open Kioku – local evidence layer for AI coding agents",
+    "summary": "Article URL: https://github.com/shivyadavus/open-kioku Comments URL: https://news.ycombinator.com/item?id=48785607 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/shivyadavus/open-kioku Comments URL: https://news.ycombinator.com/item?id=48785607 Points: 2 # Comments: 0",
+    "author": "shivyadavus",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/shivyadavus/open-kioku",
+    "id": "news-3477"
+  },
+  {
+    "title": "Why AI Gurus Are Building Toys While the World Needs Architects",
+    "summary": "Article URL: https://medium.com/@alanscottencinas/the-scale-wall-why-ai-gurus-are-building-toys-while-the-world-needs-architects-1d4f354bc6f4 Comments URL: https://news.ycombinator.com/item?id=4878582",
+    "content": "Article URL: https://medium.com/@alanscottencinas/the-scale-wall-why-ai-gurus-are-building-toys-while-the-world-needs-architects-1d4f354bc6f4 Comments URL: https://news.ycombinator.com/item?id=48785820 Points: 1 # Comments: 0",
+    "author": "encinas88",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@alanscottencinas/the-scale-wall-why-ai-gurus-are-building-toys-while-the-world-needs-architects-1d4f354bc6f4",
+    "id": "news-3476"
+  },
+  {
+    "title": "Show HN: I built a personalized AI newsletter you configure by replying to it",
+    "summary": "Article URL: https://briefednewsletter.com/ Comments URL: https://news.ycombinator.com/item?id=48785881 Points: 1 # Comments: 0",
+    "content": "Article URL: https://briefednewsletter.com/ Comments URL: https://news.ycombinator.com/item?id=48785881 Points: 1 # Comments: 0",
+    "author": "tozcoded",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://briefednewsletter.com/",
+    "id": "news-3475"
+  },
+  {
     "title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
     "summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He describes techniques like blindspot passes",
     "content": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He describes techniques like blindspot passes and structured interviews that programmers can use to systematically uncover their unconscious knowledge gaps before handing implementation off to Claude. The article Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first appeared first on The Decoder",
