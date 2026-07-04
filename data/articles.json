@@ -1,5 +1,70 @@
 [
   {
+    "title": "Speck – AI spec-driven agents, inspired by compilers and build tools",
+    "summary": "Article URL: https://github.com/gi-dellav/speck/tree/main Comments URL: https://news.ycombinator.com/item?id=48788707 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/gi-dellav/speck/tree/main Comments URL: https://news.ycombinator.com/item?id=48788707 Points: 1 # Comments: 0",
+    "author": "gidellav",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/gi-dellav/speck/tree/main",
+    "id": "news-3490"
+  },
+  {
+    "title": "Speck v1.0 – AI spec-driven agents, inspired by compilers and build tools",
+    "summary": "Article URL: https://crates.io/crates/speck-dev Comments URL: https://news.ycombinator.com/item?id=48788714 Points: 1 # Comments: 0",
+    "content": "Article URL: https://crates.io/crates/speck-dev Comments URL: https://news.ycombinator.com/item?id=48788714 Points: 1 # Comments: 0",
+    "author": "gidellav",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://crates.io/crates/speck-dev",
+    "id": "news-3489"
+  },
+  {
+    "title": "A Twist in This Year's Strangest Literary AI Scandal",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/ Comments URL: https://news.ycombinator.com/item?id=48788760 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/ Comments URL: https://news.ycombinator.com/item?id=48788760 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/",
+    "id": "news-3488"
+  },
+  {
+    "title": "Trees are mostly made of air and a generalizable lesson for AI safety",
+    "summary": "Article URL: https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for Comments URL: https://news.ycombinator.com/item?id=48788772 Points: 1 # Comme",
+    "content": "Article URL: https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for Comments URL: https://news.ycombinator.com/item?id=48788772 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for",
+    "id": "news-3487"
+  },
+  {
+    "title": "Providence AI",
+    "summary": "Article URL: https://providenceai.app Comments URL: https://news.ycombinator.com/item?id=48788839 Points: 1 # Comments: 0",
+    "content": "Article URL: https://providenceai.app Comments URL: https://news.ycombinator.com/item?id=48788839 Points: 1 # Comments: 0",
+    "author": "j_anderssen",
+    "date": "2026-07-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://providenceai.app",
+    "id": "news-3486"
+  },
+  {
     "title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
     "summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong ",
     "content": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed. The article Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% appeared first on The Decoder.",
