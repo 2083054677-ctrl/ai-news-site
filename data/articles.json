@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
+    "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own cust",
+    "content": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mistral can't really compete with frontier models from OpenAI or Anthropic on performance and is betting heavily on EU sovereignty as its strategic edge. The article Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your busin",
+    "author": "Matthias Bastian",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
+    "id": "news-3508"
+  },
+  {
+    "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
+    "summary": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition. The t",
+    "content": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition. The trend highlights a growing education gap in the AI era, where traditional schools are struggling to adopt the technology, which may do more harm than good if used without the right skills. The article AI private schools sell wealthy US families on personalized learning over traditional education appe",
+    "author": "Matthias Bastian",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
+    "id": "news-3507"
+  },
+  {
     "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
     "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBe",
     "content": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions actually perform worse, at 51.9 percent, than those that just guess. Even the best model only hits 43 percent overall accuracy. When ambiguity is removed from the queries, accuracy jumps by up to 40 points. The article ",
