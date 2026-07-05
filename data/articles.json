@@ -1,5 +1,70 @@
 [
   {
+    "title": "Google commercial imagines Declaration of Independence written with help from AI",
+    "summary": "Article URL: https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/ Comments URL: https://news.ycombinator.com/item?id=48791713 Point",
+    "content": "Article URL: https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/ Comments URL: https://news.ycombinator.com/item?id=48791713 Points: 2 # Comments: 1",
+    "author": "eloisius",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "id": "news-3504"
+  },
+  {
+    "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
+    "summary": "Article URL: https://github.com/williamliu-ai/fidx Comments URL: https://news.ycombinator.com/item?id=48791740 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/williamliu-ai/fidx Comments URL: https://news.ycombinator.com/item?id=48791740 Points: 1 # Comments: 0",
+    "author": "williamliu_ai",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/williamliu-ai/fidx",
+    "id": "news-3503"
+  },
+  {
+    "title": "Agentsnap – find which config change broke your AI agent",
+    "summary": "Article URL: https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing Comments URL: https://news.ycombinator.com/item?id=48791885 Points: 1 # Comments: 0",
+    "content": "Article URL: https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing Comments URL: https://news.ycombinator.com/item?id=48791885 Points: 1 # Comments: 0",
+    "author": "Gladi",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing",
+    "id": "news-3502"
+  },
+  {
+    "title": "Hunch – a Git-native decision graph your AI assistant obeys",
+    "summary": "Article URL: https://hunch-pi.vercel.app Comments URL: https://news.ycombinator.com/item?id=48791919 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hunch-pi.vercel.app Comments URL: https://news.ycombinator.com/item?id=48791919 Points: 1 # Comments: 0",
+    "author": "huchdave",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hunch-pi.vercel.app",
+    "id": "news-3501"
+  },
+  {
+    "title": "Show HN: Tracking how much of the HN front page is AI-generated",
+    "summary": "For the past few months, I've been sending every story that reaches the HN front page through Pangram's AI detector and noting the scores. The reason I made it is that I kept noticing posts that sound",
+    "content": "For the past few months, I've been sending every story that reaches the HN front page through Pangram's AI detector and noting the scores. The reason I made it is that I kept noticing posts that sounded like AI-generated to me. Sometimes the comments pointed it out, sometimes a post was near the top all day and no one said a word. I wondered if the share was really increasing or if I was just primed to see slop everywhere.How it operates: The site identifies the top 30, gets each article, and ev",
+    "author": "salahadawi",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.salahadawi.com/hacker-news-ai-detector",
+    "id": "news-3500"
+  },
+  {
     "title": "The goal isn't to build \"another AI IDE.\"",
     "summary": "Article URL: https://github.com/BotCoder254/limboo Comments URL: https://news.ycombinator.com/item?id=48790218 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/BotCoder254/limboo Comments URL: https://news.ycombinator.com/item?id=48790218 Points: 2 # Comments: 0",
