@@ -1,5 +1,96 @@
 [
   {
+    "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
+    "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the",
+    "content": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes. It currently holds the top spot on the most important OCR benchmark. The article Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
+    "id": "news-3515"
+  },
+  {
+    "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
+    "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. The full ",
+    "content": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. The full source code is on GitHub. The article Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+    "id": "news-3514"
+  },
+  {
+    "title": "NHS to use AI on its app to direct patients to appropriate services",
+    "summary": "Article URL: https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health Comments URL: https://news.ycombinator.com/item?id=48795101 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health Comments URL: https://news.ycombinator.com/item?id=48795101 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
+    "id": "news-3513"
+  },
+  {
+    "title": "Drinking AI: AI/Water Consumption Comparisons to Beverages",
+    "summary": "Article URL: https://maxghenis.com/drinking-ai/ Comments URL: https://news.ycombinator.com/item?id=48795424 Points: 1 # Comments: 0",
+    "content": "Article URL: https://maxghenis.com/drinking-ai/ Comments URL: https://news.ycombinator.com/item?id=48795424 Points: 1 # Comments: 0",
+    "author": "atlasunshrugged",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://maxghenis.com/drinking-ai/",
+    "id": "news-3512"
+  },
+  {
+    "title": "AI enables 277 people to engage in a single real-time conversation",
+    "summary": "Article URL: https://meteoraweb.com/en/news/ai-powered-hyper-communication-leads-277-americans-to-rank-internet-medicine-and-democracy-as-top-us-contributions-for-250th-birthday Comments URL: https://",
+    "content": "Article URL: https://meteoraweb.com/en/news/ai-powered-hyper-communication-leads-277-americans-to-rank-internet-medicine-and-democracy-as-top-us-contributions-for-250th-birthday Comments URL: https://news.ycombinator.com/item?id=48795513 Points: 1 # Comments: 0",
+    "author": "hogwash",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://meteoraweb.com/en/news/ai-powered-hyper-communication-leads-277-americans-to-rank-internet-medicine-and-democracy-as-top-us-contributions-for-250th-birthday",
+    "id": "news-3511"
+  },
+  {
+    "title": "People Who Will Thrive in the AI Age",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48795543 Points: 3 # Comments: 2",
+    "content": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48795543 Points: 3 # Comments: 2",
+    "author": "paulpauper",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+    "id": "news-3510"
+  },
+  {
+    "title": "Domain experts: All human experts into AI agents",
+    "summary": "Article URL: https://github.com/wonsukchoi/domain-experts Comments URL: https://news.ycombinator.com/item?id=48795717 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/wonsukchoi/domain-experts Comments URL: https://news.ycombinator.com/item?id=48795717 Points: 1 # Comments: 1",
+    "author": "wonsukchoi97",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wonsukchoi/domain-experts",
+    "id": "news-3509"
+  },
+  {
     "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
     "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own cust",
     "content": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mistral can't really compete with frontier models from OpenAI or Anthropic on performance and is betting heavily on EU sovereignty as its strategic edge. The article Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your busin",
