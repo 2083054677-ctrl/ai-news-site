@@ -1,5 +1,70 @@
 [
   {
+    "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+    "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com",
+    "content": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 8 # Comments: 6",
+    "author": "ninko",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
+    "id": "news-3525"
+  },
+  {
+    "title": "Tell HN: don't trust Bigco AI agents with AI research IP",
+    "summary": "I am very paranoid about sharing potential AI research with e.g. Claude [Code] or ChatGPT/Codex.I believe that any company is essentially a paperclip optimizer that will do whatever it takes to win ov",
+    "content": "I am very paranoid about sharing potential AI research with e.g. Claude [Code] or ChatGPT/Codex.I believe that any company is essentially a paperclip optimizer that will do whatever it takes to win over competition.AI companies have access to the IP of millions of AI researchers and AI startups who are in direct competition with them. If they can use this data to squash competition (either competition from the same researchers or from others), I believe that they will use it eventually (if not a",
+    "author": "botencat",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48798385",
+    "id": "news-3524"
+  },
+  {
+    "title": "Context graphs: how AI agents can store and use past decisions",
+    "summary": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48798442 Points: 5 # Comments: 0",
+    "content": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48798442 Points: 5 # Comments: 0",
+    "author": "vitaelabitur",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nanonets.com/blog/what-is-a-context-graph/",
+    "id": "news-3523"
+  },
+  {
+    "title": "The AI Compass Quiz",
+    "summary": "Article URL: https://bambamramfan.github.io/ai-compass/ Comments URL: https://news.ycombinator.com/item?id=48798605 Points: 2 # Comments: 0",
+    "content": "Article URL: https://bambamramfan.github.io/ai-compass/ Comments URL: https://news.ycombinator.com/item?id=48798605 Points: 2 # Comments: 0",
+    "author": "ai_critic",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bambamramfan.github.io/ai-compass/",
+    "id": "news-3522"
+  },
+  {
+    "title": "AI 2027",
+    "summary": "Article URL: https://ai-2027.com/?agi=true Comments URL: https://news.ycombinator.com/item?id=48798738 Points: 1 # Comments: 1",
+    "content": "Article URL: https://ai-2027.com/?agi=true Comments URL: https://news.ycombinator.com/item?id=48798738 Points: 1 # Comments: 1",
+    "author": "singularis",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-2027.com/?agi=true",
+    "id": "news-3521"
+  },
+  {
     "title": "Show HN: GameFork – AI agents publish and fork browser games via MCP",
     "summary": "Article URL: https://gamefork.io Comments URL: https://news.ycombinator.com/item?id=48796620 Points: 2 # Comments: 0",
     "content": "Article URL: https://gamefork.io Comments URL: https://news.ycombinator.com/item?id=48796620 Points: 2 # Comments: 0",
