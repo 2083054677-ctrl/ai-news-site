@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: GameFork – AI agents publish and fork browser games via MCP",
+    "summary": "Article URL: https://gamefork.io Comments URL: https://news.ycombinator.com/item?id=48796620 Points: 2 # Comments: 0",
+    "content": "Article URL: https://gamefork.io Comments URL: https://news.ycombinator.com/item?id=48796620 Points: 2 # Comments: 0",
+    "author": "TakayukiKomada",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gamefork.io",
+    "id": "news-3520"
+  },
+  {
+    "title": "Claude Played Me for a Fool",
+    "summary": "Article URL: https://ramblingafter.substack.com/p/claude-played-me-for-a-fool Comments URL: https://news.ycombinator.com/item?id=48796631 Points: 3 # Comments: 1",
+    "content": "Article URL: https://ramblingafter.substack.com/p/claude-played-me-for-a-fool Comments URL: https://news.ycombinator.com/item?id=48796631 Points: 3 # Comments: 1",
+    "author": "paulpauper",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ramblingafter.substack.com/p/claude-played-me-for-a-fool",
+    "id": "news-3519"
+  },
+  {
+    "title": "Show HN: Nomlings – a virtual pet that eats your Claude Code session's tokens",
+    "summary": "Article URL: https://www.nomlings.cc/ Comments URL: https://news.ycombinator.com/item?id=48796800 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.nomlings.cc/ Comments URL: https://news.ycombinator.com/item?id=48796800 Points: 2 # Comments: 0",
+    "author": "franwbu",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nomlings.cc/",
+    "id": "news-3518"
+  },
+  {
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 5 # Comments: 0",
+    "content": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 5 # Comments: 0",
+    "author": "jonahbard",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "id": "news-3517"
+  },
+  {
+    "title": "America's 250th became a test of AI-powered Collective Intelligence",
+    "summary": "Article URL: https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence Comments URL: https://news.ycombinator.com/item?id=48796968 Points: 1 # ",
+    "content": "Article URL: https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence Comments URL: https://news.ycombinator.com/item?id=48796968 Points: 1 # Comments: 0",
+    "author": "hogwash",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
+    "id": "news-3516"
+  },
+  {
     "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
     "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the",
     "content": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes. It currently holds the top spot on the most important OCR benchmark. The article Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting appeared first on The Decoder.",
