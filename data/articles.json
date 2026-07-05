@@ -1,5 +1,31 @@
 [
   {
+    "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
+    "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBe",
+    "content": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions actually perform worse, at 51.9 percent, than those that just guess. Even the best model only hits 43 percent overall accuracy. When ambiguity is removed from the queries, accuracy jumps by up to 40 points. The article ",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
+    "id": "news-3506"
+  },
+  {
+    "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
+    "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an ",
+    "content": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are quietly using the tool on a \"don't ask, don't tell\" basis, says Simpsons animation producer Joel Kuwahara. The article Hollywood wants Seedance banned and reportedly also wants to keep using it appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
+    "id": "news-3505"
+  },
+  {
     "title": "Google commercial imagines Declaration of Independence written with help from AI",
     "summary": "Article URL: https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/ Comments URL: https://news.ycombinator.com/item?id=48791713 Point",
     "content": "Article URL: https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/ Comments URL: https://news.ycombinator.com/item?id=48791713 Points: 2 # Comments: 1",
