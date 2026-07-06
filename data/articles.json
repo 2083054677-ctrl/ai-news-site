@@ -14,6 +14,71 @@
     "id": "news-3545"
   },
   {
+    "title": "How are you measuring Claude Code and Codex performance?",
+    "summary": "I think coding benchmark results don't represent our messy reality. As they1) Use purpose-built test harnesses We use Claude Code or Codex2) Test one-shot tasks We work in sessionsSessions are messy, ",
+    "content": "I think coding benchmark results don't represent our messy reality. As they1) Use purpose-built test harnesses We use Claude Code or Codex2) Test one-shot tasks We work in sessionsSessions are messy, we start with a large primary task, then some cleanup, an adjacent fix here another over there. We start, stop, and change our minds.That changes both cost and quality. Cache TTLs expire. Context grows.I am working on creating one. Here's my rough plan: 1) Use Claude Code and Codex 2) Use session sh",
+    "author": "achalpandey",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48810964",
+    "id": "news-3560"
+  },
+  {
+    "title": "Show HN: Nimbus - open-source AI agent that operates your AWS and GCP",
+    "summary": "Article URL: https://github.com/hritvikgupta/nimbus Comments URL: https://news.ycombinator.com/item?id=48811086 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/hritvikgupta/nimbus Comments URL: https://news.ycombinator.com/item?id=48811086 Points: 1 # Comments: 0",
+    "author": "hritvik29",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hritvikgupta/nimbus",
+    "id": "news-3559"
+  },
+  {
+    "title": "Claude and Codex and Grok: my current workflow and its friction",
+    "summary": "Article URL: https://www.nativesoul.dev/ Comments URL: https://news.ycombinator.com/item?id=48811357 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nativesoul.dev/ Comments URL: https://news.ycombinator.com/item?id=48811357 Points: 1 # Comments: 0",
+    "author": "fillipecordeiro",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nativesoul.dev/",
+    "id": "news-3558"
+  },
+  {
+    "title": "Not everything should cost a token: the case for deterministic AI",
+    "summary": "Article URL: https://www.vybe.build/blog/learn-what-not-to-tokenize Comments URL: https://news.ycombinator.com/item?id=48811403 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.vybe.build/blog/learn-what-not-to-tokenize Comments URL: https://news.ycombinator.com/item?id=48811403 Points: 1 # Comments: 0",
+    "author": "marwann",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+    "id": "news-3557"
+  },
+  {
+    "title": "Proton now using 100% Chinese LLM's – drops European and US",
+    "summary": "Article URL: https://old.reddit.com/r/BuyFromEU/comments/1up518w/proton_now_using_100_chinese_llms_drops_european/ Comments URL: https://news.ycombinator.com/item?id=48811481 Points: 4 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/BuyFromEU/comments/1up518w/proton_now_using_100_chinese_llms_drops_european/ Comments URL: https://news.ycombinator.com/item?id=48811481 Points: 4 # Comments: 0",
+    "author": "doener",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/BuyFromEU/comments/1up518w/proton_now_using_100_chinese_llms_drops_european/",
+    "id": "news-3556"
+  },
+  {
     "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
     "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a m",
     "content": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks. Competition is fiercer now, but the capability gains between models are shrinking. The article GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top appeared first on The Decoder.",
