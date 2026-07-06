@@ -1,5 +1,136 @@
 [
   {
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "summary": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/lerobot-release-v060",
+    "id": "news-3545"
+  },
+  {
+    "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
+    "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFF",
+    "content": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/",
+    "id": "news-3544"
+  },
+  {
+    "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
+    "summary": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Turk, the original \"Artificial Artificial ",
+    "content": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\" appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/",
+    "id": "news-3543"
+  },
+  {
+    "title": "China forces its biggest AI platforms to shut down humanlike chatbot personas",
+    "summary": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The article China forces its biggest AI platfo",
+    "content": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The article China forces its biggest AI platforms to shut down humanlike chatbot personas appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
+    "id": "news-3542"
+  },
+  {
+    "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
+    "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up t",
+    "content": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value. The more powerful Rubin Ultra variant has also been canceled. The setbacks could give AMD and Google an opening to compete. The article Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+    "id": "news-3541"
+  },
+  {
+    "title": "Show HN: Scan your AI agents for dangerous capabilities",
+    "summary": "Article URL: https://github.com/makerchecker/MakerChecker Comments URL: https://news.ycombinator.com/item?id=48804182 Points: 6 # Comments: 1",
+    "content": "Article URL: https://github.com/makerchecker/MakerChecker Comments URL: https://news.ycombinator.com/item?id=48804182 Points: 6 # Comments: 1",
+    "author": "smashini",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/makerchecker/MakerChecker",
+    "id": "news-3540"
+  },
+  {
+    "title": "China's Biren seeks US$900M to fund GPU push and challenge Nvidia amid AI boom",
+    "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom Comments URL: https://news.ycombinator.com/item?id=48804190",
+    "content": "Article URL: https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom Comments URL: https://news.ycombinator.com/item?id=48804190 Points: 2 # Comments: 0",
+    "author": "dstala",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom",
+    "id": "news-3539"
+  },
+  {
+    "title": "Syntethic Intelligence: from IT to AI, a semantic revolution",
+    "summary": "Article URL: https://www.amazon.com/dp/B0H7Q9HMZ7 Comments URL: https://news.ycombinator.com/item?id=48804265 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.amazon.com/dp/B0H7Q9HMZ7 Comments URL: https://news.ycombinator.com/item?id=48804265 Points: 2 # Comments: 0",
+    "author": "tuned",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.amazon.com/dp/B0H7Q9HMZ7",
+    "id": "news-3538"
+  },
+  {
+    "title": "Organizations Want Mandatory AI Safeguards for Kids – Will It Work?",
+    "summary": "Article URL: https://hackenewhome.blogspot.com/p/international-coalition-demands-ai_0599336601.html Comments URL: https://news.ycombinator.com/item?id=48804353 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hackenewhome.blogspot.com/p/international-coalition-demands-ai_0599336601.html Comments URL: https://news.ycombinator.com/item?id=48804353 Points: 1 # Comments: 0",
+    "author": "odilelof",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hackenewhome.blogspot.com/p/international-coalition-demands-ai_0599336601.html",
+    "id": "news-3537"
+  },
+  {
+    "title": "Otari: The Open-Source LLM Control Plane",
+    "summary": "Article URL: https://blog.mozilla.ai/introducing-otari-the-open-source-llm-control-plane/ Comments URL: https://news.ycombinator.com/item?id=48804378 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.mozilla.ai/introducing-otari-the-open-source-llm-control-plane/ Comments URL: https://news.ycombinator.com/item?id=48804378 Points: 1 # Comments: 0",
+    "author": "ilreb",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.mozilla.ai/introducing-otari-the-open-source-llm-control-plane/",
+    "id": "news-3536"
+  },
+  {
     "title": "🤗 Kernels: Major Updates",
     "summary": "🤗 Kernels: Major Updates",
     "content": "",
