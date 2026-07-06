@@ -1,5 +1,57 @@
 [
   {
+    "title": "Children Adopt AI 3x Faster Than Adults – and We're Not Ready",
+    "summary": "Article URL: https://hackenewhome.blogspot.com/p/ai-is-taking-over-kids-lives-unicef.html Comments URL: https://news.ycombinator.com/item?id=48799677 Points: 6 # Comments: 8",
+    "content": "Article URL: https://hackenewhome.blogspot.com/p/ai-is-taking-over-kids-lives-unicef.html Comments URL: https://news.ycombinator.com/item?id=48799677 Points: 6 # Comments: 8",
+    "author": "odilelof",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hackenewhome.blogspot.com/p/ai-is-taking-over-kids-lives-unicef.html",
+    "id": "news-3529"
+  },
+  {
+    "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+    "summary": "Hi HN,I was once given the advice: Don't waste expensive frontier model credits (GPT/Claude/etc.) on bulk work. Send the boring, repetitive, high-volume jobs to a smaller model, and save the expensive",
+    "content": "Hi HN,I was once given the advice: Don't waste expensive frontier model credits (GPT/Claude/etc.) on bulk work. Send the boring, repetitive, high-volume jobs to a smaller model, and save the expensive prompts for when you actually need frontier-level reasoning. I complained and told my manager that I shouldnt have to think about using certain models for certain coding tasks, and that one model should handle everything. Well, here we are anyway.If anyone needs a place to absolutely abuse an LLM w",
+    "author": "yolo-auto",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://yolo-auto.com/",
+    "id": "news-3528"
+  },
+  {
+    "title": "AI Costs More Than the People It Replaced",
+    "summary": "Article URL: https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/ Comments URL: https://news.ycombinator.com/item?id=48799841 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/ Comments URL: https://news.ycombinator.com/item?id=48799841 Points: 3 # Comments: 0",
+    "author": "nreece",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/",
+    "id": "news-3527"
+  },
+  {
+    "title": "Technical Report on the Pangram AI-Generated Text Classifier (2024)",
+    "summary": "Article URL: https://arxiv.org/abs/2402.14873 Comments URL: https://news.ycombinator.com/item?id=48800043 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2402.14873 Comments URL: https://news.ycombinator.com/item?id=48800043 Points: 1 # Comments: 0",
+    "author": "imustachyou",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2402.14873",
+    "id": "news-3526"
+  },
+  {
     "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
     "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com",
     "content": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 8 # Comments: 6",
