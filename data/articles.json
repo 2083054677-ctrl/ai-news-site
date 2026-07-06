@@ -14,6 +14,85 @@
     "id": "news-3545"
   },
   {
+    "title": "PRX Part 4: Our Data Strategy",
+    "summary": "PRX Part 4: Our Data Strategy",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "id": "news-3551"
+  },
+  {
+    "title": "Emacs and AI, the combination you've been missing",
+    "summary": "Article URL: https://getsmall.xyz/post/cmr9fur9c0071ajx9fur7me1j Comments URL: https://news.ycombinator.com/item?id=48807006 Points: 1 # Comments: 0",
+    "content": "Article URL: https://getsmall.xyz/post/cmr9fur9c0071ajx9fur7me1j Comments URL: https://news.ycombinator.com/item?id=48807006 Points: 1 # Comments: 0",
+    "author": "trezm",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://getsmall.xyz/post/cmr9fur9c0071ajx9fur7me1j",
+    "id": "news-3550"
+  },
+  {
+    "title": "Cory Doctorow on Elon Musk, the AI bubble and bosses' cruel fantasies",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies Comments URL: https://news.ycombinator.com/item?id=48807014 Points: 2 # Comm",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies Comments URL: https://news.ycombinator.com/item?id=48807014 Points: 2 # Comments: 0",
+    "author": "Kapura",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
+    "id": "news-3549"
+  },
+  {
+    "title": "AI Dumping Could Tank The S&P 500",
+    "summary": "Article URL: https://mrkt30.com/how-ai-dumping-could-tank-the-sp-500/ Comments URL: https://news.ycombinator.com/item?id=48807100 Points: 2 # Comments: 0",
+    "content": "Article URL: https://mrkt30.com/how-ai-dumping-could-tank-the-sp-500/ Comments URL: https://news.ycombinator.com/item?id=48807100 Points: 2 # Comments: 0",
+    "author": "bmcdresson",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mrkt30.com/how-ai-dumping-could-tank-the-sp-500/",
+    "id": "news-3548"
+  },
+  {
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 1 # Comments: 0",
+    "author": "maxloh",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/iOfficeAI/OfficeCLI",
+    "id": "news-3547"
+  },
+  {
+    "title": "Insurer AI Exclusions Spark Policyholder Alarm on Coverage Gaps",
+    "summary": "Article URL: https://news.bloomberglaw.com/insurance/insurer-ai-exclusions-spark-policyholder-alarm-on-coverage-gaps Comments URL: https://news.ycombinator.com/item?id=48807257 Points: 1 # Comments: 0",
+    "content": "Article URL: https://news.bloomberglaw.com/insurance/insurer-ai-exclusions-spark-policyholder-alarm-on-coverage-gaps Comments URL: https://news.ycombinator.com/item?id=48807257 Points: 1 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.bloomberglaw.com/insurance/insurer-ai-exclusions-spark-policyholder-alarm-on-coverage-gaps",
+    "id": "news-3546"
+  },
+  {
     "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
     "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFF",
     "content": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed appeared first on The Decoder.",
