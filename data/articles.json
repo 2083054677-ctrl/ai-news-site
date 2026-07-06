@@ -14,6 +14,58 @@
     "id": "news-3545"
   },
   {
+    "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
+    "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a m",
+    "content": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks. Competition is fiercer now, but the capability gains between models are shrinking. The article GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/",
+    "id": "news-3555"
+  },
+  {
+    "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size",
+    "summary": "Tencent has released Hy3, an open-source language model with 295 billion parameters built on a mixture-of-experts architecture. Only 21 billion parameters are active at any given time. Tencent says Hy",
+    "content": "Tencent has released Hy3, an open-source language model with 295 billion parameters built on a mixture-of-experts architecture. Only 21 billion parameters are active at any given time. Tencent says Hy3 matches models two to five times its size while cutting its hallucination rate in half to 5.4 percent. The article Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/",
+    "id": "news-3554"
+  },
+  {
+    "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+    "summary": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a free five-day trial with up to 5 million",
+    "content": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a free five-day trial with up to 5 million tokens per day, and subscribers receive about 1.5 times more token quota through July 2026. The article Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+    "id": "news-3553"
+  },
+  {
+    "title": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
+    "summary": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once. Starting September 15, 2026, T",
+    "content": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once. Starting September 15, 2026, Training and Agent bots will be blocked by default on ad-supported pages. The article Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+    "id": "news-3552"
+  },
+  {
     "title": "PRX Part 4: Our Data Strategy",
     "summary": "PRX Part 4: Our Data Strategy",
     "content": "",
