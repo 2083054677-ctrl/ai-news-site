@@ -1,5 +1,19 @@
 [
   {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "summary": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "id": "news-3592"
+  },
+  {
     "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
     "summary": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
     "content": "",
