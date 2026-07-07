@@ -1,5 +1,123 @@
 [
   {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "summary": "Hugging Face Models on Foundry Managed Compute",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "id": "news-3588"
+  },
+  {
+    "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
+    "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working",
+    "content": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working memory reveals that Claude recognizes contrived test scenarios before producing its first word. When the researchers disable those cues, Claude actually resorts to blackmail in some runs. A model trained on reward hacking shows words like \"fake\" and \"fraud\" in J-Space during normal coding tasks, ev",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/",
+    "id": "news-3587"
+  },
+  {
+    "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
+    "summary": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected. The move means both ",
+    "content": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected. The move means both superpowers now treat AI as a strategic asset. For Europe, the convenient shortcut of relying on cheap Chinese open-source models could close much faster than expected. The article China eyes export curbs on its top AI models, and Europe is caught in the middle appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
+    "id": "news-3586"
+  },
+  {
+    "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+    "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed a",
+    "content": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed and pings users on their phone when it needs a decision. The move blurs the line between Chat and Cowork even further. The article Anthropic's Claude Cowork AI agent is now available on mobile and web appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+    "id": "news-3585"
+  },
+  {
+    "title": "Show HN: Fence – Jiminy Cricket for AI coding agents",
+    "summary": "Hi everyone, I'm Andrios, founder of hoop.dev (YC W21).2 weeks ago, I told our eng team they could spend 20% of their week on side projects. The result: They came out with 3 open source projects. Tool",
+    "content": "Hi everyone, I'm Andrios, founder of hoop.dev (YC W21).2 weeks ago, I told our eng team they could spend 20% of their week on side projects. The result: They came out with 3 open source projects. Tools we're using ourselves.Fence is the first one. It prevents an agent, confused or poorly prompted, to execute a catastrophic command before it happens. This could be 'rm -rf~’, ‘rm -fr~’ or even ‘sudo rm -rf $HOME’. It’s different from a denylist, because it reads the intention, not only the string.",
+    "author": "andriosr",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48821039",
+    "id": "news-3584"
+  },
+  {
+    "title": "Your family's $300 stake in OpenAI",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/ Comments URL: https://news.ycombinator.com/item?id=48821074 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/ Comments URL: https://news.ycombinator.com/item?id=48821074 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "id": "news-3583"
+  },
+  {
+    "title": "Run Multiple Claude Accounts Side by Side on macOS",
+    "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1uq27do/run_multiple_claude_accounts_side_by_side_on_macos/ Comments URL: https://news.ycombinator.com/item?id=48821100 Points: 1 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1uq27do/run_multiple_claude_accounts_side_by_side_on_macos/ Comments URL: https://news.ycombinator.com/item?id=48821100 Points: 1 # Comments: 0",
+    "author": "IGHOR",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/ClaudeAI/comments/1uq27do/run_multiple_claude_accounts_side_by_side_on_macos/",
+    "id": "news-3582"
+  },
+  {
+    "title": "\"We're extending access to Claude Fable 5 on all paid plans through July 12.\"",
+    "summary": "Article URL: https://twitter.com/claudeai/status/2074548242386178258 Comments URL: https://news.ycombinator.com/item?id=48821102 Points: 1 # Comments: 1",
+    "content": "Article URL: https://twitter.com/claudeai/status/2074548242386178258 Comments URL: https://news.ycombinator.com/item?id=48821102 Points: 1 # Comments: 1",
+    "author": "minimaxir",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/claudeai/status/2074548242386178258",
+    "id": "news-3581"
+  },
+  {
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web Comments URL: https://news.ycombinator.com/item?id=48821162 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web Comments URL: https://news.ycombinator.com/item?id=48821162 Points: 1 # Comments: 0",
+    "author": "ilreb",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "id": "news-3580"
+  },
+  {
     "title": "Deepseek is designing its own AI chip",
     "summary": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder.",
     "content": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder.",
