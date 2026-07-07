@@ -1,5 +1,70 @@
 [
   {
+    "title": "Activity-frames – give your AI agent eyes on your day",
+    "summary": "Article URL: https://github.com/nossa-y/activity-frames Comments URL: https://news.ycombinator.com/item?id=48824758 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/nossa-y/activity-frames Comments URL: https://news.ycombinator.com/item?id=48824758 Points: 1 # Comments: 0",
+    "author": "nossa-y",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/nossa-y/activity-frames",
+    "id": "news-3597"
+  },
+  {
+    "title": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c Comments URL: https://news.ycombinator.com/item?id=48824768 Points: 2 # C",
+    "content": "Article URL: https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c Comments URL: https://news.ycombinator.com/item?id=48824768 Points: 2 # Comments: 0",
+    "author": "Jimmc414",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c",
+    "id": "news-3596"
+  },
+  {
+    "title": "Show HN: I built an AI spritesheet generator for game developers",
+    "summary": "Article URL: https://www.autosprite.io Comments URL: https://news.ycombinator.com/item?id=48824854 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.autosprite.io Comments URL: https://news.ycombinator.com/item?id=48824854 Points: 1 # Comments: 0",
+    "author": "autosprite",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.autosprite.io",
+    "id": "news-3595"
+  },
+  {
+    "title": "EU AI Act becomes applicable Aug 2: an engineering checklist",
+    "summary": "Article URL: https://conformityengineering.com/playbook/ Comments URL: https://news.ycombinator.com/item?id=48824992 Points: 1 # Comments: 0",
+    "content": "Article URL: https://conformityengineering.com/playbook/ Comments URL: https://news.ycombinator.com/item?id=48824992 Points: 1 # Comments: 0",
+    "author": "stevalsoto",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://conformityengineering.com/playbook/",
+    "id": "news-3594"
+  },
+  {
+    "title": "Qualcomm acquires Nexa AI, open-sources GenAI runtime for Hexagon NPUs",
+    "summary": "Article URL: https://github.com/qualcomm/GenieX Comments URL: https://news.ycombinator.com/item?id=48825032 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/qualcomm/GenieX Comments URL: https://news.ycombinator.com/item?id=48825032 Points: 3 # Comments: 1",
+    "author": "BUFU",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/qualcomm/GenieX",
+    "id": "news-3593"
+  },
+  {
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
     "summary": "From Hugging Face to Amazon SageMaker Studio in one click",
     "content": "",
