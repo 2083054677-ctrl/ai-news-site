@@ -1,5 +1,45 @@
 [
   {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "summary": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/skypilot-hf-storage",
+    "id": "news-3591"
+  },
+  {
+    "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
+    "summary": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-Englis",
+    "content": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech. The 2-billion-parameter model is available on Hugging Face under the Apache 2.0 license. The article Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
+    "id": "news-3590"
+  },
+  {
+    "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+    "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them. AI chief Mustafa ",
+    "content": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them. AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost of external models. For Copilot customers, that could mean less performance for the same price. The article Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+    "id": "news-3589"
+  },
+  {
     "title": "Hugging Face Models on Foundry Managed Compute",
     "summary": "Hugging Face Models on Foundry Managed Compute",
     "content": "",
