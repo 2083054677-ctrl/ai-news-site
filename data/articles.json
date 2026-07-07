@@ -1,5 +1,96 @@
 [
   {
+    "title": "Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects",
+    "summary": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivi",
+    "content": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivity boosts by years. If that takes five years instead of five months, many AI stocks face a painful repricing. The article Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/",
+    "id": "news-3572"
+  },
+  {
+    "title": "OpenAI and Anthropic are giving away millions in computing power to attract startups",
+    "summary": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million. At Y Combinator al",
+    "content": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million. At Y Combinator alone, OpenAI and Anthropic could hand out up to $800 million in credits per year combined. The discount war comes at a time when both companies need to improve their margins ahead of upcoming IPOs. The article OpenAI and Anthropic are giving away millions in computing power to attract startups appear",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/",
+    "id": "news-3571"
+  },
+  {
+    "title": "Show HN: Brianni – AI chat on GPT/Claude/Gemini that we can't read (provable)",
+    "summary": "Article URL: https://brianni.co/blog/prove-were-not-lying Comments URL: https://news.ycombinator.com/item?id=48815739 Points: 1 # Comments: 0",
+    "content": "Article URL: https://brianni.co/blog/prove-were-not-lying Comments URL: https://news.ycombinator.com/item?id=48815739 Points: 1 # Comments: 0",
+    "author": "iosazee",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://brianni.co/blog/prove-were-not-lying",
+    "id": "news-3570"
+  },
+  {
+    "title": "Prevail – open-source AI \"life OS\" (not for your job)",
+    "summary": "Article URL: https://prevail.sh/ Comments URL: https://news.ycombinator.com/item?id=48815784 Points: 2 # Comments: 0",
+    "content": "Article URL: https://prevail.sh/ Comments URL: https://news.ycombinator.com/item?id=48815784 Points: 2 # Comments: 0",
+    "author": "mrlou",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://prevail.sh/",
+    "id": "news-3569"
+  },
+  {
+    "title": "ABC Australia will trial using AI for journalism",
+    "summary": "Article URL: https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841 Comments URL: https://news.ycombinator.com/item?id=48815818 Points: 1 # Comments:",
+    "content": "Article URL: https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841 Comments URL: https://news.ycombinator.com/item?id=48815818 Points: 1 # Comments: 0",
+    "author": "Alien1Being",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
+    "id": "news-3568"
+  },
+  {
+    "title": "Top banking watchdogs issue stark warning over AI-driven cyber attacks",
+    "summary": "Article URL: https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363 Comments URL: https://news.ycombinator.com/item?id=48815867 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363 Comments URL: https://news.ycombinator.com/item?id=48815867 Points: 2 # Comments: 0",
+    "author": "thm",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363",
+    "id": "news-3567"
+  },
+  {
+    "title": "Money Magician – AI financial co-pilot for founders (not a budgeting app)",
+    "summary": "Article URL: https://moneymagician.eu Comments URL: https://news.ycombinator.com/item?id=48815980 Points: 1 # Comments: 0",
+    "content": "Article URL: https://moneymagician.eu Comments URL: https://news.ycombinator.com/item?id=48815980 Points: 1 # Comments: 0",
+    "author": "carolinev",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://moneymagician.eu",
+    "id": "news-3566"
+  },
+  {
     "title": "New Realtime models (GPT-realtime-2.1 and GPT-realtime-2.1-mini) on the API",
     "summary": "Article URL: https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896 Comments URL: https://news.ycombinator.com/item?id=48812695 Points: 2 # Co",
     "content": "Article URL: https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896 Comments URL: https://news.ycombinator.com/item?id=48812695 Points: 2 # Comments: 0",
