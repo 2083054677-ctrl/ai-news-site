@@ -1,5 +1,96 @@
 [
   {
+    "title": "Deepseek is designing its own AI chip",
+    "summary": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder.",
+    "content": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/",
+    "id": "news-3579"
+  },
+  {
+    "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
+    "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI models regularly pass 30 percent on OpenR",
+    "content": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/",
+    "id": "news-3578"
+  },
+  {
+    "title": "The dot Claude Attack Surface",
+    "summary": "Article URL: https://www.olafalders.com/2026/07/06/the-dot-claude-attack-surface/ Comments URL: https://news.ycombinator.com/item?id=48817895 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.olafalders.com/2026/07/06/the-dot-claude-attack-surface/ Comments URL: https://news.ycombinator.com/item?id=48817895 Points: 1 # Comments: 0",
+    "author": "oalders",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.olafalders.com/2026/07/06/the-dot-claude-attack-surface/",
+    "id": "news-3577"
+  },
+  {
+    "title": "My AI Agents Were Working, but I Had No Visibility",
+    "summary": "Article URL: https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had Comments URL: https://news.ycombinator.com/item?id=48817994 Points: 2 # Comments: 0",
+    "content": "Article URL: https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had Comments URL: https://news.ycombinator.com/item?id=48817994 Points: 2 # Comments: 0",
+    "author": "hsantana8",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had",
+    "id": "news-3576"
+  },
+  {
+    "title": "Show HN: New Search MCP Using Cloudflare AI Search",
+    "summary": "Hello,So I got sick of my agents not having ready access to information they needed about projects that I'm working on ready and at hand so I built a new AGPL-3.0 (free forever) MCP that utilizes Clou",
+    "content": "Hello,So I got sick of my agents not having ready access to information they needed about projects that I'm working on ready and at hand so I built a new AGPL-3.0 (free forever) MCP that utilizes Cloudflare AI Search to index your repos and anything else you want to feed into it. It also includes a nice little web widget that allows end users to search your repos for documentation, etc., and allows end users to ask an AI Chat Bot questions regarding your projects. If you want to see the widget, ",
+    "author": "skyphusion",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/skyphusion-labs/search-mcp",
+    "id": "news-3575"
+  },
+  {
+    "title": "Show HN: Shellular – run Claude Code/Codex/Pi from your phone",
+    "summary": "Article URL: https://shellular.dev/ Comments URL: https://news.ycombinator.com/item?id=48818124 Points: 1 # Comments: 0",
+    "content": "Article URL: https://shellular.dev/ Comments URL: https://news.ycombinator.com/item?id=48818124 Points: 1 # Comments: 0",
+    "author": "sherlock-holmes",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://shellular.dev/",
+    "id": "news-3574"
+  },
+  {
+    "title": "AI Content and the Social Contract",
+    "summary": "Article URL: https://www.jeromehollon.com/projects/ai-writing-social-contract/ Comments URL: https://news.ycombinator.com/item?id=48818153 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.jeromehollon.com/projects/ai-writing-social-contract/ Comments URL: https://news.ycombinator.com/item?id=48818153 Points: 1 # Comments: 0",
+    "author": "malfist",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.jeromehollon.com/projects/ai-writing-social-contract/",
+    "id": "news-3573"
+  },
+  {
     "title": "Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects",
     "summary": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivi",
     "content": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivity boosts by years. If that takes five years instead of five months, many AI stocks face a painful repricing. The article Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects appeared first on The Decoder.",
