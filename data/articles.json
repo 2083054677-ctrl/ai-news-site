@@ -1,5 +1,70 @@
 [
   {
+    "title": "New Realtime models (GPT-realtime-2.1 and GPT-realtime-2.1-mini) on the API",
+    "summary": "Article URL: https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896 Comments URL: https://news.ycombinator.com/item?id=48812695 Points: 2 # Co",
+    "content": "Article URL: https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896 Comments URL: https://news.ycombinator.com/item?id=48812695 Points: 2 # Comments: 0",
+    "author": "soheilpro",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896",
+    "id": "news-3565"
+  },
+  {
+    "title": "How Much Is AI Manipulating Us?",
+    "summary": "Article URL: https://americanrefugees.substack.com/p/how-much-is-ai-manipulating-us Comments URL: https://news.ycombinator.com/item?id=48812760 Points: 2 # Comments: 3",
+    "content": "Article URL: https://americanrefugees.substack.com/p/how-much-is-ai-manipulating-us Comments URL: https://news.ycombinator.com/item?id=48812760 Points: 2 # Comments: 3",
+    "author": "smitty1e",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://americanrefugees.substack.com/p/how-much-is-ai-manipulating-us",
+    "id": "news-3564"
+  },
+  {
+    "title": "Millfolio – my take on local/hybrid AI",
+    "summary": "Article URL: https://millfolio.app/blog/send-the-program-to-your-data/ Comments URL: https://news.ycombinator.com/item?id=48812775 Points: 1 # Comments: 0",
+    "content": "Article URL: https://millfolio.app/blog/send-the-program-to-your-data/ Comments URL: https://news.ycombinator.com/item?id=48812775 Points: 1 # Comments: 0",
+    "author": "winding",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://millfolio.app/blog/send-the-program-to-your-data/",
+    "id": "news-3563"
+  },
+  {
+    "title": "Stet – a Markdown editor where every AI edit needs your sign-off",
+    "summary": "Article URL: https://www.getstet.app/ Comments URL: https://news.ycombinator.com/item?id=48812782 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.getstet.app/ Comments URL: https://news.ycombinator.com/item?id=48812782 Points: 1 # Comments: 0",
+    "author": "DrewRaines",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.getstet.app/",
+    "id": "news-3562"
+  },
+  {
+    "title": "Pi (Rust): High-performance AI coding agent CLI written in Rust",
+    "summary": "Article URL: https://github.com/Dicklesworthstone/pi_agent_rust Comments URL: https://news.ycombinator.com/item?id=48812809 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Dicklesworthstone/pi_agent_rust Comments URL: https://news.ycombinator.com/item?id=48812809 Points: 1 # Comments: 0",
+    "author": "rsyring",
+    "date": "2026-07-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Dicklesworthstone/pi_agent_rust",
+    "id": "news-3561"
+  },
+  {
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "summary": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "content": "",
