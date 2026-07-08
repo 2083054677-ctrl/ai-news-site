@@ -1,5 +1,97 @@
 [
   {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "summary": "Native-speed vLLM transformers modeling backend",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "id": "news-3628"
+  },
+  {
+    "title": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
+    "summary": "Google Deepmind is adding four new features to Managed Agents in the Gemini API. Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions along",
+    "content": "Google Deepmind is adding four new features to Managed Agents in the Gemini API. Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions alongside sandbox tools, and refresh credentials without losing state. The article Google Deepmind adds background execution and MCP support to Gemini API managed agents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents/",
+    "id": "news-3627"
+  },
+  {
+    "title": "2026 World Cup – Simulated Matches by AI Agent",
+    "summary": "Article URL: https://agentpitch.surge.sh/ Comments URL: https://news.ycombinator.com/item?id=48833447 Points: 1 # Comments: 0",
+    "content": "Article URL: https://agentpitch.surge.sh/ Comments URL: https://news.ycombinator.com/item?id=48833447 Points: 1 # Comments: 0",
+    "author": "gangtao",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentpitch.surge.sh/",
+    "id": "news-3626"
+  },
+  {
+    "title": "What 1,080 YC Startups Tell Us About AI Agents",
+    "summary": "Article URL: https://twitter.com/anas_build_/status/2074882630902771733 Comments URL: https://news.ycombinator.com/item?id=48833509 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/anas_build_/status/2074882630902771733 Comments URL: https://news.ycombinator.com/item?id=48833509 Points: 1 # Comments: 0",
+    "author": "youz",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/anas_build_/status/2074882630902771733",
+    "id": "news-3625"
+  },
+  {
+    "title": "Show HN: Free tool that shows what AI assistants see when they crawl your site",
+    "summary": "Article URL: https://builderwrench.com/tools/ai-readiness-inspector Comments URL: https://news.ycombinator.com/item?id=48833561 Points: 1 # Comments: 0",
+    "content": "Article URL: https://builderwrench.com/tools/ai-readiness-inspector Comments URL: https://news.ycombinator.com/item?id=48833561 Points: 1 # Comments: 0",
+    "author": "builderwrench",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://builderwrench.com/tools/ai-readiness-inspector",
+    "id": "news-3624"
+  },
+  {
+    "title": "The answer may not be false, just not yours: keeping authorship after AI edits",
+    "summary": "Article URL: https://singularityforge.space/2026/07/08/the-answer-may-not-be-false-just-not-yours/ Comments URL: https://news.ycombinator.com/item?id=48833571 Points: 2 # Comments: 0",
+    "content": "Article URL: https://singularityforge.space/2026/07/08/the-answer-may-not-be-false-just-not-yours/ Comments URL: https://news.ycombinator.com/item?id=48833571 Points: 2 # Comments: 0",
+    "author": "Voice_of_Void",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://singularityforge.space/2026/07/08/the-answer-may-not-be-false-just-not-yours/",
+    "id": "news-3623"
+  },
+  {
+    "title": "Show HN: Nicasa – A native macOS image viewer with AI tools, OCR, and annotation",
+    "summary": "Article URL: https://nicasa.w3cub.com Comments URL: https://news.ycombinator.com/item?id=48833580 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nicasa.w3cub.com Comments URL: https://news.ycombinator.com/item?id=48833580 Points: 1 # Comments: 0",
+    "author": "terryXyz",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nicasa.w3cub.com",
+    "id": "news-3622"
+  },
+  {
     "title": "Meta tests always-on AI glasses that capture your entire day",
     "summary": "Meta is testing a prototype of AI-powered headsets with \"Super Sensing\" that use a camera and microphone to record every moment of the wearer's life. The article Meta tests always-on AI glasses that c",
     "content": "Meta is testing a prototype of AI-powered headsets with \"Super Sensing\" that use a camera and microphone to record every moment of the wearer's life. The article Meta tests always-on AI glasses that capture your entire day appeared first on The Decoder.",
