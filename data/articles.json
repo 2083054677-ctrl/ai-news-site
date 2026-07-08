@@ -1,5 +1,31 @@
 [
   {
+    "title": "Meta tests always-on AI glasses that capture your entire day",
+    "summary": "Meta is testing a prototype of AI-powered headsets with \"Super Sensing\" that use a camera and microphone to record every moment of the wearer's life. The article Meta tests always-on AI glasses that c",
+    "content": "Meta is testing a prototype of AI-powered headsets with \"Super Sensing\" that use a camera and microphone to record every moment of the wearer's life. The article Meta tests always-on AI glasses that capture your entire day appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/",
+    "id": "news-3621"
+  },
+  {
+    "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year",
+    "summary": "Chinese AI developer MiniMax is working on a new large language model with 2.7 trillion parameters. MiniMax plans to release the model as open source. The article Chinese AI startup MiniMax plans to o",
+    "content": "Chinese AI developer MiniMax is working on a new large language model with 2.7 trillion parameters. MiniMax plans to release the model as open source. The article Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chinese-ai-startup-minimax-plans-to-open-source-a-2-7-trillion-parameter-model-later-this-year/",
+    "id": "news-3620"
+  },
+  {
     "title": "Muse Image is technically impressive, but Meta's use of Instagram photos raises questions",
     "summary": "Meta's Superintelligence Labs ships Muse Image, its first image generation model. Like OpenAI's GPT Image 2, it works as an agent, using tools like code execution and web search to refine its own resu",
     "content": "Meta's Superintelligence Labs ships Muse Image, its first image generation model. Like OpenAI's GPT Image 2, it works as an agent, using tools like code execution and web search to refine its own results. A controversial @-mention feature lets users generate images of other people using their public Instagram photos without consent. The opt-out model is likely to collide with the GDPR and the EU AI Act. The article Muse Image is technically impressive, but Meta's use of Instagram photos raises q",
