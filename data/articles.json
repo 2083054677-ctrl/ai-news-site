@@ -1,5 +1,70 @@
 [
   {
+    "title": "China Is Abusing AI",
+    "summary": "Article URL: https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696/ Comments URL: https://news.ycombinator.com/item?id=48836825 Points: 4 # Comments: 3",
+    "content": "Article URL: https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696/ Comments URL: https://news.ycombinator.com/item?id=48836825 Points: 4 # Comments: 3",
+    "author": "malshe",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696/",
+    "id": "news-3644"
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+    "summary": "Article URL: https://danluu.com/ai-coding/#llm-variance Comments URL: https://news.ycombinator.com/item?id=48836951 Points: 3 # Comments: 1",
+    "content": "Article URL: https://danluu.com/ai-coding/#llm-variance Comments URL: https://news.ycombinator.com/item?id=48836951 Points: 3 # Comments: 1",
+    "author": "lifeisstillgood",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://danluu.com/ai-coding/#llm-variance",
+    "id": "news-3643"
+  },
+  {
+    "title": "GitOps in the Age of AI",
+    "summary": "Article URL: https://confighub.com/blog/gitops-in-the-age-of-ai-c73d0bd506ba Comments URL: https://news.ycombinator.com/item?id=48836971 Points: 3 # Comments: 1",
+    "content": "Article URL: https://confighub.com/blog/gitops-in-the-age-of-ai-c73d0bd506ba Comments URL: https://news.ycombinator.com/item?id=48836971 Points: 3 # Comments: 1",
+    "author": "mooreds",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://confighub.com/blog/gitops-in-the-age-of-ai-c73d0bd506ba",
+    "id": "news-3642"
+  },
+  {
+    "title": "Show HN: Nully – FOSS AI chat without the bloat",
+    "summary": "As someone who doesn't use any of the more \"advanced\" features on sites like ChatGPT or Claude (agentic mode, memory, image generation, deep research, etc), I found the bloat of these services, both i",
+    "content": "As someone who doesn't use any of the more \"advanced\" features on sites like ChatGPT or Claude (agentic mode, memory, image generation, deep research, etc), I found the bloat of these services, both in UX and in performance, to be pretty tedious.There are a million AI chat interfaces out there, but I could never find one that just did simple messaging and history in the most minimal and lightweight way possible. So I made my own.Nully is written in Go and Vanilla HTML/CSS/JS. It literally just s",
+    "author": "johnfahey",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nully.chat/",
+    "id": "news-3641"
+  },
+  {
+    "title": "Most nurses say AI isn't good enough to trust with patient care, survey finds",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/07/most-nurses-say-ai-isnt-good-enough-trust-with-patient-care-survey/ Comments URL: https://news.ycombinator.com/item?id=48837096 Points",
+    "content": "Article URL: https://www.washingtonpost.com/technology/2026/07/07/most-nurses-say-ai-isnt-good-enough-trust-with-patient-care-survey/ Comments URL: https://news.ycombinator.com/item?id=48837096 Points: 3 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/technology/2026/07/07/most-nurses-say-ai-isnt-good-enough-trust-with-patient-care-survey/",
+    "id": "news-3640"
+  },
+  {
     "title": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
     "summary": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality. GP",
     "content": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality. GPT-Live-1 is available now for paying ChatGPT users, with a mini version for free accounts. API access is coming soon. The article ChatGPT can now listen and talk at the same time, making AI conversations seem more human appeared first on The Decoder.",
