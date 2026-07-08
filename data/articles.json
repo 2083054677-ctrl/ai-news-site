@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
+    "summary": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing. Binding standards for future model approvals still don't exist. OpenAI says the S",
+    "content": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing. Binding standards for future model approvals still don't exist. OpenAI says the Sol model beats Anthropic's Claude Mythos 5 on coding benchmarks at about half the cost. The article OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/",
+    "id": "news-3613"
+  },
+  {
+    "title": "Show HN: An AI Agent that automates workflows on your Mobile",
+    "summary": "Article URL: https://mobilerun.ai/ Comments URL: https://news.ycombinator.com/item?id=48828874 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mobilerun.ai/ Comments URL: https://news.ycombinator.com/item?id=48828874 Points: 1 # Comments: 0",
+    "author": "Messyflame",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mobilerun.ai/",
+    "id": "news-3612"
+  },
+  {
+    "title": "Which AI coding tools to use",
+    "summary": "Article URL: https://bryanhogan.com/blog/ai-coding-tools Comments URL: https://news.ycombinator.com/item?id=48828899 Points: 2 # Comments: 0",
+    "content": "Article URL: https://bryanhogan.com/blog/ai-coding-tools Comments URL: https://news.ycombinator.com/item?id=48828899 Points: 2 # Comments: 0",
+    "author": "bryanhogan",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bryanhogan.com/blog/ai-coding-tools",
+    "id": "news-3611"
+  },
+  {
+    "title": "Darwin Among the Weights: AI as a speciation event",
+    "summary": "Article URL: https://benletchford.com/writing/darwin-among-the-weights/ Comments URL: https://news.ycombinator.com/item?id=48828933 Points: 1 # Comments: 0",
+    "content": "Article URL: https://benletchford.com/writing/darwin-among-the-weights/ Comments URL: https://news.ycombinator.com/item?id=48828933 Points: 1 # Comments: 0",
+    "author": "notevenmostly",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://benletchford.com/writing/darwin-among-the-weights/",
+    "id": "news-3610"
+  },
+  {
+    "title": "Testing Java Memory Management with Chronicle-Fix Using AI",
+    "summary": "Article URL: http://blog.vanillajava.blog/2026/06/testing-java-memory-management-with.html Comments URL: https://news.ycombinator.com/item?id=48829010 Points: 1 # Comments: 1",
+    "content": "Article URL: http://blog.vanillajava.blog/2026/06/testing-java-memory-management-with.html Comments URL: https://news.ycombinator.com/item?id=48829010 Points: 1 # Comments: 1",
+    "author": "peter_lawrey",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://blog.vanillajava.blog/2026/06/testing-java-memory-management-with.html",
+    "id": "news-3609"
+  },
+  {
+    "title": "Anthropic's \"J-lens\" reveals workspace in Claude mirrors theory of consciousness",
+    "summary": "Article URL: https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness Comments URL: https://news.ycombinator.com",
+    "content": "Article URL: https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness Comments URL: https://news.ycombinator.com/item?id=48829035 Points: 1 # Comments: 0",
+    "author": "aard",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+    "id": "news-3608"
+  },
+  {
     "title": "China to restrict the export of frontier open weight AI models",
     "summary": "Article URL: https://twitter.com/rohanpaul_ai/status/2074512389526237609 Comments URL: https://news.ycombinator.com/item?id=48827668 Points: 1 # Comments: 0",
     "content": "Article URL: https://twitter.com/rohanpaul_ai/status/2074512389526237609 Comments URL: https://news.ycombinator.com/item?id=48827668 Points: 1 # Comments: 0",
