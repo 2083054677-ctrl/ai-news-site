@@ -1,5 +1,83 @@
 [
   {
+    "title": "Muse Image is technically impressive, but Meta's use of Instagram photos raises questions",
+    "summary": "Meta's Superintelligence Labs ships Muse Image, its first image generation model. Like OpenAI's GPT Image 2, it works as an agent, using tools like code execution and web search to refine its own resu",
+    "content": "Meta's Superintelligence Labs ships Muse Image, its first image generation model. Like OpenAI's GPT Image 2, it works as an agent, using tools like code execution and web search to refine its own results. A controversial @-mention feature lets users generate images of other people using their public Instagram photos without consent. The opt-out model is likely to collide with the GDPR and the EU AI Act. The article Muse Image is technically impressive, but Meta's use of Instagram photos raises q",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/",
+    "id": "news-3619"
+  },
+  {
+    "title": "Institutional Sovereignty in the Age of AI [pdf]",
+    "summary": "Article URL: https://assets.ctfassets.net/xrfr7uokpv1b/yF0AXklHQd7K3SqKICNTM/e9f9167d1b3c7cce56ab3b8c4cc572da/Palantir_-_Institutional_Sovereignty_in_the_Age_of_AI.pdf Comments URL: https://news.ycomb",
+    "content": "Article URL: https://assets.ctfassets.net/xrfr7uokpv1b/yF0AXklHQd7K3SqKICNTM/e9f9167d1b3c7cce56ab3b8c4cc572da/Palantir_-_Institutional_Sovereignty_in_the_Age_of_AI.pdf Comments URL: https://news.ycombinator.com/item?id=48830549 Points: 1 # Comments: 0",
+    "author": "cyrve",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://assets.ctfassets.net/xrfr7uokpv1b/yF0AXklHQd7K3SqKICNTM/e9f9167d1b3c7cce56ab3b8c4cc572da/Palantir_-_Institutional_Sovereignty_in_the_Age_of_AI.pdf",
+    "id": "news-3618"
+  },
+  {
+    "title": "OpenClaw plugin for real phone calls via Twilio and OpenAI Realtime",
+    "summary": "Article URL: https://github.com/TristanBrotherton/openclaw-voice-call-realtime Comments URL: https://news.ycombinator.com/item?id=48830588 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/TristanBrotherton/openclaw-voice-call-realtime Comments URL: https://news.ycombinator.com/item?id=48830588 Points: 1 # Comments: 0",
+    "author": "thunderbong",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/TristanBrotherton/openclaw-voice-call-realtime",
+    "id": "news-3617"
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+    "summary": "Article URL: https://danluu.com/ai-coding/ Comments URL: https://news.ycombinator.com/item?id=48830620 Points: 1 # Comments: 0",
+    "content": "Article URL: https://danluu.com/ai-coding/ Comments URL: https://news.ycombinator.com/item?id=48830620 Points: 1 # Comments: 0",
+    "author": "ndr",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://danluu.com/ai-coding/",
+    "id": "news-3616"
+  },
+  {
+    "title": "ScreenNote – snip your screen into an AI-readable note bundle",
+    "summary": "Article URL: https://apps.microsoft.com/detail/9nzxkcv9w5n8?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=48830626 Points: 1 # Comments: 0",
+    "content": "Article URL: https://apps.microsoft.com/detail/9nzxkcv9w5n8?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=48830626 Points: 1 # Comments: 0",
+    "author": "MAZMS",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.microsoft.com/detail/9nzxkcv9w5n8?hl=en-US&gl=US",
+    "id": "news-3615"
+  },
+  {
+    "title": "Trump Says He'll Fast-Track Private Gas Plants to Power AI Data Centers",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/07/donald-trump-epa-lee-zeldin-fast-track-private-gas-fired-power-plants-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=4883",
+    "content": "Article URL: https://www.motherjones.com/politics/2026/07/donald-trump-epa-lee-zeldin-fast-track-private-gas-fired-power-plants-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=48830646 Points: 1 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.motherjones.com/politics/2026/07/donald-trump-epa-lee-zeldin-fast-track-private-gas-fired-power-plants-ai-data-centers/",
+    "id": "news-3614"
+  },
+  {
     "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
     "summary": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing. Binding standards for future model approvals still don't exist. OpenAI says the S",
     "content": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing. Binding standards for future model approvals still don't exist. OpenAI says the Sol model beats Anthropic's Claude Mythos 5 on coding benchmarks at about half the cost. The article OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government appeared first on The Decoder.",
