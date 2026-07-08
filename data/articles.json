@@ -1,5 +1,123 @@
 [
   {
+    "title": "Data for Agents",
+    "summary": "Data for Agents",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "id": "news-3637"
+  },
+  {
+    "title": "Anthropic's Claude Fable 5 dominates new industry benchmarks at a steep premium",
+    "summary": "Anthropic's Claude Fable 5 tops all six new industry-specific performance indices from Artificial Analysis, covering finance, law, and medicine. But that lead comes at a steep cost. In the Strategy & ",
+    "content": "Anthropic's Claude Fable 5 tops all six new industry-specific performance indices from Artificial Analysis, covering finance, law, and medicine. But that lead comes at a steep cost. In the Strategy & Ops Index, a single task runs $3.48 with Fable 5, more than a hundred times what DeepSeek V4 Pro charges at $0.03. The score difference is just 12 points. The article Anthropic's Claude Fable 5 dominates new industry benchmarks at a steep premium appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-claude-fable-5-dominates-new-industry-benchmarks-at-a-steep-premium/",
+    "id": "news-3636"
+  },
+  {
+    "title": "Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5",
+    "summary": "Anthropic recommends using the expensive Claude Fable 5 mainly as a planner for smaller models instead of running it on every task. Combined with Sonnet 5 in the \"Advisor\" pattern, this setup hits 92 ",
+    "content": "Anthropic recommends using the expensive Claude Fable 5 mainly as a planner for smaller models instead of running it on every task. Combined with Sonnet 5 in the \"Advisor\" pattern, this setup hits 92 percent of Fable 5's solo performance at 63 percent of the cost. The article Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/",
+    "id": "news-3635"
+  },
+  {
+    "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera",
+    "summary": "Mistral is entering the robotics market with Robostral Navigate, an 8B model that guides robots through unknown environments using only a single RGB camera. Trained in simulation and refined with rein",
+    "content": "Mistral is entering the robotics market with Robostral Navigate, an 8B model that guides robots through unknown environments using only a single RGB camera. Trained in simulation and refined with reinforcement learning (CISPO), it hits 76.6 percent on the R2R-CE benchmark. Mistral hasn't said when the model will be available. The article Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/",
+    "id": "news-3634"
+  },
+  {
+    "title": "Show HN: Visually orchestrate Claude Code agents",
+    "summary": "Article URL: https://github.com/rondoflow/rondoflow Comments URL: https://news.ycombinator.com/item?id=48834422 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/rondoflow/rondoflow Comments URL: https://news.ycombinator.com/item?id=48834422 Points: 1 # Comments: 0",
+    "author": "arzzen",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rondoflow/rondoflow",
+    "id": "news-3633"
+  },
+  {
+    "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
+    "summary": "Article URL: https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html Comments URL: https://news.ycombinator.com/item?id=48834459 Points: 5 # Comments: 0",
+    "content": "Article URL: https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html Comments URL: https://news.ycombinator.com/item?id=48834459 Points: 5 # Comments: 0",
+    "author": "reaperducer",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
+    "id": "news-3632"
+  },
+  {
+    "title": "How to tell if a photo is AI-generated from its metadata (C2PA, XMP, EXIF)",
+    "summary": "Article URL: https://photoinvestigator.co/blog/how-to-tell-if-a-photo-is-ai-generated-metadata/ Comments URL: https://news.ycombinator.com/item?id=48834536 Points: 1 # Comments: 0",
+    "content": "Article URL: https://photoinvestigator.co/blog/how-to-tell-if-a-photo-is-ai-generated-metadata/ Comments URL: https://news.ycombinator.com/item?id=48834536 Points: 1 # Comments: 0",
+    "author": "Danbana",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://photoinvestigator.co/blog/how-to-tell-if-a-photo-is-ai-generated-metadata/",
+    "id": "news-3631"
+  },
+  {
+    "title": "Meta AI glasses disable the camera if the capture LED is destroyed",
+    "summary": "Article URL: https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/ Comments URL: https://news.ycombinator.com/item?id=48834548 Points: 3 # Comments: 0",
+    "content": "Article URL: https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/ Comments URL: https://news.ycombinator.com/item?id=48834548 Points: 3 # Comments: 0",
+    "author": "p_stuart82",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
+    "id": "news-3630"
+  },
+  {
+    "title": "An AI coal mine security camera network powered by plaintext passwords",
+    "summary": "Article URL: https://eaton-works.com/2026/07/08/coal-india-camera-hack/ Comments URL: https://news.ycombinator.com/item?id=48834611 Points: 2 # Comments: 1",
+    "content": "Article URL: https://eaton-works.com/2026/07/08/coal-india-camera-hack/ Comments URL: https://news.ycombinator.com/item?id=48834611 Points: 2 # Comments: 1",
+    "author": "EatonZ",
+    "date": "2026-07-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://eaton-works.com/2026/07/08/coal-india-camera-hack/",
+    "id": "news-3629"
+  },
+  {
     "title": "Native-speed vLLM transformers modeling backend",
     "summary": "Native-speed vLLM transformers modeling backend",
     "content": "",
