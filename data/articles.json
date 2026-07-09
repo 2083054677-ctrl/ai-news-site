@@ -1,5 +1,70 @@
 [
   {
+    "title": "Public LLM benchmarks are mostly garbage",
+    "summary": "Article URL: https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7 Comments URL: https://news.ycombinator.com/item?id=48839720 Points: 1 # Comments: 0",
+    "content": "Article URL: https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7 Comments URL: https://news.ycombinator.com/item?id=48839720 Points: 1 # Comments: 0",
+    "author": "nateb2022",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7",
+    "id": "news-3654"
+  },
+  {
+    "title": "I Think I Have LLM Burnout",
+    "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 16 # Comments: 3",
+    "content": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 16 # Comments: 3",
+    "author": "sosodev",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.alecscollon.com/blog/llm-burnout/",
+    "id": "news-3653"
+  },
+  {
+    "title": "OpenAI Launches Patch the Planet to Pay Down Open Source's Security Debt",
+    "summary": "Article URL: https://zenaicorp.com/en/news/openai-patch-the-planet-open-source-security-trail-of-bits Comments URL: https://news.ycombinator.com/item?id=48840008 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenaicorp.com/en/news/openai-patch-the-planet-open-source-security-trail-of-bits Comments URL: https://news.ycombinator.com/item?id=48840008 Points: 1 # Comments: 0",
+    "author": "zenai666",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenaicorp.com/en/news/openai-patch-the-planet-open-source-security-trail-of-bits",
+    "id": "news-3652"
+  },
+  {
+    "title": "Nobel-winning chemist leaves US to direct AI materials lab in China",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02143-x Comments URL: https://news.ycombinator.com/item?id=48840035 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.nature.com/articles/d41586-026-02143-x Comments URL: https://news.ycombinator.com/item?id=48840035 Points: 2 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nature.com/articles/d41586-026-02143-x",
+    "id": "news-3651"
+  },
+  {
+    "title": "The AI Hype Reckoning Is Upon Us",
+    "summary": "Article URL: https://karlbode.com/the-ai-hype-reckoning-is-upon-us/ Comments URL: https://news.ycombinator.com/item?id=48840092 Points: 1 # Comments: 0",
+    "content": "Article URL: https://karlbode.com/the-ai-hype-reckoning-is-upon-us/ Comments URL: https://news.ycombinator.com/item?id=48840092 Points: 1 # Comments: 0",
+    "author": "cratermoon",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
+    "id": "news-3650"
+  },
+  {
     "title": "Show HN: Mtok.market – a non-custodial spot market for AI inference tokens",
     "summary": "Article URL: https://mtok.market/ Comments URL: https://news.ycombinator.com/item?id=48837658 Points: 1 # Comments: 0",
     "content": "Article URL: https://mtok.market/ Comments URL: https://news.ycombinator.com/item?id=48837658 Points: 1 # Comments: 0",
