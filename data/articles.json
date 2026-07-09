@@ -1,5 +1,83 @@
 [
   {
+    "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
+    "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of w",
+    "content": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask. For pure-play AI labs burning through billions, the pressure just got worse. The article Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/",
+    "id": "news-3678"
+  },
+  {
+    "title": "GPT-5.6 System Card [pdf]",
+    "summary": "Article URL: https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf Comments URL: https://news.ycombinator.com/item?id=48849593 Points: 2 # Comments: 0",
+    "content": "Article URL: https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf Comments URL: https://news.ycombinator.com/item?id=48849593 Points: 2 # Comments: 0",
+    "author": "zof3",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf",
+    "id": "news-3677"
+  },
+  {
+    "title": "\"The Switzerland of AI\": OpenClaw becomes a non-profit foundation",
+    "summary": "Article URL: https://thenewstack.io/openclaw-foundation-nonprofit-status/ Comments URL: https://news.ycombinator.com/item?id=48849604 Points: 2 # Comments: 0",
+    "content": "Article URL: https://thenewstack.io/openclaw-foundation-nonprofit-status/ Comments URL: https://news.ycombinator.com/item?id=48849604 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/openclaw-foundation-nonprofit-status/",
+    "id": "news-3676"
+  },
+  {
+    "title": "GPT-5.6 – ARC-AGI Results",
+    "summary": "Article URL: https://arcprize.org/results/openai-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48849647 Points: 4 # Comments: 0",
+    "content": "Article URL: https://arcprize.org/results/openai-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48849647 Points: 4 # Comments: 0",
+    "author": "gok",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arcprize.org/results/openai-gpt-5-6",
+    "id": "news-3675"
+  },
+  {
+    "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests",
+    "summary": "Article URL: https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/ Comments URL: https://news.ycombinator.com/item?id=48849664 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/ Comments URL: https://news.ycombinator.com/item?id=48849664 Points: 2 # Comments: 0",
+    "author": "theanonymousone",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+    "id": "news-3674"
+  },
+  {
+    "title": "Cloud Run sandboxes: Lightweight isolation for AI agents",
+    "summary": "Article URL: https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=48849698 Points: 1 # Com",
+    "content": "Article URL: https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=48849698 Points: 1 # Comments: 0",
+    "author": "lfx",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+    "id": "news-3673"
+  },
+  {
     "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
     "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The compan",
     "content": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse. Its broader takeaway: no single provider dominates, and companies should build their own benchmarks instead of relying on public ones. The article Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at",
