@@ -1,5 +1,96 @@
 [
   {
+    "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
+    "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The compan",
+    "content": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse. Its broader takeaway: no single provider dominates, and companies should build their own benchmarks instead of relying on public ones. The article Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at",
+    "author": "Matthias Bastian",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/",
+    "id": "news-3672"
+  },
+  {
+    "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
+    "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of t",
+    "content": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark. The article OpenAI finds roughly 30 percent of popular AI coding test is broken appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
+    "id": "news-3671"
+  },
+  {
+    "title": "AI Agent Platforms Are Getting Hacked. Here's What's Missing",
+    "summary": "Article URL: https://konghq.com/blog/enterprise/ai-agent-platforms-hacked-whats-missing Comments URL: https://news.ycombinator.com/item?id=48846393 Points: 2 # Comments: 0",
+    "content": "Article URL: https://konghq.com/blog/enterprise/ai-agent-platforms-hacked-whats-missing Comments URL: https://news.ycombinator.com/item?id=48846393 Points: 2 # Comments: 0",
+    "author": "axandriamier",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://konghq.com/blog/enterprise/ai-agent-platforms-hacked-whats-missing",
+    "id": "news-3670"
+  },
+  {
+    "title": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html Comments URL: https://news.ycombinator.com/item?id=48846407 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html Comments URL: https://news.ycombinator.com/item?id=48846407 Points: 4 # Comments: 1",
+    "author": "Topfi",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
+    "id": "news-3669"
+  },
+  {
+    "title": "Ask HN: What do you ask AI to do with your files?",
+    "summary": "I'm researching how people who don't code use AI tools for multi-step work on their actual files – renaming/organizing documents, filling forms on PDFs, cleaning up spreadsheets, turning notes into a ",
+    "content": "I'm researching how people who don't code use AI tools for multi-step work on their actual files – renaming/organizing documents, filling forms on PDFs, cleaning up spreadsheets, turning notes into a report, and so on –.What was the last multi-step task you gave AI involving your files? Did you get what you wanted?Thanks. Comments URL: https://news.ycombinator.com/item?id=48846461 Points: 2 # Comments: 1",
+    "author": "simquat",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48846461",
+    "id": "news-3668"
+  },
+  {
+    "title": "Stacking Chips Sideways Gives AI More Memory",
+    "summary": "Article URL: https://spectrum.ieee.org/stacking-chips-sideways Comments URL: https://news.ycombinator.com/item?id=48846515 Points: 2 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/stacking-chips-sideways Comments URL: https://news.ycombinator.com/item?id=48846515 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/stacking-chips-sideways",
+    "id": "news-3667"
+  },
+  {
+    "title": "Zuckerberg Pledges 'Aggressive' Pricing with Meta's First Pay-to-Use AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model Comments URL: https://news.ycombinator.com/item?id=48846578 Points: 1 # Co",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model Comments URL: https://news.ycombinator.com/item?id=48846578 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model",
+    "id": "news-3666"
+  },
+  {
     "title": "OpenAI's AI beats every human at AtCoder, a top competitive programming contest",
     "summary": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exce",
     "content": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exceptionally difficult by observers. The article OpenAI's AI beats every human at AtCoder, a top competitive programming contest appeared first on The Decoder.",
