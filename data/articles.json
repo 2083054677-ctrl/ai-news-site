@@ -1,5 +1,70 @@
 [
   {
+    "title": "Cybersecurity AI (CAI) Dataset",
+    "summary": "Article URL: https://arxiv.org/abs/2605.28146 Comments URL: https://news.ycombinator.com/item?id=48841688 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2605.28146 Comments URL: https://news.ycombinator.com/item?id=48841688 Points: 1 # Comments: 0",
+    "author": "vinothkumarnaga",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2605.28146",
+    "id": "news-3659"
+  },
+  {
+    "title": "Facebook takes no action on AI far-right influence campaign flagged a month ago",
+    "summary": "Article URL: https://www.independent.co.uk/news/uk/home-news/facebook-far-right-ai-video-life-in-britain-b3004975.html Comments URL: https://news.ycombinator.com/item?id=48841855 Points: 2 # Comments:",
+    "content": "Article URL: https://www.independent.co.uk/news/uk/home-news/facebook-far-right-ai-video-life-in-britain-b3004975.html Comments URL: https://news.ycombinator.com/item?id=48841855 Points: 2 # Comments: 0",
+    "author": "vrganj",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.independent.co.uk/news/uk/home-news/facebook-far-right-ai-video-life-in-britain-b3004975.html",
+    "id": "news-3658"
+  },
+  {
+    "title": "Greppy – A drop-in grep with code-nav subcommands for AI agents",
+    "summary": "Article URL: https://github.com/metric-space-ai/greppy Comments URL: https://news.ycombinator.com/item?id=48841902 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/metric-space-ai/greppy Comments URL: https://news.ycombinator.com/item?id=48841902 Points: 1 # Comments: 0",
+    "author": "metricspaceai",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/metric-space-ai/greppy",
+    "id": "news-3657"
+  },
+  {
+    "title": "Probelock – lockfile for LLM tool calling",
+    "summary": "Article URL: https://github.com/kelkalot/probelock Comments URL: https://news.ycombinator.com/item?id=48842075 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/kelkalot/probelock Comments URL: https://news.ycombinator.com/item?id=48842075 Points: 1 # Comments: 0",
+    "author": "rar101x",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kelkalot/probelock",
+    "id": "news-3656"
+  },
+  {
+    "title": "I built a $10M run rate AI Startup in 150 days [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=VMyHC7qUrhI Comments URL: https://news.ycombinator.com/item?id=48842190 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=VMyHC7qUrhI Comments URL: https://news.ycombinator.com/item?id=48842190 Points: 1 # Comments: 0",
+    "author": "zetamax",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=VMyHC7qUrhI",
+    "id": "news-3655"
+  },
+  {
     "title": "Public LLM benchmarks are mostly garbage",
     "summary": "Article URL: https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7 Comments URL: https://news.ycombinator.com/item?id=48839720 Points: 1 # Comments: 0",
     "content": "Article URL: https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7 Comments URL: https://news.ycombinator.com/item?id=48839720 Points: 1 # Comments: 0",
