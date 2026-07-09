@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's AI beats every human at AtCoder, a top competitive programming contest",
+    "summary": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exce",
+    "content": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exceptionally difficult by observers. The article OpenAI's AI beats every human at AtCoder, a top competitive programming contest appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/",
+    "id": "news-3665"
+  },
+  {
+    "title": "Agentic Coding Arena – Compare OpenAI, Anthropic, and Other Models",
+    "summary": "Article URL: https://arena.logic.inc/ Comments URL: https://news.ycombinator.com/item?id=48843599 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arena.logic.inc/ Comments URL: https://news.ycombinator.com/item?id=48843599 Points: 1 # Comments: 0",
+    "author": "gurjeet",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arena.logic.inc/",
+    "id": "news-3664"
+  },
+  {
+    "title": "Show HN: Agentic FC – a football management SIM played by AI agents over MCP",
+    "summary": "Article URL: https://github.com/gaemi/agentic-fc Comments URL: https://news.ycombinator.com/item?id=48843641 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/gaemi/agentic-fc Comments URL: https://news.ycombinator.com/item?id=48843641 Points: 1 # Comments: 0",
+    "author": "gaemi",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/gaemi/agentic-fc",
+    "id": "news-3663"
+  },
+  {
+    "title": "Show HN: Self-Hosted AI That Sees, Plays Minecraft, and Reacts",
+    "summary": "Article URL: https://github.com/Alradyin/wallie-V2 Comments URL: https://news.ycombinator.com/item?id=48843648 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Alradyin/wallie-V2 Comments URL: https://news.ycombinator.com/item?id=48843648 Points: 1 # Comments: 0",
+    "author": "Alrady",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Alradyin/wallie-V2",
+    "id": "news-3662"
+  },
+  {
+    "title": "The true cost of saying \"Hi\" to an AI agent",
+    "summary": "Article URL: https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=48843758 Points: 2 # Comments: 0",
+    "content": "Article URL: https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=48843758 Points: 2 # Comments: 0",
+    "author": "stared",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/",
+    "id": "news-3661"
+  },
+  {
+    "title": "SpaceX and AI startup wealth fuels demand for private jets",
+    "summary": "Article URL: https://www.reuters.com/legal/government/spacex-ai-startup-wealth-fuels-demand-private-jets-2026-07-09/ Comments URL: https://news.ycombinator.com/item?id=48843778 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.reuters.com/legal/government/spacex-ai-startup-wealth-fuels-demand-private-jets-2026-07-09/ Comments URL: https://news.ycombinator.com/item?id=48843778 Points: 1 # Comments: 0",
+    "author": "adithyaharish",
+    "date": "2026-07-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/government/spacex-ai-startup-wealth-fuels-demand-private-jets-2026-07-09/",
+    "id": "news-3660"
+  },
+  {
     "title": "Cybersecurity AI (CAI) Dataset",
     "summary": "Article URL: https://arxiv.org/abs/2605.28146 Comments URL: https://news.ycombinator.com/item?id=48841688 Points: 1 # Comments: 0",
     "content": "Article URL: https://arxiv.org/abs/2605.28146 Comments URL: https://news.ycombinator.com/item?id=48841688 Points: 1 # Comments: 0",
