@@ -1,5 +1,70 @@
 [
   {
+    "title": "Why Industry 5.0 is more than AI-powered analytics",
+    "summary": "Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026 Comments URL: https://news.ycombinator.com/",
+    "content": "Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026 Comments URL: https://news.ycombinator.com/item?id=48856300 Points: 2 # Comments: 1",
+    "author": "Krishnaswaroop",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026",
+    "id": "news-3685"
+  },
+  {
+    "title": "Can AI Answer the $3T Question?",
+    "summary": "Article URL: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/ Comments URL: https://news.ycombinator.com/item?id=48856411 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/ Comments URL: https://news.ycombinator.com/item?id=48856411 Points: 1 # Comments: 0",
+    "author": "mjs06",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "id": "news-3684"
+  },
+  {
+    "title": "China may restrict foreign access to Chinese open-source AI models",
+    "summary": "Article URL: https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/ Comments URL: https://news.ycombinator.com/item?id=488564",
+    "content": "Article URL: https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/ Comments URL: https://news.ycombinator.com/item?id=48856412 Points: 31 # Comments: 0",
+    "author": "crowd51",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+    "id": "news-3683"
+  },
+  {
+    "title": "Show HN: Makoto the Claude Code plugin that keeps the AI honest",
+    "summary": "Article URL: https://github.com/Clear-Sights/Makoto Comments URL: https://news.ycombinator.com/item?id=48856473 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Clear-Sights/Makoto Comments URL: https://news.ycombinator.com/item?id=48856473 Points: 1 # Comments: 0",
+    "author": "Present_Flow",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Clear-Sights/Makoto",
+    "id": "news-3682"
+  },
+  {
+    "title": "Show HN: AI Humanizer – Rewrite AI text into natural copy",
+    "summary": "Article URL: https://ai-humanizer.space/ Comments URL: https://news.ycombinator.com/item?id=48856516 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-humanizer.space/ Comments URL: https://news.ycombinator.com/item?id=48856516 Points: 1 # Comments: 0",
+    "author": "oliviamy",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-humanizer.space/",
+    "id": "news-3681"
+  },
+  {
     "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
     "summary": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Sla",
     "content": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Slack, and Salesforce. ChatGPT Work is available now on web, mobile, and desktop, though access depends on the subscription plan. The article OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows appeared first on The Decoder.",
