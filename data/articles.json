@@ -1,5 +1,84 @@
 [
   {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "summary": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/torch-attention-profile",
+    "id": "news-3691"
+  },
+  {
+    "title": "OpenAI Will Reset Codex Limits Twice to Celebrate GPT-5.6 in 24h",
+    "summary": "Article URL: https://twitter.com/thsottiaux/status/2075452680760443190 Comments URL: https://news.ycombinator.com/item?id=48857805 Points: 4 # Comments: 0",
+    "content": "Article URL: https://twitter.com/thsottiaux/status/2075452680760443190 Comments URL: https://news.ycombinator.com/item?id=48857805 Points: 4 # Comments: 0",
+    "author": "linzhangrun",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/thsottiaux/status/2075452680760443190",
+    "id": "news-3690"
+  },
+  {
+    "title": "Muscula – Error tracking and monitoring with AI-assisted debugging",
+    "summary": "Article URL: https://www.muscula.com/ Comments URL: https://news.ycombinator.com/item?id=48858044 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.muscula.com/ Comments URL: https://news.ycombinator.com/item?id=48858044 Points: 1 # Comments: 0",
+    "author": "hereanwaris",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.muscula.com/",
+    "id": "news-3689"
+  },
+  {
+    "title": "Impact of AI-Generated Text on the Internet",
+    "summary": "Article URL: https://ai-on-the-internet.github.io/ Comments URL: https://news.ycombinator.com/item?id=48858046 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-on-the-internet.github.io/ Comments URL: https://news.ycombinator.com/item?id=48858046 Points: 1 # Comments: 0",
+    "author": "abrbhat",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-on-the-internet.github.io/",
+    "id": "news-3688"
+  },
+  {
+    "title": "GPT 5.6 Sol better than Fable?",
+    "summary": "Article URL: https://twitter.com/antirez/status/2075512007256691196 Comments URL: https://news.ycombinator.com/item?id=48858054 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/antirez/status/2075512007256691196 Comments URL: https://news.ycombinator.com/item?id=48858054 Points: 1 # Comments: 0",
+    "author": "rstagi",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/antirez/status/2075512007256691196",
+    "id": "news-3687"
+  },
+  {
+    "title": "Show HN: A possible open-source desktop alternative to OpenAI Codex",
+    "summary": "I know it sounds strange, and the readme says this is a research tool. But I find it really feels like Codex.So I ran it through some routine tasks, and it performed well in my use cases, coding, deep",
+    "content": "I know it sounds strange, and the readme says this is a research tool. But I find it really feels like Codex.So I ran it through some routine tasks, and it performed well in my use cases, coding, deep writing, and so on. It also supports Windows, Codex, and Linux, with downloadable release packages that ran just fine on my Debian system. Comments URL: https://news.ycombinator.com/item?id=48858107 Points: 1 # Comments: 0",
+    "author": "noah1995",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ai4s-research/open-science",
+    "id": "news-3686"
+  },
+  {
     "title": "Why Industry 5.0 is more than AI-powered analytics",
     "summary": "Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026 Comments URL: https://news.ycombinator.com/",
     "content": "Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026 Comments URL: https://news.ycombinator.com/item?id=48856300 Points: 2 # Comments: 1",
