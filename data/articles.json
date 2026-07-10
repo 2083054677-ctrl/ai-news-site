@@ -1,5 +1,109 @@
 [
   {
+    "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
+    "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a milli",
+    "content": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
+    "id": "news-3699"
+  },
+  {
+    "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
+    "summary": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant disinflationary force,\" but Andreessen's ",
+    "content": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant disinflationary force,\" but Andreessen's firm Andreessen Horowitz is heavily invested in AI companies, raising conflict-of-interest questions. The article The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
+    "id": "news-3698"
+  },
+  {
+    "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
+    "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sideb",
+    "content": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar. Atlas joins a growing list of scrapped OpenAI products. The article OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
+    "id": "news-3697"
+  },
+  {
+    "title": "The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery",
+    "summary": "Article URL: https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/ Comments URL: https://news.ycombinator.com/item?id=48859961 Points: 1 # Comme",
+    "content": "Article URL: https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/ Comments URL: https://news.ycombinator.com/item?id=48859961 Points: 1 # Comments: 0",
+    "author": "vinhnx",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/",
+    "id": "news-3696"
+  },
+  {
+    "title": "Significant OpenAI Regression On SimpleBench",
+    "summary": "Article URL: https://old.reddit.com/r/singularity/comments/1uski8w/significant_openai_regression_on_simplebench/ Comments URL: https://news.ycombinator.com/item?id=48860024 Points: 1 # Comments: 0",
+    "content": "Article URL: https://old.reddit.com/r/singularity/comments/1uski8w/significant_openai_regression_on_simplebench/ Comments URL: https://news.ycombinator.com/item?id=48860024 Points: 1 # Comments: 0",
+    "author": "optimalsolver",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/singularity/comments/1uski8w/significant_openai_regression_on_simplebench/",
+    "id": "news-3695"
+  },
+  {
+    "title": "Why Human+AI collaboration beats AI-only automation",
+    "summary": "Article URL: https://www.techradar.com/pro/why-human-ai-collaboration-beats-ai-only-automation Comments URL: https://news.ycombinator.com/item?id=48860063 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.techradar.com/pro/why-human-ai-collaboration-beats-ai-only-automation Comments URL: https://news.ycombinator.com/item?id=48860063 Points: 1 # Comments: 0",
+    "author": "ilreb",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.techradar.com/pro/why-human-ai-collaboration-beats-ai-only-automation",
+    "id": "news-3694"
+  },
+  {
+    "title": "The AI Picbreeder Experiment",
+    "summary": "Article URL: https://pub.sakana.ai/picbreeder-vlm/ Comments URL: https://news.ycombinator.com/item?id=48860083 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pub.sakana.ai/picbreeder-vlm/ Comments URL: https://news.ycombinator.com/item?id=48860083 Points: 1 # Comments: 0",
+    "author": "hardmaru",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pub.sakana.ai/picbreeder-vlm/",
+    "id": "news-3693"
+  },
+  {
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/ Comments URL: https://news.ycombinator.com/item?id=48860092 Points: ",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/ Comments URL: https://news.ycombinator.com/item?id=48860092 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "id": "news-3692"
+  },
+  {
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "summary": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "content": "",
