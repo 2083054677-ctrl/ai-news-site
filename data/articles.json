@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
+    "summary": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and o",
+    "content": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and only scaling up when needed. The article OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+    "id": "news-3707"
+  },
+  {
+    "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+    "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improveme",
+    "content": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the \"automated researcher\" is within reach. The article OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+    "id": "news-3706"
+  },
+  {
+    "title": "The Upgrade That Made My AI Agent Worse",
+    "summary": "Article URL: https://medium.com/@alanscottencinas/the-upgrade-that-made-my-ai-agent-worse-610fa6ebe2d4 Comments URL: https://news.ycombinator.com/item?id=48863701 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/@alanscottencinas/the-upgrade-that-made-my-ai-agent-worse-610fa6ebe2d4 Comments URL: https://news.ycombinator.com/item?id=48863701 Points: 1 # Comments: 0",
+    "author": "encinas88",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@alanscottencinas/the-upgrade-that-made-my-ai-agent-worse-610fa6ebe2d4",
+    "id": "news-3705"
+  },
+  {
+    "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+    "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 12 # Comments: 2",
+    "content": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 12 # Comments: 2",
+    "author": "imustachyou",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://casp.ac/reports/ai-enabled-terrorism",
+    "id": "news-3704"
+  },
+  {
+    "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
+    "summary": "Using a local LLM for coding agents is complicated, so I built a Cursor + VS Code plugin that makes it easy.It automatically profiles your machine, picks a model that works for your machine, then runs",
+    "content": "Using a local LLM for coding agents is complicated, so I built a Cursor + VS Code plugin that makes it easy.It automatically profiles your machine, picks a model that works for your machine, then runs a local server, sets up a Cloudflare Quick Tunnel and walks you through connecting it to Cursor.In the end, you work like you normally do in Cursor and just choose \"Local Motion\" as your model in the model picker dropdown. Comments URL: https://news.ycombinator.com/item?id=48863722 Points: 1 # Comm",
+    "author": "MediaSquirrel",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mattmireles/local-motion",
+    "id": "news-3703"
+  },
+  {
+    "title": "Trace: Stripe Radar for autonomous AI agents (Sybil fraud reduced by 86%)",
+    "summary": "Article URL: https://trace-api-ixv6o.ondigitalocean.app/api/portal/webhook Comments URL: https://news.ycombinator.com/item?id=48863824 Points: 2 # Comments: 0",
+    "content": "Article URL: https://trace-api-ixv6o.ondigitalocean.app/api/portal/webhook Comments URL: https://news.ycombinator.com/item?id=48863824 Points: 2 # Comments: 0",
+    "author": "nikunjkaushik20",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://trace-api-ixv6o.ondigitalocean.app/api/portal/webhook",
+    "id": "news-3702"
+  },
+  {
+    "title": "AI Gets a Cerebellum",
+    "summary": "Article URL: https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/ Comments URL: https://news.ycombinator.com/item?id=48863998 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/ Comments URL: https://news.ycombinator.com/item?id=48863998 Points: 1 # Comments: 0",
+    "author": "geox",
+    "date": "2026-07-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+    "id": "news-3701"
+  },
+  {
     "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal",
     "summary": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked Meta's acquisition. Tencent sees overlap",
     "content": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked Meta's acquisition. Tencent sees overlap with its own agent plans, including for WeChat. U.S. firm Benchmark is not expected to take part. The article Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal appeared first on The Decoder.",
