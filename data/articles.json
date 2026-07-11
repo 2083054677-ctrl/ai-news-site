@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
+    "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an un",
+    "content": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing workflows. In some cases, GPT-5.6 Sol reportedly deleted data on its own that the user had not authorized. The article OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX a",
+    "author": "Matthias Bastian",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
+    "id": "news-3730"
+  },
+  {
+    "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
+    "summary": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of 71.3 at a lower cost of $0.26 per task.",
+    "content": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of 71.3 at a lower cost of $0.26 per task. The hallucination rate dropped from 73 to 38 percent. The article Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
+    "id": "news-3729"
+  },
+  {
+    "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
+    "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels. Trained on 125,000 hours of video without a single acti",
+    "content": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels. Trained on 125,000 hours of video without a single action label, Orca matches the specialized π0.5 on five robotics tasks and could help ease the field's chronic data shortage. The article China's Orca world model matches specialized robotics systems without ever seeing a single action label appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
+    "id": "news-3728"
+  },
+  {
+    "title": "AI is compressing the startup lifecycle, not just development speed",
+    "summary": "Article URL: https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land Comments URL: https://news.ycombinator.com/item?id=48870025 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land Comments URL: https://news.ycombinator.com/item?id=48870025 Points: 1 # Comments: 0",
+    "author": "adelivet",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land",
+    "id": "news-3727"
+  },
+  {
+    "title": "Companies are scrambling to curtail soaring AI costs",
+    "summary": "Article URL: https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs Comments URL: https://news.ycombinator.com/item?id=48870035 Points: 21 # Comments: 7",
+    "content": "Article URL: https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs Comments URL: https://news.ycombinator.com/item?id=48870035 Points: 21 # Comments: 7",
+    "author": "nlpnerd",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+    "id": "news-3726"
+  },
+  {
+    "title": "Eliezer Yudkowsky: Will superintelligent AI end the world? [video]",
+    "summary": "Article URL: https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world Comments URL: https://news.ycombinator.com/item?id=48870062 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world Comments URL: https://news.ycombinator.com/item?id=48870062 Points: 1 # Comments: 0",
+    "author": "fagnerbrack",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world",
+    "id": "news-3725"
+  },
+  {
+    "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+    "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/",
+    "content": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 2 # Comments: 0",
+    "author": "pjmlp",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+    "id": "news-3724"
+  },
+  {
     "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
     "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at Ope",
     "content": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan. The lawsuit hits OpenAI right as it's building out its own hardware division, with its first product not expected to ship until 2027 at the earliest. The article Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secret",
