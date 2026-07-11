@@ -1,5 +1,70 @@
 [
   {
+    "title": "Wealthy AI workers send San Francisco house prices soaring",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c9q29j47v9ro Comments URL: https://news.ycombinator.com/item?id=48875371 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bbc.com/news/articles/c9q29j47v9ro Comments URL: https://news.ycombinator.com/item?id=48875371 Points: 2 # Comments: 0",
+    "author": "root-parent",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+    "id": "news-3752"
+  },
+  {
+    "title": "Show HN: Use GPT-5.6 and other models in Claude Code",
+    "summary": "Article URL: https://github.com/raine/claude-code-proxy Comments URL: https://news.ycombinator.com/item?id=48875375 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/raine/claude-code-proxy Comments URL: https://news.ycombinator.com/item?id=48875375 Points: 1 # Comments: 0",
+    "author": "rane",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/raine/claude-code-proxy",
+    "id": "news-3751"
+  },
+  {
+    "title": "The AI Disagreement Index: 8 models agreed on the \"best tool\" 0 of 16 times",
+    "summary": "Article URL: https://data.deepsynthesis.org/ Comments URL: https://news.ycombinator.com/item?id=48875413 Points: 1 # Comments: 0",
+    "content": "Article URL: https://data.deepsynthesis.org/ Comments URL: https://news.ycombinator.com/item?id=48875413 Points: 1 # Comments: 0",
+    "author": "brainbootdev",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://data.deepsynthesis.org/",
+    "id": "news-3750"
+  },
+  {
+    "title": "Banning AI in Law School: We've Seen This Before",
+    "summary": "Article URL: https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve Comments URL: https://news.ycombinator.com/item?id=48875466 Points: 2 # Comments: 0",
+    "content": "Article URL: https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve Comments URL: https://news.ycombinator.com/item?id=48875466 Points: 2 # Comments: 0",
+    "author": "whobre",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
+    "id": "news-3749"
+  },
+  {
+    "title": "I used to love Claude, but the latest models are slowly ruining it",
+    "summary": "Article URL: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/ Comments URL: https://news.ycombinator.com/item?id=48875494 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/ Comments URL: https://news.ycombinator.com/item?id=48875494 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
+    "id": "news-3748"
+  },
+  {
     "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
     "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's comman",
     "content": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI providers clearly isn't enough. The article Terrorist groups are using every major AI chatbot for attack planning and weapons development ap",
