@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Token Time – Screen Time, but for your AI agent tokens",
+    "summary": "Article URL: https://tokentime.bar Comments URL: https://news.ycombinator.com/item?id=48876348 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tokentime.bar Comments URL: https://news.ycombinator.com/item?id=48876348 Points: 1 # Comments: 0",
+    "author": "wzulfikar",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tokentime.bar",
+    "id": "news-3757"
+  },
+  {
+    "title": "Stop Telling Me to Ask an LLM",
+    "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 3 # Comments: 3",
+    "content": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 3 # Comments: 3",
+    "author": "theorchid",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+    "id": "news-3756"
+  },
+  {
+    "title": "ContextOps, an ESLint-like static analyzer for LLM context",
+    "summary": "Article URL: https://github.com/Abhijeet777ui/contextops Comments URL: https://news.ycombinator.com/item?id=48876485 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Abhijeet777ui/contextops Comments URL: https://news.ycombinator.com/item?id=48876485 Points: 1 # Comments: 0",
+    "author": "Abhijeet_Buag",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Abhijeet777ui/contextops",
+    "id": "news-3755"
+  },
+  {
+    "title": "AI and Job Postings: From Destruction to Creation?",
+    "summary": "Article URL: https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/ Comments URL: https://news.ycombinator.com/item?id=48876489 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/ Comments URL: https://news.ycombinator.com/item?id=48876489 Points: 2 # Comments: 0",
+    "author": "petilon",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
+    "id": "news-3754"
+  },
+  {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 1 # Comments: 0",
+    "author": "tionis",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.iroh.computer/blog/mesh-llm",
+    "id": "news-3753"
+  },
+  {
     "title": "Wealthy AI workers send San Francisco house prices soaring",
     "summary": "Article URL: https://www.bbc.com/news/articles/c9q29j47v9ro Comments URL: https://news.ycombinator.com/item?id=48875371 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.bbc.com/news/articles/c9q29j47v9ro Comments URL: https://news.ycombinator.com/item?id=48875371 Points: 2 # Comments: 0",
