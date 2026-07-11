@@ -1,5 +1,96 @@
 [
   {
+    "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+    "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's comman",
+    "content": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI providers clearly isn't enough. The article Terrorist groups are using every major AI chatbot for attack planning and weapons development ap",
+    "author": "Matthias Bastian",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+    "id": "news-3747"
+  },
+  {
+    "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+    "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematic",
+    "content": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elementary but criticizes the lack of citations for known prior work. The bigger question remains: Does AI just recombine existing knowledge, or does it create something new? The article OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math pro",
+    "author": "Matthias Bastian",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+    "id": "news-3746"
+  },
+  {
+    "title": "AI 2040 and the Cult of Intelligence",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 59 # Comments: 18",
+    "content": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 59 # Comments: 18",
+    "author": "rvz",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+    "id": "news-3745"
+  },
+  {
+    "title": "Safe from AI: which jobs will help you thrive in the future?",
+    "summary": "Article URL: https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law Comments URL: https://news.ycombinator.com/item?id=48874216 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law Comments URL: https://news.ycombinator.com/item?id=48874216 Points: 1 # Comments: 0",
+    "author": "hackernj",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
+    "id": "news-3744"
+  },
+  {
+    "title": "Coder – Delegate the coding to coder tasks powered by codex/Claude engines",
+    "summary": "Been really loving this flow of having Claude Code spin up Codex agents for individual tasks. It keeps the context super clean while spreading the workload across both Claude and Codex subscriptions.S",
+    "content": "Been really loving this flow of having Claude Code spin up Codex agents for individual tasks. It keeps the context super clean while spreading the workload across both Claude and Codex subscriptions.So created this common CLI and the relevant skills, so Claude Code, Codex/ChatGPT (hosts) can delegate tasks to models (engines) powered by the claude cli or codex cli or both!Check it out and let me know what you think:https://github.com/muzam1l/coder Comments URL: https://news.ycombinator.com/item?",
+    "author": "muzam",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48874236",
+    "id": "news-3743"
+  },
+  {
+    "title": "Ask HN: Has single-task focus become outdated in the AI era?",
+    "summary": "I’ve always found that deep focusing on one task at a time was the only way to get things done at work with good quality and at an acceptable pace, and I have a real hard time multitasking (even with ",
+    "content": "I’ve always found that deep focusing on one task at a time was the only way to get things done at work with good quality and at an acceptable pace, and I have a real hard time multitasking (even with AI) because of context switching and getting distracted or overwhelmed.But with AI making parallel work easier (in theory), is single-task focus now a disadvantage? Are effective engineers always running several threads at once, or is deep focus still the best way to get things done? Comments URL: h",
+    "author": "yura",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48874344",
+    "id": "news-3742"
+  },
+  {
+    "title": "AI rebrands fail to deliver a lasting share price boost",
+    "summary": "Article URL: https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b Comments URL: https://news.ycombinator.com/item?id=48874352 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b Comments URL: https://news.ycombinator.com/item?id=48874352 Points: 3 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
+    "id": "news-3741"
+  },
+  {
     "title": "We Tested $200 GPT-5.6 Sol on PhD Level Math [video]",
     "summary": "Article URL: https://www.youtube.com/watch?v=SkXbTrpTD7E Comments URL: https://news.ycombinator.com/item?id=48873018 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.youtube.com/watch?v=SkXbTrpTD7E Comments URL: https://news.ycombinator.com/item?id=48873018 Points: 1 # Comments: 0",
