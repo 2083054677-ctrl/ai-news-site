@@ -1,5 +1,70 @@
 [
   {
+    "title": "AgentKindergarten – daycare for your AI coding agents",
+    "summary": "Article URL: https://github.com/rokrak1/agentkindergarten Comments URL: https://news.ycombinator.com/item?id=48870547 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/rokrak1/agentkindergarten Comments URL: https://news.ycombinator.com/item?id=48870547 Points: 2 # Comments: 0",
+    "author": "rokrak",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rokrak1/agentkindergarten",
+    "id": "news-3735"
+  },
+  {
+    "title": "Nobel laureate Omar Yaghi joins Tsinghua to lead AI materials lab",
+    "summary": "Article URL: https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua Comments URL: https://news.ycombinator.com/item?id=48870589 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua Comments URL: https://news.ycombinator.com/item?id=48870589 Points: 2 # Comments: 0",
+    "author": "signa11",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua",
+    "id": "news-3734"
+  },
+  {
+    "title": "Show HN: Code Airlock: Run Claude Code and Codex in Disposable MicroVMs",
+    "summary": "Article URL: https://github.com/Trivo25/code-airlock Comments URL: https://news.ycombinator.com/item?id=48870603 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/Trivo25/code-airlock Comments URL: https://news.ycombinator.com/item?id=48870603 Points: 2 # Comments: 0",
+    "author": "zkTrivo",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Trivo25/code-airlock",
+    "id": "news-3733"
+  },
+  {
+    "title": "Show HN: AI Agent Audit for Free",
+    "summary": "Article URL: https://github.com/sinewaveai/agent-security-scanner-mcp Comments URL: https://news.ycombinator.com/item?id=48870646 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/sinewaveai/agent-security-scanner-mcp Comments URL: https://news.ycombinator.com/item?id=48870646 Points: 1 # Comments: 0",
+    "author": "dchitimalla1",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sinewaveai/agent-security-scanner-mcp",
+    "id": "news-3732"
+  },
+  {
+    "title": "Show HN: Colyap – AI friend you can call and text",
+    "summary": "call it, text it. connect your apps. go crazy. it's got long running tasks. it remembers everything about you. journal your life. it tries to understand what you want. no registration needed. BYOK. it",
+    "content": "call it, text it. connect your apps. go crazy. it's got long running tasks. it remembers everything about you. journal your life. it tries to understand what you want. no registration needed. BYOK. it gets better with time. go yap!handled 20,000+ minutes of conversations and 10,000+ texts a day. built to scale with you. Comments URL: https://news.ycombinator.com/item?id=48870794 Points: 2 # Comments: 1",
+    "author": "piyussh",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.colyap.com/",
+    "id": "news-3731"
+  },
+  {
     "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
     "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an un",
     "content": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing workflows. In some cases, GPT-5.6 Sol reportedly deleted data on its own that the user had not authorized. The article OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX a",
