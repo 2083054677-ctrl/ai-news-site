@@ -1,5 +1,70 @@
 [
   {
+    "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+    "summary": "Article URL: https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/ Comments URL: https://news.ycombinator.com/item?id=48867261 Points: 6 # Comments: ",
+    "content": "Article URL: https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/ Comments URL: https://news.ycombinator.com/item?id=48867261 Points: 6 # Comments: 0",
+    "author": "eigenBasis",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+    "id": "news-3712"
+  },
+  {
+    "title": "Show HN: Schedule tasks for your AI agents from Google Calendar",
+    "summary": "Article URL: https://agentcaly.com/ Comments URL: https://news.ycombinator.com/item?id=48867674 Points: 2 # Comments: 0",
+    "content": "Article URL: https://agentcaly.com/ Comments URL: https://news.ycombinator.com/item?id=48867674 Points: 2 # Comments: 0",
+    "author": "matt413",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentcaly.com/",
+    "id": "news-3711"
+  },
+  {
+    "title": "DeepSeek-AI/DeepSeek-v3.2",
+    "summary": "Article URL: https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2 Comments URL: https://news.ycombinator.com/item?id=48867720 Points: 1 # Comments: 0",
+    "content": "Article URL: https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2 Comments URL: https://news.ycombinator.com/item?id=48867720 Points: 1 # Comments: 0",
+    "author": "ASHOKGOUDK",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2",
+    "id": "news-3710"
+  },
+  {
+    "title": "OpenAI and Google sell AI models to blacklisted China groups",
+    "summary": "Article URL: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f Comments URL: https://news.ycombinator.com/item?id=48867753 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f Comments URL: https://news.ycombinator.com/item?id=48867753 Points: 2 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
+    "id": "news-3709"
+  },
+  {
+    "title": "Show HN: I made Claude explain like I'm 5, and AI fatigue disappeared",
+    "summary": "I was burning out reading AI output. So I created the ELI5 Rule, ELI5 Rule is \"explain-like-iam-five\"It's simple. Try it.https://github.com/amebahead/explain-like-iam-five-rules Comments URL: https://",
+    "content": "I was burning out reading AI output. So I created the ELI5 Rule, ELI5 Rule is \"explain-like-iam-five\"It's simple. Try it.https://github.com/amebahead/explain-like-iam-five-rules Comments URL: https://news.ycombinator.com/item?id=48867766 Points: 1 # Comments: 0",
+    "author": "amebahead",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/amebahead/explain-like-iam-five-rules",
+    "id": "news-3708"
+  },
+  {
     "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
     "summary": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and o",
     "content": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and only scaling up when needed. The article OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity appeared first on The Decoder.",
