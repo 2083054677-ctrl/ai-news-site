@@ -1,5 +1,83 @@
 [
   {
+    "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
+    "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at Ope",
+    "content": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan. The lawsuit hits OpenAI right as it's building out its own hardware division, with its first product not expected to ship until 2027 at the earliest. The article Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secret",
+    "author": "Matthias Bastian",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
+    "id": "news-3723"
+  },
+  {
+    "title": "Java local AI client and MCP orchestrator without the Python dependency hell",
+    "summary": "Article URL: https://ypipe.com/ Comments URL: https://news.ycombinator.com/item?id=48869348 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ypipe.com/ Comments URL: https://news.ycombinator.com/item?id=48869348 Points: 1 # Comments: 0",
+    "author": "ruoku",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ypipe.com/",
+    "id": "news-3722"
+  },
+  {
+    "title": "How AI is rewiring childhood",
+    "summary": "Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood Comments URL: https://news.ycombinator.com/item?id=48869574 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood Comments URL: https://news.ycombinator.com/item?id=48869574 Points: 1 # Comments: 0",
+    "author": "pretext",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+    "id": "news-3721"
+  },
+  {
+    "title": "8 Stages of AI engineering maturity: a framework for teams",
+    "summary": "Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48869595 Points: 1 # Comments: 0",
+    "content": "Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48869595 Points: 1 # Comments: 0",
+    "author": "cribwi",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://upsun.com/blog/8-stages-ai-engineering-maturity/",
+    "id": "news-3720"
+  },
+  {
+    "title": "GPT 5.6 Ultra better in Claude Code than in Codex?",
+    "summary": "Article URL: https://twitter.com/theo/status/2075776733626892542 Comments URL: https://news.ycombinator.com/item?id=48869610 Points: 2 # Comments: 1",
+    "content": "Article URL: https://twitter.com/theo/status/2075776733626892542 Comments URL: https://news.ycombinator.com/item?id=48869610 Points: 2 # Comments: 1",
+    "author": "rstagi",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/theo/status/2075776733626892542",
+    "id": "news-3719"
+  },
+  {
+    "title": "Competitive Programming in the Era of AI",
+    "summary": "Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/ Comments URL: https://news.ycombinator.com/item?id=48869623 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/ Comments URL: https://news.ycombinator.com/item?id=48869623 Points: 1 # Comments: 0",
+    "author": "m-novikov",
+    "date": "2026-07-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/",
+    "id": "news-3718"
+  },
+  {
     "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "summary": "Article URL: https://www.bbc.com/news/articles/cy8w379e091o Comments URL: https://news.ycombinator.com/item?id=48868394 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.bbc.com/news/articles/cy8w379e091o Comments URL: https://news.ycombinator.com/item?id=48868394 Points: 2 # Comments: 0",
