@@ -1,5 +1,122 @@
 [
   {
+    "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory",
+    "summary": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ba",
+    "content": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ballooning past 500,000. The agent wins 6 out of 10 games, while competing agents don't win any. The article AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/",
+    "id": "news-3771"
+  },
+  {
+    "title": "Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI",
+    "summary": "An economics professor at Brown University suspects most of his 86 students used AI to cheat on a take-home exam that averaged 96 percent. When he made the final an in-person test, 18 students dropped",
+    "content": "An economics professor at Brown University suspects most of his 86 students used AI to cheat on a take-home exam that averaged 96 percent. When he made the final an in-person test, 18 students dropped the course, nine didn't show up, and the average fell to 48.6 percent. Two large studies from China and UC Berkeley back up his case: where students lean on AI for homework, their proctored exam scores tank. The article Grades dropped from 96 to 48 percent when a Brown professor made students take ",
+    "author": "Matthias Bastian",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/",
+    "id": "news-3770"
+  },
+  {
+    "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+    "summary": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dari",
+    "content": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dario Amodei is walking back similar claims, too. But studies so far back neither the old doomsday predictions nor optimism. The article OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/",
+    "id": "news-3769"
+  },
+  {
+    "title": "Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says",
+    "summary": "Anthropic analyzed 1.2 million Claude Cowork sessions from more than 600,000 organizations. About half of all usage goes toward business processes and text creation, what Anthropic calls \"the work aro",
+    "content": "Anthropic analyzed 1.2 million Claude Cowork sessions from more than 600,000 organizations. About half of all usage goes toward business processes and text creation, what Anthropic calls \"the work around the work.\" That means tasks like compiling status reports, building onboarding checklists, or putting together slide decks. Software development barely shows up in Cowork because developers stick with Claude Code for that. The article Claude Cowork's biggest use case is the mundane office work n",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/",
+    "id": "news-3768"
+  },
+  {
+    "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning?",
+    "summary": "Article URL: https://discuss.huggingface.co/t/finetuning-a-reasoning-llm-with-supervised-or-reinforcement-learning/176449 Comments URL: https://news.ycombinator.com/item?id=48879403 Points: 2 # Commen",
+    "content": "Article URL: https://discuss.huggingface.co/t/finetuning-a-reasoning-llm-with-supervised-or-reinforcement-learning/176449 Comments URL: https://news.ycombinator.com/item?id=48879403 Points: 2 # Comments: 0",
+    "author": "verdverm",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://discuss.huggingface.co/t/finetuning-a-reasoning-llm-with-supervised-or-reinforcement-learning/176449",
+    "id": "news-3767"
+  },
+  {
+    "title": "Show HN: DejaView – Terminal dashboard for all your Claude Code sessions",
+    "summary": "Hi HN!This is my first ever open-source project. It's nothing fancy, but it scratches an itch: claude --resume only works if you remember which directory the session was in.dejaview is a TUI that read",
+    "content": "Hi HN!This is my first ever open-source project. It's nothing fancy, but it scratches an itch: claude --resume only works if you remember which directory the session was in.dejaview is a TUI that reads the transcripts in ~/.claude/projects/, groups sessions by project, and lets you jump back into any of them with Enter. Read-only, local-only, no config. Built with Textual. Try it: uvx dejaviewFeedback is very welcome! Comments URL: https://news.ycombinator.com/item?id=48879501 Points: 1 # Commen",
+    "author": "thisbrt",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dotbrt/dejaview",
+    "id": "news-3766"
+  },
+  {
+    "title": "The Hard-Line Activists Ramping Up for the War with AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f Comments URL: https://news.ycombinator.com/item?id=48879571 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f Comments URL: https://news.ycombinator.com/item?id=48879571 Points: 2 # Comments: 0",
+    "author": "thm",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f",
+    "id": "news-3765"
+  },
+  {
+    "title": "Meta u-turns on AI feature amid privacy backlash",
+    "summary": "Article URL: https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/ Comments URL: https://news.ycombinator.com/item?id=48879675 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/ Comments URL: https://news.ycombinator.com/item?id=48879675 Points: 1 # Comments: 0",
+    "author": "Alien1Being",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
+    "id": "news-3764"
+  },
+  {
+    "title": "Show HN: Runeward: Sandboxing AI agents with policy gates",
+    "summary": "Article URL: https://runewardd.github.io/runeward/ Comments URL: https://news.ycombinator.com/item?id=48879713 Points: 1 # Comments: 0",
+    "content": "Article URL: https://runewardd.github.io/runeward/ Comments URL: https://news.ycombinator.com/item?id=48879713 Points: 1 # Comments: 0",
+    "author": "tha_infra_guy",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://runewardd.github.io/runeward/",
+    "id": "news-3763"
+  },
+  {
     "title": "Big Tech piles on $350B in debt to fuel AI data center race",
     "summary": "Article URL: https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race Comments URL: https://news.ycombinator.com/item?id=48878360 Points: 5 #",
     "content": "Article URL: https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race Comments URL: https://news.ycombinator.com/item?id=48878360 Points: 5 # Comments: 0",
