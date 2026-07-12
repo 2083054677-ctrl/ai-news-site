@@ -1,5 +1,70 @@
 [
   {
+    "title": "GPT-5.6-sol without hitting limits",
+    "summary": "Article URL: https://twitter.com/theo/status/2076078865060151465 Comments URL: https://news.ycombinator.com/item?id=48881416 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/theo/status/2076078865060151465 Comments URL: https://news.ycombinator.com/item?id=48881416 Points: 1 # Comments: 0",
+    "author": "tosh",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/theo/status/2076078865060151465",
+    "id": "news-3778"
+  },
+  {
+    "title": "AI Bot Test: Can your AI Access AND Understand This?",
+    "summary": "Article URL: https://nochan.net/test.html Comments URL: https://news.ycombinator.com/item?id=48881442 Points: 1 # Comments: 1",
+    "content": "Article URL: https://nochan.net/test.html Comments URL: https://news.ycombinator.com/item?id=48881442 Points: 1 # Comments: 1",
+    "author": "Bender",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nochan.net/test.html",
+    "id": "news-3777"
+  },
+  {
+    "title": "Show HN: Agent Legibility Analyzer see if AI shopping agents can read your store",
+    "summary": "a handbook for agent selection: how AI shopping agents pick stores and products, and how to win that choice. Comments URL: https://news.ycombinator.com/item?id=48881487 Points: 1 # Comments: 0",
+    "content": "a handbook for agent selection: how AI shopping agents pick stores and products, and how to win that choice. Comments URL: https://news.ycombinator.com/item?id=48881487 Points: 1 # Comments: 0",
+    "author": "Abdalsalaam",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentmint.net/",
+    "id": "news-3776"
+  },
+  {
+    "title": "Autoresearch, Claude and Constrained Optimization",
+    "summary": "Article URL: https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/ Comments URL: https://news.ycombinator.com/item?id=48881498 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/ Comments URL: https://news.ycombinator.com/item?id=48881498 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+    "id": "news-3775"
+  },
+  {
+    "title": "Perfectly Hitting the Wrong Target: The Story of an AI Code Review Benchmark",
+    "summary": "Article URL: https://shrsv.hexmos.com/post/perfectly-hitting-the-wrong-target Comments URL: https://news.ycombinator.com/item?id=48881554 Points: 2 # Comments: 0",
+    "content": "Article URL: https://shrsv.hexmos.com/post/perfectly-hitting-the-wrong-target Comments URL: https://news.ycombinator.com/item?id=48881554 Points: 2 # Comments: 0",
+    "author": "atomicnature",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://shrsv.hexmos.com/post/perfectly-hitting-the-wrong-target",
+    "id": "news-3774"
+  },
+  {
     "title": "Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent",
     "summary": "Meta pulled a controversial feature from its new Muse Image model after widespread criticism. The feature let users generate AI images of other people by @-mentioning their public Instagram accounts. ",
     "content": "Meta pulled a controversial feature from its new Muse Image model after widespread criticism. The feature let users generate AI images of other people by @-mentioning their public Instagram accounts. No consent needed, just a username. Meta admits \"this feature missed the mark\" and shut it down days after announcing it. The article Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent appeared first on The Decoder.",
