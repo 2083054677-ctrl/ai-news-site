@@ -1,5 +1,70 @@
 [
   {
+    "title": "Big Tech piles on $350B in debt to fuel AI data center race",
+    "summary": "Article URL: https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race Comments URL: https://news.ycombinator.com/item?id=48878360 Points: 5 #",
+    "content": "Article URL: https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race Comments URL: https://news.ycombinator.com/item?id=48878360 Points: 5 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race",
+    "id": "news-3762"
+  },
+  {
+    "title": "Built a tracker to estimate water wastage when talking to Claude",
+    "summary": "Article URL: https://github.com/piyushkhemka/sip Comments URL: https://news.ycombinator.com/item?id=48878407 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/piyushkhemka/sip Comments URL: https://news.ycombinator.com/item?id=48878407 Points: 1 # Comments: 0",
+    "author": "piyushkhemka",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/piyushkhemka/sip",
+    "id": "news-3761"
+  },
+  {
+    "title": "DeepSeek developing its own AI chip, sources say",
+    "summary": "Article URL: https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48878697 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48878697 Points: 3 # Comments: 0",
+    "author": "theanonymousone",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
+    "id": "news-3760"
+  },
+  {
+    "title": "AI found a Linux root bug that was missed for 15 years",
+    "summary": "Article URL: https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/ Comments URL: https://news.ycombinator.com/item?id=48878713 Points: 1 #",
+    "content": "Article URL: https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/ Comments URL: https://news.ycombinator.com/item?id=48878713 Points: 1 # Comments: 0",
+    "author": "crowd51",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+    "id": "news-3759"
+  },
+  {
+    "title": "Inside the secret AI war between Silicon Valley and China",
+    "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/ Comments URL: https://news.ycombinator.com/item?id=4887881",
+    "content": "Article URL: https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/ Comments URL: https://news.ycombinator.com/item?id=48878812 Points: 1 # Comments: 0",
+    "author": "breve",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/",
+    "id": "news-3758"
+  },
+  {
     "title": "Show HN: Token Time – Screen Time, but for your AI agent tokens",
     "summary": "Article URL: https://tokentime.bar Comments URL: https://news.ycombinator.com/item?id=48876348 Points: 1 # Comments: 0",
     "content": "Article URL: https://tokentime.bar Comments URL: https://news.ycombinator.com/item?id=48876348 Points: 1 # Comments: 0",
