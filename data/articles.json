@@ -1,5 +1,70 @@
 [
   {
+    "title": "We're extending Claude Fable 5 access through July 19",
+    "summary": "Article URL: https://xcancel.com/claudeai/status/2076351399999557669 Comments URL: https://news.ycombinator.com/item?id=48884900 Points: 2 # Comments: 2",
+    "content": "Article URL: https://xcancel.com/claudeai/status/2076351399999557669 Comments URL: https://news.ycombinator.com/item?id=48884900 Points: 2 # Comments: 2",
+    "author": "quantisan",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xcancel.com/claudeai/status/2076351399999557669",
+    "id": "news-3785"
+  },
+  {
+    "title": "Why recruiters can't find workers and new grads can't find jobs (it's not AI)",
+    "summary": "Article URL: https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/ Comments URL: https://news.ycombinator.com/item?id=48885095 Points: 2 # Comm",
+    "content": "Article URL: https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/ Comments URL: https://news.ycombinator.com/item?id=48885095 Points: 2 # Comments: 2",
+    "author": "rustoo",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/",
+    "id": "news-3784"
+  },
+  {
+    "title": "AI is the new Printing Press (another trite take)",
+    "summary": "Article URL: https://idan.substack.com/p/ai-is-the-new-printing-press Comments URL: https://news.ycombinator.com/item?id=48885163 Points: 1 # Comments: 0",
+    "content": "Article URL: https://idan.substack.com/p/ai-is-the-new-printing-press Comments URL: https://news.ycombinator.com/item?id=48885163 Points: 1 # Comments: 0",
+    "author": "idanb",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://idan.substack.com/p/ai-is-the-new-printing-press",
+    "id": "news-3783"
+  },
+  {
+    "title": "I trained a 113M-parameter earthquake LLM from absolute scratch",
+    "summary": "Article URL: https://github.com/jiazhe868/nanogpt-seis Comments URL: https://news.ycombinator.com/item?id=48885236 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/jiazhe868/nanogpt-seis Comments URL: https://news.ycombinator.com/item?id=48885236 Points: 2 # Comments: 0",
+    "author": "jzsfg",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/jiazhe868/nanogpt-seis",
+    "id": "news-3782"
+  },
+  {
+    "title": "You can now create and chat with an AI Mommy on Chatbrat",
+    "summary": "Article URL: https://chatbrat.ai/bratlog/chat-with-ai-mommy-free Comments URL: https://news.ycombinator.com/item?id=48885501 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chatbrat.ai/bratlog/chat-with-ai-mommy-free Comments URL: https://news.ycombinator.com/item?id=48885501 Points: 1 # Comments: 0",
+    "author": "henrypissler",
+    "date": "2026-07-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chatbrat.ai/bratlog/chat-with-ai-mommy-free",
+    "id": "news-3781"
+  },
+  {
     "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
     "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers",
     "content": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval. The article Claude Code now has a built-in browser that lets the AI read, click, and type on external websites appeared first on The Decoder.",
