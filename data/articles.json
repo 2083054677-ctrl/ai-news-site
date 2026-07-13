@@ -1,5 +1,70 @@
 [
   {
+    "title": "Open source on-device AI apps (and counting), no cloud, works offline",
+    "summary": "Article URL: https://github.com/zetic-ai/awesome-on-device-ai-apps Comments URL: https://news.ycombinator.com/item?id=48898478 Points: 3 # Comments: 2",
+    "content": "Article URL: https://github.com/zetic-ai/awesome-on-device-ai-apps Comments URL: https://news.ycombinator.com/item?id=48898478 Points: 3 # Comments: 2",
+    "author": "rishabh121108",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zetic-ai/awesome-on-device-ai-apps",
+    "id": "news-3811"
+  },
+  {
+    "title": "Open-source AI battle arena, plug your coding agent in and it fights bots",
+    "summary": "Article URL: https://arena.angel-serv.com/ Comments URL: https://news.ycombinator.com/item?id=48898483 Points: 2 # Comments: 0",
+    "content": "Article URL: https://arena.angel-serv.com/ Comments URL: https://news.ycombinator.com/item?id=48898483 Points: 2 # Comments: 0",
+    "author": "ademczuk",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arena.angel-serv.com/",
+    "id": "news-3810"
+  },
+  {
+    "title": "Using Subagents to Improve Claude Code Results: A Step-by-Step Guide",
+    "summary": "Article URL: https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/ Comments URL: https://news.ycombinator.com/item?id=48898604 Points: 1 # Comments: 0",
+    "content": "Article URL: https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/ Comments URL: https://news.ycombinator.com/item?id=48898604 Points: 1 # Comments: 0",
+    "author": "whack",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/",
+    "id": "news-3809"
+  },
+  {
+    "title": "It's not AI slop you hate",
+    "summary": "Article URL: https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate Comments URL: https://news.ycombinator.com/item?id=48898608 Points: 1 # Comments: 1",
+    "content": "Article URL: https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate Comments URL: https://news.ycombinator.com/item?id=48898608 Points: 1 # Comments: 1",
+    "author": "sikakkar",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate",
+    "id": "news-3808"
+  },
+  {
+    "title": "Standards that are code [MIT]: deterministic checks instead of LLM inference",
+    "summary": "Article URL: https://verial.xyz/systems/standards-that-are-code Comments URL: https://news.ycombinator.com/item?id=48898659 Points: 1 # Comments: 0",
+    "content": "Article URL: https://verial.xyz/systems/standards-that-are-code Comments URL: https://news.ycombinator.com/item?id=48898659 Points: 1 # Comments: 0",
+    "author": "verial-lab",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://verial.xyz/systems/standards-that-are-code",
+    "id": "news-3807"
+  },
+  {
     "title": "Economists say 'we must act now' on AI's economic impact and job displacement",
     "summary": "Article URL: https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee Comments URL: https://news.ycombinator.com/item?id=48896842 Points: 5 # Comments: 4",
     "content": "Article URL: https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee Comments URL: https://news.ycombinator.com/item?id=48896842 Points: 5 # Comments: 4",
