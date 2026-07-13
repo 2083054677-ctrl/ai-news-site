@@ -1,5 +1,57 @@
 [
   {
+    "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+    "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, al",
+    "content": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control their own learning infrastructure. Microsoft, of course, sells exactly that. The article Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data appeared first ",
+    "author": "Matthias Bastian",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
+    "id": "news-3801"
+  },
+  {
+    "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
+    "summary": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI tr",
+    "content": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI transformation could surpass the Industrial Revolution but unfold in a fraction of the time. The paper doesn't propose concrete measures, and studies so far have found no significant AI-driven effects on the labor market. The article Nobel laureates and AI leaders warn the window to prepare for AI's e",
+    "author": "Matthias Bastian",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/",
+    "id": "news-3800"
+  },
+  {
+    "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
+    "summary": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and ineffic",
+    "content": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and inefficient\" and wants to build AI agents that learn continuously from their environment. The article Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/",
+    "id": "news-3799"
+  },
+  {
+    "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+    "summary": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice ",
+    "content": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice is simple: describe the result you want, not the steps to get there. It's the first time OpenAI covers both Chat and Codex in a single framework. The article OpenAI's new prompting guide tells users to stop overthinking and start with the result appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/",
+    "id": "news-3798"
+  },
+  {
     "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
     "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture",
     "content": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks. The article German AI consortium",
