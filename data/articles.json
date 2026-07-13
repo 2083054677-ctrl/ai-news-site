@@ -1,5 +1,70 @@
 [
   {
+    "title": "Economists say 'we must act now' on AI's economic impact and job displacement",
+    "summary": "Article URL: https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee Comments URL: https://news.ycombinator.com/item?id=48896842 Points: 5 # Comments: 4",
+    "content": "Article URL: https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee Comments URL: https://news.ycombinator.com/item?id=48896842 Points: 5 # Comments: 4",
+    "author": "geox",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee",
+    "id": "news-3806"
+  },
+  {
+    "title": "A brief history of distillation in AI",
+    "summary": "Article URL: https://twitter.com/SergioPaniego/status/2073066275819991472 Comments URL: https://news.ycombinator.com/item?id=48897061 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/SergioPaniego/status/2073066275819991472 Comments URL: https://news.ycombinator.com/item?id=48897061 Points: 1 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/SergioPaniego/status/2073066275819991472",
+    "id": "news-3805"
+  },
+  {
+    "title": "The Equivalency Kernel: A 12-axiom framework for human-AI symbiosis",
+    "summary": "Article URL: https://github.com/jamesberge-coder/equivalency-kernel Comments URL: https://news.ycombinator.com/item?id=48897255 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/jamesberge-coder/equivalency-kernel Comments URL: https://news.ycombinator.com/item?id=48897255 Points: 1 # Comments: 0",
+    "author": "jamesberge",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/jamesberge-coder/equivalency-kernel",
+    "id": "news-3804"
+  },
+  {
+    "title": "What would it take for AI to discover penicillin?",
+    "summary": "Article URL: https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover Comments URL: https://news.ycombinator.com/item?id=48897332 Points: 1 # Comments: 0",
+    "content": "Article URL: https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover Comments URL: https://news.ycombinator.com/item?id=48897332 Points: 1 # Comments: 0",
+    "author": "the_tyger",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover",
+    "id": "news-3803"
+  },
+  {
+    "title": "Amid AI IP Theft Concerns, Microsoft CEO Floats New AI Patent Concept",
+    "summary": "Article URL: https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept Comments URL: https://news.ycombinator.com/item?id=48897378 Points: 1 # Comments: 0",
+    "content": "Article URL: https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept Comments URL: https://news.ycombinator.com/item?id=48897378 Points: 1 # Comments: 0",
+    "author": "PaulKeeble",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept",
+    "id": "news-3802"
+  },
+  {
     "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
     "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, al",
     "content": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control their own learning infrastructure. Microsoft, of course, sells exactly that. The article Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data appeared first ",
