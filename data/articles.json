@@ -1,5 +1,31 @@
 [
   {
+    "title": "Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war",
+    "summary": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today. Subscribers can use up to 50 percent of their weekly limit f",
+    "content": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today. Subscribers can use up to 50 percent of their weekly limit for Fable 5. The extension is likely a response to pricing pressure from OpenAI's GPT-5.6 Sol and cheaper competing models. The article Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/",
+    "id": "news-3791"
+  },
+  {
+    "title": "Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer",
+    "summary": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 healt",
+    "content": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 health and behavioral tasks. SensorFM could eventually power Google's AI health coach, but the company hasn't announced any integration plans yet. The article Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer appeared first on The Decoder.",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sensorfm/",
+    "id": "news-3790"
+  },
+  {
     "title": "Same agent tasks, 76% fewer LLM calls – we moved semantic cache inside the graph",
     "summary": "Article URL: https://github.com/insightitsGit/ChorusGraph/ Comments URL: https://news.ycombinator.com/item?id=48888185 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/insightitsGit/ChorusGraph/ Comments URL: https://news.ycombinator.com/item?id=48888185 Points: 2 # Comments: 0",
