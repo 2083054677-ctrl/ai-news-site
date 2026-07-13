@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude is just Mr. Meeseeks",
+    "summary": "Article URL: https://github.com/thephw/claude-meseeks Comments URL: https://news.ycombinator.com/item?id=48899529 Points: 4 # Comments: 0",
+    "content": "Article URL: https://github.com/thephw/claude-meseeks Comments URL: https://news.ycombinator.com/item?id=48899529 Points: 4 # Comments: 0",
+    "author": "patrickwiseman",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/thephw/claude-meseeks",
+    "id": "news-3816"
+  },
+  {
+    "title": "Karios AI Agent Carzy",
+    "summary": "Article URL: https://github.com/adnqcr7-code/kairosv2 Comments URL: https://news.ycombinator.com/item?id=48899535 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/adnqcr7-code/kairosv2 Comments URL: https://news.ycombinator.com/item?id=48899535 Points: 2 # Comments: 0",
+    "author": "kairos_agent",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/adnqcr7-code/kairosv2",
+    "id": "news-3815"
+  },
+  {
+    "title": "Ask HN: AI Agent and harness containerization/security recommendations",
+    "summary": "Hello HN crew -I am seeing the tendency for people to allow AI agents to access local project & user folders, and beyond (operating system files).I thought to ask the question: How can we best use AI ",
+    "content": "Hello HN crew -I am seeing the tendency for people to allow AI agents to access local project & user folders, and beyond (operating system files).I thought to ask the question: How can we best use AI tools safely - where the workflow often runs local system commands and network commands - to protect the integrity of our systems & data AND be easy enough to use productively?Comment structure idea:Operating system / Agent harness / Agent / Security strategy & tool stack / WorkflowTo give some exam",
+    "author": "dv35z",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48899674",
+    "id": "news-3814"
+  },
+  {
+    "title": "Forgein – portable context layer for AI tools, native MCP server (MIT CLI)",
+    "summary": "Article URL: https://app.forgein.ai Comments URL: https://news.ycombinator.com/item?id=48899834 Points: 2 # Comments: 0",
+    "content": "Article URL: https://app.forgein.ai Comments URL: https://news.ycombinator.com/item?id=48899834 Points: 2 # Comments: 0",
+    "author": "shadowmodder",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://app.forgein.ai",
+    "id": "news-3813"
+  },
+  {
+    "title": "ORA – AI coding agent that blocks its own commits if security scan fails",
+    "summary": "Article URL: https://auremcto.com/ Comments URL: https://news.ycombinator.com/item?id=48899930 Points: 1 # Comments: 0",
+    "content": "Article URL: https://auremcto.com/ Comments URL: https://news.ycombinator.com/item?id=48899930 Points: 1 # Comments: 0",
+    "author": "tjsandhu",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://auremcto.com/",
+    "id": "news-3812"
+  },
+  {
     "title": "Open source on-device AI apps (and counting), no cloud, works offline",
     "summary": "Article URL: https://github.com/zetic-ai/awesome-on-device-ai-apps Comments URL: https://news.ycombinator.com/item?id=48898478 Points: 3 # Comments: 2",
     "content": "Article URL: https://github.com/zetic-ai/awesome-on-device-ai-apps Comments URL: https://news.ycombinator.com/item?id=48898478 Points: 3 # Comments: 2",
