@@ -1,5 +1,57 @@
 [
   {
+    "title": "Same agent tasks, 76% fewer LLM calls – we moved semantic cache inside the graph",
+    "summary": "Article URL: https://github.com/insightitsGit/ChorusGraph/ Comments URL: https://news.ycombinator.com/item?id=48888185 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/insightitsGit/ChorusGraph/ Comments URL: https://news.ycombinator.com/item?id=48888185 Points: 2 # Comments: 0",
+    "author": "insightits",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/insightitsGit/ChorusGraph/",
+    "id": "news-3789"
+  },
+  {
+    "title": "Giving \"AI slop\" as feedback says as much about the commenter as the creator",
+    "summary": "Article URL: https://thetruthasiseeitnow.com/using-ai-slop-as-feedback-tells-as-much-about-the-commenter-as-the-creator/ Comments URL: https://news.ycombinator.com/item?id=48888501 Points: 2 # Comment",
+    "content": "Article URL: https://thetruthasiseeitnow.com/using-ai-slop-as-feedback-tells-as-much-about-the-commenter-as-the-creator/ Comments URL: https://news.ycombinator.com/item?id=48888501 Points: 2 # Comments: 0",
+    "author": "cinooo",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thetruthasiseeitnow.com/using-ai-slop-as-feedback-tells-as-much-about-the-commenter-as-the-creator/",
+    "id": "news-3788"
+  },
+  {
+    "title": "The Winners of the AI Era",
+    "summary": "Article URL: https://calcrecipe.com/en/workshop/7 Comments URL: https://news.ycombinator.com/item?id=48888605 Points: 1 # Comments: 0",
+    "content": "Article URL: https://calcrecipe.com/en/workshop/7 Comments URL: https://news.ycombinator.com/item?id=48888605 Points: 1 # Comments: 0",
+    "author": "wsdn",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://calcrecipe.com/en/workshop/7",
+    "id": "news-3787"
+  },
+  {
+    "title": "Dunning-Kruger After AI: The Gap That No Longer Closes",
+    "summary": "Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html Comments URL: https://news.ycombinator.com/item?id=48888772 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html Comments URL: https://news.ycombinator.com/item?id=48888772 Points: 1 # Comments: 0",
+    "author": "thierryzoller",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html",
+    "id": "news-3786"
+  },
+  {
     "title": "We're extending Claude Fable 5 access through July 19",
     "summary": "Article URL: https://xcancel.com/claudeai/status/2076351399999557669 Comments URL: https://news.ycombinator.com/item?id=48884900 Points: 2 # Comments: 2",
     "content": "Article URL: https://xcancel.com/claudeai/status/2076351399999557669 Comments URL: https://news.ycombinator.com/item?id=48884900 Points: 2 # Comments: 2",
