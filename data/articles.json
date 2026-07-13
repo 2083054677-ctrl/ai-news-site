@@ -1,5 +1,83 @@
 [
   {
+    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+    "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture",
+    "content": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks. The article German AI consortium",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "id": "news-3797"
+  },
+  {
+    "title": "Show HN: Crowdmind – open-source tool to test ideas against AI personas",
+    "summary": "Article URL: https://github.com/Brokenwatch24/crowdmind Comments URL: https://news.ycombinator.com/item?id=48892876 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Brokenwatch24/crowdmind Comments URL: https://news.ycombinator.com/item?id=48892876 Points: 1 # Comments: 0",
+    "author": "jjaramillor",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Brokenwatch24/crowdmind",
+    "id": "news-3796"
+  },
+  {
+    "title": "A litmus test for the utility of AI features",
+    "summary": "Article URL: https://beyondprobable.com/posts/litmus-test-ai-features.html Comments URL: https://news.ycombinator.com/item?id=48892880 Points: 1 # Comments: 0",
+    "content": "Article URL: https://beyondprobable.com/posts/litmus-test-ai-features.html Comments URL: https://news.ycombinator.com/item?id=48892880 Points: 1 # Comments: 0",
+    "author": "haritha-j",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://beyondprobable.com/posts/litmus-test-ai-features.html",
+    "id": "news-3795"
+  },
+  {
+    "title": "AI as Search Engine and Printing Press Aid: Local Education Data Munging",
+    "summary": "Article URL: https://middlesexgazette.org/news/vermonts-yardstick-moved/ Comments URL: https://news.ycombinator.com/item?id=48892925 Points: 1 # Comments: 1",
+    "content": "Article URL: https://middlesexgazette.org/news/vermonts-yardstick-moved/ Comments URL: https://news.ycombinator.com/item?id=48892925 Points: 1 # Comments: 1",
+    "author": "mrkiouak",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://middlesexgazette.org/news/vermonts-yardstick-moved/",
+    "id": "news-3794"
+  },
+  {
+    "title": "Show HN: Build Rules for Claude Code, Cursor, and Codex",
+    "summary": "Hi HN, Fernando and I built Kastra. Kastra intercepts AI agent tool calls and evaluates them against deterministic policies before they execute. We built this product to control pre- and post-inferenc",
+    "content": "Hi HN, Fernando and I built Kastra. Kastra intercepts AI agent tool calls and evaluates them against deterministic policies before they execute. We built this product to control pre- and post-inference workloads. This is aimed at developers using coding agents like Claude Code, Codex, Cursor, and OpenClaw.Kastra pushes an allow, hold, and deny decision before the action runs. You can build these policies in plain English from the web app. The interception engine evaluates the tools, targets, and",
+    "author": "carlosjimenez1",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kastra.ai/",
+    "id": "news-3793"
+  },
+  {
+    "title": "Evaluating the GPT-5.6 Family",
+    "summary": "Article URL: https://www.braintrust.dev/blog/gpt56-decision-map Comments URL: https://news.ycombinator.com/item?id=48892988 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.braintrust.dev/blog/gpt56-decision-map Comments URL: https://news.ycombinator.com/item?id=48892988 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-07-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.braintrust.dev/blog/gpt56-decision-map",
+    "id": "news-3792"
+  },
+  {
     "title": "Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war",
     "summary": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today. Subscribers can use up to 50 percent of their weekly limit f",
     "content": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today. Subscribers can use up to 50 percent of their weekly limit for Fable 5. The extension is likely a response to pricing pressure from OpenAI's GPT-5.6 Sol and cheaper competing models. The article Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war appeared first on The Decoder.",
