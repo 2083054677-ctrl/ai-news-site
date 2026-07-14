@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: BYO AI free notetaking with optional screen reading for OpenClaw/hermes",
+    "summary": "I've built fully on-device (macOS) meeting transcription/summaries/action-items app. It uses parakeet and gemma 4 or OpenClaw or Hermes Agent to drive main functionalities. It's free, requires no acco",
+    "content": "I've built fully on-device (macOS) meeting transcription/summaries/action-items app. It uses parakeet and gemma 4 or OpenClaw or Hermes Agent to drive main functionalities. It's free, requires no account or email, and is source available. You can also natively connect your own local/VPS OpenClaw or Hermes to use them, their memory and context, as a notetaker.About me: my name is Piotr. I'm having plenty of calls as a freelancing programmer, and have interest in audio domain, so it was natural fo",
+    "author": "piotraleksander",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stagewhisper.io/lite",
+    "id": "news-3835"
+  },
+  {
+    "title": "Merged at the Speed of AI",
+    "summary": "Article URL: https://chaosguru.substack.com/p/merged-at-the-speed-of-ai Comments URL: https://news.ycombinator.com/item?id=48904892 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chaosguru.substack.com/p/merged-at-the-speed-of-ai Comments URL: https://news.ycombinator.com/item?id=48904892 Points: 1 # Comments: 0",
+    "author": "taubek",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chaosguru.substack.com/p/merged-at-the-speed-of-ai",
+    "id": "news-3834"
+  },
+  {
+    "title": "X just gave us an interface that AI agents can use. I pointed it at my own posts",
+    "summary": "Article URL: https://lemire.me/blog/2026/07/11/x-just-gave-us-an-interface-that-ai-agents-can-use-i-pointed-it-at-my-own-posts/ Comments URL: https://news.ycombinator.com/item?id=48904900 Points: 1 # ",
+    "content": "Article URL: https://lemire.me/blog/2026/07/11/x-just-gave-us-an-interface-that-ai-agents-can-use-i-pointed-it-at-my-own-posts/ Comments URL: https://news.ycombinator.com/item?id=48904900 Points: 1 # Comments: 0",
+    "author": "ibobev",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lemire.me/blog/2026/07/11/x-just-gave-us-an-interface-that-ai-agents-can-use-i-pointed-it-at-my-own-posts/",
+    "id": "news-3833"
+  },
+  {
+    "title": "A Framework for Frontier AI and the Dawning of a New Age",
+    "summary": "Article URL: https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age Comments URL: https://news.ycombinator.com/item?id=48904952 Points: 1 # Comments: 0",
+    "content": "Article URL: https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age Comments URL: https://news.ycombinator.com/item?id=48904952 Points: 1 # Comments: 0",
+    "author": "nbraga",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
+    "id": "news-3832"
+  },
+  {
+    "title": "Real AI for video games (Iconic Games)",
+    "summary": "Article URL: https://iconicgames.io/blog/pressure-point/ Comments URL: https://news.ycombinator.com/item?id=48904982 Points: 1 # Comments: 0",
+    "content": "Article URL: https://iconicgames.io/blog/pressure-point/ Comments URL: https://news.ycombinator.com/item?id=48904982 Points: 1 # Comments: 0",
+    "author": "giltho",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://iconicgames.io/blog/pressure-point/",
+    "id": "news-3831"
+  },
+  {
     "title": "Show HN: Coura AI – AI clothes changer for realistic outfit photos",
     "summary": "Article URL: https://coura.ai Comments URL: https://news.ycombinator.com/item?id=48904069 Points: 1 # Comments: 0",
     "content": "Article URL: https://coura.ai Comments URL: https://news.ycombinator.com/item?id=48904069 Points: 1 # Comments: 0",
