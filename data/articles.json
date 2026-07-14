@@ -1,5 +1,83 @@
 [
   {
+    "title": "Google Search now generates AI images when it can't find what you're looking for on the web",
+    "summary": "Google is adding AI image generation to Search's AI Overviews. When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query. The rollout starts in the",
+    "content": "Google is adding AI image generation to Search's AI Overviews. When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query. The rollout starts in the coming weeks. The article Google Search now generates AI images when it can't find what you're looking for on the web appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/",
+    "id": "news-3855"
+  },
+  {
+    "title": "DeepSeek needs more cash just weeks after closing its first $7 billion round",
+    "summary": "DeepSeek is already raising again. The Chinese AI lab just closed its first funding round and needs capital for its own data centers and chips to keep its aggressive pricing strategy going. The articl",
+    "content": "DeepSeek is already raising again. The Chinese AI lab just closed its first funding round and needs capital for its own data centers and chips to keep its aggressive pricing strategy going. The article DeepSeek needs more cash just weeks after closing its first $7 billion round appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/",
+    "id": "news-3854"
+  },
+  {
+    "title": "Agentmetry, catch your AI coding agent reading –/.ssh and phoning home",
+    "summary": "Article URL: https://github.com/blitzcrieg1/agentmetry Comments URL: https://news.ycombinator.com/item?id=48909516 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/blitzcrieg1/agentmetry Comments URL: https://news.ycombinator.com/item?id=48909516 Points: 1 # Comments: 0",
+    "author": "blitzcrieg1",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/blitzcrieg1/agentmetry",
+    "id": "news-3853"
+  },
+  {
+    "title": "Agent Shell – persistent AI dev boxes from shell host running since 2009",
+    "summary": "Article URL: https://www.xshellz.com/ Comments URL: https://news.ycombinator.com/item?id=48909664 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.xshellz.com/ Comments URL: https://news.ycombinator.com/item?id=48909664 Points: 1 # Comments: 0",
+    "author": "stfnon",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.xshellz.com/",
+    "id": "news-3852"
+  },
+  {
+    "title": "Show HN: An open-source Claude skill that stops AI building the wrong app",
+    "summary": "Howdy friends. I've been a zero to one product manager for 12 plus years and along the way I kept borrowing pieces from different discovery frameworks until I had a methodology of my own, one that act",
+    "content": "Howdy friends. I've been a zero to one product manager for 12 plus years and along the way I kept borrowing pieces from different discovery frameworks until I had a methodology of my own, one that actually raises the odds of an idea succeeding. This does not replace user interviews obviously, but it leads you in the right direction. Looking forward for your feedback Comments URL: https://news.ycombinator.com/item?id=48909826 Points: 1 # Comments: 0",
+    "author": "arabsson",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/TexasBedouin/vibe-check",
+    "id": "news-3851"
+  },
+  {
+    "title": "The Download: Claude's inner workings, and the future of world models",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/ Comments URL: https://news.ycombinator.com/item?id=48909835 Points: 1 # C",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/ Comments URL: https://news.ycombinator.com/item?id=48909835 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "id": "news-3850"
+  },
+  {
     "title": "OpenAI Plans to Win over Doctors, Patients and Hospitals",
     "summary": "Article URL: https://www.forbes.com/sites/amyfeldman/2026/07/07/how-openai-plans-to-win-over-doctors-patients-and-hospitals/ Comments URL: https://news.ycombinator.com/item?id=48907857 Points: 1 # Com",
     "content": "Article URL: https://www.forbes.com/sites/amyfeldman/2026/07/07/how-openai-plans-to-win-over-doctors-patients-and-hospitals/ Comments URL: https://news.ycombinator.com/item?id=48907857 Points: 1 # Comments: 0",
