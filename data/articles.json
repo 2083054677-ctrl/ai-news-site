@@ -1,5 +1,70 @@
 [
   {
+    "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+    "summary": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools. The article Anthropic opens Claude for Teachers with a promise not to train models on student d",
+    "content": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools. The article Anthropic opens Claude for Teachers with a promise not to train models on student data appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+    "id": "news-3860"
+  },
+  {
+    "title": "Open Sourcing the Atuin AI Server",
+    "summary": "Article URL: https://blog.atuin.sh/atuin-ai-oss/ Comments URL: https://news.ycombinator.com/item?id=48910998 Points: 4 # Comments: 1",
+    "content": "Article URL: https://blog.atuin.sh/atuin-ai-oss/ Comments URL: https://news.ycombinator.com/item?id=48910998 Points: 4 # Comments: 1",
+    "author": "johnbehnke",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.atuin.sh/atuin-ai-oss/",
+    "id": "news-3859"
+  },
+  {
+    "title": "Five Laws of Generative AI",
+    "summary": "Article URL: https://isaaclyman.com/blog/posts/five-laws-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48911134 Points: 1 # Comments: 0",
+    "content": "Article URL: https://isaaclyman.com/blog/posts/five-laws-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48911134 Points: 1 # Comments: 0",
+    "author": "aard",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://isaaclyman.com/blog/posts/five-laws-of-ai/",
+    "id": "news-3858"
+  },
+  {
+    "title": "Linux Foundation's Latest Foray Is to Standardize Payments for AI Agents",
+    "summary": "Article URL: https://www.phoronix.com/news/Linux-Foundation-x402 Comments URL: https://news.ycombinator.com/item?id=48911171 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.phoronix.com/news/Linux-Foundation-x402 Comments URL: https://news.ycombinator.com/item?id=48911171 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.phoronix.com/news/Linux-Foundation-x402",
+    "id": "news-3857"
+  },
+  {
+    "title": "Asterism – a local-first knowledge graph that grows from your Claude chats",
+    "summary": "Article URL: https://github.com/biditdas18/asterism Comments URL: https://news.ycombinator.com/item?id=48911279 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/biditdas18/asterism Comments URL: https://news.ycombinator.com/item?id=48911279 Points: 1 # Comments: 0",
+    "author": "biditdas18",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/biditdas18/asterism",
+    "id": "news-3856"
+  },
+  {
     "title": "Google Search now generates AI images when it can't find what you're looking for on the web",
     "summary": "Google is adding AI image generation to Search's AI Overviews. When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query. The rollout starts in the",
     "content": "Google is adding AI image generation to Search's AI Overviews. When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query. The rollout starts in the coming weeks. The article Google Search now generates AI images when it can't find what you're looking for on the web appeared first on The Decoder.",
