@@ -1,5 +1,122 @@
 [
   {
+    "title": "Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers",
+    "summary": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but al",
+    "content": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but also raises methodological questions. Anthropic has published a study examining which values Claude expresses in conversations and how those values shift depending on the model and language used. […] The article Claude responds with more warmth in Hindi and more rigor in Russian, showing how language ",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-values-study/",
+    "id": "news-3844"
+  },
+  {
+    "title": "PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner",
+    "summary": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round. The article PixVerse's $2B valuation shows investors still believe AI video generation has ",
+    "content": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round. The article PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/",
+    "id": "news-3843"
+  },
+  {
+    "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now",
+    "summary": "Google Deepmind CEO Demis Hassabis has published a sweeping proposal for how to handle advanced AI. He wants a new US standards body modeled after financial regulator FINRA that would develop evaluati",
+    "content": "Google Deepmind CEO Demis Hassabis has published a sweeping proposal for how to handle advanced AI. He wants a new US standards body modeled after financial regulator FINRA that would develop evaluation protocols for frontier models and could coordinate a slowdown in AI development if needed. Startups and research models would be exempt. The article Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now appeared first on The ",
+    "author": "Matthias Bastian",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/",
+    "id": "news-3842"
+  },
+  {
+    "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
+    "summary": "OpenAI has re-enabled ChatGPT on WhatsApp, but only in the European Economic Area, covering the 27 EU member states plus Liechtenstein, Iceland, and Norway. The article ChatGPT returns to WhatsApp in ",
+    "content": "OpenAI has re-enabled ChatGPT on WhatsApp, but only in the European Economic Area, covering the 27 EU member states plus Liechtenstein, Iceland, and Norway. The article ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/",
+    "id": "news-3841"
+  },
+  {
+    "title": "OpenAI Renames Things, We Get the Support Tickets",
+    "summary": "Article URL: https://mcprunbook.com/posts/chatgpt-apps-renamed-to-plugins.html Comments URL: https://news.ycombinator.com/item?id=48906087 Points: 2 # Comments: 0",
+    "content": "Article URL: https://mcprunbook.com/posts/chatgpt-apps-renamed-to-plugins.html Comments URL: https://news.ycombinator.com/item?id=48906087 Points: 2 # Comments: 0",
+    "author": "Aldipower",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mcprunbook.com/posts/chatgpt-apps-renamed-to-plugins.html",
+    "id": "news-3840"
+  },
+  {
+    "title": "U of Chicago law school bans laptops from classes amid AI backlash",
+    "summary": "Article URL: https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html Comments URL: https://news.ycombinator.com/item?id=48906132 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html Comments URL: https://news.ycombinator.com/item?id=48906132 Points: 3 # Comments: 0",
+    "author": "smurda",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html",
+    "id": "news-3839"
+  },
+  {
+    "title": "Ask HN: Any objective research on which languages are best for AI agents?",
+    "summary": "I keep reading articles that suggest that Rust or Go or some other language is optimal for AI development because of feature X or lack of issue Y.Has there been any actual head to head comparison of t",
+    "content": "I keep reading articles that suggest that Rust or Go or some other language is optimal for AI development because of feature X or lack of issue Y.Has there been any actual head to head comparison of this using frontier models? Any benchmarks that purport to measure this? Comments URL: https://news.ycombinator.com/item?id=48906299 Points: 1 # Comments: 0",
+    "author": "mwigdahl",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48906299",
+    "id": "news-3838"
+  },
+  {
+    "title": "Don't bring an AI detector to a deepfake fight: provenance over detection",
+    "summary": "Article URL: https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving Comments URL: https://news.ycombinator.com/item?id=48906312 Points: 1 # Comments: ",
+    "content": "Article URL: https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving Comments URL: https://news.ycombinator.com/item?id=48906312 Points: 1 # Comments: 0",
+    "author": "Despoisj",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving",
+    "id": "news-3837"
+  },
+  {
+    "title": "Identify Skin: AI Dermatology SaaS",
+    "summary": "Article URL: https://identify.skin/en Comments URL: https://news.ycombinator.com/item?id=48906329 Points: 1 # Comments: 0",
+    "content": "Article URL: https://identify.skin/en Comments URL: https://news.ycombinator.com/item?id=48906329 Points: 1 # Comments: 0",
+    "author": "GemsGame",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://identify.skin/en",
+    "id": "news-3836"
+  },
+  {
     "title": "Show HN: BYO AI free notetaking with optional screen reading for OpenClaw/hermes",
     "summary": "I've built fully on-device (macOS) meeting transcription/summaries/action-items app. It uses parakeet and gemma 4 or OpenClaw or Hermes Agent to drive main functionalities. It's free, requires no acco",
     "content": "I've built fully on-device (macOS) meeting transcription/summaries/action-items app. It uses parakeet and gemma 4 or OpenClaw or Hermes Agent to drive main functionalities. It's free, requires no account or email, and is source available. You can also natively connect your own local/VPS OpenClaw or Hermes to use them, their memory and context, as a notetaker.About me: my name is Piotr. I'm having plenty of calls as a freelancing programmer, and have interest in audio domain, so it was natural fo",
