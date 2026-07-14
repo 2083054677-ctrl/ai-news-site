@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+    "summary": "we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey.we collected all this data into a benchmark and b",
+    "content": "we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey.we collected all this data into a benchmark and built a free grader to let you know where you stand.you answer on a 1–5 scale (e.g., autonomy runs from \"suggestions only\" to \"agents own multi-hour workflows across code, infra, and external systems\") - takes about 5 minutes.https://agent-benchmarks.com/software-factory/waiting for your results! Com",
+    "author": "adamgold7",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agent-benchmarks.com/software-factory/",
+    "id": "news-3826"
+  },
+  {
+    "title": "What Anthropic's latest AI discovery does–and doesn't–show",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/ Comments URL: https://news.ycombinator.com/item?id=48903165 Points: 1 # Comme",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/ Comments URL: https://news.ycombinator.com/item?id=48903165 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "id": "news-3825"
+  },
+  {
+    "title": "Slay the Spire 2 Is Choosing \"Shit\" Art over Generative AI",
+    "summary": "Article URL: https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48903289 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48903289 Points: 2 # Comments: 1",
+    "author": "jalev",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/",
+    "id": "news-3824"
+  },
+  {
+    "title": "OpenAI Added 1M Users in a Day. Fable Is Still in Limbo",
+    "summary": "Article URL: https://www.vincentschmalbach.com/codex-million-users-fable-limbo/ Comments URL: https://news.ycombinator.com/item?id=48903323 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.vincentschmalbach.com/codex-million-users-fable-limbo/ Comments URL: https://news.ycombinator.com/item?id=48903323 Points: 2 # Comments: 0",
+    "author": "vincent_s",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.vincentschmalbach.com/codex-million-users-fable-limbo/",
+    "id": "news-3823"
+  },
+  {
+    "title": "Show HN: ClaudeThings – your AI engineering and marketing team in one command",
+    "summary": "Article URL: https://www.claudethings.com/ Comments URL: https://news.ycombinator.com/item?id=48903346 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.claudethings.com/ Comments URL: https://news.ycombinator.com/item?id=48903346 Points: 1 # Comments: 0",
+    "author": "mohitvaswani",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.claudethings.com/",
+    "id": "news-3822"
+  },
+  {
     "title": "One Contract, Every Model: An Operating Standard for AI Coding Agents",
     "summary": "Article URL: https://manazir.dev/blog/operating-standard-harness Comments URL: https://news.ycombinator.com/item?id=48902072 Points: 2 # Comments: 0",
     "content": "Article URL: https://manazir.dev/blog/operating-standard-harness Comments URL: https://news.ycombinator.com/item?id=48902072 Points: 2 # Comments: 0",
