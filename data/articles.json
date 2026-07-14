@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: Coura AI – AI clothes changer for realistic outfit photos",
+    "summary": "Article URL: https://coura.ai Comments URL: https://news.ycombinator.com/item?id=48904069 Points: 1 # Comments: 0",
+    "content": "Article URL: https://coura.ai Comments URL: https://news.ycombinator.com/item?id=48904069 Points: 1 # Comments: 0",
+    "author": "gigisss",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://coura.ai",
+    "id": "news-3830"
+  },
+  {
+    "title": "Show HN: Turnitin Report – AI checker and AI detector for student papers",
+    "summary": "Article URL: https://www.turnitin.report/ Comments URL: https://news.ycombinator.com/item?id=48904083 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.turnitin.report/ Comments URL: https://news.ycombinator.com/item?id=48904083 Points: 1 # Comments: 0",
+    "author": "gigisss",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.turnitin.report/",
+    "id": "news-3829"
+  },
+  {
+    "title": "Hassabis – A Framework for Frontier AI and the Dawning of a New Age",
+    "summary": "Article URL: https://twitter.com/demishassabis/status/2076957440109625718 Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/demishassabis/status/2076957440109625718 Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 1 # Comments: 0",
+    "author": "asiergoni",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "id": "news-3828"
+  },
+  {
+    "title": "Zig creator calls Bun's Claude Rust rewrite 'unreviewed slop'",
+    "summary": "Article URL: https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743 Comments URL: https://news.ycombinator.com/item?id=48904245 Points: 1 # Co",
+    "content": "Article URL: https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743 Comments URL: https://news.ycombinator.com/item?id=48904245 Points: 1 # Comments: 1",
+    "author": "giamma",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743",
+    "id": "news-3827"
+  },
+  {
     "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
     "summary": "we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey.we collected all this data into a benchmark and b",
     "content": "we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey.we collected all this data into a benchmark and built a free grader to let you know where you stand.you answer on a 1–5 scale (e.g., autonomy runs from \"suggestions only\" to \"agents own multi-hour workflows across code, infra, and external systems\") - takes about 5 minutes.https://agent-benchmarks.com/software-factory/waiting for your results! Com",
