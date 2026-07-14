@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI Plans to Win over Doctors, Patients and Hospitals",
+    "summary": "Article URL: https://www.forbes.com/sites/amyfeldman/2026/07/07/how-openai-plans-to-win-over-doctors-patients-and-hospitals/ Comments URL: https://news.ycombinator.com/item?id=48907857 Points: 1 # Com",
+    "content": "Article URL: https://www.forbes.com/sites/amyfeldman/2026/07/07/how-openai-plans-to-win-over-doctors-patients-and-hospitals/ Comments URL: https://news.ycombinator.com/item?id=48907857 Points: 1 # Comments: 0",
+    "author": "brandonb",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/amyfeldman/2026/07/07/how-openai-plans-to-win-over-doctors-patients-and-hospitals/",
+    "id": "news-3849"
+  },
+  {
+    "title": "Why Claude uses the browser like a drunk intern, and how to fix it",
+    "summary": "Article URL: https://pluno.ai/blog/why-claude-uses-browser-like-drunk-intern Comments URL: https://news.ycombinator.com/item?id=48907910 Points: 2 # Comments: 1",
+    "content": "Article URL: https://pluno.ai/blog/why-claude-uses-browser-like-drunk-intern Comments URL: https://news.ycombinator.com/item?id=48907910 Points: 2 # Comments: 1",
+    "author": "korabs",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pluno.ai/blog/why-claude-uses-browser-like-drunk-intern",
+    "id": "news-3848"
+  },
+  {
+    "title": "Aevum – Free AI RPG engine for Claude with persistent factions and economy",
+    "summary": "Article URL: https://github.com/RukkaNova/aevum-realm-architect Comments URL: https://news.ycombinator.com/item?id=48907920 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/RukkaNova/aevum-realm-architect Comments URL: https://news.ycombinator.com/item?id=48907920 Points: 1 # Comments: 0",
+    "author": "arcanumrpgs",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/RukkaNova/aevum-realm-architect",
+    "id": "news-3847"
+  },
+  {
+    "title": "Claude for Teachers",
+    "summary": "Article URL: https://www.anthropic.com/news/claude-for-teachers Comments URL: https://news.ycombinator.com/item?id=48907939 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.anthropic.com/news/claude-for-teachers Comments URL: https://news.ycombinator.com/item?id=48907939 Points: 1 # Comments: 0",
+    "author": "surprisetalk",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/news/claude-for-teachers",
+    "id": "news-3846"
+  },
+  {
+    "title": "Meta used AI to target workers with medical conditions for layoffs",
+    "summary": "Article URL: https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48908065 Points: ",
+    "content": "Article URL: https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48908065 Points: 6 # Comments: 0",
+    "author": "nlpnerd",
+    "date": "2026-07-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
+    "id": "news-3845"
+  },
+  {
     "title": "Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers",
     "summary": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but al",
     "content": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but also raises methodological questions. Anthropic has published a study examining which values Claude expresses in conversations and how those values shift depending on the model and language used. […] The article Claude responds with more warmth in Hindi and more rigor in Russian, showing how language ",
