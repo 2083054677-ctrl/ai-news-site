@@ -1,5 +1,31 @@
 [
   {
+    "title": "Spotify bets Premium subscribers want to chat with their music player",
+    "summary": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app. The article Spotify bets Premium subscribers want to chat with their music",
+    "content": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app. The article Spotify bets Premium subscribers want to chat with their music player appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/",
+    "id": "news-3896"
+  },
+  {
+    "title": "Bonsai 27B is a full open reasoning model that fits on an iPhone",
+    "summary": "PrismML has compressed a 27-billion-parameter AI model to under 4 GB, small enough to run on an iPhone. In the company's own benchmarks, the smallest version keeps 90 percent of the original performan",
+    "content": "PrismML has compressed a 27-billion-parameter AI model to under 4 GB, small enough to run on an iPhone. In the company's own benchmarks, the smallest version keeps 90 percent of the original performance, with math and coding scores barely affected. Apple is reportedly already testing the compression technology, which could help it close the gap in on-device AI. The article Bonsai 27B is a full open reasoning model that fits on an iPhone appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/",
+    "id": "news-3895"
+  },
+  {
     "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
     "summary": "Article URL: https://github.com/Tura-AI/tura Comments URL: https://news.ycombinator.com/item?id=48922039 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/Tura-AI/tura Comments URL: https://news.ycombinator.com/item?id=48922039 Points: 1 # Comments: 1",
