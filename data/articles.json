@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
+    "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" Bu",
+    "content": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could delay its planned 2027 launch. The article OpenAI's first hardware product is a screenless AI speaker designed to feel alive appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/",
+    "id": "news-3876"
+  },
+  {
+    "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
+    "summary": "Article URL: https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589 Comments URL: https://news.ycombinator.com/item?id=489173",
+    "content": "Article URL: https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589 Comments URL: https://news.ycombinator.com/item?id=48917305 Points: 3 # Comments: 0",
+    "author": "raybb",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589",
+    "id": "news-3875"
+  },
+  {
+    "title": "Decibri – unified audio layer for AI agents and Voice AI applications",
+    "summary": "Article URL: https://decibri.com Comments URL: https://news.ycombinator.com/item?id=48917379 Points: 2 # Comments: 0",
+    "content": "Article URL: https://decibri.com Comments URL: https://news.ycombinator.com/item?id=48917379 Points: 2 # Comments: 0",
+    "author": "vyrotek",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://decibri.com",
+    "id": "news-3874"
+  },
+  {
+    "title": "AI eating software: IBM crash",
+    "summary": "Article URL: https://www.bargo.ai/research/ibm-ai-capex-cannibalization Comments URL: https://news.ycombinator.com/item?id=48917453 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bargo.ai/research/ibm-ai-capex-cannibalization Comments URL: https://news.ycombinator.com/item?id=48917453 Points: 1 # Comments: 0",
+    "author": "Kavon2992",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bargo.ai/research/ibm-ai-capex-cannibalization",
+    "id": "news-3873"
+  },
+  {
+    "title": "Show HN: PixFinder – Free offline AI+OCR Image Search",
+    "summary": "Hi, HN!I’ve made a free Windows tool that lets you search your local images by what's in them, not the filename. It combines AI (SigLip2) search with OCR.It was made from specific need – quick search ",
+    "content": "Hi, HN!I’ve made a free Windows tool that lets you search your local images by what's in them, not the filename. It combines AI (SigLip2) search with OCR.It was made from specific need – quick search my meme collection for reaction meme in a huge collection. But, of course, it could be used for more serious things like searching design assets, photos of invoices, business cards etc. Batteries (model) are included, so everything runs offline, no cloud, no account, no tracking. WinUI3 for native l",
+    "author": "alexkh",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pixfinder.app/",
+    "id": "news-3872"
+  },
+  {
+    "title": "What makes an AI coding tool worth paying for?",
+    "summary": "Article URL: https://vibecodingagency.com/gpu-cloud/ Comments URL: https://news.ycombinator.com/item?id=48917577 Points: 1 # Comments: 1",
+    "content": "Article URL: https://vibecodingagency.com/gpu-cloud/ Comments URL: https://news.ycombinator.com/item?id=48917577 Points: 1 # Comments: 1",
+    "author": "vibeagency",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vibecodingagency.com/gpu-cloud/",
+    "id": "news-3871"
+  },
+  {
     "title": "Threading the AI in the UI for a personal app",
     "summary": "Article URL: https://millfolio.app/blog/millwright-ui-layers/ Comments URL: https://news.ycombinator.com/item?id=48916095 Points: 2 # Comments: 0",
     "content": "Article URL: https://millfolio.app/blog/millwright-ui-layers/ Comments URL: https://news.ycombinator.com/item?id=48916095 Points: 2 # Comments: 0",
