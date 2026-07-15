@@ -1,5 +1,96 @@
 [
   {
+    "title": "Meta employees sue over layoffs they say were driven by discriminatory AI selection systems",
+    "summary": "Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs. Meta allegedly used internal AI systems to generate the layoff lists when it cut 8,00",
+    "content": "Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs. Meta allegedly used internal AI systems to generate the layoff lists when it cut 8,000 workers, disproportionately targeting employees with disabilities or on parental leave. The article Meta employees sue over layoffs they say were driven by discriminatory AI selection systems appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems/",
+    "id": "news-3883"
+  },
+  {
+    "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation",
+    "summary": "Since early June, OpenAI's coding tool Codex encrypts the instructions a main agent passes to its subagents. Developers can no longer track how tasks get delegated internally. For the larger GPT-5.6 v",
+    "content": "Since early June, OpenAI's coding tool Codex encrypts the instructions a main agent passes to its subagents. Developers can no longer track how tasks get delegated internally. For the larger GPT-5.6 variants Sol and Terra, the encryption is mandatory. The article OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/",
+    "id": "news-3882"
+  },
+  {
+    "title": "Which Doc Format Is Best for AI Specifications?",
+    "summary": "Article URL: http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html Comments URL: https://news.ycombinator.com/item?id=48918007 Points: 1 # Comments: 1",
+    "content": "Article URL: http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html Comments URL: https://news.ycombinator.com/item?id=48918007 Points: 1 # Comments: 1",
+    "author": "peter_lawrey",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html",
+    "id": "news-3881"
+  },
+  {
+    "title": "Nobel economists, tech leaders warn how AI could threaten jobs",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/ Comments URL: https://news.ycombinator.com/item?id=48918197 Points: 1 #",
+    "content": "Article URL: https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/ Comments URL: https://news.ycombinator.com/item?id=48918197 Points: 1 # Comments: 1",
+    "author": "ironyman",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/",
+    "id": "news-3880"
+  },
+  {
+    "title": "Show HN: AITerm – a macOS terminal with an AI command loop and a safety gate",
+    "summary": "Article URL: https://ai-term.com/ Comments URL: https://news.ycombinator.com/item?id=48918251 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-term.com/ Comments URL: https://news.ycombinator.com/item?id=48918251 Points: 1 # Comments: 0",
+    "author": "dmitrik",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-term.com/",
+    "id": "news-3879"
+  },
+  {
+    "title": "ConlangCrafter: Constructing Languages with a Multi-Hop LLM Pipeline",
+    "summary": "Article URL: https://github.com/morrisalp/ConlangCrafter Comments URL: https://news.ycombinator.com/item?id=48918401 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/morrisalp/ConlangCrafter Comments URL: https://news.ycombinator.com/item?id=48918401 Points: 1 # Comments: 1",
+    "author": "jbotz",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/morrisalp/ConlangCrafter",
+    "id": "news-3878"
+  },
+  {
+    "title": "AI in Australia's Interests",
+    "summary": "Article URL: https://www.pm.gov.au/media/ai-australias-interests-0 Comments URL: https://news.ycombinator.com/item?id=48918409 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.pm.gov.au/media/ai-australias-interests-0 Comments URL: https://news.ycombinator.com/item?id=48918409 Points: 1 # Comments: 0",
+    "author": "softveda",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pm.gov.au/media/ai-australias-interests-0",
+    "id": "news-3877"
+  },
+  {
     "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
     "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" Bu",
     "content": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could delay its planned 2027 launch. The article OpenAI's first hardware product is a screenless AI speaker designed to feel alive appeared first on The Decoder.",
