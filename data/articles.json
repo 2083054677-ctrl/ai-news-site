@@ -1,5 +1,60 @@
 [
   {
+    "title": "Welcome Inkling by Thinking Machines",
+    "summary": "Welcome Inkling by Thinking Machines",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "id": "news-3900"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "summary": "Model Routing Is Simple. Until It Isn’t.",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "id": "news-3899"
+  },
+  {
+    "title": "What building Shippy taught us about building agents",
+    "summary": "What building Shippy taught us about building agents",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "id": "news-3898"
+  },
+  {
+    "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it",
+    "summary": "A University of Pennsylvania statistics professor used OpenAI's GPT-5.6 Sol Pro to disprove a central open conjecture about the Benjamini-Hochberg method in roughly 90 minutes. The predecessor model, ",
+    "content": "A University of Pennsylvania statistics professor used OpenAI's GPT-5.6 Sol Pro to disprove a central open conjecture about the Benjamini-Hochberg method in roughly 90 minutes. The predecessor model, GPT-5.5, couldn't find a solution even after 20 hours. The answer combines known methods in a new way, keeping the bigger question alive: can AI produce genuinely new knowledge, or does it just recombine what it already learned? The article GPT-5.6 Sol reportedly disproves a 30-year-old statistics c",
+    "author": "Matthias Bastian",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/",
+    "id": "news-3897"
+  },
+  {
     "title": "Spotify bets Premium subscribers want to chat with their music player",
     "summary": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app. The article Spotify bets Premium subscribers want to chat with their music",
     "content": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app. The article Spotify bets Premium subscribers want to chat with their music player appeared first on The Decoder.",
