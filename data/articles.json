@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+    "summary": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening ",
+    "content": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article OpenAI is now using AI to attack its own AI, and it's working better than humans ever did appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/",
+    "id": "news-3906"
+  },
+  {
+    "title": "Microsoft CEO echoes Palantir CEO's warning on enterprise AI",
+    "summary": "Article URL: https://www.msn.com/en-us/money/other/microsoft-ceo-echoes-palantir-ceo-s-warning-on-enterprise-ai/ar-AA27VSu6 Comments URL: https://news.ycombinator.com/item?id=48926616 Points: 2 # Comm",
+    "content": "Article URL: https://www.msn.com/en-us/money/other/microsoft-ceo-echoes-palantir-ceo-s-warning-on-enterprise-ai/ar-AA27VSu6 Comments URL: https://news.ycombinator.com/item?id=48926616 Points: 2 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.msn.com/en-us/money/other/microsoft-ceo-echoes-palantir-ceo-s-warning-on-enterprise-ai/ar-AA27VSu6",
+    "id": "news-3905"
+  },
+  {
+    "title": "YouMindAG – give AI coding tools full project context in one command",
+    "summary": "Article URL: https://github.com/CESARBR2025/youmindag Comments URL: https://news.ycombinator.com/item?id=48926645 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/CESARBR2025/youmindag Comments URL: https://news.ycombinator.com/item?id=48926645 Points: 1 # Comments: 0",
+    "author": "CESARBR2025",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/CESARBR2025/youmindag",
+    "id": "news-3904"
+  },
+  {
+    "title": "X402 Foundation to Standardize Internet Payments for AI Agents",
+    "summary": "Article URL: https://techstrong.ai/articles/linux-foundation-launches-x402-foundation-to-standardize-internet-native-payments-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48926659",
+    "content": "Article URL: https://techstrong.ai/articles/linux-foundation-launches-x402-foundation-to-standardize-internet-native-payments-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48926659 Points: 1 # Comments: 0",
+    "author": "CrankyBear",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techstrong.ai/articles/linux-foundation-launches-x402-foundation-to-standardize-internet-native-payments-for-ai-agents/",
+    "id": "news-3903"
+  },
+  {
+    "title": "Are \"no AI\" disclaimers necessary?",
+    "summary": "Article URL: https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/ Comments URL: https://news.ycombinator.com/item?id=48926830 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/ Comments URL: https://news.ycombinator.com/item?id=48926830 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/",
+    "id": "news-3902"
+  },
+  {
+    "title": "SQL vs. Sparql in the Age of AI: Which One Works in Enterprises?",
+    "summary": "Article URL: https://medium.com/timbr-ai/sql-vs-sparql-in-the-age-of-ai-which-one-actually-works-in-enterprises-b2f4af155d96 Comments URL: https://news.ycombinator.com/item?id=48926836 Points: 1 # Com",
+    "content": "Article URL: https://medium.com/timbr-ai/sql-vs-sparql-in-the-age-of-ai-which-one-actually-works-in-enterprises-b2f4af155d96 Comments URL: https://news.ycombinator.com/item?id=48926836 Points: 1 # Comments: 0",
+    "author": "smartmic",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/timbr-ai/sql-vs-sparql-in-the-age-of-ai-which-one-actually-works-in-enterprises-b2f4af155d96",
+    "id": "news-3901"
+  },
+  {
     "title": "Welcome Inkling by Thinking Machines",
     "summary": "Welcome Inkling by Thinking Machines",
     "content": "",
