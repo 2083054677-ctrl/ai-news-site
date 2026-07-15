@@ -1,5 +1,19 @@
 [
   {
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/real-world-voiceeq",
+    "id": "news-3889"
+  },
+  {
     "title": "Show HN: PromptMan: A native macOS app for saving and reusing AI prompts",
     "summary": "Article URL: https://promptman.app/ Comments URL: https://news.ycombinator.com/item?id=48918897 Points: 1 # Comments: 0",
     "content": "Article URL: https://promptman.app/ Comments URL: https://news.ycombinator.com/item?id=48918897 Points: 1 # Comments: 0",
