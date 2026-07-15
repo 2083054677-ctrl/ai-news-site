@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: PromptMan: A native macOS app for saving and reusing AI prompts",
+    "summary": "Article URL: https://promptman.app/ Comments URL: https://news.ycombinator.com/item?id=48918897 Points: 1 # Comments: 0",
+    "content": "Article URL: https://promptman.app/ Comments URL: https://news.ycombinator.com/item?id=48918897 Points: 1 # Comments: 0",
+    "author": "Karym09",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://promptman.app/",
+    "id": "news-3888"
+  },
+  {
+    "title": "Anthropic's state-by-state plan to ratchet up AI rules",
+    "summary": "Article URL: https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415 Comments URL: https://news.ycombinator.com/item?id=48918906 Points: 1 # Comm",
+    "content": "Article URL: https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415 Comments URL: https://news.ycombinator.com/item?id=48918906 Points: 1 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
+    "id": "news-3887"
+  },
+  {
+    "title": "Societal Impacts: Claude's values across models and languages",
+    "summary": "Article URL: https://www.anthropic.com/research/claude-values-models-languages Comments URL: https://news.ycombinator.com/item?id=48918956 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.anthropic.com/research/claude-values-models-languages Comments URL: https://news.ycombinator.com/item?id=48918956 Points: 1 # Comments: 0",
+    "author": "taubek",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/research/claude-values-models-languages",
+    "id": "news-3886"
+  },
+  {
+    "title": "How much of ML research is about AI safety, what is it about, and who's doing I",
+    "summary": "Article URL: https://www.lesswrong.com/posts/hcq4ZDoijSjy3Wrba/how-much-of-ml-research-is-about-ai-safety-what-is-it-about Comments URL: https://news.ycombinator.com/item?id=48919012 Points: 2 # Comme",
+    "content": "Article URL: https://www.lesswrong.com/posts/hcq4ZDoijSjy3Wrba/how-much-of-ml-research-is-about-ai-safety-what-is-it-about Comments URL: https://news.ycombinator.com/item?id=48919012 Points: 2 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/hcq4ZDoijSjy3Wrba/how-much-of-ml-research-is-about-ai-safety-what-is-it-about",
+    "id": "news-3885"
+  },
+  {
+    "title": "Show HN: Browse, search, stats, skills from your Claude/ChatGPT chats, locally",
+    "summary": "Article URL: https://colloquary.com/ Comments URL: https://news.ycombinator.com/item?id=48919111 Points: 1 # Comments: 0",
+    "content": "Article URL: https://colloquary.com/ Comments URL: https://news.ycombinator.com/item?id=48919111 Points: 1 # Comments: 0",
+    "author": "egntms",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://colloquary.com/",
+    "id": "news-3884"
+  },
+  {
     "title": "Meta employees sue over layoffs they say were driven by discriminatory AI selection systems",
     "summary": "Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs. Meta allegedly used internal AI systems to generate the layoff lists when it cut 8,00",
     "content": "Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs. Meta allegedly used internal AI systems to generate the layoff lists when it cut 8,000 workers, disproportionately targeting employees with disabilities or on parental leave. The article Meta employees sue over layoffs they say were driven by discriminatory AI selection systems appeared first on The Decoder.",
