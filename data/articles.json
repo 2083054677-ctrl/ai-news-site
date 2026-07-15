@@ -1,5 +1,70 @@
 [
   {
+    "title": "Agent runtime reduces LLM turns by 80% with a higher success rate in DeepSWE",
+    "summary": "Article URL: https://github.com/Tura-AI/tura Comments URL: https://news.ycombinator.com/item?id=48922039 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Tura-AI/tura Comments URL: https://news.ycombinator.com/item?id=48922039 Points: 1 # Comments: 1",
+    "author": "yohji1984",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Tura-AI/tura",
+    "id": "news-3894"
+  },
+  {
+    "title": "OpenAI's first hardware device is reportedly a screenless speaker that can move",
+    "summary": "Article URL: https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/ Comments URL: https://news.ycombinator.com/item?id=48922143 Points: 1 # C",
+    "content": "Article URL: https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/ Comments URL: https://news.ycombinator.com/item?id=48922143 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "id": "news-3893"
+  },
+  {
+    "title": "I tested 11 AI detectors on my pre-ChatGPT writing and I'm as little as 5% human",
+    "summary": "Article URL: https://originalseparation.substack.com/p/i-have-been-95-robotic-since-2019 Comments URL: https://news.ycombinator.com/item?id=48922160 Points: 1 # Comments: 0",
+    "content": "Article URL: https://originalseparation.substack.com/p/i-have-been-95-robotic-since-2019 Comments URL: https://news.ycombinator.com/item?id=48922160 Points: 1 # Comments: 0",
+    "author": "BetterHalfAI",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://originalseparation.substack.com/p/i-have-been-95-robotic-since-2019",
+    "id": "news-3892"
+  },
+  {
+    "title": "Generative AI Is an Engineering Disaster",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48922193 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48922193 Points: 2 # Comments: 1",
+    "author": "poisonfountain",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+    "id": "news-3891"
+  },
+  {
+    "title": "MentalHappy – a support group marketplace rebuilt by a solo founder using AI",
+    "summary": "Article URL: https://www.mentalhappy.com/ Comments URL: https://news.ycombinator.com/item?id=48922195 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.mentalhappy.com/ Comments URL: https://news.ycombinator.com/item?id=48922195 Points: 1 # Comments: 0",
+    "author": "MentalHappyInc",
+    "date": "2026-07-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mentalhappy.com/",
+    "id": "news-3890"
+  },
+  {
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "content": "",
