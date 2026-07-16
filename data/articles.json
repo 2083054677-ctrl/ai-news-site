@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: MasterVault: Stop your LLM's context file from growing stale",
+    "summary": "Article URL: https://github.com/JustMichael-80/MasterVault Comments URL: https://news.ycombinator.com/item?id=48928934 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/JustMichael-80/MasterVault Comments URL: https://news.ycombinator.com/item?id=48928934 Points: 1 # Comments: 0",
+    "author": "ChronoDyneSys",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/JustMichael-80/MasterVault",
+    "id": "news-3910"
+  },
+  {
+    "title": "AI Data Center Companies for Sale – Owners Liquidating Assets Before Crash [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=iVkgD4phOHQ Comments URL: https://news.ycombinator.com/item?id=48929052 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=iVkgD4phOHQ Comments URL: https://news.ycombinator.com/item?id=48929052 Points: 1 # Comments: 0",
+    "author": "xbmcuser",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=iVkgD4phOHQ",
+    "id": "news-3909"
+  },
+  {
+    "title": "Fusing a 27B ternary LLM's whole decode step into one CUDA kernel",
+    "summary": "Article URL: https://twitter.com/Akashi203/status/2077552491567157733 Comments URL: https://news.ycombinator.com/item?id=48929104 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/Akashi203/status/2077552491567157733 Comments URL: https://news.ycombinator.com/item?id=48929104 Points: 1 # Comments: 0",
+    "author": "Jr23_xd",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/Akashi203/status/2077552491567157733",
+    "id": "news-3908"
+  },
+  {
+    "title": "AI-generated women are spreading disinformation about Singapore on TikTok",
+    "summary": "Article URL: https://www.channelnewsasia.com/singapore/tiktok-ai-women-disinformation-deepfake-presenters-6250271 Comments URL: https://news.ycombinator.com/item?id=48929445 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.channelnewsasia.com/singapore/tiktok-ai-women-disinformation-deepfake-presenters-6250271 Comments URL: https://news.ycombinator.com/item?id=48929445 Points: 2 # Comments: 0",
+    "author": "gnabgib",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.channelnewsasia.com/singapore/tiktok-ai-women-disinformation-deepfake-presenters-6250271",
+    "id": "news-3907"
+  },
+  {
     "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
     "summary": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening ",
     "content": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article OpenAI is now using AI to attack its own AI, and it's working better than humans ever did appeared first on The Decoder.",
