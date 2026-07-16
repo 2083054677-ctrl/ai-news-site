@@ -1,5 +1,18 @@
 [
   {
+    "title": "xAI open-sources \"Grok-Build\" on GitHub after massive data breach",
+    "summary": "xAI's command-line tool \"Grok Build\" silently uploaded entire directories to Google Cloud servers, including SSH keys and password databases. After the backlash, Elon Musk promised to delete all uploa",
+    "content": "xAI's command-line tool \"Grok Build\" silently uploaded entire directories to Google Cloud servers, including SSH keys and password databases. After the backlash, Elon Musk promised to delete all uploaded user data, and xAI open-sourced the full 844,530-line Rust codebase under the Apache 2.0 license. The article xAI open-sources \"Grok-Build\" on GitHub after massive data breach appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/",
+    "id": "news-3916"
+  },
+  {
     "title": "AI Is Not a Tool",
     "summary": "Article URL: https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool Comments URL: https://news.ycombinator.com/item?id=48930273 Points: 5 # Comments: 2",
     "content": "Article URL: https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool Comments URL: https://news.ycombinator.com/item?id=48930273 Points: 5 # Comments: 2",
