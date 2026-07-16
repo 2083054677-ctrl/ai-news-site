@@ -1,5 +1,32 @@
 [
   {
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "id": "news-3934"
+  },
+  {
+    "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
+    "summary": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links. The regulators have issued their first rulings against Go",
+    "content": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links. The regulators have issued their first rulings against Google and Perplexity under the country's State Media Treaty. Both companies have one month to appeal. The article Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
+    "id": "news-3933"
+  },
+  {
     "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
     "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only be",
     "content": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner. However, the announcement does not yet provide specific benchmark figures for the new combination. The article Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models a",
