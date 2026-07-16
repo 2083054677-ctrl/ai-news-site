@@ -1,5 +1,70 @@
 [
   {
+    "title": "What Doom taught us about AI-assisted incident response",
+    "summary": "Article URL: https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response Comments URL: https://news.ycombinator.com/item?id=48940764 Points: 5 # Comments: 0",
+    "content": "Article URL: https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response Comments URL: https://news.ycombinator.com/item?id=48940764 Points: 5 # Comments: 0",
+    "author": "sylvainkalache",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response",
+    "id": "news-3941"
+  },
+  {
+    "title": "Show HN: Vektorgeist- A platform for AI operators and their agent's",
+    "summary": "VektorGeist is a platform designed for AI operators to discover, share, and distribute AI resources in one place. The platform brings together: AI tools MCP servers Prompts Workflows Templates Agents ",
+    "content": "VektorGeist is a platform designed for AI operators to discover, share, and distribute AI resources in one place. The platform brings together: AI tools MCP servers Prompts Workflows Templates Agents Technical articles A community for collaboration Recent updates include selectable layouts, customizable themes, an immersive interface, community profiles, and a marketplace for sharing projects and resources. The goal is to create a central hub where AI operators can find practical resources, cont",
+    "author": "VektorGeist",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vektorgeist.com/",
+    "id": "news-3940"
+  },
+  {
+    "title": "You cannot copyright AI generated material in the US",
+    "summary": "Article URL: https://twitter.com/CrimeDecoder/status/2077878317928087906 Comments URL: https://news.ycombinator.com/item?id=48940938 Points: 4 # Comments: 1",
+    "content": "Article URL: https://twitter.com/CrimeDecoder/status/2077878317928087906 Comments URL: https://news.ycombinator.com/item?id=48940938 Points: 4 # Comments: 1",
+    "author": "apwheele",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/CrimeDecoder/status/2077878317928087906",
+    "id": "news-3939"
+  },
+  {
+    "title": "EU will force Google to share search data and open up AI on Android",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/ Comments URL: https://news.ycombinator.com/item?id=48941022 Point",
+    "content": "Article URL: https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/ Comments URL: https://news.ycombinator.com/item?id=48941022 Points: 4 # Comments: 0",
+    "author": "EspadaV9",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "id": "news-3938"
+  },
+  {
+    "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+    "summary": "Article URL: https://github.com/cgrtml/reasongate Comments URL: https://news.ycombinator.com/item?id=48941051 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/cgrtml/reasongate Comments URL: https://news.ycombinator.com/item?id=48941051 Points: 3 # Comments: 0",
+    "author": "Cagritemel",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/cgrtml/reasongate",
+    "id": "news-3937"
+  },
+  {
     "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
     "summary": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol w",
     "content": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2, in some cases by a wide margin. The model is also significantly pricier than its predecessor. Full weights are scheduled for release by July 27. The article Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI appeare",
