@@ -1,5 +1,96 @@
 [
   {
+    "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
+    "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only be",
+    "content": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner. However, the announcement does not yet provide specific benchmark figures for the new combination. The article Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models a",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/",
+    "id": "news-3932"
+  },
+  {
+    "title": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
+    "summary": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro, a compact hardware controller designed for working with AI agents. The article OpenAI wants developers to stop typing comman",
+    "content": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro, a compact hardware controller designed for working with AI agents. The article OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
+    "id": "news-3931"
+  },
+  {
+    "title": "OpenAI releases an official Terraform provider",
+    "summary": "Article URL: https://github.com/openai/terraform-provider-openai Comments URL: https://news.ycombinator.com/item?id=48935728 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/openai/terraform-provider-openai Comments URL: https://news.ycombinator.com/item?id=48935728 Points: 1 # Comments: 0",
+    "author": "bakigul",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/openai/terraform-provider-openai",
+    "id": "news-3930"
+  },
+  {
+    "title": "I'm 33 and I think Claude Code is melting my brain",
+    "summary": "Article URL: https://twitter.com/BraedendotTECH/status/2077353000486547633 Comments URL: https://news.ycombinator.com/item?id=48935780 Points: 3 # Comments: 0",
+    "content": "Article URL: https://twitter.com/BraedendotTECH/status/2077353000486547633 Comments URL: https://news.ycombinator.com/item?id=48935780 Points: 3 # Comments: 0",
+    "author": "mihau",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/BraedendotTECH/status/2077353000486547633",
+    "id": "news-3929"
+  },
+  {
+    "title": "Linus Torvalds on AI in Linux Kernel Development",
+    "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-%3Dwi4zC%2BZe8e%2Bp3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg%40mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48935814 Points: 2 # Com",
+    "content": "Article URL: https://lore.kernel.org/linux-media/CAHk-%3Dwi4zC%2BZe8e%2Bp3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg%40mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48935814 Points: 2 # Comments: 0",
+    "author": "fbrusch",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lore.kernel.org/linux-media/CAHk-%3Dwi4zC%2BZe8e%2Bp3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg%40mail.gmail.com/",
+    "id": "news-3928"
+  },
+  {
+    "title": "Smart speakers could help OpenAI lose more money",
+    "summary": "Article URL: https://www.engadget.com/2216556/smart-speakers-could-help-openai-lose-even-more-money/ Comments URL: https://news.ycombinator.com/item?id=48935833 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.engadget.com/2216556/smart-speakers-could-help-openai-lose-even-more-money/ Comments URL: https://news.ycombinator.com/item?id=48935833 Points: 1 # Comments: 0",
+    "author": "SanjayMehta",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.engadget.com/2216556/smart-speakers-could-help-openai-lose-even-more-money/",
+    "id": "news-3927"
+  },
+  {
+    "title": "Alerting Parents If Teens Show Signs of Distress in Conversations with Meta AI",
+    "summary": "Article URL: https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/ Comments URL: https://news.ycombinator.com/item?id=48935871 Points: 1 # Comments: 0",
+    "content": "Article URL: https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/ Comments URL: https://news.ycombinator.com/item?id=48935871 Points: 1 # Comments: 0",
+    "author": "jawns",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/",
+    "id": "news-3926"
+  },
+  {
     "title": "Security incident disclosure — July 2026",
     "summary": "Security incident disclosure — July 2026",
     "content": "",
