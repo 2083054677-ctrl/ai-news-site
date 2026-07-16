@@ -1,5 +1,18 @@
 [
   {
+    "title": "Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration",
+    "summary": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem. A new feature gives each notebook its own cloud computer that can write and run code, initiall",
+    "content": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem. A new feature gives each notebook its own cloud computer that can write and run code, initially for AI Ultra and Workspace customers. Separately, Google Search is getting app connections. The article Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/",
+    "id": "news-3935"
+  },
+  {
     "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
     "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
     "content": "",
