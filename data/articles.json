@@ -1,5 +1,96 @@
 [
   {
+    "title": "Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name",
+    "summary": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs, fixes tool calling bugs, and addresses problems with truncated responses. The article Gemma 4 ge",
+    "content": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs, fixes tool calling bugs, and addresses problems with truncated responses. The article Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/",
+    "id": "news-3923"
+  },
+  {
+    "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China",
+    "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S. open-weights models on the Artificial ",
+    "content": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S. open-weights models on the Artificial Analysis Intelligence Index, though top Chinese open models still beat it on some tasks. Pricing starts at $1.87 per million input tokens, and Thinking Machines is pitching Inkling as a base for fine-tuning rather than the most powerful model available. The article Ex-OpenAI CTO Murati's Thinking Ma",
+    "author": "Matthias Bastian",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/",
+    "id": "news-3922"
+  },
+  {
+    "title": "AI-Generated UI Is Inaccessible by Default",
+    "summary": "Article URL: https://master.dev/blog/ai-generated-ui-is-inaccessible-by-default/ Comments URL: https://news.ycombinator.com/item?id=48932310 Points: 1 # Comments: 0",
+    "content": "Article URL: https://master.dev/blog/ai-generated-ui-is-inaccessible-by-default/ Comments URL: https://news.ycombinator.com/item?id=48932310 Points: 1 # Comments: 0",
+    "author": "darkwater",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://master.dev/blog/ai-generated-ui-is-inaccessible-by-default/",
+    "id": "news-3921"
+  },
+  {
+    "title": "TSMC Hikes Sales, Spending Outlook to Catch AI 'Megatrend'",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand Comments URL: https://news.ycombinator.com/item?id=48932380 Points: 1 #",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand Comments URL: https://news.ycombinator.com/item?id=48932380 Points: 1 # Comments: 0",
+    "author": "lesbarclays",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand",
+    "id": "news-3920"
+  },
+  {
+    "title": "'Like my lover': Chinese users bid farewell to AI companions",
+    "summary": "Article URL: https://www.yahoo.com/news/world/articles/lover-chinese-users-bid-farewell-072052371.html Comments URL: https://news.ycombinator.com/item?id=48932404 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.yahoo.com/news/world/articles/lover-chinese-users-bid-farewell-072052371.html Comments URL: https://news.ycombinator.com/item?id=48932404 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.yahoo.com/news/world/articles/lover-chinese-users-bid-farewell-072052371.html",
+    "id": "news-3919"
+  },
+  {
+    "title": "On-device AI that respects your privacy",
+    "summary": "Arcrawls can use Gemini Nano + DistilBERT locally to understand page sentiment and even give you daily summaries of your browsing habits — all without sending anything to the cloud. Comments URL: http",
+    "content": "Arcrawls can use Gemini Nano + DistilBERT locally to understand page sentiment and even give you daily summaries of your browsing habits — all without sending anything to the cloud. Comments URL: https://news.ycombinator.com/item?id=48932411 Points: 1 # Comments: 0",
+    "author": "fujidevv",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48932411",
+    "id": "news-3918"
+  },
+  {
+    "title": "Linus Torvalds on LLM usage in kernel development",
+    "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48932522 Points: 2 # Comments: 0",
+    "content": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48932522 Points: 2 # Comments: 0",
+    "author": "asciimoo",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+    "id": "news-3917"
+  },
+  {
     "title": "xAI open-sources \"Grok-Build\" on GitHub after massive data breach",
     "summary": "xAI's command-line tool \"Grok Build\" silently uploaded entire directories to Google Cloud servers, including SSH keys and password databases. After the backlash, Elon Musk promised to delete all uploa",
     "content": "xAI's command-line tool \"Grok Build\" silently uploaded entire directories to Google Cloud servers, including SSH keys and password databases. After the backlash, Elon Musk promised to delete all uploaded user data, and xAI open-sourced the full 844,530-line Rust codebase under the Apache 2.0 license. The article xAI open-sources \"Grok-Build\" on GitHub after massive data breach appeared first on The Decoder.",
