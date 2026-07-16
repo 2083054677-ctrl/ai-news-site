@@ -1,5 +1,33 @@
 [
   {
+    "title": "Security incident disclosure — July 2026",
+    "summary": "Security incident disclosure — July 2026",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/security-incident-july-2026",
+    "id": "news-3925"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "summary": "Newer Models, Same Advantage",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-16",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "id": "news-3924"
+  },
+  {
     "title": "Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name",
     "summary": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs, fixes tool calling bugs, and addresses problems with truncated responses. The article Gemma 4 ge",
     "content": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs, fixes tool calling bugs, and addresses problems with truncated responses. The article Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name appeared first on The Decoder.",
