@@ -1,5 +1,57 @@
 [
   {
+    "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
+    "summary": "Looks like it happened. I actually assumed they would just enable it for all today, considering the Sol and Kimmi releases this past week. They doubled down instead.EDIT: Was an outage, they just fixe",
+    "content": "Looks like it happened. I actually assumed they would just enable it for all today, considering the Sol and Kimmi releases this past week. They doubled down instead.EDIT: Was an outage, they just fixed it (https://status.claude.com/) Comments URL: https://news.ycombinator.com/item?id=48950477 Points: 78 # Comments: 78",
+    "author": "cromka",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48950477",
+    "id": "news-3977"
+  },
+  {
+    "title": "Sandboxing LLM-Generated Python: How I Let Strangers' Prompts Fight Each Other",
+    "summary": "Article URL: https://jcurcioconsulting.com/posts/sandboxing-llm-generated-python-how-i-let-strangers-prompted-bots-fight-each-other Comments URL: https://news.ycombinator.com/item?id=48950496 Points: ",
+    "content": "Article URL: https://jcurcioconsulting.com/posts/sandboxing-llm-generated-python-how-i-let-strangers-prompted-bots-fight-each-other Comments URL: https://news.ycombinator.com/item?id=48950496 Points: 1 # Comments: 0",
+    "author": "Jeremy1026",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jcurcioconsulting.com/posts/sandboxing-llm-generated-python-how-i-let-strangers-prompted-bots-fight-each-other",
+    "id": "news-3976"
+  },
+  {
+    "title": "Show HN: Feral – an AI agent that creates content to promote your stuff",
+    "summary": "I built roughly 10 apps over the past year. Building them was the fun part; consistently marketing them was where my energy disappeared. I also couldn’t justify hiring an agency for every small projec",
+    "content": "I built roughly 10 apps over the past year. Building them was the fun part; consistently marketing them was where my energy disappeared. I also couldn’t justify hiring an agency for every small project. I tried using ChatGPT and Claude, but getting one good result was very different from getting consistently good results every day. I still had to find the angle, write the prompt, judge the output, repair it, and return tomorrow with another idea.And thus, Feral was born - it's a content creation",
+    "author": "creature_x",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48950737",
+    "id": "news-3975"
+  },
+  {
+    "title": "Show HN: Maxx – HUD for Claude token usage",
+    "summary": "Token management is a big deal when you have client projects to deliver. I need to have a pulse on what my current burn looks like, especially because I am spawning a bunch of subagents.Agents need to",
+    "content": "Token management is a big deal when you have client projects to deliver. I need to have a pulse on what my current burn looks like, especially because I am spawning a bunch of subagents.Agents need to know in real-time what the current utilization is. I went through 10 iterations of this tool - and likely going to do a number of more iterations. The net net is that I needed something to show me if I am on pace to use the tokens alloted to my subscription.Using up the session (maxxing out my sess",
+    "author": "_reif",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://meetmaxx.co/",
+    "id": "news-3974"
+  },
+  {
     "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
     "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
     "content": "",
