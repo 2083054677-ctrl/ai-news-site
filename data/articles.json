@@ -1,5 +1,70 @@
 [
   {
+    "title": "LLM Evaluators are Biased across Languages",
+    "summary": "Article URL: https://arxiv.org/abs/2607.14480 Comments URL: https://news.ycombinator.com/item?id=48944202 Points: 1 # Comments: 1",
+    "content": "Article URL: https://arxiv.org/abs/2607.14480 Comments URL: https://news.ycombinator.com/item?id=48944202 Points: 1 # Comments: 1",
+    "author": "sbulaev",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2607.14480",
+    "id": "news-3955"
+  },
+  {
+    "title": "Show HN: Velora – On-device macOS dictation (Whisper and a local LLM, no cloud)",
+    "summary": "Article URL: https://github.com/sushilk1991/velora Comments URL: https://news.ycombinator.com/item?id=48944208 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/sushilk1991/velora Comments URL: https://news.ycombinator.com/item?id=48944208 Points: 1 # Comments: 0",
+    "author": "sushilk1991",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sushilk1991/velora",
+    "id": "news-3954"
+  },
+  {
+    "title": "Netflix says around 300 titles used generative AI",
+    "summary": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings Comments URL: https://news.ycombinator.com/item?id=48944252 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings Comments URL: https://news.ycombinator.com/item?id=48944252 Points: 2 # Comments: 0",
+    "author": "JamesAdir",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+    "id": "news-3953"
+  },
+  {
+    "title": "A few thoughts on building a terminal ePub reader with AI",
+    "summary": "Article URL: https://github.com/newptcai/repy Comments URL: https://news.ycombinator.com/item?id=48944259 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/newptcai/repy Comments URL: https://news.ycombinator.com/item?id=48944259 Points: 2 # Comments: 1",
+    "author": "dawdler-purge",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/newptcai/repy",
+    "id": "news-3952"
+  },
+  {
+    "title": "Isvisible.ai, check if AI crawlers can access your site",
+    "summary": "Article URL: https://isvisible.ai Comments URL: https://news.ycombinator.com/item?id=48944283 Points: 1 # Comments: 0",
+    "content": "Article URL: https://isvisible.ai Comments URL: https://news.ycombinator.com/item?id=48944283 Points: 1 # Comments: 0",
+    "author": "alpkorpe",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://isvisible.ai",
+    "id": "news-3951"
+  },
+  {
     "title": "I measured whether AI writes hollower tests than humans. It doesn't",
     "summary": "Article URL: https://driivai.github.io/voidguard/ Comments URL: https://news.ycombinator.com/item?id=48943442 Points: 1 # Comments: 0",
     "content": "Article URL: https://driivai.github.io/voidguard/ Comments URL: https://news.ycombinator.com/item?id=48943442 Points: 1 # Comments: 0",
