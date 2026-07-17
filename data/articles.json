@@ -1,5 +1,70 @@
 [
   {
+    "title": "SAM – An open-source AI agent that runs on your own machine",
+    "summary": "Article URL: https://github.com/richhabits/sam Comments URL: https://news.ycombinator.com/item?id=48942440 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/richhabits/sam Comments URL: https://news.ycombinator.com/item?id=48942440 Points: 1 # Comments: 0",
+    "author": "sammind",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/richhabits/sam",
+    "id": "news-3946"
+  },
+  {
+    "title": "Claude Code is the ceiling on vibe-coded software",
+    "summary": "Article URL: https://danangell.com/blog/posts/claude-code/ Comments URL: https://news.ycombinator.com/item?id=48942532 Points: 1 # Comments: 0",
+    "content": "Article URL: https://danangell.com/blog/posts/claude-code/ Comments URL: https://news.ycombinator.com/item?id=48942532 Points: 1 # Comments: 0",
+    "author": "teaearlgraycold",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://danangell.com/blog/posts/claude-code/",
+    "id": "news-3945"
+  },
+  {
+    "title": "Boris Cherny: Steps of AI Adoption",
+    "summary": "Article URL: https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf Comments URL: https://news.ycombinator.com/item?id=48942554 Points: 1 # Comments: 0",
+    "content": "Article URL: https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf Comments URL: https://news.ycombinator.com/item?id=48942554 Points: 1 # Comments: 0",
+    "author": "shenli3514",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+    "id": "news-3944"
+  },
+  {
+    "title": "Microsoft Ships AI Agents at Enterprise Scale",
+    "summary": "Article URL: https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at Comments URL: https://news.ycombinator.com/item?id=48942556 Points: 2 # Comments: 0",
+    "content": "Article URL: https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at Comments URL: https://news.ycombinator.com/item?id=48942556 Points: 2 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
+    "id": "news-3943"
+  },
+  {
+    "title": "VulnHunter: Agentic AI Security Tool",
+    "summary": "Article URL: https://github.com/capitalone/VulnHunter Comments URL: https://news.ycombinator.com/item?id=48942583 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/capitalone/VulnHunter Comments URL: https://news.ycombinator.com/item?id=48942583 Points: 1 # Comments: 0",
+    "author": "882542F3884314B",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/capitalone/VulnHunter",
+    "id": "news-3942"
+  },
+  {
     "title": "What Doom taught us about AI-assisted incident response",
     "summary": "Article URL: https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response Comments URL: https://news.ycombinator.com/item?id=48940764 Points: 5 # Comments: 0",
     "content": "Article URL: https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response Comments URL: https://news.ycombinator.com/item?id=48940764 Points: 5 # Comments: 0",
