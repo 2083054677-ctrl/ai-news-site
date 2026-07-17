@@ -1,5 +1,83 @@
 [
   {
+    "title": "Netflix's 300 AI productions show how fast the technology is spreading through entertainment",
+    "summary": "Netflix now uses AI in about 300 productions, mostly in post-production. Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assi",
+    "content": "Netflix now uses AI in about 300 productions, mostly in post-production. Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assisted footage, produced twice as fast at half the cost. The savings will \"likely\" fund more content rather than shrink the $20 billion budget. The article Netflix's 300 AI productions show how fast the technology is spreading through entertainment appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/",
+    "id": "news-3961"
+  },
+  {
+    "title": "Chinese Models Power 60% of US Corporate AI Use",
+    "summary": "Article URL: https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/ Comments URL: https://news.ycombinator.com/item?id=48945060 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/ Comments URL: https://news.ycombinator.com/item?id=48945060 Points: 3 # Comments: 0",
+    "author": "mgh2",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/",
+    "id": "news-3960"
+  },
+  {
+    "title": "Xi Jinping sets out China's goal to be global AI leader",
+    "summary": "Article URL: https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc Comments URL: https://news.ycombinator.com/item?id=48945081 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc Comments URL: https://news.ycombinator.com/item?id=48945081 Points: 2 # Comments: 0",
+    "author": "codesections",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc",
+    "id": "news-3959"
+  },
+  {
+    "title": "SREs to AI Agents: Prove Yourself Before You Touch Production",
+    "summary": "Article URL: https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533 Comments URL: https://news.ycombinator.com/item?id=48945150 Points: 2 ",
+    "content": "Article URL: https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533 Comments URL: https://news.ycombinator.com/item?id=48945150 Points: 2 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+    "id": "news-3958"
+  },
+  {
+    "title": "An Assessment of How AI Models Protect Free Expression",
+    "summary": "Article URL: https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/ Comments URL: https://news.ycombinator.com/item?id=48945190 ",
+    "content": "Article URL: https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/ Comments URL: https://news.ycombinator.com/item?id=48945190 Points: 2 # Comments: 0",
+    "author": "huhkerrf",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/",
+    "id": "news-3957"
+  },
+  {
+    "title": "Nvidia Showcases Japanese AI Development Built on Nemotron Models",
+    "summary": "Article URL: https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/ Comments URL: https://news.ycombinator.com/item?id=48945281 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/ Comments URL: https://news.ycombinator.com/item?id=48945281 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/",
+    "id": "news-3956"
+  },
+  {
     "title": "LLM Evaluators are Biased across Languages",
     "summary": "Article URL: https://arxiv.org/abs/2607.14480 Comments URL: https://news.ycombinator.com/item?id=48944202 Points: 1 # Comments: 1",
     "content": "Article URL: https://arxiv.org/abs/2607.14480 Comments URL: https://news.ycombinator.com/item?id=48944202 Points: 1 # Comments: 1",
