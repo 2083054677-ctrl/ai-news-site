@@ -1,5 +1,83 @@
 [
   {
+    "title": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
+    "summary": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic a",
+    "content": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
+    "id": "news-3990"
+  },
+  {
+    "title": "MG Siegler: 'OpenAI Makes ChatGPT ChatGPT Again'",
+    "summary": "Article URL: https://daringfireball.net/linked/2026/07/17/chatgpt-siegler Comments URL: https://news.ycombinator.com/item?id=48952815 Points: 2 # Comments: 0",
+    "content": "Article URL: https://daringfireball.net/linked/2026/07/17/chatgpt-siegler Comments URL: https://news.ycombinator.com/item?id=48952815 Points: 2 # Comments: 0",
+    "author": "frizlab",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://daringfireball.net/linked/2026/07/17/chatgpt-siegler",
+    "id": "news-3989"
+  },
+  {
+    "title": "Torvalds: 'AI Is a Tool, Just Like Other Tools. It's Clearly a Useful One'",
+    "summary": "Article URL: https://daringfireball.net/linked/2026/07/17/torvalds-on-ai Comments URL: https://news.ycombinator.com/item?id=48952831 Points: 4 # Comments: 2",
+    "content": "Article URL: https://daringfireball.net/linked/2026/07/17/torvalds-on-ai Comments URL: https://news.ycombinator.com/item?id=48952831 Points: 4 # Comments: 2",
+    "author": "frizlab",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://daringfireball.net/linked/2026/07/17/torvalds-on-ai",
+    "id": "news-3988"
+  },
+  {
+    "title": "Netflix Paid $587M for Ben Affleck's AI Company",
+    "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/ Comments URL: https://news.ycombinator.com/item?id=48952849 Points: 1 # ",
+    "content": "Article URL: https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/ Comments URL: https://news.ycombinator.com/item?id=48952849 Points: 1 # Comments: 0",
+    "author": "Sgt_Apone",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/",
+    "id": "news-3987"
+  },
+  {
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=489528",
+    "content": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 2 # Comments: 0",
+    "author": "gnabgib",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "id": "news-3986"
+  },
+  {
+    "title": "Patreon Blocks AI Crawlers from Copying Content: 'Creators Deserve Compenstion'",
+    "summary": "Article URL: https://petapixel.com/2026/07/13/patreon-blocks-ai-crawlers-from-copying-content-creators-deserve-compenstion/ Comments URL: https://news.ycombinator.com/item?id=48952945 Points: 1 # Comm",
+    "content": "Article URL: https://petapixel.com/2026/07/13/patreon-blocks-ai-crawlers-from-copying-content-creators-deserve-compenstion/ Comments URL: https://news.ycombinator.com/item?id=48952945 Points: 1 # Comments: 0",
+    "author": "gnabgib",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://petapixel.com/2026/07/13/patreon-blocks-ai-crawlers-from-copying-content-creators-deserve-compenstion/",
+    "id": "news-3985"
+  },
+  {
     "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
     "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of ",
     "content": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of course, warns that a world dominated by open-weight models would amount to \"AI communism.\" The release is reigniting the debate over how much computing power actually matters and whether U.S. export controls are working. The article Just like Deepseek, China's Kimi K3 is forcing Western AI labs to q",
