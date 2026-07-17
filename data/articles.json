@@ -1,5 +1,19 @@
 [
   {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "id": "news-3973"
+  },
+  {
     "title": "Use caffeinate to keep Claude Code and Codex running on Mac",
     "summary": "Article URL: https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/ Comments URL: https://news.ycombinator.com/item?id=48947924 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/ Comments URL: https://news.ycombinator.com/item?id=48947924 Points: 1 # Comments: 0",
