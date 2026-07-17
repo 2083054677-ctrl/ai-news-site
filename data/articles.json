@@ -1,5 +1,96 @@
 [
   {
+    "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
+    "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of ",
+    "content": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of course, warns that a world dominated by open-weight models would amount to \"AI communism.\" The release is reigniting the debate over how much computing power actually matters and whether U.S. export controls are working. The article Just like Deepseek, China's Kimi K3 is forcing Western AI labs to q",
+    "author": "Matthias Bastian",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
+    "id": "news-3984"
+  },
+  {
+    "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
+    "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries o",
+    "content": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has announced extra safeguards and a detailed post-mortem. The article GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
+    "id": "news-3983"
+  },
+  {
+    "title": "Ask HN: Is AI sycophancy a way to reduce compute rather than make users happier?",
+    "summary": "Of course you would like the AI to be more critical about your ideas but to be usefully critical requires more compute, right?Current AI feels like talking to a human expert who answers quickly withou",
+    "content": "Of course you would like the AI to be more critical about your ideas but to be usefully critical requires more compute, right?Current AI feels like talking to a human expert who answers quickly without really thinking about the matter much. Comments URL: https://news.ycombinator.com/item?id=48951462 Points: 1 # Comments: 1",
+    "author": "amichail",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48951462",
+    "id": "news-3982"
+  },
+  {
+    "title": "Show HN: Argument duello game with your friend – AI judge decides who's right",
+    "summary": "Article URL: https://wram.chat Comments URL: https://news.ycombinator.com/item?id=48951768 Points: 1 # Comments: 0",
+    "content": "Article URL: https://wram.chat Comments URL: https://news.ycombinator.com/item?id=48951768 Points: 1 # Comments: 0",
+    "author": "revolt2tech",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wram.chat",
+    "id": "news-3981"
+  },
+  {
+    "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/ Comments URL: https://news.ycombinator.com/item?id=48951849 Points: 5 # Comme",
+    "content": "Article URL: https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/ Comments URL: https://news.ycombinator.com/item?id=48951849 Points: 5 # Comments: 1",
+    "author": "baal80spam",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+    "id": "news-3980"
+  },
+  {
+    "title": "MLB restricts using dugout iPads for AI-assisted in-game strategy",
+    "summary": "Article URL: https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making Comments URL: https://news.ycombinator.com/item?id=48951854",
+    "content": "Article URL: https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making Comments URL: https://news.ycombinator.com/item?id=48951854 Points: 2 # Comments: 0",
+    "author": "HardwareLust",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making",
+    "id": "news-3979"
+  },
+  {
+    "title": "China's Xi Jinping launches new AI alliance, WAICO",
+    "summary": "Article URL: https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it Comments URL: https://news.ycombinator.com/item?id=48951895 Points: 3 # Comments: 2",
+    "content": "Article URL: https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it Comments URL: https://news.ycombinator.com/item?id=48951895 Points: 3 # Comments: 2",
+    "author": "culi",
+    "date": "2026-07-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+    "id": "news-3978"
+  },
+  {
     "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
     "summary": "Looks like it happened. I actually assumed they would just enable it for all today, considering the Sol and Kimmi releases this past week. They doubled down instead.EDIT: Was an outage, they just fixe",
     "content": "Looks like it happened. I actually assumed they would just enable it for all today, considering the Sol and Kimmi releases this past week. They doubled down instead.EDIT: Was an outage, they just fixed it (https://status.claude.com/) Comments URL: https://news.ycombinator.com/item?id=48950477 Points: 78 # Comments: 78",
