@@ -1,5 +1,31 @@
 [
   {
+    "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
+    "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, t",
+    "content": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It also found that safety measures on open models are largely ineffective, leaving defenders less time to prepare. The article Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost appeared first on The Decoder",
+    "author": "Matthias Bastian",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+    "id": "news-4008"
+  },
+  {
+    "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
+    "summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperat",
+    "content": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperation centers with ASEAN, the African Union, BRICS, and other alliances are planned to follow. China is systematically building a parallel AI governance structure outside Western influence. The article China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play y",
+    "author": "Matthias Bastian",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+    "id": "news-4007"
+  },
+  {
     "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than \"imperfect alignment\"",
     "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioriti",
     "content": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios. The core message is that moving too slowly carries greater risks than \"imperfect alignment.\" The article The Pentagon's new AI playbook treats slow adoption as a bigger risk than \"imperfect alignment\" appeared first on The Decoder.",
