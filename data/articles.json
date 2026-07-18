@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: Claude Code for Ordinary User",
+    "summary": "Claude *Code* to me it the real revolution (not web chat), and all my colleagues are on it.I use it outside my job (sysadmin) a lot, and trying to push my non-IT friends to use it too.To me it is so c",
+    "content": "Claude *Code* to me it the real revolution (not web chat), and all my colleagues are on it.I use it outside my job (sysadmin) a lot, and trying to push my non-IT friends to use it too.To me it is so clear that to use Claude *Code* you need to know the basic of bash... so I really see a huge barrier for my non-IT friends on it.I tried to teach them, but it's clearly a big wall for them: most of them have Mac, and they need to know the basic (e.g. \"cd \"): even a proper cut/paste of a bash command ",
+    "author": "oriettaxx",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48955119",
+    "id": "news-4000"
+  },
+  {
+    "title": "Over 10k people shared what they love about GPT-5.6",
+    "summary": "Article URL: https://welcome-to-codex.openai.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=48955126 Points: 1 # Comments: 0",
+    "content": "Article URL: https://welcome-to-codex.openai.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=48955126 Points: 1 # Comments: 0",
+    "author": "pretext",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://welcome-to-codex.openai.chatgpt.site/",
+    "id": "news-3999"
+  },
+  {
+    "title": "Postlia – a social media scheduler that flags AI-sounding posts",
+    "summary": "Article URL: https://postlia.com Comments URL: https://news.ycombinator.com/item?id=48955151 Points: 1 # Comments: 1",
+    "content": "Article URL: https://postlia.com Comments URL: https://news.ycombinator.com/item?id=48955151 Points: 1 # Comments: 1",
+    "author": "EraySaygin",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://postlia.com",
+    "id": "news-3998"
+  },
+  {
+    "title": "Critical thinking has become an AI‑era buzzword. But what does it mean?",
+    "summary": "Article URL: https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363 Comments URL: https://news.ycombinator.com/item?id",
+    "content": "Article URL: https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363 Comments URL: https://news.ycombinator.com/item?id=48955239 Points: 1 # Comments: 0",
+    "author": "jruohonen",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363",
+    "id": "news-3997"
+  },
+  {
+    "title": "Flathub's AI slop ban looks like it was the right call",
+    "summary": "Article URL: https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data Comments URL: https://news.ycombinator.com/item?id=48955278 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data Comments URL: https://news.ycombinator.com/item?id=48955278 Points: 1 # Comments: 0",
+    "author": "shaunpud",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data",
+    "id": "news-3996"
+  },
+  {
     "title": "Public data and an AI evidence engine for Swedish politics",
     "summary": "Article URL: https://oversikt.se/ Comments URL: https://news.ycombinator.com/item?id=48953950 Points: 2 # Comments: 0",
     "content": "Article URL: https://oversikt.se/ Comments URL: https://news.ycombinator.com/item?id=48953950 Points: 2 # Comments: 0",
