@@ -1,5 +1,70 @@
 [
   {
+    "title": "Public data and an AI evidence engine for Swedish politics",
+    "summary": "Article URL: https://oversikt.se/ Comments URL: https://news.ycombinator.com/item?id=48953950 Points: 2 # Comments: 0",
+    "content": "Article URL: https://oversikt.se/ Comments URL: https://news.ycombinator.com/item?id=48953950 Points: 2 # Comments: 0",
+    "author": "andreascw",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://oversikt.se/",
+    "id": "news-3995"
+  },
+  {
+    "title": "A Proposal for The Dartmouth Summer Research Project on AI (1955) [pdf]",
+    "summary": "Article URL: http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf Comments URL: https://news.ycombinator.com/item?id=48954022 Points: 2 # Comments: 0",
+    "content": "Article URL: http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf Comments URL: https://news.ycombinator.com/item?id=48954022 Points: 2 # Comments: 0",
+    "author": "teleforce",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf",
+    "id": "news-3994"
+  },
+  {
+    "title": "Overtraining as the path to human-like AI",
+    "summary": "Article URL: https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/ Comments URL: https://news.ycombinator.com/item?id=48954091 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/ Comments URL: https://news.ycombinator.com/item?id=48954091 Points: 2 # Comments: 0",
+    "author": "turadg",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+    "id": "news-3993"
+  },
+  {
+    "title": "Face Value: How AI is reshaping trust, identity, and scams",
+    "summary": "Article URL: https://www.malwarebytes.com/ai-scams Comments URL: https://news.ycombinator.com/item?id=48954169 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.malwarebytes.com/ai-scams Comments URL: https://news.ycombinator.com/item?id=48954169 Points: 2 # Comments: 0",
+    "author": "CHB0403085482",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.malwarebytes.com/ai-scams",
+    "id": "news-3992"
+  },
+  {
+    "title": "AI hasn't shifted the bottleneck from coding to code review",
+    "summary": "Article URL: https://thenewstack.io/ai-code-bottleneck-myth/ Comments URL: https://news.ycombinator.com/item?id=48954189 Points: 3 # Comments: 0",
+    "content": "Article URL: https://thenewstack.io/ai-code-bottleneck-myth/ Comments URL: https://news.ycombinator.com/item?id=48954189 Points: 3 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenewstack.io/ai-code-bottleneck-myth/",
+    "id": "news-3991"
+  },
+  {
     "title": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
     "summary": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic a",
     "content": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic appeared first on The Decoder.",
