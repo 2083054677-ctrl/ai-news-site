@@ -1,5 +1,70 @@
 [
   {
+    "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+    "summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time",
+    "content": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates. The reversal from Anthropic's original plan to pull Fable from subscriptions entirely likely comes down to competitive pressure from OpenAI's cheaper GPT-5.6 Sol. The article Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward",
+    "author": "Matthias Bastian",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+    "id": "news-4005"
+  },
+  {
+    "title": "AI and Creativity",
+    "summary": "Article URL: https://sunnyamrat.com/posts/2026-07-17-ai-creativity/ Comments URL: https://news.ycombinator.com/item?id=48955763 Points: 1 # Comments: 0",
+    "content": "Article URL: https://sunnyamrat.com/posts/2026-07-17-ai-creativity/ Comments URL: https://news.ycombinator.com/item?id=48955763 Points: 1 # Comments: 0",
+    "author": "sunnyam",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sunnyamrat.com/posts/2026-07-17-ai-creativity/",
+    "id": "news-4004"
+  },
+  {
+    "title": "Agentic AI Is Taking over Execution, Not Just Content Generation",
+    "summary": "Article URL: https://themarketingnewsletter.org/p/45-agentic-ai-is-taking-over-execution Comments URL: https://news.ycombinator.com/item?id=48955798 Points: 1 # Comments: 1",
+    "content": "Article URL: https://themarketingnewsletter.org/p/45-agentic-ai-is-taking-over-execution Comments URL: https://news.ycombinator.com/item?id=48955798 Points: 1 # Comments: 1",
+    "author": "thenewedrock",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://themarketingnewsletter.org/p/45-agentic-ai-is-taking-over-execution",
+    "id": "news-4003"
+  },
+  {
+    "title": "LLM Cliché Highlighter",
+    "summary": "Article URL: https://tools.simonwillison.net/llm-cliche-highlighter Comments URL: https://news.ycombinator.com/item?id=48955805 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tools.simonwillison.net/llm-cliche-highlighter Comments URL: https://news.ycombinator.com/item?id=48955805 Points: 1 # Comments: 0",
+    "author": "m_c",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tools.simonwillison.net/llm-cliche-highlighter",
+    "id": "news-4002"
+  },
+  {
+    "title": "AI Mania Is Eviscerating Global Decisionmaking",
+    "summary": "Article URL: https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking Comments URL: https://news.ycombinator.com/item?id=48955929 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking Comments URL: https://news.ycombinator.com/item?id=48955929 Points: 1 # Comments: 0",
+    "author": "olalonde",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+    "id": "news-4001"
+  },
+  {
     "title": "Ask HN: Claude Code for Ordinary User",
     "summary": "Claude *Code* to me it the real revolution (not web chat), and all my colleagues are on it.I use it outside my job (sysadmin) a lot, and trying to push my non-IT friends to use it too.To me it is so c",
     "content": "Claude *Code* to me it the real revolution (not web chat), and all my colleagues are on it.I use it outside my job (sysadmin) a lot, and trying to push my non-IT friends to use it too.To me it is so clear that to use Claude *Code* you need to know the basic of bash... so I really see a huge barrier for my non-IT friends on it.I tried to teach them, but it's clearly a big wall for them: most of them have Mac, and they need to know the basic (e.g. \"cd \"): even a proper cut/paste of a bash command ",
