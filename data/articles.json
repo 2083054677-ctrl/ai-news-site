@@ -1,5 +1,70 @@
 [
   {
+    "title": "The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs",
+    "summary": "Article URL: https://okaneland.com/studio/tom-huang/ Comments URL: https://news.ycombinator.com/item?id=48957534 Points: 2 # Comments: 3",
+    "content": "Article URL: https://okaneland.com/studio/tom-huang/ Comments URL: https://news.ycombinator.com/item?id=48957534 Points: 2 # Comments: 3",
+    "author": "ermantrout",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://okaneland.com/studio/tom-huang/",
+    "id": "news-4013"
+  },
+  {
+    "title": "Big Tech's top executives warn enterprises are giving away too much to AI labs",
+    "summary": "Article URL: https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how/ Comments URL: https://news.ycombinator.com/item?id=48957542 Points: ",
+    "content": "Article URL: https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how/ Comments URL: https://news.ycombinator.com/item?id=48957542 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how/",
+    "id": "news-4012"
+  },
+  {
+    "title": "Using AI",
+    "summary": "Article URL: https://isaacrodriguez.me/post/2026/using-ai/ Comments URL: https://news.ycombinator.com/item?id=48957558 Points: 1 # Comments: 0",
+    "content": "Article URL: https://isaacrodriguez.me/post/2026/using-ai/ Comments URL: https://news.ycombinator.com/item?id=48957558 Points: 1 # Comments: 0",
+    "author": "isaacrodriguez",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://isaacrodriguez.me/post/2026/using-ai/",
+    "id": "news-4011"
+  },
+  {
+    "title": "Show HN: TrAIcer – capture your AI coding traces to sell later",
+    "summary": "Article URL: https://github.com/smashah/traicer Comments URL: https://news.ycombinator.com/item?id=48957581 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/smashah/traicer Comments URL: https://news.ycombinator.com/item?id=48957581 Points: 1 # Comments: 1",
+    "author": "smashah",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/smashah/traicer",
+    "id": "news-4010"
+  },
+  {
+    "title": "Show HN: ride-recap, teaching a LLM my taste to automate cycling highlights",
+    "summary": "TL;DR: Turn hours of raw GoPro footage + a .fit file into a 60-second highlight reel with ride telemetry burned in. Every second of the ride is scanned by gemini-3.5-flash, as is the clip ranking + cu",
+    "content": "TL;DR: Turn hours of raw GoPro footage + a .fit file into a 60-second highlight reel with ride telemetry burned in. Every second of the ride is scanned by gemini-3.5-flash, as is the clip ranking + curation. The whole thing costs about $0.04 per ride and takes 10 minutes.Longer version: Road cycling has been my primary form of exercise, social outlet, therapy, wardrobe expense, and personality trait for almost a decade. I ride most weekends, usually out of Manhattan and up 9W. By the end of a ri",
+    "author": "iandmacomber",
+    "date": "2026-07-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.iandmacomber.com/blog/gopro-garmin-gemini-ride-recap/",
+    "id": "news-4009"
+  },
+  {
     "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
     "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, t",
     "content": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It also found that safety measures on open models are largely ineffective, leaving defenders less time to prepare. The article Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost appeared first on The Decoder",
