@@ -1,5 +1,18 @@
 [
   {
+    "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong",
+    "summary": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with full confidence, and human radiologists are",
+    "content": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with full confidence, and human radiologists are still well ahead. Before AI can diagnose on its own, it needs to learn when it's better to say nothing. The article AI chatbots reading X-rays can be dangerously confident even when they're wrong appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
+    "id": "news-4024"
+  },
+  {
     "title": "Show HN: Wave – Talk to AI. Meet the human on the other side",
     "summary": "Article URL: https://www.getonwave.com/ Comments URL: https://news.ycombinator.com/item?id=48964876 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.getonwave.com/ Comments URL: https://news.ycombinator.com/item?id=48964876 Points: 1 # Comments: 0",
