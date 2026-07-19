@@ -1,5 +1,57 @@
 [
   {
+    "title": "Generative AI Can Harm Teaching",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339 Comments URL: https://news.ycombinator.com/item?id=48970468 Points: 1 # Comments: 1",
+    "content": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339 Comments URL: https://news.ycombinator.com/item?id=48970468 Points: 1 # Comments: 1",
+    "author": "rekabis",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339",
+    "id": "news-4042"
+  },
+  {
+    "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
+    "summary": "Article URL: https://github.com/Ozperium/agentspec Comments URL: https://news.ycombinator.com/item?id=48970483 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Ozperium/agentspec Comments URL: https://news.ycombinator.com/item?id=48970483 Points: 1 # Comments: 1",
+    "author": "pawfromoz",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Ozperium/agentspec",
+    "id": "news-4041"
+  },
+  {
+    "title": "Huginn: An AI Agent Activity Console",
+    "summary": "Article URL: https://github.com/tohuw/huginn Comments URL: https://news.ycombinator.com/item?id=48970487 Points: 1 # Comments: 2",
+    "content": "Article URL: https://github.com/tohuw/huginn Comments URL: https://news.ycombinator.com/item?id=48970487 Points: 1 # Comments: 2",
+    "author": "tohuw",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tohuw/huginn",
+    "id": "news-4040"
+  },
+  {
+    "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
+    "summary": "Article URL: https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8 Comments URL: https://news.ycombinator.com/item?id=48970670 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8 Comments URL: https://news.ycombinator.com/item?id=48970670 Points: 1 # Comments: 1",
+    "author": "NN88",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
+    "id": "news-4039"
+  },
+  {
     "title": "Show HN: Knowledge graph skill for Claude/Kimi Code",
     "summary": "Working with multiple Claude Code instances I found issues with requirements traceability, test coverage, and inter-instance communication. I was working with knowledge graphs so built a knowledge gra",
     "content": "Working with multiple Claude Code instances I found issues with requirements traceability, test coverage, and inter-instance communication. I was working with knowledge graphs so built a knowledge graph skill for Claude Code - every user story, use-case, feature, test-case is a node; plus i track defects and enhancements so each instance knows its backlog. It saves tokens by knowing where code is implemented, but perhaps more importantly it found systematic errors in requirements quality and tes",
