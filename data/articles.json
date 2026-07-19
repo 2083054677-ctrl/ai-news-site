@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Knowledge graph skill for Claude/Kimi Code",
+    "summary": "Working with multiple Claude Code instances I found issues with requirements traceability, test coverage, and inter-instance communication. I was working with knowledge graphs so built a knowledge gra",
+    "content": "Working with multiple Claude Code instances I found issues with requirements traceability, test coverage, and inter-instance communication. I was working with knowledge graphs so built a knowledge graph skill for Claude Code - every user story, use-case, feature, test-case is a node; plus i track defects and enhancements so each instance knows its backlog. It saves tokens by knowing where code is implemented, but perhaps more importantly it found systematic errors in requirements quality and tes",
+    "author": "org-edge",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://org-edge.com/sysedge.html",
+    "id": "news-4038"
+  },
+  {
+    "title": "Show HN: DWS A LLM Generated, \"Drudge Report\" style news site",
+    "summary": "Hi folks!As a weekend experiment, I created DWS Report. A simple news link aggregator site where the layout is modeled after Drudge Report (while I don't agree with the news style, the simple site sty",
+    "content": "Hi folks!As a weekend experiment, I created DWS Report. A simple news link aggregator site where the layout is modeled after Drudge Report (while I don't agree with the news style, the simple site style is fun).The engine collects articles from RSS feeds every 15 minutes, has a LLM score the importance of the articles, dedupes via an embedding DB, and then decays article scores over time.The experiment here was attempting to build a more deterministic LLM workflow, and host something on my own i",
+    "author": "tdubey",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.dws.rip/",
+    "id": "news-4037"
+  },
+  {
+    "title": "Pro-AI super PAC keeps $31M ready for the midterms",
+    "summary": "Article URL: https://www.axios.com/2026/07/17/pro-ai-super-pac-ready-midterms Comments URL: https://news.ycombinator.com/item?id=48968473 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/07/17/pro-ai-super-pac-ready-midterms Comments URL: https://news.ycombinator.com/item?id=48968473 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/07/17/pro-ai-super-pac-ready-midterms",
+    "id": "news-4036"
+  },
+  {
+    "title": "AI didn't replace our security team – it multiplied it",
+    "summary": "Article URL: https://webflow.com/blog/ai-didnt-replace-our-security-team Comments URL: https://news.ycombinator.com/item?id=48968580 Points: 1 # Comments: 0",
+    "content": "Article URL: https://webflow.com/blog/ai-didnt-replace-our-security-team Comments URL: https://news.ycombinator.com/item?id=48968580 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://webflow.com/blog/ai-didnt-replace-our-security-team",
+    "id": "news-4035"
+  },
+  {
+    "title": "Visuali: An AI agent that creates and edits images on an infinite canvas",
+    "summary": "Article URL: https://visuali.io Comments URL: https://news.ycombinator.com/item?id=48968601 Points: 1 # Comments: 0",
+    "content": "Article URL: https://visuali.io Comments URL: https://news.ycombinator.com/item?id=48968601 Points: 1 # Comments: 0",
+    "author": "yooo00",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://visuali.io",
+    "id": "news-4034"
+  },
+  {
     "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
     "summary": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba",
     "content": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\" appeared first on The Decoder.",
