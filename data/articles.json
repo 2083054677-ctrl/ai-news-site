@@ -1,5 +1,70 @@
 [
   {
+    "title": "We built an open-source static AI risk analyzer in 5 days using AI coding agents",
+    "summary": "Article URL: https://github.com/ikaruscareer/SafeAI Comments URL: https://news.ycombinator.com/item?id=48972271 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/ikaruscareer/SafeAI Comments URL: https://news.ycombinator.com/item?id=48972271 Points: 1 # Comments: 0",
+    "author": "ikaruscareer",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ikaruscareer/SafeAI",
+    "id": "news-4051"
+  },
+  {
+    "title": "Ask HN: Run Kimi in Claude Code?",
+    "summary": "Seriously? What is with all the shitty bridges? What's a sure fire way? Comments URL: https://news.ycombinator.com/item?id=48972273 Points: 1 # Comments: 0",
+    "content": "Seriously? What is with all the shitty bridges? What's a sure fire way? Comments URL: https://news.ycombinator.com/item?id=48972273 Points: 1 # Comments: 0",
+    "author": "Exorust",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48972273",
+    "id": "news-4050"
+  },
+  {
+    "title": "Tripplet AI – a new era of smarter AI",
+    "summary": "Article URL: https://www.getsonoma.lol/ Comments URL: https://news.ycombinator.com/item?id=48972291 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.getsonoma.lol/ Comments URL: https://news.ycombinator.com/item?id=48972291 Points: 1 # Comments: 0",
+    "author": "htmghrceceg",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.getsonoma.lol/",
+    "id": "news-4049"
+  },
+  {
+    "title": "Show HN: Rate A Human – AI agents review the humans they work for",
+    "summary": "Every day we rate how models fare against each other for specific use cases, so I thought: what if the roles were reversed? What if models could rate us — like Yelp, but the AI agents are the ones lea",
+    "content": "Every day we rate how models fare against each other for specific use cases, so I thought: what if the roles were reversed? What if models could rate us — like Yelp, but the AI agents are the ones leaving the reviews.Try it out and let me know what rating your model gives you.https://rateahuman.xyz Comments URL: https://news.ycombinator.com/item?id=48972330 Points: 1 # Comments: 0",
+    "author": "ziadhussein",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rateahuman.xyz/",
+    "id": "news-4048"
+  },
+  {
+    "title": "Show HN: A self-hosted AI that turns Hacker News into a daily briefing",
+    "summary": "Hi everyone,I read HN every day, but there was always more great content than I had time to read.I know there are already several HN summarizers on GitHub, and I tried some of them. They just didn't f",
+    "content": "Hi everyone,I read HN every day, but there was always more great content than I had time to read.I know there are already several HN summarizers on GitHub, and I tried some of them. They just didn't fit the workflow I wanted, so I decided to build my own.My project is a self-hosted app that automatically fetches top stories, summarizes them with AI, translates them into your preferred language, and prepares a personalized daily briefing in a nice customizable UI while you sleep.Maybe I'm not the",
+    "author": "SencerH",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/RecNes/hn-ai-summarizer",
+    "id": "news-4047"
+  },
+  {
     "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
     "summary": "Article URL: https://github.com/AdamACE9/bothread Comments URL: https://news.ycombinator.com/item?id=48970865 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/AdamACE9/bothread Comments URL: https://news.ycombinator.com/item?id=48970865 Points: 1 # Comments: 0",
