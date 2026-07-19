@@ -1,5 +1,83 @@
 [
   {
+    "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
+    "summary": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba",
+    "content": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+    "id": "news-4033"
+  },
+  {
+    "title": "I built llms.txt files to make local businesses discoverable by AI agents",
+    "summary": "Article URL: https://www.kloofstreet.online/ Comments URL: https://news.ycombinator.com/item?id=48967666 Points: 1 # Comments: 2",
+    "content": "Article URL: https://www.kloofstreet.online/ Comments URL: https://news.ycombinator.com/item?id=48967666 Points: 1 # Comments: 2",
+    "author": "businesshustle",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kloofstreet.online/",
+    "id": "news-4032"
+  },
+  {
+    "title": "Are the LLM Wars the Database Wars?",
+    "summary": "Article URL: https://rruxandra.github.io/llm-wars-database-wars.html Comments URL: https://news.ycombinator.com/item?id=48967717 Points: 2 # Comments: 2",
+    "content": "Article URL: https://rruxandra.github.io/llm-wars-database-wars.html Comments URL: https://news.ycombinator.com/item?id=48967717 Points: 2 # Comments: 2",
+    "author": "rruxandra_l",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rruxandra.github.io/llm-wars-database-wars.html",
+    "id": "news-4031"
+  },
+  {
+    "title": "Ask HN: Guidelines on GPT 5.6 Sol steering",
+    "summary": "I converged on these principles in my work with Sol so far:Let Sol medium/high propose and implement minimum viable solution without overengineering and overthinking.Use XHigh/Max/Ultra sparingly for ",
+    "content": "I converged on these principles in my work with Sol so far:Let Sol medium/high propose and implement minimum viable solution without overengineering and overthinking.Use XHigh/Max/Ultra sparingly for hardest most complex workloads/advisory. (For Ultra I found it works best for me, when it had to control/supervised multiple complex lanes/subagents simultaneously within same high level strategic context).Curious to hear what solutions on properly steering and guiding Sol variants have y'all found ",
+    "author": "arizen",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48967745",
+    "id": "news-4030"
+  },
+  {
+    "title": "Claude Code skill for searching royalty-free stock photos via the Pexels API",
+    "summary": "Article URL: https://github.com/amalshehu/pexels-skill Comments URL: https://news.ycombinator.com/item?id=48967807 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/amalshehu/pexels-skill Comments URL: https://news.ycombinator.com/item?id=48967807 Points: 1 # Comments: 0",
+    "author": "amalshehu",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/amalshehu/pexels-skill",
+    "id": "news-4029"
+  },
+  {
+    "title": "In-House LLM Serving at Netflix",
+    "summary": "Article URL: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss-c3aeaf49d8a4------2 Comments URL: https://news.ycombinator.com/item?id=48967808 Points: 1 # Comments: 0",
+    "content": "Article URL: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss-c3aeaf49d8a4------2 Comments URL: https://news.ycombinator.com/item?id=48967808 Points: 1 # Comments: 0",
+    "author": "dalvrosa",
+    "date": "2026-07-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss-c3aeaf49d8a4------2",
+    "id": "news-4028"
+  },
+  {
     "title": "AI text detectors struggle when language models mimic an author's style",
     "summary": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts. Up to 18 percent of AI-generated passages went undetected. For scientific writing, th",
     "content": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts. Up to 18 percent of AI-generated passages went undetected. For scientific writing, the miss rate climbed as high as 48 percent, the very genre where these detectors likely see the most real-world use. The article AI text detectors struggle when language models mimic an author's style appeared first on The Decoder.",
