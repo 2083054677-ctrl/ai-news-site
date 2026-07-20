@@ -1,5 +1,83 @@
 [
   {
+    "title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
+    "summary": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to sprea",
+    "content": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to spread computing power more evenly. The article Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
+    "id": "news-4067"
+  },
+  {
+    "title": "Open Source Will Eat AI",
+    "summary": "Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=48976531 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=48976531 Points: 1 # Comments: 0",
+    "author": "lyoncy",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
+    "id": "news-4066"
+  },
+  {
+    "title": "Show HN: I built a deterministic arena where AI agents fight using code",
+    "summary": "I have been interested in BattleBots and programming games for years.With recent AI coding agents, I wanted to see what happens if the strategy itself becomes code written by humans or AI.AgentDuel is",
+    "content": "I have been interested in BattleBots and programming games for years.With recent AI coding agents, I wanted to see what happens if the strategy itself becomes code written by humans or AI.AgentDuel is a deterministic turn-based arena where agents fight based on submitted TypeScript strategies.Each battle produces a replay so you can inspect every decision. Comments URL: https://news.ycombinator.com/item?id=48976704 Points: 1 # Comments: 0",
+    "author": "agentduel",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.agentduel.app/b/cru8E9nG",
+    "id": "news-4065"
+  },
+  {
+    "title": "AI-Native Companies Have Tiny Staffs and Fewer Bosses",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343 Comments URL: https://news.ycombinator.com/item?id=48976754 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343 Comments URL: https://news.ycombinator.com/item?id=48976754 Points: 2 # Comments: 0",
+    "author": "bryan0",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343",
+    "id": "news-4064"
+  },
+  {
+    "title": "An autonomous AI agent that sells its own API access via x402 payment protocol",
+    "summary": "Article URL: https://money-agent-production-a0a9.up.railway.app/api/summarize Comments URL: https://news.ycombinator.com/item?id=48976841 Points: 1 # Comments: 2",
+    "content": "Article URL: https://money-agent-production-a0a9.up.railway.app/api/summarize Comments URL: https://news.ycombinator.com/item?id=48976841 Points: 1 # Comments: 2",
+    "author": "TIMU619",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://money-agent-production-a0a9.up.railway.app/api/summarize",
+    "id": "news-4063"
+  },
+  {
+    "title": "Connect Your AI Agent to Any API in Plain English (No Code)",
+    "summary": "Article URL: https://quickchat.ai/post/connect-ai-agent-to-any-api Comments URL: https://news.ycombinator.com/item?id=48976938 Points: 1 # Comments: 0",
+    "content": "Article URL: https://quickchat.ai/post/connect-ai-agent-to-any-api Comments URL: https://news.ycombinator.com/item?id=48976938 Points: 1 # Comments: 0",
+    "author": "piotrgrudzien",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://quickchat.ai/post/connect-ai-agent-to-any-api",
+    "id": "news-4062"
+  },
+  {
     "title": "Use AI Free – GUI, Web, CLI, Telegram, 2k MCP, 100K Skills",
     "summary": "Use AI free — Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS.I wou",
     "content": "Use AI free — Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS.I would like to ask the community to check my repo i have been working on him for months as a solo dev this has been a nightmare... i just.. would like to know if im on the right path at least.... thanks HN <3pip install dulus github.com/kevrojo/dulus Comments URL: https://news.ycombinator.com/item?id=48",
