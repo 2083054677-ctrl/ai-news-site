@@ -1,5 +1,83 @@
 [
   {
+    "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+    "summary": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by",
+    "content": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic analysis, commercial AI models actually got in the way of the defenders because their safety guardrails couldn't tell exploit data from real attacks. The article Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back appeared first ",
+    "author": "Matthias Bastian",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
+    "id": "news-4073"
+  },
+  {
+    "title": "AgentBaiting: Fake AI Skills and MCP Servers Delivered Malware",
+    "summary": "Article URL: https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware Comments URL: https://news.ycombinator.com/item?id=48978294 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware Comments URL: https://news.ycombinator.com/item?id=48978294 Points: 2 # Comments: 0",
+    "author": "deronEx",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware",
+    "id": "news-4072"
+  },
+  {
+    "title": "Show HN: Give your AI agent a personality (and a voice) without external APIs",
+    "summary": "Article URL: https://fellowgeek.github.io/mcp-speak/ Comments URL: https://news.ycombinator.com/item?id=48978296 Points: 2 # Comments: 0",
+    "content": "Article URL: https://fellowgeek.github.io/mcp-speak/ Comments URL: https://news.ycombinator.com/item?id=48978296 Points: 2 # Comments: 0",
+    "author": "pcbmaker20",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fellowgeek.github.io/mcp-speak/",
+    "id": "news-4071"
+  },
+  {
+    "title": "The asymmetry problem: AI safeguards are mainly annoying to the good guys",
+    "summary": "Article URL: https://cephalosec.com/blog/the-asymmetry-problem-ai-safeguards-are-mostly-hindering-the-good-guys/ Comments URL: https://news.ycombinator.com/item?id=48978353 Points: 2 # Comments: 0",
+    "content": "Article URL: https://cephalosec.com/blog/the-asymmetry-problem-ai-safeguards-are-mostly-hindering-the-good-guys/ Comments URL: https://news.ycombinator.com/item?id=48978353 Points: 2 # Comments: 0",
+    "author": "Versipelle",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cephalosec.com/blog/the-asymmetry-problem-ai-safeguards-are-mostly-hindering-the-good-guys/",
+    "id": "news-4070"
+  },
+  {
+    "title": "What if your AI agent could have its own WhatsApp number?",
+    "summary": "Article URL: https://tyxter.com/ Comments URL: https://news.ycombinator.com/item?id=48978408 Points: 2 # Comments: 4",
+    "content": "Article URL: https://tyxter.com/ Comments URL: https://news.ycombinator.com/item?id=48978408 Points: 2 # Comments: 4",
+    "author": "thiagocarboni",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tyxter.com/",
+    "id": "news-4069"
+  },
+  {
+    "title": "Self-Service Ransomware as Security Against Local AI Tools",
+    "summary": "Article URL: https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools Comments URL: https://news.ycombinator.com/item?id=48978503 Points: 2 # Comments: 1",
+    "content": "Article URL: https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools Comments URL: https://news.ycombinator.com/item?id=48978503 Points: 2 # Comments: 1",
+    "author": "BrKeaton",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools",
+    "id": "news-4068"
+  },
+  {
     "title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
     "summary": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to sprea",
     "content": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to spread computing power more evenly. The article Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours appeared first on The Decoder.",
