@@ -1,5 +1,70 @@
 [
   {
+    "title": "Use AI Free – GUI, Web, CLI, Telegram, 2k MCP, 100K Skills",
+    "summary": "Use AI free — Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS.I wou",
+    "content": "Use AI free — Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS.I would like to ask the community to check my repo i have been working on him for months as a solo dev this has been a nightmare... i just.. would like to know if im on the right path at least.... thanks HN <3pip install dulus github.com/kevrojo/dulus Comments URL: https://news.ycombinator.com/item?id=48",
+    "author": "devdulus",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48974761",
+    "id": "news-4061"
+  },
+  {
+    "title": "What Is Agentic AI?",
+    "summary": "Article URL: https://www.hpc-ai.com/blog/What-Is-Agentic-AI Comments URL: https://news.ycombinator.com/item?id=48974876 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.hpc-ai.com/blog/What-Is-Agentic-AI Comments URL: https://news.ycombinator.com/item?id=48974876 Points: 2 # Comments: 0",
+    "author": "hpcaitech",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.hpc-ai.com/blog/What-Is-Agentic-AI",
+    "id": "news-4060"
+  },
+  {
+    "title": "Hugging Face hacked: Blue Team turned to Chinese LLM after US models blocked",
+    "summary": "Article URL: https://www.thestack.technology/hugging-face-hacked-turned-to-chinese-llm-for-help-after-us-models-blocked-blue-team/ Comments URL: https://news.ycombinator.com/item?id=48974882 Points: 3",
+    "content": "Article URL: https://www.thestack.technology/hugging-face-hacked-turned-to-chinese-llm-for-help-after-us-models-blocked-blue-team/ Comments URL: https://news.ycombinator.com/item?id=48974882 Points: 3 # Comments: 0",
+    "author": "wertyk",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thestack.technology/hugging-face-hacked-turned-to-chinese-llm-for-help-after-us-models-blocked-blue-team/",
+    "id": "news-4059"
+  },
+  {
+    "title": "An LLM API gateway with budget-limited tokens for your LLM API keys",
+    "summary": "Article URL: https://github.com/er91/budget_aware_llm_api_gateway Comments URL: https://news.ycombinator.com/item?id=48974910 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/er91/budget_aware_llm_api_gateway Comments URL: https://news.ycombinator.com/item?id=48974910 Points: 1 # Comments: 1",
+    "author": "endlessroad1991",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/er91/budget_aware_llm_api_gateway",
+    "id": "news-4058"
+  },
+  {
+    "title": "NYC LL144 and EU AI Act Compliance Guides",
+    "summary": "Article URL: https://www.nyc144euaiact.com Comments URL: https://news.ycombinator.com/item?id=48974973 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nyc144euaiact.com Comments URL: https://news.ycombinator.com/item?id=48974973 Points: 1 # Comments: 0",
+    "author": "Haiec",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nyc144euaiact.com",
+    "id": "news-4057"
+  },
+  {
     "title": "Show HN: Headroom – measure your GPU's true bandwidth ceiling for local AI",
     "summary": "Article URL: https://ar5en1c.github.io/headroom/ Comments URL: https://news.ycombinator.com/item?id=48973142 Points: 2 # Comments: 0",
     "content": "Article URL: https://ar5en1c.github.io/headroom/ Comments URL: https://news.ycombinator.com/item?id=48973142 Points: 2 # Comments: 0",
