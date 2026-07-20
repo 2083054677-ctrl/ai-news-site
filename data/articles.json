@@ -1,5 +1,18 @@
 [
   {
+    "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
+    "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than im",
+    "content": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could use soft rules to deter adoption while protecting the market positions of OpenAI, Google, and Anthropic. The article Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+    "id": "news-4074"
+  },
+  {
     "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
     "summary": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by",
     "content": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic analysis, commercial AI models actually got in the way of the defenders because their safety guardrails couldn't tell exploit data from real attacks. The article Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back appeared first ",
