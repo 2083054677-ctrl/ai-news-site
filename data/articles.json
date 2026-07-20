@@ -1,5 +1,97 @@
 [
   {
+    "title": "Introducing Cosmos 3 Edge",
+    "summary": "Introducing Cosmos 3 Edge",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "id": "news-4081"
+  },
+  {
+    "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
+    "summary": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic i",
+    "content": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power. The article Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+    "id": "news-4080"
+  },
+  {
+    "title": "We used Gemma to detect AI text locally on iPhone",
+    "summary": "Article URL: https://imbue.com/blog/bouncer-leveraging-local-compute-to-detect-ai-slop Comments URL: https://news.ycombinator.com/item?id=48981692 Points: 5 # Comments: 0",
+    "content": "Article URL: https://imbue.com/blog/bouncer-leveraging-local-compute-to-detect-ai-slop Comments URL: https://news.ycombinator.com/item?id=48981692 Points: 5 # Comments: 0",
+    "author": "jjleads",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://imbue.com/blog/bouncer-leveraging-local-compute-to-detect-ai-slop",
+    "id": "news-4079"
+  },
+  {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ai-layoff-wave-becoming-powder-072541685.html Comments URL: https://news.ycombinator.com/item?id=48981722 Points: 2 # Comments: 0",
+    "content": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ai-layoff-wave-becoming-powder-072541685.html Comments URL: https://news.ycombinator.com/item?id=48981722 Points: 2 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://finance.yahoo.com/sectors/technology/articles/ai-layoff-wave-becoming-powder-072541685.html",
+    "id": "news-4078"
+  },
+  {
+    "title": "AI makes people confidently wrong",
+    "summary": "Article URL: https://www.machinesociety.ai/p/how-ai-makes-people-confidently-wrong Comments URL: https://news.ycombinator.com/item?id=48981779 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.machinesociety.ai/p/how-ai-makes-people-confidently-wrong Comments URL: https://news.ycombinator.com/item?id=48981779 Points: 3 # Comments: 1",
+    "author": "mikelgan",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.machinesociety.ai/p/how-ai-makes-people-confidently-wrong",
+    "id": "news-4077"
+  },
+  {
+    "title": "The AI hype is a mass psychosis echo chamber of incompetent individuals",
+    "summary": "Article URL: https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo Comments URL: https://news.ycombinator.com/item?id=48981857 Points: 3 # Comments: 0",
+    "content": "Article URL: https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo Comments URL: https://news.ycombinator.com/item?id=48981857 Points: 3 # Comments: 0",
+    "author": "farmerbb",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo",
+    "id": "news-4076"
+  },
+  {
+    "title": "$45M for AI text messages: Inside Israel's push to shape US opinion",
+    "summary": "Article URL: https://www.ynetnews.com/article/rjczjxqvfx Comments URL: https://news.ycombinator.com/item?id=48981907 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ynetnews.com/article/rjczjxqvfx Comments URL: https://news.ycombinator.com/item?id=48981907 Points: 1 # Comments: 0",
+    "author": "thisislife2",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ynetnews.com/article/rjczjxqvfx",
+    "id": "news-4075"
+  },
+  {
     "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
     "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than im",
     "content": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could use soft rules to deter adoption while protecting the market positions of OpenAI, Google, and Anthropic. The article Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure appeared first on The Decoder.",
