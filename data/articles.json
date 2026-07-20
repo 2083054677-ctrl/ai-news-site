@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Headroom – measure your GPU's true bandwidth ceiling for local AI",
+    "summary": "Article URL: https://ar5en1c.github.io/headroom/ Comments URL: https://news.ycombinator.com/item?id=48973142 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ar5en1c.github.io/headroom/ Comments URL: https://news.ycombinator.com/item?id=48973142 Points: 2 # Comments: 0",
+    "author": "Ar5en1c",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ar5en1c.github.io/headroom/",
+    "id": "news-4056"
+  },
+  {
+    "title": "The crash that wasn't: debugging CI with AI",
+    "summary": "Article URL: https://abbyssoul.github.io/engineering/2026/07/19/the-crash-that-wasnt-debugging-kinjo-ci-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48973271 Points: 2 # Comments: 0",
+    "content": "Article URL: https://abbyssoul.github.io/engineering/2026/07/19/the-crash-that-wasnt-debugging-kinjo-ci-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48973271 Points: 2 # Comments: 0",
+    "author": "sagevoid",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://abbyssoul.github.io/engineering/2026/07/19/the-crash-that-wasnt-debugging-kinjo-ci-with-ai.html",
+    "id": "news-4055"
+  },
+  {
+    "title": "Website Screen Capture: Recordings Your AI Can Read",
+    "summary": "Article URL: https://cbrowser.ai/blog/screen-capture-recordings-your-ai-can-read/ Comments URL: https://news.ycombinator.com/item?id=48973287 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cbrowser.ai/blog/screen-capture-recordings-your-ai-can-read/ Comments URL: https://news.ycombinator.com/item?id=48973287 Points: 1 # Comments: 0",
+    "author": "alexandriaeden",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cbrowser.ai/blog/screen-capture-recordings-your-ai-can-read/",
+    "id": "news-4054"
+  },
+  {
+    "title": "NoWreck-A deterministic verifier for AI coding assistants",
+    "summary": "Article URL: https://github.com/AstralXVoid/NoWreck/ Comments URL: https://news.ycombinator.com/item?id=48973669 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/AstralXVoid/NoWreck/ Comments URL: https://news.ycombinator.com/item?id=48973669 Points: 1 # Comments: 0",
+    "author": "AstralXVoid",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AstralXVoid/NoWreck/",
+    "id": "news-4053"
+  },
+  {
+    "title": "Ask HN: What paid AI tools are worth it for creative tech projects?",
+    "summary": "Long story short, I'm a third year college student who just switched my major from biophysics(premed) to Human Technology Interaction.You can spare the advice about spending all my time learning to co",
+    "content": "Long story short, I'm a third year college student who just switched my major from biophysics(premed) to Human Technology Interaction.You can spare the advice about spending all my time learning to code, I know it's important. But for creative technologist internships, including the one I have this summer, portfolio projects matter just as much, if not more, than raw coding ability and the major change is putting me far behind on the latter.My question is: which AI subscriptions are actually wor",
+    "author": "frausty",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48973671",
+    "id": "news-4052"
+  },
+  {
     "title": "We built an open-source static AI risk analyzer in 5 days using AI coding agents",
     "summary": "Article URL: https://github.com/ikaruscareer/SafeAI Comments URL: https://news.ycombinator.com/item?id=48972271 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/ikaruscareer/SafeAI Comments URL: https://news.ycombinator.com/item?id=48972271 Points: 1 # Comments: 0",
