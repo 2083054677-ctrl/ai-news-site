@@ -1,5 +1,70 @@
 [
   {
+    "title": "Can Math as We Know It Survive AI?",
+    "summary": "Article URL: https://aventineresearchinstitute.substack.com/p/can-math-as-we-know-it-survive-ai Comments URL: https://news.ycombinator.com/item?id=48984365 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aventineresearchinstitute.substack.com/p/can-math-as-we-know-it-survive-ai Comments URL: https://news.ycombinator.com/item?id=48984365 Points: 1 # Comments: 0",
+    "author": "TMWNN",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aventineresearchinstitute.substack.com/p/can-math-as-we-know-it-survive-ai",
+    "id": "news-4093"
+  },
+  {
+    "title": "Show HN: Provena: Open-Source Library for AI Agent Context Governance",
+    "summary": "Looking for contributors! We have 7 contributors and We have 11 \"good first issue\" labels and 17 \"help wanted\" issues. All well-scoped with code examples.Project: Nobody governs the context input laye",
+    "content": "Looking for contributors! We have 7 contributors and We have 11 \"good first issue\" labels and 17 \"help wanted\" issues. All well-scoped with code examples.Project: Nobody governs the context input layer. Tools exist to govern what agents DO (Microsoft AGT), what agents SAY (Guardrails AI), and how agents COMMUNICATE (NeMo). But the data flowing INTO the context window — retriever results, tool outputs, agent messages — is completely ungoverned. That's what Provena fixes Comments URL: https://news",
+    "author": "rfirke",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rajfirke/provena",
+    "id": "news-4092"
+  },
+  {
+    "title": "Ask HN: If you're running LLM bots on HN, can you at least report results?",
+    "summary": "There are a large, and increasing, number of LLM-written comments on HN.If you're one of the people running these bots I have two questions for you:1. Why? I assume most of them are for advertising/as",
+    "content": "There are a large, and increasing, number of LLM-written comments on HN.If you're one of the people running these bots I have two questions for you:1. Why? I assume most of them are for advertising/astroturfing/propaganda purposes, but I'm really hoping some of you are doing interesting experimentation at least in exchange for making us suffer through the slop.2. How often does your bot's comment pass muster? I notice many of the obvious ones downvoted heavily, but I assume I'm being fooled a de",
+    "author": "shtack",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48984609",
+    "id": "news-4091"
+  },
+  {
+    "title": "Potential AI futures would play out in the current tax system",
+    "summary": "Article URL: https://budgetlab.yale.edu/research/how-potential-ai-futures-would-play-out-current-tax-system Comments URL: https://news.ycombinator.com/item?id=48984725 Points: 3 # Comments: 0",
+    "content": "Article URL: https://budgetlab.yale.edu/research/how-potential-ai-futures-would-play-out-current-tax-system Comments URL: https://news.ycombinator.com/item?id=48984725 Points: 3 # Comments: 0",
+    "author": "atlasunshrugged",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://budgetlab.yale.edu/research/how-potential-ai-futures-would-play-out-current-tax-system",
+    "id": "news-4090"
+  },
+  {
+    "title": "AI Could Shrink Income Tax Revenue and Threaten Economies",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-16/how-ai-could-shrink-income-tax-revenue-and-threaten-economies Comments URL: https://news.ycombinator.com/item?id=48984802 Points: 1 # Co",
+    "content": "Article URL: https://www.bloomberg.com/news/features/2026-07-16/how-ai-could-shrink-income-tax-revenue-and-threaten-economies Comments URL: https://news.ycombinator.com/item?id=48984802 Points: 1 # Comments: 2",
+    "author": "littlexsparkee",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/features/2026-07-16/how-ai-could-shrink-income-tax-revenue-and-threaten-economies",
+    "id": "news-4089"
+  },
+  {
     "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
     "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prom",
     "content": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next. The article District 9 director Neill Blomkamp releases first short film made entirely with AI video generation appeared first on The Decoder.",
