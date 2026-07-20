@@ -1,5 +1,96 @@
 [
   {
+    "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+    "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prom",
+    "content": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next. The article District 9 director Neill Blomkamp releases first short film made entirely with AI video generation appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+    "id": "news-4088"
+  },
+  {
+    "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+    "summary": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Sc",
+    "content": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and could give the company a price advantage over OpenAI and Anthropic. The article Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+    "id": "news-4087"
+  },
+  {
+    "title": "Stoke – Kill switch for runaway AI agents (Rust, budget caps)",
+    "summary": "Article URL: https://stokegate.com Comments URL: https://news.ycombinator.com/item?id=48983316 Points: 1 # Comments: 0",
+    "content": "Article URL: https://stokegate.com Comments URL: https://news.ycombinator.com/item?id=48983316 Points: 1 # Comments: 0",
+    "author": "pawfromoz",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stokegate.com",
+    "id": "news-4086"
+  },
+  {
+    "title": "Three search models coexist in 2026: keyword, RAG, and conversational LLM",
+    "summary": "Article URL: https://lake8.dev/journal/dalla-keyword-alla-semantica-en/ Comments URL: https://news.ycombinator.com/item?id=48983393 Points: 1 # Comments: 1",
+    "content": "Article URL: https://lake8.dev/journal/dalla-keyword-alla-semantica-en/ Comments URL: https://news.ycombinator.com/item?id=48983393 Points: 1 # Comments: 1",
+    "author": "tommy2970",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lake8.dev/journal/dalla-keyword-alla-semantica-en/",
+    "id": "news-4085"
+  },
+  {
+    "title": "AI solves 20 year old conjecture in graph theory",
+    "summary": "Article URL: https://twitter.com/marsxiang_/status/2079276968047153337 Comments URL: https://news.ycombinator.com/item?id=48983486 Points: 6 # Comments: 1",
+    "content": "Article URL: https://twitter.com/marsxiang_/status/2079276968047153337 Comments URL: https://news.ycombinator.com/item?id=48983486 Points: 6 # Comments: 1",
+    "author": "never_giveup",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/marsxiang_/status/2079276968047153337",
+    "id": "news-4084"
+  },
+  {
+    "title": "AI Red Teaming: Securing Agentic AI Systems (video)",
+    "summary": "Article URL: https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming Comments URL: https://news.ycombinator.com/item?id=48983531 Points: 1 # Comments: 0",
+    "content": "Article URL: https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming Comments URL: https://news.ycombinator.com/item?id=48983531 Points: 1 # Comments: 0",
+    "author": "gk1",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming",
+    "id": "news-4083"
+  },
+  {
+    "title": "Head of US Commerce Dept.'s AI safety arm resigns",
+    "summary": "Article URL: https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/ Comments URL: https://news.ycombinator.com/item?id=48983703 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/ Comments URL: https://news.ycombinator.com/item?id=48983703 Points: 1 # Comments: 0",
+    "author": "classichasclass",
+    "date": "2026-07-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/",
+    "id": "news-4082"
+  },
+  {
     "title": "Introducing Cosmos 3 Edge",
     "summary": "Introducing Cosmos 3 Edge",
     "content": "",
