@@ -1,5 +1,83 @@
 [
   {
+    "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+    "summary": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar",
+    "content": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
+    "id": "news-4111"
+  },
+  {
+    "title": "Agentpause: Suspends LLM agents before rate limits, resumes cleanly",
+    "summary": "Article URL: https://github.com/Champoleello/agentpause Comments URL: https://news.ycombinator.com/item?id=48993421 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Champoleello/agentpause Comments URL: https://news.ycombinator.com/item?id=48993421 Points: 1 # Comments: 0",
+    "author": "Champoleello",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Champoleello/agentpause",
+    "id": "news-4110"
+  },
+  {
+    "title": "Show HN: OpenAI Hackathon Submission: ADE",
+    "summary": "After 2 months of hard work, Cycling through three 20x Codex Subs, three 20x Claude Code subs, and using over 90 billion tokens,I have finally submitted a working Native App (Cross-Platform, but mainl",
+    "content": "After 2 months of hard work, Cycling through three 20x Codex Subs, three 20x Claude Code subs, and using over 90 billion tokens,I have finally submitted a working Native App (Cross-Platform, but mainly MacOS and Windows Supported, Linux is kind of untested as I don't have a linux device).Main takeaway is that: its a Wrapper for your AI Agents that allow you to use multiple terminals simultaneously, see sessions history, connect to the web, and control your AI Agents via the cloud remotely either",
+    "author": "Rizzist",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://devpost.com/software/diff-forge-ai",
+    "id": "news-4109"
+  },
+  {
+    "title": "Open-ultra: a self-training LLM routing proxy",
+    "summary": "Article URL: https://github.com/numinous-technology/open-ultra Comments URL: https://news.ycombinator.com/item?id=48993540 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/numinous-technology/open-ultra Comments URL: https://news.ycombinator.com/item?id=48993540 Points: 1 # Comments: 0",
+    "author": "joshkolo",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/numinous-technology/open-ultra",
+    "id": "news-4108"
+  },
+  {
+    "title": "AI Coding Assistant Strategy Slashes Token Bills",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-coding-assistant-china-anthropic Comments URL: https://news.ycombinator.com/item?id=48993565 Points: 1 # Comments: 0",
+    "content": "Article URL: https://spectrum.ieee.org/ai-coding-assistant-china-anthropic Comments URL: https://news.ycombinator.com/item?id=48993565 Points: 1 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
+    "id": "news-4107"
+  },
+  {
+    "title": "Using AI makes people less likely to admit they don't know something",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567 Comments URL: https://news.ycombinator.com/item?id=48993571 Po",
+    "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567 Comments URL: https://news.ycombinator.com/item?id=48993571 Points: 1 # Comments: 0",
+    "author": "amai",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+    "id": "news-4106"
+  },
+  {
     "title": "Grabette: an open system to record robot-manipulation data",
     "summary": "Grabette: an open system to record robot-manipulation data",
     "content": "",
