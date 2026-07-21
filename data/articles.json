@@ -1,5 +1,110 @@
 [
   {
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "summary": "Grabette: an open system to record robot-manipulation data",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/grabette",
+    "id": "news-4105"
+  },
+  {
+    "title": "Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move",
+    "summary": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped handheld grippers rather than robots. Adding data improved performance far more tha",
+    "content": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped handheld grippers rather than robots. Adding data improved performance far more than increasing model size. The gains haven't plateaued, though absolute success rates remain low. The article Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
+    "id": "news-4104"
+  },
+  {
+    "title": "Alibaba's Qwen Audio 3.0 TTS Plus tops the competition in the text-to-speech rankings",
+    "summary": "Alibaba's Qwen Audio 3.0 TTS Plus tops Artificial Analysis' Speech Arena leaderboard. The model supports 16 languages and lets users control speaking style with natural language or tags like [angry]. ",
+    "content": "Alibaba's Qwen Audio 3.0 TTS Plus tops Artificial Analysis' Speech Arena leaderboard. The model supports 16 languages and lets users control speaking style with natural language or tags like [angry]. At 16 characters per second, though, it's far slower than rivals Sonic 3.5 and Simba 3.2. The article Alibaba's Qwen Audio 3.0 TTS Plus tops the competition in the text-to-speech rankings appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/",
+    "id": "news-4103"
+  },
+  {
+    "title": "Show HN: openmog - an AI that believes whatever the crowd upvotes",
+    "summary": "Article URL: https://www.openmog.com/ Comments URL: https://news.ycombinator.com/item?id=48990850 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.openmog.com/ Comments URL: https://news.ycombinator.com/item?id=48990850 Points: 1 # Comments: 0",
+    "author": "johndebord",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.openmog.com/",
+    "id": "news-4102"
+  },
+  {
+    "title": "Software and AI – Plotting vs. Pantsing",
+    "summary": "Article URL: https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html Comments URL: https://news.ycombinator.com/item?id=48990854 Points: 1 # Comments: 0",
+    "content": "Article URL: https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html Comments URL: https://news.ycombinator.com/item?id=48990854 Points: 1 # Comments: 0",
+    "author": "pyjarrett",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+    "id": "news-4101"
+  },
+  {
+    "title": "Responsible LLM Use in Conversations",
+    "summary": "Article URL: https://marcdix.de/blog/responsible-llm-use-in-conversations.html Comments URL: https://news.ycombinator.com/item?id=48990862 Points: 1 # Comments: 0",
+    "content": "Article URL: https://marcdix.de/blog/responsible-llm-use-in-conversations.html Comments URL: https://news.ycombinator.com/item?id=48990862 Points: 1 # Comments: 0",
+    "author": "mdix",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://marcdix.de/blog/responsible-llm-use-in-conversations.html",
+    "id": "news-4100"
+  },
+  {
+    "title": "Show HN: Open-Kritt – Open-source infrastructure for AI-based security research",
+    "summary": "Article URL: https://github.com/Kritt-ai/open-kritt Comments URL: https://news.ycombinator.com/item?id=48990871 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Kritt-ai/open-kritt Comments URL: https://news.ycombinator.com/item?id=48990871 Points: 1 # Comments: 0",
+    "author": "GabiControlZ",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Kritt-ai/open-kritt",
+    "id": "news-4099"
+  },
+  {
+    "title": "Ask HN: Will Anthropic or OpenAI start offering Chinese open source models?",
+    "summary": "Do you think there could exist a situation in the market where either Anthropic or OpenAI will offer chinese models for their clients? Comments URL: https://news.ycombinator.com/item?id=48990892 Point",
+    "content": "Do you think there could exist a situation in the market where either Anthropic or OpenAI will offer chinese models for their clients? Comments URL: https://news.ycombinator.com/item?id=48990892 Points: 2 # Comments: 1",
+    "author": "Risse",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48990892",
+    "id": "news-4098"
+  },
+  {
     "title": "A Meta-Epistemological Reason for Rejecting AI-Written Philosophy",
     "summary": "Article URL: https://dailynous.com/2026/07/16/a-meta-epistemological-reason-for-rejecting-ai-written-philosophy/ Comments URL: https://news.ycombinator.com/item?id=48986758 Points: 1 # Comments: 0",
     "content": "Article URL: https://dailynous.com/2026/07/16/a-meta-epistemological-reason-for-rejecting-ai-written-philosophy/ Comments URL: https://news.ycombinator.com/item?id=48986758 Points: 1 # Comments: 0",
