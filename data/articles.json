@@ -1,5 +1,96 @@
 [
   {
+    "title": "Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text in a single pass",
+    "summary": "Alibaba's Qwen team has introduced Qwen-Image-3.0, an image generator that accepts prompts up to 4,500 tokens, renders legible text as small as ten pixels, and supports twelve languages natively. It c",
+    "content": "Alibaba's Qwen team has introduced Qwen-Image-3.0, an image generator that accepts prompts up to 4,500 tokens, renders legible text as small as ten pixels, and supports twelve languages natively. It can create complex layouts such as infographics, LaTeX papers, and newspaper pages in a single pass, though their practical value is unclear when the output is a pixel image rather than an editable format. The article Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/",
+    "id": "news-4118"
+  },
+  {
+    "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
+    "summary": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to government",
+    "content": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still missing, while OpenAI, Anthropic, and Chinese labs are already competing at the frontier level. The article Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training appeared first on The",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
+    "id": "news-4117"
+  },
+  {
+    "title": "Yubikey 5.8: Verified Authorization for the New Era of Identity and AI",
+    "summary": "Article URL: https://www.yubico.com/resource/whats-new-yubikey-5-8/ Comments URL: https://news.ycombinator.com/item?id=48995030 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.yubico.com/resource/whats-new-yubikey-5-8/ Comments URL: https://news.ycombinator.com/item?id=48995030 Points: 1 # Comments: 0",
+    "author": "dblitt",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.yubico.com/resource/whats-new-yubikey-5-8/",
+    "id": "news-4116"
+  },
+  {
+    "title": "Show HN: QuantmLayer – kernel-enforced containment for AI coding agents",
+    "summary": "Article URL: https://github.com/quantmlayer/quantmlayer Comments URL: https://news.ycombinator.com/item?id=48995058 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/quantmlayer/quantmlayer Comments URL: https://news.ycombinator.com/item?id=48995058 Points: 1 # Comments: 0",
+    "author": "mquant",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/quantmlayer/quantmlayer",
+    "id": "news-4115"
+  },
+  {
+    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/ Comments URL: https://news.ycombinator.com/item?id=48995064",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/ Comments URL: https://news.ycombinator.com/item?id=48995064 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+    "id": "news-4114"
+  },
+  {
+    "title": "A private enterprise AI gateway",
+    "summary": "Article URL: https://github.com/astaxie/TokenHub Comments URL: https://news.ycombinator.com/item?id=48995071 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/astaxie/TokenHub Comments URL: https://news.ycombinator.com/item?id=48995071 Points: 1 # Comments: 0",
+    "author": "astaxie",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/astaxie/TokenHub",
+    "id": "news-4113"
+  },
+  {
+    "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "summary": "Article URL: https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1 Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 2 ",
+    "content": "Article URL: https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1 Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 2 # Comments: 0",
+    "author": "surprisetalk",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "id": "news-4112"
+  },
+  {
     "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
     "summary": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar",
     "content": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe appeared first on The Decoder.",
