@@ -1,5 +1,83 @@
 [
   {
+    "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
+    "summary": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill. The article Claude C",
+    "content": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill. The article Claude Cowork learns new skills through screen recordings and voice-over explanations appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
+    "id": "news-4124"
+  },
+  {
+    "title": "AI Chips Drive Around a Third of TSMC Revenues",
+    "summary": "Article URL: https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929 Comments URL: https://news.ycombinator.com/item?id=48996487 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929 Comments URL: https://news.ycombinator.com/item?id=48996487 Points: 3 # Comments: 0",
+    "author": "rbanffy",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929",
+    "id": "news-4123"
+  },
+  {
+    "title": "OpenTakeoff – open-source construction takeoff your AI agent can drive",
+    "summary": "Article URL: https://github.com/Kentucky-ai/opentakeoff Comments URL: https://news.ycombinator.com/item?id=48996573 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/Kentucky-ai/opentakeoff Comments URL: https://news.ycombinator.com/item?id=48996573 Points: 2 # Comments: 1",
+    "author": "kentucky-ai",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Kentucky-ai/opentakeoff",
+    "id": "news-4122"
+  },
+  {
+    "title": "International Agreements to Limit Frontier AI: Objectives and Exit",
+    "summary": "Article URL: https://arxiv.org/abs/2607.16224 Comments URL: https://news.ycombinator.com/item?id=48996623 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2607.16224 Comments URL: https://news.ycombinator.com/item?id=48996623 Points: 1 # Comments: 0",
+    "author": "fi-le",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2607.16224",
+    "id": "news-4121"
+  },
+  {
+    "title": "We're (Skyfall AI) acquiring SaaS startups and running them with AI as CEO",
+    "summary": "Skyfall AI came out of stealth this week and is actively acquiring early-stage SaaS businesses to serve as proving grounds for our AI.Here's what we're looking for:- Monthly recurring revenue under $2",
+    "content": "Skyfall AI came out of stealth this week and is actively acquiring early-stage SaaS businesses to serve as proving grounds for our AI.Here's what we're looking for:- Monthly recurring revenue under $20,000 - Founded within the last 24 months - Self-serve or product-led growth (no sales calls required) - Customers can sign up and pay without human interactionWhat we're offering:- Up to $1 million per acquisition - Our AI takes on the CEO role and operationalizes the business - Target: ideally dou",
+    "author": "anousha_606",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=48996643",
+    "id": "news-4120"
+  },
+  {
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "summary": "Article URL: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63 Comments URL: https://news.ycombinator.com/item?id=48996652 Points: 1 # Co",
+    "content": "Article URL: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63 Comments URL: https://news.ycombinator.com/item?id=48996652 Points: 1 # Comments: 0",
+    "author": "BeetleB",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "id": "news-4119"
+  },
+  {
     "title": "Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text in a single pass",
     "summary": "Alibaba's Qwen team has introduced Qwen-Image-3.0, an image generator that accepts prompts up to 4,500 tokens, renders legible text as small as ten pixels, and supports twelve languages natively. It c",
     "content": "Alibaba's Qwen team has introduced Qwen-Image-3.0, an image generator that accepts prompts up to 4,500 tokens, renders legible text as small as ten pixels, and supports twelve languages natively. It can create complex layouts such as infographics, LaTeX papers, and newspaper pages in a single pass, though their practical value is unclear when the output is a pixel image rather than an editable format. The article Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text",
