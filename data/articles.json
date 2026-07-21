@@ -1,5 +1,97 @@
 [
   {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "summary": "The State of Simulation for Physical AI: An Overview",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "id": "news-4131"
+  },
+  {
+    "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
+    "summary": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the ",
+    "content": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researchers estimate a return of up to $38.50 per dollar invested. The article An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
+    "id": "news-4130"
+  },
+  {
+    "title": "Claude Opus 4.5 defied CEO, helped employee blow whistle about safety concerns",
+    "summary": "Article URL: https://www.msn.com/en-us/news/technology/claude-opus-4-5-defied-its-ceo-and-helped-an-employee-blow-the-whistle-about-safety-concerns/ar-AA28oWxu Comments URL: https://news.ycombinator.c",
+    "content": "Article URL: https://www.msn.com/en-us/news/technology/claude-opus-4-5-defied-its-ceo-and-helped-an-employee-blow-the-whistle-about-safety-concerns/ar-AA28oWxu Comments URL: https://news.ycombinator.com/item?id=48997836 Points: 2 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.msn.com/en-us/news/technology/claude-opus-4-5-defied-its-ceo-and-helped-an-employee-blow-the-whistle-about-safety-concerns/ar-AA28oWxu",
+    "id": "news-4129"
+  },
+  {
+    "title": "Show HN: Claude Code built my ESP32 and fixed its UI by looking at a webcam",
+    "summary": "Article URL: https://github.com/fcavalcantirj/claude-code-eyes Comments URL: https://news.ycombinator.com/item?id=48997881 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/fcavalcantirj/claude-code-eyes Comments URL: https://news.ycombinator.com/item?id=48997881 Points: 1 # Comments: 0",
+    "author": "fcavalcantirj",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fcavalcantirj/claude-code-eyes",
+    "id": "news-4128"
+  },
+  {
+    "title": "Show HN: Chalk: a Mac app for technical diagrams with a built-in MCP for Claude",
+    "summary": "Hey HN. Here's a Mac app I'm working on for making diagrams. It comes with an MCP server so Claude can make and edit diagrams directly. Still in progress, but I'd love some feedback. Comments URL: htt",
+    "content": "Hey HN. Here's a Mac app I'm working on for making diagrams. It comes with an MCP server so Claude can make and edit diagrams directly. Still in progress, but I'd love some feedback. Comments URL: https://news.ycombinator.com/item?id=48998042 Points: 2 # Comments: 0",
+    "author": "davideweaver",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chalk.appkit.studio",
+    "id": "news-4127"
+  },
+  {
+    "title": "Anthropic runs large-scale code migrations with Claude Code",
+    "summary": "Article URL: https://twitter.com/ClaudeDevs/status/2079654423828304282 Comments URL: https://news.ycombinator.com/item?id=48998132 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/ClaudeDevs/status/2079654423828304282 Comments URL: https://news.ycombinator.com/item?id=48998132 Points: 2 # Comments: 0",
+    "author": "shenli3514",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
+    "id": "news-4126"
+  },
+  {
+    "title": "Cisco Antares: A New Family of Cheap, Open-Source, Compact Security AI Models",
+    "summary": "Article URL: https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/ Comments URL: https://news.ycombinator.com/item?id=48998173 Points:",
+    "content": "Article URL: https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/ Comments URL: https://news.ycombinator.com/item?id=48998173 Points: 3 # Comments: 0",
+    "author": "CrankyBear",
+    "date": "2026-07-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/",
+    "id": "news-4125"
+  },
+  {
     "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
     "summary": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill. The article Claude C",
     "content": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill. The article Claude Cowork learns new skills through screen recordings and voice-over explanations appeared first on The Decoder.",
