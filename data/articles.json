@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI for Actual Work – a free, self-paced AI training program by Remote.com",
+    "summary": "Article URL: https://aiforactualwork.com/ Comments URL: https://news.ycombinator.com/item?id=49002858 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aiforactualwork.com/ Comments URL: https://news.ycombinator.com/item?id=49002858 Points: 1 # Comments: 0",
+    "author": "m5r",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aiforactualwork.com/",
+    "id": "news-4136"
+  },
+  {
+    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+    "summary": "Article URL: https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/ Comments URL: https://news.ycombinator.com/item?id=49002868 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/ Comments URL: https://news.ycombinator.com/item?id=49002868 Points: 2 # Comments: 1",
+    "author": "sbulaev",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+    "id": "news-4135"
+  },
+  {
+    "title": "OpenAI model autonomously hacks HuggingFace",
+    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/openai-says-ai-models-went-rogue-testing-triggering-unprecedented-brea-rcna588611 Comments URL: https://news.ycombinator.com/item?id=49002930 Points",
+    "content": "Article URL: https://www.nbcnews.com/tech/tech-news/openai-says-ai-models-went-rogue-testing-triggering-unprecedented-brea-rcna588611 Comments URL: https://news.ycombinator.com/item?id=49002930 Points: 1 # Comments: 2",
+    "author": "AndrewSwift",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nbcnews.com/tech/tech-news/openai-says-ai-models-went-rogue-testing-triggering-unprecedented-brea-rcna588611",
+    "id": "news-4134"
+  },
+  {
+    "title": "Eric Schmidt's AI Drones Hit 70% Kill Rate as Commercial Tech Goes to War",
+    "summary": "Article URL: https://dronexl.co/2026/01/06/eric-schmidt-ai-drones-hit-70-kill-rate-ukraine/ Comments URL: https://news.ycombinator.com/item?id=49002957 Points: 3 # Comments: 0",
+    "content": "Article URL: https://dronexl.co/2026/01/06/eric-schmidt-ai-drones-hit-70-kill-rate-ukraine/ Comments URL: https://news.ycombinator.com/item?id=49002957 Points: 3 # Comments: 0",
+    "author": "thisislife2",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dronexl.co/2026/01/06/eric-schmidt-ai-drones-hit-70-kill-rate-ukraine/",
+    "id": "news-4133"
+  },
+  {
+    "title": "Melaya – the agent builder that gives AI a governed Android phone",
+    "summary": "Article URL: https://www.melaya.org Comments URL: https://news.ycombinator.com/item?id=49003238 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.melaya.org Comments URL: https://news.ycombinator.com/item?id=49003238 Points: 1 # Comments: 1",
+    "author": "melaya",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.melaya.org",
+    "id": "news-4132"
+  },
+  {
     "title": "The State of Simulation for Physical AI: An Overview",
     "summary": "The State of Simulation for Physical AI: An Overview",
     "content": "",
