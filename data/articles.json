@@ -1,5 +1,18 @@
 [
   {
+    "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+    "summary": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI t",
+    "content": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself. Judge Alsup had previously ruled that AI training on legally obtained books is \"transformative\" and falls under fair use. The settlement is actually a win for AI labs. The article Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest ",
+    "author": "Matthias Bastian",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+    "id": "news-4158"
+  },
+  {
     "title": "Rabbitty – a native Mac terminal for running AI coding agents in parallel",
     "summary": "Article URL: https://github.com/mauscoelho/rabbitty-app/releases Comments URL: https://news.ycombinator.com/item?id=49011463 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/mauscoelho/rabbitty-app/releases Comments URL: https://news.ycombinator.com/item?id=49011463 Points: 1 # Comments: 1",
