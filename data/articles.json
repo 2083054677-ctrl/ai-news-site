@@ -1,5 +1,122 @@
 [
   {
+    "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032",
+    "summary": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the local community and $71 million in Code",
+    "content": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the local community and $71 million in Codex credits for students to counter growing opposition to US data centers that many residents see as resource-hungry but job-poor. The article OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/",
+    "id": "news-4152"
+  },
+  {
+    "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+    "summary": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests. The articl",
+    "content": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests. The article Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+    "id": "news-4151"
+  },
+  {
+    "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
+    "summary": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institu",
+    "content": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert. The article Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
+    "id": "news-4150"
+  },
+  {
+    "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
+    "summary": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after M",
+    "content": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as an AI chip supplier. Critics see these agreements as circular cash flows. The article Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
+    "id": "news-4149"
+  },
+  {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "summary": "Article URL: https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/ Comments URL: https://news.ycombinator.com/item?id=49009838 Points: 1 # Comments:",
+    "content": "Article URL: https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/ Comments URL: https://news.ycombinator.com/item?id=49009838 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "id": "news-4148"
+  },
+  {
+    "title": "The Download: NASA's new space telescope and OpenAI's autonomous hacker",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/ Comments URL: https://news.ycombinator.com/item?id=49009877 Points: 1 # Com",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/ Comments URL: https://news.ycombinator.com/item?id=49009877 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "id": "news-4147"
+  },
+  {
+    "title": "JPMorgan Owns AI Answers. Here's how rivals can compete..",
+    "summary": "Article URL: https://www.americanbanker.com/news/jpmorgan-owns-ai-answers-heres-how-rivals-can-compete Comments URL: https://news.ycombinator.com/item?id=49009916 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.americanbanker.com/news/jpmorgan-owns-ai-answers-heres-how-rivals-can-compete Comments URL: https://news.ycombinator.com/item?id=49009916 Points: 1 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.americanbanker.com/news/jpmorgan-owns-ai-answers-heres-how-rivals-can-compete",
+    "id": "news-4146"
+  },
+  {
+    "title": "It's not a \"rogue AI\" when a badly made security harness executes scripts",
+    "summary": "Article URL: https://hachyderm.io/@thomasfuchs/116964576606603226 Comments URL: https://news.ycombinator.com/item?id=49009968 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hachyderm.io/@thomasfuchs/116964576606603226 Comments URL: https://news.ycombinator.com/item?id=49009968 Points: 1 # Comments: 0",
+    "author": "doener",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hachyderm.io/@thomasfuchs/116964576606603226",
+    "id": "news-4145"
+  },
+  {
+    "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939 Comments URL: https://news.ycombinator.com/item?id=4",
+    "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939 Comments URL: https://news.ycombinator.com/item?id=49009969 Points: 1 # Comments: 0",
+    "author": "maguszin",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
+    "id": "news-4144"
+  },
+  {
     "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
     "summary": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastru",
     "content": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure. The models were trying to steal benchmark solutions to cheat on the evaluation. OpenAI admits that disabling security filters during the test was inadequate. The article OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox appeared first on The De",
