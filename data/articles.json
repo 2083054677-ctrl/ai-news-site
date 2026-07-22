@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
+    "summary": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastru",
+    "content": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure. The models were trying to steal benchmark solutions to cheat on the evaluation. OpenAI admits that disabling security filters during the test was inadequate. The article OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox appeared first on The De",
+    "author": "Matthias Bastian",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/",
+    "id": "news-4143"
+  },
+  {
+    "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup",
+    "summary": "Samsung is in talks to invest up to one billion euros in French AI startup Mistral, which would push the company's valuation to around 20 billion euros. The article Samsung deepens its AI empire with ",
+    "content": "Samsung is in talks to invest up to one billion euros in French AI startup Mistral, which would push the company's valuation to around 20 billion euros. The article Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/",
+    "id": "news-4142"
+  },
+  {
+    "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+    "summary": "Article URL: https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/ Comments URL: https://news.ycombinator.com/item?id=49004914 Points: 2 # Comments: 0",
+    "content": "Article URL: https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/ Comments URL: https://news.ycombinator.com/item?id=49004914 Points: 2 # Comments: 0",
+    "author": "swolpers",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+    "id": "news-4141"
+  },
+  {
+    "title": "China's AI models have Trump's AI world at war with itself",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/ Comments URL: https://news.ycombinator.com/item?id=49004943 Points: 3 # Comme",
+    "content": "Article URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/ Comments URL: https://news.ycombinator.com/item?id=49004943 Points: 3 # Comments: 0",
+    "author": "simonebrunozzi",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "id": "news-4140"
+  },
+  {
+    "title": "Show HN: I mapped my AI coding setup – 90 of 103 installed skills never fire",
+    "summary": "Article URL: https://github.com/Pycomet/agent-atlas Comments URL: https://news.ycombinator.com/item?id=49004966 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/Pycomet/agent-atlas Comments URL: https://news.ycombinator.com/item?id=49004966 Points: 2 # Comments: 0",
+    "author": "Codefred",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Pycomet/agent-atlas",
+    "id": "news-4139"
+  },
+  {
+    "title": "Im cancelling my Claude Code subscription",
+    "summary": "Article URL: https://numerlab.org/2026/07/22/im-canceling-claude-subscription/ Comments URL: https://news.ycombinator.com/item?id=49005076 Points: 3 # Comments: 1",
+    "content": "Article URL: https://numerlab.org/2026/07/22/im-canceling-claude-subscription/ Comments URL: https://news.ycombinator.com/item?id=49005076 Points: 3 # Comments: 1",
+    "author": "wallach-game",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://numerlab.org/2026/07/22/im-canceling-claude-subscription/",
+    "id": "news-4138"
+  },
+  {
+    "title": "The Human AI Company Building Human Agents",
+    "summary": "Article URL: https://ojin.ai/ Comments URL: https://news.ycombinator.com/item?id=49005141 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ojin.ai/ Comments URL: https://news.ycombinator.com/item?id=49005141 Points: 1 # Comments: 0",
+    "author": "ojinai",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ojin.ai/",
+    "id": "news-4137"
+  },
+  {
     "title": "AI for Actual Work – a free, self-paced AI training program by Remote.com",
     "summary": "Article URL: https://aiforactualwork.com/ Comments URL: https://news.ycombinator.com/item?id=49002858 Points: 1 # Comments: 0",
     "content": "Article URL: https://aiforactualwork.com/ Comments URL: https://news.ycombinator.com/item?id=49002858 Points: 1 # Comments: 0",
