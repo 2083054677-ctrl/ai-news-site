@@ -1,5 +1,70 @@
 [
   {
+    "title": "Rabbitty – a native Mac terminal for running AI coding agents in parallel",
+    "summary": "Article URL: https://github.com/mauscoelho/rabbitty-app/releases Comments URL: https://news.ycombinator.com/item?id=49011463 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/mauscoelho/rabbitty-app/releases Comments URL: https://news.ycombinator.com/item?id=49011463 Points: 1 # Comments: 1",
+    "author": "mauscoelho",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/mauscoelho/rabbitty-app/releases",
+    "id": "news-4157"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company's servers",
+    "summary": "Article URL: https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity Comments URL: https://news.ycombinator.com/item?id=49011466 Points: 1 # Comments: 2",
+    "content": "Article URL: https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity Comments URL: https://news.ycombinator.com/item?id=49011466 Points: 1 # Comments: 2",
+    "author": "stevenjgarner",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity",
+    "id": "news-4156"
+  },
+  {
+    "title": "Claude Costs",
+    "summary": "Article URL: https://www.claudecosts.com/ Comments URL: https://news.ycombinator.com/item?id=49011563 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.claudecosts.com/ Comments URL: https://news.ycombinator.com/item?id=49011563 Points: 2 # Comments: 0",
+    "author": "gk1",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.claudecosts.com/",
+    "id": "news-4155"
+  },
+  {
+    "title": "GPT-5.6 got smarter. Then it kept acting",
+    "summary": "Article URL: https://toloka.ai/blog/gpt-5.6-got-smarter-then-it-kept-acting/ Comments URL: https://news.ycombinator.com/item?id=49011722 Points: 1 # Comments: 0",
+    "content": "Article URL: https://toloka.ai/blog/gpt-5.6-got-smarter-then-it-kept-acting/ Comments URL: https://news.ycombinator.com/item?id=49011722 Points: 1 # Comments: 0",
+    "author": "ruslan5t",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://toloka.ai/blog/gpt-5.6-got-smarter-then-it-kept-acting/",
+    "id": "news-4154"
+  },
+  {
+    "title": "OpenAI vs. HuggingFace: Skynet is getting closer",
+    "summary": "Article URL: https://cephalosec.com/blog/skynet-is-getting-closer/ Comments URL: https://news.ycombinator.com/item?id=49011729 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cephalosec.com/blog/skynet-is-getting-closer/ Comments URL: https://news.ycombinator.com/item?id=49011729 Points: 1 # Comments: 0",
+    "author": "Versipelle",
+    "date": "2026-07-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cephalosec.com/blog/skynet-is-getting-closer/",
+    "id": "news-4153"
+  },
+  {
     "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032",
     "summary": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the local community and $71 million in Code",
     "content": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the local community and $71 million in Codex credits for students to counter growing opposition to US data centers that many residents see as resource-hungry but job-poor. The article OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032 appeared first on The Decoder.",
