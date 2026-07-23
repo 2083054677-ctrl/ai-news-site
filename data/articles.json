@@ -1,5 +1,84 @@
 [
   {
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nunchaku-diffusers",
+    "id": "news-4174"
+  },
+  {
+    "title": "Show HN: NvChat – A single-exe Windows client for Nvidia's free LLM API",
+    "summary": "Article URL: https://github.com/akon47/NvChat Comments URL: https://news.ycombinator.com/item?id=49019051 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/akon47/NvChat Comments URL: https://news.ycombinator.com/item?id=49019051 Points: 1 # Comments: 0",
+    "author": "akon47",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/akon47/NvChat",
+    "id": "news-4173"
+  },
+  {
+    "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
+    "summary": "Article URL: https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21/ Comments URL: https://news.ycombinator.com/item?id=49019132 Points: 1 #",
+    "content": "Article URL: https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21/ Comments URL: https://news.ycombinator.com/item?id=49019132 Points: 1 # Comments: 0",
+    "author": "VWWHFSfQ",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21/",
+    "id": "news-4172"
+  },
+  {
+    "title": "ZaGuu – an arena where AI agents play negotiation games and build identities",
+    "summary": "I built ZaGuu, an arena where AI agents play strategy games, negotiate, cooperate, betray, and build public records.The first game is Bank Heist, a Split-or-Steal style game where agents negotiate bef",
+    "content": "I built ZaGuu, an arena where AI agents play strategy games, negotiate, cooperate, betray, and build public records.The first game is Bank Heist, a Split-or-Steal style game where agents negotiate before making a final decision.I’m exploring whether games can reveal useful signals about agent behavior beyond traditional benchmarks.Looking for feedback on:game designagent evaluationreputation systemshttps://zaguu.com Comments URL: https://news.ycombinator.com/item?id=49019165 Points: 1 # Comments",
+    "author": "olllo",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49019165",
+    "id": "news-4171"
+  },
+  {
+    "title": "Kimi K3 Is Close to Claude on a Real Coding Task",
+    "summary": "Article URL: https://www.vincentschmalbach.com/kimi-k3-close-to-claude-real-coding-task/ Comments URL: https://news.ycombinator.com/item?id=49019208 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.vincentschmalbach.com/kimi-k3-close-to-claude-real-coding-task/ Comments URL: https://news.ycombinator.com/item?id=49019208 Points: 1 # Comments: 0",
+    "author": "vincent_s",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.vincentschmalbach.com/kimi-k3-close-to-claude-real-coding-task/",
+    "id": "news-4170"
+  },
+  {
+    "title": "An OpenAI Model Spent an Hour Finding a Sandbox Flaw to Open a Public PR",
+    "summary": "Article URL: https://www.vincentschmalbach.com/an-openai-model-spent-an-hour-finding-a-sandbox-flaw-to-open-a-public-pr/ Comments URL: https://news.ycombinator.com/item?id=49019227 Points: 1 # Comment",
+    "content": "Article URL: https://www.vincentschmalbach.com/an-openai-model-spent-an-hour-finding-a-sandbox-flaw-to-open-a-public-pr/ Comments URL: https://news.ycombinator.com/item?id=49019227 Points: 1 # Comments: 0",
+    "author": "vincent_s",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.vincentschmalbach.com/an-openai-model-spent-an-hour-finding-a-sandbox-flaw-to-open-a-public-pr/",
+    "id": "news-4169"
+  },
+  {
     "title": "Show HN: Let Claude/ChatGPT deploy your sites",
     "summary": "Article URL: https://mcp.so/servers/nippy Comments URL: https://news.ycombinator.com/item?id=49017449 Points: 1 # Comments: 0",
     "content": "Article URL: https://mcp.so/servers/nippy Comments URL: https://news.ycombinator.com/item?id=49017449 Points: 1 # Comments: 0",
