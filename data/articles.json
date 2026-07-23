@@ -1,5 +1,70 @@
 [
   {
+    "title": "Doesn't OpenAI have every incentive to destroy HuggingFace?",
+    "summary": "Just wondering about this, because I don't think I've seen it said plainly. Hugging Face is the place where all us home-labbing AI enthusiasts get our models from.Aka, at the end of the day, OpenAI's ",
+    "content": "Just wondering about this, because I don't think I've seen it said plainly. Hugging Face is the place where all us home-labbing AI enthusiasts get our models from.Aka, at the end of the day, OpenAI's likely mortal enemy. It feels like no one is mentioning this point, am I missing something? Comments URL: https://news.ycombinator.com/item?id=49028571 Points: 4 # Comments: 1",
+    "author": "jrm4",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49028571",
+    "id": "news-4193"
+  },
+  {
+    "title": "Why AI Challenges Us: Ego, Awareness, and the Illusion of Ascent",
+    "summary": "Article URL: https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/ Comments URL: https://news.ycombinator.com/item?id=49028581 Points: 1 #",
+    "content": "Article URL: https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/ Comments URL: https://news.ycombinator.com/item?id=49028581 Points: 1 # Comments: 0",
+    "author": "manjuc",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/",
+    "id": "news-4192"
+  },
+  {
+    "title": "Which AI models understand insurance work?",
+    "summary": "Article URL: https://www.coveragecat.com/ai/leaderboard Comments URL: https://news.ycombinator.com/item?id=49028661 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.coveragecat.com/ai/leaderboard Comments URL: https://news.ycombinator.com/item?id=49028661 Points: 1 # Comments: 0",
+    "author": "botacode",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.coveragecat.com/ai/leaderboard",
+    "id": "news-4191"
+  },
+  {
+    "title": "Show HN: Bookshelf – book quotes that appear between Claude Code and Codex turns",
+    "summary": "This is a small quality of life project i built for myself and using it for 3+ months now, decided to fork it out and publish as a skill separately.Instead of seeing terminals filled with code and too",
+    "content": "This is a small quality of life project i built for myself and using it for 3+ months now, decided to fork it out and publish as a skill separately.Instead of seeing terminals filled with code and tool calls, seeing a book quote felt like a breath of fresh air considering all of us are glued to it day and night.Hope the random quotes that pop up in your terminals lets you have a moment of pause or happiness every now and then while the agents keep churning out stuff for us.Please feel free to gi",
+    "author": "amaldavid",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Amal-David/bookshelf",
+    "id": "news-4190"
+  },
+  {
+    "title": "AI Kill Switch Act: Official Bill Text by Reps. Lieu and Moran (2026)",
+    "summary": "Article URL: https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can Comments URL: https://news.ycombinator.com/item?id=49028757 Points",
+    "content": "Article URL: https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can Comments URL: https://news.ycombinator.com/item?id=49028757 Points: 2 # Comments: 0",
+    "author": "Jimmc414",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+    "id": "news-4189"
+  },
+  {
     "title": "ChatGPT will give you worse health advice if you don't pay",
     "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but ",
     "content": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved for premium subscribers, while free users are stuck with the weaker GPT-5.5 Instant. The article ChatGPT will give you worse health advice if you don't pay appeared first on The Decoder.",
