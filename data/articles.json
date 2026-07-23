@@ -1,5 +1,18 @@
 [
   {
+    "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
+    "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ",
+    "content": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ahead of market leader Seedance 2.0, though independent results aren't yet available. The company ultimately wants to build a world model and is already testing Flux 3 on robotics tasks. The article Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs appear",
+    "author": "Matthias Bastian",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+    "id": "news-4183"
+  },
+  {
     "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
     "summary": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the vi",
     "content": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious prompt, and pulled new instructions from the attacker's inbox every five minutes. The article One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes appeared f",
