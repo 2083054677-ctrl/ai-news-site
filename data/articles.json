@@ -1,5 +1,70 @@
 [
   {
+    "title": "ChatGPT will give you worse health advice if you don't pay",
+    "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but ",
+    "content": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved for premium subscribers, while free users are stuck with the weaker GPT-5.5 Instant. The article ChatGPT will give you worse health advice if you don't pay appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+    "id": "news-4188"
+  },
+  {
+    "title": "Save Up to 70% on Claude Code Costs with PNG Prompts?",
+    "summary": "Article URL: https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/ Comments URL: https://news.ycombinator.com/item?id=49027698 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/ Comments URL: https://news.ycombinator.com/item?id=49027698 Points: 1 # Comments: 0",
+    "author": "javatuts",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/",
+    "id": "news-4187"
+  },
+  {
+    "title": "Show HN: OpenTrust – Browser trust signals for the AI era",
+    "summary": "OpenTrust is an open-source TypeScript SDK that collects privacy-preserving browser trust signals.It focuses on signals, not decisions: - browser automation detection - virtual camera detection - pass",
+    "content": "OpenTrust is an open-source TypeScript SDK that collects privacy-preserving browser trust signals.It focuses on signals, not decisions: - browser automation detection - virtual camera detection - passive liveness signalsThe goal is to provide an additional trust layer for applications in a world where browsers may increasingly be controlled by automation and AI agents. Comments URL: https://news.ycombinator.com/item?id=49027707 Points: 1 # Comments: 0",
+    "author": "rafaeltadesse",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/rafaelEt/opentrust",
+    "id": "news-4186"
+  },
+  {
+    "title": "Do Co-Located AI Training Jobs Synchronize?",
+    "summary": "Article URL: https://arxiv.org/abs/2607.19638 Comments URL: https://news.ycombinator.com/item?id=49027719 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2607.19638 Comments URL: https://news.ycombinator.com/item?id=49027719 Points: 1 # Comments: 0",
+    "author": "Jimmc414",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2607.19638",
+    "id": "news-4185"
+  },
+  {
+    "title": "Show HN: LLM-budget-cap – atomic Redis spend cap for LLM APIs",
+    "summary": "Article URL: https://github.com/Rentheria/llm-budget-cap Comments URL: https://news.ycombinator.com/item?id=49027830 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Rentheria/llm-budget-cap Comments URL: https://news.ycombinator.com/item?id=49027830 Points: 1 # Comments: 0",
+    "author": "Rentheria",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Rentheria/llm-budget-cap",
+    "id": "news-4184"
+  },
+  {
     "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
     "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ",
     "content": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ahead of market leader Seedance 2.0, though independent results aren't yet available. The company ultimately wants to build a world model and is already testing Flux 3 on robotics tasks. The article Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs appear",
