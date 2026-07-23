@@ -1,5 +1,18 @@
 [
   {
+    "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+    "summary": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the vi",
+    "content": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious prompt, and pulled new instructions from the attacker's inbox every five minutes. The article One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes appeared f",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+    "id": "news-4182"
+  },
+  {
     "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
     "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Goo",
     "content": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambitious Gemini 4 training run. The article Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\" appeared first on The Decoder.",
