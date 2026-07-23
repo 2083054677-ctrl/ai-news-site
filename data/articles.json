@@ -1,5 +1,96 @@
 [
   {
+    "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
+    "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Goo",
+    "content": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambitious Gemini 4 training run. The article Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
+    "id": "news-4181"
+  },
+  {
+    "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
+    "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving ",
+    "content": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The compact model beats several much larger rivals in benchmarks. Poolside says it also solved a math problem that had been open since 1975 for under 10 cents. The article Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above it",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+    "id": "news-4180"
+  },
+  {
+    "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Point",
+    "content": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 42 # Comments: 28",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+    "id": "news-4179"
+  },
+  {
+    "title": "Show HN: Free API keys for open models (Llama, Qwen, GPT-OSS, Gemma)",
+    "summary": "Article URL: https://app.tensormux.com/pages/login.html Comments URL: https://news.ycombinator.com/item?id=49021044 Points: 2 # Comments: 0",
+    "content": "Article URL: https://app.tensormux.com/pages/login.html Comments URL: https://news.ycombinator.com/item?id=49021044 Points: 2 # Comments: 0",
+    "author": "KRISH2832",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://app.tensormux.com/pages/login.html",
+    "id": "news-4178"
+  },
+  {
+    "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
+    "summary": "Article URL: https://modelplane.ai/blog/ai-coding-subsidy-multiple Comments URL: https://news.ycombinator.com/item?id=49021054 Points: 7 # Comments: 0",
+    "content": "Article URL: https://modelplane.ai/blog/ai-coding-subsidy-multiple Comments URL: https://news.ycombinator.com/item?id=49021054 Points: 7 # Comments: 0",
+    "author": "bassamtabbara",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://modelplane.ai/blog/ai-coding-subsidy-multiple",
+    "id": "news-4177"
+  },
+  {
+    "title": "AI × Judgment × Taste = Mega Software",
+    "summary": "Article URL: https://www.dlhck.com/essays/ai-judgment-taste-mega-software Comments URL: https://news.ycombinator.com/item?id=49021180 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.dlhck.com/essays/ai-judgment-taste-mega-software Comments URL: https://news.ycombinator.com/item?id=49021180 Points: 1 # Comments: 0",
+    "author": "dlhck",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.dlhck.com/essays/ai-judgment-taste-mega-software",
+    "id": "news-4176"
+  },
+  {
+    "title": "The future of AI – Eric Schmidt (2024)",
+    "summary": "Article URL: https://www.youtube.com/watch?v=DgpYiysQjeI Comments URL: https://news.ycombinator.com/item?id=49021191 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=DgpYiysQjeI Comments URL: https://news.ycombinator.com/item?id=49021191 Points: 1 # Comments: 0",
+    "author": "soupspaces",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=DgpYiysQjeI",
+    "id": "news-4175"
+  },
+  {
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "content": "",
