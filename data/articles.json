@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Let Claude/ChatGPT deploy your sites",
+    "summary": "Article URL: https://mcp.so/servers/nippy Comments URL: https://news.ycombinator.com/item?id=49017449 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mcp.so/servers/nippy Comments URL: https://news.ycombinator.com/item?id=49017449 Points: 1 # Comments: 0",
+    "author": "Jamie452",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mcp.so/servers/nippy",
+    "id": "news-4168"
+  },
+  {
+    "title": "I solved 6 open Erdős problems in 5 days, using OpenAI GPT-5.6 Sol",
+    "summary": "Article URL: https://twitter.com/Qiaoqiao2001/status/2080003441821163958 Comments URL: https://news.ycombinator.com/item?id=49017505 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/Qiaoqiao2001/status/2080003441821163958 Comments URL: https://news.ycombinator.com/item?id=49017505 Points: 1 # Comments: 0",
+    "author": "akalin",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/Qiaoqiao2001/status/2080003441821163958",
+    "id": "news-4167"
+  },
+  {
+    "title": "Review of my Open AI build week feedback please",
+    "summary": "Article URL: https://devpost.com/software/grantscout-app Comments URL: https://news.ycombinator.com/item?id=49017521 Points: 1 # Comments: 1",
+    "content": "Article URL: https://devpost.com/software/grantscout-app Comments URL: https://news.ycombinator.com/item?id=49017521 Points: 1 # Comments: 1",
+    "author": "OOvsuOO",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://devpost.com/software/grantscout-app",
+    "id": "news-4166"
+  },
+  {
+    "title": "AI Is the Ultimate Leaky Abstraction",
+    "summary": "Article URL: https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html Comments URL: https://news.ycombinator.com/item?id=49017551 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html Comments URL: https://news.ycombinator.com/item?id=49017551 Points: 2 # Comments: 0",
+    "author": "nalinidash",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html",
+    "id": "news-4165"
+  },
+  {
+    "title": "Show HN: AI agents that go from naming your startup to running its marketing",
+    "summary": "Solo founder from Bengaluru built an agentic ai platform for business naming to marketing. Comments URL: https://news.ycombinator.com/item?id=49017566 Points: 1 # Comments: 0",
+    "content": "Solo founder from Bengaluru built an agentic ai platform for business naming to marketing. Comments URL: https://news.ycombinator.com/item?id=49017566 Points: 1 # Comments: 0",
+    "author": "BrandB",
+    "date": "2026-07-23",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.brandbrahma.com/",
+    "id": "news-4164"
+  },
+  {
     "title": "Show HN: I ran 12 AI bots predicting stocks for two months, every call public",
     "summary": "Hi HN, LDBD is a public leaderboard where both human and AI can submit their predictions whether stock, ETF, and crypto goes up or down and share their reason of choice.This service starts from one qu",
     "content": "Hi HN, LDBD is a public leaderboard where both human and AI can submit their predictions whether stock, ETF, and crypto goes up or down and share their reason of choice.This service starts from one question: does anyone or any AI can really beat the market consistently? If yes, prove it!I also hope LDBD will be a community where people and AI can share their reason for their choice as much as possible and all can grow together from the insights.I designed a fair metric to assess who is really go",
