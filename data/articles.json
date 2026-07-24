@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+    "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 perce",
+    "content": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+    "id": "news-4226"
+  },
+  {
+    "title": "San Francisco AI Doom Protest (2026) [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=vW26TB6Rdic Comments URL: https://news.ycombinator.com/item?id=49039959 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=vW26TB6Rdic Comments URL: https://news.ycombinator.com/item?id=49039959 Points: 1 # Comments: 0",
+    "author": "notmysql_",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=vW26TB6Rdic",
+    "id": "news-4225"
+  },
+  {
+    "title": "pixtuoid: AI coding agents, visualized as pixel-art coworkers in terminal office",
+    "summary": "Article URL: https://github.com/IvanWng97/pixtuoid Comments URL: https://news.ycombinator.com/item?id=49039960 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/IvanWng97/pixtuoid Comments URL: https://news.ycombinator.com/item?id=49039960 Points: 2 # Comments: 0",
+    "author": "guessmyname",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/IvanWng97/pixtuoid",
+    "id": "news-4224"
+  },
+  {
+    "title": "Ask HN: What's the best AI coding tool today?",
+    "summary": "My current workflow would be something like: write detailed requirements, ssh into a remote instance, ask an agent to write a plan and giving it free rein to build it there, only pinging me back when ",
+    "content": "My current workflow would be something like: write detailed requirements, ssh into a remote instance, ask an agent to write a plan and giving it free rein to build it there, only pinging me back when it's ready or when it's stuck. I could write code manually in an IDE too but only when the problem is too complex for an LLM.I've used Cursor for work for a few years, but I'm really not a fan of giving all of my data to Musk. Also I think I want to spend less time writing code by hand.I tried Antig",
+    "author": "FrenchDevRemote",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49040025",
+    "id": "news-4223"
+  },
+  {
+    "title": "Shackle: A pre-execution ALLOW/DENY/HITL gate for AI agents (open source)",
+    "summary": "Article URL: https://github.com/Fame510/SHACKLE Comments URL: https://news.ycombinator.com/item?id=49040103 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Fame510/SHACKLE Comments URL: https://news.ycombinator.com/item?id=49040103 Points: 1 # Comments: 0",
+    "author": "SHACKLE-PRO-",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Fame510/SHACKLE",
+    "id": "news-4222"
+  },
+  {
+    "title": "Oracle VM VirtualBox Bug Discovered by AI: CVE-2026-60161",
+    "summary": "Article URL: https://octane.beehiiv.com/ Comments URL: https://news.ycombinator.com/item?id=49040324 Points: 1 # Comments: 0",
+    "content": "Article URL: https://octane.beehiiv.com/ Comments URL: https://news.ycombinator.com/item?id=49040324 Points: 1 # Comments: 0",
+    "author": "runeks",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://octane.beehiiv.com/",
+    "id": "news-4221"
+  },
+  {
     "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
     "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less ",
     "content": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also swapping external models in products like Copilot for its in-house MAI family, which performs significantly worse in independent benchmarks. The article Microsoft's open-weight AI push is so obviously an Azure play it hu",
