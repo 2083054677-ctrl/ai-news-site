@@ -1,5 +1,96 @@
 [
   {
+    "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+    "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 percent on ExploitBench, compared with 76",
+    "content": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 percent on ExploitBench, compared with 76 percent for leading U.S. models, while its safeguards failed to block exploit development or simulated attacks. The gap between its strong general benchmark scores and weaker cyber performance also fits allegations that Moonshot AI distilled Anthropic's models. The article Kimi K3 trails frontier U",
+    "author": "Matthias Bastian",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/",
+    "id": "news-4209"
+  },
+  {
+    "title": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
+    "summary": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack. Claude is currently the only AI assistant that can compose and send emails dir",
+    "content": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack. Claude is currently the only AI assistant that can compose and send emails directly by voice, giving it an edge over OpenAI and Google, whose voice output still sounds more natural. The article Claude's voice mode now runs on Anthropic's most capable models across all platforms appeared first on The Decoder.",
+    "author": "Gregor Kobsik",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+    "id": "news-4208"
+  },
+  {
+    "title": "Show HN: LLM Proxy - Python with SSE stream aggregation and timeout prevention",
+    "summary": "Article URL: https://github.com/lordraw77/llmproxy Comments URL: https://news.ycombinator.com/item?id=49033596 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/lordraw77/llmproxy Comments URL: https://news.ycombinator.com/item?id=49033596 Points: 1 # Comments: 0",
+    "author": "lordraw",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lordraw77/llmproxy",
+    "id": "news-4207"
+  },
+  {
+    "title": "Show HN: SaveAnswer – a local Chrome extension for keeping AI answers searchable",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm Comments URL: https://news.ycombinator.com/item?id=49033633 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm Comments URL: https://news.ycombinator.com/item?id=49033633 Points: 1 # Comments: 0",
+    "author": "lynnFu",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm",
+    "id": "news-4206"
+  },
+  {
+    "title": "AI generated PRs can hide malicious intent across several PRs",
+    "summary": "Article URL: https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders Comments URL: https://news.ycombinator.com/item?id=4903",
+    "content": "Article URL: https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders Comments URL: https://news.ycombinator.com/item?id=49033883 Points: 2 # Comments: 0",
+    "author": "ARayOutOfBounds",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders",
+    "id": "news-4205"
+  },
+  {
+    "title": "A VSCode extension for AI to understand your project",
+    "summary": "I have been using opencode for development and wrote an AI project that retrieves road network data and generates 3D models. However, every time a new dialog box pops up and requires me to modify a ce",
+    "content": "I have been using opencode for development and wrote an AI project that retrieves road network data and generates 3D models. However, every time a new dialog box pops up and requires me to modify a certain function, I have to trace the clues to find the implementation methods in other files. The context becomes cluttered and the reading speed is very slow. So, I wrote a VSCode plugin that can install the skill in one click. This enables the AI to write code with detailed comments. The plugin can",
+    "author": "bailingyuan",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49033971",
+    "id": "news-4204"
+  },
+  {
+    "title": "Orwell on AI",
+    "summary": "Article URL: https://hegemon.substack.com/p/orwell-on-ai Comments URL: https://news.ycombinator.com/item?id=49034006 Points: 3 # Comments: 0",
+    "content": "Article URL: https://hegemon.substack.com/p/orwell-on-ai Comments URL: https://news.ycombinator.com/item?id=49034006 Points: 3 # Comments: 0",
+    "author": "aa_is_op",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hegemon.substack.com/p/orwell-on-ai",
+    "id": "news-4203"
+  },
+  {
     "title": "Google's slump in AI race driven in part by low morale",
     "summary": "Article URL: https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race Comments URL: https://news.ycombinator.com/item?id=49031227 Points: 3 # Comments: 1",
     "content": "Article URL: https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race Comments URL: https://news.ycombinator.com/item?id=49031227 Points: 3 # Comments: 1",
