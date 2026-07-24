@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
+    "summary": "Article URL: https://github.com/kdeps/turo Comments URL: https://news.ycombinator.com/item?id=49029919 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/kdeps/turo Comments URL: https://news.ycombinator.com/item?id=49029919 Points: 2 # Comments: 1",
+    "author": "jjuliano",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kdeps/turo",
+    "id": "news-4197"
+  },
+  {
+    "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html Comments URL: https://news.ycombinator.com/item?id=49029948 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html Comments URL: https://news.ycombinator.com/item?id=49029948 Points: 2 # Comments: 1",
+    "author": "pseudolus",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+    "id": "news-4196"
+  },
+  {
+    "title": "Brockovich Data Center Reporting – U.S. AI Data Center Awareness and Issue Map",
+    "summary": "Article URL: https://brockovichdatacenter.com/index.html Comments URL: https://news.ycombinator.com/item?id=49030230 Points: 2 # Comments: 0",
+    "content": "Article URL: https://brockovichdatacenter.com/index.html Comments URL: https://news.ycombinator.com/item?id=49030230 Points: 2 # Comments: 0",
+    "author": "thunderbong",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://brockovichdatacenter.com/index.html",
+    "id": "news-4195"
+  },
+  {
+    "title": "Why AI works worse in your language",
+    "summary": "Article URL: https://artifipedia.com/blog/multilingual-ai Comments URL: https://news.ycombinator.com/item?id=49030402 Points: 1 # Comments: 0",
+    "content": "Article URL: https://artifipedia.com/blog/multilingual-ai Comments URL: https://news.ycombinator.com/item?id=49030402 Points: 1 # Comments: 0",
+    "author": "ilreb",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://artifipedia.com/blog/multilingual-ai",
+    "id": "news-4194"
+  },
+  {
     "title": "Doesn't OpenAI have every incentive to destroy HuggingFace?",
     "summary": "Just wondering about this, because I don't think I've seen it said plainly. Hugging Face is the place where all us home-labbing AI enthusiasts get our models from.Aka, at the end of the day, OpenAI's ",
     "content": "Just wondering about this, because I don't think I've seen it said plainly. Hugging Face is the place where all us home-labbing AI enthusiasts get our models from.Aka, at the end of the day, OpenAI's likely mortal enemy. It feels like no one is mentioning this point, am I missing something? Comments URL: https://news.ycombinator.com/item?id=49028571 Points: 4 # Comments: 1",
