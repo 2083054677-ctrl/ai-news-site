@@ -1,5 +1,70 @@
 [
   {
+    "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
+    "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less ",
+    "content": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also swapping external models in products like Copilot for its in-house MAI family, which performs significantly worse in independent benchmarks. The article Microsoft's open-weight AI push is so obviously an Azure play it hu",
+    "author": "Matthias Bastian",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
+    "id": "news-4220"
+  },
+  {
+    "title": "Claude Opus 5",
+    "summary": "Article URL: https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 197 # Comments: 90",
+    "content": "Article URL: https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 197 # Comments: 90",
+    "author": "alvis",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/claude-opus-5-system-card",
+    "id": "news-4219"
+  },
+  {
+    "title": "Hans Moravec Was Right About AI. What About the Fate of Mankind?",
+    "summary": "Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49038610 Points: 1 # Comments: 1",
+    "content": "Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49038610 Points: 1 # Comments: 1",
+    "author": "bookofjoe",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
+    "id": "news-4218"
+  },
+  {
+    "title": "Google Ordered to Face AI Defamation Lawsuit",
+    "summary": "Article URL: https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit Comments URL: https://news.ycombinator.com/item?id=49038628 Points: 1 # Comments: 0",
+    "content": "Article URL: https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit Comments URL: https://news.ycombinator.com/item?id=49038628 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit",
+    "id": "news-4217"
+  },
+  {
+    "title": "What's new in Claude Opus 5",
+    "summary": "Article URL: https://platform.claude.com/docs/en/about-claude/models/whats-new-opus-5 Comments URL: https://news.ycombinator.com/item?id=49038856 Points: 1 # Comments: 0",
+    "content": "Article URL: https://platform.claude.com/docs/en/about-claude/models/whats-new-opus-5 Comments URL: https://news.ycombinator.com/item?id=49038856 Points: 1 # Comments: 0",
+    "author": "acmnrs",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://platform.claude.com/docs/en/about-claude/models/whats-new-opus-5",
+    "id": "news-4216"
+  },
+  {
     "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
     "summary": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet. The update adds a Claude Code-compatible endpoi",
     "content": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet. The update adds a Claude Code-compatible endpoint. The service remains unavailable in the EU. The article Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool appeared first on The Decoder.",
