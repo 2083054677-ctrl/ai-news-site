@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: What happens when we do compress the context in Claude Code?",
+    "summary": "What happens when we do compress the context in claude code? How does the reduce the context with out loosing the details? Comments URL: https://news.ycombinator.com/item?id=49048571 Points: 3 # Comme",
+    "content": "What happens when we do compress the context in claude code? How does the reduce the context with out loosing the details? Comments URL: https://news.ycombinator.com/item?id=49048571 Points: 3 # Comments: 3",
+    "author": "tbharath",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49048571",
+    "id": "news-4254"
+  },
+  {
+    "title": "People are deceiving the justice system with AI",
+    "summary": "Article URL: https://english.elpais.com/technology/2026-07-25/how-people-are-deceiving-the-justice-system-with-ai-its-an-invisible-fraud.html Comments URL: https://news.ycombinator.com/item?id=4904865",
+    "content": "Article URL: https://english.elpais.com/technology/2026-07-25/how-people-are-deceiving-the-justice-system-with-ai-its-an-invisible-fraud.html Comments URL: https://news.ycombinator.com/item?id=49048655 Points: 6 # Comments: 1",
+    "author": "root-parent",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://english.elpais.com/technology/2026-07-25/how-people-are-deceiving-the-justice-system-with-ai-its-an-invisible-fraud.html",
+    "id": "news-4253"
+  },
+  {
+    "title": "Claude helps reduce our technical debt",
+    "summary": "Article URL: https://ninkovic.dev/blog/2026/how-claude-helps-reduce-our-technical-debt Comments URL: https://news.ycombinator.com/item?id=49048677 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ninkovic.dev/blog/2026/how-claude-helps-reduce-our-technical-debt Comments URL: https://news.ycombinator.com/item?id=49048677 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ninkovic.dev/blog/2026/how-claude-helps-reduce-our-technical-debt",
+    "id": "news-4252"
+  },
+  {
+    "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/ Comments URL: https://news.ycombinator.com/item?id=49048958 Points: 2 # Co",
+    "content": "Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/ Comments URL: https://news.ycombinator.com/item?id=49048958 Points: 2 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+    "id": "news-4251"
+  },
+  {
+    "title": "Politician reads AI prompt during assembly",
+    "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 4 # Comments: 0",
+    "author": "root-parent",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+    "id": "news-4250"
+  },
+  {
     "title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
     "summary": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The ",
     "content": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed before OpenAI realized what had happened. By then, the FBI was already involved. Earlier warning signs had apparently gone ignored. The article New reports reveal the extent of OpenAI's loss of control during the ",
