@@ -1,5 +1,70 @@
 [
   {
+    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+    "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49044400 Points: 5 # Comments: 2",
+    "content": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49044400 Points: 5 # Comments: 2",
+    "author": "Alien1Being",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+    "id": "news-4236"
+  },
+  {
+    "title": "Coordination layer for AI coding agents, built on Git",
+    "summary": "Article URL: https://github.com/zyads/loom-vcs Comments URL: https://news.ycombinator.com/item?id=49044517 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/zyads/loom-vcs Comments URL: https://news.ycombinator.com/item?id=49044517 Points: 2 # Comments: 0",
+    "author": "aether-zyads",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/zyads/loom-vcs",
+    "id": "news-4235"
+  },
+  {
+    "title": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS",
+    "summary": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/ Comments URL: https://news.ycombinator.com/item?id=49044597 Points: 1 # Comments: 0",
+    "content": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/ Comments URL: https://news.ycombinator.com/item?id=49044597 Points: 1 # Comments: 0",
+    "author": "gslin",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
+    "id": "news-4234"
+  },
+  {
+    "title": "Show HN: Sync Claude Code and Codex configs, with a board that shows the drift",
+    "summary": "Article URL: https://github.com/slash9494/ai-config-sync-manager Comments URL: https://news.ycombinator.com/item?id=49044662 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/slash9494/ai-config-sync-manager Comments URL: https://news.ycombinator.com/item?id=49044662 Points: 1 # Comments: 0",
+    "author": "slash9494",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/slash9494/ai-config-sync-manager",
+    "id": "news-4233"
+  },
+  {
+    "title": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
+    "summary": "Article URL: https://varnam.substack.com/p/the-architecture-of-deep-thought Comments URL: https://news.ycombinator.com/item?id=49044674 Points: 1 # Comments: 0",
+    "content": "Article URL: https://varnam.substack.com/p/the-architecture-of-deep-thought Comments URL: https://news.ycombinator.com/item?id=49044674 Points: 1 # Comments: 0",
+    "author": "arthurfleck",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
+    "id": "news-4232"
+  },
+  {
     "title": "Claude used my pipeline to find a counterexample to the Jacobian conjecture",
     "summary": "About a month ago, I released under CC0 an implementation of a pipeline I had spent two years developing. It’s the pipeline Claude used to find the counterexample to the Jacobian conjecture. The repos",
     "content": "About a month ago, I released under CC0 an implementation of a pipeline I had spent two years developing. It’s the pipeline Claude used to find the counterexample to the Jacobian conjecture. The repository history, public release, discussion with one of the original paper’s authors, and two years of development logs document the pipeline’s origin and development.Proof - https://github.com/JGPTech/Fun/tree/main/JacobianThe history:I first released it under CC0 a little over a month ago. You can f",
