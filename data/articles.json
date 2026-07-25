@@ -1,5 +1,70 @@
 [
   {
+    "title": "How are you authorizing AI agents that call MCP servers?",
+    "summary": "Article URL: https://www.keydris.com/ Comments URL: https://news.ycombinator.com/item?id=49050972 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.keydris.com/ Comments URL: https://news.ycombinator.com/item?id=49050972 Points: 2 # Comments: 0",
+    "author": "ahmed89",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.keydris.com/",
+    "id": "news-4259"
+  },
+  {
+    "title": "Ask HN: What are some popular AI detection software that you know/have used?",
+    "summary": "We want to undertake a comprehensive evaluation of popular AI detection software that detect the text content. If you use a software for this purpose, please share the name of the product and if possi",
+    "content": "We want to undertake a comprehensive evaluation of popular AI detection software that detect the text content. If you use a software for this purpose, please share the name of the product and if possible a brief on what you like/dislike about it? Thanks in advance. Comments URL: https://news.ycombinator.com/item?id=49051022 Points: 1 # Comments: 1",
+    "author": "dd-sharma",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49051022",
+    "id": "news-4258"
+  },
+  {
+    "title": "Have your say on advancing AI transparency in Canada",
+    "summary": "Article URL: https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada Comments URL: https://news.ycombinator.com/item?id=49051032 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada Comments URL: https://news.ycombinator.com/item?id=49051032 Points: 2 # Comments: 0",
+    "author": "hmokiguess",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada",
+    "id": "news-4257"
+  },
+  {
+    "title": "Ruflo: An agent meta-harness for Claude Code and Codex",
+    "summary": "Article URL: https://github.com/ruvnet/ruflo Comments URL: https://news.ycombinator.com/item?id=49051072 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ruvnet/ruflo Comments URL: https://news.ycombinator.com/item?id=49051072 Points: 2 # Comments: 0",
+    "author": "ms7892",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ruvnet/ruflo",
+    "id": "news-4256"
+  },
+  {
+    "title": "How OpenAI Lost Control of an AI Model–and What Needs to Change",
+    "summary": "Article URL: https://time.com/article/2026/07/24/openai-hugging-face-attack/ Comments URL: https://news.ycombinator.com/item?id=49051343 Points: 1 # Comments: 0",
+    "content": "Article URL: https://time.com/article/2026/07/24/openai-hugging-face-attack/ Comments URL: https://news.ycombinator.com/item?id=49051343 Points: 1 # Comments: 0",
+    "author": "reasonableklout",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+    "id": "news-4255"
+  },
+  {
     "title": "Ask HN: What happens when we do compress the context in Claude Code?",
     "summary": "What happens when we do compress the context in claude code? How does the reduce the context with out loosing the details? Comments URL: https://news.ycombinator.com/item?id=49048571 Points: 3 # Comme",
     "content": "What happens when we do compress the context in claude code? How does the reduce the context with out loosing the details? Comments URL: https://news.ycombinator.com/item?id=49048571 Points: 3 # Comments: 3",
