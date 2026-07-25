@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude used my pipeline to find a counterexample to the Jacobian conjecture",
+    "summary": "About a month ago, I released under CC0 an implementation of a pipeline I had spent two years developing. It’s the pipeline Claude used to find the counterexample to the Jacobian conjecture. The repos",
+    "content": "About a month ago, I released under CC0 an implementation of a pipeline I had spent two years developing. It’s the pipeline Claude used to find the counterexample to the Jacobian conjecture. The repository history, public release, discussion with one of the original paper’s authors, and two years of development logs document the pipeline’s origin and development.Proof - https://github.com/JGPTech/Fun/tree/main/JacobianThe history:I first released it under CC0 a little over a month ago. You can f",
+    "author": "JGPTechCo",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49043095",
+    "id": "news-4228"
+  },
+  {
+    "title": "OpenAI did not notice Hugging Face hack for a week",
+    "summary": "Article URL: https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/ Comments URL: https://news.ycombinator.com/item?id=49043192 Poi",
+    "content": "Article URL: https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/ Comments URL: https://news.ycombinator.com/item?id=49043192 Points: 9 # Comments: 2",
+    "author": "himaraya",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+    "id": "news-4227"
+  },
+  {
+    "title": "Open Weights and American AI Leadership",
+    "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ Comments URL: https://news.ycombinator.com/item?id=49042884 Points: 8 # Comments: 3",
+    "content": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ Comments URL: https://news.ycombinator.com/item?id=49042884 Points: 8 # Comments: 3",
+    "author": "haritha1313",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "id": "news-4231"
+  },
+  {
+    "title": "Show HN: OneWayInterview – type a job role, AI builds the async video interview",
+    "summary": "Article URL: https://onewayinterview.com/ Comments URL: https://news.ycombinator.com/item?id=49042922 Points: 1 # Comments: 1",
+    "content": "Article URL: https://onewayinterview.com/ Comments URL: https://news.ycombinator.com/item?id=49042922 Points: 1 # Comments: 1",
+    "author": "emunova",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://onewayinterview.com/",
+    "id": "news-4230"
+  },
+  {
+    "title": "Bonsai – a toolkit for building AI chat apps with branchable conversations",
+    "summary": "Article URL: https://github.com/Joaoha/Bonsai Comments URL: https://news.ycombinator.com/item?id=49043023 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/Joaoha/Bonsai Comments URL: https://news.ycombinator.com/item?id=49043023 Points: 2 # Comments: 0",
+    "author": "joaoha",
+    "date": "2026-07-24",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Joaoha/Bonsai",
+    "id": "news-4229"
+  },
+  {
     "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
     "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 perce",
     "content": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder.",
