@@ -1,5 +1,70 @@
 [
   {
+    "title": "Substack adds AI text detection to all notes and posts",
+    "summary": "Article URL: https://post.substack.com/p/against-claudefishing Comments URL: https://news.ycombinator.com/item?id=49045198 Points: 2 # Comments: 0",
+    "content": "Article URL: https://post.substack.com/p/against-claudefishing Comments URL: https://news.ycombinator.com/item?id=49045198 Points: 2 # Comments: 0",
+    "author": "meander_water",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://post.substack.com/p/against-claudefishing",
+    "id": "news-4241"
+  },
+  {
+    "title": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
+    "summary": "I’m not a software engineer, but I’ve been running an experiment to see whether agentic development could produce a useful prototype on top of an existing SaaS codebase.The codebase is 1M+ lines, 15 y",
+    "content": "I’m not a software engineer, but I’ve been running an experiment to see whether agentic development could produce a useful prototype on top of an existing SaaS codebase.The codebase is 1M+ lines, 15 years old, hosted on Azure, and primarily written in C# and React.The prototype needs to be available for customer testing in September. No developers were available to work on it full-time, although I could occasionally get help with specific technical issues. An engineer will evaluate the implement",
+    "author": "thegreatkahuna",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49045271",
+    "id": "news-4240"
+  },
+  {
+    "title": "The Library and the Librarian: Why AI Needs Two Different Brains",
+    "summary": "Article URL: https://www.innerkore.com/blog/library-and-librarian/ Comments URL: https://news.ycombinator.com/item?id=49045382 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.innerkore.com/blog/library-and-librarian/ Comments URL: https://news.ycombinator.com/item?id=49045382 Points: 2 # Comments: 0",
+    "author": "gagan2020",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.innerkore.com/blog/library-and-librarian/",
+    "id": "news-4239"
+  },
+  {
+    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
+    "summary": "Article URL: https://twitter.com/i/status/2080229375773941871 Comments URL: https://news.ycombinator.com/item?id=49045443 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/i/status/2080229375773941871 Comments URL: https://news.ycombinator.com/item?id=49045443 Points: 1 # Comments: 0",
+    "author": "Michelangelo11",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/i/status/2080229375773941871",
+    "id": "news-4238"
+  },
+  {
+    "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+    "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49045445 Poin",
+    "content": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49045445 Points: 1 # Comments: 0",
+    "author": "donutloop",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+    "id": "news-4237"
+  },
+  {
     "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
     "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49044400 Points: 5 # Comments: 2",
     "content": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49044400 Points: 5 # Comments: 2",
