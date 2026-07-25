@@ -1,5 +1,18 @@
 [
   {
+    "title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+    "summary": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The ",
+    "content": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed before OpenAI realized what had happened. By then, the FBI was already involved. Earlier warning signs had apparently gone ignored. The article New reports reveal the extent of OpenAI's loss of control during the ",
+    "author": "Matthias Bastian",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+    "id": "news-4249"
+  },
+  {
     "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
     "summary": "Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these ",
     "content": "Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic may have cracked one of the biggest security problems facing AI agents that operate in browsers. The article Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents appeared first on The Decoder.",
