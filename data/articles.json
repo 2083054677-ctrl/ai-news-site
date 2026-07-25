@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
+    "summary": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and cos",
+    "content": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains close. The article Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/",
+    "id": "news-4247"
+  },
+  {
+    "title": "Show HN: AI Toolbox supports Claude Opus 5",
+    "summary": "Article URL: https://www.ai-toolbox.co Comments URL: https://news.ycombinator.com/item?id=49045835 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ai-toolbox.co Comments URL: https://news.ycombinator.com/item?id=49045835 Points: 1 # Comments: 0",
+    "author": "superduper5551",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ai-toolbox.co",
+    "id": "news-4246"
+  },
+  {
+    "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+    "summary": "Article URL: https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54 Comments URL: https://news.ycombinator.com/item?id=49045840 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54 Comments URL: https://news.ycombinator.com/item?id=49045840 Points: 1 # Comments: 0",
+    "author": "interceptor666",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54",
+    "id": "news-4245"
+  },
+  {
+    "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
+    "summary": "I’ve recently learned about neuromorphic computing while thinking about the core inefficiencies of current deep learning.Today AI relies heavily on super-dense layers, continuous computation of all la",
+    "content": "I’ve recently learned about neuromorphic computing while thinking about the core inefficiencies of current deep learning.Today AI relies heavily on super-dense layers, continuous computation of all layers and neurons at all times, and global backpropagation to find optimal weight updates. But when you look at the human brain, none of that happens.The brain operates on principles that stand in contrast to modern LLMs:- Local Evolution: Neurons are largely independent, evolving based on their loca",
+    "author": "lennart-rth",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49045970",
+    "id": "news-4244"
+  },
+  {
+    "title": "Show HN: AI codebase analyser and auto-fixer",
+    "summary": "The difference is the mindset shift of \"human-in-the-loop\" approach to debugging. I believe security is so critical that AI should never execute every action end to end. Comments URL: https://news.yco",
+    "content": "The difference is the mindset shift of \"human-in-the-loop\" approach to debugging. I believe security is so critical that AI should never execute every action end to end. Comments URL: https://news.ycombinator.com/item?id=49045992 Points: 1 # Comments: 0",
+    "author": "nutifafa",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.getdebug.dev/blog/python-ai-app-prefilters",
+    "id": "news-4243"
+  },
+  {
+    "title": "Show HN: AgentState – Open-source resilience and caching proxy for AI agents",
+    "summary": "Article URL: https://github.com/aleenz1102/AgentState Comments URL: https://news.ycombinator.com/item?id=49046038 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/aleenz1102/AgentState Comments URL: https://news.ycombinator.com/item?id=49046038 Points: 1 # Comments: 0",
+    "author": "aijazahm19",
+    "date": "2026-07-25",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/aleenz1102/AgentState",
+    "id": "news-4242"
+  },
+  {
     "title": "Substack adds AI text detection to all notes and posts",
     "summary": "Article URL: https://post.substack.com/p/against-claudefishing Comments URL: https://news.ycombinator.com/item?id=49045198 Points: 2 # Comments: 0",
     "content": "Article URL: https://post.substack.com/p/against-claudefishing Comments URL: https://news.ycombinator.com/item?id=49045198 Points: 2 # Comments: 0",
