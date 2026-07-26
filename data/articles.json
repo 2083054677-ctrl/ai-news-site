@@ -1,5 +1,70 @@
 [
   {
+    "title": "You can view shared Claude conversations via Google",
+    "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/Zl0eDEVaBT Comments URL: https://news.ycombinator.com/item?id=49056662 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.reddit.com/r/ClaudeAI/s/Zl0eDEVaBT Comments URL: https://news.ycombinator.com/item?id=49056662 Points: 1 # Comments: 0",
+    "author": "fandorin",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reddit.com/r/ClaudeAI/s/Zl0eDEVaBT",
+    "id": "news-4278"
+  },
+  {
+    "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+    "summary": "Article URL: https://code.claude.com/docs/en/data-usage Comments URL: https://news.ycombinator.com/item?id=49056689 Points: 1 # Comments: 0",
+    "content": "Article URL: https://code.claude.com/docs/en/data-usage Comments URL: https://news.ycombinator.com/item?id=49056689 Points: 1 # Comments: 0",
+    "author": "espeed",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://code.claude.com/docs/en/data-usage",
+    "id": "news-4277"
+  },
+  {
+    "title": "An OpenAI model left notes about how to evade containment; we need more details",
+    "summary": "Article URL: https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we Comments URL: https://news.ycombinator.com/item?id=49056808 Points: 2 # Comm",
+    "content": "Article URL: https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we Comments URL: https://news.ycombinator.com/item?id=49056808 Points: 2 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
+    "id": "news-4276"
+  },
+  {
+    "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
+    "summary": "Article URL: https://github.com/openwong2kim/wmux Comments URL: https://news.ycombinator.com/item?id=49056854 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/openwong2kim/wmux Comments URL: https://news.ycombinator.com/item?id=49056854 Points: 2 # Comments: 0",
+    "author": "wong2kim",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/openwong2kim/wmux",
+    "id": "news-4275"
+  },
+  {
+    "title": "AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c Comments URL: https://news.ycombinator.com/item?id=49056855 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c Comments URL: https://news.ycombinator.com/item?id=49056855 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c",
+    "id": "news-4274"
+  },
+  {
     "title": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
     "summary": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based w",
     "content": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it. But nearly half of respondents say they lack proven examples for integrating AI into their courses. The article The AI coding tutor paradox grows as educators scramble to rethink how they test real skills appeared first on The Decoder.",
