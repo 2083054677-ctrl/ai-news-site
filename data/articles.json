@@ -1,5 +1,122 @@
 [
   {
+    "title": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
+    "summary": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based w",
+    "content": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it. But nearly half of respondents say they lack proven examples for integrating AI into their courses. The article The AI coding tutor paradox grows as educators scramble to rethink how they test real skills appeared first on The Decoder.",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
+    "id": "news-4273"
+  },
+  {
+    "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns",
+    "summary": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-w",
+    "content": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those same restrictions amid security concerns and powerful business interests. The article US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns appeared first on Th",
+    "author": "Matthias Bastian",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
+    "id": "news-4272"
+  },
+  {
+    "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+    "summary": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall. According to the Wall Street Journal, ",
+    "content": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall. According to the Wall Street Journal, some users got step-by-step instructions for making poisons and biological weapons. Hundreds asked for that kind of information. The article Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
+    "id": "news-4271"
+  },
+  {
+    "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+    "summary": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflectio",
+    "content": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning. The article Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+    "id": "news-4270"
+  },
+  {
+    "title": "Anthropic secures its AI-native software development lifecycle",
+    "summary": "Article URL: https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle Comments URL: https://news.ycombinator.com/item?id=49055849 Points: 3 # Comments: 0",
+    "content": "Article URL: https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle Comments URL: https://news.ycombinator.com/item?id=49055849 Points: 3 # Comments: 0",
+    "author": "_tk_",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "id": "news-4269"
+  },
+  {
+    "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+    "summary": "Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898 Comments URL: https://news.ycombinator.com/item?id=49055877 Points: 1 # C",
+    "content": "Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898 Comments URL: https://news.ycombinator.com/item?id=49055877 Points: 1 # Comments: 0",
+    "author": "reasonableklout",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898",
+    "id": "news-4268"
+  },
+  {
+    "title": "If you feel the need to tell me your answer is AI-based, work it more",
+    "summary": "Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/ Comments URL: https://news.ycombinator.com/item?id=49055896 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/ Comments URL: https://news.ycombinator.com/item?id=49055896 Points: 1 # Comments: 0",
+    "author": "Versipelle",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/",
+    "id": "news-4267"
+  },
+  {
+    "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+    "summary": "Article URL: https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/ Comments URL: https://news.ycombinator.com/item?id=49056022 Points: 5 # Comments: 1",
+    "content": "Article URL: https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/ Comments URL: https://news.ycombinator.com/item?id=49056022 Points: 5 # Comments: 1",
+    "author": "bredren",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+    "id": "news-4266"
+  },
+  {
+    "title": "Show HN: Termic – desktop app for running CLI coding agents (Claude Code, Codex)",
+    "summary": "So, https://termic.dev open source desktop app for managing claude code / codex / agt / etc coding sessions. main checkout or worktrees.Here's the story: a couple of months ago Anthropic announced pri",
+    "content": "So, https://termic.dev open source desktop app for managing claude code / codex / agt / etc coding sessions. main checkout or worktrees.Here's the story: a couple of months ago Anthropic announced pricing changes over the programatic use of Claude code (Agent SDK + including -p), i suspected tools like Conductor will stop working.Started building a clone myself, which uses the CLI binaries in PTY terminals as first class citizens, not custom agent sdk. This is the most bulletproof way of always ",
+    "author": "SimionBaws",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://termic.dev/",
+    "id": "news-4265"
+  },
+  {
     "title": "I scanned my AI agent framework for destructive/consequential actions, and wow",
     "summary": "Article URL: https://www.actenon.com/ Comments URL: https://news.ycombinator.com/item?id=49053520 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.actenon.com/ Comments URL: https://news.ycombinator.com/item?id=49053520 Points: 1 # Comments: 0",
