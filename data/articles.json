@@ -1,5 +1,70 @@
 [
   {
+    "title": "Data loss in Claude Code and OpenAI Codex: when AI deletes user files",
+    "summary": "Article URL: https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion Comments URL: https://news.ycombinator.com/item?id=49058441 Points: 2 # Comme",
+    "content": "Article URL: https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion Comments URL: https://news.ycombinator.com/item?id=49058441 Points: 2 # Comments: 0",
+    "author": "firasd",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
+    "id": "news-4283"
+  },
+  {
+    "title": "MCP Code Review Server – AI code review in your editor",
+    "summary": "Article URL: https://github.com/GoodJobwilliam/aicraft/tree/main/products/mcp-code-review Comments URL: https://news.ycombinator.com/item?id=49058442 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/GoodJobwilliam/aicraft/tree/main/products/mcp-code-review Comments URL: https://news.ycombinator.com/item?id=49058442 Points: 1 # Comments: 0",
+    "author": "williamXue",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/GoodJobwilliam/aicraft/tree/main/products/mcp-code-review",
+    "id": "news-4282"
+  },
+  {
+    "title": "Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
+    "summary": "Article URL: https://github.com/Nutlope/hallmark Comments URL: https://news.ycombinator.com/item?id=49058547 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/Nutlope/hallmark Comments URL: https://news.ycombinator.com/item?id=49058547 Points: 2 # Comments: 1",
+    "author": "opwizardx",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Nutlope/hallmark",
+    "id": "news-4281"
+  },
+  {
+    "title": "Show HN: OpenSmith – Trace LLM pipelines locally with trace, no cloud",
+    "summary": "Article URL: https://github.com/shivnathtathe/opensmith Comments URL: https://news.ycombinator.com/item?id=49058643 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/shivnathtathe/opensmith Comments URL: https://news.ycombinator.com/item?id=49058643 Points: 1 # Comments: 0",
+    "author": "shivnathtathe",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/shivnathtathe/opensmith",
+    "id": "news-4280"
+  },
+  {
+    "title": "Show HN: CMEM – Persistent Memory for AI Coding Agents",
+    "summary": "Article URL: https://cmem.ai Comments URL: https://news.ycombinator.com/item?id=49058789 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cmem.ai Comments URL: https://news.ycombinator.com/item?id=49058789 Points: 1 # Comments: 0",
+    "author": "FabianBeiner",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cmem.ai",
+    "id": "news-4279"
+  },
+  {
     "title": "You can view shared Claude conversations via Google",
     "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/Zl0eDEVaBT Comments URL: https://news.ycombinator.com/item?id=49056662 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.reddit.com/r/ClaudeAI/s/Zl0eDEVaBT Comments URL: https://news.ycombinator.com/item?id=49056662 Points: 1 # Comments: 0",
