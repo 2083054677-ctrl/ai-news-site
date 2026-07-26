@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+    "summary": "Article URL: https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary Comments URL: https://news.ycombinator.com/item?id=49060794 Points: 3 # Comments: 2",
+    "content": "Article URL: https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary Comments URL: https://news.ycombinator.com/item?id=49060794 Points: 3 # Comments: 2",
+    "author": "ldenoue",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+    "id": "news-4294"
+  },
+  {
+    "title": "Narcissism, Machiavellianism, and AI Use",
+    "summary": "Article URL: https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology Comments URL: https://news.ycombinator.com/item?id=49060815 Points: 4 # Comments: 0",
+    "content": "Article URL: https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology Comments URL: https://news.ycombinator.com/item?id=49060815 Points: 4 # Comments: 0",
+    "author": "colinprince",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology",
+    "id": "news-4293"
+  },
+  {
+    "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+    "summary": "Article URL: https://www.modelfuzz.com/ Comments URL: https://news.ycombinator.com/item?id=49060845 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.modelfuzz.com/ Comments URL: https://news.ycombinator.com/item?id=49060845 Points: 2 # Comments: 1",
+    "author": "higagan",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.modelfuzz.com/",
+    "id": "news-4292"
+  },
+  {
+    "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+    "summary": "Article URL: https://github.com/hertz-ai/HARTOS Comments URL: https://news.ycombinator.com/item?id=49061015 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/hertz-ai/HARTOS Comments URL: https://news.ycombinator.com/item?id=49061015 Points: 2 # Comments: 0",
+    "author": "hevolveai",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hertz-ai/HARTOS",
+    "id": "news-4291"
+  },
+  {
+    "title": "What Americans Think About the Global AI Race",
+    "summary": "Article URL: https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/ Comments URL: https://news.ycombinator.com/item?id=49061089 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/ Comments URL: https://news.ycombinator.com/item?id=49061089 Points: 1 # Comments: 0",
+    "author": "karakoram",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+    "id": "news-4290"
+  },
+  {
     "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
     "summary": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which s",
     "content": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite. The old swarm choked on merge conflicts of its own making. The article Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work appeared first on The Decoder.",
