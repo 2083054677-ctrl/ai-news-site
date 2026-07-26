@@ -1,5 +1,83 @@
 [
   {
+    "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
+    "summary": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which s",
+    "content": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite. The old swarm choked on merge conflicts of its own making. The article Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+    "id": "news-4289"
+  },
+  {
+    "title": "Show HN: Cookbook AI – turn scattered recipe files into a print-ready cookbook",
+    "summary": "Article URL: https://cookbookai.io/index.html Comments URL: https://news.ycombinator.com/item?id=49059433 Points: 2 # Comments: 1",
+    "content": "Article URL: https://cookbookai.io/index.html Comments URL: https://news.ycombinator.com/item?id=49059433 Points: 2 # Comments: 1",
+    "author": "bookletaitcv1re",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cookbookai.io/index.html",
+    "id": "news-4288"
+  },
+  {
+    "title": "Agent Harness Design for Claude",
+    "summary": "Article URL: https://claude.com/blog/harnessing-claudes-intelligence Comments URL: https://news.ycombinator.com/item?id=49059497 Points: 1 # Comments: 0",
+    "content": "Article URL: https://claude.com/blog/harnessing-claudes-intelligence Comments URL: https://news.ycombinator.com/item?id=49059497 Points: 1 # Comments: 0",
+    "author": "ankitg12",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.com/blog/harnessing-claudes-intelligence",
+    "id": "news-4287"
+  },
+  {
+    "title": "Ask HN:Anyone know a good AI slop detection service.",
+    "summary": "I tried a couple of those services, not impressed at all. Comments URL: https://news.ycombinator.com/item?id=49059537 Points: 2 # Comments: 0",
+    "content": "I tried a couple of those services, not impressed at all. Comments URL: https://news.ycombinator.com/item?id=49059537 Points: 2 # Comments: 0",
+    "author": "boveyking",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49059537",
+    "id": "news-4286"
+  },
+  {
+    "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+    "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 33 # Comments: 7",
+    "content": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 33 # Comments: 7",
+    "author": "andytratt",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+    "id": "news-4285"
+  },
+  {
+    "title": "AI use policy for my essay writing",
+    "summary": "Article URL: https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing Comments URL: https://news.ycombinator.com/item?id=49059689 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing Comments URL: https://news.ycombinator.com/item?id=49059689 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing",
+    "id": "news-4284"
+  },
+  {
     "title": "Data loss in Claude Code and OpenAI Codex: when AI deletes user files",
     "summary": "Article URL: https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion Comments URL: https://news.ycombinator.com/item?id=49058441 Points: 2 # Comme",
     "content": "Article URL: https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion Comments URL: https://news.ycombinator.com/item?id=49058441 Points: 2 # Comments: 0",
