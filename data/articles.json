@@ -1,5 +1,70 @@
 [
   {
+    "title": "I scanned my AI agent framework for destructive/consequential actions, and wow",
+    "summary": "Article URL: https://www.actenon.com/ Comments URL: https://news.ycombinator.com/item?id=49053520 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.actenon.com/ Comments URL: https://news.ycombinator.com/item?id=49053520 Points: 1 # Comments: 0",
+    "author": "Bucko1",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.actenon.com/",
+    "id": "news-4264"
+  },
+  {
+    "title": "Show HN: Axtary – Content Authorization for AI Agents",
+    "summary": "Article URL: https://axtary.com Comments URL: https://news.ycombinator.com/item?id=49053543 Points: 1 # Comments: 0",
+    "content": "Article URL: https://axtary.com Comments URL: https://news.ycombinator.com/item?id=49053543 Points: 1 # Comments: 0",
+    "author": "Axtary",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://axtary.com",
+    "id": "news-4263"
+  },
+  {
+    "title": "AI Can Now Design Drugs in Seconds; We Still Can't Tell You If They Work",
+    "summary": "Article URL: https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./ Comments URL: https://news.ycombinator.com/item?id=49053679 Points: 1 # Comments: ",
+    "content": "Article URL: https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./ Comments URL: https://news.ycombinator.com/item?id=49053679 Points: 1 # Comments: 0",
+    "author": "TEHERET",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./",
+    "id": "news-4262"
+  },
+  {
+    "title": "The hidden cost of AI: Why your town is negotiating with Amazon and Microsoft",
+    "summary": "Article URL: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/ Comments URL: https://news.ycombinator.com/item?id=49053787 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/ Comments URL: https://news.ycombinator.com/item?id=49053787 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/",
+    "id": "news-4261"
+  },
+  {
+    "title": "NYU Stern pricing expert: The hidden 'AI tax' hitting your next phone",
+    "summary": "Article URL: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/ Comments URL: https://news.ycombinator.com/item?id=49053809 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/ Comments URL: https://news.ycombinator.com/item?id=49053809 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-26",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/",
+    "id": "news-4260"
+  },
+  {
     "title": "How are you authorizing AI agents that call MCP servers?",
     "summary": "Article URL: https://www.keydris.com/ Comments URL: https://news.ycombinator.com/item?id=49050972 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.keydris.com/ Comments URL: https://news.ycombinator.com/item?id=49050972 Points: 2 # Comments: 0",
