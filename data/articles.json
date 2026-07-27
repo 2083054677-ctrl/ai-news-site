@@ -1,5 +1,97 @@
 [
   {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "id": "news-4315"
+  },
+  {
+    "title": "Shared Claude chats were reportedly showing up in search engines",
+    "summary": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. ",
+    "content": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. OpenAI made the same mistake last year. The article Shared Claude chats were reportedly showing up in search engines appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
+    "id": "news-4314"
+  },
+  {
+    "title": "Ask HN: Why is every company encorporating AI everywhere?",
+    "summary": "So I have been going through multiple websites and also been seeing AI in all the apps that I use. Do you think it is necessary ? Comments URL: https://news.ycombinator.com/item?id=49067602 Points: 6 ",
+    "content": "So I have been going through multiple websites and also been seeing AI in all the apps that I use. Do you think it is necessary ? Comments URL: https://news.ycombinator.com/item?id=49067602 Points: 6 # Comments: 3",
+    "author": "vanessa1211",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49067602",
+    "id": "news-4313"
+  },
+  {
+    "title": "Build a Basic AI Agent from Scratch: Security III",
+    "summary": "Article URL: https://www.ruxu.dev/articles/ai/build-an-ai-agent-security-3/ Comments URL: https://news.ycombinator.com/item?id=49067651 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.ruxu.dev/articles/ai/build-an-ai-agent-security-3/ Comments URL: https://news.ycombinator.com/item?id=49067651 Points: 2 # Comments: 0",
+    "author": "ruxudev",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-security-3/",
+    "id": "news-4312"
+  },
+  {
+    "title": "OpenAI is shutting down Atlas",
+    "summary": "Article URL: https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/ Comments URL: https://news.ycombinator.com/item?id=49067658 Points: 2 # Com",
+    "content": "Article URL: https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/ Comments URL: https://news.ycombinator.com/item?id=49067658 Points: 2 # Comments: 2",
+    "author": "quadrige",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "id": "news-4311"
+  },
+  {
+    "title": "Donald Trump's AI Brain Trust",
+    "summary": "Article URL: https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/ Comments URL: https://news.ycombinator.com/item?id=49067758 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/ Comments URL: https://news.ycombinator.com/item?id=49067758 Points: 1 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+    "id": "news-4310"
+  },
+  {
+    "title": "Show HN: Release-gate – a CLI that checks AI-agent PRs for risky changes",
+    "summary": "I built this after noticing that AI-agent PRs are hard to review. There are many tools available but it does not show the reason why the code can be problematic in case of agent.A normal diff can show",
+    "content": "I built this after noticing that AI-agent PRs are hard to review. There are many tools available but it does not show the reason why the code can be problematic in case of agent.A normal diff can show code changes, but it may not make it obvious that a prompt changed, a model changed, a tool config changed, or model output now reaches an eval/exec path.release-gate is a Python CLI that compares a PR branch against a base ref and reports only what the PR introduced.Example:pip install release-gat",
+    "author": "VamsiSudhakaran",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49067759",
+    "id": "news-4309"
+  },
+  {
     "title": "Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization",
     "summary": "Article URL: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization Comments URL: https://news.ycombinator.com/item?id=49065410 Points: ",
     "content": "Article URL: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization Comments URL: https://news.ycombinator.com/item?id=49065410 Points: 1 # Comments: 0",
