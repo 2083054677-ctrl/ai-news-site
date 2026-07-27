@@ -1,5 +1,18 @@
 [
   {
+    "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
+    "summary": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular b",
+    "content": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly pointing to distillation. The article Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+    "id": "news-4330"
+  },
+  {
     "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction",
     "summary": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use. ANI undermined its own case by ci",
     "content": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use. ANI undermined its own case by citing articles published after the models were trained. The main trial is still pending. The article Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction appeared first on The Decoder.",
