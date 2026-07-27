@@ -1,5 +1,18 @@
 [
   {
+    "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
+    "summary": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blin",
+    "content": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture. The article METR introduces a new metric to calculate exactly when AI agents become more expensive than humans appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
+    "id": "news-4316"
+  },
+  {
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "content": "",
