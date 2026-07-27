@@ -1,5 +1,70 @@
 [
   {
+    "title": "Turn business SOPs into AI agents with real API endpoints",
+    "summary": "Article URL: https://studio.tramenterprise.com/Account/Login?ReturnUrl=%2F Comments URL: https://news.ycombinator.com/item?id=49072749 Points: 1 # Comments: 0",
+    "content": "Article URL: https://studio.tramenterprise.com/Account/Login?ReturnUrl=%2F Comments URL: https://news.ycombinator.com/item?id=49072749 Points: 1 # Comments: 0",
+    "author": "TR_Studio",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://studio.tramenterprise.com/Account/Login?ReturnUrl=%2F",
+    "id": "news-4321"
+  },
+  {
+    "title": "Rethinking Security for the Age of AI – The Official Microsoft Blog",
+    "summary": "Article URL: https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49072846 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49072846 Points: 1 # Comments: 0",
+    "author": "corvad",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+    "id": "news-4320"
+  },
+  {
+    "title": "AI scraperbots keep hammering us from residential proxies",
+    "summary": "Article URL: https://fosstodon.org/@sourceware/116982983262820236 Comments URL: https://news.ycombinator.com/item?id=49072865 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fosstodon.org/@sourceware/116982983262820236 Comments URL: https://news.ycombinator.com/item?id=49072865 Points: 1 # Comments: 0",
+    "author": "aendruk",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fosstodon.org/@sourceware/116982983262820236",
+    "id": "news-4319"
+  },
+  {
+    "title": "Why AI Will Not Replace the Classroom",
+    "summary": "Article URL: https://www.chestergrant.com/why-ai-will-not-replace-the-classroom Comments URL: https://news.ycombinator.com/item?id=49072947 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.chestergrant.com/why-ai-will-not-replace-the-classroom Comments URL: https://news.ycombinator.com/item?id=49072947 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.chestergrant.com/why-ai-will-not-replace-the-classroom",
+    "id": "news-4318"
+  },
+  {
+    "title": "AI cracks yet another century-old problem",
+    "summary": "Article URL: https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49073000 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49073000 Points: 1 # Comments: 0",
+    "author": "yusufaytas",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
+    "id": "news-4317"
+  },
+  {
     "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
     "summary": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blin",
     "content": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture. The article METR introduces a new metric to calculate exactly when AI agents become more expensive than humans appeared first on The Decoder.",
