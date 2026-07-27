@@ -1,5 +1,57 @@
 [
   {
+    "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208 Comments URL: https://news.ycombinator.com/item?id=49076195 Points: 2",
+    "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208 Comments URL: https://news.ycombinator.com/item?id=49076195 Points: 2 # Comments: 1",
+    "author": "joebuckwilliams",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
+    "id": "news-4334"
+  },
+  {
+    "title": "Show HN: Aidress – Coordination layer for autonomous AI agents",
+    "summary": "Article URL: https://github.com/Aidress-ai/Aidress Comments URL: https://news.ycombinator.com/item?id=49076360 Points: 3 # Comments: 0",
+    "content": "Article URL: https://github.com/Aidress-ai/Aidress Comments URL: https://news.ycombinator.com/item?id=49076360 Points: 3 # Comments: 0",
+    "author": "mehulv24",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Aidress-ai/Aidress",
+    "id": "news-4333"
+  },
+  {
+    "title": "Show HN: FileForge Finder: Local file search with AI-optimized export",
+    "summary": "Hope this sparks some conversation. Interested to get the community's take on an app we use internally to find files and provide targeted file content to chatbots.Biggest gains in search are for windo",
+    "content": "Hope this sparks some conversation. Interested to get the community's take on an app we use internally to find files and provide targeted file content to chatbots.Biggest gains in search are for windows users but I am interested to get feedback from the spotlight users.With the AI export we originally used and MCP connector but when back to drag and drop export of file content due to security and universal applicability.No worries about your file security. Everything runs on-device and works off",
+    "author": "FileForge",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49076401",
+    "id": "news-4332"
+  },
+  {
+    "title": "AI labs don't know how to make you trust them",
+    "summary": "Article URL: https://www.semiodept.com/p/ai-labs-dont-know-how-to-make-you Comments URL: https://news.ycombinator.com/item?id=49076433 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.semiodept.com/p/ai-labs-dont-know-how-to-make-you Comments URL: https://news.ycombinator.com/item?id=49076433 Points: 1 # Comments: 0",
+    "author": "pressentiment",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.semiodept.com/p/ai-labs-dont-know-how-to-make-you",
+    "id": "news-4331"
+  },
+  {
     "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
     "summary": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular b",
     "content": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly pointing to distillation. The article Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race appeared first on The Decoder.",
