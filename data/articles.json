@@ -1,5 +1,84 @@
 [
   {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "summary": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "id": "news-4367"
+  },
+  {
+    "title": "Show HN: Nutaan – AI-powered voice calling assistant and live chat widget",
+    "summary": "Article URL: https://nutaan.com/ Comments URL: https://news.ycombinator.com/item?id=49085591 Points: 1 # Comments: 1",
+    "content": "Article URL: https://nutaan.com/ Comments URL: https://news.ycombinator.com/item?id=49085591 Points: 1 # Comments: 1",
+    "author": "nutaan",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nutaan.com/",
+    "id": "news-4366"
+  },
+  {
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "summary": "Article URL: https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/ Comments URL: https://news.ycombinator.com/item?id=49085594 Points: 1 # Comments: 0",
+    "content": "Article URL: https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/ Comments URL: https://news.ycombinator.com/item?id=49085594 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/",
+    "id": "news-4365"
+  },
+  {
+    "title": "Spies in the sky: how worried should we be about AI-enabled smart lamp-posts?",
+    "summary": "Article URL: https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance Comments URL: https://news.ycombinator.com/item?id=49085603 Points: 2 # Comment",
+    "content": "Article URL: https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance Comments URL: https://news.ycombinator.com/item?id=49085603 Points: 2 # Comments: 0",
+    "author": "Symbiote",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance",
+    "id": "news-4364"
+  },
+  {
+    "title": "Anatomy of an AI Kill Chain – Airwars X AI Now Institute",
+    "summary": "Article URL: https://ai-killchain.airwars.org Comments URL: https://news.ycombinator.com/item?id=49085612 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ai-killchain.airwars.org Comments URL: https://news.ycombinator.com/item?id=49085612 Points: 2 # Comments: 0",
+    "author": "janpeuker",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-killchain.airwars.org",
+    "id": "news-4363"
+  },
+  {
+    "title": "'It sounds like someone set up a vacuum ': Michigan residents sue AI DC",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-f",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents Comments URL: https://news.ycombinator.com/item?id=49085781 Points: 2 # Comments: 0",
+    "author": "LaSombra",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
+    "id": "news-4362"
+  },
+  {
     "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
     "summary": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US a",
     "content": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks. Critics say he's mostly trying to protect his own business from cheaper competition. The article Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban appeared first on The Decoder.",
