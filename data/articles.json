@@ -1,5 +1,70 @@
 [
   {
+    "title": "Distilling Frontier AI Models",
+    "summary": "Article URL: https://www.marginpoints.com/issues/2026-07-28-distilling-frontier-ai-models Comments URL: https://news.ycombinator.com/item?id=49088386 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.marginpoints.com/issues/2026-07-28-distilling-frontier-ai-models Comments URL: https://news.ycombinator.com/item?id=49088386 Points: 1 # Comments: 1",
+    "author": "historian1066",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.marginpoints.com/issues/2026-07-28-distilling-frontier-ai-models",
+    "id": "news-4379"
+  },
+  {
+    "title": "Show HN: Local AI Clipboard Actions",
+    "summary": "Article URL: https://apfel-clip.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=49088430 Points: 1 # Comments: 0",
+    "content": "Article URL: https://apfel-clip.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=49088430 Points: 1 # Comments: 0",
+    "author": "franze",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apfel-clip.franzai.com/",
+    "id": "news-4378"
+  },
+  {
+    "title": "Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac",
+    "summary": "Hey Hacker News!I built Writekin over the past week because I was tired of AI writing that didn't sound like me, even though I had just used AI to clean it up, rather than wholesale write it.The usual",
+    "content": "Hey Hacker News!I built Writekin over the past week because I was tired of AI writing that didn't sound like me, even though I had just used AI to clean it up, rather than wholesale write it.The usual fixes I found online for this were:- Some sort of SKILL.md, or- A system prompt full of rules to strip the generic AI tells (e.g. no em-dashes, none of the stock phrases, varying the sentence length, etc).While those cleaned up the surface a bit, Pangram still came back as ~100% AI written, which w",
+    "author": "eggbrain",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/scouttyg/writekin",
+    "id": "news-4377"
+  },
+  {
+    "title": "Show HN: FedTerm – a Claude-native terminal for macOS that popup like Spotlight",
+    "summary": "hi hn, i made a terminal for mac. you press a hotkey and it pops up over whatever window you're in, kinda like spotlight. press it again and it's gone.it saves and indexes all your claude code session",
+    "content": "hi hn, i made a terminal for mac. you press a hotkey and it pops up over whatever window you're in, kinda like spotlight. press it again and it's gone.it saves and indexes all your claude code sessions, so you can search through them and pick up any one right where you left it. the same window also searches your shell history and your saved ssh hosts.swift + swiftterm, mit licensed, no accounts, nothing to sell. happy to hear what you think.github.com/feddot2517/fedterm Comments URL: https://new",
+    "author": "treenix_io",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/feod1/fedterm",
+    "id": "news-4376"
+  },
+  {
+    "title": "Big Tech's Debt Binge Raises Risk in Race to Create an AI World",
+    "summary": "Article URL: https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world Comments URL: https://news.ycombinator.com/item?id=49088458 Points: 2 ",
+    "content": "Article URL: https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world Comments URL: https://news.ycombinator.com/item?id=49088458 Points: 2 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world",
+    "id": "news-4375"
+  },
+  {
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "summary": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "content": "",
