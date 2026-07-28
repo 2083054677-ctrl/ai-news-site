@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Mustuse.ai – Open-source automated ranking system run by agents",
+    "summary": "Hi HN,MustUse.ai is an open-source framework for building ranking sites that Codex agents can fully research and maintain automatically.Friends often ask me which AI tools they should use for differen",
+    "content": "Hi HN,MustUse.ai is an open-source framework for building ranking sites that Codex agents can fully research and maintain automatically.Friends often ask me which AI tools they should use for different tasks. I wanted a ranking I could trust and point them to, but many of the lists I found were full of ads, affiliate incentives, or sponsored placements.I didn’t want to maintain yet another directory by hand, either. So I started wondering whether Codex could research the market, produce the rank",
+    "author": "daimajia",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mustuse.ai",
+    "id": "news-4386"
+  },
+  {
+    "title": "AI company employees petition US Government for regulation",
+    "summary": "Article URL: https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/ Comments URL: https://news.ycombinator.com/item?id=49090795 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/ Comments URL: https://news.ycombinator.com/item?id=49090795 Points: 3 # Comments: 0",
+    "author": "Larrikin",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
+    "id": "news-4385"
+  },
+  {
+    "title": "OpenAI Rogue Agent Hacked Account at Modal, Reuters Says",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says Comments URL: https://news.ycombinator.com/item?id=49090943 Points: 1 # ",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says Comments URL: https://news.ycombinator.com/item?id=49090943 Points: 1 # Comments: 1",
+    "author": "htrp",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
+    "id": "news-4384"
+  },
+  {
+    "title": "Banning AI will not make it go away",
+    "summary": "Article URL: https://vishal.rs/essay/banning-ai-will-not-make-it-go-away Comments URL: https://news.ycombinator.com/item?id=49090999 Points: 1 # Comments: 0",
+    "content": "Article URL: https://vishal.rs/essay/banning-ai-will-not-make-it-go-away Comments URL: https://news.ycombinator.com/item?id=49090999 Points: 1 # Comments: 0",
+    "author": "vishalontheline",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vishal.rs/essay/banning-ai-will-not-make-it-go-away",
+    "id": "news-4383"
+  },
+  {
+    "title": "Unacceptably terrible support from Claude Services",
+    "summary": "Here's some issues I'm having right now:1.) Somehow my account got into a state where it no longer thinks I have an account. Every time I try to login it just pushes me to on-boarding. On my mobile ph",
+    "content": "Here's some issues I'm having right now:1.) Somehow my account got into a state where it no longer thinks I have an account. Every time I try to login it just pushes me to on-boarding. On my mobile phone it works just fine and has my pro plan. But my browsers, in private mode in multiple different browsers, it just forces me to on-board. I'm using the exact same google account in both scenarios.2.) I downloaded the Claude desktop app. Tried to sign in with my google email and it is asking me to ",
+    "author": "Madmallard",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49091015",
+    "id": "news-4382"
+  },
+  {
     "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
     "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two",
     "content": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000. The findings don't affect systems in use today, but they show how AI could challenge core assumptions behind internet security, Anthropic says. The article Anthropic says its Mythos model found vulnerabilities in cryptogra",
