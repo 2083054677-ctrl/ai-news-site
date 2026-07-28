@@ -1,5 +1,97 @@
 [
   {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "summary": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "id": "news-4374"
+  },
+  {
+    "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
+    "summary": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas. The models stay online for existing customers in \"keep the lights on\" mode but are no longer",
+    "content": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas. The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed. Instead, Amazon is betting on a new Frontier Model Research group and a new foundation model set to debut at re:Invent this fall. The article Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
+    "id": "news-4373"
+  },
+  {
+    "title": "A personalized scam [AI-enabled] is coming for you",
+    "summary": "Article URL: https://www.washingtonpost.com/opinions/2026/07/28/ai-is-gaining-ability-personalize-cyberattacks-enabling-phishing-scale/ Comments URL: https://news.ycombinator.com/item?id=49086939 Poin",
+    "content": "Article URL: https://www.washingtonpost.com/opinions/2026/07/28/ai-is-gaining-ability-personalize-cyberattacks-enabling-phishing-scale/ Comments URL: https://news.ycombinator.com/item?id=49086939 Points: 2 # Comments: 1",
+    "author": "Calvin02",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.washingtonpost.com/opinions/2026/07/28/ai-is-gaining-ability-personalize-cyberattacks-enabling-phishing-scale/",
+    "id": "news-4372"
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "summary": "Article URL: https://openai.com/index/scientific-computing-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49086987 Points: 10 # Comments: 1",
+    "content": "Article URL: https://openai.com/index/scientific-computing-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49086987 Points: 10 # Comments: 1",
+    "author": "mfiguiere",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/scientific-computing-agentic-ai/",
+    "id": "news-4371"
+  },
+  {
+    "title": "Designing With AI on a budget as an engineer: Google+ChatGPT",
+    "summary": "Article URL: https://www.kcoleman.me/2026/06/11/designing-with-ai-indie.html Comments URL: https://news.ycombinator.com/item?id=49087038 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.kcoleman.me/2026/06/11/designing-with-ai-indie.html Comments URL: https://news.ycombinator.com/item?id=49087038 Points: 2 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kcoleman.me/2026/06/11/designing-with-ai-indie.html",
+    "id": "news-4370"
+  },
+  {
+    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "summary": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Comments URL: https://news.ycombinator.com/item?id=49087091 Points: 15 # Comments: 1",
+    "content": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Comments URL: https://news.ycombinator.com/item?id=49087091 Points: 15 # Comments: 1",
+    "author": "gslin",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "id": "news-4369"
+  },
+  {
+    "title": "AI value alignment for evolving social norms",
+    "summary": "Article URL: https://arxiv.org/abs/2607.18506 Comments URL: https://news.ycombinator.com/item?id=49087205 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2607.18506 Comments URL: https://news.ycombinator.com/item?id=49087205 Points: 1 # Comments: 0",
+    "author": "anigbrowl",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2607.18506",
+    "id": "news-4368"
+  },
+  {
     "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
     "summary": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
     "content": "",
