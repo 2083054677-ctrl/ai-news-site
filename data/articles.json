@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Fable 5: What It Is and Why the Hype?",
+    "summary": "Article URL: https://lazerg.uz/en/blog/claude-fable-5-nima Comments URL: https://news.ycombinator.com/item?id=49079163 Points: 3 # Comments: 0",
+    "content": "Article URL: https://lazerg.uz/en/blog/claude-fable-5-nima Comments URL: https://news.ycombinator.com/item?id=49079163 Points: 3 # Comments: 0",
+    "author": "lazerg",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lazerg.uz/en/blog/claude-fable-5-nima",
+    "id": "news-4343"
+  },
+  {
+    "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector Comments URL: https://news.ycombinator.com/item?id=49079434 Points: 1 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector Comments URL: https://news.ycombinator.com/item?id=49079434 Points: 1 # Comments: 0",
+    "author": "justworks",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
+    "id": "news-4342"
+  },
+  {
+    "title": "AI crawlers don't render JavaScript – I audited my own 11 production sites",
+    "summary": "Article URL: https://www.smithappstudio.com/blog/ai-crawlers-cant-see-your-spa-2026/ Comments URL: https://news.ycombinator.com/item?id=49079477 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.smithappstudio.com/blog/ai-crawlers-cant-see-your-spa-2026/ Comments URL: https://news.ycombinator.com/item?id=49079477 Points: 1 # Comments: 0",
+    "author": "docmaasi",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.smithappstudio.com/blog/ai-crawlers-cant-see-your-spa-2026/",
+    "id": "news-4341"
+  },
+  {
+    "title": "QuickOn – Explainable AI for qualifying inbound B2B SaaS leads",
+    "summary": "Article URL: https://www.quickon.in Comments URL: https://news.ycombinator.com/item?id=49079512 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.quickon.in Comments URL: https://news.ycombinator.com/item?id=49079512 Points: 1 # Comments: 1",
+    "author": "agevenkat",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.quickon.in",
+    "id": "news-4340"
+  },
+  {
+    "title": "Show HN: Orchard – Let AI agents set up your app's back end with one prompt",
+    "summary": "Article URL: https://orchard-dashboard.pages.dev/landing Comments URL: https://news.ycombinator.com/item?id=49079523 Points: 1 # Comments: 0",
+    "content": "Article URL: https://orchard-dashboard.pages.dev/landing Comments URL: https://news.ycombinator.com/item?id=49079523 Points: 1 # Comments: 0",
+    "author": "asd000hh",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://orchard-dashboard.pages.dev/landing",
+    "id": "news-4339"
+  },
+  {
     "title": "Show HN: Building a new game everyday with AI. Day #106 Zombie Survival Training",
     "summary": "I'm using AI (mostly Claude) to create/publish a new video game every dayThis is day 106, and my first stab at the zombie/survival genre. Most of the games I build with just a few prompts, but this on",
     "content": "I'm using AI (mostly Claude) to create/publish a new video game every dayThis is day 106, and my first stab at the zombie/survival genre. Most of the games I build with just a few prompts, but this one I used almost an entire 5-hour window on the $20/month pro subscription (in about an hour) with Opus 5 to get right with all the weapons and such. Then I go outside and touch grass for the next four hours.Happy to answer any questions, just a little hobby project of mine I'm having lots of fun wit",
