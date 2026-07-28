@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: DynoTable – The DynamoDB GUI with real SQL and your AI agent",
+    "summary": "I've been using DynamoDB every day for work and I needed a fast, keyboard first, modern desktop client that will allow me to query, aggregate, edit items in few clicks and that integrates well with Cl",
+    "content": "I've been using DynamoDB every day for work and I needed a fast, keyboard first, modern desktop client that will allow me to query, aggregate, edit items in few clicks and that integrates well with Claude Code or Codex. I didn't like any existing solutions. I have been using Dynobase for some time but its quite outdated by now and there are no new versions since 2023.DynoTable is a fast, keyboard first DynamoDB GUI desktop client for Mac, Windows and Linux.Some of the features:- SQL Workbench: y",
+    "author": "dynotable",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dynotable.com/",
+    "id": "news-4353"
+  },
+  {
+    "title": "Did AI Hack HuggingFace?",
+    "summary": "Article URL: https://www.youtube.com/watch?v=q2KCrmQz9WE Comments URL: https://news.ycombinator.com/item?id=49082150 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=q2KCrmQz9WE Comments URL: https://news.ycombinator.com/item?id=49082150 Points: 1 # Comments: 1",
+    "author": "rustyhancock",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+    "id": "news-4352"
+  },
+  {
+    "title": "Amazon overhauls its AI strategy, winding down most flagship models",
+    "summary": "Article URL: https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7 Comments URL: https://news.ycombinator.com/item?id=49082344 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7 Comments URL: https://news.ycombinator.com/item?id=49082344 Points: 3 # Comments: 0",
+    "author": "thm",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7",
+    "id": "news-4351"
+  },
+  {
+    "title": "Collabora Online 26.04: Your Documents, Your AI, Your Decade of Data Sovereignty",
+    "summary": "Article URL: https://www.collaboraonline.com/blog/cool-26-04-release/ Comments URL: https://news.ycombinator.com/item?id=49082356 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.collaboraonline.com/blog/cool-26-04-release/ Comments URL: https://news.ycombinator.com/item?id=49082356 Points: 1 # Comments: 0",
+    "author": "maxloh",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.collaboraonline.com/blog/cool-26-04-release/",
+    "id": "news-4350"
+  },
+  {
+    "title": "Show HN: The mentor setup I've run for months, now as a Claude Code plugin",
+    "summary": "Article URL: https://github.com/hcsum/dont-let-me Comments URL: https://news.ycombinator.com/item?id=49082382 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/hcsum/dont-let-me Comments URL: https://news.ycombinator.com/item?id=49082382 Points: 1 # Comments: 0",
+    "author": "sumtsui",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hcsum/dont-let-me",
+    "id": "news-4349"
+  },
+  {
     "title": "Microsoft unveils AI security tools it says outperform competing platforms",
     "summary": "Article URL: https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/ Comments URL: https://news.ycombinator.com/item?id=49080345 Points: 4 ",
     "content": "Article URL: https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/ Comments URL: https://news.ycombinator.com/item?id=49080345 Points: 4 # Comments: 1",
