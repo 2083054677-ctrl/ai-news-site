@@ -1,5 +1,109 @@
 [
   {
+    "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
+    "summary": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US a",
+    "content": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks. Critics say he's mostly trying to protect his own business from cheaper competition. The article Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
+    "id": "news-4361"
+  },
+  {
+    "title": "Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips",
+    "summary": "Nvidia is pouring what it calls a \"substantial\" sum into Safe Superintelligence (SSI), the AI lab run by Ilya Sutskever, OpenAI's former chief scientist. The article Nvidia invests in Ilya Sutskever's",
+    "content": "Nvidia is pouring what it calls a \"substantial\" sum into Safe Superintelligence (SSI), the AI lab run by Ilya Sutskever, OpenAI's former chief scientist. The article Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/",
+    "id": "news-4360"
+  },
+  {
+    "title": "Taiwan detains Nvidia employee in widening China chip smuggling probe",
+    "summary": "Taiwan's prosecutors have detained an Nvidia employee in connection with the alleged illegal export of Super Micro AI servers to China, according to Bloomberg and Reuters. The article Taiwan detains N",
+    "content": "Taiwan's prosecutors have detained an Nvidia employee in connection with the alleged illegal export of Super Micro AI servers to China, according to Bloomberg and Reuters. The article Taiwan detains Nvidia employee in widening China chip smuggling probe appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/",
+    "id": "news-4359"
+  },
+  {
+    "title": "My local LLM scored 6/6. It was wrong every time",
+    "summary": "Article URL: https://markbhall.dev/writing/my-local-llm-scored-6-of-6/ Comments URL: https://news.ycombinator.com/item?id=49083385 Points: 2 # Comments: 0",
+    "content": "Article URL: https://markbhall.dev/writing/my-local-llm-scored-6-of-6/ Comments URL: https://news.ycombinator.com/item?id=49083385 Points: 2 # Comments: 0",
+    "author": "raydeStar",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+    "id": "news-4358"
+  },
+  {
+    "title": "How AI is powering business email compromise at scale",
+    "summary": "Article URL: https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/ Comments URL: https://news.ycombinator.com/item?id=49083443 Points: 1 # Comments",
+    "content": "Article URL: https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/ Comments URL: https://news.ycombinator.com/item?id=49083443 Points: 1 # Comments: 0",
+    "author": "646754375",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/",
+    "id": "news-4357"
+  },
+  {
+    "title": "Toward a test of medical AI superintelligence",
+    "summary": "Article URL: https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3 Comments URL: https://news.ycombinator.com/item?id=49083693 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3 Comments URL: https://news.ycombinator.com/item?id=49083693 Points: 1 # Comments: 0",
+    "author": "brandonb",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3",
+    "id": "news-4356"
+  },
+  {
+    "title": "AI Engineers' Favourite AI Engineer",
+    "summary": "Article URL: https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/ Comments URL: https://news.ycombinator.com/item?id=49083702 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/ Comments URL: https://news.ycombinator.com/item?id=49083702 Points: 2 # Comments: 0",
+    "author": "benebagus",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/",
+    "id": "news-4355"
+  },
+  {
+    "title": "Claude Disagrees with Human Philosophers",
+    "summary": "Article URL: https://marcusplutowski.com/blog/philsurvey-1-why-claude-disagrees-with-human-philosophers/ Comments URL: https://news.ycombinator.com/item?id=49083783 Points: 1 # Comments: 0",
+    "content": "Article URL: https://marcusplutowski.com/blog/philsurvey-1-why-claude-disagrees-with-human-philosophers/ Comments URL: https://news.ycombinator.com/item?id=49083783 Points: 1 # Comments: 0",
+    "author": "achierius",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://marcusplutowski.com/blog/philsurvey-1-why-claude-disagrees-with-human-philosophers/",
+    "id": "news-4354"
+  },
+  {
     "title": "Show HN: DynoTable – The DynamoDB GUI with real SQL and your AI agent",
     "summary": "I've been using DynamoDB every day for work and I needed a fast, keyboard first, modern desktop client that will allow me to query, aggregate, edit items in few clicks and that integrates well with Cl",
     "content": "I've been using DynamoDB every day for work and I needed a fast, keyboard first, modern desktop client that will allow me to query, aggregate, edit items in few clicks and that integrates well with Claude Code or Codex. I didn't like any existing solutions. I have been using Dynobase for some time but its quite outdated by now and there are no new versions since 2023.DynoTable is a fast, keyboard first DynamoDB GUI desktop client for Mac, Windows and Linux.Some of the features:- SQL Workbench: y",
