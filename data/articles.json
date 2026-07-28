@@ -1,5 +1,18 @@
 [
   {
+    "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+    "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two",
+    "content": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000. The findings don't affect systems in use today, but they show how AI could challenge core assumptions behind internet security, Anthropic says. The article Anthropic says its Mythos model found vulnerabilities in cryptogra",
+    "author": "Matthias Bastian",
+    "date": "2026-07-28",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+    "id": "news-4380"
+  },
+  {
     "title": "Distilling Frontier AI Models",
     "summary": "Article URL: https://www.marginpoints.com/issues/2026-07-28-distilling-frontier-ai-models Comments URL: https://news.ycombinator.com/item?id=49088386 Points: 1 # Comments: 1",
     "content": "Article URL: https://www.marginpoints.com/issues/2026-07-28-distilling-frontier-ai-models Comments URL: https://news.ycombinator.com/item?id=49088386 Points: 1 # Comments: 1",
@@ -585,6 +598,20 @@
     ],
     "source": "https://underscoredone.com/",
     "id": "news-4335"
+  },
+  {
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-27",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "id": "news-4381"
   },
   {
     "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
