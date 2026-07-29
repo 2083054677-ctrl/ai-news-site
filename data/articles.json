@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: Phixo – AI Phishing Protection for Gmail and Outlook",
+    "summary": "Hi, I am a Solo developer and I have created a Chrome extension to help prevent email phishing in Gmail and Outlook. This extension tells you why an email has phishing signs and also blocks the phishi",
+    "content": "Hi, I am a Solo developer and I have created a Chrome extension to help prevent email phishing in Gmail and Outlook. This extension tells you why an email has phishing signs and also blocks the phishing URL if it finds something suspicious.I am posting here to get feedback so I can improve my extension further. Although it's still in the early stages, I am improving it with time.If you guys could check it and give me any feedback, that would be very helpful for me. Anything good or bad is welcom",
+    "author": "tech_builds",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://phixo.app/",
+    "id": "news-4399"
+  },
+  {
+    "title": "Show HN: Sitrep - AI Copilot For Incidents",
+    "summary": "Hi HN! I made Sitrep, which is an AI incident copilot that sites alongside you during incidents and watches your screen. You can chat with it, and ask questions (\"what was that trace I saw?\") and it u",
+    "content": "Hi HN! I made Sitrep, which is an AI incident copilot that sites alongside you during incidents and watches your screen. You can chat with it, and ask questions (\"what was that trace I saw?\") and it uses vision to answer your questions, providing evidence. It can also integrate with existing observability tools too, I've added Grafana as an example. This means the agent can not only reference context from vision, but also verify context by using actual logs/traces. To avoid duplicate frames, it ",
+    "author": "davidajackson",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dj9889/sitrep",
+    "id": "news-4398"
+  },
+  {
+    "title": "Show HN: Tokimeter – open-source usage meter for Claude, Codex, Cursor and more",
+    "summary": "Article URL: https://github.com/toshipepe/tokimeter Comments URL: https://news.ycombinator.com/item?id=49098981 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/toshipepe/tokimeter Comments URL: https://news.ycombinator.com/item?id=49098981 Points: 1 # Comments: 0",
+    "author": "toshipepe",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/toshipepe/tokimeter",
+    "id": "news-4397"
+  },
+  {
+    "title": "Show HN: AI LeetCode side panel that gives Socratic hints, not solutions",
+    "summary": "Article URL: https://leetcopilot.dev Comments URL: https://news.ycombinator.com/item?id=49098998 Points: 1 # Comments: 0",
+    "content": "Article URL: https://leetcopilot.dev Comments URL: https://news.ycombinator.com/item?id=49098998 Points: 1 # Comments: 0",
+    "author": "alexwang24",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://leetcopilot.dev",
+    "id": "news-4396"
+  },
+  {
     "title": "Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control",
     "summary": "In a joint statement, employees from the leading AI labs are calling on the US government to pursue international coordination. Their argument is simple: no single company or country can slow things d",
     "content": "In a joint statement, employees from the leading AI labs are calling on the US government to pursue international coordination. Their argument is simple: no single company or country can slow things down alone. The article Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control appeared first on The Decoder.",
