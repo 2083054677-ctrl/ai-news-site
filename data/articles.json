@@ -1,5 +1,44 @@
 [
   {
+    "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents",
+    "summary": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. ",
+    "content": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. API prices go up two- to tenfold. The article Pangram says its new AI text detector makes only one mistake per 24,000 documents appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/",
+    "id": "news-4403"
+  },
+  {
+    "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
+    "summary": "Following KPMG, Deloitte, and Ernst & Young, GPTZero has now found fabricated sources and false claims in four PwC Middle East reports. One governance report scored 84 percent AI-generated and promote",
+    "content": "Following KPMG, Deloitte, and Ernst & Young, GPTZero has now found fabricated sources and false claims in four PwC Middle East reports. One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references. All Big Four firms are now affected by AI hallucinations. The article PwC has allegedly published AI-generated reports containing false or fabricated sources appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
+    "id": "news-4402"
+  },
+  {
+    "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
+    "summary": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long. A new feature called \"Selective Sectio",
+    "content": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long. A new feature called \"Selective Section Painting\" lets users edit specific sections of a track. Google still hasn't shared any details about the training data. The article Google's Lyria 3.5 music model now lets users edit individual track sections without starting over appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
+    "id": "news-4401"
+  },
+  {
     "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
     "summary": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two a",
     "content": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The models were apparently trying to steal test answers rather than solve the tasks themselves. The article OpenAI admits its autonomous AI models also compromised credentials on other platforms during security ev",
