@@ -1,5 +1,18 @@
 [
   {
+    "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+    "summary": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two a",
+    "content": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The models were apparently trying to steal test answers rather than solve the tasks themselves. The article OpenAI admits its autonomous AI models also compromised credentials on other platforms during security ev",
+    "author": "Matthias Bastian",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
+    "id": "news-4400"
+  },
+  {
     "title": "Show HN: Phixo – AI Phishing Protection for Gmail and Outlook",
     "summary": "Hi, I am a Solo developer and I have created a Chrome extension to help prevent email phishing in Gmail and Outlook. This extension tells you why an email has phishing signs and also blocks the phishi",
     "content": "Hi, I am a Solo developer and I have created a Chrome extension to help prevent email phishing in Gmail and Outlook. This extension tells you why an email has phishing signs and also blocks the phishing URL if it finds something suspicious.I am posting here to get feedback so I can improve my extension further. Although it's still in the early stages, I am improving it with time.If you guys could check it and give me any feedback, that would be very helpful for me. Anything good or bad is welcom",
