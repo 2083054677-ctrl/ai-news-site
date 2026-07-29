@@ -1,5 +1,18 @@
 [
   {
+    "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line",
+    "summary": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already",
+    "content": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI. It competes directly with Anthropic's Claude Security, as both AI companies race to match the growing automation of cyberattacks with AI-powered defense. The article OpenAI open-sources Codex Security CLI to help developers fi",
+    "author": "Matthias Bastian",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
+    "id": "news-4387"
+  },
+  {
     "title": "Show HN: Mustuse.ai – Open-source automated ranking system run by agents",
     "summary": "Hi HN,MustUse.ai is an open-source framework for building ranking sites that Codex agents can fully research and maintain automatically.Friends often ask me which AI tools they should use for differen",
     "content": "Hi HN,MustUse.ai is an open-source framework for building ranking sites that Codex agents can fully research and maintain automatically.Friends often ask me which AI tools they should use for different tasks. I wanted a ranking I could trust and point them to, but many of the lists I found were full of ads, affiliate incentives, or sponsored placements.I didn’t want to maintain yet another directory by hand, either. So I started wondering whether Codex could research the market, produce the rank",
