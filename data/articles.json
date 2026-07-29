@@ -1,5 +1,109 @@
 [
   {
+    "title": "Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control",
+    "summary": "In a joint statement, employees from the leading AI labs are calling on the US government to pursue international coordination. Their argument is simple: no single company or country can slow things d",
+    "content": "In a joint statement, employees from the leading AI labs are calling on the US government to pursue international coordination. Their argument is simple: no single company or country can slow things down alone. The article Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/",
+    "id": "news-4395"
+  },
+  {
+    "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates",
+    "summary": "OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLa",
+    "content": "OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
+    "id": "news-4394"
+  },
+  {
+    "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
+    "summary": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strate",
+    "content": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strategy that put the lab on the map. The article Deepmind dismantles its AlphaFold team as key authors leave for Anthropic appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
+    "id": "news-4393"
+  },
+  {
+    "title": "Cavdo AI – Fast, minimal AI assistant with modern UI cleek and for professional",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49097332 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=49097332 Points: 1 # Comments: 0",
+    "author": "Cavdo-Ai",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49097332",
+    "id": "news-4392"
+  },
+  {
+    "title": "Show HN: Multi-agent LLM editor with local inference via WebSockets",
+    "summary": "Article URL: https://x-agent.sascha10k.biz Comments URL: https://news.ycombinator.com/item?id=49097394 Points: 1 # Comments: 0",
+    "content": "Article URL: https://x-agent.sascha10k.biz Comments URL: https://news.ycombinator.com/item?id=49097394 Points: 1 # Comments: 0",
+    "author": "sascha10000",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://x-agent.sascha10k.biz",
+    "id": "news-4391"
+  },
+  {
+    "title": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack",
+    "summary": "Article URL: https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572 Comments URL: https://news.ycombinator.com/item?id=49097418 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572 Comments URL: https://news.ycombinator.com/item?id=49097418 Points: 2 # Comments: 0",
+    "author": "cc62cf4a4f20",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572",
+    "id": "news-4390"
+  },
+  {
+    "title": "AI-enabled jobs in the Philippines: an in-depth report",
+    "summary": "Article URL: https://www.ccm.pm/posts/ph-ai-jobs-demand-2026-07 Comments URL: https://news.ycombinator.com/item?id=49097432 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ccm.pm/posts/ph-ai-jobs-demand-2026-07 Comments URL: https://news.ycombinator.com/item?id=49097432 Points: 1 # Comments: 0",
+    "author": "char8",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ccm.pm/posts/ph-ai-jobs-demand-2026-07",
+    "id": "news-4389"
+  },
+  {
+    "title": "Seventy-five years of game AI, and every system plays a handful of games",
+    "summary": "Article URL: https://kallin.github.io/blog/game-ai-one-machine-any-game/ Comments URL: https://news.ycombinator.com/item?id=49097486 Points: 1 # Comments: 0",
+    "content": "Article URL: https://kallin.github.io/blog/game-ai-one-machine-any-game/ Comments URL: https://news.ycombinator.com/item?id=49097486 Points: 1 # Comments: 0",
+    "author": "kal9000",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kallin.github.io/blog/game-ai-one-machine-any-game/",
+    "id": "news-4388"
+  },
+  {
     "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line",
     "summary": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already",
     "content": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI. It competes directly with Anthropic's Claude Security, as both AI companies race to match the growing automation of cyberattacks with AI-powered defense. The article OpenAI open-sources Codex Security CLI to help developers fi",
