@@ -1,5 +1,70 @@
 [
   {
+    "title": "China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute Comments URL: https://news.ycombinator.com/item?id=49102326 Points: 2 # Comments: 0",
+    "author": "rndsignals",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
+    "id": "news-4408"
+  },
+  {
+    "title": "Runlayer sues Rippling, alleging source-code access preceded rival AI gateway",
+    "summary": "Article URL: https://runtimewire.com/article/runlayer-sues-rippling-alleging-source-code-access-preceded-rival-ai-gateway Comments URL: https://news.ycombinator.com/item?id=49102354 Points: 2 # Commen",
+    "content": "Article URL: https://runtimewire.com/article/runlayer-sues-rippling-alleging-source-code-access-preceded-rival-ai-gateway Comments URL: https://news.ycombinator.com/item?id=49102354 Points: 2 # Comments: 0",
+    "author": "ryanmerket",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://runtimewire.com/article/runlayer-sues-rippling-alleging-source-code-access-preceded-rival-ai-gateway",
+    "id": "news-4407"
+  },
+  {
+    "title": "Anyone else think Claude Code and Codex are too slow? We hate it",
+    "summary": "Article URL: https://bullet.davidhf.com Comments URL: https://news.ycombinator.com/item?id=49102406 Points: 3 # Comments: 0",
+    "content": "Article URL: https://bullet.davidhf.com Comments URL: https://news.ycombinator.com/item?id=49102406 Points: 3 # Comments: 0",
+    "author": "alsima",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bullet.davidhf.com",
+    "id": "news-4406"
+  },
+  {
+    "title": "Show HN: MindFlock – Parallel AI coding agents, each in its own Git worktree",
+    "summary": "Article URL: https://github.com/MindFlock/MindFlock Comments URL: https://news.ycombinator.com/item?id=49102636 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/MindFlock/MindFlock Comments URL: https://news.ycombinator.com/item?id=49102636 Points: 3 # Comments: 1",
+    "author": "emandel2630",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MindFlock/MindFlock",
+    "id": "news-4405"
+  },
+  {
+    "title": "Claude users' shared conversations were showing up in Google searches",
+    "summary": "Article URL: https://www.fastcompany.com/91580420/claude-users-shared-conversations-were-showing-up-in-google-searches Comments URL: https://news.ycombinator.com/item?id=49102675 Points: 1 # Comments:",
+    "content": "Article URL: https://www.fastcompany.com/91580420/claude-users-shared-conversations-were-showing-up-in-google-searches Comments URL: https://news.ycombinator.com/item?id=49102675 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-29",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fastcompany.com/91580420/claude-users-shared-conversations-were-showing-up-in-google-searches",
+    "id": "news-4404"
+  },
+  {
     "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents",
     "summary": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. ",
     "content": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. API prices go up two- to tenfold. The article Pangram says its new AI text detector makes only one mistake per 24,000 documents appeared first on The Decoder.",
