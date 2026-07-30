@@ -1,5 +1,96 @@
 [
   {
+    "title": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+    "summary": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots. The article FCC bans new Chin",
+    "content": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots. The article FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/",
+    "id": "news-4417"
+  },
+  {
+    "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
+    "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the CyberGym benchmark when embedded in an or",
+    "content": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the CyberGym benchmark when embedded in an orchestrator and reportedly costs half as much as Anthropic's Mythos, but it still relies on OpenAI for hard tasks. Competition is shifting from individual models to the orchestration software that routes and manages them. The article Microsoft AI bets on cheap specialist models instead of chasing the",
+    "author": "Gregor Kobsik",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
+    "id": "news-4416"
+  },
+  {
+    "title": "AI Scammers Are Better at Building Trust Than Humans",
+    "summary": "Article URL: https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/ Comments URL: https://news.ycombinator.com/item?id=49109769 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/ Comments URL: https://news.ycombinator.com/item?id=49109769 Points: 2 # Comments: 0",
+    "author": "justworks",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+    "id": "news-4415"
+  },
+  {
+    "title": "Meta shares tumble as Mark Zuckerberg tries to sell his vision for AI 'agents",
+    "summary": "Article URL: https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b Comments URL: https://news.ycombinator.com/item?id=49109802 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b Comments URL: https://news.ycombinator.com/item?id=49109802 Points: 3 # Comments: 1",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b",
+    "id": "news-4414"
+  },
+  {
+    "title": "Refusal as Instruction: Equipping Patrons to Resist AI, Data Brokers, Big Tech",
+    "summary": "Article URL: https://ital.corejournals.org/index.php/ital/article/view/17653/11960 Comments URL: https://news.ycombinator.com/item?id=49109830 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ital.corejournals.org/index.php/ital/article/view/17653/11960 Comments URL: https://news.ycombinator.com/item?id=49109830 Points: 1 # Comments: 0",
+    "author": "wallflower",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ital.corejournals.org/index.php/ital/article/view/17653/11960",
+    "id": "news-4413"
+  },
+  {
+    "title": "Adversarial Code Obfuscation for Defending Against LLM-Based Analysis",
+    "summary": "Article URL: https://arxiv.org/abs/2606.11755 Comments URL: https://news.ycombinator.com/item?id=49109869 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2606.11755 Comments URL: https://news.ycombinator.com/item?id=49109869 Points: 1 # Comments: 0",
+    "author": "dirkc",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2606.11755",
+    "id": "news-4412"
+  },
+  {
+    "title": "The Skills AI Stopped Teaching Junior Developers",
+    "summary": "Article URL: https://menelaos.vergis.net/posts/The-Skills-AI-Stopped-Teaching-Junior-Developers Comments URL: https://news.ycombinator.com/item?id=49109873 Points: 1 # Comments: 0",
+    "content": "Article URL: https://menelaos.vergis.net/posts/The-Skills-AI-Stopped-Teaching-Junior-Developers Comments URL: https://news.ycombinator.com/item?id=49109873 Points: 1 # Comments: 0",
+    "author": "melenaos",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://menelaos.vergis.net/posts/The-Skills-AI-Stopped-Teaching-Junior-Developers",
+    "id": "news-4411"
+  },
+  {
     "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
     "summary": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent. ARC Prize c",
     "content": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent. ARC Prize claims its test environment is provider-neutral, but may have used an outdated API that skewed the comparison with Opus 5. The article OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings appeared first on The Decoder.",
