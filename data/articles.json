@@ -1,5 +1,96 @@
 [
   {
+    "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+    "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, exce",
+    "content": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas. Ho is leaving OpenAI to start a company focused on specialized training data and predicts that AI labs will need to spend more than $100 billion on targeted data collection. The article Ex-OpenAI researcher bets $100 billio",
+    "author": "Matthias Bastian",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+    "id": "news-4431"
+  },
+  {
+    "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
+    "summary": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling ",
+    "content": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling the cuts. Price pressure from cheap Chinese providers and Microsoft's own MAI models likely played a role too. The article OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
+    "id": "news-4430"
+  },
+  {
+    "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+    "summary": "Article URL: https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M Comments URL: https://news.ycombinator.com/item?id=49114209 Points: 2",
+    "content": "Article URL: https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M Comments URL: https://news.ycombinator.com/item?id=49114209 Points: 2 # Comments: 0",
+    "author": "joeymabia1",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
+    "id": "news-4429"
+  },
+  {
+    "title": "Claude Opus 5 became ruthless when tasked with running a vending machine",
+    "summary": "Article URL: https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/ Comments URL: https://news.ycombinator.com/item?id=49114212 Points: 1",
+    "content": "Article URL: https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/ Comments URL: https://news.ycombinator.com/item?id=49114212 Points: 1 # Comments: 0",
+    "author": "wasting_time",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "id": "news-4428"
+  },
+  {
+    "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=BzY8EqYEP8o Comments URL: https://news.ycombinator.com/item?id=49114229 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=BzY8EqYEP8o Comments URL: https://news.ycombinator.com/item?id=49114229 Points: 1 # Comments: 1",
+    "author": "sroerick",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
+    "id": "news-4427"
+  },
+  {
+    "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+    "summary": "Article URL: https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/ Comments URL: https://news.ycombinator.com/item?id=49114292",
+    "content": "Article URL: https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/ Comments URL: https://news.ycombinator.com/item?id=49114292 Points: 1 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+    "id": "news-4426"
+  },
+  {
+    "title": "AI-agent-only trade show, Ferrari Luce",
+    "summary": "Article URL: https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce Comments URL: https://news.ycombinator.com/item?id=49114301 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce Comments URL: https://news.ycombinator.com/item?id=49114301 Points: 1 # Comments: 0",
+    "author": "historian1066",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
+    "id": "news-4425"
+  },
+  {
     "title": "I asked Claude to reimplement Apple's LZRAVEN codec in C, conformance-tested",
     "summary": "Article URL: https://github.com/anat0m1a/liblzraven Comments URL: https://news.ycombinator.com/item?id=49112695 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/anat0m1a/liblzraven Comments URL: https://news.ycombinator.com/item?id=49112695 Points: 2 # Comments: 0",
