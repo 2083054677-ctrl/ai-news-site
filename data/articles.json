@@ -1,5 +1,70 @@
 [
   {
+    "title": "Empathy: A skill that helps AI agents talk to humans",
+    "summary": "Article URL: https://github.com/danielroe/empathy Comments URL: https://news.ycombinator.com/item?id=49116594 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/danielroe/empathy Comments URL: https://news.ycombinator.com/item?id=49116594 Points: 1 # Comments: 0",
+    "author": "wertyk",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/danielroe/empathy",
+    "id": "news-4441"
+  },
+  {
+    "title": "Power 2026 – Electricity Pricing in the Age of AI",
+    "summary": "Article URL: https://power2026.ai/ Comments URL: https://news.ycombinator.com/item?id=49116741 Points: 1 # Comments: 0",
+    "content": "Article URL: https://power2026.ai/ Comments URL: https://news.ycombinator.com/item?id=49116741 Points: 1 # Comments: 0",
+    "author": "nsomani",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://power2026.ai/",
+    "id": "news-4440"
+  },
+  {
+    "title": "What's Working for Adoption and Distribution of AI/SaaS Products in 2026?",
+    "summary": "Building is (supposedly) easy and cheap. Media showcases the AI hits that grow faster than any company in history. YouTube \"experts\" are touting AI/SaaS tools that grew to $1m ARR within 3 months.But,",
+    "content": "Building is (supposedly) easy and cheap. Media showcases the AI hits that grow faster than any company in history. YouTube \"experts\" are touting AI/SaaS tools that grew to $1m ARR within 3 months.But, that's only a small slice of the world. We have been building useful products that drive real results and our customers like...but, without big funding and limited people, we can't seem to rise above the noise to get any traction.So, for those without millions to spend (lose) on customer acquisitio",
+    "author": "Expedition",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49116817",
+    "id": "news-4439"
+  },
+  {
+    "title": "Show HN: Anti-Slop UI – A deterministic state-machine to stop AI hallucinations",
+    "summary": "Article URL: https://local-over.github.io/Anti-Slop-UI/ Comments URL: https://news.ycombinator.com/item?id=49116843 Points: 1 # Comments: 0",
+    "content": "Article URL: https://local-over.github.io/Anti-Slop-UI/ Comments URL: https://news.ycombinator.com/item?id=49116843 Points: 1 # Comments: 0",
+    "author": "hassan-elkady",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://local-over.github.io/Anti-Slop-UI/",
+    "id": "news-4438"
+  },
+  {
+    "title": "Ask HN: How are you leveraging AI/LLMs as software dev TEAM",
+    "summary": "SWE manager at $BIGTECH company here.I am curious to know if your software team is finding any real gains outside of individual developers leveraging LLMs and coding harnesses etc.Are you successfully",
+    "content": "SWE manager at $BIGTECH company here.I am curious to know if your software team is finding any real gains outside of individual developers leveraging LLMs and coding harnesses etc.Are you successfully sharing data/context between team members, creating shared workflows, reducing toil, bugs or production incidents as a result of your AI adoption?Thanks for sharing any ideas. Comments URL: https://news.ycombinator.com/item?id=49116891 Points: 1 # Comments: 0",
+    "author": "locusofself",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49116891",
+    "id": "news-4437"
+  },
+  {
     "title": "Instrument an LLM Agent with OpenTelemetry · TripleCloud Blog",
     "summary": "Article URL: https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry Comments URL: https://news.ycombinator.com/item?id=49115116 Points: 1 # Comments: 0",
     "content": "Article URL: https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry Comments URL: https://news.ycombinator.com/item?id=49115116 Points: 1 # Comments: 0",
