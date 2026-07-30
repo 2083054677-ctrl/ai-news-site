@@ -1,5 +1,32 @@
 [
   {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "summary": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "id": "news-4419"
+  },
+  {
+    "title": "Language models can't spark scientific revolutions, but world models might",
+    "summary": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't. They're missing the cognitive mechanism needed to creat",
+    "content": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't. They're missing the cognitive mechanism needed to create something truly new. The article Language models can't spark scientific revolutions, but world models might appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
+    "id": "news-4418"
+  },
+  {
     "title": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
     "summary": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots. The article FCC bans new Chin",
     "content": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots. The article FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats appeared first on The Decoder.",
