@@ -1,5 +1,70 @@
 [
   {
+    "title": "Instrument an LLM Agent with OpenTelemetry · TripleCloud Blog",
+    "summary": "Article URL: https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry Comments URL: https://news.ycombinator.com/item?id=49115116 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry Comments URL: https://news.ycombinator.com/item?id=49115116 Points: 1 # Comments: 0",
+    "author": "mineev",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry",
+    "id": "news-4436"
+  },
+  {
+    "title": "Firebender: Android AI Coder",
+    "summary": "Article URL: https://firebender.com/ Comments URL: https://news.ycombinator.com/item?id=49115143 Points: 1 # Comments: 0",
+    "content": "Article URL: https://firebender.com/ Comments URL: https://news.ycombinator.com/item?id=49115143 Points: 1 # Comments: 0",
+    "author": "handfuloflight",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://firebender.com/",
+    "id": "news-4435"
+  },
+  {
+    "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+    "summary": "Article URL: https://github.com/colliehq/collie Comments URL: https://news.ycombinator.com/item?id=49115262 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/colliehq/collie Comments URL: https://news.ycombinator.com/item?id=49115262 Points: 3 # Comments: 1",
+    "author": "wudmaing00",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/colliehq/collie",
+    "id": "news-4434"
+  },
+  {
+    "title": "Scale AI appoints Google Cloud exec as new CEO",
+    "summary": "Article URL: https://scale.com/blog/scale-appoints-new-ceo Comments URL: https://news.ycombinator.com/item?id=49115404 Points: 1 # Comments: 0",
+    "content": "Article URL: https://scale.com/blog/scale-appoints-new-ceo Comments URL: https://news.ycombinator.com/item?id=49115404 Points: 1 # Comments: 0",
+    "author": "JustinGraham",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://scale.com/blog/scale-appoints-new-ceo",
+    "id": "news-4433"
+  },
+  {
+    "title": "I obtained Claude Opus 5 system prompt",
+    "summary": "Article URL: https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758 Comments URL: https://news.ycombinator.com/item?id=49115620 Points: 3 # Comments: 4",
+    "content": "Article URL: https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758 Comments URL: https://news.ycombinator.com/item?id=49115620 Points: 3 # Comments: 4",
+    "author": "juleiie",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758",
+    "id": "news-4432"
+  },
+  {
     "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
     "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, exce",
     "content": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas. Ho is leaving OpenAI to start a company focused on specialized training data and predicts that AI labs will need to spend more than $100 billion on targeted data collection. The article Ex-OpenAI researcher bets $100 billio",
