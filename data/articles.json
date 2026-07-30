@@ -1,5 +1,70 @@
 [
   {
+    "title": "I asked Claude to reimplement Apple's LZRAVEN codec in C, conformance-tested",
+    "summary": "Article URL: https://github.com/anat0m1a/liblzraven Comments URL: https://news.ycombinator.com/item?id=49112695 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/anat0m1a/liblzraven Comments URL: https://news.ycombinator.com/item?id=49112695 Points: 2 # Comments: 0",
+    "author": "anat0m1a",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anat0m1a/liblzraven",
+    "id": "news-4424"
+  },
+  {
+    "title": "Show HN: Agentic – Run Claude Code on different models with routing and budgets",
+    "summary": "Article URL: https://github.com/MaorBril/agentic Comments URL: https://news.ycombinator.com/item?id=49112732 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/MaorBril/agentic Comments URL: https://news.ycombinator.com/item?id=49112732 Points: 1 # Comments: 0",
+    "author": "maorbril",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MaorBril/agentic",
+    "id": "news-4423"
+  },
+  {
+    "title": "LLM Routers Have Become a Service Category of Their Own",
+    "summary": "Article URL: https://techstrong.ai/articles/llm-routers-have-become-a-service-category-of-their-own/ Comments URL: https://news.ycombinator.com/item?id=49112773 Points: 3 # Comments: 0",
+    "content": "Article URL: https://techstrong.ai/articles/llm-routers-have-become-a-service-category-of-their-own/ Comments URL: https://news.ycombinator.com/item?id=49112773 Points: 3 # Comments: 0",
+    "author": "CrankyBear",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techstrong.ai/articles/llm-routers-have-become-a-service-category-of-their-own/",
+    "id": "news-4422"
+  },
+  {
+    "title": "AI policies that don't suck",
+    "summary": "Hi folks,I don’t have a blog, but I have some thoughts about our current AI moment. I’m hearing a lot of good and bad ideas about how to organize around safety and paced development, but I haven’t hea",
+    "content": "Hi folks,I don’t have a blog, but I have some thoughts about our current AI moment. I’m hearing a lot of good and bad ideas about how to organize around safety and paced development, but I haven’t heard these ideas yet and wanted to share them here in hopes that some discussion might take place or someone with reach steals them.1. Much of the xrisk discussion hinges on embodied AI. Robots with arms and legs are robots that can kill, displace jobs, etc. All manufacturing of such robotics should c",
+    "author": "reilly3000",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49112835",
+    "id": "news-4421"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 1 # Comments: 0",
+    "author": "tedsanders",
+    "date": "2026-07-30",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "id": "news-4420"
+  },
+  {
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "summary": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "content": "",
