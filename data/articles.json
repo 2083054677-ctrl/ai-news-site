@@ -1,5 +1,96 @@
 [
   {
+    "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
+    "summary": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding a",
+    "content": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks. The article Thinking Machines bets on efficiency over size with its second model, Inkling Small appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
+    "id": "news-4467"
+  },
+  {
+    "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
+    "summary": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-l",
+    "content": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks. The article Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
+    "id": "news-4466"
+  },
+  {
+    "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+    "summary": "Article URL: https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky Comments URL: https://news.ycombinator.com/item?id=49127202 Points: 1",
+    "content": "Article URL: https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky Comments URL: https://news.ycombinator.com/item?id=49127202 Points: 1 # Comments: 0",
+    "author": "Jimmc414",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+    "id": "news-4465"
+  },
+  {
+    "title": "The icons that might solve Hollywood's AI problem [video]",
+    "summary": "Article URL: https://www.youtube.com/shorts/SsK4ILb3j5I Comments URL: https://news.ycombinator.com/item?id=49127253 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/shorts/SsK4ILb3j5I Comments URL: https://news.ycombinator.com/item?id=49127253 Points: 1 # Comments: 0",
+    "author": "perching_aix",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/shorts/SsK4ILb3j5I",
+    "id": "news-4464"
+  },
+  {
+    "title": "AI companies destroy rare and non recoverable physical books",
+    "summary": "Article URL: https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/ Comments URL: https://news.ycombinator.com/item?id=49127284 Points: 4 # Commen",
+    "content": "Article URL: https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/ Comments URL: https://news.ycombinator.com/item?id=49127284 Points: 4 # Comments: 0",
+    "author": "DoddgyEggplant",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+    "id": "news-4463"
+  },
+  {
+    "title": "Coal back in favour as US plant bidding war highlights rising demand to power AI",
+    "summary": "Article URL: https://www.ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8 Comments URL: https://news.ycombinator.com/item?id=49127377 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8 Comments URL: https://news.ycombinator.com/item?id=49127377 Points: 1 # Comments: 0",
+    "author": "JumpCrisscross",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8",
+    "id": "news-4462"
+  },
+  {
+    "title": "World Models Are AI's Next Frontier",
+    "summary": "Article URL: https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/ Comments URL: https://news.ycombinator.com/item?id=49127378 Points: 1 # Comments: 0",
+    "content": "Article URL: https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/ Comments URL: https://news.ycombinator.com/item?id=49127378 Points: 1 # Comments: 0",
+    "author": "Gooblebrai",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/",
+    "id": "news-4461"
+  },
+  {
     "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
     "summary": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 ",
     "content": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task. The article New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost appeared first on The Decoder.",
