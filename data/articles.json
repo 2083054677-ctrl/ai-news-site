@@ -1,5 +1,70 @@
 [
   {
+    "title": "Time for OpenAI and Anthropic to take a leaf from Microsoft's book?",
+    "summary": "Dear Sam & Dario, please add \"AI is for entertainment purposes only\" to all output, including your PR announcements of the latest impressive security achievements.Thank you. Comments URL: https://news",
+    "content": "Dear Sam & Dario, please add \"AI is for entertainment purposes only\" to all output, including your PR announcements of the latest impressive security achievements.Thank you. Comments URL: https://news.ycombinator.com/item?id=49128289 Points: 1 # Comments: 0",
+    "author": "chrisjj",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49128289",
+    "id": "news-4472"
+  },
+  {
+    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/ Comments URL: https://news.ycombinator.com/item?id=49128310 Points: 1 #",
+    "content": "Article URL: https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/ Comments URL: https://news.ycombinator.com/item?id=49128310 Points: 1 # Comments: 0",
+    "author": "stalfosknight",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+    "id": "news-4471"
+  },
+  {
+    "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires Comments URL: https://news.ycombinator.com/item?id=49128347 Points: 1 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires Comments URL: https://news.ycombinator.com/item?id=49128347 Points: 1 # Comments: 1",
+    "author": "mapping365",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
+    "id": "news-4470"
+  },
+  {
+    "title": "The Four Horsemen of the AI Bubble Apocalypse",
+    "summary": "Article URL: https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble Comments URL: https://news.ycombinator.com/item?id=49128402 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble Comments URL: https://news.ycombinator.com/item?id=49128402 Points: 1 # Comments: 0",
+    "author": "thoughtpeddler",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble",
+    "id": "news-4469"
+  },
+  {
+    "title": "AI and the Paperclip Apocalypse",
+    "summary": "Article URL: https://cepr.org/voxeu/columns/ai-and-paperclip-problem Comments URL: https://news.ycombinator.com/item?id=49128413 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cepr.org/voxeu/columns/ai-and-paperclip-problem Comments URL: https://news.ycombinator.com/item?id=49128413 Points: 1 # Comments: 0",
+    "author": "zaikunzhang",
+    "date": "2026-07-31",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cepr.org/voxeu/columns/ai-and-paperclip-problem",
+    "id": "news-4468"
+  },
+  {
     "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
     "summary": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding a",
     "content": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks. The article Thinking Machines bets on efficiency over size with its second model, Inkling Small appeared first on The Decoder.",
