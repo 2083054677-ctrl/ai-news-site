@@ -1,5 +1,44 @@
 [
   {
+    "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
+    "summary": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users ca",
+    "content": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users can feed in dozens of images, videos, and audio files as reference. For ad teams, this could kill the process of cutting together one short clip at a time. The article ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio appeared first on The Decoder.",
+    "author": "Gregor Kobsik",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
+    "id": "news-4483"
+  },
+  {
+    "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
+    "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. ",
+    "content": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attempts. The article A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot appeared first on The Decoder.",
+    "author": "Thomas Joos",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+    "id": "news-4482"
+  },
+  {
+    "title": "AI coding agents can modernize research software but can't judge if the science is right",
+    "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently w",
+    "content": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say. The effort shifts from writing code to the time-consuming work of verifying scientific correctness. The article AI coding agents can modernize research software but can't judge if the science is right appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+    "id": "news-4481"
+  },
+  {
     "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
     "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-",
     "content": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open. The article German court rules AI music generator Suno violated copyrights, rejects fair use defense appeared first on The Decoder.",
