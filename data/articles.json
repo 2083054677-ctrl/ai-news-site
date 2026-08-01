@@ -1,5 +1,70 @@
 [
   {
+    "title": "House Committees Investigate DoorDash's Use of Chinese AI",
+    "summary": "Article URL: https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk Comments URL: https://news.ycombinator.com/item?id=",
+    "content": "Article URL: https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk Comments URL: https://news.ycombinator.com/item?id=49137046 Points: 2 # Comments: 0",
+    "author": "Jimmc414",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
+    "id": "news-4494"
+  },
+  {
+    "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
+    "summary": "Article URL: https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents Comments URL: https://news.ycombinator.com/item?id=49137052 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents Comments URL: https://news.ycombinator.com/item?id=49137052 Points: 1 # Comments: 0",
+    "author": "amadmike",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
+    "id": "news-4493"
+  },
+  {
+    "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
+    "summary": "Article URL: https://github.com/edison7009/OpenLongevity Comments URL: https://news.ycombinator.com/item?id=49137055 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/edison7009/OpenLongevity Comments URL: https://news.ycombinator.com/item?id=49137055 Points: 1 # Comments: 0",
+    "author": "edison7009",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/edison7009/OpenLongevity",
+    "id": "news-4492"
+  },
+  {
+    "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
+    "summary": "“How should AI change software debugging in the next 5 years Comments URL: https://news.ycombinator.com/item?id=49137234 Points: 1 # Comments: 0",
+    "content": "“How should AI change software debugging in the next 5 years Comments URL: https://news.ycombinator.com/item?id=49137234 Points: 1 # Comments: 0",
+    "author": "laxmansubedi",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bugdetectai.com",
+    "id": "news-4491"
+  },
+  {
+    "title": "Google cancels AI Studio app after 800k preorders",
+    "summary": "Article URL: https://twitter.com/GoogleAIStudio/status/2083274575769473092 Comments URL: https://news.ycombinator.com/item?id=49137268 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/GoogleAIStudio/status/2083274575769473092 Comments URL: https://news.ycombinator.com/item?id=49137268 Points: 1 # Comments: 0",
+    "author": "BlueBerry2001",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+    "id": "news-4490"
+  },
+  {
     "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
     "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent cons",
     "content": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the \"possible destruction of mathematical culture\" if mathematicians stop building the expertise needed to understand such results. Others simply see AI as a productivity tool. The article AI keeps cracking unsolved math problems, and ",
