@@ -1,5 +1,18 @@
 [
   {
+    "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+    "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-",
+    "content": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open. The article German court rules AI music generator Suno violated copyrights, rejects fair use defense appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
+    "id": "news-4480"
+  },
+  {
     "title": "Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days",
     "summary": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite images. A simple prompt was enough to fill ",
     "content": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite images. A simple prompt was enough to fill an empty lot at the Mexican border with a refugee column. The article Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days appeared first on The Decoder.",
