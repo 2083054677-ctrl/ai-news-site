@@ -1,5 +1,83 @@
 [
   {
+    "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
+    "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent cons",
+    "content": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the \"possible destruction of mathematical culture\" if mathematicians stop building the expertise needed to understand such results. Others simply see AI as a productivity tool. The article AI keeps cracking unsolved math problems, and ",
+    "author": "Matthias Bastian",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
+    "id": "news-4489"
+  },
+  {
+    "title": "An AI radio station that draws a live comic of its hosts' thoughts",
+    "summary": "Article URL: https://hiveweaver.fm/en/ Comments URL: https://news.ycombinator.com/item?id=49135895 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hiveweaver.fm/en/ Comments URL: https://news.ycombinator.com/item?id=49135895 Points: 1 # Comments: 0",
+    "author": "Yesbert",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hiveweaver.fm/en/",
+    "id": "news-4488"
+  },
+  {
+    "title": "When AI Starts Writing Systems Code",
+    "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=49135900 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=49135900 Points: 1 # Comments: 0",
+    "author": "skidrow",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+    "id": "news-4487"
+  },
+  {
+    "title": "I Fired My AI Assitant",
+    "summary": "Article URL: https://chreke.com/posts/i-fired-my-ai-assistant Comments URL: https://news.ycombinator.com/item?id=49135914 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chreke.com/posts/i-fired-my-ai-assistant Comments URL: https://news.ycombinator.com/item?id=49135914 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chreke.com/posts/i-fired-my-ai-assistant",
+    "id": "news-4486"
+  },
+  {
+    "title": "Amazon spent $1.8M using Claude for menial coding task, went 860% over budget",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophical",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics Comments URL: https://news.ycombinator.com/item?id=49135973 Points: 1 # Comments: 0",
+    "author": "PLenz",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics",
+    "id": "news-4485"
+  },
+  {
+    "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI",
+    "summary": "Article URL: https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2 Comments URL: https://news.ycombinator.com/item?id=49136053 Points: 1",
+    "content": "Article URL: https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2 Comments URL: https://news.ycombinator.com/item?id=49136053 Points: 1 # Comments: 0",
+    "author": "hackthemack",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2",
+    "id": "news-4484"
+  },
+  {
     "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
     "summary": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users ca",
     "content": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users can feed in dozens of images, videos, and audio files as reference. For ad teams, this could kill the process of cutting together one short clip at a time. The article ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio appeared first on The Decoder.",
