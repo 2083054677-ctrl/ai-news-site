@@ -1,5 +1,31 @@
 [
   {
+    "title": "Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days",
+    "summary": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite images. A simple prompt was enough to fill ",
+    "content": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite images. A simple prompt was enough to fill an empty lot at the Mexican border with a refugee column. The article Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/",
+    "id": "news-4479"
+  },
+  {
+    "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
+    "summary": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in ",
+    "content": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release it as GPT-6 or a new GPT-5 variant. The article OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-01",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+    "id": "news-4478"
+  },
+  {
     "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
     "summary": "Article URL: https://www.richresults.ai/evidence.html Comments URL: https://news.ycombinator.com/item?id=49130131 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.richresults.ai/evidence.html Comments URL: https://news.ycombinator.com/item?id=49130131 Points: 1 # Comments: 0",
