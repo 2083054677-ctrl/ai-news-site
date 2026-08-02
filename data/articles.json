@@ -1,5 +1,70 @@
 [
   {
+    "title": "Challenge GPT and Claude to Run Their Own Lemonade Stands[video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=6Ide5pRLR8Y Comments URL: https://news.ycombinator.com/item?id=49141228 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=6Ide5pRLR8Y Comments URL: https://news.ycombinator.com/item?id=49141228 Points: 1 # Comments: 0",
+    "author": "blackcat201",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=6Ide5pRLR8Y",
+    "id": "news-4509"
+  },
+  {
+    "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+    "summary": "Article URL: https://github.com/ANIRudH-lab-life/job-radar Comments URL: https://news.ycombinator.com/item?id=49141408 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ANIRudH-lab-life/job-radar Comments URL: https://news.ycombinator.com/item?id=49141408 Points: 2 # Comments: 0",
+    "author": "anirudhshivam",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ANIRudH-lab-life/job-radar",
+    "id": "news-4508"
+  },
+  {
+    "title": "AI Ate Your RAM (Why Memory Prices Exploded)",
+    "summary": "Article URL: https://www.youtube.com/watch?v=r7b2uwy8_CM Comments URL: https://news.ycombinator.com/item?id=49141426 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=r7b2uwy8_CM Comments URL: https://news.ycombinator.com/item?id=49141426 Points: 1 # Comments: 0",
+    "author": "cable2600",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=r7b2uwy8_CM",
+    "id": "news-4507"
+  },
+  {
+    "title": "Claude-for-Hardware",
+    "summary": "Article URL: https://github.com/Midstall/claude-for-hardware Comments URL: https://news.ycombinator.com/item?id=49141461 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Midstall/claude-for-hardware Comments URL: https://news.ycombinator.com/item?id=49141461 Points: 1 # Comments: 0",
+    "author": "ai_critic",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Midstall/claude-for-hardware",
+    "id": "news-4506"
+  },
+  {
+    "title": "Agent-Browser – Browser Automation for AI",
+    "summary": "Article URL: https://agent-browser.dev/ Comments URL: https://news.ycombinator.com/item?id=49141627 Points: 2 # Comments: 0",
+    "content": "Article URL: https://agent-browser.dev/ Comments URL: https://news.ycombinator.com/item?id=49141627 Points: 2 # Comments: 0",
+    "author": "Garbage",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agent-browser.dev/",
+    "id": "news-4505"
+  },
+  {
     "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
     "summary": "Article URL: https://zenodo.org/records/21753002 Comments URL: https://news.ycombinator.com/item?id=49140080 Points: 3 # Comments: 0",
     "content": "Article URL: https://zenodo.org/records/21753002 Comments URL: https://news.ycombinator.com/item?id=49140080 Points: 3 # Comments: 0",
