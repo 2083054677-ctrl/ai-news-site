@@ -1,5 +1,18 @@
 [
   {
+    "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+    "summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external de",
+    "content": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments. For complex cases, OpenAI's own engineers step in. The article OpenAI Presence wants to make AI agents production-ready for businesses appeared first on The Decoder.",
+    "author": "Gregor Kobsik",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+    "id": "news-4531"
+  },
+  {
     "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
     "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline. As a result, Italian ",
     "content": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline. As a result, Italian startup Bynario was initially unable to report a serious macOS vulnerability worth up to $200,000 on the black market. The article A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop appeared first on The Decoder.",
