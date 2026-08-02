@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
+    "summary": "Hi HN,I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines.It is aimed at students asking two questions: Where does my degree ",
+    "content": "Hi HN,I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines.It is aimed at students asking two questions: Where does my degree fit into this landscape? Should I specialise now or stay broad?I would appreciate feedback on what is wrong, overstated, or missing. More importantly, based on your own experience, what would you tell a 20-year-old choosing what to study today? Comments URL: https://news.ycombinator.com/item?id=4914",
+    "author": "ithkai92",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-five-layer-map.pages.dev/",
+    "id": "news-4536"
+  },
+  {
+    "title": "AI and the iPod Test",
+    "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test Comments URL: https://news.ycombinator.com/item?id=49146888 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test Comments URL: https://news.ycombinator.com/item?id=49146888 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test",
+    "id": "news-4535"
+  },
+  {
+    "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
+    "summary": "Article URL: https://github.com/gakonst/nanocodex Comments URL: https://news.ycombinator.com/item?id=49146991 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/gakonst/nanocodex Comments URL: https://news.ycombinator.com/item?id=49146991 Points: 2 # Comments: 0",
+    "author": "sygma",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/gakonst/nanocodex",
+    "id": "news-4534"
+  },
+  {
+    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+    "summary": "Article URL: https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/ Comments URL: https://news.ycombinator.com/item?id=49147181 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/ Comments URL: https://news.ycombinator.com/item?id=49147181 Points: 3 # Comments: 1",
+    "author": "thm",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "id": "news-4533"
+  },
+  {
+    "title": "AI-assisted analytics now 10x cheaper",
+    "summary": "Article URL: https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49147192 Points: 1 # Comments: 0",
+    "content": "Article URL: https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49147192 Points: 1 # Comments: 0",
+    "author": "ryguyrg",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
+    "id": "news-4532"
+  },
+  {
     "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
     "summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external de",
     "content": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments. For complex cases, OpenAI's own engineers step in. The article OpenAI Presence wants to make AI agents production-ready for businesses appeared first on The Decoder.",
