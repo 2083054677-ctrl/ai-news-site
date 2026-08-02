@@ -1,5 +1,70 @@
 [
   {
+    "title": "30% of certificate credentials reported on LinkedIn are now AI-related",
+    "summary": "Article URL: https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it Comments URL: https://news.ycombinator.com/item?id=49149108 ",
+    "content": "Article URL: https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it Comments URL: https://news.ycombinator.com/item?id=49149108 Points: 1 # Comments: 0",
+    "author": "thoughtpeddler",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it",
+    "id": "news-4541"
+  },
+  {
+    "title": "Gauge – see where your Claude Code subscription goes",
+    "summary": "Article URL: https://github.com/joey-io/gauge Comments URL: https://news.ycombinator.com/item?id=49149111 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/joey-io/gauge Comments URL: https://news.ycombinator.com/item?id=49149111 Points: 1 # Comments: 0",
+    "author": "joey-io",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/joey-io/gauge",
+    "id": "news-4540"
+  },
+  {
+    "title": "Reviewing the Arch User Repository with AI",
+    "summary": "Article URL: https://cretezy.com/2026/aur-ai-security/ Comments URL: https://news.ycombinator.com/item?id=49149119 Points: 1 # Comments: 1",
+    "content": "Article URL: https://cretezy.com/2026/aur-ai-security/ Comments URL: https://news.ycombinator.com/item?id=49149119 Points: 1 # Comments: 1",
+    "author": "CraftThatBlock",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cretezy.com/2026/aur-ai-security/",
+    "id": "news-4539"
+  },
+  {
+    "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+    "summary": "Article URL: https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/ Comments URL: https://news.ycombinator.com/item?id=49149134 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/ Comments URL: https://news.ycombinator.com/item?id=49149134 Points: 1 # Comments: 0",
+    "author": "teleforce",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+    "id": "news-4538"
+  },
+  {
+    "title": "AI poster wins Ohio State Fair contest",
+    "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 1 # Comments: 0",
+    "author": "AlexAplin",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+    "id": "news-4537"
+  },
+  {
     "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
     "summary": "Hi HN,I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines.It is aimed at students asking two questions: Where does my degree ",
     "content": "Hi HN,I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines.It is aimed at students asking two questions: Where does my degree fit into this landscape? Should I specialise now or stay broad?I would appreciate feedback on what is wrong, overstated, or missing. More importantly, based on your own experience, what would you tell a 20-year-old choosing what to study today? Comments URL: https://news.ycombinator.com/item?id=4914",
