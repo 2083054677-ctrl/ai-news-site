@@ -1,5 +1,96 @@
 [
   {
+    "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
+    "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline. As a result, Italian ",
+    "content": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline. As a result, Italian startup Bynario was initially unable to report a serious macOS vulnerability worth up to $200,000 on the black market. The article A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+    "id": "news-4530"
+  },
+  {
+    "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
+    "summary": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides",
+    "content": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when to stay silent. The system improved scores by up to 8.3 percentage points across two benchmarks. The article Meta AI uses a second AI agent as a memory coach to keep long tasks on track appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+    "id": "news-4529"
+  },
+  {
+    "title": "Show HN: Handoff is await human() for AI agents",
+    "summary": "Article URL: https://github.com/OmegaAgent/handoff Comments URL: https://news.ycombinator.com/item?id=49143842 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/OmegaAgent/handoff Comments URL: https://news.ycombinator.com/item?id=49143842 Points: 1 # Comments: 1",
+    "author": "LivingGlitcher",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/OmegaAgent/handoff",
+    "id": "news-4528"
+  },
+  {
+    "title": "When Verification Explores Too Far: LLM Test Coverage vs. Validity",
+    "summary": "Article URL: https://zenodo.org/records/21758550 Comments URL: https://news.ycombinator.com/item?id=49143882 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/21758550 Comments URL: https://news.ycombinator.com/item?id=49143882 Points: 1 # Comments: 0",
+    "author": "haitamk",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/21758550",
+    "id": "news-4527"
+  },
+  {
+    "title": "China's free Kimi K3 AI model shakes up global tech market",
+    "summary": "Article URL: https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/ Comments URL: https://news.ycombinator.com/item?id=49144128 Points: 2 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/ Comments URL: https://news.ycombinator.com/item?id=49144128 Points: 2 # Comments: 0",
+    "author": "donohoe",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/",
+    "id": "news-4526"
+  },
+  {
+    "title": "Ask HN: When will the AI version of 911 happen?",
+    "summary": "Whether the government/other 'friendly' entities were behind, coordinated, or were oblivious to the 911 attacks, they enjoyed what 911 allowed them to do (be completely free of the limits of the Const",
+    "content": "Whether the government/other 'friendly' entities were behind, coordinated, or were oblivious to the 911 attacks, they enjoyed what 911 allowed them to do (be completely free of the limits of the Constitution on their treatment of everyone) to not want to do it again.It lasted 25 years, which might be surprising, that Americans would give up their American-ness for that long, but they were 'patriotic' enough to accept just a single approval by Congress of a super-Unconstitutional muddy Act on a l",
+    "author": "dfps",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49144182",
+    "id": "news-4525"
+  },
+  {
+    "title": "The $5k tell: AI vendors are selling you human QA for their own AI",
+    "summary": "Article URL: https://okaneland.com/study/the-5000-dollar-tell/ Comments URL: https://news.ycombinator.com/item?id=49144216 Points: 1 # Comments: 0",
+    "content": "Article URL: https://okaneland.com/study/the-5000-dollar-tell/ Comments URL: https://news.ycombinator.com/item?id=49144216 Points: 1 # Comments: 0",
+    "author": "ermantrout",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://okaneland.com/study/the-5000-dollar-tell/",
+    "id": "news-4524"
+  },
+  {
     "title": "AI finds plenty of security flaws, but almost none of them get exploited",
     "summary": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw confirmed attacks. That's 1.3 percent, ",
     "content": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw confirmed attacks. That's 1.3 percent, the same rate as vulnerabilities overall. But exploits are landing faster, with the median dropping from 120 days to 80. The article AI finds plenty of security flaws, but almost none of them get exploited appeared first on The Decoder.",
