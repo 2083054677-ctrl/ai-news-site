@@ -1,5 +1,109 @@
 [
   {
+    "title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
+    "summary": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. LinkedIn, meanwhile, has rolled out a ded",
+    "content": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. LinkedIn, meanwhile, has rolled out a dedicated \"AI slop\" reporting button. The article Snap and LinkedIn are fighting back against a flood of low-quality AI content appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
+    "id": "news-4517"
+  },
+  {
+    "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
+    "summary": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to th",
+    "content": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenAI models. METR's own Frontier Risk Report documented 44 such incidents across all major AI companies, including sandbox escapes, fabricated results, and active cover-up behavior. The article After Hugging Face incident, METR urges independent root-cause invest",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
+    "id": "news-4516"
+  },
+  {
+    "title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
+    "summary": "Anthropic's Claude Opus 5 generates complete 3D games from single prompts, including a first-person shooter, a kart racer, and a Minecraft clone, all without a single external asset. Geometry, texture",
+    "content": "Anthropic's Claude Opus 5 generates complete 3D games from single prompts, including a first-person shooter, a kart racer, and a Minecraft clone, all without a single external asset. Geometry, textures, physics, and in some cases music are produced as code and run directly in the browser. In side-by-side comparisons with GPT-5.6 Sol and Kimi K3, Opus 5 delivers significantly more detailed results. The article Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes wi",
+    "author": "Gregor Kobsik",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
+    "id": "news-4515"
+  },
+  {
+    "title": "Running a 35B LLM at 128K Context, Full Speed, on €870 of Used Hardware",
+    "summary": "Article URL: https://medium.com/ai-advances/running-a-35b-llm-at-128k-context-full-speed-on-870-of-used-hardware-no-cloud-required-c4f7629810b8 Comments URL: https://news.ycombinator.com/item?id=49142",
+    "content": "Article URL: https://medium.com/ai-advances/running-a-35b-llm-at-128k-context-full-speed-on-870-of-used-hardware-no-cloud-required-c4f7629810b8 Comments URL: https://news.ycombinator.com/item?id=49142301 Points: 1 # Comments: 0",
+    "author": "dexmac221",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/ai-advances/running-a-35b-llm-at-128k-context-full-speed-on-870-of-used-hardware-no-cloud-required-c4f7629810b8",
+    "id": "news-4514"
+  },
+  {
+    "title": "The Claude Code plugin marketplace has no price field",
+    "summary": "Article URL: https://www.promptreceipts.com/blog/claude-code-plugin-marketplace-no-price-2026 Comments URL: https://news.ycombinator.com/item?id=49142313 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.promptreceipts.com/blog/claude-code-plugin-marketplace-no-price-2026 Comments URL: https://news.ycombinator.com/item?id=49142313 Points: 1 # Comments: 0",
+    "author": "pwsj",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.promptreceipts.com/blog/claude-code-plugin-marketplace-no-price-2026",
+    "id": "news-4513"
+  },
+  {
+    "title": "POV: An AI replaced your job this morning [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=k35i0o-b8sI Comments URL: https://news.ycombinator.com/item?id=49142319 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=k35i0o-b8sI Comments URL: https://news.ycombinator.com/item?id=49142319 Points: 1 # Comments: 1",
+    "author": "Animats",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=k35i0o-b8sI",
+    "id": "news-4512"
+  },
+  {
+    "title": "EU Icons for labelling AI-generated content – Shaping Europe's digital future",
+    "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49142385 Points: 2 # Comments: 0",
+    "content": "Article URL: https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49142385 Points: 2 # Comments: 0",
+    "author": "robert-boehnke",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content",
+    "id": "news-4511"
+  },
+  {
+    "title": "A daily estimation game where the crowd's answer fights an AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49142461 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=49142461 Points: 1 # Comments: 0",
+    "author": "holdthelineworl",
+    "date": "2026-08-02",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49142461",
+    "id": "news-4510"
+  },
+  {
     "title": "Challenge GPT and Claude to Run Their Own Lemonade Stands[video]",
     "summary": "Article URL: https://www.youtube.com/watch?v=6Ide5pRLR8Y Comments URL: https://news.ycombinator.com/item?id=49141228 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.youtube.com/watch?v=6Ide5pRLR8Y Comments URL: https://news.ycombinator.com/item?id=49141228 Points: 1 # Comments: 0",
