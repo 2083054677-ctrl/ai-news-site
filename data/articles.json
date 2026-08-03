@@ -1,5 +1,31 @@
 [
   {
+    "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
+    "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open proble",
+    "content": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The case raises a question: what does \"independent discovery\" mean when everyone uses the same models? The article Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart appeared first on The ",
+    "author": "Matthias Bastian",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
+    "id": "news-4552"
+  },
+  {
+    "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+    "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release th",
+    "content": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week. The article Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
+    "id": "news-4551"
+  },
+  {
     "title": "Company Offering Printed Books to Train AI Stops After 404 Media Coverage",
     "summary": "Article URL: https://www.404media.co/ai-company-training-scanning-books-database-isbndb/ Comments URL: https://news.ycombinator.com/item?id=49151710 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.404media.co/ai-company-training-scanning-books-database-isbndb/ Comments URL: https://news.ycombinator.com/item?id=49151710 Points: 2 # Comments: 0",
