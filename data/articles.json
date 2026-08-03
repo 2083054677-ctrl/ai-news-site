@@ -1,5 +1,96 @@
 [
   {
+    "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
+    "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene. The article Unicorn, pelican, Middle-earth: OpenAI c",
+    "content": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene. The article Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
+    "id": "news-4559"
+  },
+  {
+    "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
+    "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first open model to top an AI video ranking appea",
+    "content": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first open model to top an AI video ranking appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+    "id": "news-4558"
+  },
+  {
+    "title": "The EU AI Act is now in force: an engineering checklist",
+    "summary": "Article URL: https://conformityengineering.com/ Comments URL: https://news.ycombinator.com/item?id=49155887 Points: 3 # Comments: 0",
+    "content": "Article URL: https://conformityengineering.com/ Comments URL: https://news.ycombinator.com/item?id=49155887 Points: 3 # Comments: 0",
+    "author": "stevalsoto",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://conformityengineering.com/",
+    "id": "news-4557"
+  },
+  {
+    "title": "1 in 6 public Claude Code configs contains a permission rule that does nothing",
+    "summary": "Article URL: https://gist.github.com/sfox100/128e8ef9f68109efe1322a56c5e67977 Comments URL: https://news.ycombinator.com/item?id=49155922 Points: 1 # Comments: 0",
+    "content": "Article URL: https://gist.github.com/sfox100/128e8ef9f68109efe1322a56c5e67977 Comments URL: https://news.ycombinator.com/item?id=49155922 Points: 1 # Comments: 0",
+    "author": "sfox100",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://gist.github.com/sfox100/128e8ef9f68109efe1322a56c5e67977",
+    "id": "news-4556"
+  },
+  {
+    "title": "A Markdown wiki outscored every AI agent memory product we benchmarked",
+    "summary": "Article URL: https://verginglabs.com/ Comments URL: https://news.ycombinator.com/item?id=49156055 Points: 1 # Comments: 0",
+    "content": "Article URL: https://verginglabs.com/ Comments URL: https://news.ycombinator.com/item?id=49156055 Points: 1 # Comments: 0",
+    "author": "SmithersBot",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://verginglabs.com/",
+    "id": "news-4555"
+  },
+  {
+    "title": "Hypothetical scenario; Post AI cryptography?",
+    "summary": "Article URL: https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so Comments URL: https://news.ycombinator.com/item?id=49156086 Points: 1 # Comments: 0",
+    "content": "Article URL: https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so Comments URL: https://news.ycombinator.com/item?id=49156086 Points: 1 # Comments: 0",
+    "author": "dogeprotocol",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so",
+    "id": "news-4554"
+  },
+  {
+    "title": "PostScript: Idle Frontier and on developing games with AI",
+    "summary": "Article URL: https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/ Comments URL: https://news.ycombinator.com/item?id=49156135 Points: 1 # Comments: 1",
+    "content": "Article URL: https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/ Comments URL: https://news.ycombinator.com/item?id=49156135 Points: 1 # Comments: 1",
+    "author": "ljvmiranda",
+    "date": "2026-08-03",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/",
+    "id": "news-4553"
+  },
+  {
     "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
     "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open proble",
     "content": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The case raises a question: what does \"independent discovery\" mean when everyone uses the same models? The article Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart appeared first on The ",
