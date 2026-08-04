@@ -1,5 +1,70 @@
 [
   {
+    "title": "LinkedIn says it won't be spending big on AI hardware this year",
+    "summary": "Article URL: https://www.techradar.com/pro/linkedin-says-it-wont-be-spending-big-on-ai-hardware-this-year-but-it-has-a-good-reason-why Comments URL: https://news.ycombinator.com/item?id=49165499 Point",
+    "content": "Article URL: https://www.techradar.com/pro/linkedin-says-it-wont-be-spending-big-on-ai-hardware-this-year-but-it-has-a-good-reason-why Comments URL: https://news.ycombinator.com/item?id=49165499 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.techradar.com/pro/linkedin-says-it-wont-be-spending-big-on-ai-hardware-this-year-but-it-has-a-good-reason-why",
+    "id": "news-4572"
+  },
+  {
+    "title": "Why is Anthropic's public writing style so unlike Claude's?",
+    "summary": "Article URL: https://cmart.blog/claude-writing/ Comments URL: https://news.ycombinator.com/item?id=49165545 Points: 2 # Comments: 1",
+    "content": "Article URL: https://cmart.blog/claude-writing/ Comments URL: https://news.ycombinator.com/item?id=49165545 Points: 2 # Comments: 1",
+    "author": "chrismartin",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cmart.blog/claude-writing/",
+    "id": "news-4571"
+  },
+  {
+    "title": "Ask HN: In post AI world, who is responsible if the code break?",
+    "summary": "- Engineer / Person who wrote the PR. - Reviewer - Tester / Person who tested it Comments URL: https://news.ycombinator.com/item?id=49165546 Points: 3 # Comments: 2",
+    "content": "- Engineer / Person who wrote the PR. - Reviewer - Tester / Person who tested it Comments URL: https://news.ycombinator.com/item?id=49165546 Points: 3 # Comments: 2",
+    "author": "pranshuchittora",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49165546",
+    "id": "news-4570"
+  },
+  {
+    "title": "We need to talk about AI in mathematics",
+    "summary": "Article URL: https://www.youtube.com/watch?v=cS1SJ0oBbTI Comments URL: https://news.ycombinator.com/item?id=49165658 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=cS1SJ0oBbTI Comments URL: https://news.ycombinator.com/item?id=49165658 Points: 1 # Comments: 0",
+    "author": "ah27182",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=cS1SJ0oBbTI",
+    "id": "news-4569"
+  },
+  {
+    "title": "AGs have instructed OpenAI to keep everything related to the Hugging Face hack",
+    "summary": "Article URL: https://www.businessinsider.com/openai-attorney-general-preserve-hugging-face-evidence-2026-8 Comments URL: https://news.ycombinator.com/item?id=49165733 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.businessinsider.com/openai-attorney-general-preserve-hugging-face-evidence-2026-8 Comments URL: https://news.ycombinator.com/item?id=49165733 Points: 2 # Comments: 0",
+    "author": "theanonymousone",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/openai-attorney-general-preserve-hugging-face-evidence-2026-8",
+    "id": "news-4568"
+  },
+  {
     "title": "I asked GPT 5.6 Sol to build the opening scene to The Matrix using Three.js",
     "summary": "Article URL: https://marksmayo.github.io/matrix/ Comments URL: https://news.ycombinator.com/item?id=49163207 Points: 4 # Comments: 1",
     "content": "Article URL: https://marksmayo.github.io/matrix/ Comments URL: https://news.ycombinator.com/item?id=49163207 Points: 4 # Comments: 1",
