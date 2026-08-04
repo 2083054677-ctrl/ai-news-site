@@ -1,5 +1,70 @@
 [
   {
+    "title": "Am I spreading a mind virus when I help others use Claude?",
+    "summary": "I’ve been thinking about this for a while inspired partly by the point of Sapiens how wheat domesticated humans, and also that show Pluribus, but the other day I helped my elderly father in law learn ",
+    "content": "I’ve been thinking about this for a while inspired partly by the point of Sapiens how wheat domesticated humans, and also that show Pluribus, but the other day I helped my elderly father in law learn to use it and got me wondering… am I now just doing its bidding? It started to feel like I was when I / it started ingesting international datasets for a compliance tracking app I’m building but then something about teaching someone to is it just go me thinking… Comments URL: https://news.ycombinato",
+    "author": "infinite-hugs",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49174796",
+    "id": "news-4588"
+  },
+  {
+    "title": "Stop micromanaging Fable/Claude 5",
+    "summary": "Article URL: https://shumer.dev/how-i-prompt-fable Comments URL: https://news.ycombinator.com/item?id=49174806 Points: 2 # Comments: 0",
+    "content": "Article URL: https://shumer.dev/how-i-prompt-fable Comments URL: https://news.ycombinator.com/item?id=49174806 Points: 2 # Comments: 0",
+    "author": "marciob",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://shumer.dev/how-i-prompt-fable",
+    "id": "news-4587"
+  },
+  {
+    "title": "DuckDuckGo: \"No Camera. No AI. Just Normal Sunglasses.\"",
+    "summary": "Article URL: https://twitter.com/DuckDuckGo/status/2082850280413049311 Comments URL: https://news.ycombinator.com/item?id=49175000 Points: 4 # Comments: 2",
+    "content": "Article URL: https://twitter.com/DuckDuckGo/status/2082850280413049311 Comments URL: https://news.ycombinator.com/item?id=49175000 Points: 4 # Comments: 2",
+    "author": "_Microft",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/DuckDuckGo/status/2082850280413049311",
+    "id": "news-4586"
+  },
+  {
+    "title": "Show HN: Watchfire, an open-source control room for AI coding agents",
+    "summary": "Hey, built watchfire because I wanted a way to run multiple agentsnat the same time without having to click accept permissions. That evolved into a way to do it securely, which then evolved into a spe",
+    "content": "Hey, built watchfire because I wanted a way to run multiple agentsnat the same time without having to click accept permissions. That evolved into a way to do it securely, which then evolved into a spec-based dev approach with tasks. Last addition was to add support to expose watchfire as an mcp server. Would love to get feedback. Comments URL: https://news.ycombinator.com/item?id=49175040 Points: 1 # Comments: 0",
+    "author": "nunocoracao",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/watchfire-io/watchfire",
+    "id": "news-4585"
+  },
+  {
+    "title": "Bypassing AI guardrails is so easy a script kiddie can do it",
+    "summary": "Article URL: https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973 Comments URL: https://news.ycombinator.com/item?id=49175066 Points: 1 ",
+    "content": "Article URL: https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973 Comments URL: https://news.ycombinator.com/item?id=49175066 Points: 1 # Comments: 0",
+    "author": "lschueller",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973",
+    "id": "news-4584"
+  },
+  {
     "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
     "summary": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old. The article Anthropic locks in $10 billion of compute from Volt",
     "content": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old. The article Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago appeared first on The Decoder.",
