@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: AI product evaluation methodoloy at huby",
+    "summary": "There are a number of AI benchmarks but I feel they aren't practical when it comes to evaluating AI products. Several months back we started working on designing a methodology to independently evaluat",
+    "content": "There are a number of AI benchmarks but I feel they aren't practical when it comes to evaluating AI products. Several months back we started working on designing a methodology to independently evaluate AI products. After conducting a good bit of research, we tested the methodology on a few different categories of products and improvised it. If this is an area of interest to you, may I request you to review this methodology and help us with feedback. A quick blurb on the structure of the methodol",
+    "author": "dd-sharma",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49176006",
+    "id": "news-4592"
+  },
+  {
+    "title": "AI stock sell-off slams hedge funds as Whale Rock loses 21.7% in July",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/whale-rock-sank-22-as-ai-selloff-crippled-hedge-fund-returns Comments URL: https://news.ycombinator.com/item?id=49176031 Points: 2 # Com",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/whale-rock-sank-22-as-ai-selloff-crippled-hedge-fund-returns Comments URL: https://news.ycombinator.com/item?id=49176031 Points: 2 # Comments: 0",
+    "author": "mapping365",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-08-04/whale-rock-sank-22-as-ai-selloff-crippled-hedge-fund-returns",
+    "id": "news-4591"
+  },
+  {
+    "title": "KiroCrew – Amazon's AI Harness",
+    "summary": "Article URL: https://kiro.dev/crew/ Comments URL: https://news.ycombinator.com/item?id=49176063 Points: 1 # Comments: 2",
+    "content": "Article URL: https://kiro.dev/crew/ Comments URL: https://news.ycombinator.com/item?id=49176063 Points: 1 # Comments: 2",
+    "author": "ash663",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://kiro.dev/crew/",
+    "id": "news-4590"
+  },
+  {
+    "title": "Stanford Online: CS329A Self-Improving AI Agents",
+    "summary": "Article URL: https://www.youtube.com/playlist?list=PLangBM27OtEA Comments URL: https://news.ycombinator.com/item?id=49176219 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/playlist?list=PLangBM27OtEA Comments URL: https://news.ycombinator.com/item?id=49176219 Points: 3 # Comments: 0",
+    "author": "OutOfHere",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/playlist?list=PLangBM27OtEA",
+    "id": "news-4589"
+  },
+  {
     "title": "Am I spreading a mind virus when I help others use Claude?",
     "summary": "I’ve been thinking about this for a while inspired partly by the point of Sapiens how wheat domesticated humans, and also that show Pluribus, but the other day I helped my elderly father in law learn ",
     "content": "I’ve been thinking about this for a while inspired partly by the point of Sapiens how wheat domesticated humans, and also that show Pluribus, but the other day I helped my elderly father in law learn to use it and got me wondering… am I now just doing its bidding? It started to feel like I was when I / it started ingesting international datasets for a compliance tracking app I’m building but then something about teaching someone to is it just go me thinking… Comments URL: https://news.ycombinato",
