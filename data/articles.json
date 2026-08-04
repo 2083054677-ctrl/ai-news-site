@@ -1,5 +1,97 @@
 [
   {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "summary": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "id": "news-4580"
+  },
+  {
+    "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
+    "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-source AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google",
+    "content": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-source AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback from Silicon Valley, Washington backed off for now, but a decision is expected before Xi Jinping's visit in September. The article Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
+    "id": "news-4579"
+  },
+  {
+    "title": "AI slop pollutes the CVE pipeline with fake vulns",
+    "summary": "Article URL: https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462 Comments URL: https://news.ycombinator.com/item?id=49168899 Points: 1 # Comments:",
+    "content": "Article URL: https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462 Comments URL: https://news.ycombinator.com/item?id=49168899 Points: 1 # Comments: 1",
+    "author": "Bender",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
+    "id": "news-4578"
+  },
+  {
+    "title": "I Phish My AI Agent, and You Should Too",
+    "summary": "Article URL: https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/ Comments URL: https://news.ycombinator.com/item?id=49168900 Points: 1 # Comments: 0",
+    "content": "Article URL: https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/ Comments URL: https://news.ycombinator.com/item?id=49168900 Points: 1 # Comments: 0",
+    "author": "mikle",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/",
+    "id": "news-4577"
+  },
+  {
+    "title": "I measured defect rates across 2,307 AI-generated 3D models",
+    "summary": "Article URL: https://github.com/alza123123/3dqa-benchmark Comments URL: https://news.ycombinator.com/item?id=49168919 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/alza123123/3dqa-benchmark Comments URL: https://news.ycombinator.com/item?id=49168919 Points: 1 # Comments: 0",
+    "author": "soalza116",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/alza123123/3dqa-benchmark",
+    "id": "news-4576"
+  },
+  {
+    "title": "Show HN: Stonefold – a deterministic gateway between AI agents and your systems",
+    "summary": "Article URL: https://stonefold.ai/ Comments URL: https://news.ycombinator.com/item?id=49169158 Points: 1 # Comments: 0",
+    "content": "Article URL: https://stonefold.ai/ Comments URL: https://news.ycombinator.com/item?id=49169158 Points: 1 # Comments: 0",
+    "author": "gabert",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://stonefold.ai/",
+    "id": "news-4575"
+  },
+  {
+    "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+    "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 1 # Comments: 0",
+    "content": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+    "id": "news-4574"
+  },
+  {
     "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
     "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees themselves reaching out ",
     "content": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees themselves reaching out to their former colleague for technical help and internal files after he left the company. The article OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague appeared first on The Decoder.",
