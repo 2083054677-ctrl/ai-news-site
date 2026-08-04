@@ -1,5 +1,44 @@
 [
   {
+    "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+    "summary": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old. The article Anthropic locks in $10 billion of compute from Volt",
+    "content": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old. The article Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
+    "id": "news-4583"
+  },
+  {
+    "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+    "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the ri",
+    "content": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet. The setup leaves roughly $200 billion in contracts dependent on Anthropic's continued growth and ability to make its lease payments. The article Google moves billions in Anthropic chip risk off its balance sheet appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+    "id": "news-4582"
+  },
+  {
+    "title": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
+    "summary": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets f",
+    "content": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets faster. Pulitzer administrator Marjorie Miller said AI remains off-limits for writing and editing stories. The article This year's Pulitzer Prizes saw a record number of winners disclose AI use appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+    "id": "news-4581"
+  },
+  {
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
     "summary": "Deploy local agents everywhere with LFM2.5-2.6B",
     "content": "",
