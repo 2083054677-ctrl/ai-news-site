@@ -1,5 +1,70 @@
 [
   {
+    "title": "I asked GPT 5.6 Sol to build the opening scene to The Matrix using Three.js",
+    "summary": "Article URL: https://marksmayo.github.io/matrix/ Comments URL: https://news.ycombinator.com/item?id=49163207 Points: 4 # Comments: 1",
+    "content": "Article URL: https://marksmayo.github.io/matrix/ Comments URL: https://news.ycombinator.com/item?id=49163207 Points: 4 # Comments: 1",
+    "author": "beatthatflight",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://marksmayo.github.io/matrix/",
+    "id": "news-4567"
+  },
+  {
+    "title": "9router-Python – Python SDK for the 9Router AI gateway (35 models)",
+    "summary": "Article URL: https://github.com/ChristopherDond/9router-python Comments URL: https://news.ycombinator.com/item?id=49163215 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/ChristopherDond/9router-python Comments URL: https://news.ycombinator.com/item?id=49163215 Points: 2 # Comments: 0",
+    "author": "ChristopherDond",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/ChristopherDond/9router-python",
+    "id": "news-4566"
+  },
+  {
+    "title": "How are you operating AI infrastructure in production?",
+    "summary": "There are many open-source projects across inference, orchestration, observability, vector search, data pipelines, evaluation, and model management. Most are relatively easy to test, but production op",
+    "content": "There are many open-source projects across inference, orchestration, observability, vector search, data pipelines, evaluation, and model management. Most are relatively easy to test, but production operation is a different problem.For those running open-source AI infrastructure in production:- What are you running, for what workload, and would you recommend?- Do you operate yourself versus consume as a managed service?- Have you replaced or abandoned any tools because they were too difficult or ",
+    "author": "kkgupta",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49163280",
+    "id": "news-4565"
+  },
+  {
+    "title": "The Next Five Years – Economics of AI – Patrick Collison",
+    "summary": "Article URL: https://next-five-years.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49163332 Points: 2 # Comments: 0",
+    "content": "Article URL: https://next-five-years.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49163332 Points: 2 # Comments: 0",
+    "author": "haritha1313",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://next-five-years.vercel.app/",
+    "id": "news-4564"
+  },
+  {
+    "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+    "summary": "Article URL: https://byocanywhere.org/ Comments URL: https://news.ycombinator.com/item?id=49163459 Points: 2 # Comments: 0",
+    "content": "Article URL: https://byocanywhere.org/ Comments URL: https://news.ycombinator.com/item?id=49163459 Points: 2 # Comments: 0",
+    "author": "kkgupta",
+    "date": "2026-08-04",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://byocanywhere.org/",
+    "id": "news-4563"
+  },
+  {
     "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
     "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of dig",
     "content": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded. The article Interpol says AI has become the \"core operational driver of cybercrime\" across Africa appeared first on The Decoder.",
