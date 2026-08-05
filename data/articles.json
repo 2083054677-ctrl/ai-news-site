@@ -1,5 +1,31 @@
 [
   {
+    "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
+    "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whe",
+    "content": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic predecessor for simple everyday commands will be a real test for Google's AI strategy. The article Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS appeared first on ",
+    "author": "Matthias Bastian",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
+    "id": "news-4619"
+  },
+  {
+    "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+    "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI start",
+    "content": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Google races to close the gap with its top AI rivals. The article Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
+    "id": "news-4618"
+  },
+  {
     "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
     "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in ",
     "content": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system, and the model can run locally. The article Mistral's open model Shieldstral matches much larger safety models at a fraction of the size appeared first on The Decoder.",
