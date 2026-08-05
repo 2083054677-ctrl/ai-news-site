@@ -1,5 +1,18 @@
 [
   {
+    "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
+    "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography dire",
+    "content": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes. BFL's own Elo rankings put it ahead of Gemini Omni Flash and Seedance 2.0. The article Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/",
+    "id": "news-4609"
+  },
+  {
     "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
     "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub projec",
     "content": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people. Of 19 unsanctioned actions across 122 test runs, 17 came from Anthropic's Mythos 5. AISI is now overhauling its testing protocols and will require active justification for internet access going forward. The article An AI agent went rogue dur",
