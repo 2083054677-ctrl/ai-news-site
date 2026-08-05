@@ -1,5 +1,70 @@
 [
   {
+    "title": "Modelregistry: Decentralizing distribution of open-source AI models",
+    "summary": "Article URL: https://github.com/marella/modelregistry Comments URL: https://news.ycombinator.com/item?id=49189794 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/marella/modelregistry Comments URL: https://news.ycombinator.com/item?id=49189794 Points: 1 # Comments: 0",
+    "author": "simonpure",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/marella/modelregistry",
+    "id": "news-4629"
+  },
+  {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49189813 Points: 3 # Comments: 2",
+    "content": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49189813 Points: 3 # Comments: 2",
+    "author": "EffrafaxOfWug",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://annas-archive.gl/blog/physical-destruction.html",
+    "id": "news-4628"
+  },
+  {
+    "title": "How to Improve the AI Frontier",
+    "summary": "Article URL: https://www.chaidhat.com/blog Comments URL: https://news.ycombinator.com/item?id=49189815 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.chaidhat.com/blog Comments URL: https://news.ycombinator.com/item?id=49189815 Points: 1 # Comments: 0",
+    "author": "chaidhat",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.chaidhat.com/blog",
+    "id": "news-4627"
+  },
+  {
+    "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/ Comments URL: https://news.ycombinator.com/item?id=49189848 Points: 3 # Co",
+    "content": "Article URL: https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/ Comments URL: https://news.ycombinator.com/item?id=49189848 Points: 3 # Comments: 1",
+    "author": "tagyro",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/",
+    "id": "news-4626"
+  },
+  {
+    "title": "Private LLM in a TEE, verified against Intel's root with no cloud in the chain",
+    "summary": "Article URL: https://505labs.com/blog/private-llm-inside-a-tee Comments URL: https://news.ycombinator.com/item?id=49189950 Points: 1 # Comments: 0",
+    "content": "Article URL: https://505labs.com/blog/private-llm-inside-a-tee Comments URL: https://news.ycombinator.com/item?id=49189950 Points: 1 # Comments: 0",
+    "author": "galgantar",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://505labs.com/blog/private-llm-inside-a-tee",
+    "id": "news-4625"
+  },
+  {
     "title": "Tcrf.net served Claude a payload telling it to wipe the working directory",
     "summary": "Article URL: https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report Comments URL: https://news.ycombinator.com/item?id=49188588 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report Comments URL: https://news.ycombinator.com/item?id=49188588 Points: 1 # Comments: 1",
