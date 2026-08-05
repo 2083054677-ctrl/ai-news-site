@@ -1,5 +1,70 @@
 [
   {
+    "title": "Tcrf.net served Claude a payload telling it to wipe the working directory",
+    "summary": "Article URL: https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report Comments URL: https://news.ycombinator.com/item?id=49188588 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report Comments URL: https://news.ycombinator.com/item?id=49188588 Points: 1 # Comments: 1",
+    "author": "BashAlarmist",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report",
+    "id": "news-4624"
+  },
+  {
+    "title": "AI-Focused Altimeter Sinks 11%, Joins Funds Hit by Brutal July",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-05/balyasny-verition-join-hedge-funds-losing-money-in-brutal-july Comments URL: https://news.ycombinator.com/item?id=49188714 Points: 1 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-05/balyasny-verition-join-hedge-funds-losing-money-in-brutal-july Comments URL: https://news.ycombinator.com/item?id=49188714 Points: 1 # Comments: 0",
+    "author": "mapping365",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-08-05/balyasny-verition-join-hedge-funds-losing-money-in-brutal-july",
+    "id": "news-4623"
+  },
+  {
+    "title": "AgentGuard – fail-closed approval gateway for AI agent tool calls",
+    "summary": "Article URL: https://github.com/moon2022alakhali-commits/agentguard Comments URL: https://news.ycombinator.com/item?id=49188739 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/moon2022alakhali-commits/agentguard Comments URL: https://news.ycombinator.com/item?id=49188739 Points: 1 # Comments: 0",
+    "author": "yhouseff_dev",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/moon2022alakhali-commits/agentguard",
+    "id": "news-4622"
+  },
+  {
+    "title": "Hank Green found the AI problem that YouTube labels can't catch",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/ Comments URL: https://news.ycombinator.com/item?id=49188880 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/ Comments URL: https://news.ycombinator.com/item?id=49188880 Points: 1 # Comments: 0",
+    "author": "CharlesW",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "id": "news-4621"
+  },
+  {
+    "title": "When online commenters detect my art as AI",
+    "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 1 # Comments: 0",
+    "author": "Jare",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+    "id": "news-4620"
+  },
+  {
     "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
     "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whe",
     "content": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic predecessor for simple everyday commands will be a real test for Google's AI strategy. The article Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS appeared first on ",
