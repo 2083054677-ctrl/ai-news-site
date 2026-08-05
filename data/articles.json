@@ -1,5 +1,31 @@
 [
   {
+    "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+    "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub projec",
+    "content": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people. Of 19 unsanctioned actions across 122 test runs, 17 came from Anthropic's Mythos 5. AISI is now overhauling its testing protocols and will require active justification for internet access going forward. The article An AI agent went rogue dur",
+    "author": "Matthias Bastian",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
+    "id": "news-4608"
+  },
+  {
+    "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+    "summary": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup. It's the first federal appeals court decis",
+    "content": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup. It's the first federal appeals court decision on whether AI agents can lawfully act on online platforms on behalf of users, and it could reshape the entire AI agent industry. The article US appeals court allows Perplexity's AI shopping agent back on Amazon appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/",
+    "id": "news-4607"
+  },
+  {
     "title": "The Attack Was Authorized: The Missing Security Boundary for AI Agents",
     "summary": "Article URL: https://blog.iluxav.com/the-attack-was-authorized-the-missing-security-boundary-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49179740 Points: 2 # Comments: 0",
     "content": "Article URL: https://blog.iluxav.com/the-attack-was-authorized-the-missing-security-boundary-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49179740 Points: 2 # Comments: 0",
