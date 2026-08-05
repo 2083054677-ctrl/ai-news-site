@@ -1,5 +1,83 @@
 [
   {
+    "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
+    "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in ",
+    "content": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system, and the model can run locally. The article Mistral's open model Shieldstral matches much larger safety models at a fraction of the size appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
+    "id": "news-4617"
+  },
+  {
+    "title": "Jensen Says No AI Bubble 'Incredibly Profitable' 'Happy to Pay'",
+    "summary": "Article URL: https://www.barchart.com/story/news/3665107/nvidias-jensen-huang-says-theres-no-ai-bubble-because-ai-is-incredibly-profitable-and-hes-happy-to-pay-hundreds-of-millions-of-dollars-for-ai C",
+    "content": "Article URL: https://www.barchart.com/story/news/3665107/nvidias-jensen-huang-says-theres-no-ai-bubble-because-ai-is-incredibly-profitable-and-hes-happy-to-pay-hundreds-of-millions-of-dollars-for-ai Comments URL: https://news.ycombinator.com/item?id=49185752 Points: 2 # Comments: 0",
+    "author": "mapping365",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.barchart.com/story/news/3665107/nvidias-jensen-huang-says-theres-no-ai-bubble-because-ai-is-incredibly-profitable-and-hes-happy-to-pay-hundreds-of-millions-of-dollars-for-ai",
+    "id": "news-4616"
+  },
+  {
+    "title": "Interlock: A runtime firewall for AI agents that assumes injection won",
+    "summary": "Article URL: https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/ Comments URL: https://news.ycombinator.com/item?id=49185796 Points: 2 # Comments: 0",
+    "content": "Article URL: https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/ Comments URL: https://news.ycombinator.com/item?id=49185796 Points: 2 # Comments: 0",
+    "author": "yxshwanthreddy",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/",
+    "id": "news-4615"
+  },
+  {
+    "title": "Show HN: LingoForge – AI-powered IELTS writing with instant feedback",
+    "summary": "Article URL: https://lingoforge.net/en/start Comments URL: https://news.ycombinator.com/item?id=49185860 Points: 1 # Comments: 0",
+    "content": "Article URL: https://lingoforge.net/en/start Comments URL: https://news.ycombinator.com/item?id=49185860 Points: 1 # Comments: 0",
+    "author": "chenillen",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lingoforge.net/en/start",
+    "id": "news-4614"
+  },
+  {
+    "title": "AI is a bubble, just like dot-com",
+    "summary": "Article URL: https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html Comments URL: https://news.ycombinator.com/item?id=49185880 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html Comments URL: https://news.ycombinator.com/item?id=49185880 Points: 2 # Comments: 0",
+    "author": "potetm",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html",
+    "id": "news-4613"
+  },
+  {
+    "title": "Ask HN: What would make you list your AI product on a new marketplace?",
+    "summary": "Right now the AI tool that wins is the one with the biggest marketing budget and hype, not the one that works best.We want a marketplace where sellers have to show proof, so buyers can tell the differ",
+    "content": "Right now the AI tool that wins is the one with the biggest marketing budget and hype, not the one that works best.We want a marketplace where sellers have to show proof, so buyers can tell the difference before they pay. We are trying to bring proof and quality to the AI market.We are building it now. It is not open yet, and before we go further we want to know what would actually make someone list on it.If you sell an AI tool: what has gone wrong for you on existing marketplaces and directorie",
+    "author": "Achrima",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49185927",
+    "id": "news-4612"
+  },
+  {
     "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
     "summary": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs. Meanwhile, the comp",
     "content": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs. Meanwhile, the company's AI segment posted $2.56 billion in Q2 revenue, driven mostly by leasing out its own server capacity. The article SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs appeared first on The Decoder.",
