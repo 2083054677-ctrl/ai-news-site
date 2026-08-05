@@ -1,5 +1,31 @@
 [
   {
+    "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
+    "summary": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs. Meanwhile, the comp",
+    "content": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs. Meanwhile, the company's AI segment posted $2.56 billion in Q2 revenue, driven mostly by leasing out its own server capacity. The article SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/",
+    "id": "news-4611"
+  },
+  {
+    "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater",
+    "summary": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields such as marketing and management, but AI",
+    "content": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields such as marketing and management, but AI-related listings are rising fast. Indeed calls it a \"two-speed labor market.\" The article UK's job market is splitting in two as AI demand surges while knowledge work postings crater appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-05",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/",
+    "id": "news-4610"
+  },
+  {
     "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
     "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography dire",
     "content": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes. BFL's own Elo rankings put it ahead of Gemini Omni Flash and Seedance 2.0. The article Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0 appeared first on The Decoder.",
