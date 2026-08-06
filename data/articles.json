@@ -1,5 +1,110 @@
 [
   {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "summary": "Baseten on Hugging Face Inference Providers 🔥",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/baseten",
+    "id": "news-4653"
+  },
+  {
+    "title": "The company that made open weights mainstream now competes on discounts",
+    "summary": "Meta released Muse Spark 1.2 along with its own coding agent, Muse Code, which is designed to pick up exactly where it left off after a crash. The cheapest tier runs just 20 cents per million output t",
+    "content": "Meta released Muse Spark 1.2 along with its own coding agent, Muse Code, which is designed to pick up exactly where it left off after a crash. The cheapest tier runs just 20 cents per million output tokens but requires users to share their data for training. Meta is competing on price, not top-end performance. And there's a glaring gap in the benchmarks. The article The company that made open weights mainstream now competes on discounts appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/",
+    "id": "news-4652"
+  },
+  {
+    "title": "Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less",
+    "summary": "Alibaba's Qwen3.8 Max scores 56 on the Artificial Analysis Intelligence Index, a 10-point jump over Qwen3.7 Max (46). The article Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher fo",
+    "content": "Alibaba's Qwen3.8 Max scores 56 on the Artificial Analysis Intelligence Index, a 10-point jump over Qwen3.7 Max (46). The article Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/qwen3-8-max-catches-claude-opus-4-8-but-kimi-k3-still-scores-higher-for-25-percent-less/",
+    "id": "news-4651"
+  },
+  {
+    "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html Comments URL: https://news.ycombinator.com/item?id=49196446 Points: 2 # Comments: 1",
+    "content": "Article URL: https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html Comments URL: https://news.ycombinator.com/item?id=49196446 Points: 2 # Comments: 1",
+    "author": "maxloh",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html",
+    "id": "news-4650"
+  },
+  {
+    "title": "Ask HN: Why don't we grade AI agents like hadith scholars graded narrators?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49196496 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=49196496 Points: 1 # Comments: 0",
+    "author": "alizahidraja",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49196496",
+    "id": "news-4649"
+  },
+  {
+    "title": "AI generated over 95% of China's new microdramas in Q1 2026",
+    "summary": "Article URL: https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191 Comments URL: https://news.ycombinator.com/item?id=49196596 Points: 4 # Comments: 3",
+    "content": "Article URL: https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191 Comments URL: https://news.ycombinator.com/item?id=49196596 Points: 4 # Comments: 3",
+    "author": "qikouki",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
+    "id": "news-4648"
+  },
+  {
+    "title": "AI Agents Think and Act: ReAct in 2 Minutes",
+    "summary": "Article URL: https://vinithavn.substack.com/p/how-ai-agents-think-and-act-react Comments URL: https://news.ycombinator.com/item?id=49196698 Points: 2 # Comments: 0",
+    "content": "Article URL: https://vinithavn.substack.com/p/how-ai-agents-think-and-act-react Comments URL: https://news.ycombinator.com/item?id=49196698 Points: 2 # Comments: 0",
+    "author": "vinithavn01",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vinithavn.substack.com/p/how-ai-agents-think-and-act-react",
+    "id": "news-4647"
+  },
+  {
+    "title": "A model-agnostic AI coding harness that puts unskippable gates into Git",
+    "summary": "Article URL: https://github.com/beausee/coniunctio-intelligentiarum Comments URL: https://news.ycombinator.com/item?id=49196878 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/beausee/coniunctio-intelligentiarum Comments URL: https://news.ycombinator.com/item?id=49196878 Points: 1 # Comments: 0",
+    "author": "beausee",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/beausee/coniunctio-intelligentiarum",
+    "id": "news-4646"
+  },
+  {
     "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
     "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face h",
     "content": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\" The article OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets appeared first on The Decoder.",
