@@ -1,5 +1,70 @@
 [
   {
+    "title": "Ask HN: Anyone's Claude Code session finishing quickly from yesterday?",
+    "summary": "Hello, From yesterday my 5 hour limit is finishing way too quickly in my 100$ claude code plan. Not sure why that's happening, I also have the clau.de/cc-50-promo promo enabled. I noticed this started",
+    "content": "Hello, From yesterday my 5 hour limit is finishing way too quickly in my 100$ claude code plan. Not sure why that's happening, I also have the clau.de/cc-50-promo promo enabled. I noticed this started happening after this incident: https://status.claude.com/incidents/mgp99sn4ynd4 Comments URL: https://news.ycombinator.com/item?id=49193794 Points: 1 # Comments: 3",
+    "author": "fuadnafiz98",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49193794",
+    "id": "news-4638"
+  },
+  {
+    "title": "Nobody Asked for AI",
+    "summary": "Article URL: https://jacobin.com/2026/08/ai-llms-monopoly-bubble-capital Comments URL: https://news.ycombinator.com/item?id=49193895 Points: 1 # Comments: 0",
+    "content": "Article URL: https://jacobin.com/2026/08/ai-llms-monopoly-bubble-capital Comments URL: https://news.ycombinator.com/item?id=49193895 Points: 1 # Comments: 0",
+    "author": "thunderbong",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jacobin.com/2026/08/ai-llms-monopoly-bubble-capital",
+    "id": "news-4637"
+  },
+  {
+    "title": "AI",
+    "summary": "Article URL: https://logicandlore-236.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49193903 Points: 1 # Comments: 1",
+    "content": "Article URL: https://logicandlore-236.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49193903 Points: 1 # Comments: 1",
+    "author": "naccis",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://logicandlore-236.pages.dev/",
+    "id": "news-4636"
+  },
+  {
+    "title": "Jeff Dean: The 1% Rule for Building in AI",
+    "summary": "Article URL: https://www.ycombinator.com/library/Vy-jeff-dean-the-1-rule-for-building-in-ai Comments URL: https://news.ycombinator.com/item?id=49193907 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ycombinator.com/library/Vy-jeff-dean-the-1-rule-for-building-in-ai Comments URL: https://news.ycombinator.com/item?id=49193907 Points: 1 # Comments: 0",
+    "author": "immighelper",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ycombinator.com/library/Vy-jeff-dean-the-1-rule-for-building-in-ai",
+    "id": "news-4635"
+  },
+  {
+    "title": "Reddit is introducing new moderator:AI, also planning big changes for old Reddit",
+    "summary": "Article URL: https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform Comments URL: https://news.ycombinator.com/item?id=49193981 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform Comments URL: https://news.ycombinator.com/item?id=49193981 Points: 1 # Comments: 0",
+    "author": "Markoff",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "id": "news-4634"
+  },
+  {
     "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
     "summary": "Article URL: https://github.com/pradipta/wallfacer Comments URL: https://news.ycombinator.com/item?id=49192219 Points: 3 # Comments: 1",
     "content": "Article URL: https://github.com/pradipta/wallfacer Comments URL: https://news.ycombinator.com/item?id=49192219 Points: 3 # Comments: 1",
