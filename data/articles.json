@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+    "summary": "Article URL: https://github.com/pradipta/wallfacer Comments URL: https://news.ycombinator.com/item?id=49192219 Points: 3 # Comments: 1",
+    "content": "Article URL: https://github.com/pradipta/wallfacer Comments URL: https://news.ycombinator.com/item?id=49192219 Points: 3 # Comments: 1",
+    "author": "pradiptasarma",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/pradipta/wallfacer",
+    "id": "news-4633"
+  },
+  {
+    "title": "AI Agents Think and Act",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49192499 Points: 2 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=49192499 Points: 2 # Comments: 0",
+    "author": "vinithavn01",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49192499",
+    "id": "news-4632"
+  },
+  {
+    "title": "Why AI agents are not more popular outside the tech industry",
+    "summary": "Article URL: https://betocmn.com/blog/why-ai-agents-are-not-more-popular-outside-the-tech-industry/ Comments URL: https://news.ycombinator.com/item?id=49192517 Points: 1 # Comments: 0",
+    "content": "Article URL: https://betocmn.com/blog/why-ai-agents-are-not-more-popular-outside-the-tech-industry/ Comments URL: https://news.ycombinator.com/item?id=49192517 Points: 1 # Comments: 0",
+    "author": "thedreammachine",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://betocmn.com/blog/why-ai-agents-are-not-more-popular-outside-the-tech-industry/",
+    "id": "news-4631"
+  },
+  {
+    "title": "How to Build an LLM-Powered Database Query Bot for Your Web App in 1 Day",
+    "summary": "Article URL: https://www.semicolonandsons.com/articles/how-to-build-an-llm-powered-database-query-bot-for-web-apps-quickly Comments URL: https://news.ycombinator.com/item?id=49192627 Points: 1 # Comme",
+    "content": "Article URL: https://www.semicolonandsons.com/articles/how-to-build-an-llm-powered-database-query-bot-for-web-apps-quickly Comments URL: https://news.ycombinator.com/item?id=49192627 Points: 1 # Comments: 0",
+    "author": "shantanuo",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.semicolonandsons.com/articles/how-to-build-an-llm-powered-database-query-bot-for-web-apps-quickly",
+    "id": "news-4630"
+  },
+  {
     "title": "Modelregistry: Decentralizing distribution of open-source AI models",
     "summary": "Article URL: https://github.com/marella/modelregistry Comments URL: https://news.ycombinator.com/item?id=49189794 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/marella/modelregistry Comments URL: https://news.ycombinator.com/item?id=49189794 Points: 1 # Comments: 0",
