@@ -1,5 +1,57 @@
 [
   {
+    "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
+    "summary": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, w",
+    "content": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output tokens. The choice of framework is mainly a question of price and speed. The article Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/",
+    "id": "news-4657"
+  },
+  {
+    "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+    "summary": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy relianc",
+    "content": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing open-weight models and pushing back against proprietary isolation. The article Microsoft's AI revenue reportedly depends on OpenAI for 70 percent appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
+    "id": "news-4656"
+  },
+  {
+    "title": "Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy",
+    "summary": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year, as he sees himself more as a scientist than a manager. Researchers are also complaining a",
+    "content": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year, as he sees himself more as a scientist than a manager. Researchers are also complaining about limited access to Google’s own TPU chips, while external customers like Anthropic can purchase the same hardware through Google Cloud. The article Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/",
+    "id": "news-4655"
+  },
+  {
+    "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+    "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 ",
+    "content": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the smaller model still falls well short of its bigger siblings. The article OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+    "id": "news-4654"
+  },
+  {
     "title": "Baseten on Hugging Face Inference Providers 🔥",
     "summary": "Baseten on Hugging Face Inference Providers 🔥",
     "content": "",
