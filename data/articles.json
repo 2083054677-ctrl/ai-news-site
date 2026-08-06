@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
+    "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face h",
+    "content": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\" The article OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/",
+    "id": "news-4645"
+  },
+  {
+    "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+    "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like H",
+    "content": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using directory names. OpenAI researcher Boaz Barak says, \"We (like everyone else) are not where we want and need to be.\" The article OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetec",
+    "author": "Matthias Bastian",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
+    "id": "news-4644"
+  },
+  {
+    "title": "We Built Our Website with Claude Code with no Human interaction",
+    "summary": "Article URL: https://soamee.com/en/blog/en-we-built-website-with-claude-code Comments URL: https://news.ycombinator.com/item?id=49195080 Points: 3 # Comments: 0",
+    "content": "Article URL: https://soamee.com/en/blog/en-we-built-website-with-claude-code Comments URL: https://news.ycombinator.com/item?id=49195080 Points: 3 # Comments: 0",
+    "author": "javiermanzano",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://soamee.com/en/blog/en-we-built-website-with-claude-code",
+    "id": "news-4643"
+  },
+  {
+    "title": "AI Financial Advice: Supply, Demand, and Life Cycle Implications",
+    "summary": "Article URL: https://tahachoukhmane.com/wp-content/uploads/2026/03/CdSLA-2026-AI-Financial-Advice.pdf[pdf] Comments URL: https://news.ycombinator.com/item?id=49195109 Points: 3 # Comments: 0",
+    "content": "Article URL: https://tahachoukhmane.com/wp-content/uploads/2026/03/CdSLA-2026-AI-Financial-Advice.pdf[pdf] Comments URL: https://news.ycombinator.com/item?id=49195109 Points: 3 # Comments: 0",
+    "author": "akbarnama",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tahachoukhmane.com/wp-content/uploads/2026/03/CdSLA-2026-AI-Financial-Advice.pdf[pdf]",
+    "id": "news-4642"
+  },
+  {
+    "title": "Show HN: Juju-chu A book on Jujutsu (jj) and AI coding agent",
+    "summary": "Article URL: https://juju-chu.com/ Comments URL: https://news.ycombinator.com/item?id=49195269 Points: 1 # Comments: 0",
+    "content": "Article URL: https://juju-chu.com/ Comments URL: https://news.ycombinator.com/item?id=49195269 Points: 1 # Comments: 0",
+    "author": "oukayuka",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://juju-chu.com/",
+    "id": "news-4641"
+  },
+  {
+    "title": "Show HN: AI Agents 101 – an offline iOS app that labels every demo REAL or MOCK",
+    "summary": "Article URL: https://apps.apple.com/us/app/ai-agents-101/id6792491701 Comments URL: https://news.ycombinator.com/item?id=49195365 Points: 1 # Comments: 0",
+    "content": "Article URL: https://apps.apple.com/us/app/ai-agents-101/id6792491701 Comments URL: https://news.ycombinator.com/item?id=49195365 Points: 1 # Comments: 0",
+    "author": "cengizoger",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.apple.com/us/app/ai-agents-101/id6792491701",
+    "id": "news-4640"
+  },
+  {
+    "title": "GitHub – AI book writing tools (curated list)",
+    "summary": "Article URL: https://github.com/finxter/awesome-ai-book-writing Comments URL: https://news.ycombinator.com/item?id=49195388 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/finxter/awesome-ai-book-writing Comments URL: https://news.ycombinator.com/item?id=49195388 Points: 1 # Comments: 0",
+    "author": "zweig2",
+    "date": "2026-08-06",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/finxter/awesome-ai-book-writing",
+    "id": "news-4639"
+  },
+  {
     "title": "Ask HN: Anyone's Claude Code session finishing quickly from yesterday?",
     "summary": "Hello, From yesterday my 5 hour limit is finishing way too quickly in my 100$ claude code plan. Not sure why that's happening, I also have the clau.de/cc-50-promo promo enabled. I noticed this started",
     "content": "Hello, From yesterday my 5 hour limit is finishing way too quickly in my 100$ claude code plan. Not sure why that's happening, I also have the clau.de/cc-50-promo promo enabled. I noticed this started happening after this incident: https://status.claude.com/incidents/mgp99sn4ynd4 Comments URL: https://news.ycombinator.com/item?id=49193794 Points: 1 # Comments: 3",
