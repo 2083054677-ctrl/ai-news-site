@@ -1,5 +1,70 @@
 [
   {
+    "title": "Built an exclusion engine and it might be what comes after AI slop",
+    "summary": "Article URL: https://uncoverroads.com/ Comments URL: https://news.ycombinator.com/item?id=49205270 Points: 1 # Comments: 0",
+    "content": "Article URL: https://uncoverroads.com/ Comments URL: https://news.ycombinator.com/item?id=49205270 Points: 1 # Comments: 0",
+    "author": "sourav_biswas",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://uncoverroads.com/",
+    "id": "news-4666"
+  },
+  {
+    "title": "OpenEdit – Claude Code can now edit videos (Open Source)",
+    "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49205668 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49205668 Points: 2 # Comments: 0",
+    "author": "byamja",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/veedstudio/open-edit",
+    "id": "news-4665"
+  },
+  {
+    "title": "Cloudflare OS – Build the AI operating system for your company",
+    "summary": "Article URL: https://os.cloudflare.app Comments URL: https://news.ycombinator.com/item?id=49206009 Points: 1 # Comments: 0",
+    "content": "Article URL: https://os.cloudflare.app Comments URL: https://news.ycombinator.com/item?id=49206009 Points: 1 # Comments: 0",
+    "author": "ms7892",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://os.cloudflare.app",
+    "id": "news-4664"
+  },
+  {
+    "title": "Proving you are AI, not just automated",
+    "summary": "Article URL: https://blix.town/proof-of-agent Comments URL: https://news.ycombinator.com/item?id=49206102 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blix.town/proof-of-agent Comments URL: https://news.ycombinator.com/item?id=49206102 Points: 1 # Comments: 0",
+    "author": "positronico",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blix.town/proof-of-agent",
+    "id": "news-4663"
+  },
+  {
+    "title": "AI-generated vulnerability patches still require expert human review",
+    "summary": "Article URL: https://1password.com/blog/why-ai-generated-patches-still-require-human-review Comments URL: https://news.ycombinator.com/item?id=49206189 Points: 1 # Comments: 0",
+    "content": "Article URL: https://1password.com/blog/why-ai-generated-patches-still-require-human-review Comments URL: https://news.ycombinator.com/item?id=49206189 Points: 1 # Comments: 0",
+    "author": "jmmv",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
+    "id": "news-4662"
+  },
+  {
     "title": "How Goldman Sachs Is Using Agentic AI for Software Engineering at Scale",
     "summary": "Article URL: https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/ Comments URL: https://news.ycombinator.com/item?id=49205062 Po",
     "content": "Article URL: https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/ Comments URL: https://news.ycombinator.com/item?id=49205062 Points: 2 # Comments: 0",
