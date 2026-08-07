@@ -1,5 +1,18 @@
 [
   {
+    "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+    "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's dev",
+    "content": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused. The move follows recently disclosed incidents in which autonomous AI agents infiltrated OpenAI's own infrastructure undetected for weeks. The article OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time appeared f",
+    "author": "Matthias Bastian",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+    "id": "news-4696"
+  },
+  {
     "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
     "summary": "TutorMoments: Do AI tutors know when to help and when to hold back?",
     "content": "",
