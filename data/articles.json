@@ -1,5 +1,83 @@
 [
   {
+    "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
+    "summary": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manife",
+    "content": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers. The article Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/",
+    "id": "news-4677"
+  },
+  {
+    "title": "Anthropic AI Mandatory Employee Stock Trading Plans for IPO – This Will Not Go W [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=zi9LsoKISEc Comments URL: https://news.ycombinator.com/item?id=49208115 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=zi9LsoKISEc Comments URL: https://news.ycombinator.com/item?id=49208115 Points: 1 # Comments: 0",
+    "author": "xbmcuser",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=zi9LsoKISEc",
+    "id": "news-4676"
+  },
+  {
+    "title": "Building an LLM Agent to Play Dwarf Fortress",
+    "summary": "Article URL: https://blog.trine.dev/posts/2026-02-28-df-ai-exp/ Comments URL: https://news.ycombinator.com/item?id=49208128 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.trine.dev/posts/2026-02-28-df-ai-exp/ Comments URL: https://news.ycombinator.com/item?id=49208128 Points: 1 # Comments: 0",
+    "author": "totetsu",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.trine.dev/posts/2026-02-28-df-ai-exp/",
+    "id": "news-4675"
+  },
+  {
+    "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+    "summary": "Article URL: https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/ Comments URL: https://news.ycombinator.com/item?id=49208185 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/ Comments URL: https://news.ycombinator.com/item?id=49208185 Points: 2 # Comments: 0",
+    "author": "WithinReason",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+    "id": "news-4674"
+  },
+  {
+    "title": "Ask HN: What observability stack are you using for AI agents in production?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49208209 Points: 2 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=49208209 Points: 2 # Comments: 0",
+    "author": "varda_62892",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49208209",
+    "id": "news-4673"
+  },
+  {
+    "title": "AI danger explained for people who don't understand full sentences",
+    "summary": "Article URL: https://www.reddit.com/r/OpenAI/s/ASRcUl35lX Comments URL: https://news.ycombinator.com/item?id=49208245 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.reddit.com/r/OpenAI/s/ASRcUl35lX Comments URL: https://news.ycombinator.com/item?id=49208245 Points: 1 # Comments: 1",
+    "author": "nemo_captain",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reddit.com/r/OpenAI/s/ASRcUl35lX",
+    "id": "news-4672"
+  },
+  {
     "title": "I'm leaving OpenAI to build Jurassic Park",
     "summary": "Article URL: https://taylor.town/leaving-openai Comments URL: https://news.ycombinator.com/item?id=49206534 Points: 4 # Comments: 2",
     "content": "Article URL: https://taylor.town/leaving-openai Comments URL: https://news.ycombinator.com/item?id=49206534 Points: 4 # Comments: 2",
