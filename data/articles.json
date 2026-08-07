@@ -1,5 +1,70 @@
 [
   {
+    "title": "From unchecked AI spend to complete control: How Rippling built AI Spend Console",
+    "summary": "Article URL: https://www.rippling.com/blog/introducing-ai-spend-console Comments URL: https://news.ycombinator.com/item?id=49216580 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.rippling.com/blog/introducing-ai-spend-console Comments URL: https://news.ycombinator.com/item?id=49216580 Points: 1 # Comments: 0",
+    "author": "jaredwiener",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.rippling.com/blog/introducing-ai-spend-console",
+    "id": "news-4701"
+  },
+  {
+    "title": "Tyler Cowen: You'll Learn to Love AI Writing",
+    "summary": "Article URL: https://www.thefp.com/p/tyler-cowen-youll-learn-to-love-ai-writing Comments URL: https://news.ycombinator.com/item?id=49216584 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.thefp.com/p/tyler-cowen-youll-learn-to-love-ai-writing Comments URL: https://news.ycombinator.com/item?id=49216584 Points: 1 # Comments: 0",
+    "author": "gwintrob",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.thefp.com/p/tyler-cowen-youll-learn-to-love-ai-writing",
+    "id": "news-4700"
+  },
+  {
+    "title": "If AI Is Taking Jobs, Your HR People May Be First to Go",
+    "summary": "Article URL: https://news.bloomberglaw.com/daily-labor-report/if-ai-is-really-taking-jobs-your-hr-people-may-be-first-to-go Comments URL: https://news.ycombinator.com/item?id=49216701 Points: 2 # Comm",
+    "content": "Article URL: https://news.bloomberglaw.com/daily-labor-report/if-ai-is-really-taking-jobs-your-hr-people-may-be-first-to-go Comments URL: https://news.ycombinator.com/item?id=49216701 Points: 2 # Comments: 0",
+    "author": "johnbarron",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.bloomberglaw.com/daily-labor-report/if-ai-is-really-taking-jobs-your-hr-people-may-be-first-to-go",
+    "id": "news-4699"
+  },
+  {
+    "title": "Formalizing Semantic Thermodynamics: How narrative gravity prunes LLM inference",
+    "summary": "Article URL: https://github.com/tauansloboda/semantic-thermodynamics Comments URL: https://news.ycombinator.com/item?id=49216790 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/tauansloboda/semantic-thermodynamics Comments URL: https://news.ycombinator.com/item?id=49216790 Points: 1 # Comments: 0",
+    "author": "tauanvinicius",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tauansloboda/semantic-thermodynamics",
+    "id": "news-4698"
+  },
+  {
+    "title": "Cowchat – Let Claude, Codex, and other agents talk to each other locally",
+    "summary": "Article URL: https://cowchat.cowboy.inc/ Comments URL: https://news.ycombinator.com/item?id=49216941 Points: 1 # Comments: 0",
+    "content": "Article URL: https://cowchat.cowboy.inc/ Comments URL: https://news.ycombinator.com/item?id=49216941 Points: 1 # Comments: 0",
+    "author": "ryanlchan",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cowchat.cowboy.inc/",
+    "id": "news-4697"
+  },
+  {
     "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
     "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's dev",
     "content": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused. The move follows recently disclosed incidents in which autonomous AI agents infiltrated OpenAI's own infrastructure undetected for weeks. The article OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time appeared f",
