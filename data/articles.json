@@ -1,5 +1,71 @@
 [
   {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "summary": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/tutormoments",
+    "id": "news-4695"
+  },
+  {
+    "title": "OpenAI's first smart speaker is expected in 2027 at over $300",
+    "summary": "OpenAI is planning a donut-shaped smart speaker for 2027, priced above $300. The screenless device has a camera, microphones, and moving parts. It's designed to learn from conversations and adapt to u",
+    "content": "OpenAI is planning a donut-shaped smart speaker for 2027, priced above $300. The screenless device has a camera, microphones, and moving parts. It's designed to learn from conversations and adapt to users, fitting Sam Altman's \"Her\" vision. The article OpenAI's first smart speaker is expected in 2027 at over $300 appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/",
+    "id": "news-4694"
+  },
+  {
+    "title": "Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology",
+    "summary": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5. The",
+    "content": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5. The restrictions stay in place for sensitive dual-use topics like virology and toxicology. The article Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/",
+    "id": "news-4693"
+  },
+  {
+    "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
+    "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 t",
+    "content": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B. Google is reportedly working on a similar approach for Gemini. The article AMD acquires Taalas, a startup that bakes AI models directly into silicon appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
+    "id": "news-4692"
+  },
+  {
+    "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
+    "summary": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit. The company also faces pressure from a Ger",
+    "content": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit. The company also faces pressure from a German copyright ruling and an admission by one of its investors that AI music competes directly with human artists. The article AI music generator Suno tightens rules to fight spam and address growing copyright concerns appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/",
+    "id": "news-4691"
+  },
+  {
     "title": "Show HN: Hirenewtalent.ai – Hire offshore in minutes via API",
     "summary": "hi everyone. My name is Jai.I own one of the largest driving schools in the Bay Area (and California!), and while trying to hire offshore staff, I discovered just how hard it is.IT'S (surprisingly) WA",
     "content": "hi everyone. My name is Jai.I own one of the largest driving schools in the Bay Area (and California!), and while trying to hire offshore staff, I discovered just how hard it is.IT'S (surprisingly) WAY TOO HARD!!My best friend Alex and I realized that throughout our careers in F500 companies, startups of every stage, and small businesses that we ran into this problem many times over.You pretty much have 3 choices:1) you go to an agency and pay upwards of $3k+ a month for a resource that should c",
