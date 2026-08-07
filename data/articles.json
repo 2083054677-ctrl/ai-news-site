@@ -1,5 +1,70 @@
 [
   {
+    "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me",
+    "summary": "Article URL: https://www.reddit.com/r/claude/comments/1vhlzdm/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/ Comments URL: https://news.ycombinator.com/item?id=49209287 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.reddit.com/r/claude/comments/1vhlzdm/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/ Comments URL: https://news.ycombinator.com/item?id=49209287 Points: 2 # Comments: 0",
+    "author": "thunderbong",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reddit.com/r/claude/comments/1vhlzdm/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
+    "id": "news-4682"
+  },
+  {
+    "title": "Show HN: I used LLM to reverse-engineer secure-enclaved fingerprint scanner",
+    "summary": "I own a Xiaomi Mi Pad 5 Pro 5G Android tablet, which is also pretty-much a perfect Linux tablet: has 5G support, great screen, nice folio keyboard, 8 speakers, a pen, is lightweight and relatively pow",
+    "content": "I own a Xiaomi Mi Pad 5 Pro 5G Android tablet, which is also pretty-much a perfect Linux tablet: has 5G support, great screen, nice folio keyboard, 8 speakers, a pen, is lightweight and relatively powerful. All of its hardware is supported at this point, although not all has been mainlined yet.It also features a Goodix SPI fingerprint scanner, except it is implemented using an app living in Qualcomm's QSEE secure enclave which handles the scanner, and which Android communicates with using a HAL ",
+    "author": "wrobelda",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/wrobelda/goodix-fp-spi-linux",
+    "id": "news-4681"
+  },
+  {
+    "title": "Things I Think I Think About AI (2026 Edition)",
+    "summary": "Article URL: https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition Comments URL: https://news.ycombinator.com/item?id=49209458 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition Comments URL: https://news.ycombinator.com/item?id=49209458 Points: 1 # Comments: 0",
+    "author": "topherjaynes",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition",
+    "id": "news-4680"
+  },
+  {
+    "title": "Metadata for AI Generated Outputs",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/ Comments URL: https://news.ycombinator.com/item?id=49209466 Points: 1 # Comments: 0",
+    "content": "Article URL: https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/ Comments URL: https://news.ycombinator.com/item?id=49209466 Points: 1 # Comments: 0",
+    "author": "ajdude",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/",
+    "id": "news-4679"
+  },
+  {
+    "title": "Facing AI 'Apocalypse,' Once-Hot Software Companies Race to Reinvent Themselves",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99 Comments URL: https://news.ycombinator.com/item?id=49209503 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99 Comments URL: https://news.ycombinator.com/item?id=49209503 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99",
+    "id": "news-4678"
+  },
+  {
     "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
     "summary": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manife",
     "content": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers. The article Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins appeared first on The Decoder.",
