@@ -1,5 +1,57 @@
 [
   {
+    "title": "How Goldman Sachs Is Using Agentic AI for Software Engineering at Scale",
+    "summary": "Article URL: https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/ Comments URL: https://news.ycombinator.com/item?id=49205062 Po",
+    "content": "Article URL: https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/ Comments URL: https://news.ycombinator.com/item?id=49205062 Points: 2 # Comments: 0",
+    "author": "vismit2000",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/",
+    "id": "news-4661"
+  },
+  {
+    "title": "SEAI: Hardware-rooted identity for autonomous AI",
+    "summary": "Article URL: https://github.com/Willbass65/SEAI-Identity-Standard Comments URL: https://news.ycombinator.com/item?id=49205086 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Willbass65/SEAI-Identity-Standard Comments URL: https://news.ycombinator.com/item?id=49205086 Points: 1 # Comments: 0",
+    "author": "alboe_seai",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Willbass65/SEAI-Identity-Standard",
+    "id": "news-4660"
+  },
+  {
+    "title": "EU AI Act Content Labelling: Fake Around and Find Out",
+    "summary": "Article URL: https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/ Comments URL: https://news.ycombinator.com/item?id=49205151 Points: 2 # Comments: 0",
+    "content": "Article URL: https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/ Comments URL: https://news.ycombinator.com/item?id=49205151 Points: 2 # Comments: 0",
+    "author": "reprodev",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/",
+    "id": "news-4659"
+  },
+  {
+    "title": "SciCode-Verified: How Benchmark Defects Underestimated LLM Scientific-Coding",
+    "summary": "Article URL: https://arxiv.org/abs/2608.04975 Comments URL: https://news.ycombinator.com/item?id=49205152 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2608.04975 Comments URL: https://news.ycombinator.com/item?id=49205152 Points: 1 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-08-07",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2608.04975",
+    "id": "news-4658"
+  },
+  {
     "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
     "summary": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, w",
     "content": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output tokens. The choice of framework is mainly a question of price and speed. The article Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival appeared first on The Decoder.",
