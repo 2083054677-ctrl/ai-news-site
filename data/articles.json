@@ -1,5 +1,70 @@
 [
   {
+    "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
+    "summary": "Article URL: https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0 Comments URL: https://news.ycombinator.com/item?id=49218",
+    "content": "Article URL: https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0 Comments URL: https://news.ycombinator.com/item?id=49218997 Points: 2 # Comments: 0",
+    "author": "cheikhdev",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
+    "id": "news-4720"
+  },
+  {
+    "title": "Show HN: Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
+    "summary": "Article URL: https://github.com/muhammadwaqasai/agent_acid Comments URL: https://news.ycombinator.com/item?id=49219014 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/muhammadwaqasai/agent_acid Comments URL: https://news.ycombinator.com/item?id=49219014 Points: 1 # Comments: 0",
+    "author": "waqasai123",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/muhammadwaqasai/agent_acid",
+    "id": "news-4719"
+  },
+  {
+    "title": "Lybrary,a persistent AST-aware code memory for AI agents(MCP server pip install)",
+    "summary": "Article URL: https://github.com/vibhu-dixit/lybrary Comments URL: https://news.ycombinator.com/item?id=49219016 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/vibhu-dixit/lybrary Comments URL: https://news.ycombinator.com/item?id=49219016 Points: 2 # Comments: 0",
+    "author": "vibhudixit_30",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/vibhu-dixit/lybrary",
+    "id": "news-4718"
+  },
+  {
+    "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+    "summary": "Article URL: https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07 Comments URL: https://news.ycombinator.com/item?id=49219122 Points: 1 # Comments: 2",
+    "content": "Article URL: https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07 Comments URL: https://news.ycombinator.com/item?id=49219122 Points: 1 # Comments: 2",
+    "author": "giuliomagnifico",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
+    "id": "news-4717"
+  },
+  {
+    "title": "AI bots started a religion – humans followed",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement Comments URL: https://news.ycombinator.com/item?id=49219363 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement Comments URL: https://news.ycombinator.com/item?id=49219363 Points: 1 # Comments: 0",
+    "author": "bryanrasmussen",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "id": "news-4716"
+  },
+  {
     "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
     "summary": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions.What we really",
     "content": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions.What we really wanted was for the agent to be right beside us on the browser. Seeing exactly what we see and having the ability to actually carry out the tasks. Some stuff like this exists on desktop but there aren't really any good options for mobile, which is where we do most of our browsing.So we built Buddy. ",
