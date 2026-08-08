@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+    "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier caught 89 percent of dangerous commands",
+    "content": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier caught 89 percent of dangerous commands, while human reviewers caught only 13.6 percent. For the most widely used AI coding tool, this means developers are shifting further from writing code to monitoring AI output. The article Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals appeared first on T",
+    "author": "Matthias Bastian",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
+    "id": "news-4737"
+  },
+  {
+    "title": "OpenAI Astra: A Paradigm Shift from Answers to Assignments",
+    "summary": "Article URL: https://medium.com/predict/openai-astra-a-paradigm-shift-from-answers-to-assignments-bdce13f10037 Comments URL: https://news.ycombinator.com/item?id=49223088 Points: 1 # Comments: 0",
+    "content": "Article URL: https://medium.com/predict/openai-astra-a-paradigm-shift-from-answers-to-assignments-bdce13f10037 Comments URL: https://news.ycombinator.com/item?id=49223088 Points: 1 # Comments: 0",
+    "author": "timventura",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/predict/openai-astra-a-paradigm-shift-from-answers-to-assignments-bdce13f10037",
+    "id": "news-4736"
+  },
+  {
+    "title": "A tool to quickly step through and audit LLM-generated Python codebases",
+    "summary": "Article URL: https://github.com/arnoldpredator/pyreplay Comments URL: https://news.ycombinator.com/item?id=49223208 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/arnoldpredator/pyreplay Comments URL: https://news.ycombinator.com/item?id=49223208 Points: 1 # Comments: 1",
+    "author": "arnoldpredator",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/arnoldpredator/pyreplay",
+    "id": "news-4735"
+  },
+  {
+    "title": "Claude TV",
+    "summary": "Article URL: https://vibetv.shop/ Comments URL: https://news.ycombinator.com/item?id=49223218 Points: 1 # Comments: 0",
+    "content": "Article URL: https://vibetv.shop/ Comments URL: https://news.ycombinator.com/item?id=49223218 Points: 1 # Comments: 0",
+    "author": "yitchelle",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://vibetv.shop/",
+    "id": "news-4734"
+  },
+  {
+    "title": "How AI Layoffs Can Trigger an Economic Spiral",
+    "summary": "Article URL: https://bytepith.com/article/how-ai-layoffs-trigger-economic-spiral Comments URL: https://news.ycombinator.com/item?id=49223221 Points: 1 # Comments: 0",
+    "content": "Article URL: https://bytepith.com/article/how-ai-layoffs-trigger-economic-spiral Comments URL: https://news.ycombinator.com/item?id=49223221 Points: 1 # Comments: 0",
+    "author": "khanhnguyen8386",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bytepith.com/article/how-ai-layoffs-trigger-economic-spiral",
+    "id": "news-4733"
+  },
+  {
+    "title": "What Happened: OpenAI and HuggingFace",
+    "summary": "Article URL: https://thezvi.substack.com/p/what-happened-openai-and-huggingface Comments URL: https://news.ycombinator.com/item?id=49223243 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thezvi.substack.com/p/what-happened-openai-and-huggingface Comments URL: https://news.ycombinator.com/item?id=49223243 Points: 1 # Comments: 0",
+    "author": "yurivish",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thezvi.substack.com/p/what-happened-openai-and-huggingface",
+    "id": "news-4732"
+  },
+  {
     "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
     "summary": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chance. The AI-generated texts were actually ",
     "content": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chance. The AI-generated texts were actually rated higher, but scores dropped as soon as participants learned a machine wrote them. The article Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them appeared first on The Decoder.",
