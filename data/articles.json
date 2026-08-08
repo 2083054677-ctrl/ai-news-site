@@ -1,5 +1,83 @@
 [
   {
+    "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
+    "summary": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, that's roughly 600 times more than a typi",
+    "content": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, that's roughly 600 times more than a typical AI chat. His data shows how much the low figures reported by Google and OpenAI distort the reality of agent-based AI. The article AI agents use roughly 600 times more energy than a simple chat prompt appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
+    "id": "news-4727"
+  },
+  {
+    "title": "Countersign – one kill switch and audit log for AI agents across wallet vendors",
+    "summary": "Article URL: https://countersign.network Comments URL: https://news.ycombinator.com/item?id=49220224 Points: 1 # Comments: 0",
+    "content": "Article URL: https://countersign.network Comments URL: https://news.ycombinator.com/item?id=49220224 Points: 1 # Comments: 0",
+    "author": "screan",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://countersign.network",
+    "id": "news-4726"
+  },
+  {
+    "title": "Supply-chain hygiene for Emacs: LLM review of package upgrades",
+    "summary": "Article URL: https://blog.fidelramos.net/software/emacs-straight-ai-review Comments URL: https://news.ycombinator.com/item?id=49220254 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.fidelramos.net/software/emacs-straight-ai-review Comments URL: https://news.ycombinator.com/item?id=49220254 Points: 1 # Comments: 0",
+    "author": "fidelramos",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.fidelramos.net/software/emacs-straight-ai-review",
+    "id": "news-4725"
+  },
+  {
+    "title": "AgentBlog – open-source, AI-native SEO blog",
+    "summary": "Article URL: https://agentblog.dev Comments URL: https://news.ycombinator.com/item?id=49220327 Points: 2 # Comments: 0",
+    "content": "Article URL: https://agentblog.dev Comments URL: https://news.ycombinator.com/item?id=49220327 Points: 2 # Comments: 0",
+    "author": "goldkey",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://agentblog.dev",
+    "id": "news-4724"
+  },
+  {
+    "title": "AI is not your biggest cyber threat. Your shitty patching process is",
+    "summary": "Article URL: https://0ut3r.space/2026/08/08/ai-is-not-your-biggest-cyber-threat/ Comments URL: https://news.ycombinator.com/item?id=49220370 Points: 1 # Comments: 1",
+    "content": "Article URL: https://0ut3r.space/2026/08/08/ai-is-not-your-biggest-cyber-threat/ Comments URL: https://news.ycombinator.com/item?id=49220370 Points: 1 # Comments: 1",
+    "author": "h0ek",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://0ut3r.space/2026/08/08/ai-is-not-your-biggest-cyber-threat/",
+    "id": "news-4723"
+  },
+  {
+    "title": "Making an AI bid writer refuse to lie",
+    "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 7 # Comments: 0",
+    "content": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 7 # Comments: 0",
+    "author": "Lucius-AI",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
+    "id": "news-4722"
+  },
+  {
     "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
     "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref ",
     "content": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref Editing, along with preconfigured templates, target practical creative workflows. The article xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks appeared first on The Decoder.",
