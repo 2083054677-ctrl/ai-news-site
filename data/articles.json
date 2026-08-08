@@ -1,5 +1,70 @@
 [
   {
+    "title": "MegaDev AI Workshop",
+    "summary": "Article URL: https://mega.dev Comments URL: https://news.ycombinator.com/item?id=49217649 Points: 1 # Comments: 1",
+    "content": "Article URL: https://mega.dev Comments URL: https://news.ycombinator.com/item?id=49217649 Points: 1 # Comments: 1",
+    "author": "beverett",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mega.dev",
+    "id": "news-4706"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary": "Article URL: https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49217687 Points: 2 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49217687 Points: 2 # Comments: 0",
+    "author": "justworks",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "id": "news-4705"
+  },
+  {
+    "title": "Black Hat USA 2026: The OpenAI–Hugging Face Incident [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=87DyyMV0kCY Comments URL: https://news.ycombinator.com/item?id=49217735 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=87DyyMV0kCY Comments URL: https://news.ycombinator.com/item?id=49217735 Points: 2 # Comments: 0",
+    "author": "mellosouls",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=87DyyMV0kCY",
+    "id": "news-4704"
+  },
+  {
+    "title": "Message your other Claude Code sessions",
+    "summary": "Article URL: https://code.claude.com/docs/en/cross-session-messaging Comments URL: https://news.ycombinator.com/item?id=49217752 Points: 2 # Comments: 0",
+    "content": "Article URL: https://code.claude.com/docs/en/cross-session-messaging Comments URL: https://news.ycombinator.com/item?id=49217752 Points: 2 # Comments: 0",
+    "author": "adamfeldman",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://code.claude.com/docs/en/cross-session-messaging",
+    "id": "news-4703"
+  },
+  {
+    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+    "summary": "Article URL: https://arxiv.org/abs/2512.10100 Comments URL: https://news.ycombinator.com/item?id=49217892 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2512.10100 Comments URL: https://news.ycombinator.com/item?id=49217892 Points: 1 # Comments: 0",
+    "author": "joshcsimmons",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2512.10100",
+    "id": "news-4702"
+  },
+  {
     "title": "From unchecked AI spend to complete control: How Rippling built AI Spend Console",
     "summary": "Article URL: https://www.rippling.com/blog/introducing-ai-spend-console Comments URL: https://news.ycombinator.com/item?id=49216580 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.rippling.com/blog/introducing-ai-spend-console Comments URL: https://news.ycombinator.com/item?id=49216580 Points: 1 # Comments: 0",
