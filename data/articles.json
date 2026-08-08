@@ -1,5 +1,18 @@
 [
   {
+    "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
+    "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref ",
+    "content": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref Editing, along with preconfigured templates, target practical creative workflows. The article xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+    "id": "news-4721"
+  },
+  {
     "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
     "summary": "Article URL: https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0 Comments URL: https://news.ycombinator.com/item?id=49218",
     "content": "Article URL: https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0 Comments URL: https://news.ycombinator.com/item?id=49218997 Points: 2 # Comments: 0",
