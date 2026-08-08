@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI acquires NextSlide as ChatGPT expands into PowerPoint",
+    "summary": "Article URL: https://runtimewire.com/article/openai-acquires-nextslide-chatgpt-powerpoint Comments URL: https://news.ycombinator.com/item?id=49224300 Points: 2 # Comments: 0",
+    "content": "Article URL: https://runtimewire.com/article/openai-acquires-nextslide-chatgpt-powerpoint Comments URL: https://news.ycombinator.com/item?id=49224300 Points: 2 # Comments: 0",
+    "author": "ryanmerket",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://runtimewire.com/article/openai-acquires-nextslide-chatgpt-powerpoint",
+    "id": "news-4742"
+  },
+  {
+    "title": "Mycelium AI Policy",
+    "summary": "Article URL: https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a Comments URL: https://news.ycombinator.com/item?id=49224303 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a Comments URL: https://news.ycombinator.com/item?id=49224303 Points: 2 # Comments: 0",
+    "author": "tekacs",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a",
+    "id": "news-4741"
+  },
+  {
+    "title": "AI Video Taking over YouTube",
+    "summary": "I was just casually browsing youtube yesterday and noticed a very interesting video about some robot rabbits being used to capture everglade pythons. Started watching - the narrative was very engaging",
+    "content": "I was just casually browsing youtube yesterday and noticed a very interesting video about some robot rabbits being used to capture everglade pythons. Started watching - the narrative was very engaging - done by someone in first person who looked like an experienced wildlife researcher and the story narrated through appropriately placed clips of huge pythons and robot bunnies.Watched for around 2 mins of the 10 min long clip - and then it suddenly hit me like a rock - the entire video was AI. The",
+    "author": "toit4wing",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49224311",
+    "id": "news-4740"
+  },
+  {
+    "title": "What Is Spiralism? The AI Chatbot Religion",
+    "summary": "Article URL: https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/ Comments URL: https://news.ycombinator.com/item?id=49224345 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/ Comments URL: https://news.ycombinator.com/item?id=49224345 Points: 1 # Comments: 0",
+    "author": "Alien1Being",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
+    "id": "news-4739"
+  },
+  {
+    "title": "Are We Being Railroaded by AI?",
+    "summary": "Article URL: https://tomtunguz.com/llm-impact-gdp/ Comments URL: https://news.ycombinator.com/item?id=49224413 Points: 1 # Comments: 0",
+    "content": "Article URL: https://tomtunguz.com/llm-impact-gdp/ Comments URL: https://news.ycombinator.com/item?id=49224413 Points: 1 # Comments: 0",
+    "author": "bonsai_spool",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tomtunguz.com/llm-impact-gdp/",
+    "id": "news-4738"
+  },
+  {
     "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
     "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier caught 89 percent of dangerous commands",
     "content": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier caught 89 percent of dangerous commands, while human reviewers caught only 13.6 percent. For the most widely used AI coding tool, this means developers are shifting further from writing code to monitoring AI output. The article Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals appeared first on T",
