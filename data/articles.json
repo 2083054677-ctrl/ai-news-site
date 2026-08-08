@@ -1,5 +1,57 @@
 [
   {
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49218317 Points: 1 # Comments: 0",
+    "content": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49218317 Points: 1 # Comments: 0",
+    "author": "bonsai_spool",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "id": "news-4710"
+  },
+  {
+    "title": "I fought the slop and I won (unslopping LLM output)",
+    "summary": "Article URL: https://castform.com/blog/unslop/ Comments URL: https://news.ycombinator.com/item?id=49218397 Points: 1 # Comments: 0",
+    "content": "Article URL: https://castform.com/blog/unslop/ Comments URL: https://news.ycombinator.com/item?id=49218397 Points: 1 # Comments: 0",
+    "author": "BoredomIsFun",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://castform.com/blog/unslop/",
+    "id": "news-4709"
+  },
+  {
+    "title": "Ask HN: How can I tell which LLM's have been trained on what?",
+    "summary": "I'm really no expert and attempting to come up to speed. But...It strikes me that LLM's are a subtle combination of knowing the language and knowing some facts. If one were making a chatbot for helpin",
+    "content": "I'm really no expert and attempting to come up to speed. But...It strikes me that LLM's are a subtle combination of knowing the language and knowing some facts. If one were making a chatbot for helping (say) people understand their tax returns then you'd want a 'base' LLM that understood language and then add domain specific knowledge via RAG. So \"yes\" to knowing that Thursday comes after Wednesday; \"no\" to knowing how high Everest is; and questions regarding income tax have to reference the RAG",
+    "author": "RantyDave",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49218466",
+    "id": "news-4708"
+  },
+  {
+    "title": "The Free Money AI Bond Buildout Is Gone",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone Comments URL: https://news.ycombinator.com/item?id=49218565 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone Comments URL: https://news.ycombinator.com/item?id=49218565 Points: 1 # Comments: 0",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
+    "id": "news-4707"
+  },
+  {
     "title": "MegaDev AI Workshop",
     "summary": "Article URL: https://mega.dev Comments URL: https://news.ycombinator.com/item?id=49217649 Points: 1 # Comments: 1",
     "content": "Article URL: https://mega.dev Comments URL: https://news.ycombinator.com/item?id=49217649 Points: 1 # Comments: 1",
