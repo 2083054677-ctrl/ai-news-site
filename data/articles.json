@@ -1,5 +1,44 @@
 [
   {
+    "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
+    "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human ext",
+    "content": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research. The article Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
+    "id": "news-4730"
+  },
+  {
+    "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+    "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most f",
+    "content": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most factories have digital models for less than one percent of their parts. The startup, backed by $30 million in funding, offers its tool as an add-in for Autodesk Fusion. The article Backflip AI turns 3D scans into editable CAD models in minutes instead of hours appeared first on The Decoder.",
+    "author": "Gregor Kobsik",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
+    "id": "news-4729"
+  },
+  {
+    "title": "Claude Code sessions can now talk to each other and share context across terminals",
+    "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status. The article Claude Code session",
+    "content": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status. The article Claude Code sessions can now talk to each other and share context across terminals appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/",
+    "id": "news-4728"
+  },
+  {
     "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
     "summary": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, that's roughly 600 times more than a typi",
     "content": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, that's roughly 600 times more than a typical AI chat. His data shows how much the low figures reported by Google and OpenAI distort the reality of agent-based AI. The article AI agents use roughly 600 times more energy than a simple chat prompt appeared first on The Decoder.",
