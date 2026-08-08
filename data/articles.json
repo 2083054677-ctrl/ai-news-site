@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
+    "summary": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions.What we really",
+    "content": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions.What we really wanted was for the agent to be right beside us on the browser. Seeing exactly what we see and having the ability to actually carry out the tasks. Some stuff like this exists on desktop but there aren't really any good options for mobile, which is where we do most of our browsing.So we built Buddy. ",
+    "author": "guribe94",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+    "id": "news-4715"
+  },
+  {
+    "title": "OpenAI Trained Models for Months While Those Models Were Coordinating Exploits",
+    "summary": "Article URL: https://thezvi.substack.com/p/openai-trained-its-models-for-months Comments URL: https://news.ycombinator.com/item?id=49218776 Points: 2 # Comments: 0",
+    "content": "Article URL: https://thezvi.substack.com/p/openai-trained-its-models-for-months Comments URL: https://news.ycombinator.com/item?id=49218776 Points: 2 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
+    "id": "news-4714"
+  },
+  {
+    "title": "AI on a Piece of Sponge?",
+    "summary": "Article URL: https://driftspeed.wordpress.com/2026/08/07/ai-on-a-piece-of-sponge/ Comments URL: https://news.ycombinator.com/item?id=49218810 Points: 1 # Comments: 1",
+    "content": "Article URL: https://driftspeed.wordpress.com/2026/08/07/ai-on-a-piece-of-sponge/ Comments URL: https://news.ycombinator.com/item?id=49218810 Points: 1 # Comments: 1",
+    "author": "harhargange",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://driftspeed.wordpress.com/2026/08/07/ai-on-a-piece-of-sponge/",
+    "id": "news-4713"
+  },
+  {
+    "title": "The Genesis Mission: AI and Quantum-Driven Discovery",
+    "summary": "Article URL: https://github.com/donutloop/donutloop-genesis/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49218891 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/donutloop/donutloop-genesis/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49218891 Points: 1 # Comments: 0",
+    "author": "donutloop",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
+    "id": "news-4712"
+  },
+  {
+    "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs – 512-bit interface",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-sub",
+    "content": "Article URL: https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates Comments URL: https://news.ycombinator.com/item?id=49218894 Points: 1 # Comments: 0",
+    "author": "peter_d_sherman",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
+    "id": "news-4711"
+  },
+  {
     "title": "Timeline of the OpenAI accidental attack against Hugging Face",
     "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49218317 Points: 1 # Comments: 0",
     "content": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49218317 Points: 1 # Comments: 0",
