@@ -1,5 +1,70 @@
 [
   {
+    "title": "Custom AI development often qualifies for the federal R&D tax credit",
+    "summary": "Article URL: https://rd.genuitax.ai/ai-consultants/ Comments URL: https://news.ycombinator.com/item?id=49232454 Points: 2 # Comments: 0",
+    "content": "Article URL: https://rd.genuitax.ai/ai-consultants/ Comments URL: https://news.ycombinator.com/item?id=49232454 Points: 2 # Comments: 0",
+    "author": "AICurious_CPA",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rd.genuitax.ai/ai-consultants/",
+    "id": "news-4778"
+  },
+  {
+    "title": "NoRecognition: AI Adversarial Clothing",
+    "summary": "Article URL: https://sandbox.norecognition.org/ Comments URL: https://news.ycombinator.com/item?id=49232459 Points: 2 # Comments: 0",
+    "content": "Article URL: https://sandbox.norecognition.org/ Comments URL: https://news.ycombinator.com/item?id=49232459 Points: 2 # Comments: 0",
+    "author": "windyVector",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sandbox.norecognition.org/",
+    "id": "news-4777"
+  },
+  {
+    "title": "Show HN: TokenSpend, the AI ROI Solution",
+    "summary": "Hey HN, I was curious about how most companies and individuals were using AI without any meaningful insights. I built TokenSpend (https://tokenspend.dev/); we find existing ROI on AI code usage by tra",
+    "content": "Hey HN, I was curious about how most companies and individuals were using AI without any meaningful insights. I built TokenSpend (https://tokenspend.dev/); we find existing ROI on AI code usage by tracking how much output was produced for your agent sessions, identifying inefficiencies with AI usage, and then, based on that data, we route you through the most efficient model. Solo devs can also use it as an AI Gateway with visibility into their spend. Comments URL: https://news.ycombinator.com/i",
+    "author": "haseebejaz",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://tokenspend.dev/",
+    "id": "news-4776"
+  },
+  {
+    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+    "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 1 # Comments: 1",
+    "content": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 1 # Comments: 1",
+    "author": "ashurandi",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+    "id": "news-4775"
+  },
+  {
+    "title": "Ask HN: Anything as Fast as Google's AI Mode in the CLI?",
+    "summary": "I'm realising that Google's AI mode is the fastest for quick questions. Like questions about how to do X in library Y.Is it possible to use it from the CLI? Alternatively, what is a good fast free mod",
+    "content": "I'm realising that Google's AI mode is the fastest for quick questions. Like questions about how to do X in library Y.Is it possible to use it from the CLI? Alternatively, what is a good fast free model that folks use for this purpose? Comments URL: https://news.ycombinator.com/item?id=49232797 Points: 1 # Comments: 0",
+    "author": "dom96",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49232797",
+    "id": "news-4774"
+  },
+  {
     "title": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
     "summary": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assignments, and pocket the financial aid. Hi",
     "content": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assignments, and pocket the financial aid. History professor David Roach asks, \"Was it always the case that half of our students would cheat if it were easy enough?\" The article Scammers are enrolling fake students at US community colleges and using AI to collect financial aid appeared first on The Decoder.",
