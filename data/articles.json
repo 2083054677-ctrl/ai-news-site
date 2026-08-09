@@ -1,5 +1,109 @@
 [
   {
+    "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+    "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the ",
+    "content": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area. Internally, Google is apparently struggling with serious problems training frontier models, even as its cloud business generates billions. The question is whether the company is deliberately betting on infrastructure or simply can't ca",
+    "author": "Matthias Bastian",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
+    "id": "news-4765"
+  },
+  {
+    "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+    "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas. Amazon, mea",
+    "content": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas. Amazon, meanwhile, is building a gas-fired power plant in the state with a capacity of up to 7.65 gigawatts that could emit 33 million tons of CO₂ per year, making it the dirtiest in the country. The article AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure appear",
+    "author": "Matthias Bastian",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
+    "id": "news-4764"
+  },
+  {
+    "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+    "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens",
+    "content": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second. Quality still trails the original autoregressive model in benchmarks, especially on reasoning tasks. The article Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model appeared ",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+    "id": "news-4763"
+  },
+  {
+    "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+    "summary": "Article URL: https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/ Comments URL: https://news.ycombinator.com/item?id=492",
+    "content": "Article URL: https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/ Comments URL: https://news.ycombinator.com/item?id=49229698 Points: 3 # Comments: 2",
+    "author": "01-_-",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/",
+    "id": "news-4762"
+  },
+  {
+    "title": "Swarm-forge: A simple tool for coordinating several AI agents",
+    "summary": "Article URL: https://github.com/unclebob/swarm-forge Comments URL: https://news.ycombinator.com/item?id=49229904 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/unclebob/swarm-forge Comments URL: https://news.ycombinator.com/item?id=49229904 Points: 1 # Comments: 0",
+    "author": "tosh",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/unclebob/swarm-forge",
+    "id": "news-4761"
+  },
+  {
+    "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
+    "summary": "Article URL: https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=49229918 Points: ",
+    "content": "Article URL: https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=49229918 Points: 2 # Comments: 0",
+    "author": "newusertoday",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
+    "id": "news-4760"
+  },
+  {
+    "title": "Meta CTO: employees should use AI productivity to do more work – not time off",
+    "summary": "Article URL: https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8 Comments URL: https://news.ycombinator.com/item?id=49229936 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8 Comments URL: https://news.ycombinator.com/item?id=49229936 Points: 2 # Comments: 0",
+    "author": "vrganj",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
+    "id": "news-4759"
+  },
+  {
+    "title": "Aswath Damodaran: Big Tech Has No Idea How AI Pays Off",
+    "summary": "Article URL: https://www.youtube.com/watch?v=vE_FR0O-Jhk Comments URL: https://news.ycombinator.com/item?id=49229981 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=vE_FR0O-Jhk Comments URL: https://news.ycombinator.com/item?id=49229981 Points: 2 # Comments: 1",
+    "author": "tcp_handshaker",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=vE_FR0O-Jhk",
+    "id": "news-4758"
+  },
+  {
     "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
     "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 4 # Comments: 0",
     "content": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 4 # Comments: 0",
