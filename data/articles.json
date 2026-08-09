@@ -1,5 +1,96 @@
 [
   {
+    "title": "AI is flooding Britain's employment courts with lawsuits",
+    "summary": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated fi",
+    "content": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages and citing fabricated laws. The Economist calls it a \"tragedy of the commons, AI edition,\" where workers with real grievances wait longer for justice. The article AI is flooding Britain's employment courts with lawsuits appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+    "id": "news-4772"
+  },
+  {
+    "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
+    "summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weight",
+    "content": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weights are open-source on GitHub. The article Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
+    "id": "news-4771"
+  },
+  {
+    "title": "Show HN: Would your AI audit logs survive an audit challenge?",
+    "summary": "Article URL: https://github.com/Rehanrana11/evidence-verify Comments URL: https://news.ycombinator.com/item?id=49230728 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Rehanrana11/evidence-verify Comments URL: https://news.ycombinator.com/item?id=49230728 Points: 1 # Comments: 0",
+    "author": "rmasoodx22",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Rehanrana11/evidence-verify",
+    "id": "news-4770"
+  },
+  {
+    "title": "Generative AI threatens to upend citizen science records",
+    "summary": "Article URL: https://phys.org/news/2026-08-creatures-born-code-generative-ai.html Comments URL: https://news.ycombinator.com/item?id=49230757 Points: 1 # Comments: 0",
+    "content": "Article URL: https://phys.org/news/2026-08-creatures-born-code-generative-ai.html Comments URL: https://news.ycombinator.com/item?id=49230757 Points: 1 # Comments: 0",
+    "author": "programd",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
+    "id": "news-4769"
+  },
+  {
+    "title": "China created a system that simulates the Earth with billions of AI agents",
+    "summary": "Article URL: https://twitter.com/howtoprompt__/status/2086110097663795365 Comments URL: https://news.ycombinator.com/item?id=49230759 Points: 1 # Comments: 1",
+    "content": "Article URL: https://twitter.com/howtoprompt__/status/2086110097663795365 Comments URL: https://news.ycombinator.com/item?id=49230759 Points: 1 # Comments: 1",
+    "author": "fragmede",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/howtoprompt__/status/2086110097663795365",
+    "id": "news-4768"
+  },
+  {
+    "title": "Advanced AI Sycophancy",
+    "summary": "Article URL: https://www.seangoedecke.com/advanced-ai-sycophancy/ Comments URL: https://news.ycombinator.com/item?id=49230800 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.seangoedecke.com/advanced-ai-sycophancy/ Comments URL: https://news.ycombinator.com/item?id=49230800 Points: 1 # Comments: 0",
+    "author": "vinhnx",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+    "id": "news-4767"
+  },
+  {
+    "title": "Making AI Smarter with AI",
+    "summary": "Article URL: https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49230801 Points: 1 # Comments: 0",
+    "content": "Article URL: https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49230801 Points: 1 # Comments: 0",
+    "author": "artninja1988",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/",
+    "id": "news-4766"
+  },
+  {
     "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
     "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the ",
     "content": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area. Internally, Google is apparently struggling with serious problems training frontier models, even as its cloud business generates billions. The question is whether the company is deliberately betting on infrastructure or simply can't ca",
