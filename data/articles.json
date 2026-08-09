@@ -1,5 +1,70 @@
 [
   {
+    "title": "A Philosophy for AI Agents",
+    "summary": "Article URL: https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853 Comments URL: https://news.ycombinator.com/item?id=49233533 Points: 2 # Comments: 0",
+    "content": "Article URL: https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853 Comments URL: https://news.ycombinator.com/item?id=49233533 Points: 2 # Comments: 0",
+    "author": "iroha1203",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853",
+    "id": "news-4783"
+  },
+  {
+    "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
+    "summary": "Article URL: https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis Comments URL: https://news.ycombinator.com/item?id=49233593 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis Comments URL: https://news.ycombinator.com/item?id=49233593 Points: 1 # Comments: 0",
+    "author": "ashurandi",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis",
+    "id": "news-4782"
+  },
+  {
+    "title": "Large-Scale Code Refactoring with AI",
+    "summary": "Article URL: https://swiftace.org/posts/large-scale-code-refactoring-with-ai Comments URL: https://news.ycombinator.com/item?id=49233633 Points: 1 # Comments: 0",
+    "content": "Article URL: https://swiftace.org/posts/large-scale-code-refactoring-with-ai Comments URL: https://news.ycombinator.com/item?id=49233633 Points: 1 # Comments: 0",
+    "author": "aakashns",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://swiftace.org/posts/large-scale-code-refactoring-with-ai",
+    "id": "news-4781"
+  },
+  {
+    "title": "AI Is on Its Last Legs [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=zdsoe_OsnHw Comments URL: https://news.ycombinator.com/item?id=49233669 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=zdsoe_OsnHw Comments URL: https://news.ycombinator.com/item?id=49233669 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=zdsoe_OsnHw",
+    "id": "news-4780"
+  },
+  {
+    "title": "Devs to Anthropic, OpenAI, Cursor, and friends Make security and privacy default",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107 Comments URL: https://news.ycombinator.com/item?",
+    "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107 Comments URL: https://news.ycombinator.com/item?id=49233787 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+    "id": "news-4779"
+  },
+  {
     "title": "Custom AI development often qualifies for the federal R&D tax credit",
     "summary": "Article URL: https://rd.genuitax.ai/ai-consultants/ Comments URL: https://news.ycombinator.com/item?id=49232454 Points: 2 # Comments: 0",
     "content": "Article URL: https://rd.genuitax.ai/ai-consultants/ Comments URL: https://news.ycombinator.com/item?id=49232454 Points: 2 # Comments: 0",
