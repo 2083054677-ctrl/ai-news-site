@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
+    "summary": "Article URL: https://zenodo.org/records/21855824 Comments URL: https://news.ycombinator.com/item?id=49227170 Points: 4 # Comments: 1",
+    "content": "Article URL: https://zenodo.org/records/21855824 Comments URL: https://news.ycombinator.com/item?id=49227170 Points: 4 # Comments: 1",
+    "author": "rayanpal_",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/21855824",
+    "id": "news-4745"
+  },
+  {
+    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+    "summary": "Article URL: https://simonwillison.net/2026/Aug/8/auto-mode/ Comments URL: https://news.ycombinator.com/item?id=49227253 Points: 4 # Comments: 0",
+    "content": "Article URL: https://simonwillison.net/2026/Aug/8/auto-mode/ Comments URL: https://news.ycombinator.com/item?id=49227253 Points: 4 # Comments: 0",
+    "author": "spenvo",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+    "id": "news-4744"
+  },
+  {
+    "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=DP454c1K_vQ Comments URL: https://news.ycombinator.com/item?id=49227342 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=DP454c1K_vQ Comments URL: https://news.ycombinator.com/item?id=49227342 Points: 2 # Comments: 0",
+    "author": "binyu",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=DP454c1K_vQ",
+    "id": "news-4743"
+  },
+  {
+    "title": "Things I learned about how people use AI after 1800 people",
+    "summary": "I'm running a an AI fluency assessment tool and after 1800 real users who interact with our chat bot 20-40 minutes; here are some weird things we found out.1. The least AI-fluent professionals overest",
+    "content": "I'm running a an AI fluency assessment tool and after 1800 real users who interact with our chat bot 20-40 minutes; here are some weird things we found out.1. The least AI-fluent professionals overestimated their score by 40 points. The most fluent underestimated by 27. 67 point Dunning-Kruger gap.2. Product managers outscore engineers on AI fluency (59.2 vs 53.7). Applied judgement beats technical knowledge.3. HR people (ironically who make hiring decisions using AI) understand AI the least, wi",
+    "author": "Ozzie-D",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49226913",
+    "id": "news-4747"
+  },
+  {
+    "title": "Teaching Coding When AI Can Write the Code",
+    "summary": "Article URL: https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/ Comments URL: https://news.ycombinator.com/item?id=49227028 Points: 4 # Comments: 0",
+    "content": "Article URL: https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/ Comments URL: https://news.ycombinator.com/item?id=49227028 Points: 4 # Comments: 0",
+    "author": "pella",
+    "date": "2026-08-08",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/",
+    "id": "news-4746"
+  },
+  {
     "title": "OpenAI acquires NextSlide as ChatGPT expands into PowerPoint",
     "summary": "Article URL: https://runtimewire.com/article/openai-acquires-nextslide-chatgpt-powerpoint Comments URL: https://news.ycombinator.com/item?id=49224300 Points: 2 # Comments: 0",
     "content": "Article URL: https://runtimewire.com/article/openai-acquires-nextslide-chatgpt-powerpoint Comments URL: https://news.ycombinator.com/item?id=49224300 Points: 2 # Comments: 0",
