@@ -1,5 +1,84 @@
 [
   {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "summary": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "id": "news-4818"
+  },
+  {
+    "title": "Mcmaster.ai",
+    "summary": "Article URL: https://www.mcmaster.com/ Comments URL: https://news.ycombinator.com/item?id=49246063 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.mcmaster.com/ Comments URL: https://news.ycombinator.com/item?id=49246063 Points: 3 # Comments: 1",
+    "author": "gregsadetsky",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mcmaster.com/",
+    "id": "news-4817"
+  },
+  {
+    "title": "Show HN: Is your AI hallucinating? The big labs won't tell you but we will",
+    "summary": "Article URL: https://www.telluvian.ai/blog/is-your-ai-hallucinating Comments URL: https://news.ycombinator.com/item?id=49246077 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.telluvian.ai/blog/is-your-ai-hallucinating Comments URL: https://news.ycombinator.com/item?id=49246077 Points: 2 # Comments: 1",
+    "author": "galois123",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.telluvian.ai/blog/is-your-ai-hallucinating",
+    "id": "news-4816"
+  },
+  {
+    "title": "Show HN: Jsonseek – Token-efficient JSON/JSONL navigation for LLM agents",
+    "summary": "Article URL: https://github.com/lo2589/JSONSEEK Comments URL: https://news.ycombinator.com/item?id=49246117 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/lo2589/JSONSEEK Comments URL: https://news.ycombinator.com/item?id=49246117 Points: 1 # Comments: 0",
+    "author": "yoliliya",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lo2589/JSONSEEK",
+    "id": "news-4815"
+  },
+  {
+    "title": "Just how big is the hidden leverage of AI hyperscalers?",
+    "summary": "Article URL: https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3 Comments URL: https://news.ycombinator.com/item?id=49246123 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3 Comments URL: https://news.ycombinator.com/item?id=49246123 Points: 3 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+    "id": "news-4814"
+  },
+  {
+    "title": "Show HN: Run outbound and lead gen from Claude Cowork, no sales tools",
+    "summary": "Article URL: https://github.com/skyzer/skills Comments URL: https://news.ycombinator.com/item?id=49246184 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/skyzer/skills Comments URL: https://news.ycombinator.com/item?id=49246184 Points: 1 # Comments: 0",
+    "author": "skyzer",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/skyzer/skills",
+    "id": "news-4813"
+  },
+  {
     "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
     "summary": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it. The article Told to book a gym class, an AI agent hacked the site instead to move its use",
     "content": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it. The article Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist appeared first on The Decoder.",
