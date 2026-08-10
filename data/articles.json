@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI framework rooted in cognitive science could complete tasks more efficiently",
+    "summary": "Article URL: https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html Comments URL: https://news.ycombinator.com/item?id=49250440 Points: 1 # Comments: 0",
+    "content": "Article URL: https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html Comments URL: https://news.ycombinator.com/item?id=49250440 Points: 1 # Comments: 0",
+    "author": "1659447091",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
+    "id": "news-4830"
+  },
+  {
+    "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+    "summary": "Hi HN!I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (",
+    "content": "Hi HN!I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :DI hope you like it and find it useful as I do! Comments URL: https://news.ycombinator.com/item?id=49250486 Points: 1 # Comments: 0",
+    "author": "leog_me",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/leog/ai-pulse",
+    "id": "news-4829"
+  },
+  {
+    "title": "Wall Street giants partner with Nvidia on $500B AI financing deal",
+    "summary": "Article URL: https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348 Comments URL: https://news.ycombinator.com/item?id=49250558 Points: 4 # Comments: 2",
+    "content": "Article URL: https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348 Comments URL: https://news.ycombinator.com/item?id=49250558 Points: 4 # Comments: 2",
+    "author": "aanet",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348",
+    "id": "news-4828"
+  },
+  {
+    "title": "Nvidia AI Factory Compute Is Becoming an Investable Asset Class",
+    "summary": "Article URL: https://twitter.com/JensenHuang/status/2086934705207959965 Comments URL: https://news.ycombinator.com/item?id=49250636 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/JensenHuang/status/2086934705207959965 Comments URL: https://news.ycombinator.com/item?id=49250636 Points: 1 # Comments: 0",
+    "author": "jawiggins",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/JensenHuang/status/2086934705207959965",
+    "id": "news-4827"
+  },
+  {
+    "title": "Catholic expert: \"Security issues show AI needs greater human oversight\"",
+    "summary": "Article URL: https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts Comments URL: https://news.ycombinator.com/item?id=49250691 Points: 1 # Com",
+    "content": "Article URL: https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts Comments URL: https://news.ycombinator.com/item?id=49250691 Points: 1 # Comments: 0",
+    "author": "supportm",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts",
+    "id": "news-4826"
+  },
+  {
     "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
     "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previ",
     "content": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, the window of opportunity for defenders is shrinking. Access requires identity verification. The article OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do appeared first on The Decoder.",
