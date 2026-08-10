@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+    "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previ",
+    "content": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, the window of opportunity for defenders is shrinking. Access requires identity verification. The article OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+    "id": "news-4825"
+  },
+  {
+    "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+    "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at unde",
+    "content": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at under two dollars per thousand pages. That's good enough for AI training data, but not yet for scholarly transcriptions, the team says. The article Old OCR text cripples language model training, and FineBooks wants to fix that at scale appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+    "id": "news-4824"
+  },
+  {
+    "title": "AI didn't break open source. It removed a filter nobody designed",
+    "summary": "Article URL: https://erickxdev.vercel.app/en/blog/ai-didnt-break-open-source/ Comments URL: https://news.ycombinator.com/item?id=49247364 Points: 1 # Comments: 0",
+    "content": "Article URL: https://erickxdev.vercel.app/en/blog/ai-didnt-break-open-source/ Comments URL: https://news.ycombinator.com/item?id=49247364 Points: 1 # Comments: 0",
+    "author": "XaviDev",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://erickxdev.vercel.app/en/blog/ai-didnt-break-open-source/",
+    "id": "news-4823"
+  },
+  {
+    "title": "AIUC-1: The standard for AI agent security, safety and reliability",
+    "summary": "Article URL: https://www.aiuc-1.com/ Comments URL: https://news.ycombinator.com/item?id=49247374 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.aiuc-1.com/ Comments URL: https://news.ycombinator.com/item?id=49247374 Points: 1 # Comments: 0",
+    "author": "flyaway123",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aiuc-1.com/",
+    "id": "news-4822"
+  },
+  {
+    "title": "I thought an LLM gateway was unnecessary. Then we added a second model provider",
+    "summary": "Article URL: https://github.com/maximhq/bifrost/ Comments URL: https://news.ycombinator.com/item?id=49247732 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/maximhq/bifrost/ Comments URL: https://news.ycombinator.com/item?id=49247732 Points: 1 # Comments: 0",
+    "author": "Swapnoneel",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/maximhq/bifrost/",
+    "id": "news-4821"
+  },
+  {
+    "title": "Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI",
+    "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/ Comments URL: https://news.ycombinator.com/item?id=49247815 Poin",
+    "content": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/ Comments URL: https://news.ycombinator.com/item?id=49247815 Points: 1 # Comments: 0",
+    "author": "ChrisArchitect",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/",
+    "id": "news-4820"
+  },
+  {
+    "title": "AI Interviews Are Moving Hiring into the Middle of the Night",
+    "summary": "Article URL: https://ai-updates.net/ai-interviews-moving-hiring-middle-night/ Comments URL: https://news.ycombinator.com/item?id=49247903 Points: 1 # Comments: 1",
+    "content": "Article URL: https://ai-updates.net/ai-interviews-moving-hiring-middle-night/ Comments URL: https://news.ycombinator.com/item?id=49247903 Points: 1 # Comments: 1",
+    "author": "ashurandi",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-updates.net/ai-interviews-moving-hiring-middle-night/",
+    "id": "news-4819"
+  },
+  {
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "summary": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "content": "",
