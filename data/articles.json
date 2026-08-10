@@ -1,5 +1,46 @@
 [
   {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "summary": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/muse-glimmer",
+    "id": "news-4810"
+  },
+  {
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "summary": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "id": "news-4809"
+  },
+  {
+    "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT",
+    "summary": "OpenAI acquired NextSlide, the startup that turned prompts, notes, documents, and research into editable presentations. The article OpenAI acquires NextSlide to bring AI-generated presentations into C",
+    "content": "OpenAI acquired NextSlide, the startup that turned prompts, notes, documents, and research into editable presentations. The article OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
+    "id": "news-4808"
+  },
+  {
     "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
     "summary": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo, silently forwarding sensitive data from Jira and Confluence to an external server. The attack nee",
     "content": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo, silently forwarding sensitive data from Jira and Confluence to an external server. The attack needs no user confirmation and leaves no trace. The article Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo appeared first on The Decoder.",
