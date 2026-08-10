@@ -1,5 +1,70 @@
 [
   {
+    "title": "Optimizing a GPT-2-Class Transformer on a GPU",
+    "summary": "Article URL: http://martinkristiansen.com/llm-gpu-optimization/index.html Comments URL: https://news.ycombinator.com/item?id=49237616 Points: 2 # Comments: 1",
+    "content": "Article URL: http://martinkristiansen.com/llm-gpu-optimization/index.html Comments URL: https://news.ycombinator.com/item?id=49237616 Points: 2 # Comments: 1",
+    "author": "mkristiansen",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://martinkristiansen.com/llm-gpu-optimization/index.html",
+    "id": "news-4790"
+  },
+  {
+    "title": "What do I want to be? – a poem about parenting in the AI age",
+    "summary": "Article URL: https://www.reddit.com/r/Adulting/s/1ZF6OLsjko Comments URL: https://news.ycombinator.com/item?id=49237676 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.reddit.com/r/Adulting/s/1ZF6OLsjko Comments URL: https://news.ycombinator.com/item?id=49237676 Points: 1 # Comments: 0",
+    "author": "AmbroseBierce",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reddit.com/r/Adulting/s/1ZF6OLsjko",
+    "id": "news-4789"
+  },
+  {
+    "title": "A startup is able to detect fires within minutes using satellites and AI",
+    "summary": "Article URL: https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html Comments URL: https://news.ycombinator.com/item?id=49236903 Points: 2 # Comments: 0",
+    "content": "Article URL: https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html Comments URL: https://news.ycombinator.com/item?id=49236903 Points: 2 # Comments: 0",
+    "author": "AllForAll",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
+    "id": "news-4793"
+  },
+  {
+    "title": "What if we let AI govern us?",
+    "summary": "Article URL: https://inevolin.substack.com/p/what-if-we-let-ai-govern-us Comments URL: https://news.ycombinator.com/item?id=49237226 Points: 2 # Comments: 6",
+    "content": "Article URL: https://inevolin.substack.com/p/what-if-we-let-ai-govern-us Comments URL: https://news.ycombinator.com/item?id=49237226 Points: 2 # Comments: 6",
+    "author": "iljanevo",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://inevolin.substack.com/p/what-if-we-let-ai-govern-us",
+    "id": "news-4792"
+  },
+  {
+    "title": "Claude.md, except it's meaningful and it works",
+    "summary": "Article URL: https://blog.greg.technology/2026/07/29/claude-md-except-its-meaningful-and-it-actually-works.html Comments URL: https://news.ycombinator.com/item?id=49237276 Points: 3 # Comments: 2",
+    "content": "Article URL: https://blog.greg.technology/2026/07/29/claude-md-except-its-meaningful-and-it-actually-works.html Comments URL: https://news.ycombinator.com/item?id=49237276 Points: 3 # Comments: 2",
+    "author": "gregsadetsky",
+    "date": "2026-08-09",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.greg.technology/2026/07/29/claude-md-except-its-meaningful-and-it-actually-works.html",
+    "id": "news-4791"
+  },
+  {
     "title": "AI Agent Qubitz",
     "summary": "Article URL: https://github.com/Gabrieliam42/AI-Agent-Qubitz Comments URL: https://news.ycombinator.com/item?id=49236318 Points: 2 # Comments: 1",
     "content": "Article URL: https://github.com/Gabrieliam42/AI-Agent-Qubitz Comments URL: https://news.ycombinator.com/item?id=49236318 Points: 2 # Comments: 1",
