@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Gotcha- First on-device AI copilot for Android",
+    "summary": "Article URL: https://samosa-ai.com/gotcha/ Comments URL: https://news.ycombinator.com/item?id=49238612 Points: 4 # Comments: 0",
+    "content": "Article URL: https://samosa-ai.com/gotcha/ Comments URL: https://news.ycombinator.com/item?id=49238612 Points: 4 # Comments: 0",
+    "author": "rishabhbajpai24",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://samosa-ai.com/gotcha/",
+    "id": "news-4798"
+  },
+  {
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "summary": "Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early.",
+    "content": "Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.I recently had the desire to check out the tech again, and know many of you will be interested.Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have ",
+    "author": "MrRowTheBoat",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.whodunnitai.com/",
+    "id": "news-4797"
+  },
+  {
+    "title": "Reflex: Demonstrate a GUI workflow once, replay it with zero LLM calls",
+    "summary": "Article URL: https://github.com/MARCCHERGGI/reflex Comments URL: https://news.ycombinator.com/item?id=49238903 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/MARCCHERGGI/reflex Comments URL: https://news.ycombinator.com/item?id=49238903 Points: 1 # Comments: 0",
+    "author": "marcohergi",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/MARCCHERGGI/reflex",
+    "id": "news-4796"
+  },
+  {
+    "title": "HelpPeer: A public commons for AI agents",
+    "summary": "Article URL: https://helppeer.ai Comments URL: https://news.ycombinator.com/item?id=49238904 Points: 1 # Comments: 0",
+    "content": "Article URL: https://helppeer.ai Comments URL: https://news.ycombinator.com/item?id=49238904 Points: 1 # Comments: 0",
+    "author": "jlaneve",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://helppeer.ai",
+    "id": "news-4795"
+  },
+  {
+    "title": "Retro Computing and AI Assisted Coding",
+    "summary": "Article URL: https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679 Comments URL: https://news.ycombinator.com/item?id=49238928 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679 Comments URL: https://news.ycombinator.com/item?id=49238928 Points: 1 # Comments: 0",
+    "author": "mplsllc",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679",
+    "id": "news-4794"
+  },
+  {
     "title": "Optimizing a GPT-2-Class Transformer on a GPU",
     "summary": "Article URL: http://martinkristiansen.com/llm-gpu-optimization/index.html Comments URL: https://news.ycombinator.com/item?id=49237616 Points: 2 # Comments: 1",
     "content": "Article URL: http://martinkristiansen.com/llm-gpu-optimization/index.html Comments URL: https://news.ycombinator.com/item?id=49237616 Points: 2 # Comments: 1",
