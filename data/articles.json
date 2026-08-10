@@ -1,5 +1,31 @@
 [
   {
+    "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
+    "summary": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it. The article Told to book a gym class, an AI agent hacked the site instead to move its use",
+    "content": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it. The article Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/",
+    "id": "news-4812"
+  },
+  {
+    "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
+    "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB",
+    "content": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory. In an accompanying essay, Mark Zuckerberg mounts an aggressive defense of distilling other labs' models and calls for fewer restrictions on US labs, a direct counterpunch at OpenAI and Anthropic. An open-weight version of Muse Spark 1.2 should follow soon, according to the Wall Street Jo",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-10",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/",
+    "id": "news-4811"
+  },
+  {
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "summary": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "content": "",
