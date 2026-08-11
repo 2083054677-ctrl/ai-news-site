@@ -1,5 +1,83 @@
 [
   {
+    "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence",
+    "summary": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller. At nearl",
+    "content": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller. At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is betting on efficiency over raw size. The article Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
+    "id": "news-4866"
+  },
+  {
+    "title": "Most \"Claude watermark removers\" can't work, and here's the CSS that proves it",
+    "summary": "Article URL: https://claudewatermark.xyz/guides/why-most-claude-watermark-removers-cannot-work Comments URL: https://news.ycombinator.com/item?id=49260734 Points: 1 # Comments: 0",
+    "content": "Article URL: https://claudewatermark.xyz/guides/why-most-claude-watermark-removers-cannot-work Comments URL: https://news.ycombinator.com/item?id=49260734 Points: 1 # Comments: 0",
+    "author": "ofir_smol",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://claudewatermark.xyz/guides/why-most-claude-watermark-removers-cannot-work",
+    "id": "news-4865"
+  },
+  {
+    "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+    "summary": "Article URL: https://www.coinbase.com/en-gb/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding Comments URL: https://news.ycombinator.com/item?id=49260806 Points: 2 # Comments",
+    "content": "Article URL: https://www.coinbase.com/en-gb/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding Comments URL: https://news.ycombinator.com/item?id=49260806 Points: 2 # Comments: 0",
+    "author": "tie-in",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.coinbase.com/en-gb/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+    "id": "news-4864"
+  },
+  {
+    "title": "OpenAI COO Lightcap announces departure to start 'something new'",
+    "summary": "Article URL: https://seekingalpha.com/news/4630890-openai-coo-lightcap-announces-departure-to-start-something-new Comments URL: https://news.ycombinator.com/item?id=49260850 Points: 1 # Comments: 0",
+    "content": "Article URL: https://seekingalpha.com/news/4630890-openai-coo-lightcap-announces-departure-to-start-something-new Comments URL: https://news.ycombinator.com/item?id=49260850 Points: 1 # Comments: 0",
+    "author": "bryanmikaelian",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://seekingalpha.com/news/4630890-openai-coo-lightcap-announces-departure-to-start-something-new",
+    "id": "news-4863"
+  },
+  {
+    "title": "Breaking AI Orchestration: Four Vulnerabilities in Langflow",
+    "summary": "Article URL: https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-1-four-vulnerabilities-langflow Comments URL: https://news.ycombinator.com/item?id=49260890 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-1-four-vulnerabilities-langflow Comments URL: https://news.ycombinator.com/item?id=49260890 Points: 1 # Comments: 0",
+    "author": "shivanshuag",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-1-four-vulnerabilities-langflow",
+    "id": "news-4862"
+  },
+  {
+    "title": "French newspapers appeal to antitrust regulator over Google's AI summaries",
+    "summary": "Article URL: https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries Comments URL: https://news.ycombinator.com/item?id=49261017 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries Comments URL: https://news.ycombinator.com/item?id=49261017 Points: 1 # Comments: 0",
+    "author": "thm",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries",
+    "id": "news-4861"
+  },
+  {
     "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
     "summary": "Thinking of ACE? We Can Do It with Fewer Tokens",
     "content": "",
