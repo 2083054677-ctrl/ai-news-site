@@ -1,5 +1,97 @@
 [
   {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "summary": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "id": "news-4860"
+  },
+  {
+    "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds",
+    "summary": "Anthropic is preparing an IPO for September or October, according to the Wall Street Journal, potentially the largest ever. During investor meetings, the company, valued at $965 billion, is fielding t",
+    "content": "Anthropic is preparing an IPO for September or October, according to the Wall Street Journal, potentially the largest ever. During investor meetings, the company, valued at $965 billion, is fielding tough questions about Chinese competition, tensions with the Trump administration, and protests against data center construction. The company's IPO valuation will likely set the benchmark for how the entire AI industry gets valued. The article Anthropic's planned mega-IPO faces investor skepticism ov",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
+    "id": "news-4859"
+  },
+  {
+    "title": "A Lightweight Rootless Container Sandbox for Claude Code and Codex",
+    "summary": "Article URL: https://medium.com/@Koukyosyumei/h5i-a-lightweight-rootless-container-sandbox-for-claude-code-and-codex-e9a9eb0cf71e Comments URL: https://news.ycombinator.com/item?id=49258898 Points: 1 ",
+    "content": "Article URL: https://medium.com/@Koukyosyumei/h5i-a-lightweight-rootless-container-sandbox-for-claude-code-and-codex-e9a9eb0cf71e Comments URL: https://news.ycombinator.com/item?id=49258898 Points: 1 # Comments: 0",
+    "author": "syumei",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@Koukyosyumei/h5i-a-lightweight-rootless-container-sandbox-for-claude-code-and-codex-e9a9eb0cf71e",
+    "id": "news-4858"
+  },
+  {
+    "title": "Prompt Library: 65 Production-Tested Claude Prompts for Legal Work",
+    "summary": "Article URL: https://github.com/danlorry/superlawyers-prompts Comments URL: https://news.ycombinator.com/item?id=49258938 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/danlorry/superlawyers-prompts Comments URL: https://news.ycombinator.com/item?id=49258938 Points: 1 # Comments: 0",
+    "author": "wertyk",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/danlorry/superlawyers-prompts",
+    "id": "news-4857"
+  },
+  {
+    "title": "Show HN: Atlarix – local-first AI coding agent that runs on grep, no index",
+    "summary": "Article URL: https://www.atlarix.dev/ Comments URL: https://news.ycombinator.com/item?id=49258980 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.atlarix.dev/ Comments URL: https://news.ycombinator.com/item?id=49258980 Points: 1 # Comments: 0",
+    "author": "Amariah",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.atlarix.dev/",
+    "id": "news-4856"
+  },
+  {
+    "title": "Show HN: SquadCue – local-first mission control for AI CLI agents",
+    "summary": "History: I started getting involved with AI in the middle of last year, from finding answers through chat to using Claude Cowork to control specific folders on my computer to complete tasks, and now u",
+    "content": "History: I started getting involved with AI in the middle of last year, from finding answers through chat to using Claude Cowork to control specific folders on my computer to complete tasks, and now using CLIs through the terminal to complete all my daily tasks. The most painful part has been management. My computer has more than ten terminal windows open at a time, and both the main screen and external monitors are full of CLIs. It's a headache to manage and switch between them every time. So I",
+    "author": "hsienchuc",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/hsienchuc/squadcue",
+    "id": "news-4855"
+  },
+  {
+    "title": "I gave Claude's Reimann paper to GPT-5.6-Sol Pro. It's now 67.30%",
+    "summary": "Article URL: https://twitter.com/kaizero_ainta/status/2087036655714890052 Comments URL: https://news.ycombinator.com/item?id=49259077 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/kaizero_ainta/status/2087036655714890052 Comments URL: https://news.ycombinator.com/item?id=49259077 Points: 2 # Comments: 0",
+    "author": "porridgeraisin",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/kaizero_ainta/status/2087036655714890052",
+    "id": "news-4854"
+  },
+  {
     "title": "Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms",
     "summary": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas, according to Bloomberg. The deal covers 191 megawatts at Riot's Rockdale site, with extensio",
     "content": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas, according to Bloomberg. The deal covers 191 megawatts at Riot's Rockdale site, with extension options that could push the total value to $16.1 billion. It's the latest in an aggressive infrastructure push that spans partners from Amazon to SpaceX to Google. The article Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms appeared first on The Decoder.",
