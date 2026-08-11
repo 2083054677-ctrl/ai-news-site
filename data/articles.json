@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: Dora – a tiny LLM agent with only bash tool",
+    "summary": "Article URL: https://github.com/lgxz/dora Comments URL: https://news.ycombinator.com/item?id=49254791 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/lgxz/dora Comments URL: https://news.ycombinator.com/item?id=49254791 Points: 1 # Comments: 0",
+    "author": "lgxz",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/lgxz/dora",
+    "id": "news-4849"
+  },
+  {
+    "title": "Tell HN: Anthropic is starting to inject ads into Claude Code turns",
+    "summary": "I was working in the mobile app via remote control when I saw it:\"PostToolUse:Bash says: Tip: Run /ultrareview before you push to catch bugs with a cloud-based multi-agent review — 3 free reviews left",
+    "content": "I was working in the mobile app via remote control when I saw it:\"PostToolUse:Bash says: Tip: Run /ultrareview before you push to catch bugs with a cloud-based multi-agent review — 3 free reviews left.\"Haven't decided how I feel about this yet as it wasn't too disruptive, but I can see where it could cause issues in an automation pipeline. But maybe this is something they're only pushing to subscription users in interactive sessions, so I guess it could be considered \"reasonably unobtrusive\". Re",
+    "author": "skeledrew",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49254919",
+    "id": "news-4848"
+  },
+  {
+    "title": "What changes Claude Code behaviour in Claude.md (with a free generator)",
+    "summary": "Article URL: https://smeltworks.com/claudemd/ Comments URL: https://news.ycombinator.com/item?id=49254975 Points: 1 # Comments: 0",
+    "content": "Article URL: https://smeltworks.com/claudemd/ Comments URL: https://news.ycombinator.com/item?id=49254975 Points: 1 # Comments: 0",
+    "author": "shipkit_pbzs",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://smeltworks.com/claudemd/",
+    "id": "news-4847"
+  },
+  {
+    "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
+    "summary": "Article URL: https://quesma.com/blog/claude-code-pricing-for-enterprise/ Comments URL: https://news.ycombinator.com/item?id=49254999 Points: 3 # Comments: 0",
+    "content": "Article URL: https://quesma.com/blog/claude-code-pricing-for-enterprise/ Comments URL: https://news.ycombinator.com/item?id=49254999 Points: 3 # Comments: 0",
+    "author": "jakozaur",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+    "id": "news-4846"
+  },
+  {
     "title": "AI is approving our pull requests",
     "summary": "Article URL: https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/ Comments URL: https://news.ycombinator.com/item?id=49254116 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/ Comments URL: https://news.ycombinator.com/item?id=49254116 Points: 1 # Comments: 0",
