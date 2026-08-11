@@ -1,5 +1,31 @@
 [
   {
+    "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+    "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned",
+    "content": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries users see often hide what the models are actually doing. The article \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
+    "id": "news-4868"
+  },
+  {
+    "title": "OpenAI lets employees cash out another $7 billion in stock",
+    "summary": "OpenAI wrapped up a $7 billion stock buyback, letting current and former employees sell shares at the company's $852 billion valuation. The move is meant to ease pressure on employees waiting for liqu",
+    "content": "OpenAI wrapped up a $7 billion stock buyback, letting current and former employees sell shares at the company's $852 billion valuation. The move is meant to ease pressure on employees waiting for liquidity ahead of a potential IPO. OpenAI ran a similar $6.6 billion sale in October 2025. The article OpenAI lets employees cash out another $7 billion in stock appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/",
+    "id": "news-4867"
+  },
+  {
     "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence",
     "summary": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller. At nearl",
     "content": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller. At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is betting on efficiency over raw size. The article Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence appeared first on The Decoder.",
