@@ -1,5 +1,31 @@
 [
   {
+    "title": "Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms",
+    "summary": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas, according to Bloomberg. The deal covers 191 megawatts at Riot's Rockdale site, with extensio",
+    "content": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas, according to Bloomberg. The deal covers 191 megawatts at Riot's Rockdale site, with extension options that could push the total value to $16.1 billion. It's the latest in an aggressive infrastructure push that spans partners from Amazon to SpaceX to Google. The article Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/",
+    "id": "news-4853"
+  },
+  {
+    "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
+    "summary": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity a",
+    "content": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity and no five-hour usage limit. The move signals that the flat-rate pricing AI providers have offered so far was never going to last. The article OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
+    "id": "news-4852"
+  },
+  {
     "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
     "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The",
     "content": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The policy applies worldwide, and Anthropic plans to provide detection tools for third-party verification. The article Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\" appeared first on The Decoder.",
