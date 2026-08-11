@@ -1,5 +1,31 @@
 [
   {
+    "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
+    "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The",
+    "content": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The policy applies worldwide, and Anthropic plans to provide detection tools for third-party verification. The article Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\" appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/",
+    "id": "news-4851"
+  },
+  {
+    "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
+    "summary": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over investors, the chipmaker is guaranteeing up",
+    "content": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over investors, the chipmaker is guaranteeing up to 25 percent of the residual value of its own hardware. The Bank of England is already warning of systemic risks if the AI sector takes a hit. The article Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/",
+    "id": "news-4850"
+  },
+  {
     "title": "Show HN: Dora – a tiny LLM agent with only bash tool",
     "summary": "Article URL: https://github.com/lgxz/dora Comments URL: https://news.ycombinator.com/item?id=49254791 Points: 1 # Comments: 0",
     "content": "Article URL: https://github.com/lgxz/dora Comments URL: https://news.ycombinator.com/item?id=49254791 Points: 1 # Comments: 0",
