@@ -1,5 +1,70 @@
 [
   {
+    "title": "Diabetes charity capitalises on AI technology",
+    "summary": "Article URL: https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/ Comments URL: https://news.ycombinator.com/item?id=49266279 Points: 2 # Comments: ",
+    "content": "Article URL: https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/ Comments URL: https://news.ycombinator.com/item?id=49266279 Points: 2 # Comments: 0",
+    "author": "caruasdo",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/",
+    "id": "news-4870"
+  },
+  {
+    "title": "Xirp – Spotify's macOS app for running AI coding agents",
+    "summary": "Article URL: https://xirp.spotify.com/ Comments URL: https://news.ycombinator.com/item?id=49266547 Points: 1 # Comments: 0",
+    "content": "Article URL: https://xirp.spotify.com/ Comments URL: https://news.ycombinator.com/item?id=49266547 Points: 1 # Comments: 0",
+    "author": "hmokiguess",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xirp.spotify.com/",
+    "id": "news-4869"
+  },
+  {
+    "title": "Geoffrey Hinton's Bad AI Prediction Became a Legend [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=mv4EAR0jAUU Comments URL: https://news.ycombinator.com/item?id=49266046 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=mv4EAR0jAUU Comments URL: https://news.ycombinator.com/item?id=49266046 Points: 1 # Comments: 0",
+    "author": "rossdavidh",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=mv4EAR0jAUU",
+    "id": "news-4873"
+  },
+  {
+    "title": "AI Is Dead. Organoids Are Alive",
+    "summary": "Article URL: https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/ Comments URL: https://news.ycombinator.com/item?id=49266068 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/ Comments URL: https://news.ycombinator.com/item?id=49266068 Points: 2 # Comments: 0",
+    "author": "Logans_Run",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "id": "news-4872"
+  },
+  {
+    "title": "Open AI models hacked into HuggingFace",
+    "summary": "Article URL: https://www.instagram.com/p/DbGS8_0FmKx/ Comments URL: https://news.ycombinator.com/item?id=49266096 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.instagram.com/p/DbGS8_0FmKx/ Comments URL: https://news.ycombinator.com/item?id=49266096 Points: 2 # Comments: 0",
+    "author": "zlu",
+    "date": "2026-08-11",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.instagram.com/p/DbGS8_0FmKx/",
+    "id": "news-4871"
+  },
+  {
     "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
     "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned",
     "content": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries users see often hide what the models are actually doing. The article \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning appeared first on The Decoder.",
