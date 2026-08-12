@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
+    "summary": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regio",
+    "content": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regional routing doesn't cover all features or data. The article Mistral now offers EU data processing and priority access, but both come with important limits appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/",
+    "id": "news-4880"
+  },
+  {
+    "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
+    "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets",
+    "content": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets crushed by the cheaper Deepseek V4 Flash. The move fits a pattern: Microsoft talks up open AI, then bakes worse proprietary models into its apps to protect margins. The article Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
+    "id": "news-4879"
+  },
+  {
     "title": "Show HN: Execution Intelligence AI Accelerator",
     "summary": "Article URL: https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot Comments URL: https://news.ycombinator.com/item?id=49268753 Points: 2 # Comments: 0",
     "content": "Article URL: https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot Comments URL: https://news.ycombinator.com/item?id=49268753 Points: 2 # Comments: 0",
