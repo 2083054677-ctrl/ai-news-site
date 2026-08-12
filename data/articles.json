@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "summary": "OpenAI brings its ChatGPT desktop app to Linux. The article OpenAI launches ChatGPT desktop app for Linux appeared first on The Decoder.",
+    "content": "OpenAI brings its ChatGPT desktop app to Linux. The article OpenAI launches ChatGPT desktop app for Linux appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/",
+    "id": "news-4887"
+  },
+  {
+    "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
+    "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese l",
+    "content": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
+    "id": "news-4886"
+  },
+  {
+    "title": "AI was supposed to destroy jobs. Where's the carnage?",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction Comments URL: https://news.ycombinator.com/item?id=49271295 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction Comments URL: https://news.ycombinator.com/item?id=49271295 Points: 2 # Comments: 0",
+    "author": "pseudolus",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+    "id": "news-4885"
+  },
+  {
+    "title": "Oh Lord, AI Reporters Are Breaking Big News",
+    "summary": "Article URL: https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/ Comments URL: https://news.ycombinator.com/item?id=49271386 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/ Comments URL: https://news.ycombinator.com/item?id=49271386 Points: 1 # Comments: 1",
+    "author": "pimienta",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+    "id": "news-4884"
+  },
+  {
+    "title": "Show HN: AI 3D pop-out videos for Reels, Shorts and ads",
+    "summary": "Article URL: https://videopopy.com Comments URL: https://news.ycombinator.com/item?id=49271440 Points: 1 # Comments: 0",
+    "content": "Article URL: https://videopopy.com Comments URL: https://news.ycombinator.com/item?id=49271440 Points: 1 # Comments: 0",
+    "author": "wowinter15",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://videopopy.com",
+    "id": "news-4883"
+  },
+  {
+    "title": "Retrieval vs. Memory in Agentic AI Systems",
+    "summary": "Article URL: https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=49271447 Points: 1 # Comments: 0",
+    "content": "Article URL: https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=49271447 Points: 1 # Comments: 0",
+    "author": "eigenBasis",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
+    "id": "news-4882"
+  },
+  {
+    "title": "Experts are warning: our AI arms race is putting humanity at risk",
+    "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter Comments URL: https://news.ycombinator.com/item?id=49271487 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter Comments URL: https://news.ycombinator.com/item?id=49271487 Points: 1 # Comments: 0",
+    "author": "bananaboy",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
+    "id": "news-4881"
+  },
+  {
     "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
     "summary": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regio",
     "content": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regional routing doesn't cover all features or data. The article Mistral now offers EU data processing and priority access, but both come with important limits appeared first on The Decoder.",
