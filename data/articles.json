@@ -1,5 +1,124 @@
 [
   {
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "summary": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "id": "news-4897"
+  },
+  {
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "summary": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "id": "news-4896"
+  },
+  {
+    "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+    "summary": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.",
+    "content": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.9 percent. Similarweb and OpenRouter confirm the trend. The article Google's Gemini is losing market share to ChatGPT and Claude according to new market data appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+    "id": "news-4895"
+  },
+  {
+    "title": "AI tools for breast cancer detection fall short of radiologists' expectations",
+    "summary": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of expectations. Only 35 percent report lo",
+    "content": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of expectations. Only 35 percent report lower recall rates, while 59 percent had expected them. The gap between promise and reality runs through every category measured. The article AI tools for breast cancer detection fall short of radiologists' expectations appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/",
+    "id": "news-4894"
+  },
+  {
+    "title": "Show HN: Tanchi – Open-source AI prospecting agent that only automates email",
+    "summary": "Article URL: https://github.com/tanchihq/tanchi Comments URL: https://news.ycombinator.com/item?id=49274973 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/tanchihq/tanchi Comments URL: https://news.ycombinator.com/item?id=49274973 Points: 1 # Comments: 0",
+    "author": "saysb",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tanchihq/tanchi",
+    "id": "news-4893"
+  },
+  {
+    "title": "Shaping AI",
+    "summary": "Article URL: https://www.shapingai.com/ Comments URL: https://news.ycombinator.com/item?id=49275038 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.shapingai.com/ Comments URL: https://news.ycombinator.com/item?id=49275038 Points: 1 # Comments: 0",
+    "author": "sonabinu",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.shapingai.com/",
+    "id": "news-4892"
+  },
+  {
+    "title": "Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition",
+    "summary": "Article URL: https://itmeetsot.eu/posts/2026-08-12-opus5_automode/ Comments URL: https://news.ycombinator.com/item?id=49275088 Points: 2 # Comments: 0",
+    "content": "Article URL: https://itmeetsot.eu/posts/2026-08-12-opus5_automode/ Comments URL: https://news.ycombinator.com/item?id=49275088 Points: 2 # Comments: 0",
+    "author": "veganmosfet",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://itmeetsot.eu/posts/2026-08-12-opus5_automode/",
+    "id": "news-4891"
+  },
+  {
+    "title": "Beijing is forcing a mass breakup with AI lovers",
+    "summary": "Article URL: https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/ Comments URL: https://news.ycombinator.com/item?id=49275189 Points: 1 # Comments: 0",
+    "content": "Article URL: https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/ Comments URL: https://news.ycombinator.com/item?id=49275189 Points: 1 # Comments: 0",
+    "author": "impish9208",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
+    "id": "news-4890"
+  },
+  {
+    "title": "In case you think there is consciousness, intelligence or personality in an LLM [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=vXV2ltVdLMQ Comments URL: https://news.ycombinator.com/item?id=49275240 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=vXV2ltVdLMQ Comments URL: https://news.ycombinator.com/item?id=49275240 Points: 2 # Comments: 1",
+    "author": "spottedmarley",
+    "date": "2026-08-12",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=vXV2ltVdLMQ",
+    "id": "news-4889"
+  },
+  {
     "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
     "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. The article Legal startup founder Robert Mahari jo",
     "content": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. The article Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices appeared first on The Decoder.",
