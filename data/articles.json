@@ -1,5 +1,70 @@
 [
   {
+    "title": "Web Scraper was translated into 50 languages with AI",
+    "summary": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai Comments URL: https://news.ycombinator.com/item?id=49282505 Points: 2 # Comments: 1",
+    "content": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai Comments URL: https://news.ycombinator.com/item?id=49282505 Points: 2 # Comments: 1",
+    "author": "martinsbalodis",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai",
+    "id": "news-4909"
+  },
+  {
+    "title": "Why Japanese firms are being so slow to use AI",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o Comments URL: https://news.ycombinator.com/item?id=49282544 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o Comments URL: https://news.ycombinator.com/item?id=49282544 Points: 2 # Comments: 0",
+    "author": "CaRDiaK",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+    "id": "news-4908"
+  },
+  {
+    "title": "Scaling AI agents with trustworthy data",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/ Comments URL: https://news.ycombinator.com/item?id=49282596 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/ Comments URL: https://news.ycombinator.com/item?id=49282596 Points: 2 # Comments: 0",
+    "author": "joozio",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "id": "news-4907"
+  },
+  {
+    "title": "The Wording Effect: Quantifying Two-Way Drift in LLM Benchmark Performance",
+    "summary": "Article URL: https://arxiv.org/abs/2608.11694 Comments URL: https://news.ycombinator.com/item?id=49282632 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2608.11694 Comments URL: https://news.ycombinator.com/item?id=49282632 Points: 1 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2608.11694",
+    "id": "news-4906"
+  },
+  {
+    "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+    "summary": "Article URL: https://comma.ai/shop/chestnut Comments URL: https://news.ycombinator.com/item?id=49282649 Points: 1 # Comments: 0",
+    "content": "Article URL: https://comma.ai/shop/chestnut Comments URL: https://news.ycombinator.com/item?id=49282649 Points: 1 # Comments: 0",
+    "author": "WithinReason",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://comma.ai/shop/chestnut",
+    "id": "news-4905"
+  },
+  {
     "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
     "summary": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-",
     "content": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-Token Prediction,\" doesn't need access to model weights and works across different models. For companies relying on proprietary system prompts, this could be a serious security risk. The article Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy appeared fir",
