@@ -1,5 +1,96 @@
 [
   {
+    "title": "Ling 3.0 Flash is the smartest open model at its size",
+    "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
+    "content": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
+    "author": "Manuel Uth",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
+    "id": "news-4929"
+  },
+  {
+    "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
+    "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping ",
+    "content": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost. For agent workflows that repeatedly read the same files, that's the biggest price increase in the transition. The article Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+    "id": "news-4928"
+  },
+  {
+    "title": "Amazon loses US court ban on Perplexity's AI shopping tools",
+    "summary": "Article URL: https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/ Comments URL: https://news.ycombinator.com/item?id=49288454 Points: 3 ",
+    "content": "Article URL: https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/ Comments URL: https://news.ycombinator.com/item?id=49288454 Points: 3 # Comments: 0",
+    "author": "petethomas",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/",
+    "id": "news-4927"
+  },
+  {
+    "title": "Automated Websites, Run by Claude",
+    "summary": "Article URL: https://theautomatedoperator.substack.com/p/10-fully-automated-websites-run-by Comments URL: https://news.ycombinator.com/item?id=49288479 Points: 1 # Comments: 0",
+    "content": "Article URL: https://theautomatedoperator.substack.com/p/10-fully-automated-websites-run-by Comments URL: https://news.ycombinator.com/item?id=49288479 Points: 1 # Comments: 0",
+    "author": "idopmstuff",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theautomatedoperator.substack.com/p/10-fully-automated-websites-run-by",
+    "id": "news-4926"
+  },
+  {
+    "title": "Show HN: OpenAI network checker using 31 browser and IP signals",
+    "summary": "Article URL: https://www.getplus.ai/openai-ip-check Comments URL: https://news.ycombinator.com/item?id=49288540 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.getplus.ai/openai-ip-check Comments URL: https://news.ycombinator.com/item?id=49288540 Points: 1 # Comments: 0",
+    "author": "lixiaofei",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.getplus.ai/openai-ip-check",
+    "id": "news-4925"
+  },
+  {
+    "title": "My Claude subscription did $5,868 of API-equivalent work last month",
+    "summary": "Article URL: https://github.com/dpro10/cookbook-meter Comments URL: https://news.ycombinator.com/item?id=49288618 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/dpro10/cookbook-meter Comments URL: https://news.ycombinator.com/item?id=49288618 Points: 1 # Comments: 0",
+    "author": "dproz",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dpro10/cookbook-meter",
+    "id": "news-4924"
+  },
+  {
+    "title": "Does AI save time at work?",
+    "summary": "Article URL: https://censuseasy.com/blog/does-ai-save-time-at-work Comments URL: https://news.ycombinator.com/item?id=49288629 Points: 1 # Comments: 0",
+    "content": "Article URL: https://censuseasy.com/blog/does-ai-save-time-at-work Comments URL: https://news.ycombinator.com/item?id=49288629 Points: 1 # Comments: 0",
+    "author": "misterinfo",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://censuseasy.com/blog/does-ai-save-time-at-work",
+    "id": "news-4923"
+  },
+  {
     "title": "A ledger of which of your own AI architectural decisions you could defend",
     "summary": "Article URL: https://github.com/Dupflo/decision-ledger Comments URL: https://news.ycombinator.com/item?id=49284900 Points: 1 # Comments: 1",
     "content": "Article URL: https://github.com/Dupflo/decision-ledger Comments URL: https://news.ycombinator.com/item?id=49284900 Points: 1 # Comments: 1",
