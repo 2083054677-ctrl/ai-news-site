@@ -1,5 +1,109 @@
 [
   {
+    "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
+    "summary": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared",
+    "content": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
+    "id": "news-4917"
+  },
+  {
+    "title": "Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen",
+    "summary": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a new blog post, he takes stock. Several of",
+    "content": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a new blog post, he takes stock. Several of the milestones those researchers named have already been hit. The article Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
+    "id": "news-4916"
+  },
+  {
+    "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
+    "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens s",
+    "content": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporate AI spending may have hit a ceiling, at least as long as performance gains don't translate into measurable everyday value. The article Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling appeared first on ",
+    "author": "Matthias Bastian",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
+    "id": "news-4915"
+  },
+  {
+    "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+    "summary": "Article URL: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/ Comments URL: https://news.ycombinator.com/item?",
+    "content": "Article URL: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/ Comments URL: https://news.ycombinator.com/item?id=49283891 Points: 13 # Comments: 6",
+    "author": "ashurandi",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "id": "news-4914"
+  },
+  {
+    "title": "FeatureScript MCP Server: The Fastest Path to AI-Driven Design",
+    "summary": "Article URL: https://www.onshape.com/en/blog/featurescript-mcp-server-enables-text-code-cad Comments URL: https://news.ycombinator.com/item?id=49283956 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.onshape.com/en/blog/featurescript-mcp-server-enables-text-code-cad Comments URL: https://news.ycombinator.com/item?id=49283956 Points: 1 # Comments: 0",
+    "author": "hapax_legomena",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.onshape.com/en/blog/featurescript-mcp-server-enables-text-code-cad",
+    "id": "news-4913"
+  },
+  {
+    "title": "The White House Is Going to Expand It's AI Policy",
+    "summary": "Article URL: https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=49283987 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=49283987 Points: 2 # Comments: 1",
+    "author": "jazzypants",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "id": "news-4912"
+  },
+  {
+    "title": "The median open-source repo pays no \"AI review tax\" (data from 5,388 repos)",
+    "summary": "Article URL: https://forge.ambera.app/review-tax-index Comments URL: https://news.ycombinator.com/item?id=49284039 Points: 1 # Comments: 0",
+    "content": "Article URL: https://forge.ambera.app/review-tax-index Comments URL: https://news.ycombinator.com/item?id=49284039 Points: 1 # Comments: 0",
+    "author": "makivlach",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://forge.ambera.app/review-tax-index",
+    "id": "news-4911"
+  },
+  {
+    "title": "AI's Threat to Science Media Archives",
+    "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/ Comments URL: https://news.ycombinator.com/item?id=49284083 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/ Comments URL: https://news.ycombinator.com/item?id=49284083 Points: 1 # Comments: 0",
+    "author": "buffer_overlord",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/",
+    "id": "news-4910"
+  },
+  {
     "title": "Web Scraper was translated into 50 languages with AI",
     "summary": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai Comments URL: https://news.ycombinator.com/item?id=49282505 Points: 2 # Comments: 1",
     "content": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai Comments URL: https://news.ycombinator.com/item?id=49282505 Points: 2 # Comments: 1",
