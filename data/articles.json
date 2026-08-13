@@ -1,5 +1,70 @@
 [
   {
+    "title": "A ledger of which of your own AI architectural decisions you could defend",
+    "summary": "Article URL: https://github.com/Dupflo/decision-ledger Comments URL: https://news.ycombinator.com/item?id=49284900 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/Dupflo/decision-ledger Comments URL: https://news.ycombinator.com/item?id=49284900 Points: 1 # Comments: 1",
+    "author": "dupflo",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Dupflo/decision-ledger",
+    "id": "news-4922"
+  },
+  {
+    "title": "Show HN: AI Flight Recorder – record, replay, and track AI session costs",
+    "summary": "Article URL: https://github.com/AllThingsSmitty/ai-flight-recorder Comments URL: https://news.ycombinator.com/item?id=49284938 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/AllThingsSmitty/ai-flight-recorder Comments URL: https://news.ycombinator.com/item?id=49284938 Points: 2 # Comments: 0",
+    "author": "AllThingsSmitty",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/AllThingsSmitty/ai-flight-recorder",
+    "id": "news-4921"
+  },
+  {
+    "title": "Trying to fill out a PDF with AI",
+    "summary": "Article URL: https://twitter.com/DanielLockyer/status/2087542891677671526 Comments URL: https://news.ycombinator.com/item?id=49285007 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/DanielLockyer/status/2087542891677671526 Comments URL: https://news.ycombinator.com/item?id=49285007 Points: 1 # Comments: 0",
+    "author": "nreece",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/DanielLockyer/status/2087542891677671526",
+    "id": "news-4920"
+  },
+  {
+    "title": "DeepSeek-AI/DeepSeek-V4-Pro-0813",
+    "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 Comments URL: https://news.ycombinator.com/item?id=49285036 Points: 3 # Comments: 1",
+    "content": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 Comments URL: https://news.ycombinator.com/item?id=49285036 Points: 3 # Comments: 1",
+    "author": "Philpax",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+    "id": "news-4919"
+  },
+  {
+    "title": "Free private memory across every AI you use on-device",
+    "summary": "Article URL: https://sovseal.com/ Comments URL: https://news.ycombinator.com/item?id=49285061 Points: 1 # Comments: 0",
+    "content": "Article URL: https://sovseal.com/ Comments URL: https://news.ycombinator.com/item?id=49285061 Points: 1 # Comments: 0",
+    "author": "radebe49",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sovseal.com/",
+    "id": "news-4918"
+  },
+  {
     "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
     "summary": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared",
     "content": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
