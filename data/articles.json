@@ -1,5 +1,111 @@
 [
   {
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "summary": "What We Learned by Reproducing 2,200 papers from ICML",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "id": "news-4937"
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "summary": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "id": "news-4936"
+  },
+  {
+    "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+    "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own bench",
+    "content": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. The article Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50% appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+    "id": "news-4935"
+  },
+  {
+    "title": "Microsoft Cuts Purchases of Carbon Removals by 80% Amid AI Push",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/microsoft-cuts-purchases-of-carbon-removals-by-80-amid-ai-push Comments URL: https://news.ycombinator.com/item?id=49289895 Points: 1 # C",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/microsoft-cuts-purchases-of-carbon-removals-by-80-amid-ai-push Comments URL: https://news.ycombinator.com/item?id=49289895 Points: 1 # Comments: 0",
+    "author": "melling",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-08-13/microsoft-cuts-purchases-of-carbon-removals-by-80-amid-ai-push",
+    "id": "news-4934"
+  },
+  {
+    "title": "AI Is Threatening Natural Resources for Billions",
+    "summary": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 2 # Comments: 0",
+    "content": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 2 # Comments: 0",
+    "author": "quaintdev",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+    "id": "news-4933"
+  },
+  {
+    "title": "Anthropic Plans Invisible Watermarks for Claude-Generated Text and Files",
+    "summary": "Article URL: https://techstrong.ai/articles/anthropic-plans-invisible-watermarks-for-claude-generated-text-and-files/ Comments URL: https://news.ycombinator.com/item?id=49290093 Points: 1 # Comments: ",
+    "content": "Article URL: https://techstrong.ai/articles/anthropic-plans-invisible-watermarks-for-claude-generated-text-and-files/ Comments URL: https://news.ycombinator.com/item?id=49290093 Points: 1 # Comments: 0",
+    "author": "CrankyBear",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techstrong.ai/articles/anthropic-plans-invisible-watermarks-for-claude-generated-text-and-files/",
+    "id": "news-4932"
+  },
+  {
+    "title": "The web's newest weapon against AI scrapers is a font",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/ Comments URL: https://news.ycombinator.com/item?id=49290294 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/ Comments URL: https://news.ycombinator.com/item?id=49290294 Points: 1 # Comments: 0",
+    "author": "rawgabbit",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "id": "news-4931"
+  },
+  {
+    "title": "Scale Your AI Revenue – Not Your Cloud Bill",
+    "summary": "Article URL: https://acefleet.dev/ Comments URL: https://news.ycombinator.com/item?id=49290321 Points: 1 # Comments: 0",
+    "content": "Article URL: https://acefleet.dev/ Comments URL: https://news.ycombinator.com/item?id=49290321 Points: 1 # Comments: 0",
+    "author": "flyingfishisme",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://acefleet.dev/",
+    "id": "news-4930"
+  },
+  {
     "title": "Ling 3.0 Flash is the smartest open model at its size",
     "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
     "content": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
