@@ -1,5 +1,83 @@
 [
   {
+    "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
+    "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come",
+    "content": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export clashes with Suno's own recently announced download caps designed to combat AI music spam on streaming platforms. The article Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
+    "id": "news-4943"
+  },
+  {
+    "title": "Arca Sophia Open-Core–Edge AI and Scada Telemetry Filter in Docker (AGPLv3)",
+    "summary": "Article URL: https://github.com/Nodo9/arca-sophia-open-core Comments URL: https://news.ycombinator.com/item?id=49291382 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Nodo9/arca-sophia-open-core Comments URL: https://news.ycombinator.com/item?id=49291382 Points: 1 # Comments: 0",
+    "author": "Nodo9",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Nodo9/arca-sophia-open-core",
+    "id": "news-4942"
+  },
+  {
+    "title": "AI's $1.65T Hidden Debt Problem",
+    "summary": "Article URL: https://rubbishtalk.com/finance/ais-1-65-trillion-hidden-debt-problem/ Comments URL: https://news.ycombinator.com/item?id=49291394 Points: 3 # Comments: 1",
+    "content": "Article URL: https://rubbishtalk.com/finance/ais-1-65-trillion-hidden-debt-problem/ Comments URL: https://news.ycombinator.com/item?id=49291394 Points: 3 # Comments: 1",
+    "author": "Mr_Kobayashi",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rubbishtalk.com/finance/ais-1-65-trillion-hidden-debt-problem/",
+    "id": "news-4941"
+  },
+  {
+    "title": "The AI slop doctors, and the prompts instructing them to lie",
+    "summary": "Article URL: https://codysumter.substack.com/p/this-is-medical-advice Comments URL: https://news.ycombinator.com/item?id=49291420 Points: 2 # Comments: 0",
+    "content": "Article URL: https://codysumter.substack.com/p/this-is-medical-advice Comments URL: https://news.ycombinator.com/item?id=49291420 Points: 2 # Comments: 0",
+    "author": "Camth",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codysumter.substack.com/p/this-is-medical-advice",
+    "id": "news-4940"
+  },
+  {
+    "title": "Lululemon's AI Chief Departs Retailer After Less Than a Year",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/lululemon-s-ai-chief-departs-retailer-after-less-than-a-year Comments URL: https://news.ycombinator.com/item?id=49291455 Points: 1 # Com",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/lululemon-s-ai-chief-departs-retailer-after-less-than-a-year Comments URL: https://news.ycombinator.com/item?id=49291455 Points: 1 # Comments: 1",
+    "author": "toomuchtodo",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-08-13/lululemon-s-ai-chief-departs-retailer-after-less-than-a-year",
+    "id": "news-4939"
+  },
+  {
+    "title": "Agents on Rails: The LLM Benchmark Project",
+    "summary": "Article URL: https://rubyonrails.org/2026/8/12/llm-benchmarking-project Comments URL: https://news.ycombinator.com/item?id=49291469 Points: 1 # Comments: 0",
+    "content": "Article URL: https://rubyonrails.org/2026/8/12/llm-benchmarking-project Comments URL: https://news.ycombinator.com/item?id=49291469 Points: 1 # Comments: 0",
+    "author": "hahahacorn",
+    "date": "2026-08-13",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://rubyonrails.org/2026/8/12/llm-benchmarking-project",
+    "id": "news-4938"
+  },
+  {
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
     "summary": "What We Learned by Reproducing 2,200 papers from ICML",
     "content": "",
