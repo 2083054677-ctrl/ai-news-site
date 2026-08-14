@@ -1,5 +1,31 @@
 [
   {
+    "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+    "summary": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files.",
+    "content": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files. OpenAI says it's not used for AI training, but memories that feed into chats may still end up as training data. The article OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+    "id": "news-4964"
+  },
+  {
+    "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
+    "summary": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding",
+    "content": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks and natively processes up to 262,000 tokens of context. With this release, Qwen is targeting developers building local and agent-based applications. The article Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license appeared first on The Decoder",
+    "author": "Matthias Bastian",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
+    "id": "news-4963"
+  },
+  {
     "title": "State of Open Models: Summer 2026 Observations",
     "summary": "State of Open Models: Summer 2026 Observations",
     "content": "",
