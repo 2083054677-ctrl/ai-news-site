@@ -1,5 +1,18 @@
 [
   {
+    "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+    "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during ",
+    "content": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has limits with fact-heavy text, code, and heavy rewriting. The article Anthropic announces watermark detection API that will let third parties detect Claude's AI texts appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+    "id": "news-4970"
+  },
+  {
     "title": "Z.ai Security Disclosure",
     "summary": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 27 # Comments: 3",
     "content": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 27 # Comments: 3",
