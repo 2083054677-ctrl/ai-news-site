@@ -1,5 +1,18 @@
 [
   {
+    "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+    "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"S",
+    "content": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns inference speed into its own product. The article GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
+    "id": "news-4960"
+  },
+  {
     "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
     "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 perce",
     "content": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review. Claude Code inventor Boris Cherny sees this as \"early signs of life that this might be possible.\" The article Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate appeared first on The Decoder.",
