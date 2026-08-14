@@ -1,5 +1,18 @@
 [
   {
+    "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+    "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 perce",
+    "content": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review. Claude Code inventor Boris Cherny sees this as \"early signs of life that this might be possible.\" The article Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
+    "id": "news-4959"
+  },
+  {
     "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
     "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training a",
     "content": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone. Trained for cybersecurity, GLM-5.3 helped security teams find 2,436 vulnerabilities across 269 projects. The model weights are set to go open source in two weeks. The article Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model appeared first on The Decoder.",
