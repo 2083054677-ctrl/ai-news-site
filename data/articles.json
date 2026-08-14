@@ -1,5 +1,70 @@
 [
   {
+    "title": "Z.ai Security Disclosure",
+    "summary": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 27 # Comments: 3",
+    "content": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 27 # Comments: 3",
+    "author": "Alifatisk",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://cvd.z.ai",
+    "id": "news-4969"
+  },
+  {
+    "title": "Show HN: Biasly.ai – Bias detection with historical context",
+    "summary": "Article URL: https://biasly.ai/ Comments URL: https://news.ycombinator.com/item?id=49303447 Points: 2 # Comments: 0",
+    "content": "Article URL: https://biasly.ai/ Comments URL: https://news.ycombinator.com/item?id=49303447 Points: 2 # Comments: 0",
+    "author": "jayubba1",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://biasly.ai/",
+    "id": "news-4968"
+  },
+  {
+    "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+    "summary": "Article URL: https://www.aletheionagi.com Comments URL: https://news.ycombinator.com/item?id=49303499 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.aletheionagi.com Comments URL: https://news.ycombinator.com/item?id=49303499 Points: 3 # Comments: 0",
+    "author": "felipemayamuniz",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.aletheionagi.com",
+    "id": "news-4967"
+  },
+  {
+    "title": "Young people increasingly don't trust AI",
+    "summary": "Article URL: https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds Comments URL: https://news.ycombinator.co",
+    "content": "Article URL: https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds Comments URL: https://news.ycombinator.com/item?id=49303999 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
+    "id": "news-4966"
+  },
+  {
+    "title": "AI-Assisted Management Drives Latest SUSE Linux Release (2025)",
+    "summary": "Article URL: https://www.suse.com/news/suse-linux-enterprise-server-16-ai-ready-long-term-support/ Comments URL: https://news.ycombinator.com/item?id=49304072 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.suse.com/news/suse-linux-enterprise-server-16-ai-ready-long-term-support/ Comments URL: https://news.ycombinator.com/item?id=49304072 Points: 1 # Comments: 0",
+    "author": "indigodaddy",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.suse.com/news/suse-linux-enterprise-server-16-ai-ready-long-term-support/",
+    "id": "news-4965"
+  },
+  {
     "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
     "summary": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files.",
     "content": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files. OpenAI says it's not used for AI training, but memories that feed into chats may still end up as training data. The article OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline appeared first on The Decoder.",
