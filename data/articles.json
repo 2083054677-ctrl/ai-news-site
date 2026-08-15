@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=49306182 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=49306182 Points: 1 # Comments: 0",
+    "author": "paulpauper",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/",
+    "id": "news-4972"
+  },
+  {
+    "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
+    "summary": "Article URL: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/ Comments URL: https://news.ycombinator.com/item?id=49306375 Points: 1 # Comments: 0",
+    "content": "Article URL: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/ Comments URL: https://news.ycombinator.com/item?id=49306375 Points: 1 # Comments: 0",
+    "author": "anonymousiam",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
+    "id": "news-4971"
+  },
+  {
+    "title": "Talos AI Agent Super Secure",
+    "summary": "Article URL: https://github.com/talos-kernel/talos Comments URL: https://news.ycombinator.com/item?id=49305773 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/talos-kernel/talos Comments URL: https://news.ycombinator.com/item?id=49305773 Points: 1 # Comments: 0",
+    "author": "kurdman007",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/talos-kernel/talos",
+    "id": "news-4975"
+  },
+  {
+    "title": "Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance",
+    "summary": "Article URL: https://flownie.com/ Comments URL: https://news.ycombinator.com/item?id=49305904 Points: 2 # Comments: 0",
+    "content": "Article URL: https://flownie.com/ Comments URL: https://news.ycombinator.com/item?id=49305904 Points: 2 # Comments: 0",
+    "author": "savhascelik",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://flownie.com/",
+    "id": "news-4974"
+  },
+  {
+    "title": "Baking a Model: A Metaphor for LLM Training",
+    "summary": "Article URL: https://newsletter.kentbeck.com/p/baking-a-model Comments URL: https://news.ycombinator.com/item?id=49305969 Points: 1 # Comments: 0",
+    "content": "Article URL: https://newsletter.kentbeck.com/p/baking-a-model Comments URL: https://news.ycombinator.com/item?id=49305969 Points: 1 # Comments: 0",
+    "author": "KentBeck",
+    "date": "2026-08-14",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://newsletter.kentbeck.com/p/baking-a-model",
+    "id": "news-4973"
+  },
+  {
     "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
     "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during ",
     "content": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has limits with fact-heavy text, code, and heavy rewriting. The article Anthropic announces watermark detection API that will let third parties detect Claude's AI texts appeared first on The Decoder.",
