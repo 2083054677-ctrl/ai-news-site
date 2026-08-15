@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+    "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in sev",
+    "content": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaintiffs the market-harm data their cases against AI companies have been missing. The article AI-generated books are flooding Amazon and tanking sales for human authors appeared first on The Decoder.",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+    "id": "news-5002"
+  },
+  {
+    "title": "OpenAI slows release of Astra model citing cyber capabilities",
+    "summary": "Article URL: https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks Comments URL: https://news.ycombinator.com/item?id=49309593 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks Comments URL: https://news.ycombinator.com/item?id=49309593 Points: 2 # Comments: 0",
+    "author": "Bluestein",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
+    "id": "news-5001"
+  },
+  {
+    "title": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
+    "summary": "Article URL: https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat Comments URL: https://news.ycombinator.com/item?id=49309755 Points: 3 # Comments: 1",
+    "content": "Article URL: https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat Comments URL: https://news.ycombinator.com/item?id=49309755 Points: 3 # Comments: 1",
+    "author": "xenodium",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat",
+    "id": "news-5000"
+  },
+  {
+    "title": "Shove – a CLI tactics game Claude Fable 5 designed, built, and played",
+    "summary": "Article URL: https://github.com/robss2020/claude-fable-5-having-fun Comments URL: https://news.ycombinator.com/item?id=49309870 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/robss2020/claude-fable-5-having-fun Comments URL: https://news.ycombinator.com/item?id=49309870 Points: 1 # Comments: 0",
+    "author": "Bluestein",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/robss2020/claude-fable-5-having-fun",
+    "id": "news-4999"
+  },
+  {
+    "title": "Honest Government Ad – AI Data Centres [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kON2ZI2BNj8 Comments URL: https://news.ycombinator.com/item?id=49309969 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.youtube.com/watch?v=kON2ZI2BNj8 Comments URL: https://news.ycombinator.com/item?id=49309969 Points: 2 # Comments: 1",
+    "author": "robrain",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=kON2ZI2BNj8",
+    "id": "news-4998"
+  },
+  {
     "title": "Debian has begun voting on the future of AI/LLM contributions",
     "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 5 # Comments: 0",
     "content": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 5 # Comments: 0",
