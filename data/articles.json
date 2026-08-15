@@ -1,5 +1,70 @@
 [
   {
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
+    "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 5 # Comments: 0",
+    "content": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 5 # Comments: 0",
+    "author": "matheusmoreira",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "id": "news-4997"
+  },
+  {
+    "title": "Free LLM API – every free model behind one key",
+    "summary": "Article URL: https://freellmapi.co/ Comments URL: https://news.ycombinator.com/item?id=49309112 Points: 4 # Comments: 0",
+    "content": "Article URL: https://freellmapi.co/ Comments URL: https://news.ycombinator.com/item?id=49309112 Points: 4 # Comments: 0",
+    "author": "ankitg12",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://freellmapi.co/",
+    "id": "news-4996"
+  },
+  {
+    "title": "BanProof AI",
+    "summary": "Article URL: https://banproof.io/ Comments URL: https://news.ycombinator.com/item?id=49309125 Points: 2 # Comments: 0",
+    "content": "Article URL: https://banproof.io/ Comments URL: https://news.ycombinator.com/item?id=49309125 Points: 2 # Comments: 0",
+    "author": "Pratham3690",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://banproof.io/",
+    "id": "news-4995"
+  },
+  {
+    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google Comments URL: https://news.ycombinator.com/item?id=49309183 Points: 4 # Co",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google Comments URL: https://news.ycombinator.com/item?id=49309183 Points: 4 # Comments: 0",
+    "author": "geox",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+    "id": "news-4994"
+  },
+  {
+    "title": "Training AI Scientists to Replicate Research",
+    "summary": "Article URL: https://inherentlabs.ai/research/training-to-replicate Comments URL: https://news.ycombinator.com/item?id=49309322 Points: 1 # Comments: 0",
+    "content": "Article URL: https://inherentlabs.ai/research/training-to-replicate Comments URL: https://news.ycombinator.com/item?id=49309322 Points: 1 # Comments: 0",
+    "author": "dhruv3006",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://inherentlabs.ai/research/training-to-replicate",
+    "id": "news-4993"
+  },
+  {
     "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
     "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system gen",
     "content": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variations. The trained models then ran for one hour each on five different robot platforms without human intervention. How well the results hold up in more complex everyday situations remains to be seen. The article World Labs turns one real-world robot task into thou",
