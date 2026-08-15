@@ -1,5 +1,96 @@
 [
   {
+    "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
+    "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system gen",
+    "content": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variations. The trained models then ran for one hour each on five different robot platforms without human intervention. How well the results hold up in more complex everyday situations remains to be seen. The article World Labs turns one real-world robot task into thou",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+    "id": "news-4992"
+  },
+  {
+    "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
+    "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system. Judge Spader compar",
+    "content": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system. Judge Spader compared the attempt to secretly tampering with a jury and revoked the plaintiff's electronic filing privileges. The court stressed that Connecticut doesn't use AI to review filings, but the intent alone was enough to warrant sanctions. The article Plaintiff hid invisible AI instructions in court filings ",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
+    "id": "news-4991"
+  },
+  {
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Po",
+    "content": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 4 # Comments: 0",
+    "author": "jnord",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "id": "news-4990"
+  },
+  {
+    "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile",
+    "summary": "Article URL: https://www.kyivpost.com/post/82225 Comments URL: https://news.ycombinator.com/item?id=49308562 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.kyivpost.com/post/82225 Comments URL: https://news.ycombinator.com/item?id=49308562 Points: 3 # Comments: 0",
+    "author": "jnord",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.kyivpost.com/post/82225",
+    "id": "news-4989"
+  },
+  {
+    "title": "OpenAI updates its Privacy Policy to include ads",
+    "summary": "I got this email:Hi _____,We’re rolling out ads in ChatGPT and we’re updating our Privacy Policy to include information about how ads work and how you can control your experience.What’s changingAds ma",
+    "content": "I got this email:Hi _____,We’re rolling out ads in ChatGPT and we’re updating our Privacy Policy to include information about how ads work and how you can control your experience.What’s changingAds may appear on Free and Go plans beginning later this month. Plus, Pro, Enterprise, Business and Education plans do not have ads. Ad-free options remain available.To begin, ads will not be personalised. We select them using the current topic of your ChatGPT conversation and limited contextual informati",
+    "author": "1equalsequals1",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49308738",
+    "id": "news-4988"
+  },
+  {
+    "title": "Show HN: Chemistry AI – step-by-step chemistry solver",
+    "summary": "Article URL: https://chemistryai.chat Comments URL: https://news.ycombinator.com/item?id=49308749 Points: 1 # Comments: 0",
+    "content": "Article URL: https://chemistryai.chat Comments URL: https://news.ycombinator.com/item?id=49308749 Points: 1 # Comments: 0",
+    "author": "realisticaigen",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://chemistryai.chat",
+    "id": "news-4987"
+  },
+  {
+    "title": "Show HN: HN Without AI Stories",
+    "summary": "URL: https://hnnoai.readpipe.org/ Comments URL: https://news.ycombinator.com/item?id=49308787 Points: 1 # Comments: 0",
+    "content": "URL: https://hnnoai.readpipe.org/ Comments URL: https://news.ycombinator.com/item?id=49308787 Points: 1 # Comments: 0",
+    "author": "zorked",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hnnoai.readpipe.org/",
+    "id": "news-4986"
+  },
+  {
     "title": "New benchmark confirms AI models still perform poorly at visual perception",
     "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow ",
     "content": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-reading stage. The article New benchmark confirms AI models still perform poorly at visual perception appeared first on The Decoder.",
