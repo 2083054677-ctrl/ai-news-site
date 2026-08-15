@@ -1,5 +1,44 @@
 [
   {
+    "title": "AI Driven Testing",
+    "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 7 # Comments: 3",
+    "content": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 7 # Comments: 3",
+    "author": "oneounceman",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://app.deltix.ai",
+    "id": "news-4978"
+  },
+  {
+    "title": "Dynatrace to buy AI observability startup Arize for $915M",
+    "summary": "Article URL: https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m Comments URL: https://news.ycombinator.com/item?id=49307465 Points: 1 # Comments: 0",
+    "content": "Article URL: https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m Comments URL: https://news.ycombinator.com/item?id=49307465 Points: 1 # Comments: 0",
+    "author": "doughnutstracks",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m",
+    "id": "news-4977"
+  },
+  {
+    "title": "Best AI solution to hunt for buffer overflows in open source apps?",
+    "summary": "I'm an AI skeptic -- I was the type of person who made his students type out code from stack overflow, no copy and paste. (And don't get me started on this generation's lack of shitposting ability lol",
+    "content": "I'm an AI skeptic -- I was the type of person who made his students type out code from stack overflow, no copy and paste. (And don't get me started on this generation's lack of shitposting ability lol...)ANYWAYS - I attempted OSCP a while back, but floundered on the exploit generation portion... I think I know of a couple pieces of software that have some issues. I'd love to try to use AI to bridge that gap between theory and practice and maybe give a talk documenting my journey somewhere.(On th",
+    "author": "firefax",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49307553",
+    "id": "news-4976"
+  },
+  {
     "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
     "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=49306182 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=49306182 Points: 1 # Comments: 0",
