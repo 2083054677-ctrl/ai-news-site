@@ -1,5 +1,70 @@
 [
   {
+    "title": "Why tech bosses keep sharing their manifestos about AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 4 # Comments: 1",
+    "content": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 4 # Comments: 1",
+    "author": "tcp_handshaker",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+    "id": "news-5013"
+  },
+  {
+    "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition Comments URL: https://news.ycombinator.com/item?id=49313772 Poi",
+    "content": "Article URL: https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition Comments URL: https://news.ycombinator.com/item?id=49313772 Points: 1 # Comments: 0",
+    "author": "heisenbit",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+    "id": "news-5012"
+  },
+  {
+    "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+    "summary": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 3 # Comments: 1",
+    "content": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 3 # Comments: 1",
+    "author": "Fellw",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+    "id": "news-5011"
+  },
+  {
+    "title": "Can an LLM price a World Cup match better than the market (and make money)?",
+    "summary": "Article URL: https://christian.bock.bio/posts/frontier_xg_worldcup/ Comments URL: https://news.ycombinator.com/item?id=49313812 Points: 2 # Comments: 0",
+    "content": "Article URL: https://christian.bock.bio/posts/frontier_xg_worldcup/ Comments URL: https://news.ycombinator.com/item?id=49313812 Points: 2 # Comments: 0",
+    "author": "cbock90",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://christian.bock.bio/posts/frontier_xg_worldcup/",
+    "id": "news-5010"
+  },
+  {
+    "title": "Ctok: Reconstructed Claude Tokenizer",
+    "summary": "Article URL: https://github.com/sanderland/ctok Comments URL: https://news.ycombinator.com/item?id=49313865 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/sanderland/ctok Comments URL: https://news.ycombinator.com/item?id=49313865 Points: 1 # Comments: 0",
+    "author": "krackers",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/sanderland/ctok",
+    "id": "news-5009"
+  },
+  {
     "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
     "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is com",
     "content": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter. The article Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings appeared first on The Decoder.",
