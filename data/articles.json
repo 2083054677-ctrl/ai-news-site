@@ -1,5 +1,83 @@
 [
   {
+    "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+    "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models at",
+    "content": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an afterlife. A surgical cut in one place, it turns out, doesn't stay local. The article When AI models aren't allowed to reflect on themselves, it changes their entire worldview appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+    "id": "news-5041"
+  },
+  {
+    "title": "Show HN: Remove AI voice from AI writings",
+    "summary": "Article URL: https://unslopai.com Comments URL: https://news.ycombinator.com/item?id=49319026 Points: 2 # Comments: 0",
+    "content": "Article URL: https://unslopai.com Comments URL: https://news.ycombinator.com/item?id=49319026 Points: 2 # Comments: 0",
+    "author": "not_wowinter14",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://unslopai.com",
+    "id": "news-5040"
+  },
+  {
+    "title": "Inducing LLM to assert own consciousness restores human beliefs and values",
+    "summary": "Article URL: https://arxiv.org/abs/2607.28607 Comments URL: https://news.ycombinator.com/item?id=49319047 Points: 4 # Comments: 1",
+    "content": "Article URL: https://arxiv.org/abs/2607.28607 Comments URL: https://news.ycombinator.com/item?id=49319047 Points: 4 # Comments: 1",
+    "author": "yboris",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2607.28607",
+    "id": "news-5039"
+  },
+  {
+    "title": "US warns allied nations: Side with us in the AI race",
+    "summary": "Article URL: https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/ Comments URL: https://news.ycombinator.com/item?id=49319156 Points:",
+    "content": "Article URL: https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/ Comments URL: https://news.ycombinator.com/item?id=49319156 Points: 2 # Comments: 0",
+    "author": "rantingdemon",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/",
+    "id": "news-5038"
+  },
+  {
+    "title": "Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset",
+    "summary": "Article URL: https://whoisusingai.com/tracker Comments URL: https://news.ycombinator.com/item?id=49319230 Points: 1 # Comments: 0",
+    "content": "Article URL: https://whoisusingai.com/tracker Comments URL: https://news.ycombinator.com/item?id=49319230 Points: 1 # Comments: 0",
+    "author": "pixipace",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://whoisusingai.com/tracker",
+    "id": "news-5037"
+  },
+  {
+    "title": "Measuring Autonomous AI Research",
+    "summary": "Article URL: https://www.primeintellect.ai/blog/measuring-autonomous-research Comments URL: https://news.ycombinator.com/item?id=49319348 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.primeintellect.ai/blog/measuring-autonomous-research Comments URL: https://news.ycombinator.com/item?id=49319348 Points: 1 # Comments: 0",
+    "author": "DSemba",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.primeintellect.ai/blog/measuring-autonomous-research",
+    "id": "news-5036"
+  },
+  {
     "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
     "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback con",
     "content": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models. The article Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests appeared first on The Decoder.",
