@@ -1,5 +1,96 @@
 [
   {
+    "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+    "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback con",
+    "content": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models. The article Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+    "id": "news-5035"
+  },
+  {
+    "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+    "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staff",
+    "content": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"burbling sense of responsibility and dread\" that OpenAI isn't doing enough on safety. The article OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups appeared first on The De",
+    "author": "Matthias Bastian",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+    "id": "news-5034"
+  },
+  {
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 44 # Comments: 21",
+    "content": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 44 # Comments: 21",
+    "author": "porridgeraisin",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://littlelearner-ll.github.io/",
+    "id": "news-5033"
+  },
+  {
+    "title": "Invisible to the Machine: auditing AI recommendation against a complete census",
+    "summary": "Article URL: https://arxiv.org/abs/2608.07069 Comments URL: https://news.ycombinator.com/item?id=49317814 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2608.07069 Comments URL: https://news.ycombinator.com/item?id=49317814 Points: 1 # Comments: 0",
+    "author": "fspunch",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2608.07069",
+    "id": "news-5032"
+  },
+  {
+    "title": "Pax Silica vs. Waico: Competing AI and Tech Blocs",
+    "summary": "Article URL: https://earthly.city/datasets/geoevent/naddr1qvzqqqyj3vpzpfe82g8nhe34mayaj656t2zctv0d5nsv6kjnss558wkrf4kapd30qq257vm6wddx5un4x94kkvtsf5mxkjtcd9jxg58ju7p?ms=dataset%3Aa727520f3be635df49d96",
+    "content": "Article URL: https://earthly.city/datasets/geoevent/naddr1qvzqqqyj3vpzpfe82g8nhe34mayaj656t2zctv0d5nsv6kjnss558wkrf4kapd30qq257vm6wddx5un4x94kkvtsf5mxkjtcd9jxg58ju7p?ms=dataset%3Aa727520f3be635df49d96a9a5a8585b1eda4e0cd5a53842943bac34d6dd0b62f%3AO3zsZjru1kk1pM6kIxidd Comments URL: https://news.ycombinator.com/item?id=49317837 Points: 2 # Comments: 0",
+    "author": "rzerowan",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://earthly.city/datasets/geoevent/naddr1qvzqqqyj3vpzpfe82g8nhe34mayaj656t2zctv0d5nsv6kjnss558wkrf4kapd30qq257vm6wddx5un4x94kkvtsf5mxkjtcd9jxg58ju7p?ms=dataset%3Aa727520f3be635df49d96a9a5a8585b1eda4e0cd5a53842943bac34d6dd0b62f%3AO3zsZjru1kk1pM6kIxidd",
+    "id": "news-5031"
+  },
+  {
+    "title": "AI text watermarking is not a big deal",
+    "summary": "Article URL: https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/ Comments URL: https://news.ycombinator.com/item?id=49317892 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/ Comments URL: https://news.ycombinator.com/item?id=49317892 Points: 1 # Comments: 0",
+    "author": "meetpateltech",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
+    "id": "news-5030"
+  },
+  {
+    "title": "AI Agent Insurance Products: The New Wave",
+    "summary": "Article URL: https://openkoda.com/ai-agent-insurance-products/ Comments URL: https://news.ycombinator.com/item?id=49317988 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openkoda.com/ai-agent-insurance-products/ Comments URL: https://news.ycombinator.com/item?id=49317988 Points: 1 # Comments: 0",
+    "author": "mgl",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openkoda.com/ai-agent-insurance-products/",
+    "id": "news-5029"
+  },
+  {
     "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
     "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing. Th",
     "content": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing. The article One in five US workers now delegates tasks to AI instead of colleagues, survey finds appeared first on The Decoder.",
