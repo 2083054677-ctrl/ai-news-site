@@ -1,5 +1,70 @@
 [
   {
+    "title": "Why all AI content sounds the same (and how to fix it)",
+    "summary": "Article URL: https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly Comments URL: https://news.ycombinator.com/item?id=49322037 Points: 2 # Comments: 1",
+    "content": "Article URL: https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly Comments URL: https://news.ycombinator.com/item?id=49322037 Points: 2 # Comments: 1",
+    "author": "dundalk03",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
+    "id": "news-5052"
+  },
+  {
+    "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
+    "summary": "Article URL: https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/ Comments URL: https://news.ycombinator.com/item?id=49322233 Points: 1 # Comments: 0",
+    "content": "Article URL: https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/ Comments URL: https://news.ycombinator.com/item?id=49322233 Points: 1 # Comments: 0",
+    "author": "pessimizer",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
+    "id": "news-5051"
+  },
+  {
+    "title": "Evaluating AI Agents as Products",
+    "summary": "Article URL: https://www.marble.onl/posts/evaluating_ai_product_quality.html Comments URL: https://news.ycombinator.com/item?id=49322281 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.marble.onl/posts/evaluating_ai_product_quality.html Comments URL: https://news.ycombinator.com/item?id=49322281 Points: 2 # Comments: 0",
+    "author": "amarble",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
+    "id": "news-5050"
+  },
+  {
+    "title": "HEP-TH and AI",
+    "summary": "Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=15818 Comments URL: https://news.ycombinator.com/item?id=49322322 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=15818 Comments URL: https://news.ycombinator.com/item?id=49322322 Points: 1 # Comments: 0",
+    "author": "jjgreen",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
+    "id": "news-5049"
+  },
+  {
+    "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
+    "summary": "So basically modern AI using classic AI is like a human using a calculator? Comments URL: https://news.ycombinator.com/item?id=49322324 Points: 1 # Comments: 0",
+    "content": "So basically modern AI using classic AI is like a human using a calculator? Comments URL: https://news.ycombinator.com/item?id=49322324 Points: 1 # Comments: 0",
+    "author": "amichail",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49322324",
+    "id": "news-5048"
+  },
+  {
     "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
     "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas. The article Top",
     "content": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas. The article Top mathematicians say LLMs are strong calculators but poor creative thinkers appeared first on The Decoder.",
