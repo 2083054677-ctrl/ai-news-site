@@ -1,5 +1,70 @@
 [
   {
+    "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
+    "summary": "Article URL: https://github.com/alainnothere/privibe/tree/main Comments URL: https://news.ycombinator.com/item?id=49315777 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/alainnothere/privibe/tree/main Comments URL: https://news.ycombinator.com/item?id=49315777 Points: 2 # Comments: 1",
+    "author": "xlayn",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/alainnothere/privibe/tree/main",
+    "id": "news-5022"
+  },
+  {
+    "title": "Snap Chart AI",
+    "summary": "Article URL: https://www.snap-chart.ai/ Comments URL: https://news.ycombinator.com/item?id=49315810 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.snap-chart.ai/ Comments URL: https://news.ycombinator.com/item?id=49315810 Points: 3 # Comments: 0",
+    "author": "trendyking",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.snap-chart.ai/",
+    "id": "news-5021"
+  },
+  {
+    "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
+    "summary": "Article URL: https://truestar.tech Comments URL: https://news.ycombinator.com/item?id=49315975 Points: 2 # Comments: 1",
+    "content": "Article URL: https://truestar.tech Comments URL: https://news.ycombinator.com/item?id=49315975 Points: 2 # Comments: 1",
+    "author": "vineetkia",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://truestar.tech",
+    "id": "news-5020"
+  },
+  {
+    "title": "Has the hallucination problem in AI been solved?",
+    "summary": "My understanding that all AI can, and will hallucinate. I get downvoted for saying this, but no one ever says I'm wrong or cites any source. Perhaps it's more nuanced than that? Please, enlighten me. ",
+    "content": "My understanding that all AI can, and will hallucinate. I get downvoted for saying this, but no one ever says I'm wrong or cites any source. Perhaps it's more nuanced than that? Please, enlighten me. Comments URL: https://news.ycombinator.com/item?id=49316330 Points: 1 # Comments: 2",
+    "author": "spl757",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49316330",
+    "id": "news-5019"
+  },
+  {
+    "title": "Show HN: Widen, a native Postgres GUI using Apple's on-device LLM",
+    "summary": "Article URL: https://github.com/betocmn/widen Comments URL: https://news.ycombinator.com/item?id=49316394 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/betocmn/widen Comments URL: https://news.ycombinator.com/item?id=49316394 Points: 1 # Comments: 0",
+    "author": "thedreammachine",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/betocmn/widen",
+    "id": "news-5018"
+  },
+  {
     "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
     "summary": "Article URL: https://github.com/christensen143/claude-trofeo-hud Comments URL: https://news.ycombinator.com/item?id=49314594 Points: 2 # Comments: 0",
     "content": "Article URL: https://github.com/christensen143/claude-trofeo-hud Comments URL: https://news.ycombinator.com/item?id=49314594 Points: 2 # Comments: 0",
