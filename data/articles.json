@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude appends the current year for some web search queries",
+    "summary": "Article URL: https://canonry.ai/blog/claude-appends-year-to-web-searches Comments URL: https://news.ycombinator.com/item?id=49322939 Points: 2 # Comments: 0",
+    "content": "Article URL: https://canonry.ai/blog/claude-appends-year-to-web-searches Comments URL: https://news.ycombinator.com/item?id=49322939 Points: 2 # Comments: 0",
+    "author": "arberx",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://canonry.ai/blog/claude-appends-year-to-web-searches",
+    "id": "news-5057"
+  },
+  {
+    "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
+    "summary": "Article URL: https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323032 Points: 5",
+    "content": "Article URL: https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323032 Points: 5 # Comments: 2",
+    "author": "kgwgk",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "id": "news-5056"
+  },
+  {
+    "title": "Red queen hypothesis – a new way forward for self-improving AI",
+    "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 1 # Comments: 0",
+    "author": "hardlianotion",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "id": "news-5055"
+  },
+  {
+    "title": "Show HN: AI activity discovery that brings all activities to one platform",
+    "summary": "Article URL: https://hyp-e.com/ Comments URL: https://news.ycombinator.com/item?id=49323151 Points: 2 # Comments: 0",
+    "content": "Article URL: https://hyp-e.com/ Comments URL: https://news.ycombinator.com/item?id=49323151 Points: 2 # Comments: 0",
+    "author": "behaulas",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://hyp-e.com/",
+    "id": "news-5054"
+  },
+  {
+    "title": "Does Fixing Break Security? An Empirical Study of LLM Security Degradation",
+    "summary": "Article URL: https://arxiv.org/abs/2608.13404 Comments URL: https://news.ycombinator.com/item?id=49323197 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2608.13404 Comments URL: https://news.ycombinator.com/item?id=49323197 Points: 1 # Comments: 0",
+    "author": "Jimmc414",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2608.13404",
+    "id": "news-5053"
+  },
+  {
     "title": "Why all AI content sounds the same (and how to fix it)",
     "summary": "Article URL: https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly Comments URL: https://news.ycombinator.com/item?id=49322037 Points: 2 # Comments: 1",
     "content": "Article URL: https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly Comments URL: https://news.ycombinator.com/item?id=49322037 Points: 2 # Comments: 1",
