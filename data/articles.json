@@ -1,5 +1,83 @@
 [
   {
+    "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+    "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing. Th",
+    "content": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing. The article One in five US workers now delegates tasks to AI instead of colleagues, survey finds appeared first on The Decoder.",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+    "id": "news-5028"
+  },
+  {
+    "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+    "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time p",
+    "content": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, those metrics often tell you more than raw token pricing. The article Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data appeared first on The Decoder.",
+    "author": "Tomislav Bezmalinović",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+    "id": "news-5027"
+  },
+  {
+    "title": "Ownership in the Age of AI",
+    "summary": "Article URL: https://sahilkolwankar.com/blog/ai-input-not-output/ Comments URL: https://news.ycombinator.com/item?id=49316924 Points: 2 # Comments: 0",
+    "content": "Article URL: https://sahilkolwankar.com/blog/ai-input-not-output/ Comments URL: https://news.ycombinator.com/item?id=49316924 Points: 2 # Comments: 0",
+    "author": "sahilkolwankar",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://sahilkolwankar.com/blog/ai-input-not-output/",
+    "id": "news-5026"
+  },
+  {
+    "title": "I built AIM Maps but you play AI",
+    "summary": "Article URL: https://www.1vs1.xyz/ Comments URL: https://news.ycombinator.com/item?id=49317048 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.1vs1.xyz/ Comments URL: https://news.ycombinator.com/item?id=49317048 Points: 1 # Comments: 0",
+    "author": "mattmerrick",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.1vs1.xyz/",
+    "id": "news-5025"
+  },
+  {
+    "title": "The Safety Reckoning Inside OpenAI",
+    "summary": "Article URL: https://www.wired.com/story/openai-safety-security-ai-agents-culture/ Comments URL: https://news.ycombinator.com/item?id=49317082 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wired.com/story/openai-safety-security-ai-agents-culture/ Comments URL: https://news.ycombinator.com/item?id=49317082 Points: 1 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "id": "news-5024"
+  },
+  {
+    "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
+    "summary": "Article URL: https://github.com/dburnett11155-rgb/Tokencompress Comments URL: https://news.ycombinator.com/item?id=49317274 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/dburnett11155-rgb/Tokencompress Comments URL: https://news.ycombinator.com/item?id=49317274 Points: 2 # Comments: 0",
+    "author": "ProffessorD",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/dburnett11155-rgb/Tokencompress",
+    "id": "news-5023"
+  },
+  {
     "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
     "summary": "Article URL: https://github.com/alainnothere/privibe/tree/main Comments URL: https://news.ycombinator.com/item?id=49315777 Points: 2 # Comments: 1",
     "content": "Article URL: https://github.com/alainnothere/privibe/tree/main Comments URL: https://news.ycombinator.com/item?id=49315777 Points: 2 # Comments: 1",
