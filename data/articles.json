@@ -1,5 +1,70 @@
 [
   {
+    "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us Comments URL: https://news.ycombinator.com/item?id=49325596 Points: 2 # Comments:",
+    "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us Comments URL: https://news.ycombinator.com/item?id=49325596 Points: 2 # Comments: 0",
+    "author": "pella",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
+    "id": "news-5066"
+  },
+  {
+    "title": "Show HN: Adding friction to my automatic open Claude reaction",
+    "summary": "I've been reaching for claude way too often and wanted to add some friction. Give myself a chance to think about whether or not it's actually necessary :')https://github.com/aqureshi8/claudeconfirm Co",
+    "content": "I've been reaching for claude way too often and wanted to add some friction. Give myself a chance to think about whether or not it's actually necessary :')https://github.com/aqureshi8/claudeconfirm Comments URL: https://news.ycombinator.com/item?id=49325617 Points: 3 # Comments: 0",
+    "author": "aqureshi8",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49325617",
+    "id": "news-5065"
+  },
+  {
+    "title": "AI Agent Safety Is Still Thinking Like Permissions",
+    "summary": "Article URL: https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98 Comments URL: https://news.ycombinator.com/item?id=49325639 Points: 5 # Comments: 0",
+    "content": "Article URL: https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98 Comments URL: https://news.ycombinator.com/item?id=49325639 Points: 5 # Comments: 0",
+    "author": "jflynt76",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98",
+    "id": "news-5064"
+  },
+  {
+    "title": "BlockArena: AI-Generated FPS Game",
+    "summary": "Article URL: https://blockarena.puter.com/ Comments URL: https://news.ycombinator.com/item?id=49325641 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blockarena.puter.com/ Comments URL: https://news.ycombinator.com/item?id=49325641 Points: 1 # Comments: 0",
+    "author": "ent101",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blockarena.puter.com/",
+    "id": "news-5063"
+  },
+  {
+    "title": "Ask HN: How do you keep track of all your codex/Claude sessions?",
+    "summary": "I create so many assets, for both dev and GTM, have many that remain unfinished...How do you keep track of it all? Comments URL: https://news.ycombinator.com/item?id=49325946 Points: 1 # Comments: 0",
+    "content": "I create so many assets, for both dev and GTM, have many that remain unfinished...How do you keep track of it all? Comments URL: https://news.ycombinator.com/item?id=49325946 Points: 1 # Comments: 0",
+    "author": "lasky",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49325946",
+    "id": "news-5062"
+  },
+  {
     "title": "The CLI your AI agent drives to manage your knowledge graph",
     "summary": "Article URL: https://useokf.com/ Comments URL: https://news.ycombinator.com/item?id=49325279 Points: 1 # Comments: 0",
     "content": "Article URL: https://useokf.com/ Comments URL: https://news.ycombinator.com/item?id=49325279 Points: 1 # Comments: 0",
