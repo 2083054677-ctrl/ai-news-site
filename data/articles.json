@@ -1,5 +1,96 @@
 [
   {
+    "title": "AI video market has bounced back from Sora's false start",
+    "summary": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. Netflix already uses AI in 300 of its 1,",
+    "content": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. Netflix already uses AI in 300 of its 1,000 titles, and the startup Higgsfield now carries a $5.4 billion valuation. What was once a tech demo has grown into its own industry, complete with valuations, job titles, and fights over who gets a cut. The article AI video market has bounced back from Sora's false start appeared first on The Dec",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
+    "id": "news-5091"
+  },
+  {
+    "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+    "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier. Acc",
+    "content": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier. According to the Wall Street Journal, nine tech companies now hold around $3 trillion in AI commitments that don't appear on any balance sheet. The article OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+    "id": "news-5090"
+  },
+  {
+    "title": "The beautiful mathematics behind OpenAI's sphere packing result",
+    "summary": "Article URL: https://www.empirical.health/blog/ai-math-sphere-packing/ Comments URL: https://news.ycombinator.com/item?id=49331116 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.empirical.health/blog/ai-math-sphere-packing/ Comments URL: https://news.ycombinator.com/item?id=49331116 Points: 2 # Comments: 0",
+    "author": "brandonb",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.empirical.health/blog/ai-math-sphere-packing/",
+    "id": "news-5089"
+  },
+  {
+    "title": "What 15M Gemini conversations tell us about AI at work",
+    "summary": "Article URL: https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work Comments URL: https://news.ycombinator.com/item?id=49331161 Points: 2 # Comments: 0",
+    "content": "Article URL: https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work Comments URL: https://news.ycombinator.com/item?id=49331161 Points: 2 # Comments: 0",
+    "author": "chhum",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work",
+    "id": "news-5088"
+  },
+  {
+    "title": "How to disable or avoid intrusive AI",
+    "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 2 # Comments: 0",
+    "author": "ColinWright",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.librarian.net/notoai/",
+    "id": "news-5087"
+  },
+  {
+    "title": "Using AI in 2026 (Coding, Writing, Learning, Assistant-Ing)",
+    "summary": "Article URL: https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing Comments URL: https://news.ycombinator.com/item?id=49331280 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing Comments URL: https://news.ycombinator.com/item?id=49331280 Points: 1 # Comments: 0",
+    "author": "sshh12",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing",
+    "id": "news-5086"
+  },
+  {
+    "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 1 # Comments: 0",
+    "author": "galnagli",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "id": "news-5085"
+  },
+  {
     "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
     "summary": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers are facing new transparency headaches. Th",
     "content": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers are facing new transparency headaches. The article Anthropic watermarks Claude's output, but critics question the tradeoffs appeared first on The Decoder.",
