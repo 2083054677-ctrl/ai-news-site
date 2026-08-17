@@ -1,5 +1,84 @@
 [
   {
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "id": "news-5098"
+  },
+  {
+    "title": "Is reviewing AI even possible?",
+    "summary": "Article URL: https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/ Comments URL: https://news.ycombinator.com/item?id=49336725 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/ Comments URL: https://news.ycombinator.com/item?id=49336725 Points: 2 # Comments: 0",
+    "author": "ibobev",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
+    "id": "news-5097"
+  },
+  {
+    "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+    "summary": "Landing Page: https://www.trydoberman.dev/The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruder",
+    "content": "Landing Page: https://www.trydoberman.dev/The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in.What is Doberman: Doberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of the art security guidelines, the second layer is dynamic, learning from your use and personal preferences.How is Dob",
+    "author": "alanfuNZ",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/fu351/Doberman-Core",
+    "id": "news-5096"
+  },
+  {
+    "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+    "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/ Comments URL: https://news.ycombinator.com/item?id=49336869 Points: 1 # Comments: 0",
+    "content": "Article URL: https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/ Comments URL: https://news.ycombinator.com/item?id=49336869 Points: 1 # Comments: 0",
+    "author": "Bender",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+    "id": "news-5095"
+  },
+  {
+    "title": "OpenAI Locks in Lease for Data Center in Ohio with Backing from Nvidia",
+    "summary": "Article URL: https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c Comments URL: https://news.ycombinator.com/item?id=49336931 Points: 1 # C",
+    "content": "Article URL: https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c Comments URL: https://news.ycombinator.com/item?id=49336931 Points: 1 # Comments: 0",
+    "author": "jaredwiener",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c",
+    "id": "news-5094"
+  },
+  {
+    "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+    "summary": "Article URL: https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287 Comments URL: https://news.ycombinator.com/item?id=49336932 Points: 1 # Comments: 1",
+    "content": "Article URL: https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287 Comments URL: https://news.ycombinator.com/item?id=49336932 Points: 1 # Comments: 1",
+    "author": "bookofjoe",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+    "id": "news-5093"
+  },
+  {
     "title": "AirTag reveals how Amazon destroys rare books for AI training",
     "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process. The article AirTag reveals how Amazon destroys rare books for AI training appeared firs",
     "content": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process. The article AirTag reveals how Amazon destroys rare books for AI training appeared first on The Decoder.",
