@@ -1,5 +1,57 @@
 [
   {
+    "title": "The CLI your AI agent drives to manage your knowledge graph",
+    "summary": "Article URL: https://useokf.com/ Comments URL: https://news.ycombinator.com/item?id=49325279 Points: 1 # Comments: 0",
+    "content": "Article URL: https://useokf.com/ Comments URL: https://news.ycombinator.com/item?id=49325279 Points: 1 # Comments: 0",
+    "author": "jhgaylor",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://useokf.com/",
+    "id": "news-5058"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "summary": "Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombinator.com/item?id=49324712 Points: 11 # Comments: 2",
+    "content": "Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombinator.com/item?id=49324712 Points: 11 # Comments: 2",
+    "author": "sbulaev",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "id": "news-5061"
+  },
+  {
+    "title": "Context for Claude – give eyes and ears to your agents",
+    "summary": "Article URL: https://www.contextforclaude.com/ Comments URL: https://news.ycombinator.com/item?id=49324945 Points: 3 # Comments: 2",
+    "content": "Article URL: https://www.contextforclaude.com/ Comments URL: https://news.ycombinator.com/item?id=49324945 Points: 3 # Comments: 2",
+    "author": "Archit_lal_",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.contextforclaude.com/",
+    "id": "news-5060"
+  },
+  {
+    "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
+    "summary": "Article URL: https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI Comments URL: https://news.ycombinator.com/item?id=49324994 Points: 2 # Comments: 2",
+    "content": "Article URL: https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI Comments URL: https://news.ycombinator.com/item?id=49324994 Points: 2 # Comments: 2",
+    "author": "AnhTho_FR",
+    "date": "2026-08-16",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI",
+    "id": "news-5059"
+  },
+  {
     "title": "Claude appends the current year for some web search queries",
     "summary": "Article URL: https://canonry.ai/blog/claude-appends-year-to-web-searches Comments URL: https://news.ycombinator.com/item?id=49322939 Points: 2 # Comments: 0",
     "content": "Article URL: https://canonry.ai/blog/claude-appends-year-to-web-searches Comments URL: https://news.ycombinator.com/item?id=49322939 Points: 2 # Comments: 0",
