@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI Is Helping Patients Solve Medical Mysteries",
+    "summary": "Article URL: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25 Comments URL: https://news.ycombinator.com/item?id=49326250 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25 Comments URL: https://news.ycombinator.com/item?id=49326250 Points: 2 # Comments: 0",
+    "author": "toomuchtodo",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
+    "id": "news-5071"
+  },
+  {
+    "title": "Ask HN: Claude Desktop Weird Behavior",
+    "summary": "I had a Claude session going on on my mac on thedesktop app. I also had a separate session on a separate project on my Windows machine, again on Claude Desktop app. Mac session finished a fix for a we",
+    "content": "I had a Claude session going on on my mac on thedesktop app. I also had a separate session on a separate project on my Windows machine, again on Claude Desktop app. Mac session finished a fix for a web app and started testing, to my surprise web site launched on my Windows machine. Any idea why? Is it the remote functionality in play? I don't remember setting it up. Comments URL: https://news.ycombinator.com/item?id=49326276 Points: 1 # Comments: 0",
+    "author": "ikeee",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49326276",
+    "id": "news-5070"
+  },
+  {
+    "title": "Claude Code \"Feature Request: Support Agents.md\": Closed as Completed",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49326393 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49326393 Points: 2 # Comments: 1",
+    "author": "deaux",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/claude-code/issues/6235",
+    "id": "news-5069"
+  },
+  {
+    "title": "Idea for Expository AI",
+    "summary": "I've heard some complaints about the frontier models still be bad at explaining math and was thinking of an RL environment that would help might be to:-Take very hard math problem with a verifiable an",
+    "content": "I've heard some complaints about the frontier models still be bad at explaining math and was thinking of an RL environment that would help might be to:-Take very hard math problem with a verifiable answer-Have frontier model explain to a tiny model like (0.5-1B params and provably bad score on the problem) how to solve but not the solution, and reward the frontier model for prompts/explanations that helped the tiny model solve the problemObviously some amount of human supervision is needed to we",
+    "author": "E-Reverance",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49326422",
+    "id": "news-5068"
+  },
+  {
+    "title": "AI Stock Research Assistant · Streamlit",
+    "summary": "Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49326574 Points: 1 # Comments: 0",
+    "content": "Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49326574 Points: 1 # Comments: 0",
+    "author": "KiaanKothari",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ai-stock-research-kiaan.streamlit.app",
+    "id": "news-5067"
+  },
+  {
     "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us Comments URL: https://news.ycombinator.com/item?id=49325596 Points: 2 # Comments:",
     "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us Comments URL: https://news.ycombinator.com/item?id=49325596 Points: 2 # Comments: 0",
