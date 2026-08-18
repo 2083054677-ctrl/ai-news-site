@@ -1,5 +1,70 @@
 [
   {
+    "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+    "summary": "Article URL: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking Comments URL: https://news.ycombinator.com/item?id=49339918 Points: 4 # Comments: 0",
+    "content": "Article URL: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking Comments URL: https://news.ycombinator.com/item?id=49339918 Points: 4 # Comments: 0",
+    "author": "tambourine_man",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+    "id": "news-5103"
+  },
+  {
+    "title": "Every student is cheating with AI",
+    "summary": "Article URL: https://ben.page/cheating Comments URL: https://news.ycombinator.com/item?id=49340134 Points: 5 # Comments: 4",
+    "content": "Article URL: https://ben.page/cheating Comments URL: https://news.ycombinator.com/item?id=49340134 Points: 5 # Comments: 4",
+    "author": "stopachka",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://ben.page/cheating",
+    "id": "news-5102"
+  },
+  {
+    "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
+    "summary": "Article URL: https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b Comments URL: https://news.ycombinator.com/item?id=49",
+    "content": "Article URL: https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b Comments URL: https://news.ycombinator.com/item?id=49340170 Points: 2 # Comments: 0",
+    "author": "josh-scalar",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b",
+    "id": "news-5101"
+  },
+  {
+    "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
+    "summary": "Article URL: https://twitter.com/Quasilocal/status/2089408301427568691 Comments URL: https://news.ycombinator.com/item?id=49340201 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/Quasilocal/status/2089408301427568691 Comments URL: https://news.ycombinator.com/item?id=49340201 Points: 2 # Comments: 0",
+    "author": "pfdietz",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/Quasilocal/status/2089408301427568691",
+    "id": "news-5100"
+  },
+  {
+    "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=itovmsMwus0 Comments URL: https://news.ycombinator.com/item?id=49340602 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=itovmsMwus0 Comments URL: https://news.ycombinator.com/item?id=49340602 Points: 1 # Comments: 0",
+    "author": "navs",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=itovmsMwus0",
+    "id": "news-5099"
+  },
+  {
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "content": "",
