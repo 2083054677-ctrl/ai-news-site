@@ -1,5 +1,97 @@
 [
   {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "summary": "How Much Memory Does Your Agent Actually Need?",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "id": "news-5133"
+  },
+  {
+    "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+    "summary": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, ",
+    "content": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest. The article New benchmark ranks search APIs for AI agents on quality, cost, and speed appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+    "id": "news-5132"
+  },
+  {
+    "title": "David Chalmers asks: When we talk to AI, what are we talking to?",
+    "summary": "Article URL: https://www.youtube.com/watch?v=uUjJOMcNU9w Comments URL: https://news.ycombinator.com/item?id=49349825 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=uUjJOMcNU9w Comments URL: https://news.ycombinator.com/item?id=49349825 Points: 1 # Comments: 0",
+    "author": "tcp_handshaker",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=uUjJOMcNU9w",
+    "id": "news-5131"
+  },
+  {
+    "title": "Everyone wants to be the AI gateway",
+    "summary": "Article URL: https://getlago.substack.com/p/everyone-wants-to-be-the-ai-gateway Comments URL: https://news.ycombinator.com/item?id=49350134 Points: 1 # Comments: 0",
+    "content": "Article URL: https://getlago.substack.com/p/everyone-wants-to-be-the-ai-gateway Comments URL: https://news.ycombinator.com/item?id=49350134 Points: 1 # Comments: 0",
+    "author": "MikeHirt",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://getlago.substack.com/p/everyone-wants-to-be-the-ai-gateway",
+    "id": "news-5130"
+  },
+  {
+    "title": "Google is buying all of Spirit Airlines' data to feed its AI models",
+    "summary": "Article URL: https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data Comments URL: https://news.ycombinator.com/item?id=49350187 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data Comments URL: https://news.ycombinator.com/item?id=49350187 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data",
+    "id": "news-5129"
+  },
+  {
+    "title": "OpenAI Partnering with CodeAI to prepare the first AI generation",
+    "summary": "Article URL: https://openai.com/index/partnering-with-codeai/ Comments URL: https://news.ycombinator.com/item?id=49350191 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/partnering-with-codeai/ Comments URL: https://news.ycombinator.com/item?id=49350191 Points: 1 # Comments: 0",
+    "author": "nateb2022",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/partnering-with-codeai/",
+    "id": "news-5128"
+  },
+  {
+    "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
+    "summary": "Article URL: https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount Comments URL: https://news.ycombinator.com/item?id=49350212 Points: 1 # C",
+    "content": "Article URL: https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount Comments URL: https://news.ycombinator.com/item?id=49350212 Points: 1 # Comments: 0",
+    "author": "01-_-",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
+    "id": "news-5127"
+  },
+  {
     "title": "Claude Driving the Browser == Bad [video]",
     "summary": "Article URL: https://www.youtube.com/watch?v=3Sz-H6GQnuQ Comments URL: https://news.ycombinator.com/item?id=49347910 Points: 1 # Comments: 0",
     "content": "Article URL: https://www.youtube.com/watch?v=3Sz-H6GQnuQ Comments URL: https://news.ycombinator.com/item?id=49347910 Points: 1 # Comments: 0",
