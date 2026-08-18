@@ -1,5 +1,122 @@
 [
   {
+    "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
+    "summary": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those ",
+    "content": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average. The article Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/",
+    "id": "news-5119"
+  },
+  {
+    "title": "OpenAI launches a ChatGPT version built for teens",
+    "summary": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17. The article OpenAI launches a ChatGPT version built for teens appeared first on The Decoder.",
+    "content": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17. The article OpenAI launches a ChatGPT version built for teens appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/",
+    "id": "news-5118"
+  },
+  {
+    "title": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards",
+    "summary": "Andreessen Horowitz is the focus of an antitrust probe by the US Justice Department. The charge is that the firm's partners sit on the boards of competing data firms Databricks and Fivetran at the sam",
+    "content": "Andreessen Horowitz is the focus of an antitrust probe by the US Justice Department. The charge is that the firm's partners sit on the boards of competing data firms Databricks and Fivetran at the same time. The venture capital firm's close ties to the Trump administration add a twist, since it has actively lobbied for the administration's AI deregulation. The article DOJ probes Andreessen Horowitz over partners sitting on competing AI boards appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
+    "id": "news-5117"
+  },
+  {
+    "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
+    "summary": "An opinion piece in the medical journal JAMA argues that autonomous AI will soon outperform any doctor-AI team at medical reasoning tasks. The authors warn against writing a doctor's final say into re",
+    "content": "An opinion piece in the medical journal JAMA argues that autonomous AI will soon outperform any doctor-AI team at medical reasoning tasks. The authors warn against writing a doctor's final say into regulation, but concede that almost all the evidence comes from simulations, not real patient care. The article As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
+    "id": "news-5116"
+  },
+  {
+    "title": "Can autocomplete play chess blindfolded? A journey into applied AI research",
+    "summary": "Article URL: https://alfredvc.no/blog/chess-as-autocomplete Comments URL: https://news.ycombinator.com/item?id=49344519 Points: 1 # Comments: 1",
+    "content": "Article URL: https://alfredvc.no/blog/chess-as-autocomplete Comments URL: https://news.ycombinator.com/item?id=49344519 Points: 1 # Comments: 1",
+    "author": "alfredvc",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://alfredvc.no/blog/chess-as-autocomplete",
+    "id": "news-5115"
+  },
+  {
+    "title": "Taxing AI to Help Workers Sounds Good, but Public Deserves More",
+    "summary": "Article URL: https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more Comments URL: https://news.ycombinator.com/item?id=49344528 Points",
+    "content": "Article URL: https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more Comments URL: https://news.ycombinator.com/item?id=49344528 Points: 2 # Comments: 1",
+    "author": "tldrthelaw",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more",
+    "id": "news-5114"
+  },
+  {
+    "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
+    "summary": "Article URL: https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=49344577 Points: 3 # Comments: 0",
+    "content": "Article URL: https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=49344577 Points: 3 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/",
+    "id": "news-5113"
+  },
+  {
+    "title": "OpenAI Model Spec",
+    "summary": "Article URL: https://model-spec.openai.com/2026-08-18.html Comments URL: https://news.ycombinator.com/item?id=49344579 Points: 1 # Comments: 0",
+    "content": "Article URL: https://model-spec.openai.com/2026-08-18.html Comments URL: https://news.ycombinator.com/item?id=49344579 Points: 1 # Comments: 0",
+    "author": "sha-3",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://model-spec.openai.com/2026-08-18.html",
+    "id": "news-5112"
+  },
+  {
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "summary": "Article URL: https://twitter.com/kuberwastaken/status/2089377982536388964 Comments URL: https://news.ycombinator.com/item?id=49344643 Points: 1 # Comments: 0",
+    "content": "Article URL: https://twitter.com/kuberwastaken/status/2089377982536388964 Comments URL: https://news.ycombinator.com/item?id=49344643 Points: 1 # Comments: 0",
+    "author": "porridgeraisin",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+    "id": "news-5111"
+  },
+  {
     "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
     "summary": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude rea",
     "content": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude reads the existing codebase and matches the current UI style. The article Claude Code gets a /design command that lets developers create UI mockups right in the terminal appeared first on The Decoder.",
