@@ -1,5 +1,31 @@
 [
   {
+    "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
+    "summary": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potential",
+    "content": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potentially beating OpenAI to market. The article Anthropic increases revenue sevenfold, hits annualized rate above $65 billion appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/",
+    "id": "news-5109"
+  },
+  {
+    "title": "AI systems quietly drop user instructions when they compress context",
+    "summary": "When AI systems condense long conversations, they drop an average of 83 percent of user rules, like \"don't send emails without my approval.\" Penn State researchers propose a small add-on module built ",
+    "content": "When AI systems condense long conversations, they drop an average of 83 percent of user rules, like \"don't send emails without my approval.\" Penn State researchers propose a small add-on module built on Qwen3.5-9B that preserves over 90 percent of these restrictions. The article AI systems quietly drop user instructions when they compress context appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
+    "id": "news-5108"
+  },
+  {
     "title": "San Diego 150 Years Ago: Rare AI Reconstruction Visuals [video]",
     "summary": "Article URL: https://www.youtube.com/watch?v=qWaR_nc5sKM Comments URL: https://news.ycombinator.com/item?id=49340969 Points: 2 # Comments: 0",
     "content": "Article URL: https://www.youtube.com/watch?v=qWaR_nc5sKM Comments URL: https://news.ycombinator.com/item?id=49340969 Points: 2 # Comments: 0",
