@@ -1,5 +1,32 @@
 [
   {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/multi-vector-encoder",
+    "id": "news-5121"
+  },
+  {
+    "title": "Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips",
+    "summary": "An open fight over AI regulation has broken out on X. Investor Gavin Baker, former White House adviser David Sacks, and Meta researcher Yann LeCun accuse Anthropic CEO Dario Amodei of using fear rheto",
+    "content": "An open fight over AI regulation has broken out on X. Investor Gavin Baker, former White House adviser David Sacks, and Meta researcher Yann LeCun accuse Anthropic CEO Dario Amodei of using fear rhetoric to buy himself a regulatory advantage. Amodei counters that regulation can also rein in corporate power, and that open models alone just shift power toward the players with the most computing muscle. The article Anthropic CEO says AI centralizes by nature and open models just shift power to whoe",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
+    "id": "news-5120"
+  },
+  {
     "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
     "summary": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those ",
     "content": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average. The article Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying appeared first on The Decoder.",
