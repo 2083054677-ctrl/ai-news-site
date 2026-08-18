@@ -1,5 +1,70 @@
 [
   {
+    "title": "When deny doesn't win: least-privilege permissions for Claude Code",
+    "summary": "Article URL: https://blogs.zethian.com/when-deny-doesnt-win.html Comments URL: https://news.ycombinator.com/item?id=49353249 Points: 1 # Comments: 0",
+    "content": "Article URL: https://blogs.zethian.com/when-deny-doesnt-win.html Comments URL: https://news.ycombinator.com/item?id=49353249 Points: 1 # Comments: 0",
+    "author": "sixthsense",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://blogs.zethian.com/when-deny-doesnt-win.html",
+    "id": "news-5139"
+  },
+  {
+    "title": "AI usage patterns in software teams",
+    "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 1 # Comments: 0",
+    "content": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 1 # Comments: 0",
+    "author": "giuliomagnifico",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://linear.app/data",
+    "id": "news-5138"
+  },
+  {
+    "title": "Show HN: Roost – top for your Claude Code sessions",
+    "summary": "Article URL: https://github.com/gmhoward9289-ops/roost Comments URL: https://news.ycombinator.com/item?id=49353452 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/gmhoward9289-ops/roost Comments URL: https://news.ycombinator.com/item?id=49353452 Points: 1 # Comments: 0",
+    "author": "gmhoward9289",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/gmhoward9289-ops/roost",
+    "id": "news-5137"
+  },
+  {
+    "title": "Tail: A 0–5 scale for how much AI wrote this",
+    "summary": "Article URL: https://beaucronin.com/tail/ Comments URL: https://news.ycombinator.com/item?id=49353472 Points: 1 # Comments: 0",
+    "content": "Article URL: https://beaucronin.com/tail/ Comments URL: https://news.ycombinator.com/item?id=49353472 Points: 1 # Comments: 0",
+    "author": "beaucronin",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://beaucronin.com/tail/",
+    "id": "news-5136"
+  },
+  {
+    "title": "GPT-5.6 Sol: 70% off in Devin",
+    "summary": "Article URL: https://devin.ai/blog/gpt-5-6-sol-promo Comments URL: https://news.ycombinator.com/item?id=49353484 Points: 1 # Comments: 0",
+    "content": "Article URL: https://devin.ai/blog/gpt-5-6-sol-promo Comments URL: https://news.ycombinator.com/item?id=49353484 Points: 1 # Comments: 0",
+    "author": "mirzap",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://devin.ai/blog/gpt-5-6-sol-promo",
+    "id": "news-5135"
+  },
+  {
     "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
     "summary": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert wit",
     "content": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert within 30 minutes if a model shows suspicious behavior. The article OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous appeared first on The Decoder.",
