@@ -1,5 +1,18 @@
 [
   {
+    "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
+    "summary": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude rea",
+    "content": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude reads the existing codebase and matches the current UI style. The article Claude Code gets a /design command that lets developers create UI mockups right in the terminal appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/",
+    "id": "news-5110"
+  },
+  {
     "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
     "summary": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potential",
     "content": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potentially beating OpenAI to market. The article Anthropic increases revenue sevenfold, hits annualized rate above $65 billion appeared first on The Decoder.",
