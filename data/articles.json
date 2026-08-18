@@ -1,5 +1,70 @@
 [
   {
+    "title": "Claude Driving the Browser == Bad [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=3Sz-H6GQnuQ Comments URL: https://news.ycombinator.com/item?id=49347910 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=3Sz-H6GQnuQ Comments URL: https://news.ycombinator.com/item?id=49347910 Points: 1 # Comments: 0",
+    "author": "mooreds",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=3Sz-H6GQnuQ",
+    "id": "news-5126"
+  },
+  {
+    "title": "Claude Code: Over 6k issues labeled \"has repro\" auto-closed since March 2026",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/87647 Comments URL: https://news.ycombinator.com/item?id=49347935 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/anthropics/claude-code/issues/87647 Comments URL: https://news.ycombinator.com/item?id=49347935 Points: 1 # Comments: 1",
+    "author": "marcindulak",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/anthropics/claude-code/issues/87647",
+    "id": "news-5125"
+  },
+  {
+    "title": "My private practice AI policy",
+    "summary": "Article URL: https://jeffs.blog/p/my-private-practice-ai-policy Comments URL: https://news.ycombinator.com/item?id=49348001 Points: 1 # Comments: 0",
+    "content": "Article URL: https://jeffs.blog/p/my-private-practice-ai-policy Comments URL: https://news.ycombinator.com/item?id=49348001 Points: 1 # Comments: 0",
+    "author": "euthymiclabs",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://jeffs.blog/p/my-private-practice-ai-policy",
+    "id": "news-5124"
+  },
+  {
+    "title": "Berlin artist makes people invisible to the city's first AI surveillance cameras",
+    "summary": "Article URL: https://simonweckert.com/digitalcamouflage.html Comments URL: https://news.ycombinator.com/item?id=49348013 Points: 1 # Comments: 0",
+    "content": "Article URL: https://simonweckert.com/digitalcamouflage.html Comments URL: https://news.ycombinator.com/item?id=49348013 Points: 1 # Comments: 0",
+    "author": "dlvr",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://simonweckert.com/digitalcamouflage.html",
+    "id": "news-5123"
+  },
+  {
+    "title": "Tell HN: Cursor has a hidden terminal command for steering its desktop AI agents",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49348049 Points: 1 # Comments: 0",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=49348049 Points: 1 # Comments: 0",
+    "author": "ryanmerket",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49348049",
+    "id": "news-5122"
+  },
+  {
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "content": "",
