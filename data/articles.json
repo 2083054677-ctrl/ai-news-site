@@ -1,5 +1,70 @@
 [
   {
+    "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
+    "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 1",
+    "content": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 1 # Comments: 0",
+    "author": "leumon",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/",
+    "id": "news-5159"
+  },
+  {
+    "title": "OpenAI slows model training to bolster security after Hugging Face hack",
+    "summary": "Article URL: https://www.reuters.com/technology/openai-slows-model-training-bolster-security-after-hugging-face-hack-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49360471 Points: 1 #",
+    "content": "Article URL: https://www.reuters.com/technology/openai-slows-model-training-bolster-security-after-hugging-face-hack-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49360471 Points: 1 # Comments: 0",
+    "author": "ArcHound",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/technology/openai-slows-model-training-bolster-security-after-hugging-face-hack-2026-08-18/",
+    "id": "news-5158"
+  },
+  {
+    "title": "Why Legacy Systems Block Real-Time AI Decision-Making",
+    "summary": "Article URL: https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making Comments URL: https://news.ycombinator.com/item?id=49360513 Points: 1 # Comments: 0",
+    "content": "Article URL: https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making Comments URL: https://news.ycombinator.com/item?id=49360513 Points: 1 # Comments: 0",
+    "author": "mark6",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making",
+    "id": "news-5157"
+  },
+  {
+    "title": "I run AI coding agents as a team with AI DevKit",
+    "summary": "Article URL: https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/ Comments URL: https://news.ycombinator.com/item?id=49360515 Points: 1 # Comments: 0",
+    "content": "Article URL: https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/ Comments URL: https://news.ycombinator.com/item?id=49360515 Points: 1 # Comments: 0",
+    "author": "hoangnnguyen",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/",
+    "id": "news-5156"
+  },
+  {
+    "title": "AI Agents Need Good Management Too",
+    "summary": "Article URL: https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too Comments URL: https://news.ycombinator.com/item?id=49360648 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too Comments URL: https://news.ycombinator.com/item?id=49360648 Points: 1 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too",
+    "id": "news-5155"
+  },
+  {
     "title": "Designing AI with character: what we learned building Berd",
     "summary": "Article URL: https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd Comments URL: https://news.ycombinator.com/item?id=49357223 Points: 1 # Comments: 0",
     "content": "Article URL: https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd Comments URL: https://news.ycombinator.com/item?id=49357223 Points: 1 # Comments: 0",
