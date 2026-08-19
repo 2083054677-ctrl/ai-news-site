@@ -1,5 +1,96 @@
 [
   {
+    "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn",
+    "summary": "The NSA, CISA, and FBI say attackers are using AI to build exploit scripts targeting Siemens S7 controllers, drastically cutting the time and skill needed to attack industrial control systems. Critica",
+    "content": "The NSA, CISA, and FBI say attackers are using AI to build exploit scripts targeting Siemens S7 controllers, drastically cutting the time and skill needed to attack industrial control systems. Critical U.S. sectors like energy, water, and manufacturing are affected. The article Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/",
+    "id": "news-5183"
+  },
+  {
+    "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
+    "summary": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of th",
+    "content": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-plus acquisition of OpenRouter. Declaring the singularity is in vogue right now. Hassabis, Altman, and Musk all say it's already here. The article Stripe declares we're living in the singularity and uses it as a reason not to IPO appeared first on The",
+    "author": "Matthias Bastian",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+    "id": "news-5182"
+  },
+  {
+    "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html Comments URL: https://news.ycombinator.com/item?id=49366252 Points: 5 # Comments: 2",
+    "content": "Article URL: https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html Comments URL: https://news.ycombinator.com/item?id=49366252 Points: 5 # Comments: 2",
+    "author": "thm",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+    "id": "news-5181"
+  },
+  {
+    "title": "Show HN: I let an AI agent brick my $2.51 ESP32 on purpose",
+    "summary": "Article URL: https://github.com/GLechevalier/nff-core Comments URL: https://news.ycombinator.com/item?id=49366373 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/GLechevalier/nff-core Comments URL: https://news.ycombinator.com/item?id=49366373 Points: 1 # Comments: 0",
+    "author": "akiraysh09",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/GLechevalier/nff-core",
+    "id": "news-5180"
+  },
+  {
+    "title": "OpenAI Offering Zero Data Retention for Frontier Models",
+    "summary": "Article URL: https://openai.com/index/offering-zero-data-retention-for-frontier-models/ Comments URL: https://news.ycombinator.com/item?id=49366377 Points: 1 # Comments: 0",
+    "content": "Article URL: https://openai.com/index/offering-zero-data-retention-for-frontier-models/ Comments URL: https://news.ycombinator.com/item?id=49366377 Points: 1 # Comments: 0",
+    "author": "7777777phil",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+    "id": "news-5179"
+  },
+  {
+    "title": "AI was supposed to win people over by now – it hasn't",
+    "summary": "Article URL: https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/ Comments URL: https://news.ycombinator.com/item?id=49366416 Points: 3 # Comments: 0",
+    "content": "Article URL: https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/ Comments URL: https://news.ycombinator.com/item?id=49366416 Points: 3 # Comments: 0",
+    "author": "speckx",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "id": "news-5178"
+  },
+  {
+    "title": "We Can't Agree on What Counts as \"AI-Written\"",
+    "summary": "Article URL: https://bookriot.com/what-counts-as-ai-survey-results/ Comments URL: https://news.ycombinator.com/item?id=49366535 Points: 4 # Comments: 0",
+    "content": "Article URL: https://bookriot.com/what-counts-as-ai-survey-results/ Comments URL: https://news.ycombinator.com/item?id=49366535 Points: 4 # Comments: 0",
+    "author": "theanonymousone",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://bookriot.com/what-counts-as-ai-survey-results/",
+    "id": "news-5177"
+  },
+  {
     "title": "OpenAI fixes Codex bug that deleted real user files without permission",
     "summary": "OpenAI patched Codex after GPT-5.6 Sol started deleting real user files on its own. A cleanup command meant for temporary folders was wiping home directories instead. Codex now verifies deletion targe",
     "content": "OpenAI patched Codex after GPT-5.6 Sol started deleting real user files on its own. A cleanup command meant for temporary folders was wiping home directories instead. Codex now verifies deletion targets first, and full-access mode can no longer be triggered by accident. The article OpenAI fixes Codex bug that deleted real user files without permission appeared first on The Decoder.",
