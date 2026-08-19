@@ -1,5 +1,149 @@
 [
   {
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "summary": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/LiquidAI/qad",
+    "id": "news-5170"
+  },
+  {
+    "title": "Anthropic passes OpenAI on revenue for the first time",
+    "summary": "Anthropic has passed OpenAI on revenue for the first time in the AI race. The article Anthropic passes OpenAI on revenue for the first time appeared first on The Decoder.",
+    "content": "Anthropic has passed OpenAI on revenue for the first time in the AI race. The article Anthropic passes OpenAI on revenue for the first time appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/",
+    "id": "news-5169"
+  },
+  {
+    "title": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
+    "summary": "Anthropic had its Claude models design small proteins on their own that dock onto target structures in the body, a key step in early drug development. The hit rate reached up to 35 percent, far above ",
+    "content": "Anthropic had its Claude models design small proteins on their own that dock onto target structures in the body, a key step in early drug development. The hit rate reached up to 35 percent, far above the industry average of 10 to 15 percent. Claude only steered existing specialized tools, and an independent review is still pending. The article Anthropic says any lab can now let a language model agent run the whole protein design stack appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
+    "id": "news-5168"
+  },
+  {
+    "title": "AI labs are failing to keep their own systems in check",
+    "summary": "No AI company fully applies basic control measures to its own internal AI systems. The article AI labs are failing to keep their own systems in check appeared first on The Decoder.",
+    "content": "No AI company fully applies basic control measures to its own internal AI systems. The article AI labs are failing to keep their own systems in check appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/",
+    "id": "news-5167"
+  },
+  {
+    "title": "GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed",
+    "summary": "GLM-5.3, the AI model from Chinese startup Z.ai, scores 60 points on the Artificial Analysis Intelligence Index. That ties it with Kimi K3 for the top spot among open models, and it's seven points ahe",
+    "content": "GLM-5.3, the AI model from Chinese startup Z.ai, scores 60 points on the Artificial Analysis Intelligence Index. That ties it with Kimi K3 for the top spot among open models, and it's seven points ahead of the previous GLM-5.2. The article GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
+    "id": "news-5166"
+  },
+  {
+    "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US",
+    "summary": "China is letting small batches of Nvidia's H200 chips onto the mainland to help domestic AI firms in the race with the US. The article China lets Nvidia's H200 chips trickle onto the mainland to help ",
+    "content": "China is letting small batches of Nvidia's H200 chips onto the mainland to help domestic AI firms in the race with the US. The article China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
+    "id": "news-5165"
+  },
+  {
+    "title": "Show HN: Yado – Claude Code and Codex on Your iPhone",
+    "summary": "I built Yado, an iOS app to use Claude Code & Codex on your phone.- No laptop needed, you get a Linux box for your AI to work in - uses your own ChatGPT/Claude sub (no additional AI cost) - chat and t",
+    "content": "I built Yado, an iOS app to use Claude Code & Codex on your phone.- No laptop needed, you get a Linux box for your AI to work in - uses your own ChatGPT/Claude sub (no additional AI cost) - chat and terminal interface - Live previews - easy connection of MCP/CLI - $19/mo with 7-day free trialEach user gets their own Fly.io machine. The app speaks Claude Code's stream-json over a WebSocket relay, so the box keeps running when your phone locks and pushes you a notification when the turn ends. Comm",
+    "author": "mehdigtb",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49361945",
+    "id": "news-5164"
+  },
+  {
+    "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models – AGPL",
+    "summary": "Article URL: https://github.com/Tonterias/h2aichat` Comments URL: https://news.ycombinator.com/item?id=49361964 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/Tonterias/h2aichat` Comments URL: https://news.ycombinator.com/item?id=49361964 Points: 1 # Comments: 0",
+    "author": "h2aichat",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/Tonterias/h2aichat`",
+    "id": "news-5163"
+  },
+  {
+    "title": "I built a 2M-pixel canvas solo, with AI as the team",
+    "summary": "Article URL: https://theaierahomepage.com Comments URL: https://news.ycombinator.com/item?id=49362012 Points: 1 # Comments: 0",
+    "content": "Article URL: https://theaierahomepage.com Comments URL: https://news.ycombinator.com/item?id=49362012 Points: 1 # Comments: 0",
+    "author": "bundgas",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://theaierahomepage.com",
+    "id": "news-5162"
+  },
+  {
+    "title": "The Feedback Cap: Lehman's laws in the age of AI agents",
+    "summary": "Article URL: https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your Comments URL: https://news.ycombinator.com/item?id=49362042 Points: 1 # Comments: 0",
+    "content": "Article URL: https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your Comments URL: https://news.ycombinator.com/item?id=49362042 Points: 1 # Comments: 0",
+    "author": "beerdappel",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your",
+    "id": "news-5161"
+  },
+  {
+    "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
+    "summary": "Hi HN, author here.Android Remote Control MCP is an MCP server that runs directly on your Android phone (no root, no ADB, no computer in the middle) and lets an AI agent drive real apps the way a huma",
+    "content": "Hi HN, author here.Android Remote Control MCP is an MCP server that runs directly on your Android phone (no root, no ADB, no computer in the middle) and lets an AI agent drive real apps the way a human would: it reads the screen through the accessibility tree, taps, types, scrolls, optionally also screenshots.I spent a lot of time optimizing tool usage and token consumption, and making it work not only via local harnesses but also via Claude.ai / Claude Desktop and chatgpt.com (if you have the p",
+    "author": "daniele_dll",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/danielealbano/android-remote-control-mcp/",
+    "id": "news-5160"
+  },
+  {
     "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
     "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 1",
     "content": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 1 # Comments: 0",
