@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+    "summary": "Article URL: https://plugos.net/plugclaw/ Comments URL: https://news.ycombinator.com/item?id=49356609 Points: 3 # Comments: 0",
+    "content": "Article URL: https://plugos.net/plugclaw/ Comments URL: https://news.ycombinator.com/item?id=49356609 Points: 3 # Comments: 0",
+    "author": "darkreader",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://plugos.net/plugclaw/",
+    "id": "news-5149"
+  },
+  {
+    "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+    "summary": "Article URL: https://arxiv.org/abs/2608.16834 Comments URL: https://news.ycombinator.com/item?id=49356648 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2608.16834 Comments URL: https://news.ycombinator.com/item?id=49356648 Points: 1 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2608.16834",
+    "id": "news-5148"
+  },
+  {
+    "title": "Ask HN: Are AI credits too locked to individual applications?",
+    "summary": "The problem: I already had AI credits, but those credits were locked to one application.context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the",
+    "content": "The problem: I already had AI credits, but those credits were locked to one application.context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them.Is this actu",
+    "author": "nextma",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49356667",
+    "id": "news-5147"
+  },
+  {
+    "title": "Show HN: 4bit bridge between AI and humans",
+    "summary": "Article URL: https://github.com/YOalphabet/YOalphabet Comments URL: https://news.ycombinator.com/item?id=49356777 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/YOalphabet/YOalphabet Comments URL: https://news.ycombinator.com/item?id=49356777 Points: 1 # Comments: 0",
+    "author": "YOalphabet",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/YOalphabet/YOalphabet",
+    "id": "news-5146"
+  },
+  {
+    "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo Comments URL: https://news.ycombinator.com/item?id=49356812 Points: 1 # Comments: 0",
+    "author": "harambae",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
+    "id": "news-5145"
+  },
+  {
     "title": "How to tame AI's voracious appetite for energy",
     "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters Comments URL: https://news.ycombinator.com/item?id=49354820 Points: 2 ",
     "content": "Article URL: https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters Comments URL: https://news.ycombinator.com/item?id=49354820 Points: 2 # Comments: 0",
