@@ -1,5 +1,70 @@
 [
   {
+    "title": "AI Skills for Real Engineers",
+    "summary": "Article URL: https://master.dev/blog/introducing-ai-skills-for-real-engineers/ Comments URL: https://news.ycombinator.com/item?id=49363080 Points: 1 # Comments: 0",
+    "content": "Article URL: https://master.dev/blog/introducing-ai-skills-for-real-engineers/ Comments URL: https://news.ycombinator.com/item?id=49363080 Points: 1 # Comments: 0",
+    "author": "ibobev",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://master.dev/blog/introducing-ai-skills-for-real-engineers/",
+    "id": "news-5175"
+  },
+  {
+    "title": "Show HN: Flow – Claude Code CLI for feature planning → review/testing → merge",
+    "summary": "Flow is my claude code supervisor for designing epics and shipping features really quickly. It was bootstrapped with itself so you can look at recent PRs to see what it produces.Usage:> flow feature c",
+    "content": "Flow is my claude code supervisor for designing epics and shipping features really quickly. It was bootstrapped with itself so you can look at recent PRs to see what it produces.Usage:> flow feature create 'implement csv exports' --model opus --effort high• triage → plan → git worktree → code → verify → CI → review → merge• pauses only for plan approval and subjective pre-merge validation (if any)> flow epic create 'design app for making money' --model haiku --effort low• (same flow as `feature`",
+    "author": "gavinegolden",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/gavingolden/flow/",
+    "id": "news-5174"
+  },
+  {
+    "title": "H3 Video – MiniMax H3 AI Video Generator",
+    "summary": "Article URL: https://www.h3vid.com Comments URL: https://news.ycombinator.com/item?id=49363263 Points: 2 # Comments: 1",
+    "content": "Article URL: https://www.h3vid.com Comments URL: https://news.ycombinator.com/item?id=49363263 Points: 2 # Comments: 1",
+    "author": "Follow_Cloud",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.h3vid.com",
+    "id": "news-5173"
+  },
+  {
+    "title": "Show HN: LongTerMemory, an AI EdTech Platform",
+    "summary": "Article URL: https://wired.business/longtermemory Comments URL: https://news.ycombinator.com/item?id=49363440 Points: 1 # Comments: 0",
+    "content": "Article URL: https://wired.business/longtermemory Comments URL: https://news.ycombinator.com/item?id=49363440 Points: 1 # Comments: 0",
+    "author": "aledevv",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://wired.business/longtermemory",
+    "id": "news-5172"
+  },
+  {
+    "title": "Claude watermark- science behind it",
+    "summary": "Article URL: https://www.youtube.com/watch?v=FnAqruxx-QE Comments URL: https://news.ycombinator.com/item?id=49363590 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=FnAqruxx-QE Comments URL: https://news.ycombinator.com/item?id=49363590 Points: 1 # Comments: 0",
+    "author": "aymar_99",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=FnAqruxx-QE",
+    "id": "news-5171"
+  },
+  {
     "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
     "summary": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
     "content": "",
