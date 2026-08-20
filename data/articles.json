@@ -1,5 +1,32 @@
 [
   {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "summary": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "id": "news-5211"
+  },
+  {
+    "title": "LLMs could write like humans but post-training guardrails make their text detectable",
+    "summary": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without th",
+    "content": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variety. The article LLMs could write like humans but post-training guardrails make their text detectable appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+    "id": "news-5210"
+  },
+  {
     "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
     "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single de",
     "content": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
