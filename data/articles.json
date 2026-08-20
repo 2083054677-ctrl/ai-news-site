@@ -1,5 +1,96 @@
 [
   {
+    "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
+    "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single de",
+    "content": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
+    "id": "news-5209"
+  },
+  {
+    "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
+    "summary": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model le",
+    "content": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can. The article Frontier Radar #4: China has caught up, so what's left of the Western AI lead? appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
+    "id": "news-5208"
+  },
+  {
+    "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+    "summary": "Article URL: https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960 Comments URL: https://ne",
+    "content": "Article URL: https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960 Comments URL: https://news.ycombinator.com/item?id=49374743 Points: 3 # Comments: 0",
+    "author": "nyku",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+    "id": "news-5207"
+  },
+  {
+    "title": "Hacking with Claude on a $27 Smart Watch",
+    "summary": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 6 # Comments: 2",
+    "content": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 6 # Comments: 2",
+    "author": "speckx",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "id": "news-5206"
+  },
+  {
+    "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
+    "summary": "Article URL: https://github.com/seoskillsai/seo-skills-ai Comments URL: https://news.ycombinator.com/item?id=49374824 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/seoskillsai/seo-skills-ai Comments URL: https://news.ycombinator.com/item?id=49374824 Points: 2 # Comments: 0",
+    "author": "seoskillsai",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/seoskillsai/seo-skills-ai",
+    "id": "news-5205"
+  },
+  {
+    "title": "Using Genius AI Models for Important Things: Cheating at NetHack",
+    "summary": "Article URL: https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html Comments URL: https://news.ycombinator.com/item?id=49374980 Points: 1 # Comments: 0",
+    "content": "Article URL: https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html Comments URL: https://news.ycombinator.com/item?id=49374980 Points: 1 # Comments: 0",
+    "author": "rez0__",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html",
+    "id": "news-5204"
+  },
+  {
+    "title": "Passage AI: an AI trip planner that turns into a live guide when you land",
+    "summary": "Article URL: https://mypassage.ai/ Comments URL: https://news.ycombinator.com/item?id=49375012 Points: 1 # Comments: 0",
+    "content": "Article URL: https://mypassage.ai/ Comments URL: https://news.ycombinator.com/item?id=49375012 Points: 1 # Comments: 0",
+    "author": "edwardvth",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://mypassage.ai/",
+    "id": "news-5203"
+  },
+  {
     "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
     "summary": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expert",
     "content": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling. Sutton's alternative is agents that learn continually from their own experience instead of relying on frozen models. The article KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world appeared first on Th",
