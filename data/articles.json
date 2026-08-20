@@ -1,5 +1,18 @@
 [
   {
+    "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
+    "summary": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expert",
+    "content": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling. Sutton's alternative is agents that learn continually from their own experience instead of relying on frozen models. The article KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world appeared first on Th",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
+    "id": "news-5202"
+  },
+  {
     "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
     "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values ",
     "content": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values of the field: what counts as a contribution, what gets rewarded, and who did the work. His rule of thumb: a proof that no human can explain should be considered incomplete. The article Terence Tao says AI could trigger math's biggest crisis since Gödel appeared first on The Decoder.",
