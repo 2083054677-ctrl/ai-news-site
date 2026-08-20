@@ -1,5 +1,57 @@
 [
   {
+    "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
+    "summary": "Article URL: https://zenodo.org/records/21969180 Comments URL: https://news.ycombinator.com/item?id=49380783 Points: 1 # Comments: 0",
+    "content": "Article URL: https://zenodo.org/records/21969180 Comments URL: https://news.ycombinator.com/item?id=49380783 Points: 1 # Comments: 0",
+    "author": "rayanpal_",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://zenodo.org/records/21969180",
+    "id": "news-5216"
+  },
+  {
+    "title": "Browser automation agents with Pydantic AI and Playwright",
+    "summary": "Article URL: http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html Comments URL: https://news.ycombinator.com/item?id=49380852 Points: 1 # Comments: 0",
+    "content": "Article URL: http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html Comments URL: https://news.ycombinator.com/item?id=49380852 Points: 1 # Comments: 0",
+    "author": "pamelafox",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
+    "id": "news-5215"
+  },
+  {
+    "title": "Show HN: Zero () friction local AI for Mac",
+    "summary": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s fr",
+    "content": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s free, but it’s also a massive headache to configure. So we’ve decided what matters is making the experience completely frictionless for users.Local analyses the hardware of your laptop, optimises the AI for it, and recommends the best models for your specific device.It let’s you do what you’re doing w",
+    "author": "lukasonedge",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.basecompute.co/local",
+    "id": "news-5214"
+  },
+  {
+    "title": "Why the Future of AI Belongs to Systems That Can Self-Learn",
+    "summary": "Article URL: https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f Comments URL: https://news.ycombinator.com/item?id=4938",
+    "content": "Article URL: https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f Comments URL: https://news.ycombinator.com/item?id=49381023 Points: 1 # Comments: 0",
+    "author": "vektormemory",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f",
+    "id": "news-5213"
+  },
+  {
     "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
     "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projec",
     "content": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the platform. The article Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash appeared first on The Decoder.",
