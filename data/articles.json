@@ -1,5 +1,44 @@
 [
   {
+    "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
+    "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values ",
+    "content": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values of the field: what counts as a contribution, what gets rewarded, and who did the work. His rule of thumb: a proof that no human can explain should be considered incomplete. The article Terence Tao says AI could trigger math's biggest crisis since Gödel appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/",
+    "id": "news-5201"
+  },
+  {
+    "title": "China now has its own AI circular financing scheme",
+    "summary": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion. But an FT report shows much of the demand for its robots comes from state-backed training centers that",
+    "content": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion. But an FT report shows much of the demand for its robots comes from state-backed training centers that buy the machines and sell the resulting data back to the manufacturers, a circular business model that echoes the Nvidia criticism in the US. The article China now has its own AI circular financing scheme appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/",
+    "id": "news-5200"
+  },
+  {
+    "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
+    "summary": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude. The article Anthropic's most capable model, codenamed \"Model 2,\" is for internal ",
+    "content": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude. The article Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
+    "id": "news-5199"
+  },
+  {
     "title": "OpenAI builds safety system that catches misuse without storing customer data",
     "summary": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse. The article OpenAI builds safety system that catches misuse without s",
     "content": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse. The article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder.",
