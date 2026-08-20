@@ -1,5 +1,70 @@
 [
   {
+    "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49368840 Point",
+    "content": "Article URL: https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49368840 Points: 3 # Comments: 0",
+    "author": "sbulaev",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+    "id": "news-5185"
+  },
+  {
+    "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+    "summary": "Article URL: https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data Comments URL: https://news.ycombinator.com/item?id=49369063 Points: 1 # Comments:",
+    "content": "Article URL: https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data Comments URL: https://news.ycombinator.com/item?id=49369063 Points: 1 # Comments: 0",
+    "author": "NordStreamYacht",
+    "date": "2026-08-20",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
+    "id": "news-5184"
+  },
+  {
+    "title": "AI Hurtles Ahead",
+    "summary": "Article URL: https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead Comments URL: https://news.ycombinator.com/item?id=49368452 Points: 1 # Comments: 3",
+    "content": "Article URL: https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead Comments URL: https://news.ycombinator.com/item?id=49368452 Points: 1 # Comments: 3",
+    "author": "rzk",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead",
+    "id": "news-5188"
+  },
+  {
+    "title": "AI-Powered Cyberattacks",
+    "summary": "Article URL: https://www.opswat.com/blog/ai-powered-cyberattacks Comments URL: https://news.ycombinator.com/item?id=49368496 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.opswat.com/blog/ai-powered-cyberattacks Comments URL: https://news.ycombinator.com/item?id=49368496 Points: 1 # Comments: 0",
+    "author": "bps1418",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.opswat.com/blog/ai-powered-cyberattacks",
+    "id": "news-5187"
+  },
+  {
+    "title": "If You're Not Studying for Retention, Just Use AI",
+    "summary": "Article URL: https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai Comments URL: https://news.ycombinator.com/item?id=49368725 Points: 3 # Comments: 1",
+    "content": "Article URL: https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai Comments URL: https://news.ycombinator.com/item?id=49368725 Points: 3 # Comments: 1",
+    "author": "f18m",
+    "date": "2026-08-19",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai",
+    "id": "news-5186"
+  },
+  {
     "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn",
     "summary": "The NSA, CISA, and FBI say attackers are using AI to build exploit scripts targeting Siemens S7 controllers, drastically cutting the time and skill needed to attack industrial control systems. Critica",
     "content": "The NSA, CISA, and FBI say attackers are using AI to build exploit scripts targeting Siemens S7 controllers, drastically cutting the time and skill needed to attack industrial control systems. Critical U.S. sectors like energy, water, and manufacturing are affected. The article Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn appeared first on The Decoder.",
