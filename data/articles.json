@@ -1,5 +1,57 @@
 [
   {
+    "title": "Claude driving an autonomous RC car [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=jBpQiv-ZlVM Comments URL: https://news.ycombinator.com/item?id=49382698 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=jBpQiv-ZlVM Comments URL: https://news.ycombinator.com/item?id=49382698 Points: 1 # Comments: 0",
+    "author": "nreece",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=jBpQiv-ZlVM",
+    "id": "news-5220"
+  },
+  {
+    "title": "Show HN: ImageSage – Photo manager using Local AI on Windows",
+    "summary": "Article URL: https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=49382825 Points: 1 # Comments: 1",
+    "content": "Article URL: https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=49382825 Points: 1 # Comments: 1",
+    "author": "ringlochid",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
+    "id": "news-5219"
+  },
+  {
+    "title": "Beatport Bans AI-Produced Tracks from Platform",
+    "summary": "Article URL: https://thequietus.com/news/beatport-bans-ai-produced-tracks-from-platform/ Comments URL: https://news.ycombinator.com/item?id=49382972 Points: 1 # Comments: 0",
+    "content": "Article URL: https://thequietus.com/news/beatport-bans-ai-produced-tracks-from-platform/ Comments URL: https://news.ycombinator.com/item?id=49382972 Points: 1 # Comments: 0",
+    "author": "cdrnsf",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://thequietus.com/news/beatport-bans-ai-produced-tracks-from-platform/",
+    "id": "news-5218"
+  },
+  {
+    "title": "Claude Academy",
+    "summary": "Article URL: https://academy.claude.com/ Comments URL: https://news.ycombinator.com/item?id=49383043 Points: 1 # Comments: 0",
+    "content": "Article URL: https://academy.claude.com/ Comments URL: https://news.ycombinator.com/item?id=49383043 Points: 1 # Comments: 0",
+    "author": "luispa",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://academy.claude.com/",
+    "id": "news-5217"
+  },
+  {
     "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
     "summary": "Article URL: https://zenodo.org/records/21969180 Comments URL: https://news.ycombinator.com/item?id=49380783 Points: 1 # Comments: 0",
     "content": "Article URL: https://zenodo.org/records/21969180 Comments URL: https://news.ycombinator.com/item?id=49380783 Points: 1 # Comments: 0",
