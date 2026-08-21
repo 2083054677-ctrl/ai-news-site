@@ -1,5 +1,44 @@
 [
   {
+    "title": "OpenAI's GPT-Image-2 can now generate images without a background",
+    "summary": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background re",
+    "content": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background removal. A single parameter activates the feature. The article OpenAI's GPT-Image-2 can now generate images without a background appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
+    "id": "news-5227"
+  },
+  {
+    "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+    "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in busines",
+    "content": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time after Anthropic had overtaken OpenAI in quarterly revenue. The article GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+    "id": "news-5226"
+  },
+  {
+    "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
+    "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 emp",
+    "content": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
+    "id": "news-5225"
+  },
+  {
     "title": "OpenAI Is Backing Away from Reddit as Reddit Tries to Become OpenAI?",
     "summary": "Article URL: https://gizmodo.com/openai-is-backing-away-from-reddit-as-reddit-tries-to-become-openai-2000800060 Comments URL: https://news.ycombinator.com/item?id=49384270 Points: 5 # Comments: 1",
     "content": "Article URL: https://gizmodo.com/openai-is-backing-away-from-reddit-as-reddit-tries-to-become-openai-2000800060 Comments URL: https://news.ycombinator.com/item?id=49384270 Points: 5 # Comments: 1",
