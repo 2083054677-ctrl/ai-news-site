@@ -1,5 +1,70 @@
 [
   {
+    "title": "Anthropic changes data retention policy after enterprise pushback",
+    "summary": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward. The article Anthropic changes data retention policy after enterprise pushback",
+    "content": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward. The article Anthropic changes data retention policy after enterprise pushback appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
+    "id": "news-5232"
+  },
+  {
+    "title": "The new kingmakers: Crypto, AI, betting firms fuel record spending on midterms",
+    "summary": "Article URL: https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=493859",
+    "content": "Article URL: https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49385907 Points: 2 # Comments: 0",
+    "author": "thm",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
+    "id": "news-5231"
+  },
+  {
+    "title": "American AI May Not Survive Chinese Open-Source",
+    "summary": "Article URL: https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese Comments URL: https://news.ycombinator.com/item?id=49385940 Points: 1 # Comments: 2",
+    "content": "Article URL: https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese Comments URL: https://news.ycombinator.com/item?id=49385940 Points: 1 # Comments: 2",
+    "author": "ForHackernews",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese",
+    "id": "news-5230"
+  },
+  {
+    "title": "I Tried build AI web vulnerable scanner",
+    "summary": "Article URL: https://github.com/tX-c0re/xss-grenade Comments URL: https://news.ycombinator.com/item?id=49386036 Points: 1 # Comments: 1",
+    "content": "Article URL: https://github.com/tX-c0re/xss-grenade Comments URL: https://news.ycombinator.com/item?id=49386036 Points: 1 # Comments: 1",
+    "author": "txc0re",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/tX-c0re/xss-grenade",
+    "id": "news-5229"
+  },
+  {
+    "title": "Nouswise Review: AI Research Agent and Thinking Partner",
+    "summary": "Article URL: https://delavo.de/en/writing/nouswise-ai-research-agent/ Comments URL: https://news.ycombinator.com/item?id=49386039 Points: 1 # Comments: 0",
+    "content": "Article URL: https://delavo.de/en/writing/nouswise-ai-research-agent/ Comments URL: https://news.ycombinator.com/item?id=49386039 Points: 1 # Comments: 0",
+    "author": "realsarm",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://delavo.de/en/writing/nouswise-ai-research-agent/",
+    "id": "news-5228"
+  },
+  {
     "title": "OpenAI's GPT-Image-2 can now generate images without a background",
     "summary": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background re",
     "content": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background removal. A single parameter activates the feature. The article OpenAI's GPT-Image-2 can now generate images without a background appeared first on The Decoder.",
