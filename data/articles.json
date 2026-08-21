@@ -1,5 +1,44 @@
 [
   {
+    "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
+    "summary": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 percent are \"strongly opposed.\" The article D",
+    "content": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 percent are \"strongly opposed.\" The article Data center opposition surged from 42 to 75 percent in just one year, survey finds appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
+    "id": "news-5249"
+  },
+  {
+    "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+    "summary": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approach",
+    "content": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it. The article Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+    "id": "news-5248"
+  },
+  {
+    "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+    "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches",
+    "content": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches. Anthropic is also plugging Mythos 5 into partner security products protecting critical infrastructure. The article Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense appeared first on The Decoder.",
+    "author": "Matthias Bastian",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+    "id": "news-5247"
+  },
+  {
     "title": "OpenAI Codex Security Quoted in iOS 26.6.1 en iPadOS 26.6.1",
     "summary": "Article URL: https://support.apple.com/en-us/148282 Comments URL: https://news.ycombinator.com/item?id=49391823 Points: 2 # Comments: 0",
     "content": "Article URL: https://support.apple.com/en-us/148282 Comments URL: https://news.ycombinator.com/item?id=49391823 Points: 2 # Comments: 0",
