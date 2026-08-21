@@ -1,5 +1,70 @@
 [
   {
+    "title": "Making Audio Stories Interactive with AI: The Story of Schmaudio",
+    "summary": "Article URL: http://www.dennisweyland.net/blog/?p=175 Comments URL: https://news.ycombinator.com/item?id=49393468 Points: 2 # Comments: 0",
+    "content": "Article URL: http://www.dennisweyland.net/blog/?p=175 Comments URL: https://news.ycombinator.com/item?id=49393468 Points: 2 # Comments: 0",
+    "author": "skchang",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "http://www.dennisweyland.net/blog/?p=175",
+    "id": "news-5254"
+  },
+  {
+    "title": "The OpenAI–Hugging Face Incident in Plain English",
+    "summary": "Article URL: https://philippdubach.com/posts/openai-hugging-face-incident-plain-english/ Comments URL: https://news.ycombinator.com/item?id=49393532 Points: 1 # Comments: 0",
+    "content": "Article URL: https://philippdubach.com/posts/openai-hugging-face-incident-plain-english/ Comments URL: https://news.ycombinator.com/item?id=49393532 Points: 1 # Comments: 0",
+    "author": "7777777phil",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://philippdubach.com/posts/openai-hugging-face-incident-plain-english/",
+    "id": "news-5253"
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "summary": "Article URL: https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/ Comments URL: https://news.ycombinator.com/item?id=49393647 Points: 10 # Comme",
+    "content": "Article URL: https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/ Comments URL: https://news.ycombinator.com/item?id=49393647 Points: 10 # Comments: 1",
+    "author": "dthread3",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "id": "news-5252"
+  },
+  {
+    "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-ga",
+    "content": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases Comments URL: https://news.ycombinator.com/item?id=49393952 Points: 3 # Comments: 1",
+    "author": "gmays",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
+    "id": "news-5251"
+  },
+  {
+    "title": "80% of developers find AI coding more addictive than helpful",
+    "summary": "Article URL: https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/ Comments URL: https://news.ycombinator.com/item?id=49394186 Points: 3 # Comments: 0",
+    "content": "Article URL: https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/ Comments URL: https://news.ycombinator.com/item?id=49394186 Points: 3 # Comments: 0",
+    "author": "CrankyBear",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+    "id": "news-5250"
+  },
+  {
     "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
     "summary": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 percent are \"strongly opposed.\" The article D",
     "content": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 percent are \"strongly opposed.\" The article Data center opposition surged from 42 to 75 percent in just one year, survey finds appeared first on The Decoder.",
