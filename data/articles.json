@@ -1,5 +1,84 @@
 [
   {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "summary": "Measuring benchmark optimization in speech recognition",
+    "content": "",
+    "author": "Hugging Face Blog",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "开源",
+      "大模型"
+    ],
+    "source": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "id": "news-5240"
+  },
+  {
+    "title": "Nvidia's Switchyard router reshuffles AI models mid-task to cut task costs",
+    "summary": "Article URL: https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests Comments URL: https://news.ycombinator.com/ite",
+    "content": "Article URL: https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests Comments URL: https://news.ycombinator.com/item?id=49388335 Points: 2 # Comments: 0",
+    "author": "gmays",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+    "id": "news-5239"
+  },
+  {
+    "title": "Show HN:Over 50 AI-assisted books on science fiction and original philosophy",
+    "summary": "I’ve just made public a collection of more than 50 science fiction and philosophy books written with AI assistance. The books are part of an European research project exploring how AI-assisted books c",
+    "content": "I’ve just made public a collection of more than 50 science fiction and philosophy books written with AI assistance. The books are part of an European research project exploring how AI-assisted books can be created, evaluated, and analyzed. They are meant to be genuinely readable, and many of them develop unusual perspectives and ideas in good depth. I’d be very interested in feedback from the HN community—on the writing, the ideas, the research direction, or the project itself. Comments URL: htt",
+    "author": "outfinity",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.axiologic.net/books.html",
+    "id": "news-5238"
+  },
+  {
+    "title": "An offline, free, private AI text detector with no signup or paywall",
+    "summary": "Article URL: https://capytoolkit.com/tools/text/offline-private-ai-text-detector/ Comments URL: https://news.ycombinator.com/item?id=49388580 Points: 1 # Comments: 0",
+    "content": "Article URL: https://capytoolkit.com/tools/text/offline-private-ai-text-detector/ Comments URL: https://news.ycombinator.com/item?id=49388580 Points: 1 # Comments: 0",
+    "author": "ChillyCapy",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://capytoolkit.com/tools/text/offline-private-ai-text-detector/",
+    "id": "news-5237"
+  },
+  {
+    "title": "Show HN: Parselbox – an embeddable Python sandbox for AI agents",
+    "summary": "Article URL: https://github.com/thesanjeetc/parselbox Comments URL: https://news.ycombinator.com/item?id=49388608 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/thesanjeetc/parselbox Comments URL: https://news.ycombinator.com/item?id=49388608 Points: 1 # Comments: 0",
+    "author": "sanjeetc",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/thesanjeetc/parselbox",
+    "id": "news-5236"
+  },
+  {
+    "title": "Are We Thinking Correctly About AI Intelligence?",
+    "summary": "Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49388634 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49388634 Points: 1 # Comments: 0",
+    "author": "Brajeshwar",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+    "id": "news-5235"
+  },
+  {
     "title": "Meta spends hundreds of millions on Microsoft's AI services",
     "summary": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg. The article Meta spends hundreds of millions on Microsoft's AI services appeared first on The Decoder.",
     "content": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg. The article Meta spends hundreds of millions on Microsoft's AI services appeared first on The Decoder.",
