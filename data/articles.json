@@ -1,5 +1,70 @@
 [
   {
+    "title": "OpenAI Codex Security Quoted in iOS 26.6.1 en iPadOS 26.6.1",
+    "summary": "Article URL: https://support.apple.com/en-us/148282 Comments URL: https://news.ycombinator.com/item?id=49391823 Points: 2 # Comments: 0",
+    "content": "Article URL: https://support.apple.com/en-us/148282 Comments URL: https://news.ycombinator.com/item?id=49391823 Points: 2 # Comments: 0",
+    "author": "janandonly",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://support.apple.com/en-us/148282",
+    "id": "news-5246"
+  },
+  {
+    "title": "How Much of the Internet Is Written with AI?",
+    "summary": "Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49391907 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49391907 Points: 1 # Comments: 0",
+    "author": "karakoram",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+    "id": "news-5245"
+  },
+  {
+    "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+    "summary": "Article URL: https://twitter.com/ananayarora/status/2090742255284031537 Comments URL: https://news.ycombinator.com/item?id=49391959 Points: 2 # Comments: 0",
+    "content": "Article URL: https://twitter.com/ananayarora/status/2090742255284031537 Comments URL: https://news.ycombinator.com/item?id=49391959 Points: 2 # Comments: 0",
+    "author": "binyu",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://twitter.com/ananayarora/status/2090742255284031537",
+    "id": "news-5244"
+  },
+  {
+    "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
+    "summary": "Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn't use it enough to justify $50/month for classes, so I vibe coded https://poorleton.fit/ over the weekend to h",
+    "content": "Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn't use it enough to justify $50/month for classes, so I vibe coded https://poorleton.fit/ over the weekend to have AI generated cycling classes.Let me know what you think. Comments URL: https://news.ycombinator.com/item?id=49391976 Points: 1 # Comments: 0",
+    "author": "amclennon",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://poorleton.fit",
+    "id": "news-5243"
+  },
+  {
+    "title": "I Worked at OpenAI. Here Are the Guardrails We Need Now",
+    "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed Comments URL: https://news.ycombinator.com/item?id=49391992 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed Comments URL: https://news.ycombinator.com/item?id=49391992 Points: 1 # Comments: 0",
+    "author": "karakoram",
+    "date": "2026-08-21",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
+    "id": "news-5242"
+  },
+  {
     "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
     "summary": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters. The article US wants to force partner countries to",
     "content": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters. The article US wants to force partner countries to choose between Washington and Beijing in the AI race appeared first on The Decoder.",
