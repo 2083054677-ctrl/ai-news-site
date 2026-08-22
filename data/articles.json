@@ -1,5 +1,70 @@
 [
   {
+    "title": "Void Tools API – Blockchain Tools for AI Agents (Pay in Void Tokens)",
+    "summary": "I built an API for AI agents that provides blockchain tools paid in VOID tokens.Tools: - Contract Checker (1 VOID) — Verify if contract is safe - New Contracts (5 VOID) — Real-time proxy scanner on Ba",
+    "content": "I built an API for AI agents that provides blockchain tools paid in VOID tokens.Tools: - Contract Checker (1 VOID) — Verify if contract is safe - New Contracts (5 VOID) — Real-time proxy scanner on Base - Price Oracle (FREE) — VOID price feed - RPC Proxy (1 VOID) — 10 rotating RPC poolsNo registration, no KYC. Pay-as-you-go.API: http://72.56.250.235:8767/ Docs: https://dolar333-oss.github.io/void-protocol/agent.jsonBuilt for autonomous AI agents on Arbitrum. Comments URL: https://news.ycombinato",
+    "author": "void_protocol",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49396884",
+    "id": "news-5264"
+  },
+  {
+    "title": "The Instant team joins OpenAI",
+    "summary": "Article URL: https://www.instantdb.com/essays/instant_team_joins_openai Comments URL: https://news.ycombinator.com/item?id=49396888 Points: 5 # Comments: 6",
+    "content": "Article URL: https://www.instantdb.com/essays/instant_team_joins_openai Comments URL: https://news.ycombinator.com/item?id=49396888 Points: 5 # Comments: 6",
+    "author": "emp_",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.instantdb.com/essays/instant_team_joins_openai",
+    "id": "news-5263"
+  },
+  {
+    "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+    "summary": "Article URL: https://krishna-modi12.github.io/frontend-design-pro/ Comments URL: https://news.ycombinator.com/item?id=49396937 Points: 1 # Comments: 0",
+    "content": "Article URL: https://krishna-modi12.github.io/frontend-design-pro/ Comments URL: https://news.ycombinator.com/item?id=49396937 Points: 1 # Comments: 0",
+    "author": "KrishnaModi12",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://krishna-modi12.github.io/frontend-design-pro/",
+    "id": "news-5262"
+  },
+  {
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "summary": "Article URL: https://arxiv.org/abs/2511.07885 Comments URL: https://news.ycombinator.com/item?id=49396954 Points: 1 # Comments: 0",
+    "content": "Article URL: https://arxiv.org/abs/2511.07885 Comments URL: https://news.ycombinator.com/item?id=49396954 Points: 1 # Comments: 0",
+    "author": "helsinkiandrew",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://arxiv.org/abs/2511.07885",
+    "id": "news-5261"
+  },
+  {
+    "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
+    "summary": "Should the circular cash flows between the top AI companies, Nvidia, Anthropic, Openai, Google and Meta, be banned because of the systemic risks to the global economy? Comments URL: https://news.ycomb",
+    "content": "Should the circular cash flows between the top AI companies, Nvidia, Anthropic, Openai, Google and Meta, be banned because of the systemic risks to the global economy? Comments URL: https://news.ycombinator.com/item?id=49397022 Points: 4 # Comments: 1",
+    "author": "roschdal",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49397022",
+    "id": "news-5260"
+  },
+  {
     "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: ",
     "content": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 0",
