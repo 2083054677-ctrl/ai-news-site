@@ -1,5 +1,83 @@
 [
   {
+    "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
+    "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. ",
+    "content": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. Even weaker language models using this approach outperform stronger models without mental modeling. The biggest bottleneck: predicting how physical and mental states change together. The article World models that ignore human beliefs predict the wrong actions, new research shows appeared first on Th",
+    "author": "Jonathan Kemper",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+    "id": "news-5273"
+  },
+  {
+    "title": "Rights-infringing copies of \"NEINhorn\": Carlsen sues OpenAI",
+    "summary": "Article URL: https://www.heise.de/en/news/Rights-infringing-copies-of-NEINhorn-Carlsen-sues-OpenAI-11420677.html Comments URL: https://news.ycombinator.com/item?id=49397842 Points: 2 # Comments: 0",
+    "content": "Article URL: https://www.heise.de/en/news/Rights-infringing-copies-of-NEINhorn-Carlsen-sues-OpenAI-11420677.html Comments URL: https://news.ycombinator.com/item?id=49397842 Points: 2 # Comments: 0",
+    "author": "wodniok",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.heise.de/en/news/Rights-infringing-copies-of-NEINhorn-Carlsen-sues-OpenAI-11420677.html",
+    "id": "news-5272"
+  },
+  {
+    "title": "Ask HN: Is there a \"knowledge base\" of expert insights for Claude?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49397880 Points: 1 # Comments: 2",
+    "content": "Comments URL: https://news.ycombinator.com/item?id=49397880 Points: 1 # Comments: 2",
+    "author": "iosifnicolae2",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.ycombinator.com/item?id=49397880",
+    "id": "news-5271"
+  },
+  {
+    "title": "Embedded AI",
+    "summary": "Article URL: https://nostarch.com/embedded-ai Comments URL: https://news.ycombinator.com/item?id=49397947 Points: 2 # Comments: 0",
+    "content": "Article URL: https://nostarch.com/embedded-ai Comments URL: https://news.ycombinator.com/item?id=49397947 Points: 2 # Comments: 0",
+    "author": "0x54MUR41",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nostarch.com/embedded-ai",
+    "id": "news-5270"
+  },
+  {
+    "title": "Math Academy – How Our AI Works",
+    "summary": "Article URL: https://www.mathacademy.com/how-our-ai-works Comments URL: https://news.ycombinator.com/item?id=49398120 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.mathacademy.com/how-our-ai-works Comments URL: https://news.ycombinator.com/item?id=49398120 Points: 1 # Comments: 0",
+    "author": "olvy0",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.mathacademy.com/how-our-ai-works",
+    "id": "news-5269"
+  },
+  {
+    "title": "CyberStrike – open-source AI harness for offensive security (AGPL)",
+    "summary": "Article URL: https://github.com/CyberStrikeus/CyberStrike Comments URL: https://news.ycombinator.com/item?id=49398125 Points: 2 # Comments: 1",
+    "content": "Article URL: https://github.com/CyberStrikeus/CyberStrike Comments URL: https://news.ycombinator.com/item?id=49398125 Points: 2 # Comments: 1",
+    "author": "orhanyildirim",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/CyberStrikeus/CyberStrike",
+    "id": "news-5268"
+  },
+  {
     "title": "Psychological methods reveal major weaknesses in AI security testing",
     "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can ar",
     "content": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day. The study also offers a method for catching models that act more cautious during tests than they do in normal use. The article Psychological methods reveal major weaknesses in AI security testing appeared first on The D",
