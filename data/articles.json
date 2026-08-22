@@ -1,5 +1,57 @@
 [
   {
+    "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
+    "summary": "Article URL: https://knoku.com Comments URL: https://news.ycombinator.com/item?id=49399334 Points: 1 # Comments: 0",
+    "content": "Article URL: https://knoku.com Comments URL: https://news.ycombinator.com/item?id=49399334 Points: 1 # Comments: 0",
+    "author": "knoku",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://knoku.com",
+    "id": "news-5283"
+  },
+  {
+    "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
+    "summary": "Article URL: https://github.com/pawaca/dsh-edge Comments URL: https://news.ycombinator.com/item?id=49399811 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/pawaca/dsh-edge Comments URL: https://news.ycombinator.com/item?id=49399811 Points: 2 # Comments: 0",
+    "author": "pawaca",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/pawaca/dsh-edge",
+    "id": "news-5282"
+  },
+  {
+    "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
+    "summary": "Article URL: https://github.com/kidus-tiliksew/conveyor Comments URL: https://news.ycombinator.com/item?id=49399837 Points: 1 # Comments: 0",
+    "content": "Article URL: https://github.com/kidus-tiliksew/conveyor Comments URL: https://news.ycombinator.com/item?id=49399837 Points: 1 # Comments: 0",
+    "author": "kidustiliksew",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/kidus-tiliksew/conveyor",
+    "id": "news-5281"
+  },
+  {
+    "title": "Going out of my way to prove I'm not an AI – Ep. #1 – OG images",
+    "summary": "Article URL: https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images Comments URL: https://news.ycombinator.com/item?id=49399851 Points: 2 # Comments: 1",
+    "content": "Article URL: https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images Comments URL: https://news.ycombinator.com/item?id=49399851 Points: 2 # Comments: 1",
+    "author": "Doncametic",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images",
+    "id": "news-5280"
+  },
+  {
     "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
     "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill l",
     "content": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and harder time finding the right set of instructions. The article Study explains why AI agents benefit from \"skills\" and when they fail appeared first on The Decoder.",
