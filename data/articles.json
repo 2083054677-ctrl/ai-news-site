@@ -1,5 +1,83 @@
 [
   {
+    "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+    "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill l",
+    "content": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and harder time finding the right set of instructions. The article Study explains why AI agents benefit from \"skills\" and when they fail appeared first on The Decoder.",
+    "author": "Maximilian Schreiner",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "研究"
+    ],
+    "source": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+    "id": "news-5279"
+  },
+  {
+    "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+    "summary": "Article URL: https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts Comments URL: https://news.ycombinator.com/item?id=49398609 Points: 3 # Co",
+    "content": "Article URL: https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts Comments URL: https://news.ycombinator.com/item?id=49398609 Points: 3 # Comments: 2",
+    "author": "biglyburrito",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+    "id": "news-5278"
+  },
+  {
+    "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
+    "summary": "Article URL: https://trymangoai.com Comments URL: https://news.ycombinator.com/item?id=49398747 Points: 2 # Comments: 0",
+    "content": "Article URL: https://trymangoai.com Comments URL: https://news.ycombinator.com/item?id=49398747 Points: 2 # Comments: 0",
+    "author": "nexad_william",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://trymangoai.com",
+    "id": "news-5277"
+  },
+  {
+    "title": "How Claude's Text Watermarking Works [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=tLv7qRWFMlw Comments URL: https://news.ycombinator.com/item?id=49398752 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.youtube.com/watch?v=tLv7qRWFMlw Comments URL: https://news.ycombinator.com/item?id=49398752 Points: 1 # Comments: 0",
+    "author": "Anon84",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.youtube.com/watch?v=tLv7qRWFMlw",
+    "id": "news-5276"
+  },
+  {
+    "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
+    "summary": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html Comments URL: https://news.ycombinator.com/item?id=49398763 Points: 1 # Comments: 0",
+    "content": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html Comments URL: https://news.ycombinator.com/item?id=49398763 Points: 1 # Comments: 0",
+    "author": "doener",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
+    "id": "news-5275"
+  },
+  {
+    "title": "Claude Code Adds Concise Output Style Option",
+    "summary": "Article URL: https://digg.com/tech/fktxxvtg Comments URL: https://news.ycombinator.com/item?id=49398966 Points: 1 # Comments: 0",
+    "content": "Article URL: https://digg.com/tech/fktxxvtg Comments URL: https://news.ycombinator.com/item?id=49398966 Points: 1 # Comments: 0",
+    "author": "hmokiguess",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://digg.com/tech/fktxxvtg",
+    "id": "news-5274"
+  },
+  {
     "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
     "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. ",
     "content": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. Even weaker language models using this approach outperform stronger models without mental modeling. The biggest bottleneck: predicting how physical and mental states change together. The article World models that ignore human beliefs predict the wrong actions, new research shows appeared first on Th",
