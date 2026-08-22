@@ -1,5 +1,44 @@
 [
   {
+    "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
+    "summary": "Article URL: https://github.com/debabratasaha-dev/techskills Comments URL: https://news.ycombinator.com/item?id=49401893 Points: 2 # Comments: 0",
+    "content": "Article URL: https://github.com/debabratasaha-dev/techskills Comments URL: https://news.ycombinator.com/item?id=49401893 Points: 2 # Comments: 0",
+    "author": "debabrata_saha",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://github.com/debabratasaha-dev/techskills",
+    "id": "news-5290"
+  },
+  {
+    "title": "When AI art has no author: Generated images can't trace to training data (study)",
+    "summary": "Article URL: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818 Comments URL: https://news.ycombinator.com/item?id=49402040 Points: 2 # Com",
+    "content": "Article URL: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818 Comments URL: https://news.ycombinator.com/item?id=49402040 Points: 2 # Comments: 0",
+    "author": "em3rgent0rdr",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+    "id": "news-5289"
+  },
+  {
+    "title": "Why your local LLM feels dumber than it is",
+    "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 1 # Comments: 0",
+    "content": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 1 # Comments: 0",
+    "author": "felineflock",
+    "date": "2026-08-22",
+    "tags": [
+      "AI",
+      "行业"
+    ],
+    "source": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "id": "news-5288"
+  },
+  {
     "title": "Claude Watermarks AI-Generated Text",
     "summary": "Article URL: https://magazine.sebastianraschka.com/p/claude-watermarking Comments URL: https://news.ycombinator.com/item?id=49400307 Points: 1 # Comments: 0",
     "content": "Article URL: https://magazine.sebastianraschka.com/p/claude-watermarking Comments URL: https://news.ycombinator.com/item?id=49400307 Points: 1 # Comments: 0",
